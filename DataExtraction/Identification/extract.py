@@ -95,7 +95,7 @@ with sync_playwright() as p:
         # Save progress after every page
         # ----------------------------
         pd.DataFrame(all_rows).to_csv(
-            "plants.csv",
+            "identity.csv",
             index=False,
             encoding="utf-8-sig"
         )
@@ -128,7 +128,7 @@ with sync_playwright() as p:
 df = pd.DataFrame(all_rows)
 
 df.to_csv(
-    "plants.csv",
+    "identity.csv",
     index=False,
     encoding="utf-8-sig"
 )

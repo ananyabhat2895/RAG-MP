@@ -5,7 +5,7 @@ import re
 # Load CSV
 # ============================================
 
-df = pd.read_csv("plants.csv")
+df = pd.read_csv("identity.csv")
 
 # ============================================
 # Define column names
@@ -121,7 +121,7 @@ df = df.reset_index(drop=True)
 # Save cleaned dataset
 # ============================================
 
-output_file = "plants_cleaned.csv"
+output_file = "identity_cleaned.csv"
 
 df.to_csv(
     output_file,
