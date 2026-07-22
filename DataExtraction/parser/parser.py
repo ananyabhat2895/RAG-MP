@@ -285,9 +285,9 @@ if __name__ == "__main__":
     import json
     from tqdm import tqdm
 
-    INPUT_CSV = "links.csv"
-    OUTPUT_CSV = "plant_details.csv"
-    OUTPUT_JSON = "plant_details.json"
+    INPUT_CSV = "../links/links.csv"
+    OUTPUT_CSV = "../parser/plant_details.csv"
+    OUTPUT_JSON = "../parser/plant_details.json"
 
     # Read links from CSV
     df = pd.read_csv(INPUT_CSV)
