@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c2b6f28bda260c4e__vernacular_names__001",
+  "plant_id": "plant_c2b6f28bda260c4e",
+  "plant_name": "Neptunia oleracea Lour.",
+  "botanical_name": "Neptunia oleracea",
+  "botanical_authority": "LOUR.",
+  "family": "MIMOSACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): water neptunia\nHindi (3): laj-alu, lajalu, lajjalu\nKannada (1): nidrayam\nMalayalam (4): nirtottavati, niti-todda-vaddi, nittitoddavaddi, nittitottavati\nMarathi (1): lajri\nSanskrit (1): Sanskrit CommentsX alambusa\nTamil (5): cuntaikkirai, sadai, sundaikkirai, sundaykiray, suntaikkirai\nTelugu (3): nidrayam, nirutalavapu, nirutalvapu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/660961673f8c6ebaad7e9fa0e1674c42"
+  ],
+  "source_record_ids": [
+    "links-1706"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/660961673f8c6ebaad7e9fa0e1674c42"
+    ],
+    "source_record_ids": [
+      "links-1706"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/660961673f8c6ebaad7e9fa0e1674c42",
+          "Plant Name": "Neptunia oleracea Lour.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Neptunia oleracea Lour.",
+        "source_record_id": "links-1706",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/660961673f8c6ebaad7e9fa0e1674c42"
+      }
+    ],
+    "source_xplant_id": "660961673f8c6ebaad7e9fa0e1674c42",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

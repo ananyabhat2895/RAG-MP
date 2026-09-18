@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_cd0b0efd33ce6ef3__vernacular_names__001",
+  "plant_id": "plant_cd0b0efd33ce6ef3",
+  "plant_name": "Carum Roxburghianum (DC) Craib.",
+  "botanical_name": "Trachyspermum roxburghianum",
+  "botanical_authority": "(DC.) CRAIB",
+  "family": "APIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (7): ajmod, ajmot, ajmud, ajmuda, ajowan, radhuni, randhuni\nKannada (3): ajamodhavoma, ajmodavama, voma\nMalayalam (2): ayamodakam, homam\nSanskrit (4): Sanskrit CommentsX ajamoda, ajamoja, ayamoda, kharasva\nTamil (51): acamata, acamatakam, acamatakavomam, acamatakovomam, acamatam, acamotakam, acamotakam 1, acamotam, acamotam 1, acamtakam, acamtaomam, acatti, acuvam, acuvan, asamtavomam, asham-tagam, ashamtagam, ashamtavomam, ashmata-omam, erivakal, erivakal 1, evankam, evankam 1, evankanam, evankanam 1, evarakan, kokirkentan, kokkirkentan, kunmampokki, motacceti, navanakam, navanakam 1, navancam, navancam#, navanitam, okatotikacceti, okatotikam, okkam, okkam 1, omam, panrukacceti, panrukam, pantukacceti, pantukam, pantukam 1, pucavan, tipayam, titcaratcini, vanikacceti, vanikam, vatakapacamani\nTelugu (7): ajumoda, ajumodavomam, ajumodavomaru, ashumadagavomam, omamu, vamu, vovo",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de4d1df014cf5312e958df4df1806039/xclkon/6b2601bec467a4dd8f4a15e9bd127db7"
+  ],
+  "source_record_ids": [
+    "links-0051"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de4d1df014cf5312e958df4df1806039/xclkon/6b2601bec467a4dd8f4a15e9bd127db7"
+    ],
+    "source_record_ids": [
+      "links-0051"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de4d1df014cf5312e958df4df1806039/xclkon/6b2601bec467a4dd8f4a15e9bd127db7",
+          "Plant Name": "Carum Roxburghianum (DC) Craib.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Carum Roxburghianum (DC) Craib.",
+        "source_record_id": "links-0051",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de4d1df014cf5312e958df4df1806039/xclkon/6b2601bec467a4dd8f4a15e9bd127db7"
+      }
+    ],
+    "source_xplant_id": "de4d1df014cf5312e958df4df1806039",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

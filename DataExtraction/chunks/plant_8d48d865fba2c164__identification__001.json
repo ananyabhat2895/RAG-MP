@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_8d48d865fba2c164__identification__001",
+  "plant_id": "plant_8d48d865fba2c164",
+  "plant_name": "Gossypium barbadens Linn.",
+  "botanical_name": "Gossypium barbadense",
+  "botanical_authority": "L.",
+  "family": "MALVACEAE",
+  "section": "identification",
+  "content": "Plant name: Gossypium barbadens Linn. Botanical name: Gossypium barbadense Botanical authority: L. Family: MALVACEAE Source xplant ID: 2e9de53dda2afa55e7504f65322d6946",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e9de53dda2afa55e7504f65322d6946"
+  ],
+  "source_record_ids": [
+    "links-0982",
+    "links-0983"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e9de53dda2afa55e7504f65322d6946"
+    ],
+    "source_record_ids": [
+      "links-0982",
+      "links-0983"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e9de53dda2afa55e7504f65322d6946",
+          "Plant Name": "Gossypium barbadens Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gossypium barbadens Linn.",
+        "source_record_id": "links-0982",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e9de53dda2afa55e7504f65322d6946"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e9de53dda2afa55e7504f65322d6946",
+          "Plant Name": "Gossypium barbadense Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gossypium barbadense Linn.",
+        "source_record_id": "links-0983",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e9de53dda2afa55e7504f65322d6946"
+      }
+    ],
+    "source_xplant_id": "2e9de53dda2afa55e7504f65322d6946",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

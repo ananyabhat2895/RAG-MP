@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_27060408715fb658__bibliography__001",
+  "plant_id": "plant_27060408715fb658",
+  "plant_name": "Flacourtia sepiaria Roxb.",
+  "botanical_name": "Flacourtia indica",
+  "botanical_authority": "(BURM.F.)",
+  "family": "FLACOURTIACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - V.V. SIVARAJAN AND INDIRA BALACHANDRAN; title: Title - AYURVEDIC DRUGS AND THEIR PLANT SOURCES\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - WHITELAW AINSLIE; title: Title - MATERIA INDICA\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nBibliography entry: title: Title - FLORA OF ASSAM\nBibliography entry: title: Title - Flora of Bankura District(West Bengal)\nBibliography entry: title: Title - Flora of Rajasthan Vol. 1\nBibliography entry: title: Title - Flora of Chamba District (Himachal Pradesh)\nBibliography entry: title: Title - The Flora of Kerala Vol I\nBibliography entry: title: Title - Flora of West Bengal Vol 1\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I\nBibliography entry: title: Title - FLORA OF INDIA VOL 2\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol I\nBibliography entry: title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-1\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - The Flora of Orissa Volume 1\nBibliography entry: title: Title - Flora of Gujarat State Vol 1\nBibliography entry: title: Title - Flora of Tons Valley (Uttaranchal)\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2/xclkon/dd7d4036a32c36b7fc7182560be7f1c2",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2"
+  ],
+  "source_record_ids": [
+    "links-1050",
+    "links-2101"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2/xclkon/dd7d4036a32c36b7fc7182560be7f1c2",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2"
+    ],
+    "source_record_ids": [
+      "links-1050",
+      "links-2101"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2/xclkon/dd7d4036a32c36b7fc7182560be7f1c2",
+          "Plant Name": "Flacourtia sepiaria Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Flacourtia sepiaria Roxb.",
+        "source_record_id": "links-1050",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2/xclkon/dd7d4036a32c36b7fc7182560be7f1c2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2",
+          "Plant Name": "Flacourtia indica Merr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Flacourtia indica Merr.",
+        "source_record_id": "links-2101",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2"
+      }
+    ],
+    "source_xplant_id": "0a51b919c7926844e164c464ec8d28e2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

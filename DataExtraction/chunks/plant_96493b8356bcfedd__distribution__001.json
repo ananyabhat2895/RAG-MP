@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_96493b8356bcfedd__distribution__001",
+  "plant_id": "plant_96493b8356bcfedd",
+  "plant_name": "Alstonia scholaris R. Br.",
+  "botanical_name": "Alstonia scholaris",
+  "botanical_authority": "R.BR.",
+  "family": "APOCYNACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - A.E. Osmaston; distribution: Distribution; title: Title - A Forest Flora for Kumaon\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - HARIDASAN K & RAO R R; distribution: Distribution; title: Title - FOREST FLORA OF MEGHALAYA VOL 2\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ca05ad5b6726d1810b9927a421efeaad"
+  ],
+  "source_record_ids": [
+    "links-1736"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ca05ad5b6726d1810b9927a421efeaad"
+    ],
+    "source_record_ids": [
+      "links-1736"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ca05ad5b6726d1810b9927a421efeaad",
+          "Plant Name": "Alstonia scholaris R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alstonia scholaris R. Br.",
+        "source_record_id": "links-1736",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ca05ad5b6726d1810b9927a421efeaad"
+      }
+    ],
+    "source_xplant_id": "ca05ad5b6726d1810b9927a421efeaad",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

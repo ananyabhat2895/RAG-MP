@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_0f5085043b5ac726__identification__001",
+  "plant_id": "plant_0f5085043b5ac726",
+  "plant_name": "Capparis zeylanica Linn.",
+  "botanical_name": "Capparis zeylanica",
+  "botanical_authority": "L.",
+  "family": "CAPPARACEAE",
+  "section": "identification",
+  "content": "Plant name: Capparis zeylanica Linn. Botanical name: Capparis zeylanica Botanical authority: L. Family: CAPPARACEAE Source xplant ID: 58291bd7c778fcf41269749eb9425e36",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58291bd7c778fcf41269749eb9425e36",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58291bd7c778fcf41269749eb9425e36/xclkon/fe8d7c17a19192cf997ca8ec6288231e"
+  ],
+  "source_record_ids": [
+    "links-0537",
+    "links-0713"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58291bd7c778fcf41269749eb9425e36",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58291bd7c778fcf41269749eb9425e36/xclkon/fe8d7c17a19192cf997ca8ec6288231e"
+    ],
+    "source_record_ids": [
+      "links-0537",
+      "links-0713"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58291bd7c778fcf41269749eb9425e36",
+          "Plant Name": "Capparis zeylanica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Capparis zeylanica Linn.",
+        "source_record_id": "links-0537",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58291bd7c778fcf41269749eb9425e36"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58291bd7c778fcf41269749eb9425e36/xclkon/fe8d7c17a19192cf997ca8ec6288231e",
+          "Plant Name": "Capparis horrida Linn. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Capparis horrida Linn. f.",
+        "source_record_id": "links-0713",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58291bd7c778fcf41269749eb9425e36/xclkon/fe8d7c17a19192cf997ca8ec6288231e"
+      }
+    ],
+    "source_xplant_id": "58291bd7c778fcf41269749eb9425e36",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

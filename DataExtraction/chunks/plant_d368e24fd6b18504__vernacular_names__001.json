@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_d368e24fd6b18504__vernacular_names__001",
+  "plant_id": "plant_d368e24fd6b18504",
+  "plant_name": "Baliospermum montanum Muell- Arg.",
+  "botanical_name": "Baliospermum solanifolium",
+  "botanical_authority": "(J.BURM.) SURESH",
+  "family": "EUPHORBIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (9): dante, danti, dantt, hakni, hakum, hakun, hakuna, jangli jamalghota, jangli-jamalgota\nKannada (7): danthi, danti, dantika, kaadu haralu, kaduharalu, naaga danti, naagadanthi\nMalayalam (9): danti, dantika, katalavanakku, naga-danti, nagadanti, nakadanti, nervalam, niradimuttu, niratimuttu\nMarathi (3): buktumbo, danti, jamalgot\nSanskrit (46): Sanskrit CommentsX a, anukheti, anukula, artagala, bhadra, danti, danti-nana, dantika, dravanti, erandapatri, erandaphala, gunapriya, jayapala, kakubha, kumbhachitra, kumbhi, kurantaka, madhupushpa, makulaka, makunaka, mukulaka, nagadanti, nagasphota, nepala, nikumba, nikumbha, nikumbhah, nikumbhi, nishalya, nishkumbha, pratyakparni, pratyaksreni, raktadanti, rechani, ruksha, shighra, shwetaghanta, shyenaghanta, sighra, taruni, udumbaraparni, upachitra, upakulya, varahangi, vishalya, vishodhini\nTamil (28): appaiccevakacceti, appaiccevakam, cimai amanakku, cimaiyamanakku@, ilantanamanakku, irancani1, kanniyucari, kanniyucaricceti, kattamanakku, kattamanakku2, kattamankku, kumpam2, maniyamanakku 2, maniyamanakkucceti, nagdanti, nakatanti, nepalam2, nir adimuttu, niradimuttu, niratimuttu2, nirettimuttu, nirvetti2, parankiyamanakku 2, peyamanakku, shimai-amanakku, tanti3, timpalai, turuvati\nTelugu (9): erradundiga, ettadundiga, kanaka pata, kanakapaata, kanakapata, kondamudamu, neelajidi, nela jidi, nelajidi\nTibetan (2): da nti, da-nti",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/9880ad72c7fc698adc45355595f69f38"
+  ],
+  "source_record_ids": [
+    "links-0482",
+    "links-0483"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/9880ad72c7fc698adc45355595f69f38"
+    ],
+    "source_record_ids": [
+      "links-0482",
+      "links-0483"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/9880ad72c7fc698adc45355595f69f38",
+          "Plant Name": "Baliospermum montanum Muell- Arg.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Baliospermum montanum Muell- Arg.",
+        "source_record_id": "links-0482",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/9880ad72c7fc698adc45355595f69f38"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/9880ad72c7fc698adc45355595f69f38",
+          "Plant Name": "Baliospermum montanum Muell.-Arg.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Baliospermum montanum Muell.-Arg.",
+        "source_record_id": "links-0483",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/9880ad72c7fc698adc45355595f69f38"
+      }
+    ],
+    "source_xplant_id": "f6de86c1e86de21e2adc9d900f6090cd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_91f86a90a9d52ca2__systems_of_medicine__001",
+  "plant_id": "plant_91f86a90a9d52ca2",
+  "plant_name": "Wrightia tinctoria R. Br.",
+  "botanical_name": "Wrightia tinctoria",
+  "botanical_authority": "R.BR.",
+  "family": "APOCYNACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Homeopathy\nSystem of medicine: Folk",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d438c664779b95c696936e5d6d52365"
+  ],
+  "source_record_ids": [
+    "links-1148"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d438c664779b95c696936e5d6d52365"
+    ],
+    "source_record_ids": [
+      "links-1148"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d438c664779b95c696936e5d6d52365",
+          "Plant Name": "Wrightia tinctoria R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Wrightia tinctoria R. Br.",
+        "source_record_id": "links-1148",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d438c664779b95c696936e5d6d52365"
+      }
+    ],
+    "source_xplant_id": "8d438c664779b95c696936e5d6d52365",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

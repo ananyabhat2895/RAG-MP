@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d0d8872faa73d29c__vernacular_names__001",
+  "plant_id": "plant_d0d8872faa73d29c",
+  "plant_name": "Luffa echinata Roxb.",
+  "botanical_name": "Luffa echinata",
+  "botanical_authority": "ROXB.",
+  "family": "CUCURBITACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (14): bidali, bindaal, dutar toru, duttar-toru, ghagara-bela, ghagarabela, ghagerbel, ghusarana, jangli-tori, kakora, khaksi, kukurlata, sonaiya, vandala\nKannada (4): daevadaali, daevadangaar, daevadangari, devadangar\nMarathi (6): daevadaagaree, daevadangaree, devadali, devadangari, kukadvel, kukdavel\nSanskrit (38): Sanskrit CommentsX akhuvishaka, bandala, chaturangaka, dali, deodalika, deotada, devadali, devatadaka, devatadakah, devedali, garagari, ghora, ghosha, gudajarih, hini, jihnutaka, jimuta, jimutaka, jimutakah, kadamba, kantaphala, karkati, kataphala, kharasparsha, koshaphala, kukkuti, lomasapatrika, lomashapatrika, pita, saha, saramushika, tarkari, turangika, veni, vishaghni, vishaha, vratakosha, vrittakosha\nTamil (12): kocaratacitta, kukaitali2, navalokakkalimpupokki, neyppirkku, nuraippirkku, panibira, peyppirkku, tevatali, tevatalicakkoti, tevatalicam, viraittailamcutankatti, vitiputpacam\nTelugu (2): paanibira, panibira\nTibetan (1): dji mu ta ka",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/517e75a67d453c30d1fb46f62bc5d87e"
+  ],
+  "source_record_ids": [
+    "links-0501"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/517e75a67d453c30d1fb46f62bc5d87e"
+    ],
+    "source_record_ids": [
+      "links-0501"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/517e75a67d453c30d1fb46f62bc5d87e",
+          "Plant Name": "Luffa echinata Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Luffa echinata Roxb.",
+        "source_record_id": "links-0501",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/517e75a67d453c30d1fb46f62bc5d87e"
+      }
+    ],
+    "source_xplant_id": "517e75a67d453c30d1fb46f62bc5d87e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

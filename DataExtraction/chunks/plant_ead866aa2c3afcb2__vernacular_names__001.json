@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_ead866aa2c3afcb2__vernacular_names__001",
+  "plant_id": "plant_ead866aa2c3afcb2",
+  "plant_name": "Leea macrophylla Roxb.",
+  "botanical_name": "Leea macrophylla",
+  "botanical_authority": "ROXB. EX HORN.",
+  "family": "LEEACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (4): dholsamudra, dholshumoodra, samoodraka, samudraka\nKannada (1): mandala gadde\nMarathi (3): dimdo, dinda, jino\nSanskrit (8): Sanskrit CommentsX dhola samudrika, dholasamudrika, hastikanda, hastikarnapalasha, hastiparni, kekidanda, morata, samudraka\nTelugu (2): peddapayagillaaku, peddapayagillaku",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf139623c345de113aa95d9aee260869"
+  ],
+  "source_record_ids": [
+    "links-0698",
+    "links-0699",
+    "links-0701"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf139623c345de113aa95d9aee260869"
+    ],
+    "source_record_ids": [
+      "links-0698",
+      "links-0699",
+      "links-0701"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf139623c345de113aa95d9aee260869",
+          "Plant Name": "Leea macrophylla Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Leea macrophylla Roxb.",
+        "source_record_id": "links-0698",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf139623c345de113aa95d9aee260869"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf139623c345de113aa95d9aee260869",
+          "Plant Name": "Leea macrophylla Roxb. ex Hornem.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Leea macrophylla Roxb. ex Hornem.",
+        "source_record_id": "links-0699",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf139623c345de113aa95d9aee260869"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf139623c345de113aa95d9aee260869",
+          "Plant Name": "Leea macrophylla",
+          "Status": "Found"
+        },
+        "source_plant_name": "Leea macrophylla",
+        "source_record_id": "links-0701",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf139623c345de113aa95d9aee260869"
+      }
+    ],
+    "source_xplant_id": "bf139623c345de113aa95d9aee260869",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

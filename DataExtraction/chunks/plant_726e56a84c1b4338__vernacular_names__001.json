@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_726e56a84c1b4338__vernacular_names__001",
+  "plant_id": "plant_726e56a84c1b4338",
+  "plant_name": "Prunus cerasoides D. Don.",
+  "botanical_name": "Prunus cerasoides",
+  "botanical_authority": "D.DON",
+  "family": "ROSACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (12): alu-bhukara, alucha, padam, paddam, padmakashtha, painya, paja, pajia, patmakath, patmakh, paya, phaja\nKannada (1): padmaka\nMalayalam (3): patimukam, patimukham, patumukam\nMarathi (3): padmaka, padmakaashta, padmakastha\nSanskrit (26): Sanskrit CommentsX charu, ha, hima, kaidara, kedaraja, malaya, maleya, padmagandhi, padmaka, padmakah, padmakam, padmakasthah, padmaksh, padmaksha, padmanaluka, padmavhaya, padmavriksha, patalapushpavarnaka, patalaputrasanibha, pita, pitaka, pitarakta, rakta, shitala, shubha, sugrabha\nTamil (1): patumugam\nTelugu (1): padmakla\nTibetan (3): sug ba, sug pa, sug-pa\nUrdu (1): padmakh",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1"
+  ],
+  "source_record_ids": [
+    "links-1414",
+    "links-1415",
+    "links-1416"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1"
+    ],
+    "source_record_ids": [
+      "links-1414",
+      "links-1415",
+      "links-1416"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1",
+          "Plant Name": "Prunus cerasoides D. Don.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Prunus cerasoides D. Don.",
+        "source_record_id": "links-1414",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1",
+          "Plant Name": "Prunus cerasoides D. Don. var. majestica ingram",
+          "Status": "Found"
+        },
+        "source_plant_name": "Prunus cerasoides D. Don. var. majestica ingram",
+        "source_record_id": "links-1415",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1",
+          "Plant Name": "Prunus cerasoides D. Don. var. rubeus ingram",
+          "Status": "Found"
+        },
+        "source_plant_name": "Prunus cerasoides D. Don. var. rubeus ingram",
+        "source_record_id": "links-1416",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1"
+      }
+    ],
+    "source_xplant_id": "5522ff065cc5f789461e2a2a48bb6ca1",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

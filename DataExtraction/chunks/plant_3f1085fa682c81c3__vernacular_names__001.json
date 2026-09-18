@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_3f1085fa682c81c3__vernacular_names__001",
+  "plant_id": "plant_3f1085fa682c81c3",
+  "plant_name": "Iris ensata Thunb.",
+  "botanical_name": "Iris ensata",
+  "botanical_authority": "THUNB.",
+  "family": "IRIDACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): japanese iris\nHindi (2): irisa, sosun\nSanskrit (1): Sanskrit CommentsX haimavati\nUrdu (9): airsa, asmani, asmanjoni, beikh-e-sosun, irisa, irsa, irsa (sosan), sausan, sosun",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17d9ad4cdc84b5351797987cde65a379"
+  ],
+  "source_record_ids": [
+    "links-0675",
+    "links-1429"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17d9ad4cdc84b5351797987cde65a379"
+    ],
+    "source_record_ids": [
+      "links-0675",
+      "links-1429"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17d9ad4cdc84b5351797987cde65a379",
+          "Plant Name": "Iris ensata Thunb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Iris ensata Thunb.",
+        "source_record_id": "links-0675",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17d9ad4cdc84b5351797987cde65a379"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17d9ad4cdc84b5351797987cde65a379",
+          "Plant Name": "Iris ensata thunb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Iris ensata thunb.",
+        "source_record_id": "links-1429",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17d9ad4cdc84b5351797987cde65a379"
+      }
+    ],
+    "source_xplant_id": "17d9ad4cdc84b5351797987cde65a379",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

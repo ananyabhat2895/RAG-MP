@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_66df674f05496083__vernacular_names__001",
+  "plant_id": "plant_66df674f05496083",
+  "plant_name": "Marsilea minuta Linn.",
+  "botanical_name": "Marsilea minuta",
+  "botanical_authority": "L.",
+  "family": "MARSILEACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): cat s feet\nMalayalam (1): niraral\nSanskrit (3): Sanskrit CommentsX catuspatri, sunisannah, sunisannaka\nTibetan (2): yu ni sa nna ka, yu ni sna ka",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c15fb23de218f7f200e7f2d57247b9f"
+  ],
+  "source_record_ids": [
+    "links-1866"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c15fb23de218f7f200e7f2d57247b9f"
+    ],
+    "source_record_ids": [
+      "links-1866"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c15fb23de218f7f200e7f2d57247b9f",
+          "Plant Name": "Marsilea minuta Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Marsilea minuta Linn.",
+        "source_record_id": "links-1866",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c15fb23de218f7f200e7f2d57247b9f"
+      }
+    ],
+    "source_xplant_id": "9c15fb23de218f7f200e7f2d57247b9f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

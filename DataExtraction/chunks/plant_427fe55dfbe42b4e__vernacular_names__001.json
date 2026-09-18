@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_427fe55dfbe42b4e__vernacular_names__001",
+  "plant_id": "plant_427fe55dfbe42b4e",
+  "plant_name": "Solanum indicum",
+  "botanical_name": "Solanum anguivi",
+  "botanical_authority": "LAM.",
+  "family": "SOLANACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (22): ban bhatta, ban tambaku, ban tobacco, ban tobaccoo, bantobacco, barhanta, barhata, barikatai, bhatakataiya, bhtkataya, bhui ringna, bhui-ringna, bhut kataia, bhutkataiya, birhatta, dolari-ringa, dolri ringna, kandiari, kattarha, kolsi, lagwal, vadikadheri\nKannada (29): badane, biligulle, bitthi gulla, chunde, gulla, habbagulla, habbugulla, hebbagulle, kaadu sonde, kachi, kaci, kadchunde, kaduchunde, kadusonde, kallante, kamanca, kamancha, kamanja, kempu gulla, kempugulla, kiriguligida, kirigulla, mullu habbu gulla, oedema, ramgulla, sonde, vanavrntaki, vayasa, vayase\nMalayalam (17): cerucunda, cerucunta, ceruvalutina, cheru-chunta, cheruchunda, cheruchunta, cheruvaladana, cheruvalutina, cheruvazhutina, chunde, chunta, cunta, nilavalutina, nilavazhutina, puttiriccunta, scheru-schunda, valutina\nMarathi (11): chinchardi, ddolimoola, dorli, mothi-ringani, moti ringani, mottiringanee, ran-vayangini, ranrigni, ringani, simsarti, thorlidorli\nSanskrit (46): Sanskrit CommentsX akranta, alpaphala, asprasi, bahupatri, bhantaki, bhunimbah, brahati, brhati, brihati, brihatika, dovadi, hinguli, kantakari, kantakarika, kantakini, kanthalu, kanthatanu, katphala, kranta, kshudrabhanta, kshudrabhantaki, kshudravartaki, ksudrabhantaki, ksudrabrhati, kuli, lata, mahadvyaghri, mahati, mahatikranta, mahotika, paravedi, prasaha, raktapaki, rashtrika, simhi, sinhi, sinhika, sparsa, sthulabhandaki, sthulakantha, torani, vanavrintaki, vartaki, vrhati, vrihati, vyaghri\nTamil (44): celumai, chiru vazhuthalai, cinkikam, ciruvalutalai 2, ciruvalutunai 2, kandal, kantavisa, karcci, kari mulli, kari-mulli, karimulli, kerci, kulicinki, kuttuchadikkandangattarai, moolie vayr, mulkatri, mulli, mullikkattiri, mundagam, naimulli, naymulli, pappara mulli, pappara-mulli, papparamulli, pappramulli, papramuli, peratti, perumuttirikam, pettamulam, petti, piturkkattiri, puttiriccuntai, siruvaludalai, talava, tamakanti, tavanatcamaci, tittakarutti, toni, tutpiratatcani, valutunai, varattalaku 2, varttaki, vazhuthunai, vazudunai\nTelugu (29): adavi uchinta, adaviyuccinta, adaviyuchinta, adivi utchinta, callamulaga, challa mulaga, challamulaga, chitti mulaga, chittimulaga, chittimulagu, cittimulaga, kaakimaachi, kaka-machi, kakamachi, kakamunci, kaki mulaga, kakimachi, kakimaci, mulla vankaaya, nalla mulaka, nallamulaga, nallamulaka, tella-mulaka, tellamoolaka, tellamulaka, thellamulaka, usthakaya, vankudu, varthaki\nTibetan (4): bri ha ti, bri-ha-ti, sim-hi, sri ha ti",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2/xclkon/014ee9436ba3b3b4d4dfff54fddddd72"
+  ],
+  "source_record_ids": [
+    "links-0391",
+    "links-0392"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2/xclkon/014ee9436ba3b3b4d4dfff54fddddd72"
+    ],
+    "source_record_ids": [
+      "links-0391",
+      "links-0392"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2/xclkon/014ee9436ba3b3b4d4dfff54fddddd72",
+          "Plant Name": "Solanum indicum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum indicum",
+        "source_record_id": "links-0391",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2/xclkon/014ee9436ba3b3b4d4dfff54fddddd72"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2/xclkon/014ee9436ba3b3b4d4dfff54fddddd72",
+          "Plant Name": "Solanum indicum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum indicum Linn.",
+        "source_record_id": "links-0392",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2/xclkon/014ee9436ba3b3b4d4dfff54fddddd72"
+      }
+    ],
+    "source_xplant_id": "3557bcc2088029a90eab184cfd7ff1e2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

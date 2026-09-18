@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_380e40b70c84cb33__distribution__001",
+  "plant_id": "plant_380e40b70c84cb33",
+  "plant_name": "Dolichos biflorus Linn.",
+  "botanical_name": "Macrotyloma uniflorum",
+  "botanical_authority": "(LAM.) VERDC.",
+  "family": "FABACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1\nDistribution entry: author: Author - Dr. Narain Singh Chauhan; distribution: Distribution; title: Title - Medicinal and Aromatic Plants of Himachal Pradesh\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16e1d08182cf90b7c5f7cc027e6ccbfd/xclkon/96ebc8330fbca94a4980f9ce670fb4bd"
+  ],
+  "source_record_ids": [
+    "links-1108"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16e1d08182cf90b7c5f7cc027e6ccbfd/xclkon/96ebc8330fbca94a4980f9ce670fb4bd"
+    ],
+    "source_record_ids": [
+      "links-1108"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16e1d08182cf90b7c5f7cc027e6ccbfd/xclkon/96ebc8330fbca94a4980f9ce670fb4bd",
+          "Plant Name": "Dolichos biflorus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dolichos biflorus Linn.",
+        "source_record_id": "links-1108",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16e1d08182cf90b7c5f7cc027e6ccbfd/xclkon/96ebc8330fbca94a4980f9ce670fb4bd"
+      }
+    ],
+    "source_xplant_id": "16e1d08182cf90b7c5f7cc027e6ccbfd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

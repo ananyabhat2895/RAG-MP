@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_8fa56de58f442e4a__identification__001",
+  "plant_id": "plant_8fa56de58f442e4a",
+  "plant_name": "Amorphophallus campanulatus Blume.",
+  "botanical_name": "Amorphophallus paeoniifolius",
+  "botanical_authority": "(DENNST.) NICOLSON var. campanulatus (DECNE.) SIVADASAN",
+  "family": "ARACEAE",
+  "section": "identification",
+  "content": "Plant name: Amorphophallus campanulatus Blume. Botanical name: Amorphophallus paeoniifolius Botanical authority: (DENNST.) NICOLSON var. campanulatus (DECNE.) SIVADASAN Family: ARACEAE Source xplant ID: a8e45e0c947b54ff55829326cce9168e",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8e45e0c947b54ff55829326cce9168e/xclkon/0c92e068c67a38f36a9c98751792431a"
+  ],
+  "source_record_ids": [
+    "links-1874",
+    "links-1875"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8e45e0c947b54ff55829326cce9168e/xclkon/0c92e068c67a38f36a9c98751792431a"
+    ],
+    "source_record_ids": [
+      "links-1874",
+      "links-1875"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8e45e0c947b54ff55829326cce9168e/xclkon/0c92e068c67a38f36a9c98751792431a",
+          "Plant Name": "Amorphophallus campanulatus Blume.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Amorphophallus campanulatus Blume.",
+        "source_record_id": "links-1874",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8e45e0c947b54ff55829326cce9168e/xclkon/0c92e068c67a38f36a9c98751792431a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8e45e0c947b54ff55829326cce9168e/xclkon/0c92e068c67a38f36a9c98751792431a",
+          "Plant Name": "Amorphophallus campanulatus Blume. Var. blumei Pra",
+          "Status": "Found"
+        },
+        "source_plant_name": "Amorphophallus campanulatus Blume. Var. blumei Pra",
+        "source_record_id": "links-1875",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8e45e0c947b54ff55829326cce9168e/xclkon/0c92e068c67a38f36a9c98751792431a"
+      }
+    ],
+    "source_xplant_id": "a8e45e0c947b54ff55829326cce9168e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

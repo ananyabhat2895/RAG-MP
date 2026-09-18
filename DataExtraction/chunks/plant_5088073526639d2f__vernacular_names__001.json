@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_5088073526639d2f__vernacular_names__001",
+  "plant_id": "plant_5088073526639d2f",
+  "plant_name": "Aconitum palmatum D. Don",
+  "botanical_name": "Aconitum bisma",
+  "botanical_authority": "(HAM.) RAPAICS",
+  "family": "RANUNCULACEAE",
+  "section": "vernacular_names",
+  "content": "Sanskrit (3): Sanskrit CommentsX ativisa, bikhma, prativisa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1dd4bdb4fdf04a0c3cac083768bd8de8/xclkon/6f37388d3ce6a637065ac4063cbd2fa0"
+  ],
+  "source_record_ids": [
+    "links-0243",
+    "links-1537",
+    "links-1538"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1dd4bdb4fdf04a0c3cac083768bd8de8/xclkon/6f37388d3ce6a637065ac4063cbd2fa0"
+    ],
+    "source_record_ids": [
+      "links-0243",
+      "links-1537",
+      "links-1538"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1dd4bdb4fdf04a0c3cac083768bd8de8/xclkon/6f37388d3ce6a637065ac4063cbd2fa0",
+          "Plant Name": "Aconitum palmatum D. Don",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aconitum palmatum D. Don",
+        "source_record_id": "links-0243",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1dd4bdb4fdf04a0c3cac083768bd8de8/xclkon/6f37388d3ce6a637065ac4063cbd2fa0"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1dd4bdb4fdf04a0c3cac083768bd8de8/xclkon/6f37388d3ce6a637065ac4063cbd2fa0",
+          "Plant Name": "Aconitum palmatum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aconitum palmatum",
+        "source_record_id": "links-1537",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1dd4bdb4fdf04a0c3cac083768bd8de8/xclkon/6f37388d3ce6a637065ac4063cbd2fa0"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1dd4bdb4fdf04a0c3cac083768bd8de8/xclkon/6f37388d3ce6a637065ac4063cbd2fa0",
+          "Plant Name": "Aconitum palmatum D. Don.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aconitum palmatum D. Don.",
+        "source_record_id": "links-1538",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1dd4bdb4fdf04a0c3cac083768bd8de8/xclkon/6f37388d3ce6a637065ac4063cbd2fa0"
+      }
+    ],
+    "source_xplant_id": "1dd4bdb4fdf04a0c3cac083768bd8de8",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

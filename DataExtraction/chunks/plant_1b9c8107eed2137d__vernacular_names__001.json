@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_1b9c8107eed2137d__vernacular_names__001",
+  "plant_id": "plant_1b9c8107eed2137d",
+  "plant_name": "Holostemma annulare K. Schum.",
+  "botanical_name": "Holostemma ada-kodien",
+  "botanical_authority": "SCHULT.",
+  "family": "ASCLEPIADACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (6): charivel, chhirvel, chirvel, kanju, rajain pardesi, ranimaoi\nKannada (9): arane beelu, gearu, jeeva haale, jeeva haale balli, jeevanthi, maruligana kasa, muraligana kasa, murree jeevanige, palakeere soppu\nMalayalam (7): ada-kodien, adakodien, atakkoti, atakodiyan, atakotiyan, atapatiyan, atapotiyan\nMarathi (11): dudoli, dudurli, gaganthjuti, haranadodi, karab-phul, palkhevel, shidodi, shiradowdi, shirdooli, sidodi, tulatule\nSanskrit (21): Sanskrit CommentsX arkapushpi, arkapuspi, duradharsha, jalakamuka, jaleruha, jivanthi, jivanti, krurakarma, kshiradodi, kshirini, ksirini, kutumbini, payasya, praharakutavi, shita, shitala, shitaparni, sirintika, sitaparni, suryavalli, vakrashalya\nTamil (3): palai-k-kirai, palaikkirai, palay\nTelugu (16): bandi guruvindateega, bandiguruvinda theega, dudipaalathige, dudipala tige, dudipalatige, istarakura, paalagurgi, paalagurugu, paalajilledu, pala-gurji, pala-gurugu, palagurugu, palakura, pallagorgi, pallagurgi, peyyi baddu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f42783f900654860eeaaf874ba4b205/xclkon/5cd8f2df6a0511b125d894f68cdd3ea7"
+  ],
+  "source_record_ids": [
+    "links-0164",
+    "links-0813"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f42783f900654860eeaaf874ba4b205/xclkon/5cd8f2df6a0511b125d894f68cdd3ea7"
+    ],
+    "source_record_ids": [
+      "links-0164",
+      "links-0813"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f42783f900654860eeaaf874ba4b205/xclkon/5cd8f2df6a0511b125d894f68cdd3ea7",
+          "Plant Name": "Holostemma annulare K. Schum.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Holostemma annulare K. Schum.",
+        "source_record_id": "links-0164",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f42783f900654860eeaaf874ba4b205/xclkon/5cd8f2df6a0511b125d894f68cdd3ea7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f42783f900654860eeaaf874ba4b205/xclkon/5cd8f2df6a0511b125d894f68cdd3ea7",
+          "Plant Name": "Holostemma annulare",
+          "Status": "Found"
+        },
+        "source_plant_name": "Holostemma annulare",
+        "source_record_id": "links-0813",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f42783f900654860eeaaf874ba4b205/xclkon/5cd8f2df6a0511b125d894f68cdd3ea7"
+      }
+    ],
+    "source_xplant_id": "2f42783f900654860eeaaf874ba4b205",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

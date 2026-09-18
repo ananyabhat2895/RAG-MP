@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a075c9ac51e670bc__vernacular_names__001",
+  "plant_id": "plant_a075c9ac51e670bc",
+  "plant_name": "Asparagus racemosus Willd.",
+  "botanical_name": "Asparagus racemosus",
+  "botanical_authority": "WILLD.",
+  "family": "LILIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (25): adharvela, bojhidan, jhirna, musli, narkanto, sadabori, safed-musali, safed-musli, sansarmul, sansbai, satamuli, sataron, satavar, satavari, satawar, satawari, satmnli, satmul, satmuli, satrawai, satrawal, shaka-kul, shakakul, shaqaqul, shatavir\nKannada (40): aashaadi baeru, aashaadi balli, aheruballi, ajjegadde, ashadhi, ashadi, ashadiya, ashadiyaballi, baeru bakkadi, chikka aashaadi, halarru-makkal, halavu makkala balli, halavu makkala thaayi baeru, halavumakkala thayi gida, halavumakkalaballi, halavumakkalataui, halavumakkalatayi, halunakkalatayiballi, jatthige baeru, jayi baeru, jayibem, majjigagadda, majjige gedde, majjige-gadde, majjigeballi, majjigegadde, naaraayani, satamuli, satamulike, satavari, satmuli, shahavaliballi, shathaavari, shibariberuballi, sibari, simbrumulla, sipariberuballi, siparimuli, taudangi, viduriburu\nMalayalam (12): cadavelikilanu, catavali, chatavali, sadavarti, satavali, satavari, sathavalli, sathaveri, schada-veli-kelangu, shadavali, shatavali, shatavari\nMarathi (11): asvel, sahansarmoli, salvari, sasar-muli, satavari-mull, satavarimool, satavarimul, shatavar, shatmooli, shatmuli, zatar\nSanskrit (65): Sanskrit CommentsX abhiru, abhiruh, aheru, aisva, amoda, ardhakantaka, atirasa, atmagupta, atmasalya, bahumula, bahuputra, bahuputrika, bahusuta, bhhya, bhirupatri, darakantika, divya, durmana, durmara, durnamacatana, dvipashatru, dvipika, dvipishatru, hiranyasringi, indivari, iru, jata, kanchanakarini, karambha, karshni, keshika, laghuparnika, madabhanjini, madhura, mahapurushadanta, mahashita, mula, narayani, pivari, rangini, rishagata, rishyaprokta, rsyaprokta, satamuli, satapadi, satavari, satavirya, shatamuli, shatapadi, shatavari, shatavhaya, shatavirya, shvetamuli, sukshmapatra, suksmapatra, supatra, supatrika, svadurasa, tailavalli, vaishnavi, vari, vasudevapriyankari, vishvasya, visva, vrishya",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/739a42451fb9c14fd1f382b72baf507d"
+  ],
+  "source_record_ids": [
+    "links-1767"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/739a42451fb9c14fd1f382b72baf507d"
+    ],
+    "source_record_ids": [
+      "links-1767"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/739a42451fb9c14fd1f382b72baf507d",
+          "Plant Name": "Asparagus racemosus Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Asparagus racemosus Willd.",
+        "source_record_id": "links-1767",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/739a42451fb9c14fd1f382b72baf507d"
+      }
+    ],
+    "source_xplant_id": "739a42451fb9c14fd1f382b72baf507d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

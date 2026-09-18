@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_9a48eb175ec73141__bibliography__001",
+  "plant_id": "plant_9a48eb175ec73141",
+  "plant_name": "Schleichera oleosa (Lour) oken.",
+  "botanical_name": "Schleichera oleosa",
+  "botanical_authority": "(LOUR.) OKEN",
+  "family": "SAPINDACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: title: Title - Flora of West Bengal Vol 1\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I\nBibliography entry: title: Title - FLORA OF ASSAM\nBibliography entry: title: Title - The Flora of Kerala Vol I\nBibliography entry: title: Title - Flora of Gujarat State Vol 1\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-2\nBibliography entry: title: Title - Flora of Rajasthan Vol. 1\nBibliography entry: title: Title - A Forest Flora for Kumaon\nBibliography entry: title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - The Flora of Orissa Volume 1\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f"
+  ],
+  "source_record_ids": [
+    "links-1065",
+    "links-1066",
+    "links-1151"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f"
+    ],
+    "source_record_ids": [
+      "links-1065",
+      "links-1066",
+      "links-1151"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f",
+          "Plant Name": "Schleichera oleosa (Lour) oken.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Schleichera oleosa (Lour) oken.",
+        "source_record_id": "links-1065",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f",
+          "Plant Name": "Schleichera oleosa (Lour.) Oken.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Schleichera oleosa (Lour.) Oken.",
+        "source_record_id": "links-1066",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f",
+          "Plant Name": "Schleichera oleosa (Lour.) Merr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Schleichera oleosa (Lour.) Merr.",
+        "source_record_id": "links-1151",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f"
+      }
+    ],
+    "source_xplant_id": "4d9b9ebe9aa91dc47dc6f0134138402f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

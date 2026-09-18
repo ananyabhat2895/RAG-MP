@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_a23b7eeb82e90b05__images__001",
+  "plant_id": "plant_a23b7eeb82e90b05",
+  "plant_name": "Alangium begonifolium Harm.",
+  "botanical_name": "Alangium begonifolium",
+  "botanical_authority": "MARM.",
+  "family": "ALANGIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5ef82028fbfed914facaca3462e8a13"
+  ],
+  "source_record_ids": [
+    "links-0065",
+    "links-0066"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5ef82028fbfed914facaca3462e8a13"
+    ],
+    "source_record_ids": [
+      "links-0065",
+      "links-0066"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5ef82028fbfed914facaca3462e8a13",
+          "Plant Name": "Alangium begonifolium Harm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alangium begonifolium Harm.",
+        "source_record_id": "links-0065",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5ef82028fbfed914facaca3462e8a13"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5ef82028fbfed914facaca3462e8a13",
+          "Plant Name": "Alangium begonifolium Harms.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alangium begonifolium Harms.",
+        "source_record_id": "links-0066",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5ef82028fbfed914facaca3462e8a13"
+      }
+    ],
+    "source_xplant_id": "d5ef82028fbfed914facaca3462e8a13",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

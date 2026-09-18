@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_dafbc19b4279b599__bibliography__001",
+  "plant_id": "plant_dafbc19b4279b599",
+  "plant_name": "Zanthoxylum alatum Roxb.",
+  "botanical_name": "Zanthoxylum armatum",
+  "botanical_authority": "DC.",
+  "family": "RUTACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - ALIX RAISON; title: Title - LA-HARITA SAMHITA\nBibliography entry: author: Author - VAIDYA D.K. KAMAT; title: Title - STUDIES ON MEDICINAL PLANTS IN DHANVANTARIYA NIGHANTU VOL.1\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: title: Title - Flora of West Bengal Vol 1\nBibliography entry: title: Title - Flora of Chamba District (Himachal Pradesh)\nBibliography entry: title: Title - FOREST FLORA OF MEGHALAYA VOL 1\nBibliography entry: title: Title - The Flora of Orissa Volume 1\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol I\nBibliography entry: title: Title - Flora of Jowai Vol.I\nBibliography entry: title: Title - FLORA OF ASSAM\nBibliography entry: title: Title - A Forest Flora for Kumaon\nBibliography entry: title: Title - Medicinal and Aromatic Plants of Himachal Pradesh\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I\nBibliography entry: title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba6ce0418fd6ced2f262cc685713d229/xclkon/de237eed7c21d544ea2271d6bda89af9"
+  ],
+  "source_record_ids": [
+    "links-1994"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba6ce0418fd6ced2f262cc685713d229/xclkon/de237eed7c21d544ea2271d6bda89af9"
+    ],
+    "source_record_ids": [
+      "links-1994"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba6ce0418fd6ced2f262cc685713d229/xclkon/de237eed7c21d544ea2271d6bda89af9",
+          "Plant Name": "Zanthoxylum alatum Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Zanthoxylum alatum Roxb.",
+        "source_record_id": "links-1994",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba6ce0418fd6ced2f262cc685713d229/xclkon/de237eed7c21d544ea2271d6bda89af9"
+      }
+    ],
+    "source_xplant_id": "ba6ce0418fd6ced2f262cc685713d229",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

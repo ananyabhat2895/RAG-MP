@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_d130906b7b47e2e0__systems_of_medicine__001",
+  "plant_id": "plant_d130906b7b47e2e0",
+  "plant_name": "Embelia ribes Burm.",
+  "botanical_name": "Embelia ribes",
+  "botanical_authority": "BURM.F.",
+  "family": "MYRSINACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Homeopathy\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885"
+  ],
+  "source_record_ids": [
+    "links-2087",
+    "links-2088"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885"
+    ],
+    "source_record_ids": [
+      "links-2087",
+      "links-2088"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885",
+          "Plant Name": "Embelia ribes Burm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Embelia ribes Burm.",
+        "source_record_id": "links-2087",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885",
+          "Plant Name": "Embelia ribes Burm.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Embelia ribes Burm.f.",
+        "source_record_id": "links-2088",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885"
+      }
+    ],
+    "source_xplant_id": "ef3d02489c5b96418e218dcefab7e885",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

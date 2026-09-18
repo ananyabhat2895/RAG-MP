@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_75219699f2e7f5d1__distribution__001",
+  "plant_id": "plant_75219699f2e7f5d1",
+  "plant_name": "Momordica tuberosa (Roxb.) Cogn.",
+  "botanical_name": "Momordica tuberosa",
+  "botanical_authority": "COGN.",
+  "family": "CUCURBITACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/783ee2892dc89d642a91097466acbac6"
+  ],
+  "source_record_ids": [
+    "links-1094"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/783ee2892dc89d642a91097466acbac6"
+    ],
+    "source_record_ids": [
+      "links-1094"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/783ee2892dc89d642a91097466acbac6",
+          "Plant Name": "Momordica tuberosa (Roxb.) Cogn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Momordica tuberosa (Roxb.) Cogn.",
+        "source_record_id": "links-1094",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/783ee2892dc89d642a91097466acbac6"
+      }
+    ],
+    "source_xplant_id": "783ee2892dc89d642a91097466acbac6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

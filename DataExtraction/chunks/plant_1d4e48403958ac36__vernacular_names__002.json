@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_1d4e48403958ac36__vernacular_names__002",
+  "plant_id": "plant_1d4e48403958ac36",
+  "plant_name": "Salmalia malabarica Schott and Endl.",
+  "botanical_name": "Bombax ceiba",
+  "botanical_authority": "L.",
+  "family": "BOMBACACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (72): acikai, agigi, akikai, apurani, calika, calikapparutti, callaki2, calmali, canamali, canmalam, canmali, canmali@, caumali, cempancu, cittamuka, cittamukapparutti, cittan, curapu2, elavamaram, elevam, ilavam, ilavam3, ilavu, ilavu2, irattaputam, kannikaram, kantakaram, karuppilavu, katimuli, kongu, konku2, kutacanmali2, malaielavam, mali-elavam, maratti mokku, mocaiyilavam, mocam 2, mul ilavam, mul-iivam, mul-ilava-maram, mul-ilavam, mul-ilave, mul-ilavu, mulilavan, mulilavu, mullilavamaram, mullilavu, mulveluccikam, mulveluccikamaram, nakuli2, pattu, peyilavamaram, peyilavu, pongar, ponkar mocam, pula, pulai, pulavaipparutti, purami, purani, sallagi, samani, sanmali, selavagu, tolaya, tulam3, urocanam, varikkaricamaram, varunturu#, varunturu@, vitaram, yamatturumam\nTelugu (28): baraga, baruga, booragha, boorgha, buraga, burga, burgha, buroh, buruga, burugu, buruyu, dasanipu, konda buruga, kondabooruga, kondaburaga, mudlaboorugachettu, mundla-buraga-chettu, mundlabooruga, mundlaburaga, patti, pinnabooruga, pinnaburaga, pinnaburuga, poor, saalmali, salmali, shalmali, wuraga\nTibetan (1): sin sa lma la\nUrdu (4): gond simbhal, mocharas, mochras, musli simbhal",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/3cb86cbdb9510e8b57bb03383599897d"
+  ],
+  "source_record_ids": [
+    "links-1289",
+    "links-1703"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/3cb86cbdb9510e8b57bb03383599897d"
+    ],
+    "source_record_ids": [
+      "links-1289",
+      "links-1703"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/3cb86cbdb9510e8b57bb03383599897d",
+          "Plant Name": "Salmalia malabarica Schott and Endl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Salmalia malabarica Schott and Endl.",
+        "source_record_id": "links-1289",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/3cb86cbdb9510e8b57bb03383599897d"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/3cb86cbdb9510e8b57bb03383599897d",
+          "Plant Name": "Salmalia malabarica Schott & Endl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Salmalia malabarica Schott & Endl.",
+        "source_record_id": "links-1703",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/3cb86cbdb9510e8b57bb03383599897d"
+      }
+    ],
+    "source_xplant_id": "f4df3d740a26f6ad1fc5eec095132bff",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

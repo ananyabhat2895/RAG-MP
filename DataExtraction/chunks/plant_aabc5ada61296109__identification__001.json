@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_aabc5ada61296109__identification__001",
+  "plant_id": "plant_aabc5ada61296109",
+  "plant_name": "Amomum aromaticum Roxb.",
+  "botanical_name": "Amomum aromaticum",
+  "botanical_authority": "ROXB.",
+  "family": "ZINGIBERACEAE",
+  "section": "identification",
+  "content": "Plant name: Amomum aromaticum Roxb. Botanical name: Amomum aromaticum Botanical authority: ROXB. Family: ZINGIBERACEAE Source xplant ID: ea1ee008cb9a85e4c08c692df4b6bdd5",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea1ee008cb9a85e4c08c692df4b6bdd5"
+  ],
+  "source_record_ids": [
+    "links-0389",
+    "links-0560"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea1ee008cb9a85e4c08c692df4b6bdd5"
+    ],
+    "source_record_ids": [
+      "links-0389",
+      "links-0560"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea1ee008cb9a85e4c08c692df4b6bdd5",
+          "Plant Name": "Amomum aromaticum Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Amomum aromaticum Roxb.",
+        "source_record_id": "links-0389",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea1ee008cb9a85e4c08c692df4b6bdd5"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea1ee008cb9a85e4c08c692df4b6bdd5",
+          "Plant Name": "Amomum Aromaticum Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Amomum Aromaticum Roxb.",
+        "source_record_id": "links-0560",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea1ee008cb9a85e4c08c692df4b6bdd5"
+      }
+    ],
+    "source_xplant_id": "ea1ee008cb9a85e4c08c692df4b6bdd5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

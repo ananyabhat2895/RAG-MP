@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_acdc1026d09ab7e8__images__001",
+  "plant_id": "plant_acdc1026d09ab7e8",
+  "plant_name": "Caesalpinia crista Linn.",
+  "botanical_name": "Caesalpinia crista",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa3979856ff3735b54f5fe99dd16670"
+  ],
+  "source_record_ids": [
+    "links-0925"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa3979856ff3735b54f5fe99dd16670"
+    ],
+    "source_record_ids": [
+      "links-0925"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa3979856ff3735b54f5fe99dd16670",
+          "Plant Name": "Caesalpinia crista Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Caesalpinia crista Linn.",
+        "source_record_id": "links-0925",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa3979856ff3735b54f5fe99dd16670"
+      }
+    ],
+    "source_xplant_id": "eaa3979856ff3735b54f5fe99dd16670",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

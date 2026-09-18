@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_39c69c4f146d3710__vernacular_names__001",
+  "plant_id": "plant_39c69c4f146d3710",
+  "plant_name": "Strychnos colubrina Linn.",
+  "botanical_name": "Strychnos colubrina",
+  "botanical_authority": "AUCTT. PL.",
+  "family": "LOGANIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (1): kuchilalata\nKannada (3): balli kaasaraka, naaga, ushti, naagamusti\nMalayalam (9): cerukattuvallikanniram, cherukattuvallikanniram, cherukattuvallikkaniram, modira-caniram, modira-kanniram, modiracaneram, modirakaniram, modirakanni, motirakkanniram\nMarathi (6): devakadu, dhavo-khajro, kajarvael, kajarvel, kajarwel, kanel\nSanskrit (2): Sanskrit CommentsX anjanaki, karuskaralata\nTamil (2): naga malligai, nagamalligai\nTelugu (11): kausukandira, kavasukandira, kavusukandira, konsu-kandira, naagamushti, nagamusadi, nagamushti, nagamusti, tansoopaum, thigemushti, tigemushti",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25e0dd121cb70c8593ee55a204ce27d3"
+  ],
+  "source_record_ids": [
+    "links-0125"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25e0dd121cb70c8593ee55a204ce27d3"
+    ],
+    "source_record_ids": [
+      "links-0125"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25e0dd121cb70c8593ee55a204ce27d3",
+          "Plant Name": "Strychnos colubrina Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Strychnos colubrina Linn.",
+        "source_record_id": "links-0125",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25e0dd121cb70c8593ee55a204ce27d3"
+      }
+    ],
+    "source_xplant_id": "25e0dd121cb70c8593ee55a204ce27d3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

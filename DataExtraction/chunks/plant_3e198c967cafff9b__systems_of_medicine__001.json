@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_3e198c967cafff9b__systems_of_medicine__001",
+  "plant_id": "plant_3e198c967cafff9b",
+  "plant_name": "Solanum trilobatum",
+  "botanical_name": "Solanum trilobatum",
+  "botanical_authority": "L.",
+  "family": "SOLANACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0f015e923a8a7fecd21531b35aaf763"
+  ],
+  "source_record_ids": [
+    "links-0020",
+    "links-0021"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0f015e923a8a7fecd21531b35aaf763"
+    ],
+    "source_record_ids": [
+      "links-0020",
+      "links-0021"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0f015e923a8a7fecd21531b35aaf763",
+          "Plant Name": "Solanum trilobatum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum trilobatum",
+        "source_record_id": "links-0020",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0f015e923a8a7fecd21531b35aaf763"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0f015e923a8a7fecd21531b35aaf763",
+          "Plant Name": "Solanum trilobatum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum trilobatum Linn.",
+        "source_record_id": "links-0021",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0f015e923a8a7fecd21531b35aaf763"
+      }
+    ],
+    "source_xplant_id": "d0f015e923a8a7fecd21531b35aaf763",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

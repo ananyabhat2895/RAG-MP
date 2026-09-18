@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5582bfd0e7054e99__vernacular_names__001",
+  "plant_id": "plant_5582bfd0e7054e99",
+  "plant_name": "Delonix elata",
+  "botanical_name": "Delonix elata",
+  "botanical_authority": "(L.) GAMBLE",
+  "family": "CAESALPINIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (4): samrsro, sandeshra, sanesro, waykaran\nKannada (13): chinnakisari, kempukenchaga, kempukencige, kempukenjiga, kesaraka, neerangi, nirangi, niranji, sankesvara, sunkasari, sunkatti, sunkesari, vatanarayana\nMarathi (3): sanchaila, sankasura, sankesura\nSanskrit (1): Sanskrit CommentsX siddhesvara\nTamil (29): carutakikam, carutakikamaram, cirumayirkonrai, cunakappuritam, kanuppavakam, kanuppavakamaram, mayirkkonrai 2, mayirkonrai@, mayuram 4, padenarayan, pancalai, pancati, patanarayanan, perungondrai, perunkonrai, vaaracchi, vadamudukki, vadanarayanan, varatti, vatanarayanam, vatanarayanamaram, vatanarayanan, vataracu, vatarakkacci 2, vatarakkaycci, vatarayanam 2, vatha narayanan, vathanarayanan, vatrakkacci\nTelugu (20): chinnaseribiseri, chinneseribiseri, chitikesvaram, chitti-kesar, chittikeshvaramu, chittikeshwaramu, chittisunkeshvaram, cinnaseribiseri, cittikesvaram, sankesula, sinkiresi, soonceishla, sunkeshvaram, sunkesula, sunkesvaram, sunkesvaramu, sunkeswar, sunkevaramu, vaathanaarayana, vatanarayana",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff72525a4cbfadacf5864e7e479eae0f"
+  ],
+  "source_record_ids": [
+    "links-1788"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff72525a4cbfadacf5864e7e479eae0f"
+    ],
+    "source_record_ids": [
+      "links-1788"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff72525a4cbfadacf5864e7e479eae0f",
+          "Plant Name": "Delonix elata",
+          "Status": "Found"
+        },
+        "source_plant_name": "Delonix elata",
+        "source_record_id": "links-1788",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff72525a4cbfadacf5864e7e479eae0f"
+      }
+    ],
+    "source_xplant_id": "ff72525a4cbfadacf5864e7e479eae0f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4d76ed524e08a108__distribution__001",
+  "plant_id": "plant_4d76ed524e08a108",
+  "plant_name": "Amaranthus paniculatus Linn.",
+  "botanical_name": "Amaranthus hybridus",
+  "botanical_authority": "L. subsp. cruentus var. paniculatus THELL.",
+  "family": "AMARANTHACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83fbef0599b94833dd32e2b62d5ea783/xclkon/dd3ec08486ef9d275dafc40eb4595ff8"
+  ],
+  "source_record_ids": [
+    "links-1111"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83fbef0599b94833dd32e2b62d5ea783/xclkon/dd3ec08486ef9d275dafc40eb4595ff8"
+    ],
+    "source_record_ids": [
+      "links-1111"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83fbef0599b94833dd32e2b62d5ea783/xclkon/dd3ec08486ef9d275dafc40eb4595ff8",
+          "Plant Name": "Amaranthus paniculatus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Amaranthus paniculatus Linn.",
+        "source_record_id": "links-1111",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83fbef0599b94833dd32e2b62d5ea783/xclkon/dd3ec08486ef9d275dafc40eb4595ff8"
+      }
+    ],
+    "source_xplant_id": "83fbef0599b94833dd32e2b62d5ea783",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

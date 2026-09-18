@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_09c4f30806fe0316__vernacular_names__001",
+  "plant_id": "plant_09c4f30806fe0316",
+  "plant_name": "Premna integrifolia Linn.",
+  "botanical_name": "Premna serratifolia",
+  "botanical_authority": "L.",
+  "family": "VERBENACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): headache tree\nHindi (3): agetha, arni, ustabunda\nKannada (17): agnimandha, agnimathha, bachanige mara, bhootha naeralu, eegigida, eeji gida, ichu, icu, ije, ishe, narahuli, narapelu, naravalu, narave, naruvalu, takkile, thakkile\nMalayalam (4): appel, ben-moenja, munna, panira\nMarathi (8): aeran, aran, chamari, kharanarvel, kharo narvel, naravaela, taakalai, taanklaa\nSanskrit (34): Sanskrit CommentsX agnibijaka, agnimantha, agnimanthah, ananta, arani, aranika, araniketu, ganakasika, gani-karika, ganikarica, ganikarika, girikarnika, hari-mantha, havirmantha, jaya, jayanti, jyotishka, kanika, karnika, mathana, nadeyi, nadija, pavaka, pavakarini, pittamata, shriparna, takkari, tanutvaka, tejomantha, vaijayantika, vanhimantha, vanhimula, vijaya, vijayantika\nTamil (61): alattuppacitam, alattuppacitamaram, alimotai, arani, cailataraki, catai2, cataimaram, catur, ciratavallon, ciruparani1, cittirakkini, erutukanni, erutukannimaram, karamunnai, karamunnaimaram, karnakam, kataikkalutti, kenakari, kentapattiram1, kentivirutcam, kentivirutcokam, makaiyam, makaiyamaram, malaimunnai, malaimunnaimaram, malaippaka, malaippakamunnai, mantatorani, mantokkini, minnai, moonnee vayr, munnai, munnai#, munnaimaram, munnay, munni-vayz, murkkamakkini, nankuli, narmani, narumunnai, pachu munnai, pacumunnai, panri munnai, parumunnai, pasu-munnai, pasumunnai, pay minnay, perumunnai, perumunnaimaram, pitani 1, pitanimaram, takkari1, takkarikai1, tapanaccatam2, tecomantaram2, tecomaram2, vaicanti, vaicayanti, vaicayanti 1, vengai, vimmi\nTelugu (12): gabbunelli, gadanelli, ghebunelli, kanika, karnika, nagura, nelli, nelli chettu, pinnanelli, takkedu, thakkadu, tukkadu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf/xclkon/909b06e753c2bd0afc7083883e1e057b"
+  ],
+  "source_record_ids": [
+    "links-0024",
+    "links-0030"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf/xclkon/909b06e753c2bd0afc7083883e1e057b"
+    ],
+    "source_record_ids": [
+      "links-0024",
+      "links-0030"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf/xclkon/909b06e753c2bd0afc7083883e1e057b",
+          "Plant Name": "Premna integrifolia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Premna integrifolia Linn.",
+        "source_record_id": "links-0024",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf/xclkon/909b06e753c2bd0afc7083883e1e057b"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf/xclkon/909b06e753c2bd0afc7083883e1e057b",
+          "Plant Name": "Premna integrifolia",
+          "Status": "Found"
+        },
+        "source_plant_name": "Premna integrifolia",
+        "source_record_id": "links-0030",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf/xclkon/909b06e753c2bd0afc7083883e1e057b"
+      }
+    ],
+    "source_xplant_id": "8fc11e5625b0f5fed76e2cf94077badf",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

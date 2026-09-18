@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c618c6de51024acd__botanical_synonyms__001",
+  "plant_id": "plant_c618c6de51024acd",
+  "plant_name": "Solanum nigrum Linn.",
+  "botanical_name": "Solanum nigrum",
+  "botanical_authority": "L.",
+  "family": "SOLANACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Solanum americanum MILL.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8919b637dac8e5c0dee7284b93974959"
+  ],
+  "source_record_ids": [
+    "links-0843"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8919b637dac8e5c0dee7284b93974959"
+    ],
+    "source_record_ids": [
+      "links-0843"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8919b637dac8e5c0dee7284b93974959",
+          "Plant Name": "Solanum nigrum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum nigrum Linn.",
+        "source_record_id": "links-0843",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8919b637dac8e5c0dee7284b93974959"
+      }
+    ],
+    "source_xplant_id": "8919b637dac8e5c0dee7284b93974959",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

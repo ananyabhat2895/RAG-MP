@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_78ec503db1350c90__bibliography__001",
+  "plant_id": "plant_78ec503db1350c90",
+  "plant_name": "Barleria strigosa Willd.",
+  "botanical_name": "Barleria strigosa",
+  "botanical_authority": "WILLD.",
+  "family": "ACANTHACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - V.V. SIVARAJAN AND INDIRA BALACHANDRAN; title: Title - AYURVEDIC DRUGS AND THEIR PLANT SOURCES\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: title: Title - Flora of Bankura District(West Bengal)\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol. II\nBibliography entry: title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL2\nBibliography entry: title: Title - The Flora of Orissa Vol III",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d44f2d69d2c726a843638429c67d3fb"
+  ],
+  "source_record_ids": [
+    "links-1685"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d44f2d69d2c726a843638429c67d3fb"
+    ],
+    "source_record_ids": [
+      "links-1685"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d44f2d69d2c726a843638429c67d3fb",
+          "Plant Name": "Barleria strigosa Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Barleria strigosa Willd.",
+        "source_record_id": "links-1685",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d44f2d69d2c726a843638429c67d3fb"
+      }
+    ],
+    "source_xplant_id": "4d44f2d69d2c726a843638429c67d3fb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

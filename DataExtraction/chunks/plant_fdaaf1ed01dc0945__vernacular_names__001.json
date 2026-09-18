@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_fdaaf1ed01dc0945__vernacular_names__001",
+  "plant_id": "plant_fdaaf1ed01dc0945",
+  "plant_name": "Cissampelos pareira Linn.",
+  "botanical_name": "Cissampelos pareira",
+  "botanical_authority": "L.",
+  "family": "MENISPERMACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): false pareira root\nHindi (20): akanadi, akauadi, batindu, bhatindu, chhoti taan, chhoti-taan, dak nirbisi, dakhnirbissi, daku-nirbisi, harjeuri, harjori, kalipar, mathiari, nirbisi, pahan, pahre, pardhi, parha, tan, taur\nKannada (12): aamaradaavalli, ambashtha, cisha boddi, gutte, hondike balli, kaaduballi, kandaguduchi, maneballi, neemukha, padavali, padvali, parera beru\nMalayalam (6): battuvalli, cattuvalli, kattuvalli, pata, patakkilannu, patuvalli\nMarathi (14): bhatvel, padavali, padavel, pahaad, pahaad mool, pahaadvel, pahad-mul, pahad-vel, pahadamoola, pahadvel, paharmul, paharval, paharvel, phaharmool\nSanskrit (54): Sanskrit CommentsX akaisika, akastila, ambashtha, ambashthai-patha, ambashthika, ambastha, ambostha, aviddhakarni, avidhakarni, brihatika, brihattikta, chchinnavki, devi, ekashthila, eshika, kuchela, kucheli, laghupatha, mahanjasi, malati, malavi, papacheli, papachelika, papanalil, papehelika, patha, patika, piluphala, prachina, prachinambastika, pracina, pratanini, rasa, ruchishya, shishira, shreyasi, sriyesi, sthapini, susthira, tiktapushpa, trishira, trivrita, uthika, vallika, vanitiktika, vara, varatikta, vatsadini, venivalli, venivel, vidhakarni, vriddhakarnika, vridhakarnika, vrittaparni\nTamil (75): ampasta, ampastaki, ampastam, ampattai, apamattar, appakacceti, appakam, appam, appatta, appattar, camuttiracoki, carakki, cina, cinavattam, curati2, curuttimuli, malaimattiri, mancatkatakakkoti, mancatkatakam, mataltiruppi, mataltiruppicceti, matamatakki, matapanni, matapannicceti, matappani, matappanni, matarapanni, matarapannicceti, matarappanni, matipani, mayali, mulanitari, paadakkizhangu, papaceti, patai 2, patila, perikam 2, piratekiyam, pittuttiruppi, poi mooshtie, pomushtie, pon-musuttai, ponmaittittai, ponmootootai, ponmucuttai, poon mooshtie, porumpilaver, pukkuttiruppi, punaittitta, putkuttiruppi, puttutiruppi, puttuttiruppi, sina, titapitta, titta, titta@, tittaki, tittakicceti, tittar, tuttinai, tuvan, tuvigaba, urikkakodi, vanatitta, varititta, vartevi, vata tirupie, vatatirupie, vattat-tiruppi, vattathiruppi, vattattirumpi, vattattiruppi, vilappotti, viraicceti, viri\nTelugu (13): adavi banka teega, adavibankatheega, adivibankatige, bodi, chiruboodi, esaboddi, paata, pata, pata visha boddi, pateru tivva, paterutivva, shedsugandi, visaboddi\nTibetan (3): ba tha, pa tha (p), pa-tha\nUrdu (1): patha",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db65a57f09ae70c2cf447635e8bbd8b3"
+  ],
+  "source_record_ids": [
+    "links-1496"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db65a57f09ae70c2cf447635e8bbd8b3"
+    ],
+    "source_record_ids": [
+      "links-1496"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db65a57f09ae70c2cf447635e8bbd8b3",
+          "Plant Name": "Cissampelos pareira Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cissampelos pareira Linn.",
+        "source_record_id": "links-1496",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db65a57f09ae70c2cf447635e8bbd8b3"
+      }
+    ],
+    "source_xplant_id": "db65a57f09ae70c2cf447635e8bbd8b3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

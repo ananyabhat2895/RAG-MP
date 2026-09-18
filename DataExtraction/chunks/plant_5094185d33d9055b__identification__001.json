@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_5094185d33d9055b__identification__001",
+  "plant_id": "plant_5094185d33d9055b",
+  "plant_name": "Sida veronicaefolia Lam.",
+  "botanical_name": "Sida cordata",
+  "botanical_authority": "(BURM.F.) BOISS.",
+  "family": "MALVACEAE",
+  "section": "identification",
+  "content": "Plant name: Sida veronicaefolia Lam. Botanical name: Sida cordata Botanical authority: (BURM.F.) BOISS. Family: MALVACEAE Source xplant ID: 47d9f33c2a99b8b51b28030e753d04d0",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba"
+  ],
+  "source_record_ids": [
+    "links-0273",
+    "links-1576"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba"
+    ],
+    "source_record_ids": [
+      "links-0273",
+      "links-1576"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba",
+          "Plant Name": "Sida veronicaefolia Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida veronicaefolia Lam.",
+        "source_record_id": "links-0273",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba",
+          "Plant Name": "Sida veronicaefolia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida veronicaefolia Linn.",
+        "source_record_id": "links-1576",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba"
+      }
+    ],
+    "source_xplant_id": "47d9f33c2a99b8b51b28030e753d04d0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_3f6f48ed3ba143ea__systems_of_medicine__001",
+  "plant_id": "plant_3f6f48ed3ba143ea",
+  "plant_name": "Tephrosia purpurea (Linn.) Pers.",
+  "botanical_name": "Tephrosia purpurea",
+  "botanical_authority": "PERS.",
+  "family": "FABACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk Botanical Synonyms (2) - Galega purpurea L. X Full Botanical citation - Galega purpurea L.\nSystem of medicine: Syst. Nat. ed. 10: 1172. 1759; R.D.Gaur\nSystem of medicine: Flora of the District Garhwal North West Himalaya (With Ethnobotanical Notes)\nSystem of medicine: TransMedia\nSystem of medicine: Srinagar (Garhwal)\nSystem of medicine: India\nSystem of medicine: 295. 1999. Tephrosia hamiltonii J.R.DRUMM X Full Botanical citation - Tephrosia hamiltonii J.R.Drumm. ex Gamble\nSystem of medicine: Fl. Pres.Madras 520.1918 [1:226. 1967(Repr.)]; N.P.Singh &al.\nSystem of medicine: Fl.Maharashtra state\nSystem of medicine: Dicotyledones\nSystem of medicine: 1: Fl.India Ser. 2: 753: 2000.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c"
+  ],
+  "source_record_ids": [
+    "links-1738",
+    "links-1739"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c"
+    ],
+    "source_record_ids": [
+      "links-1738",
+      "links-1739"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c",
+          "Plant Name": "Tephrosia purpurea (Linn.) Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tephrosia purpurea (Linn.) Pers.",
+        "source_record_id": "links-1738",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c",
+          "Plant Name": "Tephrosia purpurea Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tephrosia purpurea Pers.",
+        "source_record_id": "links-1739",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c"
+      }
+    ],
+    "source_xplant_id": "c8ed3ad40516a2873cf00155bc39949c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

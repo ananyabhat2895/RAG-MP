@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_fd57ade42869e568__vernacular_names__001",
+  "plant_id": "plant_fd57ade42869e568",
+  "plant_name": "Jasminum multiflorum Andr.",
+  "botanical_name": "Jasminum multiflorum",
+  "botanical_authority": "(BURM.F.) ANDR.",
+  "family": "OLEACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (10): ban malti, banmalti, chamchi, chameli, dure, jangli-chambeli, kund phal, kunda, kundo, kundphul\nKannada (14): baasthimallige, basti mallige, bastimallige, boldu mallige, boldumallige, doddakaadu mallige, jaasthi mallige, kasthoorimallige, kasturi mallige, kasturimallige, kunda, maagi mallige, magimallige, molle\nMalayalam (10): gujari, kattuchirakamulla, kattucirakamulla, katu-tsjiregam-mulla, katutsjiregammulla, kundam, kurukkuttimulla, kurukutti-mulla, kurukuttimulla, kuruna\nMarathi (3): mogra, raanmogri, ran-mogri\nSanskrit (23): Sanskrit CommentsX atimukta, attahasa, attapushpaka, bhringasuhrita, bhringbandhu, dalakosha, damana, kunda, kundah, madhya, mahamoda, makaranda, manodna, manohara, manorama, mughya, muktapushpa, sadapushpa, shuklapushpa, tarapushpa, vanahasa, varata, vasanta\nTamil (9): irci mallikai, kasturimallikai, kuntam 2, magarandam, makarandam, makarantam, malli, malligai, mirukamatavacai\nTelugu (9): adavimalle, advi-malle, gajari, gujari, kunda, kundamu, molla, puttaditige, vira jaji\nTibetan (1): kun de",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13c5e57966efeeeee22ad5138e8b25a1"
+  ],
+  "source_record_ids": [
+    "links-1125"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13c5e57966efeeeee22ad5138e8b25a1"
+    ],
+    "source_record_ids": [
+      "links-1125"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13c5e57966efeeeee22ad5138e8b25a1",
+          "Plant Name": "Jasminum multiflorum Andr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Jasminum multiflorum Andr.",
+        "source_record_id": "links-1125",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13c5e57966efeeeee22ad5138e8b25a1"
+      }
+    ],
+    "source_xplant_id": "13c5e57966efeeeee22ad5138e8b25a1",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

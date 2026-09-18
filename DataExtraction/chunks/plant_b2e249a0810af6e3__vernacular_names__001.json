@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b2e249a0810af6e3__vernacular_names__001",
+  "plant_id": "plant_b2e249a0810af6e3",
+  "plant_name": "Pterocarpus marsupium Roxb.",
+  "botanical_name": "Pterocarpus marsupium",
+  "botanical_authority": "ROXB.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): east indian kino, gamalu, maidu, malabar kino\nHindi (22): banda, bebla, beeya, bia, bija, bija sal, bija-sal, bijasal, bijasar, bijesar, bijesar-ka-per, biya, hira-dokhi, hiradokhi, kholar-manda, peisar, piasai, piasal, pitasara, pitshola, rang-barat, vijayasar\nKannada (31): baenga mara, bange, bendaga mara, benga, bengai, bengha, bethonne, bhiyero, bibbla, bibla, bija, hane, hane mara, hanemara, hannemara, hond, hone, honnai, honne, honne mara, kempu honne, netrahonne, nettaruhonne, nettharu honne, netturuhonne, olehonne, olle honne, ollehonne, raktahonne, raktha honne, roktahonne\nMalayalam (10): honne, karintakara, karinthagara, malantakara, venga, vengai, vengay, venna, venna-maram, veuga\nMarathi (10): asaaha, asan, asana, bibla, bivala, dhorbenla, honi, honne, huni, paleasan\nSanskrit (18): Sanskrit CommentsX asana, asanah, bandhukapushpa, bija, bijaka, bijakah, bijavriksha, mahakutaja, mahasarja, nilaka, paramayudha, pitasala, pitasalaka, pitasara, pitashala, priyaka, priyasalaka, sauri",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cde24b212ae1e7d501b49de188e18766"
+  ],
+  "source_record_ids": [
+    "links-0172"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cde24b212ae1e7d501b49de188e18766"
+    ],
+    "source_record_ids": [
+      "links-0172"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cde24b212ae1e7d501b49de188e18766",
+          "Plant Name": "Pterocarpus marsupium Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pterocarpus marsupium Roxb.",
+        "source_record_id": "links-0172",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cde24b212ae1e7d501b49de188e18766"
+      }
+    ],
+    "source_xplant_id": "cde24b212ae1e7d501b49de188e18766",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_f6dbe358ed855a2b__vernacular_names__001",
+  "plant_id": "plant_f6dbe358ed855a2b",
+  "plant_name": "Cuminum cyminum Linn.",
+  "botanical_name": "Cuminum cyminum",
+  "botanical_authority": "L.",
+  "family": "APIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): cumin\nHindi (11): gajar, jeera, jira, safed jeera, safed-zira, saphed jira, shiajira, zeera, zira, zira or zirah, zirah\nKannada (6): jeera, jeeraka, jeerigay, jeerige, jirage, jiringe\nMalayalam (3): cheerakam, jeerakam, jirakam\nMarathi (3): jeera, jeeram, jiregire\nSanskrit (34): Sanskrit CommentsX ajaji, ajajika, ajmoda, dipaka, dipya, dipyaka, dirghajiraka, dirghaka, dirghakana, gaurajaji, gaurajiraka, hrasvanga, jaji, jarana, jaranam, jeeraka, jira, jiraka, jirakah, jirakaha, jirakam, jirakataila, jirana, jirna, kana, kanavha, kunchika, magadha, mitadipya, mitajaji, shuklajaji, suklajaji, svetajiraka, vahmisakha\nTamil (103): acai, acai ciri, acaiyu, acanaveti, anici1, attimai, attinam, attitamatam, caci1, cacinikam1, cankuvankanam, cheerakam, cheerakum, chirakam, cicari, cikariccaram, ciraciram, cirakacceti, cirakacutti, cirakam, ciram1#, ciram1@, ciri1, cirnam, citakkakoli, cittirapattiri, civakam2@, cukkumapaciyam, cukkumapattiram1, cutapattirikam, cuttiracirakam, er, jeerakam, jirakam, kaci, kacikkirusnan, kana1, kanalvakiyam, kanam1, kanati, kanaticceti, karakacikacceti, karakacikam, ketakaciram, kokanaccirakam, kuncikkay, maicatci 1, maisakukkilam, maravuri, matatam, mattam#, mettiyam, mokal arjak, muttiratosanacani, naccirakam, nallacirakam, narcir, narcirakam, narciri, nariccirakam, narumakaciram, nattuccirakam, navakacakti, navakacatticiram, pacakam 1, pacam 1, pacumpi, pacunti, pacuntiram, palika, pancakkini, pancanam#, panikkurucci, panpakappu, pattirikam, pikam, piratti - vika, pirattivika, pittanacani@, pittanacini, pittapattiram, pocanakutari, pocanakutori, potaki 1, seeragam, seerugam, shimai-shombu, shiragam, siragum, tilaka, tippiyam, tirkkakanam, tirunacati, tirunacaticceti, tittapattireti, tivirakantam1, tutta campalam, tuttacampalam, upakumpam, upakumpapicam, varivaricu, variyarici, vencirakam 1\nTelugu (8): jeelakara, jilakara, jilakarra, jilakhrah, jiraka, jirana, jiranan, zeela-karra\nTibetan (4): dzi-ra, go snod, go-snod, zi ra\nUrdu (8): safaid zira, zeerasafed, zira safaid, zira safaid bariyan, zira safaid muddabir, zira safed, zira siyah muddabir, zira sufaid",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685dab1d433e4428f5a40d044edc6db2"
+  ],
+  "source_record_ids": [
+    "links-0797"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685dab1d433e4428f5a40d044edc6db2"
+    ],
+    "source_record_ids": [
+      "links-0797"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685dab1d433e4428f5a40d044edc6db2",
+          "Plant Name": "Cuminum cyminum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cuminum cyminum Linn.",
+        "source_record_id": "links-0797",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685dab1d433e4428f5a40d044edc6db2"
+      }
+    ],
+    "source_xplant_id": "685dab1d433e4428f5a40d044edc6db2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

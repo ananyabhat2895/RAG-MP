@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_903261dde308686c__bibliography__001",
+  "plant_id": "plant_903261dde308686c",
+  "plant_name": "Grewia optiva Drummon.",
+  "botanical_name": "Grewia optiva",
+  "botanical_authority": "DRUMMOND",
+  "family": "TILIACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: title: Title - Flora of West Bengal Vol 1\nBibliography entry: title: Title - Flora of Chamba District (Himachal Pradesh)\nBibliography entry: title: Title - The Flora of Kerala Vol I\nBibliography entry: title: Title - FLORA OF INDIA VOL 3\nBibliography entry: title: Title - The Flora of the Gulf of Mannar\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol I\nBibliography entry: title: Title - A Forest Flora for Kumaon\nBibliography entry: title: Title - Flora of Rajasthan Vol. 1\nBibliography entry: title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a9ba5f60d638c3123d46f9fbfd01169"
+  ],
+  "source_record_ids": [
+    "links-0511",
+    "links-1969"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a9ba5f60d638c3123d46f9fbfd01169"
+    ],
+    "source_record_ids": [
+      "links-0511",
+      "links-1969"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a9ba5f60d638c3123d46f9fbfd01169",
+          "Plant Name": "Grewia optiva Drummon.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Grewia optiva Drummon.",
+        "source_record_id": "links-0511",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a9ba5f60d638c3123d46f9fbfd01169"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a9ba5f60d638c3123d46f9fbfd01169",
+          "Plant Name": "Grewia optiva Drummond.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Grewia optiva Drummond.",
+        "source_record_id": "links-1969",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a9ba5f60d638c3123d46f9fbfd01169"
+      }
+    ],
+    "source_xplant_id": "6a9ba5f60d638c3123d46f9fbfd01169",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

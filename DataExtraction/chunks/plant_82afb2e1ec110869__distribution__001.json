@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_82afb2e1ec110869__distribution__001",
+  "plant_id": "plant_82afb2e1ec110869",
+  "plant_name": "Desmostachya bipinnata Stapf",
+  "botanical_name": "Desmostachya bipinnata",
+  "botanical_authority": "STAPF",
+  "family": "POACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 3\nDistribution entry: author: Author - KANJILAL & BOR; distribution: Distribution; title: Title - FLORA OF ASSAM\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - Ed B D Sharma, S Karthikeyan, N P Singh; distribution: Distribution; title: Title - Flora of Maharashrta State (Monocotyledons)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol IV\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008"
+  ],
+  "source_record_ids": [
+    "links-0488",
+    "links-1136"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008"
+    ],
+    "source_record_ids": [
+      "links-0488",
+      "links-1136"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008",
+          "Plant Name": "Desmostachya bipinnata Stapf",
+          "Status": "Found"
+        },
+        "source_plant_name": "Desmostachya bipinnata Stapf",
+        "source_record_id": "links-0488",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008",
+          "Plant Name": "Desmostachya bipinnata Stapf.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Desmostachya bipinnata Stapf.",
+        "source_record_id": "links-1136",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008"
+      }
+    ],
+    "source_xplant_id": "5d5c75320e8249891ff513bfbd3f1008",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

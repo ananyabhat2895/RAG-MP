@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c946829568c4d411__vernacular_names__001",
+  "plant_id": "plant_c946829568c4d411",
+  "plant_name": "Ficus carica Linn.",
+  "botanical_name": "Ficus carica",
+  "botanical_authority": "L.",
+  "family": "MORACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): common fig\nHindi (2): anjir, tin\nKannada (9): anjeera, anjoora, anjura, anjuri, seeme atthi, shime-atti, shimeatti, simeatti, simeyatti\nMalayalam (3): shima-atti, shimayatti, simayatti\nMarathi (2): anjeer, anjir\nSanskrit (6): Sanskrit CommentsX anjira, kakodumbar, manjula, phalgu, rajodumbara, udumvara\nTamil (16): anjura, appira, cevvatti, cikappatti@, cimai atti, cimaiyatti, seemai aththi, shimai-atti, shimeatti, simaiyatti, simie attie pullum, tacaiyatti, ten atti, ten-atti, tenatti, utumparam2\nTelugu (16): anjooramu, anjooru, anjuru, manchi medi, mancimedi, manjimedi, medi, modipatu, seematti, seemayatthi, shima-atti, simaatti, simayatti, tene-atti, teneyatti, theneyatthi\nUrdu (7): anjeer, anjeer (khushk dashti), anjir, anjir zard, anjra(khushk dashti), balas, poast darakht anjir",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6789105993e26a315cae8a69d6d516a1"
+  ],
+  "source_record_ids": [
+    "links-1509"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6789105993e26a315cae8a69d6d516a1"
+    ],
+    "source_record_ids": [
+      "links-1509"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6789105993e26a315cae8a69d6d516a1",
+          "Plant Name": "Ficus carica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus carica Linn.",
+        "source_record_id": "links-1509",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6789105993e26a315cae8a69d6d516a1"
+      }
+    ],
+    "source_xplant_id": "6789105993e26a315cae8a69d6d516a1",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

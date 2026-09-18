@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_0919b6d7d4b8ef29__images__001",
+  "plant_id": "plant_0919b6d7d4b8ef29",
+  "plant_name": "Dodonaea viscosa Linn.",
+  "botanical_name": "Dodonaea viscosa",
+  "botanical_authority": "(L.) JACQ.",
+  "family": "SAPINDACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ed481b13abdae12cba10ed644f0129b"
+  ],
+  "source_record_ids": [
+    "links-1602"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ed481b13abdae12cba10ed644f0129b"
+    ],
+    "source_record_ids": [
+      "links-1602"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ed481b13abdae12cba10ed644f0129b",
+          "Plant Name": "Dodonaea viscosa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dodonaea viscosa Linn.",
+        "source_record_id": "links-1602",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ed481b13abdae12cba10ed644f0129b"
+      }
+    ],
+    "source_xplant_id": "6ed481b13abdae12cba10ed644f0129b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2c8e376e5a7a7e6f__systems_of_medicine__001",
+  "plant_id": "plant_2c8e376e5a7a7e6f",
+  "plant_name": "Fagonia cretica Linn.",
+  "botanical_name": "Fagonia cretica",
+  "botanical_authority": "L.",
+  "family": "ZYGOPHYLLACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Unani\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (2) - Fagonia arabica L. X Full Botanical citation - Fagonia arabica L.\nSystem of medicine: Sp. Pl. 386. 1753; P. Singh & V. Singh in Hajra & al.\nSystem of medicine: Fl. India 4: 41. 1997. Fagonia indica L. var. schweinfurthii HADIDI X Full Botanical citation - Fagonia indica Burm.f. var. schweinfurthii Hadidi in Reich.f.\nSystem of medicine: Fl. Iran. 98: 6. t. 6. 1972; P. Singh & V. Singh in Hajra & al.\nSystem of medicine: Fl. India 4: 44. 1997.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08d2d4c84f2c73308d0f9d970c1567c0"
+  ],
+  "source_record_ids": [
+    "links-0510"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08d2d4c84f2c73308d0f9d970c1567c0"
+    ],
+    "source_record_ids": [
+      "links-0510"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08d2d4c84f2c73308d0f9d970c1567c0",
+          "Plant Name": "Fagonia cretica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Fagonia cretica Linn.",
+        "source_record_id": "links-0510",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08d2d4c84f2c73308d0f9d970c1567c0"
+      }
+    ],
+    "source_xplant_id": "08d2d4c84f2c73308d0f9d970c1567c0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

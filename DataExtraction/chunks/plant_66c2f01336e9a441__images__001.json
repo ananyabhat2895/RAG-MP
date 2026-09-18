@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_66c2f01336e9a441__images__001",
+  "plant_id": "plant_66c2f01336e9a441",
+  "plant_name": "Piper crassipes Korth",
+  "botanical_name": "Piper crassipes",
+  "botanical_authority": "KORTH. EX. C.DC.",
+  "family": "PIPERACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6d7e98329f98ada314a0af053fdc9b1"
+  ],
+  "source_record_ids": [
+    "links-0908"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6d7e98329f98ada314a0af053fdc9b1"
+    ],
+    "source_record_ids": [
+      "links-0908"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6d7e98329f98ada314a0af053fdc9b1",
+          "Plant Name": "Piper crassipes Korth",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper crassipes Korth",
+        "source_record_id": "links-0908",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6d7e98329f98ada314a0af053fdc9b1"
+      }
+    ],
+    "source_xplant_id": "d6d7e98329f98ada314a0af053fdc9b1",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

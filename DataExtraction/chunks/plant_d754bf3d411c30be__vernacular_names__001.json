@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d754bf3d411c30be__vernacular_names__001",
+  "plant_id": "plant_d754bf3d411c30be",
+  "plant_name": "Salix tetrasperma Roxb.",
+  "botanical_name": "Salix tetrasperma",
+  "botanical_authority": "ROXB.",
+  "family": "SALICACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (22): badah, badhla, badla, baings, bains, baishi, bed, bend, bent, bet, beua, beuns, beuns (willow), bhainsh, bhaiush, bilsa, jalmalya, laila, pani-jama, salix (willow), sukul bet, willow\nKannada (20): baiche, baigay, baike, baise, bayge, bayike, bayikex, bayise, bayise mara, bayitha, hole bosi mara, neeranji, neeravangi, neerganji mara, neervanji, niranji, niravanji, niruvanji, nirvanji, puruse\nMalayalam (11): arali, arrupala, atrupala, attupala, nirunchi, nirunci, nirunji, vanchi, vanci, vanji, vanti\nMarathi (12): bach, bhak, bitasa, bithasa, bithsa, bitsa, boch, bocha, valumj, wallunj, walunj, wandra\nSanskrit (7): Sanskrit CommentsX burum, jalavetas, jalavetasa, nadeya, vanira, vanjula, vetasa\nTamil (22): arruppalai, atrupalai, attuppalai, bayike, celamakitam, celamakitamaram, cuvetam, cuvetavanci, cuvetavancimaram, kanakam 1, kantam, nirnochi, niruvanchi, niruvanci, niruvanji, nirvanci, nirvanji, suvedam, tepavam, vanci 2, vancimaram, vanji\nTelugu (7): etipaala, etipala, etipisinika, iroda, konda ganneru, kondaganneru, vodime\nUrdu (1): burg baid sada",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/202c38ee4b9c4d731da2ab5a4abd9f52"
+  ],
+  "source_record_ids": [
+    "links-0758"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/202c38ee4b9c4d731da2ab5a4abd9f52"
+    ],
+    "source_record_ids": [
+      "links-0758"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/202c38ee4b9c4d731da2ab5a4abd9f52",
+          "Plant Name": "Salix tetrasperma Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Salix tetrasperma Roxb.",
+        "source_record_id": "links-0758",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/202c38ee4b9c4d731da2ab5a4abd9f52"
+      }
+    ],
+    "source_xplant_id": "202c38ee4b9c4d731da2ab5a4abd9f52",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

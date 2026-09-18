@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c54a2754c82367e4__vernacular_names__001",
+  "plant_id": "plant_c54a2754c82367e4",
+  "plant_name": "Blumea lacera DC.",
+  "botanical_name": "Blumea lacera",
+  "botanical_authority": "DC.",
+  "family": "ASTERACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (7): divalimuli, janglimulli, kakranda, kakronda, kukaraundha, kukurbanda, phatakdi\nKannada (2): gaandhaari gida, gandhaari gida\nMalayalam (2): kukkuravrksam, rakkila\nMarathi (4): bamburdi, bhamaburada, bhamurda, kukurbanda\nSanskrit (11): Sanskrit CommentsX kukkuradru, kukundara, kukundarah, kukuradru, kukurandru, kukuroundha, kulahala, mriduchhada, sukshmapatra, tamrachuda, tamracuda\nTamil (7): catakkinam, kattumullangi, kattumullanki, narak-karandai, narakkarandai, navakkarandai, tevuppula\nTelugu (3): adavimulangi, advimulangi, karupogaku",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db597fcd2dd82460853c3cc45986e899"
+  ],
+  "source_record_ids": [
+    "links-1099"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db597fcd2dd82460853c3cc45986e899"
+    ],
+    "source_record_ids": [
+      "links-1099"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db597fcd2dd82460853c3cc45986e899",
+          "Plant Name": "Blumea lacera DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Blumea lacera DC.",
+        "source_record_id": "links-1099",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db597fcd2dd82460853c3cc45986e899"
+      }
+    ],
+    "source_xplant_id": "db597fcd2dd82460853c3cc45986e899",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

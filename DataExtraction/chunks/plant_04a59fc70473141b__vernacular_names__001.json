@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_04a59fc70473141b__vernacular_names__001",
+  "plant_id": "plant_04a59fc70473141b",
+  "plant_name": "Cryptolepis buchanani Roem. & Schult.",
+  "botanical_name": "Cryptolepis buchananii",
+  "botanical_authority": "ROEMER & SCHULTES",
+  "family": "PERIPLOCACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (16): dudhi, dudhi bel, dudhli, garol, jaman khumb, kala-bel, karanta, karmala-ki-bel, khurnmble, meda, meda singhi, medhkasinghi, naagbel, naagvel, singani, teela bakhri bel\nKannada (9): karanta, kareballi, karebanta, kari banti, kurabanthuma balli, maetguli hambu, maetla hambu, metaguli hambu, nelappaale\nMalayalam (4): kalipalvalli, kallipalvalli, kattupalvalli, katu-pal-valli\nMarathi (4): kaoval, karanti, katuphalveli, kawavel\nSanskrit (16): Sanskrit CommentsX gopa, gopakanya, gopangana, gopasuta, gopavalli, gopi, karanta, koranta, krishnasariva, krsnasariva, sariba, sariva, sarivadvaya, svetasariva, syama, visanika\nTamil (3): maattaankodi, paal kodi, palkoti\nTelugu (16): adavi palateega, adavipaalathige, adavipalatiga, adavipalatige, adivipalatige, gunji, gurugudalatige, gurugupalatige, guruguppaalathige, madanaseku, rokailipala, rokallipaala, rokallipala, rutupala, rythupaala, rytupala",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f2bf552fd2d53f622dea4e8ba0c0d2"
+  ],
+  "source_record_ids": [
+    "links-1077",
+    "links-1748"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f2bf552fd2d53f622dea4e8ba0c0d2"
+    ],
+    "source_record_ids": [
+      "links-1077",
+      "links-1748"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f2bf552fd2d53f622dea4e8ba0c0d2",
+          "Plant Name": "Cryptolepis buchanani Roem. & Schult.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cryptolepis buchanani Roem. & Schult.",
+        "source_record_id": "links-1077",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f2bf552fd2d53f622dea4e8ba0c0d2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f2bf552fd2d53f622dea4e8ba0c0d2",
+          "Plant Name": "Cryptolepis buchanani Roem. and Schult.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cryptolepis buchanani Roem. and Schult.",
+        "source_record_id": "links-1748",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f2bf552fd2d53f622dea4e8ba0c0d2"
+      }
+    ],
+    "source_xplant_id": "84f2bf552fd2d53f622dea4e8ba0c0d2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_c4101467a5fedf54__distribution__001",
+  "plant_id": "plant_c4101467a5fedf54",
+  "plant_name": "Cicca acida (Linn.) Merr.",
+  "botanical_name": "Phyllanthus acidus",
+  "botanical_authority": "(L.) SKEELS",
+  "family": "EUPHORBIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/b356be66a5797682eec6c7018c9d8beb"
+  ],
+  "source_record_ids": [
+    "links-1177",
+    "links-1178",
+    "links-1179"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/b356be66a5797682eec6c7018c9d8beb"
+    ],
+    "source_record_ids": [
+      "links-1177",
+      "links-1178",
+      "links-1179"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/b356be66a5797682eec6c7018c9d8beb",
+          "Plant Name": "Cicca acida (Linn.) Merr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cicca acida (Linn.) Merr.",
+        "source_record_id": "links-1177",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/b356be66a5797682eec6c7018c9d8beb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/b356be66a5797682eec6c7018c9d8beb",
+          "Plant Name": "Cicca acida (Linn.) Merrill",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cicca acida (Linn.) Merrill",
+        "source_record_id": "links-1178",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/b356be66a5797682eec6c7018c9d8beb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/b356be66a5797682eec6c7018c9d8beb",
+          "Plant Name": "Cicca acida (Linn.) Merrill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cicca acida (Linn.) Merrill.",
+        "source_record_id": "links-1179",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/b356be66a5797682eec6c7018c9d8beb"
+      }
+    ],
+    "source_xplant_id": "bcb5a0832a219a36158651a64f5a920b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

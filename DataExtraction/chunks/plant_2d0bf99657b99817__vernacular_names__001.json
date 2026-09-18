@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2d0bf99657b99817__vernacular_names__001",
+  "plant_id": "plant_2d0bf99657b99817",
+  "plant_name": "Nyctanthes arbor-tristis Linn.",
+  "botanical_name": "Nyctanthes arbor-tristis",
+  "botanical_authority": "L.",
+  "family": "OLEACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (26): binari, dlatchi, har, har-singar, harshingar, harsimgar, harsingar, harsinghar, hurshjngar, jar, jarsinghar, karasli, koori, kura, kuri, kurri, nibari, parijata, parja, saherwa, saihari, seoli, sephalika, siharu, tamat, tamti\nKannada (13): goli, harasinga gida, harasingaar, harisringi, harisryngi, harsing, hursing, paarijaatha, paarijaathaka, parigata, parijata, parijataka, parijathaka\nMalayalam (11): manapu, manjapu, manjapumaram, mannappu, manpumaram, munjapu, munjepoo, parijatakam, parijatam, parijathakam, pavilamalli\nMarathi (14): kharasli, khurasli, khurasoi, paarijaath, paarizhatak, pahar-batti, pardik, parijatak, parijataka, parizatak, parjatak, partaka, parzonto, prijtak\nSanskrit (16): Sanskrit CommentsX atyuha, harashingarpushpaka, harasimgara, kharapatraka, nalakunkuma, parijata, parijatah, parijataka, prajakta, ragapushpi, ragapuspi, rajanihasa, rajanikasa, sephali, sephalica, sephalika\nTamil (40): civappuccorikam, ciyattavi, ciyattavimaram, cuputpam, cutam1, cutam1@, malaipparicatam, mancatpu, manjapu, manjatpu, paimpon, paimponmallikai, paimponmallikaimaram, pakalamallikai, paricatam, paricatamaram, parijaatham, parijatam, parijatham, parisadam, pavala malli, pavala malligai, pavala-malligai, pavalakkaymallikai, pavalamalli, pavalamalligai, pavalamallikai, pavalappicci, pavazha malli, pavazha-mali, pavelam, pavilamalligai, sudam, tira, tiraki, tirakimaram, tivitiratcam2, tolavaka, tolavakacceti, tukirttali\nTelugu (30): kaaruchiya, kapilanagadustu, kappanagadutti, karshas, karshia, karuchiya, karuciya, kineri, kinnera, kirsaru, kisteti, krishnavaeni, krishnaveni, krishnaverri, paarijaathamu, pagada malle, pagadamalle, pagadamalli, parijatamu, parijatham, parujatamu, poghada, seepaalika, sepali, sepalika, shvetasurasa, shvethasurasa, shwetasurasa, svatasuasa, swetasarasa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fbf96782c22d2fe4a001d4ed9be0c9b"
+  ],
+  "source_record_ids": [
+    "links-1441"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fbf96782c22d2fe4a001d4ed9be0c9b"
+    ],
+    "source_record_ids": [
+      "links-1441"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fbf96782c22d2fe4a001d4ed9be0c9b",
+          "Plant Name": "Nyctanthes arbor-tristis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Nyctanthes arbor-tristis Linn.",
+        "source_record_id": "links-1441",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fbf96782c22d2fe4a001d4ed9be0c9b"
+      }
+    ],
+    "source_xplant_id": "1fbf96782c22d2fe4a001d4ed9be0c9b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

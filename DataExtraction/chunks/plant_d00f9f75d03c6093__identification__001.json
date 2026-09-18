@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d00f9f75d03c6093__identification__001",
+  "plant_id": "plant_d00f9f75d03c6093",
+  "plant_name": "Bryonopsis laciniosa (Linn) Naud.",
+  "botanical_name": "Diplocyclos palmatus",
+  "botanical_authority": "(L.) JAFFREY",
+  "family": "CUCURBITACEAE",
+  "section": "identification",
+  "content": "Plant name: Bryonopsis laciniosa (Linn) Naud. Botanical name: Diplocyclos palmatus Botanical authority: (L.) JAFFREY Family: CUCURBITACEAE Source xplant ID: 1c7f618abeda5452a8a3079708727925",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c7f618abeda5452a8a3079708727925/xclkon/75d10d875e99e10f3c3a6cda6556d8f5"
+  ],
+  "source_record_ids": [
+    "links-1189"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c7f618abeda5452a8a3079708727925/xclkon/75d10d875e99e10f3c3a6cda6556d8f5"
+    ],
+    "source_record_ids": [
+      "links-1189"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c7f618abeda5452a8a3079708727925/xclkon/75d10d875e99e10f3c3a6cda6556d8f5",
+          "Plant Name": "Bryonopsis laciniosa (Linn) Naud.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bryonopsis laciniosa (Linn) Naud.",
+        "source_record_id": "links-1189",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c7f618abeda5452a8a3079708727925/xclkon/75d10d875e99e10f3c3a6cda6556d8f5"
+      }
+    ],
+    "source_xplant_id": "1c7f618abeda5452a8a3079708727925",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

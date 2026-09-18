@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_94625ff6c4c78eb5__bibliography__001",
+  "plant_id": "plant_94625ff6c4c78eb5",
+  "plant_name": "Actiniopteris dichotoma Bedd.",
+  "botanical_name": "Actiniopteris radiata",
+  "botanical_authority": "(SW.) LINK",
+  "family": "ACTINIOPTERIDACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - The Flora of Orissa Vol IV",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c65a146c4229249af042aa4bc939d153/xclkon/d9acf89f65f3437a2ddd7cf67ba41f1e"
+  ],
+  "source_record_ids": [
+    "links-0291"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c65a146c4229249af042aa4bc939d153/xclkon/d9acf89f65f3437a2ddd7cf67ba41f1e"
+    ],
+    "source_record_ids": [
+      "links-0291"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c65a146c4229249af042aa4bc939d153/xclkon/d9acf89f65f3437a2ddd7cf67ba41f1e",
+          "Plant Name": "Actiniopteris dichotoma Bedd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Actiniopteris dichotoma Bedd.",
+        "source_record_id": "links-0291",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c65a146c4229249af042aa4bc939d153/xclkon/d9acf89f65f3437a2ddd7cf67ba41f1e"
+      }
+    ],
+    "source_xplant_id": "c65a146c4229249af042aa4bc939d153",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

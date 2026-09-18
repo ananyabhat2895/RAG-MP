@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4868ad50b057139f__vernacular_names__001",
+  "plant_id": "plant_4868ad50b057139f",
+  "plant_name": "Cicer arietinum Linn.",
+  "botanical_name": "Cicer arietinum",
+  "botanical_authority": "L.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): chick pea, garbanzo bean\nHindi (8): but, cana, chana, chane-ka-sirkah, channa, channo, chunna, cunna\nKannada (11): chana, channa, hasi kadale, kadale, kadale kaalu, kadle, kalle, karikadale, kempukadale, kudoly, soppukadale\nMalayalam (1): katala\nMarathi (6): chana, chane, chano, harbar, harbara, harbharaa\nSanskrit (15): Sanskrit CommentsX balabhaishajya, balabhojya, cana, canaka, canakah, chanaka, chennuka, harimantha, jivana, kanchuki, krishnachanchuka, sakalapriya, sugandha, vajibhakshya, vajimantha\nTamil (42): arenu, arimantai, arimantakam, arukkanam, canakam, canam, chunda kadalai, citayam, cul, culakacceti, culakam, curakacitam, curam 2, curanan, kadalai, kadalai kadi, kadalai pulippu, katalai, kontaikkatali, mookkukkadalai, mukantam, mukilikakkatalai, muttukacceti, muttukam, muttukkampayaru, narali, nattukkatalai, nikantakacceti, nikantakam, pakantam, parcoti, patumalarcci, porikatalai, tukkarancam, tuviputam, ukantacceti, ukantakacceti, ukantakam, ukantam, vacipatcam, vakkarancappayaru, vanacankatam\nTelugu (9): chanagalu, chanakamulu, harimandhakam, harimandhakamu, jennaga, sanuagalu, senaga, senagalu, shenagalu\nTibetan (1): mon sran tsa na\nUrdu (11): but, chana, dalchana muqqashar, habbat-ul-khazara, habbat-ul-khazra, habbat-ul-khizra, hub-at-khizra, hubt-ul-khazra, nakhood bariyan, nakhud (chana), safaid chanay ki dal",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48d2814b7156a21811cadfc158d252d5"
+  ],
+  "source_record_ids": [
+    "links-0404"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48d2814b7156a21811cadfc158d252d5"
+    ],
+    "source_record_ids": [
+      "links-0404"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48d2814b7156a21811cadfc158d252d5",
+          "Plant Name": "Cicer arietinum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cicer arietinum Linn.",
+        "source_record_id": "links-0404",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48d2814b7156a21811cadfc158d252d5"
+      }
+    ],
+    "source_xplant_id": "48d2814b7156a21811cadfc158d252d5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

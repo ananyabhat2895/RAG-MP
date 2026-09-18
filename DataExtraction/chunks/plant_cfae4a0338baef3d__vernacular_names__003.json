@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_cfae4a0338baef3d__vernacular_names__003",
+  "plant_id": "plant_cfae4a0338baef3d",
+  "plant_name": "Ricinus communis",
+  "botanical_name": "Ricinus communis",
+  "botanical_authority": "L.",
+  "family": "EUPHORBIACEAE",
+  "section": "vernacular_names",
+  "content": "Telugu (33): aamudamu, aamudamu chettu, amadum, amdi, amidam, amidamu, amidapu, amidum, amuda, amudala, amudam, amudamu, amudapu, amudapu chettu, amudapu-vittulu, chittaamudamu, chittaamudapu chettu, chittamudamu, chittamudapu, cittamudamu, eramudapu, erandam, erandamu, erandthailam, erramuda, erramudamu, erramudapu, malachintha manakku, peraamudamu, peramudamu, sittamindi, u, yerramudapu\nTibetan (6): dur byid, e ra nda (d), e ra nda dmar po, e ram nda, e ram nda (p), e-ran\nUrdu (10): bedanjir (arand), bikh erandi, hab-ul-as, maghze tukhm arandi, roghan baid, roghan baid anjir, roghan erand, roghan erandi, roghan-i-nilofer, sharbat hab-ul-as",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab8b2a15b1ed94d74b5d9605be29a51f"
+  ],
+  "source_record_ids": [
+    "links-0486",
+    "links-0565"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab8b2a15b1ed94d74b5d9605be29a51f"
+    ],
+    "source_record_ids": [
+      "links-0486",
+      "links-0565"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab8b2a15b1ed94d74b5d9605be29a51f",
+          "Plant Name": "Ricinus communis",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ricinus communis",
+        "source_record_id": "links-0486",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab8b2a15b1ed94d74b5d9605be29a51f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab8b2a15b1ed94d74b5d9605be29a51f",
+          "Plant Name": "Ricinus communis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ricinus communis Linn.",
+        "source_record_id": "links-0565",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab8b2a15b1ed94d74b5d9605be29a51f"
+      }
+    ],
+    "source_xplant_id": "ab8b2a15b1ed94d74b5d9605be29a51f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

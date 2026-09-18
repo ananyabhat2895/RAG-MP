@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_9a5d4d183e614ad0__vernacular_names__001",
+  "plant_id": "plant_9a5d4d183e614ad0",
+  "plant_name": "Semecarpus anacardium Linn.",
+  "botanical_name": "Semecarpus anacardium",
+  "botanical_authority": "L. F.",
+  "family": "ANACARDIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): marking nut\nHindi (9): belatak, bhela, bheyla, bhilao, bhilava, bhilavan, bhilawa, bhilwa, bilaran\nKannada (41): aginimukhi, agnimukhi, balania, bhallaathaka, bhallataka, bhallika, char, chara, chera, cheru, gaer, gaer beeja, gaer hannu, gaer kaayi, gaeru kaayi, ger, ger-kayi, gera, gerkayi, geru, gerubija, gheru, godda gaeru, goddu gaeru, goddugeru, kaeru, kaerubeeja, karee gaeru, karee geru, karigaeru, karigeri, karigeru, karigeru keru, karigheru, kera, keri, keru, kerubija, kharigheru, tere, tereda\nMalayalam (24): alakkuceru, alakkucheru, cambiri, cera, cerkkotta, cerkkuru, ceru, charei, charu, cher, chera, cherkkuru, chermara, cheru, cherunkuru, kampira, markingnut, sambiri, shengotta, temprakku, tencera, tenprakka, thainchera, thenkotta\nMarathi (6): bibba, bibha, bibo, bibu, bibua, bibwa\nSanskrit (41): Sanskrit CommentsX agnika, agnimukha, agnimukhah, agnimukhi, anala, antasatva, arshohita, arushkara, aruskara, aruskarah, avhala, bhallatah, bhallataka, bhallatakah, bhallataki, bhallatamu, bhalli, bhallika, bhutanashana, bijapadapa, dhanurvriksha, krimighna, kshatakshataru, mahatikshna, nirdahana, prithakabija, raktahara, rujakarah, shailabija, shophanuta, shothahrita, snehabija, sophahetuh, sophakrt, sphotahetu, tapana, vanhi, vanhinama, vatari, virataru, vranakrita\nTamil (85): anmaram, aracavatim, arakkimaram, arralari1, arutkaram, ce, cemaram, cenkkottai, cenkottai, cenkottai@, cenkottakimaram, ceran, ceran kottai, cerankottai, cerankottai1#, cerankottai1@, cerankottai@, cettaru, cevvalankottai, cherangkottai, cintukam, compalam, ekin1, ekinam2, erimugi, erimuki, erimuki1, iruttai, kalagam, kavaga, kirumikkinam1, kittakkanik-kottai, kittakkanikkotai, kittakkanikkottai, malaippuvikam, nantivittu, nilacceti, palampalam, pallaki#, pallaki@, pallam, pallatakam#, pallatakam@, pallataki, pallataki1, pallatam#, pallatam@, pallati, pallatilirimaram, pallatti, pallika, palliki, pallikkai, pudanashanam, putanacanam 1, se, sengottai, senkottai, seraan kottai, seran, serangkottai, serangottai, serankottai, shay-rang, shayng cottay, shen-kottai, shenkottai, sheran-kottai, sheru, takilima, takulima, tanuvirutcam1, thembarai, vallataki, vallataki 1, vallati, vallati 1, vilakam, vinakam, viracaki, viranakirutu, virataru 1, viraviruksam, viravirutcam, virumanniyam",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56f6ea2d1adfb66a5efbdc15bffa898a"
+  ],
+  "source_record_ids": [
+    "links-0299"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56f6ea2d1adfb66a5efbdc15bffa898a"
+    ],
+    "source_record_ids": [
+      "links-0299"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56f6ea2d1adfb66a5efbdc15bffa898a",
+          "Plant Name": "Semecarpus anacardium Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Semecarpus anacardium Linn.",
+        "source_record_id": "links-0299",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56f6ea2d1adfb66a5efbdc15bffa898a"
+      }
+    ],
+    "source_xplant_id": "56f6ea2d1adfb66a5efbdc15bffa898a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

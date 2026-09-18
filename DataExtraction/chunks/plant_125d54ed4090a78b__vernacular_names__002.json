@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_125d54ed4090a78b__vernacular_names__002",
+  "plant_id": "plant_125d54ed4090a78b",
+  "plant_name": "Cocos nucifera Linn.",
+  "botanical_name": "Cocos nucifera",
+  "botanical_authority": "L.",
+  "family": "ARECACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (115): cannai, catapalam1, cekaracam, cekaracamaram, cenavaritcavam, cetaram1, cevvilanir, cirappalam, cocan, curakaram#, curakaram@, cutankam, cuvatucitam, cuvatucitamaram, dennai, edagam, ekatam, etkai1, ilaneer, ilangali, ilanir, ilankali, ilankalimaram, iracakantam, iracapalam, iracayanatturu, karakatoyam, karatalikam, karatalikamaram, kaucikam, kaucipal, kaucipalmaram, kelalam, keli, kelikam2, kopparaittenkai, kurccacekaram, kurccekaram, kuriyacekaram, lankali 1, malata, milarkkali, muppudaikay, nadigelam, naligelam, naligeram narigelam, nalikelamaram, nalikeram, narigelam, narikelam1, narikeli, narikelimaram, narikolam, natikeralamaram, netiyami, netiyamimaram, nilataru1, nirampiyamaram1, palakecaram, palkecaram, panivirukkam, panivirutcam, papparattennai, pillaimaram, pul 1, pulmaram, puloka karpaka virutcakam, pulokakarpaka, pulokakarpakavirutcam, punmaram 1, racapalam, racapalamaram, tala, talai, tanba, taynga, taynga unnay, ten, tenga, tengay, tengu, tenkai, tenkai-maram, tenkay, tenku@, tenkumaram, tenna-maram, tennai, tennai maram, tennaimaram, tennamaram, tennamaruttoo pungie, tennampillai, tennan-chedi, tennang kulloo, tennanmpillai, tetcanattiram, thengu, thenku-maram, thennai, thennei, tiranaracan1, tiravirutcam, tiritavirutcam, tiriyatcimaram, tirkkapatapam, tirkkapatavam, tirutamam, uccataru, varapalam, vicumittirappariyam, vicuvamittirappiriyam, viruccopalam, viruccopalamaram, virutcapala\nTelugu (41): errabondaalakobbari, errabondalakobbari, ettabondalakobbari, guddzanarikadamu, gujjunaarikadamu, gujjunarikadamu, gujjunarikedam, kobbara, kobbari, kobbera, kobbirichettu, kobri, laangali, langali, mukkantipandu, naalikeramu, naarikadamu, naarikelamu, naarikeramu, nalikeramu, narikadam, narikadamu, narikedamu, narikelam, narikelamu, narikeram, narikeramu, narikudum, te, temranu, tenkai, tenkaia, tenkaya, tenkaya-chettu, tenkayi, tenkayichettu, thempranu, thenkaaya, thenkayamanu, trinaraajamu, trynarajamu\nTibetan (1): rgya star\nUrdu (10): maghz narjil, maghz naryal, maghz naryil, maghz-i-narjil, narial, nariyel, narjeel (naryal), naryal, naryal daryai, naryil",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeebd0ff22ec7f2d48b7194212dcf0f7"
+  ],
+  "source_record_ids": [
+    "links-1388"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeebd0ff22ec7f2d48b7194212dcf0f7"
+    ],
+    "source_record_ids": [
+      "links-1388"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeebd0ff22ec7f2d48b7194212dcf0f7",
+          "Plant Name": "Cocos nucifera Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cocos nucifera Linn.",
+        "source_record_id": "links-1388",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeebd0ff22ec7f2d48b7194212dcf0f7"
+      }
+    ],
+    "source_xplant_id": "eeebd0ff22ec7f2d48b7194212dcf0f7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

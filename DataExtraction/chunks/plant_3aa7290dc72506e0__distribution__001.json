@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_3aa7290dc72506e0__distribution__001",
+  "plant_id": "plant_3aa7290dc72506e0",
+  "plant_name": "Heliotropium indicum",
+  "botanical_name": "Heliotropium indicum",
+  "botanical_authority": "L.",
+  "family": "BORAGINACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171"
+  ],
+  "source_record_ids": [
+    "links-0412",
+    "links-0413"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171"
+    ],
+    "source_record_ids": [
+      "links-0412",
+      "links-0413"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171",
+          "Plant Name": "Heliotropium indicum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Heliotropium indicum",
+        "source_record_id": "links-0412",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171",
+          "Plant Name": "Heliotropium indicum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Heliotropium indicum Linn.",
+        "source_record_id": "links-0413",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171"
+      }
+    ],
+    "source_xplant_id": "c9fb71a0860e0d8a65c8c53554b10171",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

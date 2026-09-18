@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_9f97456f3b0e92ce__identification__001",
+  "plant_id": "plant_9f97456f3b0e92ce",
+  "plant_name": "Lannea grandis (Dennst.) Engl.",
+  "botanical_name": "Lannea coromandelica",
+  "botanical_authority": "(HOUTT.) MERRILL",
+  "family": "ANACARDIACEAE",
+  "section": "identification",
+  "content": "Plant name: Lannea grandis (Dennst.) Engl. Botanical name: Lannea coromandelica Botanical authority: (HOUTT.) MERRILL Family: ANACARDIACEAE Source xplant ID: ce649c9b00910b5bc2e1f3e8b02ca0de",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de/xclkon/e465cb5437e4dc93479de2f06660d391"
+  ],
+  "source_record_ids": [
+    "links-0657"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de/xclkon/e465cb5437e4dc93479de2f06660d391"
+    ],
+    "source_record_ids": [
+      "links-0657"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de/xclkon/e465cb5437e4dc93479de2f06660d391",
+          "Plant Name": "Lannea grandis (Dennst.) Engl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lannea grandis (Dennst.) Engl.",
+        "source_record_id": "links-0657",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de/xclkon/e465cb5437e4dc93479de2f06660d391"
+      }
+    ],
+    "source_xplant_id": "ce649c9b00910b5bc2e1f3e8b02ca0de",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

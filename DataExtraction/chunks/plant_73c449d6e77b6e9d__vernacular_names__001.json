@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_73c449d6e77b6e9d__vernacular_names__001",
+  "plant_id": "plant_73c449d6e77b6e9d",
+  "plant_name": "Cissus quadrangularis Linn.",
+  "botanical_name": "Cissus quadrangularis",
+  "botanical_authority": "L.",
+  "family": "VITACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (13): chodhari, had-jora, hadasarihari, hadjod, hadjora, har-jora, harjora, harsankar, harsankari, jangli-angoor, kandavel, kandavela, nallar\nKannada (10): asthi samhaara, mangaravalli, mangaroli, mangaruli, manimanguravalli, mungaravalli, nalle, sanduballi, sanduburu, sunduballi\nMalayalam (13): canalamparanda, cannalamparanta, cannalampiranta, changalaparanda, channalampiranta, isgangalam parenda, peranda, peranta, piranta, puranta, sannalampiranta, tsjamgelam-parenda, tsjungalamparanda\nMarathi (7): chaudhari, harsankar, kaandavela, kandavela, kandvel, mhasvel, tridhari\nSanskrit (22): Sanskrit CommentsX amara, asthisamhara, asthisamhari, asthisamhrta, asthisandana, asthisandhani, asthisanhara, asthisanharaka, asthisanhari, asthishrinkala, asthisrimkhala, asthisrinkala, asthisrnkhala, astisamhara, granthiman, grantiman, kandalata, kroshtughantika, kulisha, shiralaka, vajrakanda, vajrangi\nTamil (93): arugani, arukani, atticammarakam, aupacalaikkoti, cantumutti, caturappirantai, cikaram@, cillai, ciracunanmukan, indiravalli, intiravalli1, intiravalli@, kakantam, kakarantaki, kalali, kalippirantai, kallimantikakkoti, kapamota, kari-p-pirantai, karka, karkkotam, karrakantuyyamuli, katiyakoticci, kilankukkoti2, kiratti, kiritti, kirittikkoti, kirumikiruttan, kirutam@, kirutti, kirutticarakkoti, kirutticaram, kkaliippirantai, kotippirantai, maruvalikakkoti, maruvalikam, mata, mitunakkutaimuli, mutantacutakalikam, nallapirantai, nanmukappirantai, narcaturam, nattuppirantai, nemirtakkoti, nemirtam, palaimarutakkoti, palaimarutamuli, perandai, perikam 1, perundaycodie, perundei codie, piranadai, pirandai, pirandal, pirandei, pirantai, pirantaikkoti, pirattai, piyamaka, puranai, purandai, purantai, sathura pirandai, tanturumam, timpirantai, tippirantai, tirakkirani, tucicalakkoti, tucicalam, tucinakala, ucciratam, ucciratanti, uchiradamuttanasanjivi, ukkiramacatti, urukunkanali, usnacancivi, uttanacancivi, vacciram 2, vacciramuli 2, vacciranci, vaccirancikkoti, vaccirattaipparpamakki, vacciravalli, vacciravallikkoti, vachiravalli, vaciravalli, vajjiravalli, valantalaittamuli, vayiravalli, vetarikkantaputu, virala, viranapaka, viranapakam\nTelugu (12): gudametige, hadobanda, hadojoda, kokkitaya-ralu, nallaeru, nalleru, nullerootigeh, nullerootingah, nullerotigen, nullerutigeh, vajra valli, vajravalli\nUrdu (1): harjora",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685b6edd514a4c36584e487aa2705e14"
+  ],
+  "source_record_ids": [
+    "links-0204"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685b6edd514a4c36584e487aa2705e14"
+    ],
+    "source_record_ids": [
+      "links-0204"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685b6edd514a4c36584e487aa2705e14",
+          "Plant Name": "Cissus quadrangularis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cissus quadrangularis Linn.",
+        "source_record_id": "links-0204",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685b6edd514a4c36584e487aa2705e14"
+      }
+    ],
+    "source_xplant_id": "685b6edd514a4c36584e487aa2705e14",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

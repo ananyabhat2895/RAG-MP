@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_acddd1565e2f9a00__images__001",
+  "plant_id": "plant_acddd1565e2f9a00",
+  "plant_name": "Ceropegia tuberosa Roxb.",
+  "botanical_name": "Ceropegia tuberosa",
+  "botanical_authority": "ROXB.",
+  "family": "ASCLEPIADACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bb4a2f17e43a45c6c40adfce82f77fa0"
+  ],
+  "source_record_ids": [
+    "links-0608"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bb4a2f17e43a45c6c40adfce82f77fa0"
+    ],
+    "source_record_ids": [
+      "links-0608"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bb4a2f17e43a45c6c40adfce82f77fa0",
+          "Plant Name": "Ceropegia tuberosa Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ceropegia tuberosa Roxb.",
+        "source_record_id": "links-0608",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bb4a2f17e43a45c6c40adfce82f77fa0"
+      }
+    ],
+    "source_xplant_id": "bb4a2f17e43a45c6c40adfce82f77fa0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

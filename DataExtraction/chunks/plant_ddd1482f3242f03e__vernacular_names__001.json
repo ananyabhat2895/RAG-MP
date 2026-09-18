@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ddd1482f3242f03e__vernacular_names__001",
+  "plant_id": "plant_ddd1482f3242f03e",
+  "plant_name": "Panicum miliaceum Linn.",
+  "botanical_name": "Panicum miliaceum",
+  "botanical_authority": "L.",
+  "family": "POACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): common millet, french millet, prosomillet, russian millet\nHindi (5): cheena, chena, chin, china, chinna\nKannada (10): anu hullu, bahu dhaanya, baragu, bargu, bili baragu, bilibaragu, karay baragu, kari baragu, karibaragu, save\nMalayalam (1): kuren-pullu\nMarathi (7): barag, raal, sava, varay, varayi, vari, varik\nSanskrit (11): Sanskrit CommentsX anu, china, chini, cinaka, cini, kakakangu, kuri, rad, vara, varaka, vrihibheda\nTamil (5): chami, katakanai, manivarakucamai, saamai, varagu\nTelugu (3): barigalu, varagalu, worga",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2a417478f87b9f6ca986577f43c9ac7"
+  ],
+  "source_record_ids": [
+    "links-0447"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2a417478f87b9f6ca986577f43c9ac7"
+    ],
+    "source_record_ids": [
+      "links-0447"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2a417478f87b9f6ca986577f43c9ac7",
+          "Plant Name": "Panicum miliaceum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Panicum miliaceum Linn.",
+        "source_record_id": "links-0447",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2a417478f87b9f6ca986577f43c9ac7"
+      }
+    ],
+    "source_xplant_id": "d2a417478f87b9f6ca986577f43c9ac7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_28811037ccf9548f__vernacular_names__003",
+  "plant_id": "plant_28811037ccf9548f",
+  "plant_name": "Ficus religiosa",
+  "botanical_name": "Ficus religiosa",
+  "botanical_authority": "L.",
+  "family": "MORACEAE",
+  "section": "vernacular_names",
+  "content": "Telugu (28): arasum, ashvaddhamu, ashvatham, ashvathhamu, ashvatthamu, asvaddhamu, asvatthamu, asvatthhamu, aswatham, bodhi, bodhidrumamu, bogaha, caladalamu, chaladamu, kalla raavi, kulla-ravi, pippali, raagi chettu, raavi, raavi chettu, raghie, ragi, rai, raiga, ravi, ravichettu, ray, rohi\nTibetan (1): a sba dtha\nUrdu (3): peepal, pipal kalan, poast pipal",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9206123b72aebbce3bfd5030761c172"
+  ],
+  "source_record_ids": [
+    "links-0184",
+    "links-0228"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9206123b72aebbce3bfd5030761c172"
+    ],
+    "source_record_ids": [
+      "links-0184",
+      "links-0228"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9206123b72aebbce3bfd5030761c172",
+          "Plant Name": "Ficus religiosa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus religiosa",
+        "source_record_id": "links-0184",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9206123b72aebbce3bfd5030761c172"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9206123b72aebbce3bfd5030761c172",
+          "Plant Name": "Ficus religiosa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus religiosa Linn.",
+        "source_record_id": "links-0228",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9206123b72aebbce3bfd5030761c172"
+      }
+    ],
+    "source_xplant_id": "c9206123b72aebbce3bfd5030761c172",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

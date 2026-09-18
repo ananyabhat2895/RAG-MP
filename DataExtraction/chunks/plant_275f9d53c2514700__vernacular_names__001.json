@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_275f9d53c2514700__vernacular_names__001",
+  "plant_id": "plant_275f9d53c2514700",
+  "plant_name": "Argemone mexicana",
+  "botanical_name": "Argemone mexicana",
+  "botanical_authority": "L.",
+  "family": "PAPAVERACEAE",
+  "section": "vernacular_names",
+  "content": "English (6): mexican poppy, mexican prickly poppy, prickly poppy, thorn poppy, yellow prickly poppy, yellow thistle\nHindi (25): bharband, bharbhand, bhatbhamt, biladhutura brahmadundi, brahmi, farangi-dhutura, farangidhatura, farangidhutura, firanghee-dhatura, kandailu, kandiari, kateli, kutila, pharamgi dhattura, pila-dhatura, pila-dhutura, pili-kateli, satayanasi, satiyanashi, satyanashi, satyanasi, shial kanta, shialkanta, shiyal-kanta, ujar-kanta\nKannada (23): arasina ummathi, arasina-ummatta, arisina datthoora, arisina kammata gida, arisina ummatthi, arsha unmatta, balarakkasa, balurakkisa, chikkanike, datthoori, datthoori gida, datturi, datturi-gida, datturigidda, dhadhuri, dhatturada gida, golagolike, haladigolavalike, huttchu brahmadandi, mullu datthoori, mullu ummatthi, mulludaturi, parangidatturi\nMalayalam (4): brahmadanti, kantankattiri, ponnummattu, ponnummattum\nMarathi (9): daruri, firangi-dhotra, firangidhotra, kanta-dhotra, kantedhotra, kontedhotra, pinvaladhotra, pivala-dhatura, savo-marmad\nSanskrit (36): Sanskrit CommentsX brahma-dundi, brahmadandi, brahmandanti, bramhi, brumadandie, canaksiri, darudi, haimavathi, hemadugdha, hemashikha, hemavati, hemavha, kancani, kanchanakehiri, kanchani, karhini, katuparni, kshirini, ksiraparni, patuparni, pitadugdha, pitapushpa, rukmini, sarvaksiri, satyanasi, srigalakanta, srigalakantaka, suvarna, suvarnaksiri, svarnadagdha, svarnadugdha, svarnakshiri, svarnaksiri, svarnavha, swarnakshiri, yavachincha\nTamil (60): avaramuki, birama-dandu, biramadandu, brahmathadu, brahmathandi, brahmmadandu, bramadand, bramadandu, brumadundoo, brumarakash, catilinkattaikkuruvakki, cetikkurukku, cirikalakantam, cittacacceti, cittacam, elakacceti, elakam, eliyotti, eliyottippuntu, iracakuruva, kani, karuncattirakacceti, karuncattirakam, kudiyattup-pundu, kudiyotti, kudiyotti poondu, kurukkam, kurukkam ceti, kurukkam-chedi, kurukkamceti, kurukku, kurukkucceti, kurukkum, kurukkum-chedi, kurukkumuthu, kurukkutti, kutikkuccani, kutiyotippuntu, kutiyotti, kutiyottip puntu, kutiyottippuntu, mutkacikam, piramadanti, piramarakkacam, piramatantam, piramatanti, piramatanti 2, piramatantu, piramathandu, piramattantu, pirammarakaci, pirammatanti, pirattiyam, ponnummattai, putpi, tittaca, totara, venkurukkucceti, virincanan, virincananceti\nTelugu (11): balu rakkisa, brahma dhandu, brahmadandi, brahmadhandu, brahmdandichettu, bramha-dandi-chettu, datturi, ittoori, kusumapala, pichy kusama chettu, yerrikusuma\nUrdu (1): baramdandi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e93a9d29c6a195665eb396e6fedb15e"
+  ],
+  "source_record_ids": [
+    "links-0368",
+    "links-1778"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e93a9d29c6a195665eb396e6fedb15e"
+    ],
+    "source_record_ids": [
+      "links-0368",
+      "links-1778"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e93a9d29c6a195665eb396e6fedb15e",
+          "Plant Name": "Argemone mexicana",
+          "Status": "Found"
+        },
+        "source_plant_name": "Argemone mexicana",
+        "source_record_id": "links-0368",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e93a9d29c6a195665eb396e6fedb15e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e93a9d29c6a195665eb396e6fedb15e",
+          "Plant Name": "Argemone mexicana Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Argemone mexicana Linn.",
+        "source_record_id": "links-1778",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e93a9d29c6a195665eb396e6fedb15e"
+      }
+    ],
+    "source_xplant_id": "5e93a9d29c6a195665eb396e6fedb15e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

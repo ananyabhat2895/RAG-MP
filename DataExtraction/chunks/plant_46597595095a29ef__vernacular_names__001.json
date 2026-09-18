@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_46597595095a29ef__vernacular_names__001",
+  "plant_id": "plant_46597595095a29ef",
+  "plant_name": "Euphorbia antiquorum Linn.",
+  "botanical_name": "Euphorbia antiquorum",
+  "botanical_authority": "L.",
+  "family": "EUPHORBIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (7): sehund, tidhara, tidhara-schnd, tidhara-sehna, tidhara-sehnel, tidhara-sehnr, tidhara-sehud\nKannada (29): bontakalli, bonte kalli, bontegalli, bontekalli, bonthe kalli, bonthekalli, cadarakalli, caturakalli, chadara kalli, chadaragalli, chandara galli, chathura kalli, chaturagalli, daare kalli, darekalli, jade kalli, jadegalli, jadekalli, jedekalli, kaadu kalli, katakkalli, mondu galli, mooru enina kalli, mudumula, mundu moola, mundugalli, mundukalli, sarekalli, sumanthadughade\nMalayalam (13): caturakalli, caturakkalli, chathurakalli, chatirak-kalli, chaturakalli, chaturakkalli, chaturkalli, kalli, katak-kalli, katakkalli, schadida-calli, schadidacalli, shadurakalli\nMarathi (11): nara, naraseja, narsej, navadunga, nivaduunga, pad-nival, sij, thridhaari, tirikon, tridhari, tuar\nSanskrit (20): Sanskrit CommentsX gandira, mahataru, nanda, nisrinapatra, seehoondee, sehunda, simhunda, situnda, snuhi, snuk, sudha, tridhara, tridharaka, vajra, vajrakantaka, vajrakantakah, vajrakshira, vajratundi, vajravrksa, vajri\nTamil (109): amudangam, amutankam, atankakkaratti, atankatacatti, ataviyiltiruti, ayili, cadurakkalli, cakkalavi, cakkalavi@, catankai, catarcci, catirakkalli, caturakakkalli, caturakkalli, caturam, caturamankalli, caturaveti, cetikkalli, chadura-kalli, chandurakkalli, chathurakkalli, culam, culi1, cunaki, cunakkutakkalli, cunakkutam#, cunakkutam@, cunanku, cunankukkalli, cuntiyuntai, cunuki#, cunuki@, cunukku, cunukkukkalli, curukkucam, cutacci, cutarcci, cutarccikkalli, cutuki, cuturcci, iracapattiram, iratcaci, kalli, kalli1, kallimatitam, kandiravam, kaniravam, kaniravan, kankaippalilai, kannacaram1, kanti1, kantiram, kantiravam1, kantirvam, karkatakamatar, karuvamarappali, katterumai1, katterumaikkalli, kattuccaturakkalli, katuri1, kiruttinacarucapam1, kodiravam, komakkalli, koman, komaram, kotarakam, kotiravakkalli, kotiravam, kutacittiri, kutam, makavirukkam, makaviruttakkalli, makaviruttam, makkanutaiyalmuli, mavirukkam, mavirukkam murittargalli, muccaturam, mullucculi, murittarkalli, murukki, nanmukakkalli, palakaikkalli 1, palanikakkalli, palanikam, pallinar, pallinarkalli, pallirai, saduchi, sadura-kalli, sadurakkalli, sathura kalli, saturakkalli, shadraykullie paal, shadurak-kalli, shadurakkalli, shadurakkally, tirikalli, tiruvargalli, tiruvarkalli1, tuttanniyam, vacciram 1, vacciramuli 1, vaccirankam#, vaccirankam@, vacciratuntam, vacciri, vacittatimuli, vatakkini, visani@",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d2cb44cd163454d6da065437a8434bf"
+  ],
+  "source_record_ids": [
+    "links-1819"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d2cb44cd163454d6da065437a8434bf"
+    ],
+    "source_record_ids": [
+      "links-1819"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d2cb44cd163454d6da065437a8434bf",
+          "Plant Name": "Euphorbia antiquorum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia antiquorum Linn.",
+        "source_record_id": "links-1819",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d2cb44cd163454d6da065437a8434bf"
+      }
+    ],
+    "source_xplant_id": "4d2cb44cd163454d6da065437a8434bf",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

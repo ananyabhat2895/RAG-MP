@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5a3ab051697e0b7b__botanical_synonyms__001",
+  "plant_id": "plant_5a3ab051697e0b7b",
+  "plant_name": "Entada scandens Benth.",
+  "botanical_name": "Entada scandens",
+  "botanical_authority": "BENTH.",
+  "family": "MIMOSACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Eniada scandens AUCT. NON BENTH.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/866f4a7d571c9da93c321934849f1953"
+  ],
+  "source_record_ids": [
+    "links-1550"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/866f4a7d571c9da93c321934849f1953"
+    ],
+    "source_record_ids": [
+      "links-1550"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/866f4a7d571c9da93c321934849f1953",
+          "Plant Name": "Entada scandens Benth.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Entada scandens Benth.",
+        "source_record_id": "links-1550",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/866f4a7d571c9da93c321934849f1953"
+      }
+    ],
+    "source_xplant_id": "866f4a7d571c9da93c321934849f1953",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5b1ec1850cf5de51__distribution__001",
+  "plant_id": "plant_5b1ec1850cf5de51",
+  "plant_name": "Mollugo cerviana Ser.",
+  "botanical_name": "Mollugo cerviana",
+  "botanical_authority": "SER.",
+  "family": "MOLLUGINACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f4e367511a4b37c7dbb1734f71bb44a"
+  ],
+  "source_record_ids": [
+    "links-1456"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f4e367511a4b37c7dbb1734f71bb44a"
+    ],
+    "source_record_ids": [
+      "links-1456"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f4e367511a4b37c7dbb1734f71bb44a",
+          "Plant Name": "Mollugo cerviana Ser.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mollugo cerviana Ser.",
+        "source_record_id": "links-1456",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f4e367511a4b37c7dbb1734f71bb44a"
+      }
+    ],
+    "source_xplant_id": "9f4e367511a4b37c7dbb1734f71bb44a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

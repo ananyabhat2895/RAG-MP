@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_fdaaf1ed01dc0945__distribution__002",
+  "plant_id": "plant_fdaaf1ed01dc0945",
+  "plant_name": "Cissampelos pareira Linn.",
+  "botanical_name": "Cissampelos pareira",
+  "botanical_authority": "L.",
+  "family": "MENISPERMACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db65a57f09ae70c2cf447635e8bbd8b3"
+  ],
+  "source_record_ids": [
+    "links-1496"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db65a57f09ae70c2cf447635e8bbd8b3"
+    ],
+    "source_record_ids": [
+      "links-1496"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db65a57f09ae70c2cf447635e8bbd8b3",
+          "Plant Name": "Cissampelos pareira Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cissampelos pareira Linn.",
+        "source_record_id": "links-1496",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db65a57f09ae70c2cf447635e8bbd8b3"
+      }
+    ],
+    "source_xplant_id": "db65a57f09ae70c2cf447635e8bbd8b3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

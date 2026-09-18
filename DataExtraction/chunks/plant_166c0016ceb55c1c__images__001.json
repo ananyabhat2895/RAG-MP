@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_166c0016ceb55c1c__images__001",
+  "plant_id": "plant_166c0016ceb55c1c",
+  "plant_name": "Blepharis edulis",
+  "botanical_name": "Blepharis persica",
+  "botanical_authority": "(BURM.) O. KUNTZE",
+  "family": "ACANTHACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/227437f15c6d91028bd0133aa36f3fbf/xclkon/aa82610f0e0565403e7e74f762e713b5"
+  ],
+  "source_record_ids": [
+    "links-2012",
+    "links-2013"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/227437f15c6d91028bd0133aa36f3fbf/xclkon/aa82610f0e0565403e7e74f762e713b5"
+    ],
+    "source_record_ids": [
+      "links-2012",
+      "links-2013"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/227437f15c6d91028bd0133aa36f3fbf/xclkon/aa82610f0e0565403e7e74f762e713b5",
+          "Plant Name": "Blepharis edulis",
+          "Status": "Found"
+        },
+        "source_plant_name": "Blepharis edulis",
+        "source_record_id": "links-2012",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/227437f15c6d91028bd0133aa36f3fbf/xclkon/aa82610f0e0565403e7e74f762e713b5"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/227437f15c6d91028bd0133aa36f3fbf/xclkon/aa82610f0e0565403e7e74f762e713b5",
+          "Plant Name": "Blepharis edulis Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Blepharis edulis Pers.",
+        "source_record_id": "links-2013",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/227437f15c6d91028bd0133aa36f3fbf/xclkon/aa82610f0e0565403e7e74f762e713b5"
+      }
+    ],
+    "source_xplant_id": "227437f15c6d91028bd0133aa36f3fbf",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_57e019610e0f5585__images__001",
+  "plant_id": "plant_57e019610e0f5585",
+  "plant_name": "Eclipta alba",
+  "botanical_name": "Eclipta prostrata",
+  "botanical_authority": "(L.) L.",
+  "family": "ASTERACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebdf4cc43c22f9b9ef56093a924611d9/xclkon/8eb2faa62f552ed9c850bb651d691938"
+  ],
+  "source_record_ids": [
+    "links-0329",
+    "links-0330"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebdf4cc43c22f9b9ef56093a924611d9/xclkon/8eb2faa62f552ed9c850bb651d691938"
+    ],
+    "source_record_ids": [
+      "links-0329",
+      "links-0330"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebdf4cc43c22f9b9ef56093a924611d9/xclkon/8eb2faa62f552ed9c850bb651d691938",
+          "Plant Name": "Eclipta alba",
+          "Status": "Found"
+        },
+        "source_plant_name": "Eclipta alba",
+        "source_record_id": "links-0329",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebdf4cc43c22f9b9ef56093a924611d9/xclkon/8eb2faa62f552ed9c850bb651d691938"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebdf4cc43c22f9b9ef56093a924611d9/xclkon/8eb2faa62f552ed9c850bb651d691938",
+          "Plant Name": "Eclipta alba Hassk.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Eclipta alba Hassk.",
+        "source_record_id": "links-0330",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebdf4cc43c22f9b9ef56093a924611d9/xclkon/8eb2faa62f552ed9c850bb651d691938"
+      }
+    ],
+    "source_xplant_id": "ebdf4cc43c22f9b9ef56093a924611d9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

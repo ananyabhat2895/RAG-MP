@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ccf6da92a9a96ec0__botanical_synonyms__001",
+  "plant_id": "plant_ccf6da92a9a96ec0",
+  "plant_name": "Colocasia esculenta (Linn.) Schott.",
+  "botanical_name": "Colocasia esculenta",
+  "botanical_authority": "(L.) SCHOTT",
+  "family": "ARACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Arum colocasia L. Colocasia antiquorum SCHOTT X Full Botanical citation - Colocasia antiquorum Schott l.c.; Hook.f. in Fl. Brit. India 6: 523. 1893; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 607. 1999.\nSynonym: Arum colocasia L.\nSynonym: Colocasia antiquorum SCHOTT",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d261ad160748e7170f7a11df570890b8"
+  ],
+  "source_record_ids": [
+    "links-0089"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d261ad160748e7170f7a11df570890b8"
+    ],
+    "source_record_ids": [
+      "links-0089"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d261ad160748e7170f7a11df570890b8",
+          "Plant Name": "Colocasia esculenta (Linn.) Schott.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Colocasia esculenta (Linn.) Schott.",
+        "source_record_id": "links-0089",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d261ad160748e7170f7a11df570890b8"
+      }
+    ],
+    "source_xplant_id": "d261ad160748e7170f7a11df570890b8",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

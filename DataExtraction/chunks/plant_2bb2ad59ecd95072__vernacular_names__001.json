@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2bb2ad59ecd95072__vernacular_names__001",
+  "plant_id": "plant_2bb2ad59ecd95072",
+  "plant_name": "Cannabis sativa Linn.",
+  "botanical_name": "Cannabis sativa",
+  "botanical_authority": "L.",
+  "family": "CANNABINACEAE",
+  "section": "vernacular_names",
+  "content": "English (14): bhang, ganja, grass, hashish, hemp, indian hemp, marihuana, marijuana, mary jane, pot, reefer, russian hemp, skunk, weed\nHindi (18): barh, bhang, bhanga, bhangala, bhangla, bohar, caras, charas, ganja, ganje-ka-per, ganjekaper, gur, kinnab, kus, phulganja, sabzi, siddhi, wild hemp\nKannada (8): bhangi, bhangi gida, bhangi-gida, bhangigida, gaanja gida, gaanjaa gida, ganja gida, kusuvu gida\nMalayalam (10): cherukanchava, ginjilachilachi, kalengi-cansjava, kancabu, kancha, kanchava chedi, kanchava-cheti, kanchavachetto, sivamuli, tsjeru-cansjava\nMarathi (3): bhamgi, bhang, bhangachajhada\nSanskrit (57): Sanskrit CommentsX ajaya, ananda, anja, bahuvadini, banga, bhanga, bhangi, bhringi, bhrngi, bijeeah, chapala, chapola, dhurtapatri, dhurtavadhu, ganjica, ganjika, hanga, hara, harshini, hursini, indrasana, indrashana, janavallika, jaya, kamagni, madani, manohara, matkunari, matta, matulani, matuli, maya, mohini, nili, ranjika, sakasana, sankhapuspi, sankhini, saumya, shakrashana, shiva, shivapriya, siddhapatri, soma, tandrakrt, tandraruchivardhini, trailokhya-vijaya, trailokyavijaya, ujaya, unmattini, ununda, vajradruvikshaha, vajradruvrikshaha, vijaya, virapatra, vrijpatta, yogini\nTamil (87): alatam, ananta muli, anantacaram 2, anantakarpam, anantakopitam, anantam 2, anantamuli, anantamuli#, anantaymuli, ankaravalli, anuvallipputu, atuttaraimayakki, auvaimuli, bangi, bhamgi, bhang, caciyam 1, camittika, camittikacceti, camittu, canappu, catacivanmuli, cattikurunatan, cimaikkanca, cipiccam, cittapattiri, cittarunnupukaimuli, civamuli, ganca, ganja, ganja chedi, ganja-chedi, ganjah, icantirumuli, icuramuli, intiracanam, iyakatitacceti, iyakatitam, kalpam, kanca, kancacceti, kancam, kancavittu, kanja, kantattiri, karpam 2, karpamuli, katalataittan, kattittam 1, katutittakam, kirincanam 1, korakai, korakkar muli, korakkar-muli, korakkarmuli, korakkarmulikai, korkaluli, korkkarmuli, kurumuli, kuvalai, lakiri, macataiyan, madamattagam, matamattakam, moki, mullai, mutantam, mutantam 2, nanapattiri, nattukkanca, nittirakari, nittirakaricceti, pangi, panki, periyorunnunkarpam, sivamuli, tanaimayakkimuli, taraimatu, tikaipputtiram, tiriculi 1, tirkkapalavam, ulokakarpanani, vaccirataru, visamulam 2, yokakarpatti, yokamavalarttitunani, yokattaivalarkkumuli",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecd201452a1b2725f9d85e58abdbbf8b"
+  ],
+  "source_record_ids": [
+    "links-0304"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecd201452a1b2725f9d85e58abdbbf8b"
+    ],
+    "source_record_ids": [
+      "links-0304"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecd201452a1b2725f9d85e58abdbbf8b",
+          "Plant Name": "Cannabis sativa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cannabis sativa Linn.",
+        "source_record_id": "links-0304",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecd201452a1b2725f9d85e58abdbbf8b"
+      }
+    ],
+    "source_xplant_id": "ecd201452a1b2725f9d85e58abdbbf8b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

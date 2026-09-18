@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_02a5534c130965dd__identification__001",
+  "plant_id": "plant_02a5534c130965dd",
+  "plant_name": "Cucumis trigonus Roxb.",
+  "botanical_name": "Cucumis pseudo-colocynthi",
+  "botanical_authority": "ROYLE",
+  "family": "CUCURBITACEAE",
+  "section": "identification",
+  "content": "Plant name: Cucumis trigonus Roxb. Botanical name: Cucumis pseudo-colocynthi Botanical authority: ROYLE Family: CUCURBITACEAE Source xplant ID: 282641155449618e266d50cc146a9e35",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/282641155449618e266d50cc146a9e35/xclkon/98967d8b51a93ffa11ad42d30567fe3a"
+  ],
+  "source_record_ids": [
+    "links-0744"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/282641155449618e266d50cc146a9e35/xclkon/98967d8b51a93ffa11ad42d30567fe3a"
+    ],
+    "source_record_ids": [
+      "links-0744"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/282641155449618e266d50cc146a9e35/xclkon/98967d8b51a93ffa11ad42d30567fe3a",
+          "Plant Name": "Cucumis trigonus Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cucumis trigonus Roxb.",
+        "source_record_id": "links-0744",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/282641155449618e266d50cc146a9e35/xclkon/98967d8b51a93ffa11ad42d30567fe3a"
+      }
+    ],
+    "source_xplant_id": "282641155449618e266d50cc146a9e35",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b371cf428be7c07e__distribution__001",
+  "plant_id": "plant_b371cf428be7c07e",
+  "plant_name": "Mollugo hirta Thunb.",
+  "botanical_name": "Glinus lotoides",
+  "botanical_authority": "L.",
+  "family": "AIZOACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol I\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/cec6d03d0e1bbe969c56f2e457d35f35"
+  ],
+  "source_record_ids": [
+    "links-1457"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/cec6d03d0e1bbe969c56f2e457d35f35"
+    ],
+    "source_record_ids": [
+      "links-1457"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/cec6d03d0e1bbe969c56f2e457d35f35",
+          "Plant Name": "Mollugo hirta Thunb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mollugo hirta Thunb.",
+        "source_record_id": "links-1457",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/cec6d03d0e1bbe969c56f2e457d35f35"
+      }
+    ],
+    "source_xplant_id": "67349d031267ee6d717be88c91b873eb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

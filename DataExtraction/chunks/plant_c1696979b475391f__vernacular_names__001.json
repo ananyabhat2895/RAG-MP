@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c1696979b475391f__vernacular_names__001",
+  "plant_id": "plant_c1696979b475391f",
+  "plant_name": "Meyna laxiflora Robyns.",
+  "botanical_name": "Meyna laxiflora",
+  "botanical_authority": "ROBYNS",
+  "family": "RUBIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (3): moina, muduna, muyuna\nKannada (22): acchoora mullu, accuramullu, achchurmullu, achhoora mullu, achhura mullu, achuramuulu, chegu gadde, chegu gedde, gobergally, gonda kaare, guna kaare, gundkare, gundu kaare, kaari mullu, karimullu, maggaare, maggare, mangare, mangase, mullakare, mullu kaare, swasana\nMarathi (8): alu, cchircholi, chirbot, chircholi, halawni, helu, huloo, madandriksh\nSanskrit (8): Sanskrit CommentsX mainphala, nagakesarah, nagapuspah, pinda, pindi, pinditaka, pindituka, pindu\nTamil (1): manakkarai\nTelugu (7): cegagadda, chegagadda, segagadda, veliki, vicikilamu, vishikilamu, visikilamu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/98c810ae2787dceac870f83ad3b436de"
+  ],
+  "source_record_ids": [
+    "links-1206"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/98c810ae2787dceac870f83ad3b436de"
+    ],
+    "source_record_ids": [
+      "links-1206"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/98c810ae2787dceac870f83ad3b436de",
+          "Plant Name": "Meyna laxiflora Robyns.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Meyna laxiflora Robyns.",
+        "source_record_id": "links-1206",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/98c810ae2787dceac870f83ad3b436de"
+      }
+    ],
+    "source_xplant_id": "98c810ae2787dceac870f83ad3b436de",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_436575fcf5949f49__vernacular_names__001",
+  "plant_id": "plant_436575fcf5949f49",
+  "plant_name": "Crataeva nurvala Buch-Ham.",
+  "botanical_name": "Crataeva magna",
+  "botanical_authority": "(LOUR.) DC.",
+  "family": "CAPPARACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (15): bama, barna, barna (introduced), barun, bel-ka-pat, bel-patri, bila, bilasi, biliana, tapia, vaivarno, vanni, vanno, varno, varvunna\nKannada (46): adhiraaja, bila-patri, bilapathri, bilapatri, bilpatri, bitusi, doddelanga, hoddelenage, hoddelengage, holenekki, holetalkki, holethumbe, holethumbi, maavalanga mara, maavilanga, maayaa langa, madabalase, mata maavu, matamoolangi, mavalanga, mavilinga, naaram bele, naarumbele, narave, narumbala, narumbele, neergini, neerunjaane, neervaala mara, neervaale, nerajani, neravambele, neravele, nerujani, nervaala, nervala, nirujani, nirvala, nuvala, sethu bandhana, tudemadirenge, tudemadirengi, vaayu varuna, vitasi, vittasi, vitusi\nMalayalam (20): kili, killi, neervala, niirvala, niramathalam, niravila, nirmatalam, nirmathalam, nirumaliyam, nirumaliyan, nirval, nirvala, nirvela, nirveyla, nirvila, nirvval, nurvala, varana, vilva-patram, vitusi\nMarathi (10): haravarna, karvan, kumla, nirvala, nurvel, ramala, vaayuvarna, varun, vayavarna, vayvarna\nSanskrit (34): Sanskrit CommentsX ajapa, ajapavaruna, ashmarygna, asmarighna, asmarignah, barhapushpa, bilvapatram, ganda, kumara, kumaraka, kumarakah, mahakapittha, marutapaha, pasunadha, sadhuvriksha, satuvriksha, setuka, setuvriksha, setuvrksah, shikhimandal, shvetadru, shvetadruma, shvetavriksha, tamala, tikta-shaka, tiktasakah, tiktashaka, urumana, varana, varanah, varuna, varunah, vasaha, vilwa -patra\nTamil (76): adicharanam, adimalam, alam2, amma, ancali 2, anjali, arimal, arimalam, ariyacaranam, atarri, atimalam, bilva-ilai, calumalikam, cattal1, cetu, culetiyam, cuppiyam2, cuvetaki1, cuvetakimaram, cuvetaputpi, ilankaitticcutar, ilinkam, inaivilai, kattumavilangai, katu, katuvan, katuvanmarm, kudugi, kumarakam, kumarakamaram, kunamali, kuvilam, kuvilam2, maavilangam, maavilingam, makatacam, makatacamaram, maluram, mantamacurri, mantamarukki, mantittai, maralingam, marilinga, mavalian, mavalingai, mavalingam, mavatippai, mavilangai, mavilankai, mavilankam, mavilanku, mavilinakam, mavilinga maram, mavilingam, mavilinghum puttay, mavilingu, maviliukam, narvala, periyamavilinkam, purimantam, putanatam, rumalam, tatimata, tiripuramerittan3, tittacaram, titticakam, titticakiyam, titticakiyamaram, vanni 4, varanam, varanam#, varanam@, varani kumarakam, varunam@, veelvie elley, vilvap-pattiri",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e/xclkon/5aba6c71221a2fe36adc13ca390435a4"
+  ],
+  "source_record_ids": [
+    "links-2059",
+    "links-2060"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e/xclkon/5aba6c71221a2fe36adc13ca390435a4"
+    ],
+    "source_record_ids": [
+      "links-2059",
+      "links-2060"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e/xclkon/5aba6c71221a2fe36adc13ca390435a4",
+          "Plant Name": "Crataeva nurvala Buch-Ham.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Crataeva nurvala Buch-Ham.",
+        "source_record_id": "links-2059",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e/xclkon/5aba6c71221a2fe36adc13ca390435a4"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e/xclkon/5aba6c71221a2fe36adc13ca390435a4",
+          "Plant Name": "Crataeva nurvala Buch.-Ham.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Crataeva nurvala Buch.-Ham.",
+        "source_record_id": "links-2060",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e/xclkon/5aba6c71221a2fe36adc13ca390435a4"
+      }
+    ],
+    "source_xplant_id": "7e5ede302a183a350c8d4f403e31404e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

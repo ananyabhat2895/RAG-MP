@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_37222ec2cc940bcd__identification__001",
+  "plant_id": "plant_37222ec2cc940bcd",
+  "plant_name": "Syzygium jambos (Linn.) Alston.",
+  "botanical_name": "Syzygium jambos",
+  "botanical_authority": "(L.) ALSTON",
+  "family": "MYRTACEAE",
+  "section": "identification",
+  "content": "Plant name: Syzygium jambos (Linn.) Alston. Botanical name: Syzygium jambos Botanical authority: (L.) ALSTON Family: MYRTACEAE Source xplant ID: 9adbf18a4ccfab843085149dff116ec3",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9adbf18a4ccfab843085149dff116ec3"
+  ],
+  "source_record_ids": [
+    "links-0768"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9adbf18a4ccfab843085149dff116ec3"
+    ],
+    "source_record_ids": [
+      "links-0768"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9adbf18a4ccfab843085149dff116ec3",
+          "Plant Name": "Syzygium jambos (Linn.) Alston.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Syzygium jambos (Linn.) Alston.",
+        "source_record_id": "links-0768",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9adbf18a4ccfab843085149dff116ec3"
+      }
+    ],
+    "source_xplant_id": "9adbf18a4ccfab843085149dff116ec3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

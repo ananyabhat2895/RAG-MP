@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_f6ae48d9e33bf537__botanical_synonyms__001",
+  "plant_id": "plant_f6ae48d9e33bf537",
+  "plant_name": "Balanites aegyptiaca",
+  "botanical_name": "Balanites aegyptiaca",
+  "botanical_authority": "(L.) DELILE",
+  "family": "BALANITACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Balanites roxburghii PLANCH. X Full Botanical citation - Balanites roxburghii Planch. in Ann. Sci. Nat. Bot. ser. 4. 2: 258. 1854; P.Singh & V. Singh in Hajra & al., Fl. India 4: 40. 1997. Ximenia aegyptiaca L. X Full Botanical citation - Ximenia aegyptiaca L. Sp. Pl. 1194. 1753; N.P.Singh &al., Fl.Maharashtra state, Dicotyledones, 1: Fl.India Ser. 2: 491. 2000.\nSynonym: Balanites roxburghii PLANCH.\nSynonym: Ximenia aegyptiaca L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7"
+  ],
+  "source_record_ids": [
+    "links-0746",
+    "links-0747"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7"
+    ],
+    "source_record_ids": [
+      "links-0746",
+      "links-0747"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7",
+          "Plant Name": "Balanites aegyptiaca",
+          "Status": "Found"
+        },
+        "source_plant_name": "Balanites aegyptiaca",
+        "source_record_id": "links-0746",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7",
+          "Plant Name": "Balanites aegyptiaca (Linn.) Delile.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Balanites aegyptiaca (Linn.) Delile.",
+        "source_record_id": "links-0747",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7"
+      }
+    ],
+    "source_xplant_id": "cdc40766b050f355f72e25ef8060a9b7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

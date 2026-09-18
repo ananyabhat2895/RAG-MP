@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_0888e0ace2f87810__systems_of_medicine__001",
+  "plant_id": "plant_0888e0ace2f87810",
+  "plant_name": "Smilax china Linn.",
+  "botanical_name": "Smilax china",
+  "botanical_authority": "L.",
+  "family": "SMILACACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/548e2aa378038bef7b03daf4fe911fb7"
+  ],
+  "source_record_ids": [
+    "links-0464"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/548e2aa378038bef7b03daf4fe911fb7"
+    ],
+    "source_record_ids": [
+      "links-0464"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/548e2aa378038bef7b03daf4fe911fb7",
+          "Plant Name": "Smilax china Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Smilax china Linn.",
+        "source_record_id": "links-0464",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/548e2aa378038bef7b03daf4fe911fb7"
+      }
+    ],
+    "source_xplant_id": "548e2aa378038bef7b03daf4fe911fb7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

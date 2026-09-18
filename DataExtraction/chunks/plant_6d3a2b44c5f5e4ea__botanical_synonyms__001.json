@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_6d3a2b44c5f5e4ea__botanical_synonyms__001",
+  "plant_id": "plant_6d3a2b44c5f5e4ea",
+  "plant_name": "Bryophyllum pinnatum (Lam.) Kurz.",
+  "botanical_name": "Kalanchoe pinnata",
+  "botanical_authority": "(LAM.) PERS.",
+  "family": "CRASSULACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Bryophyllum calicynum SALISB. X Full Botanical citation - Bryophyllum calycinum Salisb., Parad. London 1: t. 3. 1805; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 214. 1999. Bryophyllum pinnatum (LAM.) OKEN X Full Botanical citation - Bryophyllum pinnatum (Lam.) Oken, Allgem. Naturgesch. 3.3: 1966. 1841; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 214. 1999.\nSynonym: Bryophyllum calicynum SALISB.\nSynonym: Bryophyllum pinnatum (LAM.) OKEN",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1eaa4296cc16c448d8039c9cc138d25/xclkon/e32c19691334fb0592d3701053ffad90",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1eaa4296cc16c448d8039c9cc138d25/xclkon/5ed1307213896a8fc03c2698e7fb79be"
+  ],
+  "source_record_ids": [
+    "links-1443",
+    "links-1476"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1eaa4296cc16c448d8039c9cc138d25/xclkon/e32c19691334fb0592d3701053ffad90",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1eaa4296cc16c448d8039c9cc138d25/xclkon/5ed1307213896a8fc03c2698e7fb79be"
+    ],
+    "source_record_ids": [
+      "links-1443",
+      "links-1476"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1eaa4296cc16c448d8039c9cc138d25/xclkon/e32c19691334fb0592d3701053ffad90",
+          "Plant Name": "Bryophyllum pinnatum (Lam.) Kurz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bryophyllum pinnatum (Lam.) Kurz.",
+        "source_record_id": "links-1443",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1eaa4296cc16c448d8039c9cc138d25/xclkon/e32c19691334fb0592d3701053ffad90"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1eaa4296cc16c448d8039c9cc138d25/xclkon/5ed1307213896a8fc03c2698e7fb79be",
+          "Plant Name": "Bryophyllum calicynum Salisb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bryophyllum calicynum Salisb.",
+        "source_record_id": "links-1476",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1eaa4296cc16c448d8039c9cc138d25/xclkon/5ed1307213896a8fc03c2698e7fb79be"
+      }
+    ],
+    "source_xplant_id": "f1eaa4296cc16c448d8039c9cc138d25",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

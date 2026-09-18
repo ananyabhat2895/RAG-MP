@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_32ad70ad3bf4bfa9__vernacular_names__001",
+  "plant_id": "plant_32ad70ad3bf4bfa9",
+  "plant_name": "Vitis araneosus Dalz & Gibs ex M. Laws.",
+  "botanical_name": "Ampelocissus araneosa",
+  "botanical_authority": "(DALZ. & CRIBBS.) PLANCH.",
+  "family": "VITACEAE",
+  "section": "vernacular_names",
+  "content": "Sanskrit (1): Sanskrit CommentsX asvakathara\nTamil (1): kattuttiratcai",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7a186dd86ea3a226e2d6d4c52856123/xclkon/d7c7a7b27e2b0f99f0c8f7dc80d03326",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7a186dd86ea3a226e2d6d4c52856123"
+  ],
+  "source_record_ids": [
+    "links-0224",
+    "links-0401"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7a186dd86ea3a226e2d6d4c52856123/xclkon/d7c7a7b27e2b0f99f0c8f7dc80d03326",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7a186dd86ea3a226e2d6d4c52856123"
+    ],
+    "source_record_ids": [
+      "links-0224",
+      "links-0401"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7a186dd86ea3a226e2d6d4c52856123/xclkon/d7c7a7b27e2b0f99f0c8f7dc80d03326",
+          "Plant Name": "Vitis araneosus Dalz & Gibs ex M. Laws.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vitis araneosus Dalz & Gibs ex M. Laws.",
+        "source_record_id": "links-0224",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7a186dd86ea3a226e2d6d4c52856123/xclkon/d7c7a7b27e2b0f99f0c8f7dc80d03326"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7a186dd86ea3a226e2d6d4c52856123",
+          "Plant Name": "Ampelocissus Araneosa Planch.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ampelocissus Araneosa Planch.",
+        "source_record_id": "links-0401",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7a186dd86ea3a226e2d6d4c52856123"
+      }
+    ],
+    "source_xplant_id": "d7a186dd86ea3a226e2d6d4c52856123",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_fc79664f2208ec9f__identification__001",
+  "plant_id": "plant_fc79664f2208ec9f",
+  "plant_name": "Gynocardia odorata R. Br.",
+  "botanical_name": "Gynocardia odorata",
+  "botanical_authority": "R.BR.",
+  "family": "FLACOURTIACEAE",
+  "section": "identification",
+  "content": "Plant name: Gynocardia odorata R. Br. Botanical name: Gynocardia odorata Botanical authority: R.BR. Family: FLACOURTIACEAE Source xplant ID: 0b682b23be62586333f26e284d8be6c2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b682b23be62586333f26e284d8be6c2"
+  ],
+  "source_record_ids": [
+    "links-1998"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b682b23be62586333f26e284d8be6c2"
+    ],
+    "source_record_ids": [
+      "links-1998"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b682b23be62586333f26e284d8be6c2",
+          "Plant Name": "Gynocardia odorata R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gynocardia odorata R. Br.",
+        "source_record_id": "links-1998",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b682b23be62586333f26e284d8be6c2"
+      }
+    ],
+    "source_xplant_id": "0b682b23be62586333f26e284d8be6c2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

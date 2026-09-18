@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_1d4e48403958ac36__vernacular_names__001",
+  "plant_id": "plant_1d4e48403958ac36",
+  "plant_name": "Salmalia malabarica Schott and Endl.",
+  "botanical_name": "Bombax ceiba",
+  "botanical_authority": "L.",
+  "family": "BOMBACACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): indian silk cotton tree, silk cotton tree, simul\nHindi (26): deokapas, heembal, hemlo, huttian, kanti-senbal, kantisembal, nurma, pagun, ragat-semal, ragat-senbal, ragatsemal, ragatsembal, rakta-semul, salamali, salmali, sanwal, sanwar, sanwar seemal, semal, semul, semur, shimal, shimbal, simal, simbal, somr\nKannada (53): aala, agigaai, ala, alada, apoorani, apurani, booral, boorga, booruga, boorugada-mara, bura, buraga, buragada, burga, burgao, burla, buruga, burugada, burugudu, camblero, dhoodi, dhudi, doodile, dudi, elava, elavu, erana, hathi, hatthi, hatti, ilavu, kempu booraga, kempuburaga, kempuburga, kempuburuga, kempuburugada, mara hatthi, mullala, mullalada, mullelava, mullelavu, mullu booruga, mullu-buraga-mara, mulluburaga, picphele, pishphele, poola, pula, salmali, sauri, tuti, voorda, yelevalada mara\nMalayalam (24): elavam, elavu, ilavam, ilavu, illavu, moca, mocha, moul-elavou, moulelavou, mul-lilava, mullilavam, mullilavu, mullilavupichila, mullulavamarum, picchila, poola, pula, pula-maram, pulamaram, purani, samparuthi, semul, unnamurikku, unnamuriku\nMarathi (15): kanta-sair, kanterisamar, kantesavar, samar, saur, savar, savara, savari, sayar, semal, shevari, simlo, tamari, tambdi-savaru, vhadli-savar\nSanskrit (53): Sanskrit CommentsX apurani, bahuvirya, chirayu, chirjivi, dirghadruma, dirghapadapa, dirghayu, duraroha, kadala, kalpavriksha, kantakadhya, kantakadruma, kantakari, kantakashtha, kukkutavandaka, kukkutti, mahavriksha, manadruma, moca, mocah, mocahva, mocaki, mocarasa, mocha, mochani, nirgandhapushpi, nissara, panchaparni, panchparni, picchila, pichhala, pnachaparni, purani, raktapushpa, raktapuspa, raktashalmali, raktotpala, ramyapushpa, saladrumah, salmala, salmali, salmili, shalmali, shalmalini, shimulu, simbali, sthirayu, sthirayuh, sthulaphala, tulavriksha, tulini, tuliphala, yamadruma",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/3cb86cbdb9510e8b57bb03383599897d"
+  ],
+  "source_record_ids": [
+    "links-1289",
+    "links-1703"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/3cb86cbdb9510e8b57bb03383599897d"
+    ],
+    "source_record_ids": [
+      "links-1289",
+      "links-1703"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/3cb86cbdb9510e8b57bb03383599897d",
+          "Plant Name": "Salmalia malabarica Schott and Endl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Salmalia malabarica Schott and Endl.",
+        "source_record_id": "links-1289",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/3cb86cbdb9510e8b57bb03383599897d"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/3cb86cbdb9510e8b57bb03383599897d",
+          "Plant Name": "Salmalia malabarica Schott & Endl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Salmalia malabarica Schott & Endl.",
+        "source_record_id": "links-1703",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/3cb86cbdb9510e8b57bb03383599897d"
+      }
+    ],
+    "source_xplant_id": "f4df3d740a26f6ad1fc5eec095132bff",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

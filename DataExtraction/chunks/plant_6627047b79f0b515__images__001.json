@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_6627047b79f0b515__images__001",
+  "plant_id": "plant_6627047b79f0b515",
+  "plant_name": "Cucumis melo var. momordica Duthie and Fuller.",
+  "botanical_name": "Cucumis melo",
+  "botanical_authority": "L. var. utilissimus DUTHIE & FULLER",
+  "family": "CUCURBITACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f9fc1a32c034cded111ff12e3f7465e"
+  ],
+  "source_record_ids": [
+    "links-0451",
+    "links-0570",
+    "links-0973",
+    "links-1038"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f9fc1a32c034cded111ff12e3f7465e"
+    ],
+    "source_record_ids": [
+      "links-0451",
+      "links-0570",
+      "links-0973",
+      "links-1038"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f9fc1a32c034cded111ff12e3f7465e",
+          "Plant Name": "Cucumis melo var. momordica Duthie and Fuller.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cucumis melo var. momordica Duthie and Fuller.",
+        "source_record_id": "links-0451",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f9fc1a32c034cded111ff12e3f7465e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f9fc1a32c034cded111ff12e3f7465e",
+          "Plant Name": "Cucumis melo var. utilissimus Duthie and Fuller.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cucumis melo var. utilissimus Duthie and Fuller.",
+        "source_record_id": "links-0570",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f9fc1a32c034cded111ff12e3f7465e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f9fc1a32c034cded111ff12e3f7465e",
+          "Plant Name": "Cucumis melo var. Utilissimus Duthie & Fuller.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cucumis melo var. Utilissimus Duthie & Fuller.",
+        "source_record_id": "links-0973",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f9fc1a32c034cded111ff12e3f7465e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f9fc1a32c034cded111ff12e3f7465e",
+          "Plant Name": "Cucumis melo Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cucumis melo Linn.",
+        "source_record_id": "links-1038",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f9fc1a32c034cded111ff12e3f7465e"
+      }
+    ],
+    "source_xplant_id": "3f9fc1a32c034cded111ff12e3f7465e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

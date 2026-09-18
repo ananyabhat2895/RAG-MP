@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_49b89ae37405dc87__vernacular_names__002",
+  "plant_id": "plant_49b89ae37405dc87",
+  "plant_name": "Nerium indicum Mill.",
+  "botanical_name": "Nerium oleander",
+  "botanical_authority": "L.",
+  "family": "APOCYNACEAE",
+  "section": "vernacular_names",
+  "content": "Telugu (16): erra ganneru, erragannaeru, erraganneru, ettaganneru, gannaeru, ganneru, ghenneru, karaveeramu, karaviram, karaviramu, kassturipatte, kasthooripatte, kasturi-patte, kasturipatta, kasturipatte, kasturipattu\nTibetan (1): ka ra bi ra\nUrdu (2): chal anchari, kaner",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6/xclkon/e28f90e510403149afcbe58b4d747f6e"
+  ],
+  "source_record_ids": [
+    "links-0953"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6/xclkon/e28f90e510403149afcbe58b4d747f6e"
+    ],
+    "source_record_ids": [
+      "links-0953"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6/xclkon/e28f90e510403149afcbe58b4d747f6e",
+          "Plant Name": "Nerium indicum Mill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Nerium indicum Mill.",
+        "source_record_id": "links-0953",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6/xclkon/e28f90e510403149afcbe58b4d747f6e"
+      }
+    ],
+    "source_xplant_id": "c18a72505452a7ec576c3d5ea3e43ba6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_9c3a1ed387ac8c72__botanical_synonyms__001",
+  "plant_id": "plant_9c3a1ed387ac8c72",
+  "plant_name": "Lippia nodiflora Mich.",
+  "botanical_name": "Phyla nodiflora",
+  "botanical_authority": "(L.) GREENE",
+  "family": "VERBENACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Lippia nodiflora MICH. X Full Botanical citation - Lippia nodiflora (L.) Michx., Fl. Bor.- Amer. 2: 15. 1815; A Rajendran & P.Daniel, The Indian Verbenaceae ( A Taxonomic Revision) 207. 2002. Verbena nodiflora L. X Full Botanical citation - Verbena nodiflora L., Sp. Pl. 20. 1753; A Rajendran & P.Daniel, The Indian Verbenaceae ( A Taxonomic Revision) 207. 2002.\nSynonym: Lippia nodiflora MICH.\nSynonym: Verbena nodiflora L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/93433ae3241998392139c08cf476ecee"
+  ],
+  "source_record_ids": [
+    "links-0757",
+    "links-1171"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/93433ae3241998392139c08cf476ecee"
+    ],
+    "source_record_ids": [
+      "links-0757",
+      "links-1171"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/93433ae3241998392139c08cf476ecee",
+          "Plant Name": "Lippia nodiflora Mich.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lippia nodiflora Mich.",
+        "source_record_id": "links-0757",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/93433ae3241998392139c08cf476ecee"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/93433ae3241998392139c08cf476ecee",
+          "Plant Name": "Lippia nodiflora",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lippia nodiflora",
+        "source_record_id": "links-1171",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/93433ae3241998392139c08cf476ecee"
+      }
+    ],
+    "source_xplant_id": "0168ddb652e357ac3bf768a36264f947",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

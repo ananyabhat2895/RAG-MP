@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_1b0bb5fbae77c51f__vernacular_names__001",
+  "plant_id": "plant_1b0bb5fbae77c51f",
+  "plant_name": "Nigella sativa",
+  "botanical_name": "Nigella sativa",
+  "botanical_authority": "L.",
+  "family": "RANUNCULACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): fennel flower, fitches, kalonji\nHindi (7): kala-jira, kala-zira, kalajira, kalomji, kalonji, kulangji, mugrela\nKannada (9): kare-jirage, karejeerage, karejirage, karijeerige, karijirigae, karijirigay, karijirigi, karimsiragam, krishnajeerige\nMalayalam (5): karinchirakam, karincirakam, karun-chirakam, karunchirakam, karunshiragam\nMarathi (3): kalongji, kalonjee jeere, krishnajira\nSanskrit (33): Sanskrit CommentsX ajaji, aranyajeeraka, asitajirakah, bashpika, jiraka, kala-ajaji, kalajaji, kalika, kalvanjika, karava, karave, karavi, krishna jiraka, krishna-jiraka, krsnajiraka, kunchi, kunchika, kuncika, kunjika, musavi, prathvika, prithu, prithuka, prithvi, prthu, prthvika, susavi, sushave, sushavi, upakunchika, upakunchiraka, upakunci, upakuncika\nTamil (117): acaci, aciyacirakam#, aciyacirakam@, aciyam#, aciyam@, aniyam, aranam, arattuvakki, attakam 2, attimai 2, attimaiccirakam, attulaccirakam, attulakiyam, attulakki, attulakkinam, attulakkiyam, attuvakkayam, attuvakkiyam, attuvarkkayam#, attuvarkkayam@, cailaciritam, caitini, cannikanayan, cannikanayan 1, canninayakam, canninayakam 1, canninayan 1, carin siragum, cariyaccirakam, copakunci, culakkini, irucitari, irulakam, iruli 1, iruliccirakam, kaketali, kakoniyacirakam, kakoniyam, kalcirakam, kamanam, kanakacciram, kanakaciram, kanakam 2, kapitaciram, kapitam, karaciram, karavi 2, kariya cirakam, kariyacirakam, kariyaciram, kariyamani, kariyamaniccirakam, karkanacirakam, karkanam#, karkanam@, karkkoli 1#, karkkoli 1@, karkol, karkolam, karkoli 1, karum ciragam, karun-shiragam, karuncetakam, karuncheerakam, karuncirakam, karunciri, karunjchirakam, karunjeeragam, karunjiragam, karunshirogam, karutakacirakam, kattukkarucirakam, kattukkaruncirakam, kattumaiccirakam, kiruttinacirakam, kiruttinaciram, kiruttinamuli, kittinacaci, kommatticcirakam, kotticciram, kutakam 2, kutamanakam, kutamanam, kutampan, kuttanam, kuttinam, maciyam, maiccirakam, malattakkutampu, miti, narcirakam, pakutam, palampacakam, palampacam, palappacam, pankumam, pankutam, pilacam, pilaccam, pilecam, pilicam, puppacam, purruccirakam, putpaciram, putparacan, tecalati, tecalaticceti, terikkam, umataviyam, upakancikam, upakuncam 2, upakuncikai, upakuncikai 2, uppukkuncam, vanticotani#, vanticotani@, viluttam\nTelugu (6): nalla jeelakarra, nalla-jilakara, nallailakarra, nallajilakara, nellajeelakaira, nullajilakara\nUrdu (3): kalonji, kalonji (kamazarius), tukhm gandana",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed0b15f829b92995cea577af6486bd1f"
+  ],
+  "source_record_ids": [
+    "links-0864",
+    "links-0952"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed0b15f829b92995cea577af6486bd1f"
+    ],
+    "source_record_ids": [
+      "links-0864",
+      "links-0952"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed0b15f829b92995cea577af6486bd1f",
+          "Plant Name": "Nigella sativa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Nigella sativa",
+        "source_record_id": "links-0864",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed0b15f829b92995cea577af6486bd1f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed0b15f829b92995cea577af6486bd1f",
+          "Plant Name": "Nigella sativa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Nigella sativa Linn.",
+        "source_record_id": "links-0952",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed0b15f829b92995cea577af6486bd1f"
+      }
+    ],
+    "source_xplant_id": "ed0b15f829b92995cea577af6486bd1f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

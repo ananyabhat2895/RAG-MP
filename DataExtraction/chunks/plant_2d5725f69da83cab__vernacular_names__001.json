@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_2d5725f69da83cab__vernacular_names__001",
+  "plant_id": "plant_2d5725f69da83cab",
+  "plant_name": "Oxalis corniculata",
+  "botanical_name": "Oxalis corniculata",
+  "botanical_authority": "L.",
+  "family": "OXALIDACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): indian sorrel\nHindi (18): amili, amrul, amrulsak, anboti, anboti; seh-patti, bhilmori, chalmori, chuka tripati, chukatripati, cukatripati, khatari, khataria, khataro, khatri-buti, malori, seh, seh-patti, tinpatiya\nKannada (19): changeri gida, huli huliche, huli soppu, huli-huniche, hulichikka, hulihunice, julihunise gida, majjige palya, majjige soppu, moorele huli, neergoli, pulibanthunise, pullam-purachi-sappu, pullampurachi, pullampurachisappu, pullampuruchi, putaanipurule, teltuppi, uppuppina gida\nMalayalam (5): poliyarala, puliyaral, puliyarala, puliyarila, pullampurachi\nMarathi (5): aambotee, ambata chukaa, ambuti, bhinsarpati, umbuti\nSanskrit (11): Sanskrit CommentsX ambashta, amlalonika, amlapatrika, amlika, amlotaja, cangeri, carngeri, changeri, chukrika, chukrita, shuklika\nTamil (32): amalakam3, amalam3, amanitam, ampal2, atacani, atiyamilaparani, cenkontai, cenkottaiccivappi, civappi5, kalappantatti, kaniyatanayaki, kayankaliyatanayaki, kecari, kecariyarakkirai, kentika, paliakiri, perunkotikkirai, piliccakkirai, pooliaray, puli-k-kirai, puli-yarai, puliakire, puliccakakkirai, puliccirukirai, puliiyarai, pulikkirai, pulittacirukirai, puliyaarai, puliyancirukirai, puliyankirai, puliyarai, puliyarani\nTelugu (14): amboti kura, ambotikura, anboti-kura, anbotikura, pallachinta, pallachintha, puli chinta, puli-chintaku, pulichinta, pulichintaaku, pulichintaku, pulicintaku, pullachanchali, pullacinta\nUrdu (1): khatt-i-buti",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ef91fd7704967eb83c9addd59ecd7ed"
+  ],
+  "source_record_ids": [
+    "links-0423",
+    "links-0424"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ef91fd7704967eb83c9addd59ecd7ed"
+    ],
+    "source_record_ids": [
+      "links-0423",
+      "links-0424"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ef91fd7704967eb83c9addd59ecd7ed",
+          "Plant Name": "Oxalis corniculata",
+          "Status": "Found"
+        },
+        "source_plant_name": "Oxalis corniculata",
+        "source_record_id": "links-0423",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ef91fd7704967eb83c9addd59ecd7ed"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ef91fd7704967eb83c9addd59ecd7ed",
+          "Plant Name": "Oxalis corniculata Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Oxalis corniculata Linn.",
+        "source_record_id": "links-0424",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ef91fd7704967eb83c9addd59ecd7ed"
+      }
+    ],
+    "source_xplant_id": "0ef91fd7704967eb83c9addd59ecd7ed",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

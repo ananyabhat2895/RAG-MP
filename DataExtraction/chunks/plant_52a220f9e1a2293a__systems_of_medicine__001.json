@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_52a220f9e1a2293a__systems_of_medicine__001",
+  "plant_id": "plant_52a220f9e1a2293a",
+  "plant_name": "Rhinacanthus nasuta Kurz.",
+  "botanical_name": "Rhinacanthus nasuta",
+  "botanical_authority": "(L.) KURZ.",
+  "family": "ACANTHACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk Botanical Synonyms (2) - Justicia nasuta L. X Full Botanical citation - Justicia nasuta L.\nSystem of medicine: Sp. pl. 16. 1753; S. Karthikeyan & al.\nSystem of medicine: Flowering Plants of India - Dicots. 1: 36. 2009. Rhinacanthus communis NEES X Full Botanical citation - Rhinacanthus communis Nees in Wall.\nSystem of medicine: Pl. asiat. rar. 3: 109. 1832 nom. illeg.; S. Karthikeyan & al.\nSystem of medicine: Flowering Plants of India - Dicots. 1: 37. 2009.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fed9b52bb4c1275b5366616ad17b2f6"
+  ],
+  "source_record_ids": [
+    "links-2146"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fed9b52bb4c1275b5366616ad17b2f6"
+    ],
+    "source_record_ids": [
+      "links-2146"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fed9b52bb4c1275b5366616ad17b2f6",
+          "Plant Name": "Rhinacanthus nasuta Kurz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rhinacanthus nasuta Kurz.",
+        "source_record_id": "links-2146",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fed9b52bb4c1275b5366616ad17b2f6"
+      }
+    ],
+    "source_xplant_id": "8fed9b52bb4c1275b5366616ad17b2f6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

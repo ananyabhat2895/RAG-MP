@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_0984ac876f88cf7d__vernacular_names__001",
+  "plant_id": "plant_0984ac876f88cf7d",
+  "plant_name": "Rhamnus Wightii",
+  "botanical_name": "Rhamnus wightii",
+  "botanical_authority": "WIGHT & ARN.",
+  "family": "RHAMNACEAE",
+  "section": "vernacular_names",
+  "content": "Sanskrit (1): Sanskrit CommentsX raktarohita\nTamil (3): peyppla, peyppula, peypulla",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7763cd826a319dae8fc34d064905a8a8"
+  ],
+  "source_record_ids": [
+    "links-1655"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7763cd826a319dae8fc34d064905a8a8"
+    ],
+    "source_record_ids": [
+      "links-1655"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7763cd826a319dae8fc34d064905a8a8",
+          "Plant Name": "Rhamnus Wightii",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rhamnus Wightii",
+        "source_record_id": "links-1655",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7763cd826a319dae8fc34d064905a8a8"
+      }
+    ],
+    "source_xplant_id": "7763cd826a319dae8fc34d064905a8a8",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

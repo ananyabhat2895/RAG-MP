@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_bc8743ca10d1f5f9__vernacular_names__001",
+  "plant_id": "plant_bc8743ca10d1f5f9",
+  "plant_name": "Syzygium cumini (Linn.) Skeels.",
+  "botanical_name": "Syzygium cumini",
+  "botanical_authority": "(L.) SKEELS",
+  "family": "MYRTACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): jambolan, java plum\nHindi (23): amrut, bahojaman, jam, jaman, jamba, jambava, jambhal, jambu, jambua, jambus, jamniphalani, jamnoa, jamun, kalajaman, kathaman, lal sufrium, lalsufrium, mokni, pairman, phalanda, phalenda, phalinda, pharenda\nKannada (34): dulle nerale, goujalau mara, jama-phala, jambu naerale, jambunerale, jambuva, jumnerale, naayinaerale, naerale, naeralu, naerilu, nainerale, nairul, nankajamburo, narala, nayinerale, neeraala mara, neeralay, neeram, neral, nerale, nerale mara, nerale-hannu, nerali, neralu, nerel, nerilu, nerlu, nerolu, nerula, nirale, nirole, perala-hannu, shebe-hannu\nMalayalam (15): gnaval, na-valin-pazham, naga, naivil, nara, naval, naval-pazham, navil, niral, njara, njaval, palamper, perin-njara, perinnaral, perinnjara\nMarathi (6): jam, jaman, jambul, rajale, rajjambula, thorajambula\nSanskrit (24): Sanskrit CommentsX brahaspati, jambava, jambavam, jambu, jambuh, jambula, kakajambu, mahajambu, mahaphala, mahaskandha, meghamodini, meghavarna, nilaphala, nilaprala, phalendra, raja-jambuh, rajajambu, rajaphala, rajasha, rajphala, shukapriya, shyamala, surabhipriya, svetajambu\nTamil (101): areconitamaram, arugadam, arukatam, caccanam, calappakam, campal, campam, campu, campu#, campu1, campukam#, cankirakiyaccam, catavam, catta, cattuvalam, cattuvam1, cempu, cempu@, cempukaruci, cirivilvam, curapipattirai, curapipattirai2, curuci, inippunavvalmaram, itampakam, itampakamaram, kananuceti, kananucetimaram, karunaval, karunkatikam, karunkatikamaram, katampaccevikam, kavarkalimaram, kavarkulikam2, komar, kottainagam, kottainakam1, kottainaval, koyapalam, koyapapalam, naaval, naga, naga maram, nagai, nagap-pazham, nagum, nairuri, nakai2, nakam3, nakamaram, nakappalamaram, nalaval, nampu, nampuli, nampulimaram, narinaval2, narinavval2, narruti1, narunaruvili, nateyinvati, nattunaval, nava, nava-mara, naval, naval pattai, navamaram, navartol, navel, navval, neratam, neratamaram, neredam, neredom, neretam, neretu, nerotam, nerotu, netan, netanmaram, nilacampu, nilacampumaram, nirali, niritam, palavamarkkam, pattiracam, pulippunavval, pupalamaram, sambal, sambavi, sambu takkolam, takkolam5, tennokalam, tennokalamaram, tevaninal, tittippunaval, tittippunavvalmaram, turavam, turavam$, turkolum, vatacankinati, viritam",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef"
+  ],
+  "source_record_ids": [
+    "links-0767"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef"
+    ],
+    "source_record_ids": [
+      "links-0767"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef",
+          "Plant Name": "Syzygium cumini (Linn.) Skeels.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Syzygium cumini (Linn.) Skeels.",
+        "source_record_id": "links-0767",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef"
+      }
+    ],
+    "source_xplant_id": "d5469b2ff22373aaaa14897e42ad27ef",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

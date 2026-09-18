@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_03ba41f01c8c191d__vernacular_names__001",
+  "plant_id": "plant_03ba41f01c8c191d",
+  "plant_name": "Cocculus hirsutus (Linn.) Diels.",
+  "botanical_name": "Cocculus hirsutus",
+  "botanical_authority": "(L.) DIELS",
+  "family": "MENISPERMACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (20): bajar bel, bajar-bel, chhirenta, chireta, dier, farid-butti, faridbel, faridburti, hier, jalayamani, jaljamni, jamti-ka-patta, jamti-ke-bel, jamti-ki-bel, jamtike bel, jamtikibel, khareta-ki-bel, patalagarudi, til dhara, vev-no-velo\nKannada (18): aadama balli, adambuballi, daagadiballi, dagadi, dagadi balli, dagadiballi, dhagadi balli, doosari balli, dusare balli, dusari balli, dusariballi, kaage maari, sugadi balli, sugadiballi, sugadigida, yadaniballi, yagadi balli, yudaani balli\nMalayalam (1): patalagarudakkoti\nMarathi (12): diar, hunder, paathalagarudi, paravel, parvel, tan, tana, vasan-vel, vasanavela, vasanvel, vatsadani, wasan\nSanskrit (24): Sanskrit CommentsX akabhida, chchilihinda, chilahinta, chilihindah, chilihinta, dirghakanda, dirghavalli, dridhakanda, dridhalata, garudi, jaliamni, mahahala, mahamula, patalagaruda, patalagarudah, patalagarudi, sauparni, somavalli, tiktanga, vanatiktika, vasanavalli, vasandi, vasantitikta, vatsadani\nTamil (46): anantavalli, calakattu, calapasani, carpatci 1, ciriya-katukkoti, cirukaikkoti, cirukattukoti, cutarcaracam, eluccikkoti, kalini 1, kalinikkoti, kaliniyam 1, kanakavacciratti, kattu-k-koti, kattuk-kodi, kattukkodi, kattukkoti, kattukodi, ketuvacakkoti, ketuvacam, kolim, koticci 1, kotippavai, kotippavaikkoti, kottukodi, malaiccurukkay, malaikkaru, mattakajakkoti, mekanatattimuli, mekanati, mekanatikkoti, nirppanti, nirppantikkoti, periya kattukkoti, perkkaci, perkkacikkoti, siru-kattukodi, ticaikkarutankoti, tucari, uppaittiricci, uppirkuruti, utiritam, utiritankoti, utitaniratti, vacipputu, val\nTelugu (23): cheepurutheega, chipuru-tige, chipurutige, cipurutige, dasaritega, doosaratheege, doosaritheega, doosratiga, dusapi, dusara tiga, dusaraputiga, dusaratiga, dusaratige, dusari-tige, dusaritige, dusedithige, katla tiga, katlathige, katlatige, katle-tige, katletiga, kattle-ti, shipri\nUrdu (1): faridbutti",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b74787dcd245410c2572109ed4355418"
+  ],
+  "source_record_ids": [
+    "links-0442"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b74787dcd245410c2572109ed4355418"
+    ],
+    "source_record_ids": [
+      "links-0442"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b74787dcd245410c2572109ed4355418",
+          "Plant Name": "Cocculus hirsutus (Linn.) Diels.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cocculus hirsutus (Linn.) Diels.",
+        "source_record_id": "links-0442",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b74787dcd245410c2572109ed4355418"
+      }
+    ],
+    "source_xplant_id": "b74787dcd245410c2572109ed4355418",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

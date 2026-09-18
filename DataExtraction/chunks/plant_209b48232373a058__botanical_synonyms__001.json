@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_209b48232373a058__botanical_synonyms__001",
+  "plant_id": "plant_209b48232373a058",
+  "plant_name": "Garcinia indica Chois.",
+  "botanical_name": "Garcinia indica",
+  "botanical_authority": "(DUP.) CHOISY",
+  "family": "CLUSIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Garcinia purpurea G.DON. X Full Botanical citation - Garcinia purpurea Roxb., Fl. Ind. 2: 624. 1832; N.P.Singh in B.D.Sharma & Sanjappa, Fl India 3: 113. 1993.\nSynonym: Garcinia purpurea G.DON.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/09d1703fdd745c90602cb35cffbba7a7"
+  ],
+  "source_record_ids": [
+    "links-2123"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/09d1703fdd745c90602cb35cffbba7a7"
+    ],
+    "source_record_ids": [
+      "links-2123"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/09d1703fdd745c90602cb35cffbba7a7",
+          "Plant Name": "Garcinia indica Chois.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Garcinia indica Chois.",
+        "source_record_id": "links-2123",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/09d1703fdd745c90602cb35cffbba7a7"
+      }
+    ],
+    "source_xplant_id": "09d1703fdd745c90602cb35cffbba7a7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

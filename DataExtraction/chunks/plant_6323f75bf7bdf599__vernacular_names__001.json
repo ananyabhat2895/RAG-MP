@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_6323f75bf7bdf599__vernacular_names__001",
+  "plant_id": "plant_6323f75bf7bdf599",
+  "plant_name": "Lasia spinos Thwaites.",
+  "botanical_name": "Lasia spinosa",
+  "botanical_authority": "THW.",
+  "family": "ARACEAE",
+  "section": "vernacular_names",
+  "content": "Sanskrit (1): Sanskrit CommentsX laksmana\nTamil (1): mulasari",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12498af454c684db03d297ae71cb0c41"
+  ],
+  "source_record_ids": [
+    "links-1161",
+    "links-1162"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12498af454c684db03d297ae71cb0c41"
+    ],
+    "source_record_ids": [
+      "links-1161",
+      "links-1162"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12498af454c684db03d297ae71cb0c41",
+          "Plant Name": "Lasia spinos Thwaites.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lasia spinos Thwaites.",
+        "source_record_id": "links-1161",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12498af454c684db03d297ae71cb0c41"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12498af454c684db03d297ae71cb0c41",
+          "Plant Name": "Lasia spinosa Thwaites",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lasia spinosa Thwaites",
+        "source_record_id": "links-1162",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12498af454c684db03d297ae71cb0c41"
+      }
+    ],
+    "source_xplant_id": "12498af454c684db03d297ae71cb0c41",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

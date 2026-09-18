@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b96f797cc1134fd9__systems_of_medicine__001",
+  "plant_id": "plant_b96f797cc1134fd9",
+  "plant_name": "Cucumis sativus Linn.",
+  "botanical_name": "Cucumis sativus",
+  "botanical_authority": "L.",
+  "family": "CUCURBITACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7539d46056fe6cad14cc5bf5c29ac602"
+  ],
+  "source_record_ids": [
+    "links-0964"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7539d46056fe6cad14cc5bf5c29ac602"
+    ],
+    "source_record_ids": [
+      "links-0964"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7539d46056fe6cad14cc5bf5c29ac602",
+          "Plant Name": "Cucumis sativus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cucumis sativus Linn.",
+        "source_record_id": "links-0964",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7539d46056fe6cad14cc5bf5c29ac602"
+      }
+    ],
+    "source_xplant_id": "7539d46056fe6cad14cc5bf5c29ac602",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

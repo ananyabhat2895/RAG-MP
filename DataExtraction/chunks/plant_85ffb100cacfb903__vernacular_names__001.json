@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_85ffb100cacfb903__vernacular_names__001",
+  "plant_id": "plant_85ffb100cacfb903",
+  "plant_name": "Melilotus indica (Linn.) All.",
+  "botanical_name": "Melilotus indica",
+  "botanical_authority": "(L.) ALL.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (9): ban methi, ban-methi, banmethi, gorhadal, marvo, metho, morila, neem, senji\nKannada (3): kaadu loosarne soppu, kaadu loosnar soppu, kaadu wosarna soppu\nMalayalam (1): suendadi-pallu\nSanskrit (3): Sanskrit CommentsX banamethika, vana-methika, vanamethika",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a5b2cb08bba465bda3575cea801ee97"
+  ],
+  "source_record_ids": [
+    "links-0208"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a5b2cb08bba465bda3575cea801ee97"
+    ],
+    "source_record_ids": [
+      "links-0208"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a5b2cb08bba465bda3575cea801ee97",
+          "Plant Name": "Melilotus indica (Linn.) All.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Melilotus indica (Linn.) All.",
+        "source_record_id": "links-0208",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a5b2cb08bba465bda3575cea801ee97"
+      }
+    ],
+    "source_xplant_id": "6a5b2cb08bba465bda3575cea801ee97",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

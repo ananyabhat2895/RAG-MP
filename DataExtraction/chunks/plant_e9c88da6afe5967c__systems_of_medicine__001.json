@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_e9c88da6afe5967c__systems_of_medicine__001",
+  "plant_id": "plant_e9c88da6afe5967c",
+  "plant_name": "Piper cubeba Linn.f.",
+  "botanical_name": "Piper cubeba",
+  "botanical_authority": "L. F.",
+  "family": "PIPERACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Homeopathy\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (1) - Cubeba officinalis RAFIN",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3"
+  ],
+  "source_record_ids": [
+    "links-0909",
+    "links-0913"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3"
+    ],
+    "source_record_ids": [
+      "links-0909",
+      "links-0913"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3",
+          "Plant Name": "Piper cubeba Linn.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper cubeba Linn.f.",
+        "source_record_id": "links-0909",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3",
+          "Plant Name": "Piper cubeba Linn. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper cubeba Linn. f.",
+        "source_record_id": "links-0913",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3"
+      }
+    ],
+    "source_xplant_id": "38599335cef650b6064a59bda99b11c3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

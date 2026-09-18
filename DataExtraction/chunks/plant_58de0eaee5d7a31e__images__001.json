@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_58de0eaee5d7a31e__images__001",
+  "plant_id": "plant_58de0eaee5d7a31e",
+  "plant_name": "Abutilon indicum (Linn.) Sw.",
+  "botanical_name": "Abutilon indicum",
+  "botanical_authority": "(L.) SWEET subsp. guineense (SCHUMACH.) BORSSUM",
+  "family": "MALVACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59"
+  ],
+  "source_record_ids": [
+    "links-0230",
+    "links-0231",
+    "links-0232"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59"
+    ],
+    "source_record_ids": [
+      "links-0230",
+      "links-0231",
+      "links-0232"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59",
+          "Plant Name": "Abutilon indicum (Linn.) Sw.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Abutilon indicum (Linn.) Sw.",
+        "source_record_id": "links-0230",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59",
+          "Plant Name": "Abutilon indicum (Linn.) SW.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Abutilon indicum (Linn.) SW.",
+        "source_record_id": "links-0231",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59",
+          "Plant Name": "Abutilon indicum Sw.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Abutilon indicum Sw.",
+        "source_record_id": "links-0232",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59"
+      }
+    ],
+    "source_xplant_id": "fa08ad0afc3fc7eb8f67e8cff5cb0c59",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

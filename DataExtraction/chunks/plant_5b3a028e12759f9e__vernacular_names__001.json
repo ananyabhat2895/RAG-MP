@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5b3a028e12759f9e__vernacular_names__001",
+  "plant_id": "plant_5b3a028e12759f9e",
+  "plant_name": "Hymenodictyon excelsum Wall.",
+  "botanical_name": "Hymenodictyon orixense",
+  "botanical_authority": "(ROXB.) MABBERLEY",
+  "family": "RUBIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (19): bandaru, barhua, barthua, baurang, bauranga, bhalena, bhamina, bhaulan, bhohar, bhoswar, bhramarchhalli, bhramrachhii, bhurkul, bhurkur, boinga, bundaru, kala bachnak, kurkurakt, lunkhora\nKannada (21): aenne mara, amara, bandaari mara, bandaaru, bataga, battaga, betaga, bindaru, botaga, dalli mara, dhodi mara, diddimara, dodda thoppe mara, doddathoppe, doddi, doli, dolimara, dolli, ganadla mara, gandala, gandele\nMalayalam (16): ben-theka, chakkathekku, ithil, itthilei, ittiyila, malamkalli, malankalli, nicakatampa, nichenkadamba, nishakatampa, perantholi, perantoli, perumtholi, vallari, vellakadamba, vellakatampa\nMarathi (13): bhaurchhal, bhavarchhal, bhawarmat, bhorsal, bhramarsali, bhursal, bundaru, damdeli, dancelo, danceolo, dondru, kala bachnak, kalo-kudo\nSanskrit (12): Sanskrit CommentsX bhramaravha, bhramarchhallika, bhrangavrksha, bhrigatvaka, bhringhamulika, bhringhava, bhrngahva, bramarachalli, chhalli, k evika, kshiradru, ugragandha\nTamil (39): acitokatam, acitokatamaram, cakappu, cikappu2, cikappuparancolai, cilaippala, cinkattulikam, cinkattulikamaram, civamaram2, civappu#, civappu@, civappumaram2, eluthagathi, ilaimergai, ilaimerkay2, kadappu, kathambu, kavatakam2, malaitanakku, malaittanakku, naikadambai, nay-k-katampu, naykkadambu, naykkatampu, nirkadambam, nirkadumban, peruncoli, perunjoli, sagappu, sagapu, siva, sivappu, vellai-kadambu, vellaikkadambu, vellaikkatampu, velleikadambu, vilari, vilari 3, virali\nTelugu (31): bandaaru chettu, bandam, bandara, bandara-chettu, bandaru, boorija, boorja, bundaroo, burija, burja, cedippa, chedippa, chetippa, dadhippa, diddipa, didippa, dudippa, dudippi, dudiyetta, duvvudippa, duvvudppa, manabira, manuvabillu, mokatu, monnabillu, monuvabillu, potaka, pottaka, pundaroo, shedippa, udippa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21fd547f4d494d07cb6c4471820fd2dc/xclkon/6609de9df0709f1f6de0e1443feb01eb"
+  ],
+  "source_record_ids": [
+    "links-0328"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21fd547f4d494d07cb6c4471820fd2dc/xclkon/6609de9df0709f1f6de0e1443feb01eb"
+    ],
+    "source_record_ids": [
+      "links-0328"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21fd547f4d494d07cb6c4471820fd2dc/xclkon/6609de9df0709f1f6de0e1443feb01eb",
+          "Plant Name": "Hymenodictyon excelsum Wall.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hymenodictyon excelsum Wall.",
+        "source_record_id": "links-0328",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21fd547f4d494d07cb6c4471820fd2dc/xclkon/6609de9df0709f1f6de0e1443feb01eb"
+      }
+    ],
+    "source_xplant_id": "21fd547f4d494d07cb6c4471820fd2dc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

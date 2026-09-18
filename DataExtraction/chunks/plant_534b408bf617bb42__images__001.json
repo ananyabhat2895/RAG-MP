@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_534b408bf617bb42__images__001",
+  "plant_id": "plant_534b408bf617bb42",
+  "plant_name": "Coriandrum sativum Linn.",
+  "botanical_name": "Coriandrum sativum",
+  "botanical_authority": "L.",
+  "family": "APIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c96edea366b4ee01686906b45fa4ebe5"
+  ],
+  "source_record_ids": [
+    "links-0506"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c96edea366b4ee01686906b45fa4ebe5"
+    ],
+    "source_record_ids": [
+      "links-0506"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c96edea366b4ee01686906b45fa4ebe5",
+          "Plant Name": "Coriandrum sativum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Coriandrum sativum Linn.",
+        "source_record_id": "links-0506",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c96edea366b4ee01686906b45fa4ebe5"
+      }
+    ],
+    "source_xplant_id": "c96edea366b4ee01686906b45fa4ebe5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e3b97cab14ba3991__images__001",
+  "plant_id": "plant_e3b97cab14ba3991",
+  "plant_name": "Anacyclus pyrethrum DC.",
+  "botanical_name": "Anacyclus pyrethrum",
+  "botanical_authority": "DC.",
+  "family": "ASTERACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29bd74b20f0de681f842ae11ae181b2f"
+  ],
+  "source_record_ids": [
+    "links-0055"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29bd74b20f0de681f842ae11ae181b2f"
+    ],
+    "source_record_ids": [
+      "links-0055"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29bd74b20f0de681f842ae11ae181b2f",
+          "Plant Name": "Anacyclus pyrethrum DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Anacyclus pyrethrum DC.",
+        "source_record_id": "links-0055",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29bd74b20f0de681f842ae11ae181b2f"
+      }
+    ],
+    "source_xplant_id": "29bd74b20f0de681f842ae11ae181b2f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

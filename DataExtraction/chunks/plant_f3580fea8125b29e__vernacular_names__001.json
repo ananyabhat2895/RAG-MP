@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_f3580fea8125b29e__vernacular_names__001",
+  "plant_id": "plant_f3580fea8125b29e",
+  "plant_name": "Brassica oleracea var. gummifera DC.",
+  "botanical_name": "Brassica oleracea",
+  "botanical_authority": "L.",
+  "family": "BRASSICACEAE",
+  "section": "vernacular_names",
+  "content": "English (7): borecole, broccoli, brussels sprouts, coleslaw, jersey long jacks, sauerkraut, sprouting broccoli\nHindi (6): bantgopi, fulgobi, ganth gobhi, karam-sag, karamkalla, kobi\nKannada (4): cauliflower gobi, gedde kosu, hookosu, kobi-gaddi\nMalayalam (2): kyabej, mottakkusu\nMarathi (1): knolkhol\nSanskrit (14): Sanskrit CommentsX dalamalani, dalasarini, kebuka, kechuka, keluta, kembu, kembukah, kemuka, pechuka, pichuni, polini, supatra, swadukanda, swalpavitapa\nTamil (5): gos, kos, kovippu, muttaikkocu, nulkolkilanku\nTelugu (3): cauli flower, gos, kosuguddae",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a5ddfa79ce48a4c186a981111f0ee93"
+  ],
+  "source_record_ids": [
+    "links-0641",
+    "links-0643",
+    "links-1569"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a5ddfa79ce48a4c186a981111f0ee93"
+    ],
+    "source_record_ids": [
+      "links-0641",
+      "links-0643",
+      "links-1569"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a5ddfa79ce48a4c186a981111f0ee93",
+          "Plant Name": "Brassica oleracea var. gummifera DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Brassica oleracea var. gummifera DC.",
+        "source_record_id": "links-0641",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a5ddfa79ce48a4c186a981111f0ee93"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a5ddfa79ce48a4c186a981111f0ee93",
+          "Plant Name": "Brassica oleracea var. gongylods Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Brassica oleracea var. gongylods Linn.",
+        "source_record_id": "links-0643",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a5ddfa79ce48a4c186a981111f0ee93"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a5ddfa79ce48a4c186a981111f0ee93",
+          "Plant Name": "Brassica oleracea var. botrytis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Brassica oleracea var. botrytis Linn.",
+        "source_record_id": "links-1569",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a5ddfa79ce48a4c186a981111f0ee93"
+      }
+    ],
+    "source_xplant_id": "7a5ddfa79ce48a4c186a981111f0ee93",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

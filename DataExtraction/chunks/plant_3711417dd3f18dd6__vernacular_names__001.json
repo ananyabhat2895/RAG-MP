@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_3711417dd3f18dd6__vernacular_names__001",
+  "plant_id": "plant_3711417dd3f18dd6",
+  "plant_name": "Ichnocarpus frutescens R. Br.",
+  "botanical_name": "Ichnocarpus frutescens",
+  "botanical_authority": "R.BR.",
+  "family": "APOCYNACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (14): bakarbel, bakkar bel, bakkar-bel, bakkarbel, dhimar-bel, dudhi, dudhilata, kali doodhli, kali dudhi, kali-doodhli, kali-dudhi, kalidudhi, siama-lota, siamalata\nKannada (23): chidara-lanbilu, chidaralanbilu, gopi, gorwiballi, gouriballi, gowri balli, gowriballi, haalu genasu, haalugenasu, kappunamadaberu, karampa, kare anantha moola, kare balli, kareambu, kareeananthamoola, kareehambu, karehambu, kari bantana bali, kari hambu, karihambu, koogal balli, maalavee balli, manabilu\nMalayalam (6): nannari, naruninti, paalvully, palvalli, parvalli, pat-valli\nMarathi (8): bumburnari, dudhbel, kamte-bhomvri, kante-bhouri, kantebhouri, kishna-sarwa, krishnasarwa, shyamalatha\nSanskrit (36): Sanskrit CommentsX ananta, bhadra, chandana, chandanagopa, chandanasariva, chilahintapatra, chinhadharini, dirghamula, dridhabhandini, gopa, gopali, gopavadhu, gopavalliiva, gopi, gopini, kalaghantika, kalapeshi, krishna, krishnamuli, krishnasariva, krishnashariva, krishnavalli, krsnasariva, mahashyama, masuravidala, palindi, sarada, sariba, sariva, shariva, shyama, shymalata, subhadra, swetoktakastasariva, syamala, utpalasariba\nTamil (18): cakatevi, illu-katte, kadambu, karu nannari, nannari, oothai-kodi, oothal kodi, pal valli, palvalli, paravalli, udar-kodi, udargodi, udarkkoti, udarkodi, urpalakopam, utar koti, utarkoti, utarkoti@\nTelugu (22): illukatte, illukkatte, illukkatti, karampaala, karampala, karra tivva, korampala, mani tivva, muntagajjanamu, munthagajjanamu, nalla teega, nallathige, nallatiga, nallatige, nellatiga, nullatiga, paalatheega, paalathivva, pala teega, palatheega, palativva, sahadevi\nTibetan (1): thal tras nag po",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1cddcd30fb0baf1a8330adbd833350f4"
+  ],
+  "source_record_ids": [
+    "links-0635"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1cddcd30fb0baf1a8330adbd833350f4"
+    ],
+    "source_record_ids": [
+      "links-0635"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1cddcd30fb0baf1a8330adbd833350f4",
+          "Plant Name": "Ichnocarpus frutescens R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ichnocarpus frutescens R. Br.",
+        "source_record_id": "links-0635",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1cddcd30fb0baf1a8330adbd833350f4"
+      }
+    ],
+    "source_xplant_id": "1cddcd30fb0baf1a8330adbd833350f4",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

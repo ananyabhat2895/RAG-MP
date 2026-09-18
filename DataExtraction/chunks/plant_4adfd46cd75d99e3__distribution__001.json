@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4adfd46cd75d99e3__distribution__001",
+  "plant_id": "plant_4adfd46cd75d99e3",
+  "plant_name": "Iris germanica Linn.",
+  "botanical_name": "Iris germanica",
+  "botanical_authority": "L.",
+  "family": "IRIDACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol III\nDistribution entry: author: Author - K.M. Matthew; distribution: Distribution; title: Title - The Flora of the Palni Hills Vol-3",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4923c2765cc4258e9d72b856df7252"
+  ],
+  "source_record_ids": [
+    "links-0678"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4923c2765cc4258e9d72b856df7252"
+    ],
+    "source_record_ids": [
+      "links-0678"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4923c2765cc4258e9d72b856df7252",
+          "Plant Name": "Iris germanica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Iris germanica Linn.",
+        "source_record_id": "links-0678",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4923c2765cc4258e9d72b856df7252"
+      }
+    ],
+    "source_xplant_id": "3a4923c2765cc4258e9d72b856df7252",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

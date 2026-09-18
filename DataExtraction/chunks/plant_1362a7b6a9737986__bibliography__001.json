@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_1362a7b6a9737986__bibliography__001",
+  "plant_id": "plant_1362a7b6a9737986",
+  "plant_name": "Alternanthera sessilis",
+  "botanical_name": "Alternanthera sessilis",
+  "botanical_authority": "(L.) R.BR.EX DC.",
+  "family": "AMARANTHACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - V.V. SIVARAJAN AND INDIRA BALACHANDRAN; title: Title - AYURVEDIC DRUGS AND THEIR PLANT SOURCES\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: title: Title - Flora of Rajasthan Vol.2\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol. II\nBibliography entry: title: Title - Flora of Bankura District(West Bengal)\nBibliography entry: title: Title - Flora of Chamba District (Himachal Pradesh)\nBibliography entry: title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nBibliography entry: title: Title - The Flora of the Gulf of Mannar\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol II\nBibliography entry: title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nBibliography entry: title: Title - Flora of Majuli\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-1\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - The Flora of Orissa Vol III\nBibliography entry: title: Title - Flora of the Indian Desert\nBibliography entry: title: Title - Flora of Gujarat State Vol 1\nBibliography entry: title: Title - Flora of Tons Valley (Uttaranchal)\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a"
+  ],
+  "source_record_ids": [
+    "links-0379",
+    "links-0380",
+    "links-0381",
+    "links-1701"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a"
+    ],
+    "source_record_ids": [
+      "links-0379",
+      "links-0380",
+      "links-0381",
+      "links-1701"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a",
+          "Plant Name": "Alternanthera sessilis",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alternanthera sessilis",
+        "source_record_id": "links-0379",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a",
+          "Plant Name": "Alternanthera sessilis (Linn.) R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alternanthera sessilis (Linn.) R. Br.",
+        "source_record_id": "links-0380",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a",
+          "Plant Name": "Alternanthera sessilis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alternanthera sessilis Linn.",
+        "source_record_id": "links-0381",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a",
+          "Plant Name": "Alternanthera sessilis Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alternanthera sessilis Br.",
+        "source_record_id": "links-1701",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a"
+      }
+    ],
+    "source_xplant_id": "b1f3091dde540ab224f51a6d7eded07a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

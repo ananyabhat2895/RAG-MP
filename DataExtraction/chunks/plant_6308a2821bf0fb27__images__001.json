@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_6308a2821bf0fb27__images__001",
+  "plant_id": "plant_6308a2821bf0fb27",
+  "plant_name": "Mucuna monosperma DC.",
+  "botanical_name": "Mucuna monosperma",
+  "botanical_authority": "DC.",
+  "family": "FABACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286ecb716d01ab4dc3ac6abb8f116ed6"
+  ],
+  "source_record_ids": [
+    "links-0853"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286ecb716d01ab4dc3ac6abb8f116ed6"
+    ],
+    "source_record_ids": [
+      "links-0853"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286ecb716d01ab4dc3ac6abb8f116ed6",
+          "Plant Name": "Mucuna monosperma DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mucuna monosperma DC.",
+        "source_record_id": "links-0853",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286ecb716d01ab4dc3ac6abb8f116ed6"
+      }
+    ],
+    "source_xplant_id": "286ecb716d01ab4dc3ac6abb8f116ed6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

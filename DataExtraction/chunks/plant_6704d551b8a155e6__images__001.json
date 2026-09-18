@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_6704d551b8a155e6__images__001",
+  "plant_id": "plant_6704d551b8a155e6",
+  "plant_name": "Lagerstroemia indica Linn.",
+  "botanical_name": "Lagerstroemia indica",
+  "botanical_authority": "L.",
+  "family": "LYTHRACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b8aec06a93539cfad735c55ee4bd412"
+  ],
+  "source_record_ids": [
+    "links-1789"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b8aec06a93539cfad735c55ee4bd412"
+    ],
+    "source_record_ids": [
+      "links-1789"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b8aec06a93539cfad735c55ee4bd412",
+          "Plant Name": "Lagerstroemia indica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lagerstroemia indica Linn.",
+        "source_record_id": "links-1789",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b8aec06a93539cfad735c55ee4bd412"
+      }
+    ],
+    "source_xplant_id": "8b8aec06a93539cfad735c55ee4bd412",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

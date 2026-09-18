@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_128e5e3d2c5b9017__vernacular_names__001",
+  "plant_id": "plant_128e5e3d2c5b9017",
+  "plant_name": "Schrebera swietenioides Roxb.",
+  "botanical_name": "Schrebera swietenioides",
+  "botanical_authority": "ROXB.",
+  "family": "OLEACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (4): banpalas, moka, mokha, mokhdi\nKannada (20): balla, bula, bulaa, bulaa gante, dathabiro, ganta, gante, kalgante, kalgonte, maavlanga, maggaarthi mara, maggante, maggarti, makaarthi, makarti, mogalimara, mogalinga balli, mogalingamara, muggante, nagganti\nMalayalam (3): maggamaram, malamplasu, muskkakavrksam\nMarathi (3): moka, mokadi, nakti\nSanskrit (16): Sanskrit CommentsX ghantapatali, golidha, kastapatola, ksarasrestha, ksarasresthah, kuberaksa, mahakapittha, moksaka, mokshaka, mushka, mushkaka, muskaka, muskakah, patali, svetamoksaka, svetamuskaka\nTamil (8): kattupparutticceti, magalingam, makalinkam, mmakalinkam, mogalinga, mogalinga-maram, mogalingam, pasarai\nTelugu (34): balla, bullakaaya, bullakaya, maakodi, maalinga maram, magalinga, makkam, makkamokob, mogalinga, mokalapu, mokapu, mokayapa, moke, mokka, mokkalapa, mokkalappa, mokkalinga, mokkam, mokkampa, mokkamu, mokkanu, mokkapa, mokkapu, mokkavepa, mokpb, mucaadi, muccadi, mukkadi, mukkidi, mukodi, neruvodi, thondamukkidi, tondamukkidi, tondamukkudi\nTibetan (2): mu ksa ca, mu-ska-ka",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7c0d57a4605cc69105b7f6970f990bc"
+  ],
+  "source_record_ids": [
+    "links-1292"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7c0d57a4605cc69105b7f6970f990bc"
+    ],
+    "source_record_ids": [
+      "links-1292"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7c0d57a4605cc69105b7f6970f990bc",
+          "Plant Name": "Schrebera swietenioides Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Schrebera swietenioides Roxb.",
+        "source_record_id": "links-1292",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7c0d57a4605cc69105b7f6970f990bc"
+      }
+    ],
+    "source_xplant_id": "c7c0d57a4605cc69105b7f6970f990bc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

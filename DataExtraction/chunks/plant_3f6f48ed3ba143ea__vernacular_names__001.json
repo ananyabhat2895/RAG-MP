@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_3f6f48ed3ba143ea__vernacular_names__001",
+  "plant_id": "plant_3f6f48ed3ba143ea",
+  "plant_name": "Tephrosia purpurea (Linn.) Pers.",
+  "botanical_name": "Tephrosia purpurea",
+  "botanical_authority": "PERS.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): wild indigo\nHindi (16): ban-nil, bisoni, biyani, boyonia, dhamasia, pal, saphanko, sar punkha, sarpanka, sarpankha, sarphankha, sarphanko, sarphenka, sarphoka, sarphomka, sarphonka\nKannada (19): adavi hurali, adavi neeli, empali, honnaavarike, kaggi, koggali, kogge, koggi, koggili, kolingili, koliniji, marali gida, phanike, phankee gida, phanki, punike, vajaranili, vajra neeligida, vajradanili\nMalayalam (10): colinil, kattamari, kazhinnila, kazlunnilla, kolinnil, koluva, korinil, kotikkolinnil, kozhinnil, kozhinnila\nMarathi (8): sarpunk, sharapunkha, sirapakha, udhadi, unhaali, unhal, unhali, untoali\nSanskrit (21): Sanskrit CommentsX banah, banapunkha, banapunkhah, ishupunkhika, kalashaka, kalika, kandapunkha, kriti, neelabralakrati, nilavriksha, nilavrksakrti, plihari, plihasatru, plihashatru, poonkhie, puleehashtree, sarapunkha, sarapunkhah, sayakapunkha, sharapuchchha, sharapunkha\nTamil (30): caat kolingie, carapunku 2, cimmantukacceti, cimmantukam, kallu-k-kay-velai, kat-kolingi, kattukkolincai, kattukkolunci 3, kavali, kayvelai, kolinci 2, kolinji, kollilai, kollilaicceti, kolluk-kay-velai, kolluk-kay-welai, kollukai, kollukkai velai, kollukkay velai, kollukkayvelai, kolunchi, kolunci, koolingie, kozhungi, kumpuranacceti, kumpuranam, muka velai, nallicacceti, nallicam, tilapavi\nTelugu (10): bonta vemapli, bonta vempali, bontavempali, karusembai, pamparachettu, tella vempali, tellavempali, thellavempali, vaympalie, vempali\nUrdu (4): sarabhuka, sarphoka, sarphooka, sarphuka",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c"
+  ],
+  "source_record_ids": [
+    "links-1738",
+    "links-1739"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c"
+    ],
+    "source_record_ids": [
+      "links-1738",
+      "links-1739"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c",
+          "Plant Name": "Tephrosia purpurea (Linn.) Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tephrosia purpurea (Linn.) Pers.",
+        "source_record_id": "links-1738",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c",
+          "Plant Name": "Tephrosia purpurea Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tephrosia purpurea Pers.",
+        "source_record_id": "links-1739",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c"
+      }
+    ],
+    "source_xplant_id": "c8ed3ad40516a2873cf00155bc39949c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

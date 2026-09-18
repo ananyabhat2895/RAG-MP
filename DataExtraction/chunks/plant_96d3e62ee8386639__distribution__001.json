@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_96d3e62ee8386639__distribution__001",
+  "plant_id": "plant_96d3e62ee8386639",
+  "plant_name": "Setaria glauca Beauv.",
+  "botanical_name": "Setaria glauca",
+  "botanical_authority": "BEAUV",
+  "family": "POACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - KANJILAL & BOR; distribution: Distribution; title: Title - FLORA OF ASSAM\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol III\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6db18b5cccaf1ed83f8ba600f049b4a"
+  ],
+  "source_record_ids": [
+    "links-2080"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6db18b5cccaf1ed83f8ba600f049b4a"
+    ],
+    "source_record_ids": [
+      "links-2080"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6db18b5cccaf1ed83f8ba600f049b4a",
+          "Plant Name": "Setaria glauca Beauv.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Setaria glauca Beauv.",
+        "source_record_id": "links-2080",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6db18b5cccaf1ed83f8ba600f049b4a"
+      }
+    ],
+    "source_xplant_id": "b6db18b5cccaf1ed83f8ba600f049b4a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_726e56a84c1b4338__systems_of_medicine__001",
+  "plant_id": "plant_726e56a84c1b4338",
+  "plant_name": "Prunus cerasoides D. Don.",
+  "botanical_name": "Prunus cerasoides",
+  "botanical_authority": "D.DON",
+  "family": "ROSACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Unani\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (1) - Prunus puddum (WALL.) ROXB. EX BRANDIS X Full Botanical citation - Prunus puddum Roxb. ex Brandis\nSystem of medicine: For. Fl. 194. 1874; R.D.Gaur\nSystem of medicine: Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes)\nSystem of medicine: TransMedia\nSystem of medicine: Srinagar (Garhwal)\nSystem of medicine: India\nSystem of medicine: 226. 1999.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1"
+  ],
+  "source_record_ids": [
+    "links-1414",
+    "links-1415",
+    "links-1416"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1"
+    ],
+    "source_record_ids": [
+      "links-1414",
+      "links-1415",
+      "links-1416"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1",
+          "Plant Name": "Prunus cerasoides D. Don.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Prunus cerasoides D. Don.",
+        "source_record_id": "links-1414",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1",
+          "Plant Name": "Prunus cerasoides D. Don. var. majestica ingram",
+          "Status": "Found"
+        },
+        "source_plant_name": "Prunus cerasoides D. Don. var. majestica ingram",
+        "source_record_id": "links-1415",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1",
+          "Plant Name": "Prunus cerasoides D. Don. var. rubeus ingram",
+          "Status": "Found"
+        },
+        "source_plant_name": "Prunus cerasoides D. Don. var. rubeus ingram",
+        "source_record_id": "links-1416",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1"
+      }
+    ],
+    "source_xplant_id": "5522ff065cc5f789461e2a2a48bb6ca1",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

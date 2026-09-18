@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_07bedc5c43b240f6__images__001",
+  "plant_id": "plant_07bedc5c43b240f6",
+  "plant_name": "Sida acuta Burm.",
+  "botanical_name": "Sida acuta",
+  "botanical_authority": "BURM. F.",
+  "family": "MALVACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4af721d8784614f3c53d06bd68f96fbb"
+  ],
+  "source_record_ids": [
+    "links-0267",
+    "links-0271"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4af721d8784614f3c53d06bd68f96fbb"
+    ],
+    "source_record_ids": [
+      "links-0267",
+      "links-0271"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4af721d8784614f3c53d06bd68f96fbb",
+          "Plant Name": "Sida acuta Burm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida acuta Burm.",
+        "source_record_id": "links-0267",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4af721d8784614f3c53d06bd68f96fbb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4af721d8784614f3c53d06bd68f96fbb",
+          "Plant Name": "Sida acuta Burm. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida acuta Burm. f.",
+        "source_record_id": "links-0271",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4af721d8784614f3c53d06bd68f96fbb"
+      }
+    ],
+    "source_xplant_id": "4af721d8784614f3c53d06bd68f96fbb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

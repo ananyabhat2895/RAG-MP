@@ -1,0 +1,97 @@
+{
+  "chunk_id": "plant_9fc88c276c479083__vernacular_names__002",
+  "plant_id": "plant_9fc88c276c479083",
+  "plant_name": "Daemia extensa",
+  "botanical_name": "Pergularia daemia",
+  "botanical_authority": "(FORSK.) CHOIV.",
+  "family": "ASCLEPIADACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (120): acanimuli, accani 2, accanimuli, achanimuli, anantakakkoti, anantam4, anantaram, ancanimuli, anjanimuli, cattamakarani, cettaravinacini, chebira, ciriyatti, ciriyattini#, ciriyattini@, citapparutti, citapparuttikkoti, citarappiyam, citavarakam, citavaram2, ciyaccini, ciyaccinikam, collakam, comanayakakkoti, comanayakam, conakam2, conakam@, conamukam, cucakam2, cukkulam, cunkulakkoti, cunkumam, cutcumappila, iyacoli, iyacolikkoti, kakkaiveli, karani@, karkacam, kattamani, kiritam#, kiritam@, kirusani, kolunkuvi, kudagaram, kunattittaru, kurutaka, kutakam, kutakaram, kutkaram, kuttamani, kuttamanikkoti, mancali@, mancani@, mancanikkoti, mancuni, mani 2, manikatam, manikkoti, manimuli, manimulikkoti, miccai 2, nakanokki, nandamani, nantamani, nattamani, ootamunnie, palamutanki, palmutanki2, panmutanki, peruvakai 2, picukacceti, picukam, picukam#, picukam@, pivelikakkoti, pivelikam, purunti 2, pusanam, putarakkoti, putaram, putaram#, putaravirutcam, seendhal kodi, sidavaram, sindalkodi, siriyattini, siyachini, tiyamam3, uddamani, ukka, urattai, utahmaniver, uthamani, uththaamani, uttamadali, uttamakani, uttamakannikai, uttamamakani, uttamamkani, uttamani, uttamatali, vaylie partie, vayucanka, veli 2, veli parutti, veli pparutti, velikkoti, velip-parutti, veliparuthi, veliparutti, velipparuddi, velipparuti, velipparutti, velipparuttikkoti, vellaikkattamani, velumacanti, velvelikakkoti, velvelikam, vempunal, verlipparuthi\nTelugu (18): chebira, chebura, dishtupu chettu, dushtupatige, dushtuputige, dustapucettu, dustapuchettu, dusthapu theega, dustupatheega, gurticettu, gurtichettu, guruti, guruti chettu, jistapu theega, jittupaku, juttapu theega, juttu paakku, juttupakku\nTibetan (3): bri si ka li, bri sya ka li, ka ka dza gi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/24cf9340e9a5e255b7d82856f6d14c7c",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/7d4db5872a4e19347d0f36a01d4b40f4",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9"
+  ],
+  "source_record_ids": [
+    "links-0540",
+    "links-0736",
+    "links-2032",
+    "links-2112",
+    "links-2113"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/24cf9340e9a5e255b7d82856f6d14c7c",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/7d4db5872a4e19347d0f36a01d4b40f4",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9"
+    ],
+    "source_record_ids": [
+      "links-0540",
+      "links-0736",
+      "links-2032",
+      "links-2112",
+      "links-2113"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/24cf9340e9a5e255b7d82856f6d14c7c",
+          "Plant Name": "Daemia extensa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Daemia extensa",
+        "source_record_id": "links-0540",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/24cf9340e9a5e255b7d82856f6d14c7c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/7d4db5872a4e19347d0f36a01d4b40f4",
+          "Plant Name": "Pergularia extensa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pergularia extensa",
+        "source_record_id": "links-0736",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/7d4db5872a4e19347d0f36a01d4b40f4"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/7d4db5872a4e19347d0f36a01d4b40f4",
+          "Plant Name": "Pergularia extensa N. E. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pergularia extensa N. E. Br.",
+        "source_record_id": "links-2032",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/7d4db5872a4e19347d0f36a01d4b40f4"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9",
+          "Plant Name": "Pergularia daemia (Forsk.) Chiov.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pergularia daemia (Forsk.) Chiov.",
+        "source_record_id": "links-2112",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/7d4db5872a4e19347d0f36a01d4b40f4",
+          "Plant Name": "Pergularia extensa N.E. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pergularia extensa N.E. Br.",
+        "source_record_id": "links-2113",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/7d4db5872a4e19347d0f36a01d4b40f4"
+      }
+    ],
+    "source_xplant_id": "3b65c96aefba323b04e893b2f48c8bd9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

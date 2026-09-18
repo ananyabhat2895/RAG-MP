@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_5f7bfa37aed1502f__botanical_synonyms__001",
+  "plant_id": "plant_5f7bfa37aed1502f",
+  "plant_name": "Pistacia integerrima Stew. ex Brandis",
+  "botanical_name": "Pistacia integerrima",
+  "botanical_authority": "STEW. EX BRANDIS",
+  "family": "PISTACIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Pistacia chinensis BUNGE subsp. integerrima (STEW) RECH.F. X Full Botanical citation - Pistacia chinensis Bunge ssp. integerrima (Stewart) Reichb.f., Fl. Iran. 63: 8. 1969; Dali Chandra & al., in N.P. Singh & al., Fl. India 5: 482. 2000. Pistacia khinjuk STOCKS. X Full Botanical citation - Pistacia khinjuk Stocks in Hook.f., Kew J. Bot. 4: 143. 1852; Dali Chandra & al., in N.P. Singh & al., Fl. India 5: 482. 2000.\nSynonym: Pistacia chinensis BUNGE subsp. integerrima (STEW) RECH.F.\nSynonym: Pistacia khinjuk STOCKS.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4f76fffb0b3c4ac79cc13436883172f8"
+  ],
+  "source_record_ids": [
+    "links-0970",
+    "links-0971"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4f76fffb0b3c4ac79cc13436883172f8"
+    ],
+    "source_record_ids": [
+      "links-0970",
+      "links-0971"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4f76fffb0b3c4ac79cc13436883172f8",
+          "Plant Name": "Pistacia integerrima Stew. ex Brandis",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pistacia integerrima Stew. ex Brandis",
+        "source_record_id": "links-0970",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4f76fffb0b3c4ac79cc13436883172f8"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4f76fffb0b3c4ac79cc13436883172f8",
+          "Plant Name": "Pistacia integerrima Stewart ex Brandis.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pistacia integerrima Stewart ex Brandis.",
+        "source_record_id": "links-0971",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4f76fffb0b3c4ac79cc13436883172f8"
+      }
+    ],
+    "source_xplant_id": "4f76fffb0b3c4ac79cc13436883172f8",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

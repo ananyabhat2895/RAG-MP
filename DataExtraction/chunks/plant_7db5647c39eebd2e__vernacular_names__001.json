@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_7db5647c39eebd2e__vernacular_names__001",
+  "plant_id": "plant_7db5647c39eebd2e",
+  "plant_name": "Cassia fistula Linn.",
+  "botanical_name": "Cassia fistula",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): golden shower, indian laburnum, pudding-pipe tree, purging cassia\nHindi (22): alis, amaltas, amaltas-ki-phalli, amaltash, amlatash, amulthus, bahawa, bahawa dhediya, bandarlauri, dhediya, dodiya, garmale, garmalo karmalo, girimala, girmalah, kaniar, kaniar amaltas, karmalo, kirala, kirmalo, semara, sonhali\nKannada (32): araghvadha, aragina, aragina mara, aragvadha, arevata, arevata mara, jamba, kaadu konde mara, kake, kakee, kakkaayi, kakkaemara, kakkai, kakke, kakke gida, kakke mara, kakke-kayi, kakki, kakkikaayi, kirugakke, kodre, kokke, konde, konde mara, kondi, konne, raama danda kaayi, rajataru, ramdanda, sampaaka, swarna pushpi, takke\nMalayalam (14): caturangulam, choonay, conna, kanikkonna, kanikonna, konna, konnak-kaya, konne, konnei, kritamalam, krytamalam, saturangulam, svarnaviram, svarnnakam\nMarathi (12): bahava, bahawa, balo, bawa, bhawabaya, bhawan, bova, boya, chimkani, garmala, girimala, gurmala\nSanskrit (76): Sanskrit CommentsX amaha, amayaghata, antadru, aragbadha, aragbhada, aragvadha, aragvadhah, aragwadhah, arakvadam, arevata, arogyashimbi, aruja, caturangula, caturangulah, chakraparivyadha, chaturangula, dhirghaphala, dirghaphala, dirghaphalah, drumotpala, evatah, himapushpa, jatharanut, jvarantaka, kandughna, karnabharanaka, karnikara, karnikarah, kritamala, kritamalaka, krtamala, krtamalah, krtamalaka, kundali, kushtaghna, kushthasudana, mahakarnikara, maharajdruma, manthana, naktamala, naradhipa, narendradrma, nripadruma, nrpadrma, nrpataru, nrpavrksa, pragraha, pramcha, rajadrma, rajataru, rajavraksha, rajavriksha, rajavrksa, rajavrksah, rasetiktah, recanah, rechana, rochana, sampaka, samyak, samyaka, samyakah, saraphala, sauvarni, shamyaka, shephalika, suvarnaka, svarnabhusana, svarnabhushana, svarnadra, svarnasthali, svarnavriksha, vyadhighata, vyadhighatah, vyadivata, vyathantaka",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b652fb54216db83110ef00b2c5262ae5"
+  ],
+  "source_record_ids": [
+    "links-0138",
+    "links-0145"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b652fb54216db83110ef00b2c5262ae5"
+    ],
+    "source_record_ids": [
+      "links-0138",
+      "links-0145"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b652fb54216db83110ef00b2c5262ae5",
+          "Plant Name": "Cassia fistula Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cassia fistula Linn.",
+        "source_record_id": "links-0138",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b652fb54216db83110ef00b2c5262ae5"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b652fb54216db83110ef00b2c5262ae5",
+          "Plant Name": "Cassia fistula",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cassia fistula",
+        "source_record_id": "links-0145",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b652fb54216db83110ef00b2c5262ae5"
+      }
+    ],
+    "source_xplant_id": "b652fb54216db83110ef00b2c5262ae5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

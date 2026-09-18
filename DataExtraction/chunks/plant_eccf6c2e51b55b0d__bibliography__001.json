@@ -1,0 +1,84 @@
+{
+  "chunk_id": "plant_eccf6c2e51b55b0d__bibliography__001",
+  "plant_id": "plant_eccf6c2e51b55b0d",
+  "plant_name": "Fumaria indica Pugsley",
+  "botanical_name": "Fumaria vaillantii",
+  "botanical_authority": "LOISEL",
+  "family": "FUMARIACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - DR.P.N.V.KURUP, DR.V.N.K.RAMADAS & JOSHI,P; title: Title - A HANDBOOK OF MEDICINAL PLANTS\nBibliography entry: author: Author - ANONYMOUS; title: Title - ASTANGA HRIDAYA KOSHA\nBibliography entry: author: Author - V.V. SIVARAJAN AND INDIRA BALACHANDRAN; title: Title - AYURVEDIC DRUGS AND THEIR PLANT SOURCES\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: title: Title - Flora of Bankura District(West Bengal)\nBibliography entry: title: Title - Flora of Rajasthan Vol. 1\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I\nBibliography entry: title: Title - Flora of Chamba District (Himachal Pradesh)\nBibliography entry: title: Title - Flora of West Bengal Vol 1\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nBibliography entry: title: Title - FLORA OF INDIA VOL 2\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol I\nBibliography entry: title: Title - Flora of Gujarat State Vol 1\nBibliography entry: title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nBibliography entry: title: Title - Flora of Majuli\nBibliography entry: title: Title - Flora of the Indian Desert\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248/xclkon/1ecde723108465eda012594612add28c",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248/xclkon/07e931baad360fecb11f0d2634aff041",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248"
+  ],
+  "source_record_ids": [
+    "links-1448",
+    "links-1450",
+    "links-1451",
+    "links-1452"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248/xclkon/1ecde723108465eda012594612add28c",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248/xclkon/07e931baad360fecb11f0d2634aff041",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248"
+    ],
+    "source_record_ids": [
+      "links-1448",
+      "links-1450",
+      "links-1451",
+      "links-1452"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248/xclkon/1ecde723108465eda012594612add28c",
+          "Plant Name": "Fumaria indica Pugsley",
+          "Status": "Found"
+        },
+        "source_plant_name": "Fumaria indica Pugsley",
+        "source_record_id": "links-1448",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248/xclkon/1ecde723108465eda012594612add28c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248/xclkon/07e931baad360fecb11f0d2634aff041",
+          "Plant Name": "Fumaria parviflora",
+          "Status": "Found"
+        },
+        "source_plant_name": "Fumaria parviflora",
+        "source_record_id": "links-1450",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248/xclkon/07e931baad360fecb11f0d2634aff041"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248/xclkon/07e931baad360fecb11f0d2634aff041",
+          "Plant Name": "Fumaria parviflora Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Fumaria parviflora Lam.",
+        "source_record_id": "links-1451",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248/xclkon/07e931baad360fecb11f0d2634aff041"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248",
+          "Plant Name": "Fumaria vaillantii Loisel.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Fumaria vaillantii Loisel.",
+        "source_record_id": "links-1452",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248"
+      }
+    ],
+    "source_xplant_id": "dec41b8a5572d1c4acbdc909f89a8248",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_d2af481195322158__vernacular_names__001",
+  "plant_id": "plant_d2af481195322158",
+  "plant_name": "Oryza sativa Linn.",
+  "botanical_name": "Oryza sativa",
+  "botanical_authority": "L.",
+  "family": "POACEAE",
+  "section": "vernacular_names",
+  "content": "English (5): paddy, rice, sake, sea-grass matting, wild rice\nHindi (9): caval, chauval, chaval, dhan, hal, saal, saatti, sawal, seal\nKannada (6): akki, batta, battha, bhatta, bhattha, nellu\nMalayalam (3): ari, navaranellu, nellu\nMarathi (6): bhat, pendha, saala, tandul, tandula, thandula\nSanskrit (28): Sanskrit CommentsX ahi, bilvaja, dhanya, dhanyah, garuda, hima, jiraka, kacoraka, kalama, kalmasa, kapinjala, khanjarita, magadhi, mahasali, nivara, pita, raktabhasali, raktasali, rukmavanti, sali, sastika, saugandhi, shali, sukala, tandula, tandulam, vara, vilavasin\nTamil (27): ari3, arici, aricikkati, arisee, arishi, arisi, arshi, cali, cennel, iyavam1, kalamam, kalanippayir, kalunir, karunkuruvai arici, kati nir, nel, nell, nellu, nerpori, tantulam2, torai, torai2, vai, vari, viriki, viriki 1, yavam 1\nTelugu (17): biyam, biyyam, cheni, dhaanyamu, dhanyamu, errajilama, errajilama vadlu, mattakaa, mattakaaralu, nevaridhaanyamu, nevaridhanyamu, pari, urlu, vadlu, vari, vudlu, yerra rajanaalu\nTibetan (2): bras dmar po, drug cu pa\nUrdu (2): biranj sathi(chawal), chawal",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50a88a84c96f84eac60a122e7745fa20"
+  ],
+  "source_record_ids": [
+    "links-0507",
+    "links-0577"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50a88a84c96f84eac60a122e7745fa20"
+    ],
+    "source_record_ids": [
+      "links-0507",
+      "links-0577"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50a88a84c96f84eac60a122e7745fa20",
+          "Plant Name": "Oryza sativa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Oryza sativa Linn.",
+        "source_record_id": "links-0507",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50a88a84c96f84eac60a122e7745fa20"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50a88a84c96f84eac60a122e7745fa20",
+          "Plant Name": "Oryza sativa Linn. var.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Oryza sativa Linn. var.",
+        "source_record_id": "links-0577",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50a88a84c96f84eac60a122e7745fa20"
+      }
+    ],
+    "source_xplant_id": "50a88a84c96f84eac60a122e7745fa20",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

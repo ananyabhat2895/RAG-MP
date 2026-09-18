@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_db2bd538d81a7ea9__vernacular_names__001",
+  "plant_id": "plant_db2bd538d81a7ea9",
+  "plant_name": "Melia composita Willd.",
+  "botanical_name": "Melia dubia",
+  "botanical_authority": "HIERN, NON CAV.",
+  "family": "MELIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (1): kadukhajur\nKannada (25): arenelli, baevu, betta baevu, betta bevu, bettabevu, bevu, heb-bevu, hebbaevu, hebbevu, kaadu baevu, kaaduvevu, kaatbaage, kadubevu, kaduge, kakibevu, katbevu, kayibevu, korijelli, korijilli, thurakabemu, thurakabevana, turakabemu, turkabevu, turukabemu, turukabevu\nMalayalam (4): kattuveppu, malaveppu, malavepu, maleivembu\nMarathi (7): kadu-khajur, kariaput, karo, khaali khajoor, limbaara, nimbaara, nimbara\nSanskrit (4): Sanskrit CommentsX arangaka, kaidarya, mahanimba, nimbarakah\nTamil (9): malai vembu, malai vempu, malaivembu, malaivempu, malay vembu, mallay-vembu, masaveppu, rurukkuveppu, turukkuvembu\nTelugu (4): munnatikaaraka, munnatikaraka, munnuthi-karaka, munnuthikaraka",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c6a389f01cb3f8ebfa0be70fe987c25/xclkon/2053988d906a6e8680160aecd49c0c8d"
+  ],
+  "source_record_ids": [
+    "links-1230"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c6a389f01cb3f8ebfa0be70fe987c25/xclkon/2053988d906a6e8680160aecd49c0c8d"
+    ],
+    "source_record_ids": [
+      "links-1230"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c6a389f01cb3f8ebfa0be70fe987c25/xclkon/2053988d906a6e8680160aecd49c0c8d",
+          "Plant Name": "Melia composita Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Melia composita Willd.",
+        "source_record_id": "links-1230",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c6a389f01cb3f8ebfa0be70fe987c25/xclkon/2053988d906a6e8680160aecd49c0c8d"
+      }
+    ],
+    "source_xplant_id": "3c6a389f01cb3f8ebfa0be70fe987c25",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

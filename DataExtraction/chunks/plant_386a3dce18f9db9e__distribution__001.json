@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_386a3dce18f9db9e__distribution__001",
+  "plant_id": "plant_386a3dce18f9db9e",
+  "plant_name": "Aloe vera Tourn. ex Linn.",
+  "botanical_name": "Aloe vera",
+  "botanical_authority": "L.",
+  "family": "LILIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III\nDistribution entry: author: Author - Dr. Narain Singh Chauhan; distribution: Distribution; title: Title - Medicinal and Aromatic Plants of Himachal Pradesh\nDistribution entry: author: Author - Ed B D Sharma, S Karthikeyan, N P Singh; distribution: Distribution; title: Title - Flora of Maharashrta State (Monocotyledons)\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 2\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f3796b55ac6702e10bd40afe3b372ca/xclkon/98403088f3f134a7b5f8b6a2d2dc5eea"
+  ],
+  "source_record_ids": [
+    "links-1113"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f3796b55ac6702e10bd40afe3b372ca/xclkon/98403088f3f134a7b5f8b6a2d2dc5eea"
+    ],
+    "source_record_ids": [
+      "links-1113"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f3796b55ac6702e10bd40afe3b372ca/xclkon/98403088f3f134a7b5f8b6a2d2dc5eea",
+          "Plant Name": "Aloe vera Tourn. ex Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aloe vera Tourn. ex Linn.",
+        "source_record_id": "links-1113",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f3796b55ac6702e10bd40afe3b372ca/xclkon/98403088f3f134a7b5f8b6a2d2dc5eea"
+      }
+    ],
+    "source_xplant_id": "3f3796b55ac6702e10bd40afe3b372ca",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

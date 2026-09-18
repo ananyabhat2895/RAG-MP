@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_45ca86aa0e76eb8e__vernacular_names__001",
+  "plant_id": "plant_45ca86aa0e76eb8e",
+  "plant_name": "Vitex peduncularis Wall.",
+  "botanical_name": "Vitex peduncularis",
+  "botanical_authority": "WALL .",
+  "family": "VERBENACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (6): charaigorwa, chhagriaruba, minjurgorwa, nagbail, nagbail nagpheni, nagpheni\nKannada (3): navaladi, seeme navilaadi, seeme navulaadi\nSanskrit (2): Sanskrit CommentsX kakajangha, paravatapadi\nTelugu (1): navaladi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5e041a180807a480eef4c8c7899ffc4"
+  ],
+  "source_record_ids": [
+    "links-0842"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5e041a180807a480eef4c8c7899ffc4"
+    ],
+    "source_record_ids": [
+      "links-0842"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5e041a180807a480eef4c8c7899ffc4",
+          "Plant Name": "Vitex peduncularis Wall.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vitex peduncularis Wall.",
+        "source_record_id": "links-0842",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5e041a180807a480eef4c8c7899ffc4"
+      }
+    ],
+    "source_xplant_id": "d5e041a180807a480eef4c8c7899ffc4",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

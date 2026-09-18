@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_5bc5e3a9a5be9900__bibliography__001",
+  "plant_id": "plant_5bc5e3a9a5be9900",
+  "plant_name": "Azadirachta indica A. Juss",
+  "botanical_name": "Azadirachta indica",
+  "botanical_authority": "A. JUSS.",
+  "family": "MELIACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - MOODEEN SHERIFF; title: Title - A CATALOGUE OF INDIAN SYNONYMS\nBibliography entry: author: Author - DR.P.N.V.KURUP, DR.V.N.K.RAMADAS & JOSHI,P; title: Title - A HANDBOOK OF MEDICINAL PLANTS\nBibliography entry: author: Author - V.V. SIVARAJAN AND INDIRA BALACHANDRAN; title: Title - AYURVEDIC DRUGS AND THEIR PLANT SOURCES\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - N.S. MOOSS; title: Title - GANAS OF VAHATA\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - MUKERJI,B; title: Title - INDIAN PHARMACEUTICAL CODEX VOL.I\nBibliography entry: author: Author - ALIX RAISON; title: Title - LA-HARITA SAMHITA\nBibliography entry: author: Author - ANONYMOUS; title: Title - PHARMACOGNOSY OF AYURVEDIC DRUGS NOS. 01 & 02\nBibliography entry: author: Author - VAIDYA D.K. KAMAT; title: Title - STUDIES ON MEDICINAL PLANTS IN DHANVANTARIYA NIGHANTU VOL.1\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: title: Title - FLORA OF ASSAM\nBibliography entry: title: Title - Flora of Bankura District(West Bengal)\nBibliography entry: title: Title - Flora of Rajasthan Vol. 1\nBibliography entry: title: Title - The Flora of Orissa Volume 1\nBibliography entry: title: Title - Medicinal and Aromatic Plants of Himachal Pradesh\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL1\nBibliography entry: title: Title - The Flora of the Gulf of Mannar\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol I\nBibliography entry: title: Title - A Forest Flora for Kumaon\nBibliography entry: title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nBibliography entry: title: Title - Flora of Majuli\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nBibliography entry: title: Title - Flora of the Indian Desert\nBibliography entry: title: Title - The Flora of Kerala Vol I\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370"
+  ],
+  "source_record_ids": [
+    "links-1396",
+    "links-1397"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370"
+    ],
+    "source_record_ids": [
+      "links-1396",
+      "links-1397"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370",
+          "Plant Name": "Azadirachta indica A. Juss",
+          "Status": "Found"
+        },
+        "source_plant_name": "Azadirachta indica A. Juss",
+        "source_record_id": "links-1396",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370",
+          "Plant Name": "Azadirachta indica A. Juss.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Azadirachta indica A. Juss.",
+        "source_record_id": "links-1397",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370"
+      }
+    ],
+    "source_xplant_id": "824a2c2219788b48e2a3bb1633d43370",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_916d4834ced84ca6__vernacular_names__001",
+  "plant_id": "plant_916d4834ced84ca6",
+  "plant_name": "Cleome viscosa",
+  "botanical_name": "Cleome viscosa",
+  "botanical_authority": "L.",
+  "family": "CLEOMACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): dog mustard\nHindi (9): bagra, bagro, hulhul, hurhur, jakhya, jangli hurhr, janglihulvul, jurhureh, pili-hulhul\nKannada (11): antu saasive gida, gandunaa balli, haladi gida, haladimaamballi, kaadu saasive, kaadu sasuve, kaadusassive, naayi bele gida, naayi saasive, naayisassive, nayibela\nMalayalam (8): aria-veela, ariavila, aryaval, aryavela, atunarivela, katkudagu, naivela, vela\nMarathi (8): harhuria, harhuriya, kanfuti, kanphodi, kanphuta, peevali thilvana, sthala, tiloni\nSanskrit (36): Sanskrit CommentsX adityabhakta, arikahita, arkabhakta, arkakanta, barbara, bhaskareshta, brahmasuvarchala, hulahula, karnasphota, karnaspota, kookavumitie, kukavaiminta, kukavaivinta, kukavumitie, mandukaparni, manduki, martandavallabha, pasugandha, raviprita, ravishta, satyanamni, sauri, shunaca-barbara, shunakabarbara, surasambhava, suryalata, suteja, suvarchala, svana-burbara, svanabarbara, svanaburbara, tilaparni, tilparni, varada, vikranta, vinta\nTamil (75): arkkakantam, atakam 1, atikantam, avattam@, culapinka, cullivekacceti, iyalputi1, kaattu kadugu, kampocam1, kantanam, kantaputiyam, kattavankam, kattu-k-katuku, kattu-kadugu, kattukkadugu, kattukkatuku1, kentakam1, kentaputi, kentaputiyam, kentumuricceti, kentumuriyam, kevviyacceti, kevviyam, kolincini, kolincinicceti, kolunci, koluncippuntu, korukkacci1, korukkaccicceti, maruti, mayurakam 1, mutiyam, naai vealai elai, nahikuddaghu, nai-kadupu, naikkaduku, naivelai, nakkatuku, nalikam2, nalla-velai, nallavetaikkani, nalvelai, nattaccarimuli, nay-k-katuku, nay-velai, nayavaylei, nayi-velai, nayikkadugu, nayivelai, naykkatipokki, naykkatuku, naykkatuku2, nayvelai, nayvempu, nik-kadugu, parikopattam, peru-velai, peruvelai, pinicampokki, pinicampokkicceti, pirappar, pirappari, puti, putitacceti, putitam, putpacam, puttiru 1, sinnakurinji, taivayali, taivayalicceti, titcanam3, valalakaram, vealai, vetaikkanipputu, virutuntankam\nTelugu (10): kukha-avalu, kukhavavulu, kukhavominta, kukka-avalu, kukka-vaminta, kukkavaaminta, kukkavaminta, kukkavavulu, naelavaminta, vaaminta\nUrdu (2): hulhul, panwar",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129"
+  ],
+  "source_record_ids": [
+    "links-0044",
+    "links-1946"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129"
+    ],
+    "source_record_ids": [
+      "links-0044",
+      "links-1946"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129",
+          "Plant Name": "Cleome viscosa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cleome viscosa",
+        "source_record_id": "links-0044",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129",
+          "Plant Name": "Cleome viscosa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cleome viscosa Linn.",
+        "source_record_id": "links-1946",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129"
+      }
+    ],
+    "source_xplant_id": "b7f630b552d8b61583d0338e65f95129",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

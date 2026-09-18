@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a05d6cc03e8947a8__distribution__001",
+  "plant_id": "plant_a05d6cc03e8947a8",
+  "plant_name": "Dolichos lablab Linn.",
+  "botanical_name": "Dolichos lablab",
+  "botanical_authority": "L.",
+  "family": "FABACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7a273327201ad5dcb276075872c4604"
+  ],
+  "source_record_ids": [
+    "links-1403"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7a273327201ad5dcb276075872c4604"
+    ],
+    "source_record_ids": [
+      "links-1403"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7a273327201ad5dcb276075872c4604",
+          "Plant Name": "Dolichos lablab Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dolichos lablab Linn.",
+        "source_record_id": "links-1403",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7a273327201ad5dcb276075872c4604"
+      }
+    ],
+    "source_xplant_id": "d7a273327201ad5dcb276075872c4604",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

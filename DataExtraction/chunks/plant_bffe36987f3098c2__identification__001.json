@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_bffe36987f3098c2__identification__001",
+  "plant_id": "plant_bffe36987f3098c2",
+  "plant_name": "Eleusine indica Gaertn.",
+  "botanical_name": "Eleusine indica",
+  "botanical_authority": "GAERTN.",
+  "family": "POACEAE",
+  "section": "identification",
+  "content": "Plant name: Eleusine indica Gaertn. Botanical name: Eleusine indica Botanical authority: GAERTN. Family: POACEAE Source xplant ID: a4bfc36d342cb82224e4e3567b8bf6a0",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4bfc36d342cb82224e4e3567b8bf6a0"
+  ],
+  "source_record_ids": [
+    "links-1218"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4bfc36d342cb82224e4e3567b8bf6a0"
+    ],
+    "source_record_ids": [
+      "links-1218"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4bfc36d342cb82224e4e3567b8bf6a0",
+          "Plant Name": "Eleusine indica Gaertn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Eleusine indica Gaertn.",
+        "source_record_id": "links-1218",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4bfc36d342cb82224e4e3567b8bf6a0"
+      }
+    ],
+    "source_xplant_id": "a4bfc36d342cb82224e4e3567b8bf6a0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

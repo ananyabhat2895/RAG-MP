@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_13d79e56027c64c6__botanical_synonyms__001",
+  "plant_id": "plant_13d79e56027c64c6",
+  "plant_name": "Luffa cylindrica (Linn.) M. Roem.",
+  "botanical_name": "Luffa cylindrica",
+  "botanical_authority": "(L.) M.J. ROEM.",
+  "family": "CUCURBITACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Luffa aegyptiaca MILL. EX. HOOK.F. X Full Botanical citation - Luffa aegyptica Mill. Dict. ed. 4: 500. 1785; H.L. Chakravarty, Fascicles of Flora of India, Fasicle II, Cucurbitaceae, BSI, Howrah, 70. 1982 Luffa pentandra ROXB.\nSynonym: Luffa aegyptiaca MILL. EX. HOOK.F.\nSynonym: Luffa pentandra ROXB.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f"
+  ],
+  "source_record_ids": [
+    "links-0508",
+    "links-0509"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f"
+    ],
+    "source_record_ids": [
+      "links-0508",
+      "links-0509"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f",
+          "Plant Name": "Luffa cylindrica (Linn.) M. Roem.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Luffa cylindrica (Linn.) M. Roem.",
+        "source_record_id": "links-0508",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f",
+          "Plant Name": "Luffa cylindrica (Linn.) M.J. Roem.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Luffa cylindrica (Linn.) M.J. Roem.",
+        "source_record_id": "links-0509",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f"
+      }
+    ],
+    "source_xplant_id": "42a309fa9378a8bdc2426fa5e4ddf16f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_4ebf82e21be098b5__distribution__001",
+  "plant_id": "plant_4ebf82e21be098b5",
+  "plant_name": "Gynandropsis gynandra (Linn.) Briquet.",
+  "botanical_name": "Cleome gynandra",
+  "botanical_authority": "L.",
+  "family": "CLEOMACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - N.P.Balakrishnan; distribution: Distribution; title: Title - Flora of Jowai Vol.I\nDistribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - Ed. P. Daniel; distribution: Distribution; title: Title - The Flora of Kerala Vol I\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - BSI Scientist; distribution: Distribution; title: Title - Flora of West Bengal Vol 1\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol I\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/037d5a51f00073cebf73cf5af61a91ed",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/f821de3649c8eea1bb9d14596b384b8c"
+  ],
+  "source_record_ids": [
+    "links-0041",
+    "links-1948",
+    "links-1949"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/037d5a51f00073cebf73cf5af61a91ed",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/f821de3649c8eea1bb9d14596b384b8c"
+    ],
+    "source_record_ids": [
+      "links-0041",
+      "links-1948",
+      "links-1949"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/037d5a51f00073cebf73cf5af61a91ed",
+          "Plant Name": "Gynandropsis gynandra (Linn.) Briquet.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gynandropsis gynandra (Linn.) Briquet.",
+        "source_record_id": "links-0041",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/037d5a51f00073cebf73cf5af61a91ed"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/f821de3649c8eea1bb9d14596b384b8c",
+          "Plant Name": "Gynandropsis pentaphylla DC",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gynandropsis pentaphylla DC",
+        "source_record_id": "links-1948",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/f821de3649c8eea1bb9d14596b384b8c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/f821de3649c8eea1bb9d14596b384b8c",
+          "Plant Name": "Gynandropsis pentaphylla DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gynandropsis pentaphylla DC.",
+        "source_record_id": "links-1949",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/f821de3649c8eea1bb9d14596b384b8c"
+      }
+    ],
+    "source_xplant_id": "be71e62bf02d88c81ae5ce1101fa92f6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

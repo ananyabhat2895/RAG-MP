@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_caeba9b81644ba4c__systems_of_medicine__001",
+  "plant_id": "plant_caeba9b81644ba4c",
+  "plant_name": "Asparagus sarmentosus Linn.",
+  "botanical_name": "Asparagus sarmentosus",
+  "botanical_authority": "L.",
+  "family": "LILIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de94495a4d43cb4d8c640f4bcd1b7a1b"
+  ],
+  "source_record_ids": [
+    "links-1768"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de94495a4d43cb4d8c640f4bcd1b7a1b"
+    ],
+    "source_record_ids": [
+      "links-1768"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de94495a4d43cb4d8c640f4bcd1b7a1b",
+          "Plant Name": "Asparagus sarmentosus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Asparagus sarmentosus Linn.",
+        "source_record_id": "links-1768",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de94495a4d43cb4d8c640f4bcd1b7a1b"
+      }
+    ],
+    "source_xplant_id": "de94495a4d43cb4d8c640f4bcd1b7a1b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

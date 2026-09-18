@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_cab39473ba757574__images__001",
+  "plant_id": "plant_cab39473ba757574",
+  "plant_name": "Commiphora abyssinica Engl.",
+  "botanical_name": "Commiphora abyssinica",
+  "botanical_authority": "ENGL.",
+  "family": "BURSERACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1279c5d461c155e3e97800d75dd0ea4d"
+  ],
+  "source_record_ids": [
+    "links-0365"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1279c5d461c155e3e97800d75dd0ea4d"
+    ],
+    "source_record_ids": [
+      "links-0365"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1279c5d461c155e3e97800d75dd0ea4d",
+          "Plant Name": "Commiphora abyssinica Engl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Commiphora abyssinica Engl.",
+        "source_record_id": "links-0365",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1279c5d461c155e3e97800d75dd0ea4d"
+      }
+    ],
+    "source_xplant_id": "1279c5d461c155e3e97800d75dd0ea4d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

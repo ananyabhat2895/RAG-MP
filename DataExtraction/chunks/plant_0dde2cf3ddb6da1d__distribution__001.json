@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_0dde2cf3ddb6da1d__distribution__001",
+  "plant_id": "plant_0dde2cf3ddb6da1d",
+  "plant_name": "Amorphophallus bulbifer Blume.",
+  "botanical_name": "Amorphophallus bulbifer",
+  "botanical_authority": "BLUME",
+  "family": "ARACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol IV\nDistribution entry: author: Author - Ed B D Sharma, S Karthikeyan, N P Singh; distribution: Distribution; title: Title - Flora of Maharashrta State (Monocotyledons)\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb2679ef2da3c86bd49d7589178a9c24"
+  ],
+  "source_record_ids": [
+    "links-0098"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb2679ef2da3c86bd49d7589178a9c24"
+    ],
+    "source_record_ids": [
+      "links-0098"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb2679ef2da3c86bd49d7589178a9c24",
+          "Plant Name": "Amorphophallus bulbifer Blume.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Amorphophallus bulbifer Blume.",
+        "source_record_id": "links-0098",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb2679ef2da3c86bd49d7589178a9c24"
+      }
+    ],
+    "source_xplant_id": "fb2679ef2da3c86bd49d7589178a9c24",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

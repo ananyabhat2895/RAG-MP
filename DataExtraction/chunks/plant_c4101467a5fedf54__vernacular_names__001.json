@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_c4101467a5fedf54__vernacular_names__001",
+  "plant_id": "plant_c4101467a5fedf54",
+  "plant_name": "Cicca acida (Linn.) Merr.",
+  "botanical_name": "Phyllanthus acidus",
+  "botanical_authority": "(L.) SKEELS",
+  "family": "EUPHORBIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): otaheite gooseberry\nHindi (5): chaimeri, chalmeri, harfarauri, nari, narphal\nKannada (10): aranelli, are nelli, arenelli, karinelli, kirinelli, kirnelli, kirunelli, nakshatra nelli, raayanelli, rayaranelli\nMalayalam (6): arinelli, arinellikka, neli-pouli, nelipouli, nellippuli, nellipuli\nMarathi (5): avil, haraphroti, harpurrewdi, ray-avil, rojamvali\nSanskrit (11): Sanskrit CommentsX ghana, komalavalkala, lavali, lavaliphala, lavani, pandu, rayamalaka, skandhaphala, srigdha, sugandhamoola, sugandhamula\nTamil (33): amalakam 1, amalam 1, aranelli, ari 1, arinelli, arinellimaram, aru nelli, aru-nelli, arunelli, catakam, catatakamaram, catataram, catataran, chandagam, cirunelli 1, kila-nelli, kirakaniyam, kirakaniyamaram, pauttiranelli, pauttiranellimaram, puttari, puttattiri#, puttattiri@, sadadaram, sadagam, tanuttuvacacceti, tanuttuvacai#, tanuttuvacai@, tanuttuvacam#, tanuttuvacam@, tavittuppalam, vekupattiri 1, vekupattirimaram\nTelugu (20): raacha usirika, raachayusirika, racavusarike, racavusiri, racayusirika, raccavusirikaya, racha usiri, rachauserike, rachausirika, rachayusirika, rassauseriki, ratasavusiriki, ratsausirike, ratsausiriki, ratsausirki, ratsavusirikai, ratsavusiroki, russausareki, russauserekee, usiri chettu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/b356be66a5797682eec6c7018c9d8beb"
+  ],
+  "source_record_ids": [
+    "links-1177",
+    "links-1178",
+    "links-1179"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/b356be66a5797682eec6c7018c9d8beb"
+    ],
+    "source_record_ids": [
+      "links-1177",
+      "links-1178",
+      "links-1179"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/b356be66a5797682eec6c7018c9d8beb",
+          "Plant Name": "Cicca acida (Linn.) Merr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cicca acida (Linn.) Merr.",
+        "source_record_id": "links-1177",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/b356be66a5797682eec6c7018c9d8beb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/b356be66a5797682eec6c7018c9d8beb",
+          "Plant Name": "Cicca acida (Linn.) Merrill",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cicca acida (Linn.) Merrill",
+        "source_record_id": "links-1178",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/b356be66a5797682eec6c7018c9d8beb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/b356be66a5797682eec6c7018c9d8beb",
+          "Plant Name": "Cicca acida (Linn.) Merrill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cicca acida (Linn.) Merrill.",
+        "source_record_id": "links-1179",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/b356be66a5797682eec6c7018c9d8beb"
+      }
+    ],
+    "source_xplant_id": "bcb5a0832a219a36158651a64f5a920b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

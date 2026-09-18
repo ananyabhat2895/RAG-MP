@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ed498e2052949bf3__systems_of_medicine__001",
+  "plant_id": "plant_ed498e2052949bf3",
+  "plant_name": "Teramnus labialis Spreng.",
+  "botanical_name": "Teramnus labialis",
+  "botanical_authority": "(L.F.) SPRENG.",
+  "family": "FABACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (1) - Glycine labialis L.F. X Full Botanical citation - Glycine labialis L. f. Suppl. 325. 1781; N.P.Singh &al.\nSystem of medicine: Fl.Maharashtra state\nSystem of medicine: Dicotyledones\nSystem of medicine: 1: Fl.India Ser. 2: 755. 2000.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aea6ebfaefe12f31f04100b9c6edbe3"
+  ],
+  "source_record_ids": [
+    "links-1262"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aea6ebfaefe12f31f04100b9c6edbe3"
+    ],
+    "source_record_ids": [
+      "links-1262"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aea6ebfaefe12f31f04100b9c6edbe3",
+          "Plant Name": "Teramnus labialis Spreng.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Teramnus labialis Spreng.",
+        "source_record_id": "links-1262",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aea6ebfaefe12f31f04100b9c6edbe3"
+      }
+    ],
+    "source_xplant_id": "4aea6ebfaefe12f31f04100b9c6edbe3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

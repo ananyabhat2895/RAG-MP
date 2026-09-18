@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d3677b494e8f5a10__vernacular_names__001",
+  "plant_id": "plant_d3677b494e8f5a10",
+  "plant_name": "Eleusine aegyptiaca Desf.",
+  "botanical_name": "Dactyloctenium aegyptium",
+  "botanical_authority": "BEAUV.",
+  "family": "POACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): crow foot grass, egyptian grass\nHindi (5): kuri, makaro, makra, makri, manchi\nKannada (3): kaadu raagi hullu, kaadu ragi hullu, konana thale hullu\nMalayalam (2): kavara-pullu, kavarapullu\nSanskrit (6): Sanskrit CommentsX markatahastatrna, markatatrna, nrttakoundaka, takrahva, timira, vasira\nTamil (10): aricippul2, matankappul, mattanga-pillu, mattankayppul, mutankali, mutankalippul, purakam 2, purakappul, sodi, tamida\nTelugu (2): muttengapillu, nela raagi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d561019cdc3054d595e12e34b7a47d3/xclkon/b7bad29b0bc55298b8138ceddd23b8ef"
+  ],
+  "source_record_ids": [
+    "links-1405"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d561019cdc3054d595e12e34b7a47d3/xclkon/b7bad29b0bc55298b8138ceddd23b8ef"
+    ],
+    "source_record_ids": [
+      "links-1405"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d561019cdc3054d595e12e34b7a47d3/xclkon/b7bad29b0bc55298b8138ceddd23b8ef",
+          "Plant Name": "Eleusine aegyptiaca Desf.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Eleusine aegyptiaca Desf.",
+        "source_record_id": "links-1405",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d561019cdc3054d595e12e34b7a47d3/xclkon/b7bad29b0bc55298b8138ceddd23b8ef"
+      }
+    ],
+    "source_xplant_id": "2d561019cdc3054d595e12e34b7a47d3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

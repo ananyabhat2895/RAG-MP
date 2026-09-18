@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_daf2b0a11c02ef45__systems_of_medicine__001",
+  "plant_id": "plant_daf2b0a11c02ef45",
+  "plant_name": "Salvadora persica",
+  "botanical_name": "Salvadora persica",
+  "botanical_authority": "L. var. wightiana (PLANCH EX THW.) VERDC.",
+  "family": "SALVADORACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk Botanical Synonyms (1) - Salvadora persica L. X Full Botanical citation - Salvadora persica sensu Roxb. Fl. Ind. 1: 389. 1837 non L. 1753; N.P.Singh & al.\nSystem of medicine: Fl. Maharashtra State Dicotyledones\nSystem of medicine: 2: Fl. India Ser 2: 316. 2001.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/075b1ba44b6d5100c962e49f555de13f/xclkon/9d465fff1cb67579bd1fdb68eabadb47"
+  ],
+  "source_record_ids": [
+    "links-1328",
+    "links-1519"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/075b1ba44b6d5100c962e49f555de13f/xclkon/9d465fff1cb67579bd1fdb68eabadb47"
+    ],
+    "source_record_ids": [
+      "links-1328",
+      "links-1519"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/075b1ba44b6d5100c962e49f555de13f/xclkon/9d465fff1cb67579bd1fdb68eabadb47",
+          "Plant Name": "Salvadora persica",
+          "Status": "Found"
+        },
+        "source_plant_name": "Salvadora persica",
+        "source_record_id": "links-1328",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/075b1ba44b6d5100c962e49f555de13f/xclkon/9d465fff1cb67579bd1fdb68eabadb47"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/075b1ba44b6d5100c962e49f555de13f/xclkon/9d465fff1cb67579bd1fdb68eabadb47",
+          "Plant Name": "Salvadora persica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Salvadora persica Linn.",
+        "source_record_id": "links-1519",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/075b1ba44b6d5100c962e49f555de13f/xclkon/9d465fff1cb67579bd1fdb68eabadb47"
+      }
+    ],
+    "source_xplant_id": "075b1ba44b6d5100c962e49f555de13f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_4ebf82e21be098b5__botanical_synonyms__001",
+  "plant_id": "plant_4ebf82e21be098b5",
+  "plant_name": "Gynandropsis gynandra (Linn.) Briquet.",
+  "botanical_name": "Cleome gynandra",
+  "botanical_authority": "L.",
+  "family": "CLEOMACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Cleome pentaphylla L. Gynandropsis gynandra BRIQUET X Full Botanical citation - Gynandropsis gynandra (L.) Briq. in Ann. Cons. Jard. Bot. Geneve 17: 382. 1914; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 188. 1999. Gynandropsis pentaphylla L. X Full Botanical citation - Gynandropsis pentaphylla (L.) DC., Prodr., 1: 238. 1824; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 188. 1999.\nSynonym: Cleome pentaphylla L.\nSynonym: Gynandropsis gynandra BRIQUET\nSynonym: Gynandropsis pentaphylla L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/037d5a51f00073cebf73cf5af61a91ed",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/f821de3649c8eea1bb9d14596b384b8c"
+  ],
+  "source_record_ids": [
+    "links-0041",
+    "links-1948",
+    "links-1949"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/037d5a51f00073cebf73cf5af61a91ed",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/f821de3649c8eea1bb9d14596b384b8c"
+    ],
+    "source_record_ids": [
+      "links-0041",
+      "links-1948",
+      "links-1949"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/037d5a51f00073cebf73cf5af61a91ed",
+          "Plant Name": "Gynandropsis gynandra (Linn.) Briquet.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gynandropsis gynandra (Linn.) Briquet.",
+        "source_record_id": "links-0041",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/037d5a51f00073cebf73cf5af61a91ed"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/f821de3649c8eea1bb9d14596b384b8c",
+          "Plant Name": "Gynandropsis pentaphylla DC",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gynandropsis pentaphylla DC",
+        "source_record_id": "links-1948",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/f821de3649c8eea1bb9d14596b384b8c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/f821de3649c8eea1bb9d14596b384b8c",
+          "Plant Name": "Gynandropsis pentaphylla DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gynandropsis pentaphylla DC.",
+        "source_record_id": "links-1949",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/f821de3649c8eea1bb9d14596b384b8c"
+      }
+    ],
+    "source_xplant_id": "be71e62bf02d88c81ae5ce1101fa92f6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

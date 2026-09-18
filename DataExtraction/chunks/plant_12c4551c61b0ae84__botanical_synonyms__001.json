@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_12c4551c61b0ae84__botanical_synonyms__001",
+  "plant_id": "plant_12c4551c61b0ae84",
+  "plant_name": "Pterospermum canescens",
+  "botanical_name": "Pterospermum suberifolium",
+  "botanical_authority": "(L.) LAM.",
+  "family": "STERCULIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Pterospermum canescens ROXB. X Full Botanical citation - Pterpspermum canescens Roxb., [Hort. Beng. 50. 1814, nom. nud] Fl. Ind. 3: 1162. 1832; S.K.Chandra in B.D.Sharma & Sanjappa, Fl. India 3: 453. 1993.\nSynonym: Pterospermum canescens ROXB.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51126f098d000139264adcbc683b963e/xclkon/9d44864894f073a87a9fae970ddf5827"
+  ],
+  "source_record_ids": [
+    "links-0599"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51126f098d000139264adcbc683b963e/xclkon/9d44864894f073a87a9fae970ddf5827"
+    ],
+    "source_record_ids": [
+      "links-0599"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51126f098d000139264adcbc683b963e/xclkon/9d44864894f073a87a9fae970ddf5827",
+          "Plant Name": "Pterospermum canescens",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pterospermum canescens",
+        "source_record_id": "links-0599",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51126f098d000139264adcbc683b963e/xclkon/9d44864894f073a87a9fae970ddf5827"
+      }
+    ],
+    "source_xplant_id": "51126f098d000139264adcbc683b963e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

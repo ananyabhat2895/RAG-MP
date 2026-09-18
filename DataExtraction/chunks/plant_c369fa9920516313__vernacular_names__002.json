@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c369fa9920516313__vernacular_names__002",
+  "plant_id": "plant_c369fa9920516313",
+  "plant_name": "Plumbago zeylanica Linn.",
+  "botanical_name": "Plumbago zeylanica",
+  "botanical_authority": "L.",
+  "family": "PLUMBAGINACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (169): adigarradi, akanati, akanaticceti, akanatitam, akkini, alal 3, alarcuti, anal#, anal@, analam, angodiveli, anincakacceti, anincakam, anincil 2, ankaracatti, ankotiveli, ari 4, arunaveli, aticanaci, atikanalacceti, atikanalam, atikanari, atikanari 2, atikari, atikarrati, atimakamuli, atinatippuntu, atipatinci, atipatinki, atipatinkicceti, atipatunkaicceti, atipatunki, cataveta, catavetai, catti, cattuvati, cerukkan, cerukkanvelicceti, chithiramulam, chithramulam, chitramulam, chittira, chittira mulam, chittiragam, chittiramulam, cilaiman, cittar muli, cittarmulam, cittarmuli, cittimulam, cittira mulam, cittirakacceti, cittirakam 2, cittirakkoti, cittiram 3, cittiramulam, cittiratam, cittramoolum, civam 2, cotikantam, cotimulam, cotimuli, cuci, cuvalini, eluna, elunacceti, eri, ilataivanni, kal, kanali 3, kanalintiran, kanalintirankoti, kanilam, kanilam#, kanilam@, kanilindiran, karikai, karimai, karimai#, karimai@, kavikkaruppi, kodivaylie, kodiveli, koduveli, kolu, komucciravalli, konunkakalam, koticci 4, kotitti, kotiveli, kotiver, kotiyatakam, kotunali, kotunavi, kotunavicceti, kotuveli, kuriyavanni, makaratacceti, makaratam, makarutam, natakkaiyarival, nekili, neruppumuli, oli 1, olikaicceti, olikam, pakappati, patinam#, patinam$, sadaveda, sittragam, takam, talal, talarkoti, tamaraki, tamarakicceti, tanalakini, tanalakinicceti, tanalarri, tanuptam, tapanakacceti, tapanakam, tapanan, taruvanavakkini, ticaina, ticainacceti, tigana, tikana, tikanati, tikanaticceti, tikku, tivipinamam, tivipinapakkoti, tivipinapam, tuvayakkini, ukkan, umilnirpperukki, utacanam, utacanan, utakavan, utalveticci, utankan, vacakam, vacankam, vaccakaram, valakaccikai, vallivanni, vanama, vanamacacceti, vanamacam, vancakacuram, vancakaram, vancira, vanciracceti, vanni, vannipiliyam, vannippiriyacceti, vannippiriyam, varalam, veli 2, vellaiccittiramulam, vellaikkotiveli, vellaikkotuveli, ven-chittira mulam, vencittiramulam, venkodiveli, venkotimulam, venkotiveli, viratattuvam\nTelugu (15): agnimaata, agnimaatha, agnimata, agnimatha, chithramoolamu, chitra-mulam, chitramoolam, chitramulam, chitramulamu, citramulamu, tella-chitramulamu, tellachitramulam, tellachitramulamu, tellacitramulamu, thellachithramoolamu\nTibetan (6): kru trug tres (p), kru tug tres, tsa gran ka, tsi tra, tsi-tra, tsi-tra-ka\nUrdu (3): chita lakri, chita wood, sheetraj hindi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4e26d09c1e6acf5635e3706863976684"
+  ],
+  "source_record_ids": [
+    "links-0453"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4e26d09c1e6acf5635e3706863976684"
+    ],
+    "source_record_ids": [
+      "links-0453"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4e26d09c1e6acf5635e3706863976684",
+          "Plant Name": "Plumbago zeylanica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Plumbago zeylanica Linn.",
+        "source_record_id": "links-0453",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4e26d09c1e6acf5635e3706863976684"
+      }
+    ],
+    "source_xplant_id": "4e26d09c1e6acf5635e3706863976684",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

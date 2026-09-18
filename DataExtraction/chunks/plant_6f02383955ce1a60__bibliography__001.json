@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_6f02383955ce1a60__bibliography__001",
+  "plant_id": "plant_6f02383955ce1a60",
+  "plant_name": "Thespesia lampas Dalz. & Gibs.",
+  "botanical_name": "Thespesia lampas",
+  "botanical_authority": "(CAV.) DALZ. EX DALZ.",
+  "family": "MALVACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I\nBibliography entry: title: Title - Flora of Bankura District(West Bengal)\nBibliography entry: title: Title - Flora of West Bengal Vol 1\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-1\nBibliography entry: title: Title - The Flora of Kerala Vol I\nBibliography entry: title: Title - FLORA OF INDIA VOL 3\nBibliography entry: title: Title - A Forest Flora for Kumaon\nBibliography entry: title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - Flora of Gujarat State Vol 1\nBibliography entry: title: Title - The Flora of Orissa Volume 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dce52209e08745bc3ad7912e59b35047"
+  ],
+  "source_record_ids": [
+    "links-0988"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dce52209e08745bc3ad7912e59b35047"
+    ],
+    "source_record_ids": [
+      "links-0988"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dce52209e08745bc3ad7912e59b35047",
+          "Plant Name": "Thespesia lampas Dalz. & Gibs.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Thespesia lampas Dalz. & Gibs.",
+        "source_record_id": "links-0988",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dce52209e08745bc3ad7912e59b35047"
+      }
+    ],
+    "source_xplant_id": "dce52209e08745bc3ad7912e59b35047",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

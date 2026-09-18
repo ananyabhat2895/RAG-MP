@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ba17d976e017a250__vernacular_names__001",
+  "plant_id": "plant_ba17d976e017a250",
+  "plant_name": "Phoenix sylvestris Roxb.",
+  "botanical_name": "Phoenix sylvestris",
+  "botanical_authority": "ROXB.",
+  "family": "ARECACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (18): kanjoor, kejur, khaji, khajoor, khajra, khajri, khajur, khajuri, pind-khajoor, salma, sandole-ka-per, sendhi, sindi, sundola, tar, tari, thakil, thalma\nKannada (36): anda eechalu, andadayicalu, andadayichalu, eechal, eechala mara, eechalamara, eechalu, eechalu mara, hendada eechalu, hendada mara, icala, icale, icalu, icela, ichai, ichal, ichala, ichale, ichalu, ichela, ichil, ichilu, icil, icilu, ieechlu, kalleechalu, kallicalu, kallichalu, kallu, kalluichalu, kalu, kullu, seeindu, seindi, siyindu, yendatuichi\nMalayalam (10): inda, inta, intappana, inte-cheti, katenth, katentu, katou-indel, kattinta, katuouindel, kharjjuram\nMarathi (8): boichand, khajoor, ran-khajuri, sendri, shendi, shindi, shindikajoori, sindikajuri\nSanskrit (22): Sanskrit CommentsX bhumikharjurika, duraroha, duraruha, dushpradarsha, haluka, haripriya, kakakarkati, kapila, kashayi, kharijuri, kharju, kharjura, kharjuri, khurjjuri, madhukshir, mriduchhada, nishreni, skandhappala, svadi, svadumastaka, vasudha, yavaneshta\nTamil (26): cirriccan, citrichu, iccampanai, icham, ichambanai, ichan, inju, ishan-chedi, kacanku, karavam, katticcai, katticcam, kattincu, kattinju, kattintu, madal, malaiyincu, malaiyintu, paerichhu, peria-eetcham, periaitcham, periccam palam, periyayinju, sitreechu, sittreechu, tiritakantakam\nTelugu (16): cheteetha, eeshaan chedi, eeta, etha chettu, indu, ishanchedi, ita, ita-chettu, itha, pedda-ita, peddaeeta, peddaeita, peddaita, peddayita, yeeta, yeetachettu\nTibetan (3): bra go, bra go (d), bro ga",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fef84efdb0129c97ecd6a07953e4aa2"
+  ],
+  "source_record_ids": [
+    "links-1042"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fef84efdb0129c97ecd6a07953e4aa2"
+    ],
+    "source_record_ids": [
+      "links-1042"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fef84efdb0129c97ecd6a07953e4aa2",
+          "Plant Name": "Phoenix sylvestris Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Phoenix sylvestris Roxb.",
+        "source_record_id": "links-1042",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fef84efdb0129c97ecd6a07953e4aa2"
+      }
+    ],
+    "source_xplant_id": "1fef84efdb0129c97ecd6a07953e4aa2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

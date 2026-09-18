@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_921438835836a656__vernacular_names__001",
+  "plant_id": "plant_921438835836a656",
+  "plant_name": "Cordia dichotoma Forst. f.",
+  "botanical_name": "Cordia dichotoma",
+  "botanical_authority": "FORST. F.",
+  "family": "CORDIACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): sebesten plum, sudan teak\nHindi (14): bada-goonda, bara-gunda, bara-lasora, bhokar, chokar-gond, chokargond, gondi, gonni, gunda, lasoora, lasora, lasura, lesuwa, lisora\nKannada (39): ada, bankegida, callangayi, calle, cella, challe, challe hannu, chandle, chella, chelle, chikka challe, chikka-salle, chikkasale, chikkasalle, chikkusalle, cholle, chotte, cikkacalle, cotte, doda chillu, dodda chagate, dodda solle, haadige, hadaga, hadige, hire challe, hiri saale, kaadchellai, kaadu chaale, kaadu challe, kaducalle, kadusolle, kendal, kendala, mannadike, mannadike mara, salle, solle, tella\nMalayalam (24): ari, cella, ceruvanicci, ceruviri, chella, cheruvanicci, cheruviri, karadi, karati, kotta, madaviriyasam, mathaviracchi, naruvari, naruveli, naruviri, periya-viri, selu, valiyavanicci, valiyavanich-chi, vida, vidi, virasham, viri, viriyasam\nMarathi (16): bakar, bargud, bhakram, bhokar, bhokara, bhokur, chokri, godan, goden, gondhen, montabhokar, semar, shelu, sherti, vargund, vhadli\nSanskrit (7): Sanskrit CommentsX bahuvaraca, bahuvarah, bauvaraca, bukampadaruka, seluh, slesmatakah, uddalaka\nTamil (23): cavarittakikam, cavarittakikamaram, cirunaruvili, citam, jollai, kalliyavam, kalliyavamaram, kalviricu, kalvirusu, mukku-chali, naruli1, naruvali, naruvalli1, naruveli, naruvili, naruvili1, naruvuli, periya-naruvili, perunaruvuli, vidi, vidimaram, virusham, viruvu\nTelugu (31): banakanakkiri, bankanakkera, bankiriki, binka, botgiri, botuka, chinna-nakkeru, chinnabotuku, chinnanakkera, chinnanakkeru, cinnabotuku, iriki, irkee, irki, nakaru, nakeru, nakkera, nakkeri, nakkeru, nakkiri, naravanji, nekkara, nekra, pedda botaka, pedda irki, pedda-botuku, pedda-nakkera-chettu, urunakkera, virgi, virigi, vura-nakkeru\nTibetan (2): sle ma sma ta ka, sle ma sma ta ka (d)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393/xclkon/32344fbcf54de972ab63217f147b3953"
+  ],
+  "source_record_ids": [
+    "links-1811",
+    "links-1813"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393/xclkon/32344fbcf54de972ab63217f147b3953"
+    ],
+    "source_record_ids": [
+      "links-1811",
+      "links-1813"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393",
+          "Plant Name": "Cordia dichotoma Forst. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cordia dichotoma Forst. f.",
+        "source_record_id": "links-1811",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393/xclkon/32344fbcf54de972ab63217f147b3953",
+          "Plant Name": "Cordia myxa Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cordia myxa Roxb.",
+        "source_record_id": "links-1813",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393/xclkon/32344fbcf54de972ab63217f147b3953"
+      }
+    ],
+    "source_xplant_id": "e00f75276fae36521c4b35c368cf8393",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

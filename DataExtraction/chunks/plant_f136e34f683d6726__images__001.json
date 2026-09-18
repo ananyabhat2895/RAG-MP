@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_f136e34f683d6726__images__001",
+  "plant_id": "plant_f136e34f683d6726",
+  "plant_name": "Gardenia latifolia Ait.",
+  "botanical_name": "Gardenia latifolia",
+  "botanical_authority": "AITON",
+  "family": "RUBIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b8eef072980be60b64f6d38b7b526a90"
+  ],
+  "source_record_ids": [
+    "links-1468"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b8eef072980be60b64f6d38b7b526a90"
+    ],
+    "source_record_ids": [
+      "links-1468"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b8eef072980be60b64f6d38b7b526a90",
+          "Plant Name": "Gardenia latifolia Ait.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gardenia latifolia Ait.",
+        "source_record_id": "links-1468",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b8eef072980be60b64f6d38b7b526a90"
+      }
+    ],
+    "source_xplant_id": "b8eef072980be60b64f6d38b7b526a90",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

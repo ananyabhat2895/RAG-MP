@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4fefabc8f1df701b__images__001",
+  "plant_id": "plant_4fefabc8f1df701b",
+  "plant_name": "Gardenia turgida Roxb.",
+  "botanical_name": "Ceriscoides turgida",
+  "botanical_authority": "(ROXB.) TIRUV.",
+  "family": "RUBIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6bb9d3aea548d0c03d32110a380503f0/xclkon/26f3f8ddeba2ef7e2b3e6f57b63aef8c"
+  ],
+  "source_record_ids": [
+    "links-0308"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6bb9d3aea548d0c03d32110a380503f0/xclkon/26f3f8ddeba2ef7e2b3e6f57b63aef8c"
+    ],
+    "source_record_ids": [
+      "links-0308"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6bb9d3aea548d0c03d32110a380503f0/xclkon/26f3f8ddeba2ef7e2b3e6f57b63aef8c",
+          "Plant Name": "Gardenia turgida Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gardenia turgida Roxb.",
+        "source_record_id": "links-0308",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6bb9d3aea548d0c03d32110a380503f0/xclkon/26f3f8ddeba2ef7e2b3e6f57b63aef8c"
+      }
+    ],
+    "source_xplant_id": "6bb9d3aea548d0c03d32110a380503f0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

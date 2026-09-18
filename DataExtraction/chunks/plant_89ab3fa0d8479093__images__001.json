@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_89ab3fa0d8479093__images__001",
+  "plant_id": "plant_89ab3fa0d8479093",
+  "plant_name": "Lawsonia inermis Linn.",
+  "botanical_name": "Lawsonia inermis",
+  "botanical_authority": "L.",
+  "family": "LYTHRACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5"
+  ],
+  "source_record_ids": [
+    "links-0687"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5"
+    ],
+    "source_record_ids": [
+      "links-0687"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5",
+          "Plant Name": "Lawsonia inermis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lawsonia inermis Linn.",
+        "source_record_id": "links-0687",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5"
+      }
+    ],
+    "source_xplant_id": "87ff7185526f449e897125584c3d7fe5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ab3e428e1efd475e__images__001",
+  "plant_id": "plant_ab3e428e1efd475e",
+  "plant_name": "Hygroryza aristata Nees.",
+  "botanical_name": "Hygroryza aristata",
+  "botanical_authority": "NEES",
+  "family": "POACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d95ab7bd1991c2e7c03962d07e5b1f57"
+  ],
+  "source_record_ids": [
+    "links-1404"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d95ab7bd1991c2e7c03962d07e5b1f57"
+    ],
+    "source_record_ids": [
+      "links-1404"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d95ab7bd1991c2e7c03962d07e5b1f57",
+          "Plant Name": "Hygroryza aristata Nees.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hygroryza aristata Nees.",
+        "source_record_id": "links-1404",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d95ab7bd1991c2e7c03962d07e5b1f57"
+      }
+    ],
+    "source_xplant_id": "d95ab7bd1991c2e7c03962d07e5b1f57",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

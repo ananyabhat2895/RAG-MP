@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_ed1af069294f25e1__images__001",
+  "plant_id": "plant_ed1af069294f25e1",
+  "plant_name": "Jatropha glandulifera Roxb.",
+  "botanical_name": "Jatropha glandulifera",
+  "botanical_authority": "ROXB.",
+  "family": "EUPHORBIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c69af243f98885334b7cda8ad2f13324"
+  ],
+  "source_record_ids": [
+    "links-0485",
+    "links-0533"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c69af243f98885334b7cda8ad2f13324"
+    ],
+    "source_record_ids": [
+      "links-0485",
+      "links-0533"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c69af243f98885334b7cda8ad2f13324",
+          "Plant Name": "Jatropha glandulifera Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Jatropha glandulifera Roxb.",
+        "source_record_id": "links-0485",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c69af243f98885334b7cda8ad2f13324"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c69af243f98885334b7cda8ad2f13324",
+          "Plant Name": "Jatropha glandulifera",
+          "Status": "Found"
+        },
+        "source_plant_name": "Jatropha glandulifera",
+        "source_record_id": "links-0533",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c69af243f98885334b7cda8ad2f13324"
+      }
+    ],
+    "source_xplant_id": "c69af243f98885334b7cda8ad2f13324",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

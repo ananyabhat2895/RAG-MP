@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_ede03002283c2d23__identification__001",
+  "plant_id": "plant_ede03002283c2d23",
+  "plant_name": "Ipomoea pes-caprae (Linn.) Sw.",
+  "botanical_name": "Ipomoea pes-caprae",
+  "botanical_authority": "(L,) R.BR.",
+  "family": "CONVOLVULACEAE",
+  "section": "identification",
+  "content": "Plant name: Ipomoea pes-caprae (Linn.) Sw. Botanical name: Ipomoea pes-caprae Botanical authority: (L,) R.BR. Family: CONVOLVULACEAE Source xplant ID: cd17d767c8804c44d255f80bc72e82a7",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd17d767c8804c44d255f80bc72e82a7"
+  ],
+  "source_record_ids": [
+    "links-0439",
+    "links-0440",
+    "links-2119"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd17d767c8804c44d255f80bc72e82a7"
+    ],
+    "source_record_ids": [
+      "links-0439",
+      "links-0440",
+      "links-2119"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd17d767c8804c44d255f80bc72e82a7",
+          "Plant Name": "Ipomoea pes-caprae (Linn.) Sw.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ipomoea pes-caprae (Linn.) Sw.",
+        "source_record_id": "links-0439",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd17d767c8804c44d255f80bc72e82a7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd17d767c8804c44d255f80bc72e82a7",
+          "Plant Name": "Ipomoea pes-caprae Sw.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ipomoea pes-caprae Sw.",
+        "source_record_id": "links-0440",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd17d767c8804c44d255f80bc72e82a7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd17d767c8804c44d255f80bc72e82a7",
+          "Plant Name": "Ipomoea pes-caprae",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ipomoea pes-caprae",
+        "source_record_id": "links-2119",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd17d767c8804c44d255f80bc72e82a7"
+      }
+    ],
+    "source_xplant_id": "cd17d767c8804c44d255f80bc72e82a7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

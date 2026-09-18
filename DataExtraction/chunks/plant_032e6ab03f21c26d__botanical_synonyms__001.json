@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_032e6ab03f21c26d__botanical_synonyms__001",
+  "plant_id": "plant_032e6ab03f21c26d",
+  "plant_name": "Buchanania lanzan Spreng.",
+  "botanical_name": "Buchanania lanzan",
+  "botanical_authority": "SPR.",
+  "family": "ANACARDIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Buchanania latifolia ROXB. X Full Botanical citation - Buchanania latifolia Roxb., Fl. Ind. 2: 385. 1832; Dali Chandra & al., in N.P. Singh & al., Fl. India 5: 443. 2000.\nSynonym: Buchanania latifolia ROXB.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659/xclkon/16a29852ee33afa1969289d9c7e634e5"
+  ],
+  "source_record_ids": [
+    "links-1539",
+    "links-1543"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659/xclkon/16a29852ee33afa1969289d9c7e634e5"
+    ],
+    "source_record_ids": [
+      "links-1539",
+      "links-1543"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659",
+          "Plant Name": "Buchanania lanzan Spreng.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Buchanania lanzan Spreng.",
+        "source_record_id": "links-1539",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659/xclkon/16a29852ee33afa1969289d9c7e634e5",
+          "Plant Name": "Buchanania latifolia Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Buchanania latifolia Roxb.",
+        "source_record_id": "links-1543",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659/xclkon/16a29852ee33afa1969289d9c7e634e5"
+      }
+    ],
+    "source_xplant_id": "c3ebdb8352b0a28552fb6a32e2044659",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_5094185d33d9055b__bibliography__001",
+  "plant_id": "plant_5094185d33d9055b",
+  "plant_name": "Sida veronicaefolia Lam.",
+  "botanical_name": "Sida cordata",
+  "botanical_authority": "(BURM.F.) BOISS.",
+  "family": "MALVACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - V.V. SIVARAJAN AND INDIRA BALACHANDRAN; title: Title - AYURVEDIC DRUGS AND THEIR PLANT SOURCES\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I\nBibliography entry: title: Title - Flora of Bankura District(West Bengal)\nBibliography entry: title: Title - FLORA OF INDIA VOL 3\nBibliography entry: title: Title - Flora of Chamba District (Himachal Pradesh)\nBibliography entry: title: Title - The Flora of Kerala Vol I\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol I\nBibliography entry: title: Title - A Forest Flora for Kumaon\nBibliography entry: title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-1\nBibliography entry: title: Title - The Flora of the Gulf of Mannar\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - The Flora of Orissa Volume 1\nBibliography entry: title: Title - Flora of West Bengal Vol 1\nBibliography entry: title: Title - Flora of Gujarat State Vol 1\nBibliography entry: title: Title - Flora of Tons Valley (Uttaranchal)\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL1\nBibliography entry: title: Title - Flora of the Indian Desert",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba"
+  ],
+  "source_record_ids": [
+    "links-0273",
+    "links-1576"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba"
+    ],
+    "source_record_ids": [
+      "links-0273",
+      "links-1576"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba",
+          "Plant Name": "Sida veronicaefolia Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida veronicaefolia Lam.",
+        "source_record_id": "links-0273",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba",
+          "Plant Name": "Sida veronicaefolia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida veronicaefolia Linn.",
+        "source_record_id": "links-1576",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba"
+      }
+    ],
+    "source_xplant_id": "47d9f33c2a99b8b51b28030e753d04d0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

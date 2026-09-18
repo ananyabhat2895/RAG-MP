@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_ba5130ef30f4beff__vernacular_names__001",
+  "plant_id": "plant_ba5130ef30f4beff",
+  "plant_name": "Trichosanthes bracteata (Lam.) Voigt.",
+  "botanical_name": "Trichosanthes tricuspidata",
+  "botanical_authority": "LOUR.",
+  "family": "CUCURBITACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (10): ankh phootaniyo veldi, ankh-phootaniyo-veldi, ilaru, indrayan, lal indrayan, lal-indravan, lal-indrayan, lalindrayan, mahakal, makal\nKannada (14): avagoode kaayi, avagude, avagude-hannu, avagudehannu, haavumekke, hiri haavumekke, kaage mandala, kaage mari gida, kaage thonde balli, kaagemari balli, kaakimandali, kakemandali, kavade balli, kavandalu\nMalayalam (3): kakatonti, kakkattonti, kattuvellari\nMarathi (5): kaundal, kavandala, kkaundala, koundal, mukal\nSanskrit (9): Sanskrit CommentsX dhvamksanasa, dindisa, indravaruni, kakanasa, mahakal, mahakala, patola, tindisah, visala\nTamil (46): aconam, aconti, ankorattai, attumaratcai, calliyam, cavari, cavarikkoti, cavarilottiram, cavuri, cavurikkoti 2, cavurikkottu 2, cavurippalam, cavurippazam, cinnavi, cinnavicceti, cirukurattai, coruttei, ghowree, kakkalai, kakkalaikkoti, kararkurattai, korattai, korattaikkoti, kurattai, makakalam, metakacakkoti, metakam, miriyarkuntal 2, miriyarukuntal 2, narayananpputu, nentarappul, netiya, netiyakkoti, panankorai, pepoodel, peypputal, pinacakkurattai, sauvarai, savari, shavari-pazham, shavaripalam, shavaripazlam, tarunacepikakkoti, tarunacepikam, vakacati, vikacati\nTelugu (16): aabuda, aabuvva, abuba, abuva, aguba, avaduta, avaguda, avagudapandu, avuduta, avvadootha, avvagooda, avvagoodapandu, avvaguda, donda, kaaidonda, kakidonda",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/d20b123488676803b3a199344d789db9",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/9f91fec85fa27e205b8b73f3d416ea6b"
+  ],
+  "source_record_ids": [
+    "links-0697",
+    "links-0745"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/d20b123488676803b3a199344d789db9",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/9f91fec85fa27e205b8b73f3d416ea6b"
+    ],
+    "source_record_ids": [
+      "links-0697",
+      "links-0745"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/d20b123488676803b3a199344d789db9",
+          "Plant Name": "Trichosanthes bracteata (Lam.) Voigt.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Trichosanthes bracteata (Lam.) Voigt.",
+        "source_record_id": "links-0697",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/d20b123488676803b3a199344d789db9"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/9f91fec85fa27e205b8b73f3d416ea6b",
+          "Plant Name": "Trichosanthes palmata Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Trichosanthes palmata Roxb.",
+        "source_record_id": "links-0745",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/9f91fec85fa27e205b8b73f3d416ea6b"
+      }
+    ],
+    "source_xplant_id": "10c009ddee3335e9c1322070d94244f8",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

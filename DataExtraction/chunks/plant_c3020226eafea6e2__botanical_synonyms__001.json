@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_c3020226eafea6e2__botanical_synonyms__001",
+  "plant_id": "plant_c3020226eafea6e2",
+  "plant_name": "Thespesia populnea Soland ex Correa.",
+  "botanical_name": "Thespesia populnea",
+  "botanical_authority": "(L.) SOL.EX. CORREA",
+  "family": "MALVACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Hibiscus populneus L. X Full Botanical citation - Hibiscus populnea L., Sp. Pl.: 694. 1753; M.Mohanan & A.V.N.Rao in P. Daniel, Fl. Kerala 1: 431. 2005.\nSynonym: Hibiscus populneus L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2"
+  ],
+  "source_record_ids": [
+    "links-0928",
+    "links-1382"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2"
+    ],
+    "source_record_ids": [
+      "links-0928",
+      "links-1382"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2",
+          "Plant Name": "Thespesia populnea Soland ex Correa.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Thespesia populnea Soland ex Correa.",
+        "source_record_id": "links-0928",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2",
+          "Plant Name": "Thespesia populnea",
+          "Status": "Found"
+        },
+        "source_plant_name": "Thespesia populnea",
+        "source_record_id": "links-1382",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2"
+      }
+    ],
+    "source_xplant_id": "2cb098aab4546846e90d3847fd23c2b2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

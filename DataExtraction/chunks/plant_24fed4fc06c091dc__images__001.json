@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_24fed4fc06c091dc__images__001",
+  "plant_id": "plant_24fed4fc06c091dc",
+  "plant_name": "Diospyros embryopteris Pers.",
+  "botanical_name": "Diospyros peregrina",
+  "botanical_authority": "(GAERTN.) GURKE.",
+  "family": "EBENACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52/xclkon/c8677d946f3b5713622cbf021911108b",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52"
+  ],
+  "source_record_ids": [
+    "links-1958",
+    "links-1960",
+    "links-1961"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52/xclkon/c8677d946f3b5713622cbf021911108b",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52"
+    ],
+    "source_record_ids": [
+      "links-1958",
+      "links-1960",
+      "links-1961"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52/xclkon/c8677d946f3b5713622cbf021911108b",
+          "Plant Name": "Diospyros embryopteris Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Diospyros embryopteris Pers.",
+        "source_record_id": "links-1958",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52/xclkon/c8677d946f3b5713622cbf021911108b"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52",
+          "Plant Name": "Diospyros Peregrina (Gaertn) Gurke.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Diospyros Peregrina (Gaertn) Gurke.",
+        "source_record_id": "links-1960",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52",
+          "Plant Name": "Diospyros peregrina (Gaertn.) Guerke.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Diospyros peregrina (Gaertn.) Guerke.",
+        "source_record_id": "links-1961",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52"
+      }
+    ],
+    "source_xplant_id": "d3941028b6c5eefb0cce88aa2b672d52",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

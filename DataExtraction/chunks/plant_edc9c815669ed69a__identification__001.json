@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_edc9c815669ed69a__identification__001",
+  "plant_id": "plant_edc9c815669ed69a",
+  "plant_name": "Myristica fragrans Houtt.",
+  "botanical_name": "Myristica fragrans",
+  "botanical_authority": "HOUTT.",
+  "family": "MYRISTICACEAE",
+  "section": "identification",
+  "content": "Plant name: Myristica fragrans Houtt. Botanical name: Myristica fragrans Botanical authority: HOUTT. Family: MYRISTICACEAE Source xplant ID: 6123efdc0a6955373bfc88ea0729d1e3",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6123efdc0a6955373bfc88ea0729d1e3"
+  ],
+  "source_record_ids": [
+    "links-0777"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6123efdc0a6955373bfc88ea0729d1e3"
+    ],
+    "source_record_ids": [
+      "links-0777"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6123efdc0a6955373bfc88ea0729d1e3",
+          "Plant Name": "Myristica fragrans Houtt.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Myristica fragrans Houtt.",
+        "source_record_id": "links-0777",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6123efdc0a6955373bfc88ea0729d1e3"
+      }
+    ],
+    "source_xplant_id": "6123efdc0a6955373bfc88ea0729d1e3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

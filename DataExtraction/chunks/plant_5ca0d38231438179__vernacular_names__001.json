@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_5ca0d38231438179__vernacular_names__001",
+  "plant_id": "plant_5ca0d38231438179",
+  "plant_name": "Coccinia indica W. & A.",
+  "botanical_name": "Coccinia grandis",
+  "botanical_authority": "(L.) VOIGT",
+  "family": "CUCURBITACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (17): bhimb, bimb, gol, golan, golenda, kaduri, kandaroi, kanduri, kanduri-ke-bel, kanduri-ki-bel;, kanduriki-bel, kanturi, kunderi, kundru, shiv lingi, teedori, tidori\nKannada (11): kaage thonde, kaagethonde, konde balli, sihithonde, theekkuduru, thonde balli, thundike, tonde-balli, tonde-konde, tondeballi, tondekayee\nMalayalam (5): covel, gwel, kova, koval, kwel\nMarathi (8): bimbi, kondvalli, ran-tondala, tendli, thendli, thondali, tondili, zidadi\nSanskrit (37): Sanskrit CommentsX bhrngaraja, bimba, bimbaka, bimbi, bimbika, bimbitika, chhardini, chilihindah, dantachhadopama, govhi, jhundikesa, jhundikeshi, jivaka, kamboja, karmmakari, katubimbi, katuka, katutundika, oshthi, oshtopamaphala, patalagarudah, patuparni, piluparni, raktaphala, ruchiraphala, svadubimbi, tiktabimbi, tiktakhya, tiktatundi, tundi, tundika, tundikeri, tundiparyyayaga, uttundiki, vimba, vimbaja, vira\nTamil (76): acoki, annalvalli, aracan, aracanviroti, araiyanviroti, attarittan, avaiyanal, avanti, avaramuli, ayanamatti, ayavalli, cempi, cenkovai, ciranapimpi, ciravi, civakamuli, civanarpakal 2, civanarpavai, civanarpavaikkoti, covay, cutakatti, ilinkapputol 2, inippu-k-kovai, kakkam 2, karunkovai, katumatuppi, katutumpi, korutan 3, kotturukanni, kovai, kovai ilai, kovaikkay, kovvai, kovvankay, koyilakam, kulirntukolli, kunkumakkovai, kutamakaram, kuvattinurukanni, kwai, makaciravi, mannumulunki, marikovai, matampuratti, matupakku, matupari, nallakovai, naripputu, narkovai, periyakovai, perunkovai, perunkovaikkoti, perunkovikakkoti, perunkovikam, pimpakam, pimpam, pimpi, pimpikai, potanacani, rattakkovai, rattakkovaikkoti, talavaykkovai, tirattikkovai, tuntakeri, tuntakori, tunti 2, tuntikeri, vattakkarimuli, vattakkovai, velikkovvai, velikkovvaikkoti, vellaippuvi, vimpakakkoti, vimpakam, vimpi, vimpikai\nTelugu (11): bimbika, bimka, dhonda, donda, dondatheege, dondatiga, kaaidonda, kaakidonda, kaidonda, kaki donda, kakidonda\nTibetan (1): bi mba\nUrdu (1): bikh kabar",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/383d8e5b2416efb02908d6731a765bcb/xclkon/cbd92dc7c7c926e211344c479e61cff9"
+  ],
+  "source_record_ids": [
+    "links-0362",
+    "links-0363"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/383d8e5b2416efb02908d6731a765bcb/xclkon/cbd92dc7c7c926e211344c479e61cff9"
+    ],
+    "source_record_ids": [
+      "links-0362",
+      "links-0363"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/383d8e5b2416efb02908d6731a765bcb/xclkon/cbd92dc7c7c926e211344c479e61cff9",
+          "Plant Name": "Coccinia indica W. & A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Coccinia indica W. & A.",
+        "source_record_id": "links-0362",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/383d8e5b2416efb02908d6731a765bcb/xclkon/cbd92dc7c7c926e211344c479e61cff9"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/383d8e5b2416efb02908d6731a765bcb/xclkon/cbd92dc7c7c926e211344c479e61cff9",
+          "Plant Name": "Coccinia indica W. and A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Coccinia indica W. and A.",
+        "source_record_id": "links-0363",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/383d8e5b2416efb02908d6731a765bcb/xclkon/cbd92dc7c7c926e211344c479e61cff9"
+      }
+    ],
+    "source_xplant_id": "383d8e5b2416efb02908d6731a765bcb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

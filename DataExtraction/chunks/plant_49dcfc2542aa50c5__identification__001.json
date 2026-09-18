@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_49dcfc2542aa50c5__identification__001",
+  "plant_id": "plant_49dcfc2542aa50c5",
+  "plant_name": "Mimusops elengi Linn.",
+  "botanical_name": "Mimusops elengi",
+  "botanical_authority": "L.",
+  "family": "SAPOTACEAE",
+  "section": "identification",
+  "content": "Plant name: Mimusops elengi Linn. Botanical name: Mimusops elengi Botanical authority: L. Family: SAPOTACEAE Source xplant ID: 246aaeb04e3f6bef0fa0e1a5e1dc1412",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246aaeb04e3f6bef0fa0e1a5e1dc1412"
+  ],
+  "source_record_ids": [
+    "links-0264"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246aaeb04e3f6bef0fa0e1a5e1dc1412"
+    ],
+    "source_record_ids": [
+      "links-0264"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246aaeb04e3f6bef0fa0e1a5e1dc1412",
+          "Plant Name": "Mimusops elengi Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mimusops elengi Linn.",
+        "source_record_id": "links-0264",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246aaeb04e3f6bef0fa0e1a5e1dc1412"
+      }
+    ],
+    "source_xplant_id": "246aaeb04e3f6bef0fa0e1a5e1dc1412",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

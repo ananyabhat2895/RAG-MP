@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_8e68af4023409cc8__distribution__001",
+  "plant_id": "plant_8e68af4023409cc8",
+  "plant_name": "Scirpus articulatus Linn.C.B. Clarke",
+  "botanical_name": "Scirpus articulatus",
+  "botanical_authority": "L.",
+  "family": "CYPERACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - Ed B D Sharma, S Karthikeyan, N P Singh; distribution: Distribution; title: Title - Flora of Maharashrta State (Monocotyledons)\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 2\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol IV\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89f67f6be2dcf28186fd57b047396e53"
+  ],
+  "source_record_ids": [
+    "links-0444",
+    "links-1001"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89f67f6be2dcf28186fd57b047396e53"
+    ],
+    "source_record_ids": [
+      "links-0444",
+      "links-1001"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89f67f6be2dcf28186fd57b047396e53",
+          "Plant Name": "Scirpus articulatus Linn.C.B. Clarke",
+          "Status": "Found"
+        },
+        "source_plant_name": "Scirpus articulatus Linn.C.B. Clarke",
+        "source_record_id": "links-0444",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89f67f6be2dcf28186fd57b047396e53"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89f67f6be2dcf28186fd57b047396e53",
+          "Plant Name": "Scirpus articulatus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Scirpus articulatus Linn.",
+        "source_record_id": "links-1001",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89f67f6be2dcf28186fd57b047396e53"
+      }
+    ],
+    "source_xplant_id": "89f67f6be2dcf28186fd57b047396e53",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

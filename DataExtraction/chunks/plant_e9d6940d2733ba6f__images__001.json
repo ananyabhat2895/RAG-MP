@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e9d6940d2733ba6f__images__001",
+  "plant_id": "plant_e9d6940d2733ba6f",
+  "plant_name": "Acanthus ilicifolius Linn.",
+  "botanical_name": "Acanthus ilicifolius",
+  "botanical_authority": "L.",
+  "family": "ACANTHACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/39f4bd15dec15e6a599486339b42a928"
+  ],
+  "source_record_ids": [
+    "links-0166"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/39f4bd15dec15e6a599486339b42a928"
+    ],
+    "source_record_ids": [
+      "links-0166"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/39f4bd15dec15e6a599486339b42a928",
+          "Plant Name": "Acanthus ilicifolius Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Acanthus ilicifolius Linn.",
+        "source_record_id": "links-0166",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/39f4bd15dec15e6a599486339b42a928"
+      }
+    ],
+    "source_xplant_id": "39f4bd15dec15e6a599486339b42a928",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

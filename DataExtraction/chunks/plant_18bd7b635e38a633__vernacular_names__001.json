@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_18bd7b635e38a633__vernacular_names__001",
+  "plant_id": "plant_18bd7b635e38a633",
+  "plant_name": "Pothos officinalis",
+  "botanical_name": "Scindapsus officinalis",
+  "botanical_authority": "SCHOTT.",
+  "family": "ARACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (13): badipipli, bari-pipli, baripipli, baripippli, braipipli, gaj peepal, gaj-pipli, gajapipal, gajapipli, hathkaul, maidah, pipaljhamgha, pippalijhhanca\nKannada (7): dodda hippali, dodda hippli, doddahippali, gaja hippali, gajahippali, kapivalli, kari hippali\nMalayalam (4): anaitippali, anattippali, attittippali, aunatippilie\nMarathi (3): gaja pimpali, thorapimpali, thorapimpli\nSanskrit (29): Sanskrit CommentsX cavika, chavyaphala, chhidravaidehi, dirghagranthi, gajahva, gajakrishna, gajapippali, gajavha, gajopakulya, guja-pippulee, hastipippali, i, ibhakana, ibhapippali, ibhoshana, kapi-balli, kapivalli, kari-pippali, kari-pippuli, karipippali, kola-balli, kolavalli, kunjarapippali, sreyasi, tejasi, vartuli, vashira, vasira, vushira\nTamil (73): aanaithippili, akalam, alacal, alacitippili, alacittippili, alakam, ampu 2, anai-tippilai, anaitippili, anaittippali, anaittippili, atti tippili, atti-t-tippili, atti-tippili, attit-tippili, attitippali, attitippili, attittippili, camuttittam, cannikkati, cavikai, caviki, caviyam, ciraiyatikecam, cirayaci, ipakanam, kacamukattippili, kajakkanai, kalirinampu#, kalirinampu@, kalirrinampu, kantiram, kapalam, kapamakarrunkutori, kapamarukkunkutori, karikkanai, karikkanravi, karipippili, karitippili, karittippili, karuntippili, kecam 2, kirutimacam, kokkanam, kolakacini, kolanvalli, kolavalli, kuncarapippili, kurankukkoti, matakarikkanai, matakarittippilai, matankai 2, pantaki, pavviyai, peruntippili, recinitippili, tankakkirusnam, tecavam, tecovati, tippilittavayam, tippiliyatti, tirakkakiranti, tottikam, tottikattippili, vacikaram, vaciram#, vaciram@, vacirattippili, vacitam, vicciraka, viccirakattippili, yanaittippilai, yanaittippili\nTelugu (9): enugapippalu, enugathippali, enugatippali, enugutippali, gaja-pippallu, gajapipali, gajapippali, gajapippallu, pippalu\nTibetan (1): ga-dza pi-ppa-li\nUrdu (2): gajapippali, gajpipal",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea/xclkon/9ddf481389c7735ec761877cc27ae8de",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea"
+  ],
+  "source_record_ids": [
+    "links-0436",
+    "links-0571"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea/xclkon/9ddf481389c7735ec761877cc27ae8de",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea"
+    ],
+    "source_record_ids": [
+      "links-0436",
+      "links-0571"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea/xclkon/9ddf481389c7735ec761877cc27ae8de",
+          "Plant Name": "Pothos officinalis",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pothos officinalis",
+        "source_record_id": "links-0436",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea/xclkon/9ddf481389c7735ec761877cc27ae8de"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea",
+          "Plant Name": "Scindapsus officinalis Schott.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Scindapsus officinalis Schott.",
+        "source_record_id": "links-0571",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea"
+      }
+    ],
+    "source_xplant_id": "312284a17b66b7954b1450c51bf9f9ea",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

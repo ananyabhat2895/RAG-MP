@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_43e8fc663bc96104__distribution__001",
+  "plant_id": "plant_43e8fc663bc96104",
+  "plant_name": "Eulaliopsis binata (Retz.) C.E. Hubbard.",
+  "botanical_name": "Eulaliopsis binata",
+  "botanical_authority": "(RETZ.) C.E. HUBBARD",
+  "family": "POACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol III\nDistribution entry: author: Author - Ed B D Sharma, S Karthikeyan, N P Singh; distribution: Distribution; title: Title - Flora of Maharashrta State (Monocotyledons)\nDistribution entry: author: Author - KANJILAL & BOR; distribution: Distribution; title: Title - FLORA OF ASSAM\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 2\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol IV",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c35204ade11bae51d579a1cd451a2fbf"
+  ],
+  "source_record_ids": [
+    "links-0277"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c35204ade11bae51d579a1cd451a2fbf"
+    ],
+    "source_record_ids": [
+      "links-0277"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c35204ade11bae51d579a1cd451a2fbf",
+          "Plant Name": "Eulaliopsis binata (Retz.) C.E. Hubbard.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Eulaliopsis binata (Retz.) C.E. Hubbard.",
+        "source_record_id": "links-0277",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c35204ade11bae51d579a1cd451a2fbf"
+      }
+    ],
+    "source_xplant_id": "c35204ade11bae51d579a1cd451a2fbf",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

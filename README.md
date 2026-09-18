@@ -15,6 +15,7 @@ This project extracts plant identity information, detail pages, and shloka image
 - **Parsed plant details (JSON):** DataExtraction/parser/plant_details.json — Structured output for each plant detail page including headings, botanical synonyms, vernacular names, bibliography, distribution, image URLs, and source URL. Produced by `DataExtraction/parser/parser.py` which requests each `Detail URL` and parses it with BeautifulSoup.
 
 - **Parsed plant details (CSV):** DataExtraction/parser/plant_details.csv — Flattened CSV export of the JSON results for spreadsheet analysis. Also produced by `DataExtraction/parser/parser.py` (conversion/flattening step).
+- **Normalized plant dataset:** DataExtraction/normalized/plants.jsonl — Canonical plant-level records grouped only by the xplant_id extracted from authoritative plant detail URLs. Original source rows, URLs, and raw values are retained.
 
 - **Shlokas images:** DataExtraction/shlokas/images/ — Captured page image files saved by `DataExtraction/shlokas/parser.py` using Playwright to listen to network responses while visiting the shloka page.
 
@@ -29,6 +30,8 @@ python DataExtraction/names/extract.py
 python DataExtraction/names/names.py
 python DataExtraction/links/links.py
 python DataExtraction/parser/parser.py
+python DataExtraction/normalize_plants.py
+python DataExtraction/normalized/validate_normalized.py
 python DataExtraction/shlokas/parser.py
 python DataExtraction/shlokas/ocr_parser.py
 ```

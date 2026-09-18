@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_128e5e3d2c5b9017__distribution__001",
+  "plant_id": "plant_128e5e3d2c5b9017",
+  "plant_name": "Schrebera swietenioides Roxb.",
+  "botanical_name": "Schrebera swietenioides",
+  "botanical_authority": "ROXB.",
+  "family": "OLEACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - A.E. Osmaston; distribution: Distribution; title: Title - A Forest Flora for Kumaon\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7c0d57a4605cc69105b7f6970f990bc"
+  ],
+  "source_record_ids": [
+    "links-1292"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7c0d57a4605cc69105b7f6970f990bc"
+    ],
+    "source_record_ids": [
+      "links-1292"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7c0d57a4605cc69105b7f6970f990bc",
+          "Plant Name": "Schrebera swietenioides Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Schrebera swietenioides Roxb.",
+        "source_record_id": "links-1292",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7c0d57a4605cc69105b7f6970f990bc"
+      }
+    ],
+    "source_xplant_id": "c7c0d57a4605cc69105b7f6970f990bc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

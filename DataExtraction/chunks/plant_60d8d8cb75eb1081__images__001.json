@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_60d8d8cb75eb1081__images__001",
+  "plant_id": "plant_60d8d8cb75eb1081",
+  "plant_name": "Tabernaemontana coronaria",
+  "botanical_name": "Tabernaemontana divaricata",
+  "botanical_authority": "(L.) ROEM. & SCHULT.",
+  "family": "APOCYNACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3/xclkon/5c7f553bf903a7526d122f802c99d498"
+  ],
+  "source_record_ids": [
+    "links-1381"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3/xclkon/5c7f553bf903a7526d122f802c99d498"
+    ],
+    "source_record_ids": [
+      "links-1381"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3/xclkon/5c7f553bf903a7526d122f802c99d498",
+          "Plant Name": "Tabernaemontana coronaria",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tabernaemontana coronaria",
+        "source_record_id": "links-1381",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3/xclkon/5c7f553bf903a7526d122f802c99d498"
+      }
+    ],
+    "source_xplant_id": "5f8bfd4196998db48c75cf43cc008be3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

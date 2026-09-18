@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_aaaece8abe88d68d__vernacular_names__001",
+  "plant_id": "plant_aaaece8abe88d68d",
+  "plant_name": "Acacia pennata Willd.",
+  "botanical_name": "Acacia pennata",
+  "botanical_authority": "(L.) WILLD.",
+  "family": "MIMOSACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (8): agali, agla, agla-bel, alay, biswal, cheela, kandiali, rigad\nKannada (16): cilatero, kaadu seege, kaadu sheege, kadshige, kadshigi, kadushige, kadusige, kadusuige, katshige, kattu shige, kattusikai, mullu seege, mullusigi, shembi, sige, vellai indu\nMalayalam (8): chunga, cunna, kadacheenikai, kadchinikai, kattuchinnika, kattucinikka, mala inja, pulicha\nMarathi (7): araati, romb, shemba vaela, shemberti, shembi, shembo, thembi\nSanskrit (14): Sanskrit CommentsX adari, airavati, ari, ballikhadira, khadira, khadirapatrika, khadiravallari, sandanika, silikhadira, svadikhallari, tamrakantaka, udakirya, uddala, vallikhadira\nTamil (20): cinkai, cinkaimullu, indan, indu, iyak koluntu, iyakkolundu, katcikai, kattikai, kattintu, kattu indu, kattuccikai 2, kattusikai, mantarcinkai, mulluccinkai#, mulluccinkai@, mulluciyakkay, peyccirakay, shembi, sherubati, vellai indu\nTelugu (7): giddu korinda, guba korintha, gubakorinda, kaarushikaay, karra cheeka, korintha, mulukorinda",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7"
+  ],
+  "source_record_ids": [
+    "links-0005",
+    "links-1032"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7"
+    ],
+    "source_record_ids": [
+      "links-0005",
+      "links-1032"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7",
+          "Plant Name": "Acacia pennata Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Acacia pennata Willd.",
+        "source_record_id": "links-0005",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7",
+          "Plant Name": "Acacia pennata",
+          "Status": "Found"
+        },
+        "source_plant_name": "Acacia pennata",
+        "source_record_id": "links-1032",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7"
+      }
+    ],
+    "source_xplant_id": "0bb1c32b6a6a2631466a0bdf9fb07fb7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

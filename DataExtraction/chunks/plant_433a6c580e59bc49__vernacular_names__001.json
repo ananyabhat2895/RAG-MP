@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_433a6c580e59bc49__vernacular_names__001",
+  "plant_id": "plant_433a6c580e59bc49",
+  "plant_name": "Angelica archangelica Linn.",
+  "botanical_name": "Angelica archangelica",
+  "botanical_authority": "L.",
+  "family": "APIACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): angelica, garden angelica, root of the holy ghost\nSanskrit (2): Sanskrit CommentsX canda, coraka",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a93cd2c8313d4a96587d3016a7f27027"
+  ],
+  "source_record_ids": [
+    "links-0414"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a93cd2c8313d4a96587d3016a7f27027"
+    ],
+    "source_record_ids": [
+      "links-0414"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a93cd2c8313d4a96587d3016a7f27027",
+          "Plant Name": "Angelica archangelica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Angelica archangelica Linn.",
+        "source_record_id": "links-0414",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a93cd2c8313d4a96587d3016a7f27027"
+      }
+    ],
+    "source_xplant_id": "a93cd2c8313d4a96587d3016a7f27027",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

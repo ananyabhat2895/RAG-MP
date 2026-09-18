@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_2f6c5cf5a8057118__distribution__001",
+  "plant_id": "plant_2f6c5cf5a8057118",
+  "plant_name": "Strychnos potatorum Linn.",
+  "botanical_name": "Strychnos potatorum",
+  "botanical_authority": "L.",
+  "family": "LOGANIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7483e2d8671cc116f6d1cc75dfaf48c"
+  ],
+  "source_record_ids": [
+    "links-1008",
+    "links-1009"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7483e2d8671cc116f6d1cc75dfaf48c"
+    ],
+    "source_record_ids": [
+      "links-1008",
+      "links-1009"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7483e2d8671cc116f6d1cc75dfaf48c",
+          "Plant Name": "Strychnos potatorum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Strychnos potatorum Linn.",
+        "source_record_id": "links-1008",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7483e2d8671cc116f6d1cc75dfaf48c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7483e2d8671cc116f6d1cc75dfaf48c",
+          "Plant Name": "Strychnos potatorum Linn. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Strychnos potatorum Linn. f.",
+        "source_record_id": "links-1009",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7483e2d8671cc116f6d1cc75dfaf48c"
+      }
+    ],
+    "source_xplant_id": "f7483e2d8671cc116f6d1cc75dfaf48c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

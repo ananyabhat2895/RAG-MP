@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_5a98b83ee49b97fc__vernacular_names__001",
+  "plant_id": "plant_5a98b83ee49b97fc",
+  "plant_name": "Plumbago indica Linn.",
+  "botanical_name": "Plumbago indica",
+  "botanical_authority": "L.",
+  "family": "PLUMBAGINACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (11): chitra, lal-chirarak, lal-chita, lal-chitarah, lal-chitra, lalchita, lalchitarak, lalchitra, lalcitra, raktachitra, raktacitra\nKannada (5): kempu chithra moola, kempu chitra moola, kempu chitramula, kempuchitramula, kempucitramula\nMalayalam (10): cekkikotiveri, cettikkotuveli, chekkikotuveri, chettikotuveli, choovondacoduvalie, chuvannakotuveli, cuvannakotuveli, kotuveli, schetticodivalie, schettikodiveli\nMarathi (5): laalchithra, lalchitra, tambadachitramula, tambdi-chitrak, thambadachitramoola\nSanskrit (34): Sanskrit CommentsX agni, agnih, aruna-chitraca, atidipya, chitraca, chitraka, chitranga, chitravalli, citraka, citrakah, citrakah-rakta, dahaka, dahanah, daruna, dipika, dvayagni, dvipih, hrasvagni, kala, kalamula, mahanga, marjara, pathi, pavaka, rakta-shikha, raktachitra, raktachitraka, raktacitraka, raktashikha, raktasikha, usana, usharbudhavhaya, vahnimula, vyala\nTamil (48): akanati, akanatitam, akkini, amaimoni, amaimoniccepi, cegappu-godiveli, cekappukkotiveli, cencittiramulan, cengodiveli, cenkodiveli, cenkoti veli, cenkotiveli, cenkotumuli, cenkotuveli, chekodiveli, chittur-mol, cikappuccittiramulam, cikappukkotiveli, cittira mulam, cittiramulam, cittiramulam1, cittiramuli2, civappuccittramulam, civappukkotiveli, irattacittiramulam, karunacam, kiruttinaviyalam, kodi veli, kodimuli, kotimuli, kotiveli, kotumuli, pitataru 1, pitatarukkoti, rattacittiram, segappugodiveli, sengodiveli, sengoduveli, senkodiveli, senkoduveri, shencodie vaylie, shivappu chittramulam, shivappu-chittira-mullam, sittiramulam, upavalitam, utiravanni, utiravannicceti, vani\nTelugu (8): erra chitramulamu, errachithramoolam, errachitramulam, erracitramulamu, yerra-chitramulam, yerrachitramoolam, yerracithramoolum, yerracitramulam",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83837ff5d724f0fb1f964041ebc9926e",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83837ff5d724f0fb1f964041ebc9926e/xclkon/4f4519b9e97e1b36dd2280de591a2090"
+  ],
+  "source_record_ids": [
+    "links-0457",
+    "links-0458",
+    "links-0459"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83837ff5d724f0fb1f964041ebc9926e",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83837ff5d724f0fb1f964041ebc9926e/xclkon/4f4519b9e97e1b36dd2280de591a2090"
+    ],
+    "source_record_ids": [
+      "links-0457",
+      "links-0458",
+      "links-0459"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83837ff5d724f0fb1f964041ebc9926e",
+          "Plant Name": "Plumbago indica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Plumbago indica Linn.",
+        "source_record_id": "links-0457",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83837ff5d724f0fb1f964041ebc9926e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83837ff5d724f0fb1f964041ebc9926e/xclkon/4f4519b9e97e1b36dd2280de591a2090",
+          "Plant Name": "Plumbago rosea",
+          "Status": "Found"
+        },
+        "source_plant_name": "Plumbago rosea",
+        "source_record_id": "links-0458",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83837ff5d724f0fb1f964041ebc9926e/xclkon/4f4519b9e97e1b36dd2280de591a2090"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83837ff5d724f0fb1f964041ebc9926e/xclkon/4f4519b9e97e1b36dd2280de591a2090",
+          "Plant Name": "Plumbago rosea Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Plumbago rosea Linn.",
+        "source_record_id": "links-0459",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83837ff5d724f0fb1f964041ebc9926e/xclkon/4f4519b9e97e1b36dd2280de591a2090"
+      }
+    ],
+    "source_xplant_id": "83837ff5d724f0fb1f964041ebc9926e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

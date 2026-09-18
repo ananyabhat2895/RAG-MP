@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_e6a2b3c19c4096c2__botanical_synonyms__001",
+  "plant_id": "plant_e6a2b3c19c4096c2",
+  "plant_name": "Centella asiatica (Linn.) Urban",
+  "botanical_name": "Centella asiatica",
+  "botanical_authority": "(L.) URBAN",
+  "family": "APIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Hydrocotyle asiatica L. X Full Botanical citation - Hydrocotyle asiatica L., Sp. pl. 234. 1753; S. Karthikeyan & al., Flowering Plants of India - Dicots. 1: 105. 2009.\nSynonym: Hydrocotyle asiatica L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/530fa0427b8083e0804865ed9412308e",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/530fa0427b8083e0804865ed9412308e/xclkon/f68828469836572adb56e32b1329e6fb"
+  ],
+  "source_record_ids": [
+    "links-0385",
+    "links-0682",
+    "links-1246"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/530fa0427b8083e0804865ed9412308e",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/530fa0427b8083e0804865ed9412308e/xclkon/f68828469836572adb56e32b1329e6fb"
+    ],
+    "source_record_ids": [
+      "links-0385",
+      "links-0682",
+      "links-1246"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/530fa0427b8083e0804865ed9412308e",
+          "Plant Name": "Centella asiatica (Linn.) Urban",
+          "Status": "Found"
+        },
+        "source_plant_name": "Centella asiatica (Linn.) Urban",
+        "source_record_id": "links-0385",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/530fa0427b8083e0804865ed9412308e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/530fa0427b8083e0804865ed9412308e/xclkon/f68828469836572adb56e32b1329e6fb",
+          "Plant Name": "Hydrocotyle asiatica",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hydrocotyle asiatica",
+        "source_record_id": "links-0682",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/530fa0427b8083e0804865ed9412308e/xclkon/f68828469836572adb56e32b1329e6fb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/530fa0427b8083e0804865ed9412308e",
+          "Plant Name": "Centella asiatica Linn. Urban",
+          "Status": "Found"
+        },
+        "source_plant_name": "Centella asiatica Linn. Urban",
+        "source_record_id": "links-1246",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/530fa0427b8083e0804865ed9412308e"
+      }
+    ],
+    "source_xplant_id": "530fa0427b8083e0804865ed9412308e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_e5017f366a88682a__vernacular_names__001",
+  "plant_id": "plant_e5017f366a88682a",
+  "plant_name": "Bergenia Ligulata",
+  "botanical_name": "Bergenia ciliata",
+  "botanical_authority": "(HOW.) STERN.",
+  "family": "SAXIFRAGACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (11): bhed, dakachru, pakhanabheda, pakhanbed, pasan, pathar tor, pathartor, pathor tor, silohora kathbiraji, silpara, silparo\nKannada (2): alelgaya, pashanabhedi\nMarathi (1): pashanbheda\nSanskrit (19): Sanskrit CommentsX ashmabhedaka, ashmaghna, asmabhedaka, asmabhit, bhimayojini, giribhita, kallurvanci, mohanavalli, nagabhita, pasana upalabheda, pashanabheda, pashanabhedana, pashanbheda, pashnabheda, shailagarbhaja, shilabheda, shveta, silabheda, silabhit\nTelugu (1): telanurupindi\nTibetan (3): a-sma-bhe-da, sru sru i tsa ba, sru srui tsa ba\nUrdu (3): pakbanbed, pakhan bed, pakhanbed",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/2465817c4a7dab9f66eb227768ec7ecb"
+  ],
+  "source_record_ids": [
+    "links-1472",
+    "links-1473",
+    "links-1474",
+    "links-1475"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/2465817c4a7dab9f66eb227768ec7ecb"
+    ],
+    "source_record_ids": [
+      "links-1472",
+      "links-1473",
+      "links-1474",
+      "links-1475"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/2465817c4a7dab9f66eb227768ec7ecb",
+          "Plant Name": "Bergenia Ligulata",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bergenia Ligulata",
+        "source_record_id": "links-1472",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/2465817c4a7dab9f66eb227768ec7ecb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/2465817c4a7dab9f66eb227768ec7ecb",
+          "Plant Name": "Bergenia ligulata (Wall)",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bergenia ligulata (Wall)",
+        "source_record_id": "links-1473",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/2465817c4a7dab9f66eb227768ec7ecb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/2465817c4a7dab9f66eb227768ec7ecb",
+          "Plant Name": "Bergenia ligulata (Wall.) Engl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bergenia ligulata (Wall.) Engl.",
+        "source_record_id": "links-1474",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/2465817c4a7dab9f66eb227768ec7ecb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/2465817c4a7dab9f66eb227768ec7ecb",
+          "Plant Name": "Bergenia ligulata (Wall.) Engle.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bergenia ligulata (Wall.) Engle.",
+        "source_record_id": "links-1475",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/2465817c4a7dab9f66eb227768ec7ecb"
+      }
+    ],
+    "source_xplant_id": "f1d049b12746b9fcb10349f82b32d0ec",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

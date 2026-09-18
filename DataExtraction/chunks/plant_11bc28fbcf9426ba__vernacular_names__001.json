@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_11bc28fbcf9426ba__vernacular_names__001",
+  "plant_id": "plant_11bc28fbcf9426ba",
+  "plant_name": "Argyreia malabarica Choisy",
+  "botanical_name": "Argyreia malabarica",
+  "botanical_authority": "CHOISY",
+  "family": "CONVOLVULACEAE",
+  "section": "vernacular_names",
+  "content": "Kannada (4): kudure balli, maasoota, mosuti, musute\nMalayalam (3): kattukalangu, kattukelengu, kattukilannu\nSanskrit (1): Sanskrit CommentsX vrddhadaruka\nTamil (15): akayappuritakkoti, akayappuritam, cirumucuttai, katalatakkam, katalatakki, katalatakkikkoti, katalkalakki, katalkalakkicceti, katarkalakki, paymoostey, perumucuttai, peyccinki, peyccinkikkoti, peymucuttai, peymusti",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/423f3725c7db83c8cf32efc33e407ee4"
+  ],
+  "source_record_ids": [
+    "links-2122"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/423f3725c7db83c8cf32efc33e407ee4"
+    ],
+    "source_record_ids": [
+      "links-2122"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/423f3725c7db83c8cf32efc33e407ee4",
+          "Plant Name": "Argyreia malabarica Choisy",
+          "Status": "Found"
+        },
+        "source_plant_name": "Argyreia malabarica Choisy",
+        "source_record_id": "links-2122",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/423f3725c7db83c8cf32efc33e407ee4"
+      }
+    ],
+    "source_xplant_id": "423f3725c7db83c8cf32efc33e407ee4",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

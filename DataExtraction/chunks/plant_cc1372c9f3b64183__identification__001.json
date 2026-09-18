@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_cc1372c9f3b64183__identification__001",
+  "plant_id": "plant_cc1372c9f3b64183",
+  "plant_name": "Limonia crenulata Roxb.",
+  "botanical_name": "Naringi crenulata",
+  "botanical_authority": "(ROXB.) NICOLSON",
+  "family": "RUTACEAE",
+  "section": "identification",
+  "content": "Plant name: Limonia crenulata Roxb. Botanical name: Naringi crenulata Botanical authority: (ROXB.) NICOLSON Family: RUTACEAE Source xplant ID: 88b6416bfbb3910dc4dbcde8c2703e96",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88b6416bfbb3910dc4dbcde8c2703e96/xclkon/0312fbdd9006634079d7473884dd4c7d"
+  ],
+  "source_record_ids": [
+    "links-0360"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88b6416bfbb3910dc4dbcde8c2703e96/xclkon/0312fbdd9006634079d7473884dd4c7d"
+    ],
+    "source_record_ids": [
+      "links-0360"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88b6416bfbb3910dc4dbcde8c2703e96/xclkon/0312fbdd9006634079d7473884dd4c7d",
+          "Plant Name": "Limonia crenulata Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Limonia crenulata Roxb.",
+        "source_record_id": "links-0360",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88b6416bfbb3910dc4dbcde8c2703e96/xclkon/0312fbdd9006634079d7473884dd4c7d"
+      }
+    ],
+    "source_xplant_id": "88b6416bfbb3910dc4dbcde8c2703e96",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

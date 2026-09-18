@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_cfb28df1a118cef7__images__001",
+  "plant_id": "plant_cfb28df1a118cef7",
+  "plant_name": "Cyperus rotundus",
+  "botanical_name": "Cyperus rotundus",
+  "botanical_authority": "L.",
+  "family": "CYPERACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c8c02b5248cc81ef2a1e21eac54d7df"
+  ],
+  "source_record_ids": [
+    "links-1339",
+    "links-1340"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c8c02b5248cc81ef2a1e21eac54d7df"
+    ],
+    "source_record_ids": [
+      "links-1339",
+      "links-1340"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c8c02b5248cc81ef2a1e21eac54d7df",
+          "Plant Name": "Cyperus rotundus",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cyperus rotundus",
+        "source_record_id": "links-1339",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c8c02b5248cc81ef2a1e21eac54d7df"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c8c02b5248cc81ef2a1e21eac54d7df",
+          "Plant Name": "Cyperus rotundus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cyperus rotundus Linn.",
+        "source_record_id": "links-1340",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c8c02b5248cc81ef2a1e21eac54d7df"
+      }
+    ],
+    "source_xplant_id": "1c8c02b5248cc81ef2a1e21eac54d7df",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_aad3da56ddcdedbc__bibliography__001",
+  "plant_id": "plant_aad3da56ddcdedbc",
+  "plant_name": "Grewia hirsuta Vahl.",
+  "botanical_name": "Grewia hirsuta",
+  "botanical_authority": "VAHL",
+  "family": "TILIACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: title: Title - Flora of Rajasthan Vol. 1\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I\nBibliography entry: title: Title - Flora of Bankura District(West Bengal)\nBibliography entry: title: Title - Flora of West Bengal Vol 1\nBibliography entry: title: Title - Flora of Gujarat State Vol 1\nBibliography entry: title: Title - FOREST FLORA OF MEGHALAYA VOL 1\nBibliography entry: title: Title - FLORA OF INDIA VOL 3\nBibliography entry: title: Title - The Flora of Kerala Vol I\nBibliography entry: title: Title - FLORA OF ASSAM\nBibliography entry: title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL1\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-1\nBibliography entry: title: Title - The Flora of Orissa Volume 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6bc8eecacb4603ff55b517bd520ce35"
+  ],
+  "source_record_ids": [
+    "links-0658",
+    "links-1343"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6bc8eecacb4603ff55b517bd520ce35"
+    ],
+    "source_record_ids": [
+      "links-0658",
+      "links-1343"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6bc8eecacb4603ff55b517bd520ce35",
+          "Plant Name": "Grewia hirsuta Vahl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Grewia hirsuta Vahl.",
+        "source_record_id": "links-0658",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6bc8eecacb4603ff55b517bd520ce35"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6bc8eecacb4603ff55b517bd520ce35",
+          "Plant Name": "Grewia hirsuta Vahl var. helicterifolia",
+          "Status": "Found"
+        },
+        "source_plant_name": "Grewia hirsuta Vahl var. helicterifolia",
+        "source_record_id": "links-1343",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6bc8eecacb4603ff55b517bd520ce35"
+      }
+    ],
+    "source_xplant_id": "f6bc8eecacb4603ff55b517bd520ce35",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

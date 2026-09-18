@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b70b863765be7625__distribution__001",
+  "plant_id": "plant_b70b863765be7625",
+  "plant_name": "Asclepias curassavica Linn.",
+  "botanical_name": "Asclepias curassavica",
+  "botanical_authority": "L.",
+  "family": "ASCLEPIADACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - HARIDASAN K & RAO R R; distribution: Distribution; title: Title - FOREST FLORA OF MEGHALAYA VOL 2\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aba02209fa1a529826e8a5e336075429"
+  ],
+  "source_record_ids": [
+    "links-0849"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aba02209fa1a529826e8a5e336075429"
+    ],
+    "source_record_ids": [
+      "links-0849"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aba02209fa1a529826e8a5e336075429",
+          "Plant Name": "Asclepias curassavica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Asclepias curassavica Linn.",
+        "source_record_id": "links-0849",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aba02209fa1a529826e8a5e336075429"
+      }
+    ],
+    "source_xplant_id": "aba02209fa1a529826e8a5e336075429",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

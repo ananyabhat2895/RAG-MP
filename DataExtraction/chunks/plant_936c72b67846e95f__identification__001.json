@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_936c72b67846e95f__identification__001",
+  "plant_id": "plant_936c72b67846e95f",
+  "plant_name": "Uncaria sessilifructus Roxb.",
+  "botanical_name": "Uncaria sessilifructus",
+  "botanical_authority": "ROXB.",
+  "family": "RUBIACEAE",
+  "section": "identification",
+  "content": "Plant name: Uncaria sessilifructus Roxb. Botanical name: Uncaria sessilifructus Botanical authority: ROXB. Family: RUBIACEAE Source xplant ID: b24509b96e5fe6dccd5533430b8e4efd",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b24509b96e5fe6dccd5533430b8e4efd"
+  ],
+  "source_record_ids": [
+    "links-1428"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b24509b96e5fe6dccd5533430b8e4efd"
+    ],
+    "source_record_ids": [
+      "links-1428"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b24509b96e5fe6dccd5533430b8e4efd",
+          "Plant Name": "Uncaria sessilifructus Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Uncaria sessilifructus Roxb.",
+        "source_record_id": "links-1428",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b24509b96e5fe6dccd5533430b8e4efd"
+      }
+    ],
+    "source_xplant_id": "b24509b96e5fe6dccd5533430b8e4efd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

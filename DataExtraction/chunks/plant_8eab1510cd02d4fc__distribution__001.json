@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_8eab1510cd02d4fc__distribution__001",
+  "plant_id": "plant_8eab1510cd02d4fc",
+  "plant_name": "Radermachera xylocarpa",
+  "botanical_name": "Radermachera xylocarpa",
+  "botanical_authority": "(ROXB.) SCHUM.",
+  "family": "BIGNONIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8eb5bffeca052079f62e14fa39ccdccb"
+  ],
+  "source_record_ids": [
+    "links-1091",
+    "links-1491"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8eb5bffeca052079f62e14fa39ccdccb"
+    ],
+    "source_record_ids": [
+      "links-1091",
+      "links-1491"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8eb5bffeca052079f62e14fa39ccdccb",
+          "Plant Name": "Radermachera xylocarpa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Radermachera xylocarpa",
+        "source_record_id": "links-1091",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8eb5bffeca052079f62e14fa39ccdccb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8eb5bffeca052079f62e14fa39ccdccb",
+          "Plant Name": "Radermachera xylocarpa (Roxb.)K. Schum.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Radermachera xylocarpa (Roxb.)K. Schum.",
+        "source_record_id": "links-1491",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8eb5bffeca052079f62e14fa39ccdccb"
+      }
+    ],
+    "source_xplant_id": "8eb5bffeca052079f62e14fa39ccdccb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

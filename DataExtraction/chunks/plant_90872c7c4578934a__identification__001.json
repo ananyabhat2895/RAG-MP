@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_90872c7c4578934a__identification__001",
+  "plant_id": "plant_90872c7c4578934a",
+  "plant_name": "Ficus altissima Blume.",
+  "botanical_name": "Ficus altissima",
+  "botanical_authority": "BLUME",
+  "family": "MORACEAE",
+  "section": "identification",
+  "content": "Plant name: Ficus altissima Blume. Botanical name: Ficus altissima Botanical authority: BLUME Family: MORACEAE Source xplant ID: d6278598f20a17066fe44bb1b1f8e3b1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6278598f20a17066fe44bb1b1f8e3b1"
+  ],
+  "source_record_ids": [
+    "links-0472",
+    "links-1378"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6278598f20a17066fe44bb1b1f8e3b1"
+    ],
+    "source_record_ids": [
+      "links-0472",
+      "links-1378"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6278598f20a17066fe44bb1b1f8e3b1",
+          "Plant Name": "Ficus altissima Blume.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus altissima Blume.",
+        "source_record_id": "links-0472",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6278598f20a17066fe44bb1b1f8e3b1"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6278598f20a17066fe44bb1b1f8e3b1",
+          "Plant Name": "Ficus altissima Blume",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus altissima Blume",
+        "source_record_id": "links-1378",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6278598f20a17066fe44bb1b1f8e3b1"
+      }
+    ],
+    "source_xplant_id": "d6278598f20a17066fe44bb1b1f8e3b1",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2c8e376e5a7a7e6f__images__001",
+  "plant_id": "plant_2c8e376e5a7a7e6f",
+  "plant_name": "Fagonia cretica Linn.",
+  "botanical_name": "Fagonia cretica",
+  "botanical_authority": "L.",
+  "family": "ZYGOPHYLLACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08d2d4c84f2c73308d0f9d970c1567c0"
+  ],
+  "source_record_ids": [
+    "links-0510"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08d2d4c84f2c73308d0f9d970c1567c0"
+    ],
+    "source_record_ids": [
+      "links-0510"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08d2d4c84f2c73308d0f9d970c1567c0",
+          "Plant Name": "Fagonia cretica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Fagonia cretica Linn.",
+        "source_record_id": "links-0510",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08d2d4c84f2c73308d0f9d970c1567c0"
+      }
+    ],
+    "source_xplant_id": "08d2d4c84f2c73308d0f9d970c1567c0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

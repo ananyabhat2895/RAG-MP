@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_f6ae48d9e33bf537__identification__001",
+  "plant_id": "plant_f6ae48d9e33bf537",
+  "plant_name": "Balanites aegyptiaca",
+  "botanical_name": "Balanites aegyptiaca",
+  "botanical_authority": "(L.) DELILE",
+  "family": "BALANITACEAE",
+  "section": "identification",
+  "content": "Plant name: Balanites aegyptiaca Botanical name: Balanites aegyptiaca Botanical authority: (L.) DELILE Family: BALANITACEAE Source xplant ID: cdc40766b050f355f72e25ef8060a9b7",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7"
+  ],
+  "source_record_ids": [
+    "links-0746",
+    "links-0747"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7"
+    ],
+    "source_record_ids": [
+      "links-0746",
+      "links-0747"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7",
+          "Plant Name": "Balanites aegyptiaca",
+          "Status": "Found"
+        },
+        "source_plant_name": "Balanites aegyptiaca",
+        "source_record_id": "links-0746",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7",
+          "Plant Name": "Balanites aegyptiaca (Linn.) Delile.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Balanites aegyptiaca (Linn.) Delile.",
+        "source_record_id": "links-0747",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7"
+      }
+    ],
+    "source_xplant_id": "cdc40766b050f355f72e25ef8060a9b7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

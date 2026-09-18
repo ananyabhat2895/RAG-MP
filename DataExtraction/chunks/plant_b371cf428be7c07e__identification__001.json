@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b371cf428be7c07e__identification__001",
+  "plant_id": "plant_b371cf428be7c07e",
+  "plant_name": "Mollugo hirta Thunb.",
+  "botanical_name": "Glinus lotoides",
+  "botanical_authority": "L.",
+  "family": "AIZOACEAE",
+  "section": "identification",
+  "content": "Plant name: Mollugo hirta Thunb. Botanical name: Glinus lotoides Botanical authority: L. Family: AIZOACEAE Source xplant ID: 67349d031267ee6d717be88c91b873eb",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/cec6d03d0e1bbe969c56f2e457d35f35"
+  ],
+  "source_record_ids": [
+    "links-1457"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/cec6d03d0e1bbe969c56f2e457d35f35"
+    ],
+    "source_record_ids": [
+      "links-1457"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/cec6d03d0e1bbe969c56f2e457d35f35",
+          "Plant Name": "Mollugo hirta Thunb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mollugo hirta Thunb.",
+        "source_record_id": "links-1457",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/cec6d03d0e1bbe969c56f2e457d35f35"
+      }
+    ],
+    "source_xplant_id": "67349d031267ee6d717be88c91b873eb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

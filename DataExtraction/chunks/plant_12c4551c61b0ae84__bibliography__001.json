@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_12c4551c61b0ae84__bibliography__001",
+  "plant_id": "plant_12c4551c61b0ae84",
+  "plant_name": "Pterospermum canescens",
+  "botanical_name": "Pterospermum suberifolium",
+  "botanical_authority": "(L.) LAM.",
+  "family": "STERCULIACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: title: Title - FLORA OF INDIA VOL 3\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nBibliography entry: title: Title - The Flora of Orissa Volume 1\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51126f098d000139264adcbc683b963e/xclkon/9d44864894f073a87a9fae970ddf5827"
+  ],
+  "source_record_ids": [
+    "links-0599"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51126f098d000139264adcbc683b963e/xclkon/9d44864894f073a87a9fae970ddf5827"
+    ],
+    "source_record_ids": [
+      "links-0599"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51126f098d000139264adcbc683b963e/xclkon/9d44864894f073a87a9fae970ddf5827",
+          "Plant Name": "Pterospermum canescens",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pterospermum canescens",
+        "source_record_id": "links-0599",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51126f098d000139264adcbc683b963e/xclkon/9d44864894f073a87a9fae970ddf5827"
+      }
+    ],
+    "source_xplant_id": "51126f098d000139264adcbc683b963e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_37222ec2cc940bcd__vernacular_names__001",
+  "plant_id": "plant_37222ec2cc940bcd",
+  "plant_name": "Syzygium jambos (Linn.) Alston.",
+  "botanical_name": "Syzygium jambos",
+  "botanical_authority": "(L.) ALSTON",
+  "family": "MYRTACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): jambu, rose apple\nHindi (5): gulab-jamun, gulabjaman, gulabjamun, jamun, sn jambu\nKannada (20): dodda seeme nerale, jaamba, jama, jamba, jambaneradi, jambooneralu, jambu, jambu nerale, jambunerale, jambuneralu, jambunerolu, malle-nerale, mallenerale, nerale sevu, pannaeralu, panneer hannu, pannerale, pannerali, pennerale, punnerl\nMalayalam (10): campa, champa, jama, jambavam, jambu, malacca-schambu, malaccaschambu, malakkacampa, malakkachamp, malaykkacampa\nMarathi (1): jamb\nSanskrit (16): Sanskrit CommentsX brihatphala, campeyah, jambu, jambula, jamburaja, kokileshta, mahajambu, mahanila, mahapatra, mahaphala, nanda, phalendra, rajajambu, shukapriya, surabhipatra, svarnamata\nTamil (25): campai, campu2, campunakai2, campunaval2, camputam, curapikocam, curapikocamaram, cutarica, cutarikamaram, iracacampu1, jampunaval, kutappurikam, kutappurikamaram, makacampu, narinaval3, narinavval3, naval, pannerali, perunaval, perunavval, perunavvalmaram, poti, purimokam 1, sambunagai, sambunaval\nTelugu (8): ala-neredu, gulabjama, jambunaeredu, jambuneredu, jamuneredu, pannerale, peddanaeredu, peddaneredu\nUrdu (2): aab jamun, sirka jamun",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9adbf18a4ccfab843085149dff116ec3"
+  ],
+  "source_record_ids": [
+    "links-0768"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9adbf18a4ccfab843085149dff116ec3"
+    ],
+    "source_record_ids": [
+      "links-0768"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9adbf18a4ccfab843085149dff116ec3",
+          "Plant Name": "Syzygium jambos (Linn.) Alston.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Syzygium jambos (Linn.) Alston.",
+        "source_record_id": "links-0768",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9adbf18a4ccfab843085149dff116ec3"
+      }
+    ],
+    "source_xplant_id": "9adbf18a4ccfab843085149dff116ec3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

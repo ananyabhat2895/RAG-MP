@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_add891cd300af7ce__images__001",
+  "plant_id": "plant_add891cd300af7ce",
+  "plant_name": "Anchusa strigosa Lebill.",
+  "botanical_name": "Anchusa strigosa",
+  "botanical_authority": "LABILL.",
+  "family": "BORAGINACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/017cafda480d7ca214f09a5728a8a1d8"
+  ],
+  "source_record_ids": [
+    "links-0618"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/017cafda480d7ca214f09a5728a8a1d8"
+    ],
+    "source_record_ids": [
+      "links-0618"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/017cafda480d7ca214f09a5728a8a1d8",
+          "Plant Name": "Anchusa strigosa Lebill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Anchusa strigosa Lebill.",
+        "source_record_id": "links-0618",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/017cafda480d7ca214f09a5728a8a1d8"
+      }
+    ],
+    "source_xplant_id": "017cafda480d7ca214f09a5728a8a1d8",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

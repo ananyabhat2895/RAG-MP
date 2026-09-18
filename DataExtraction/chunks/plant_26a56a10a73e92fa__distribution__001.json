@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_26a56a10a73e92fa__distribution__001",
+  "plant_id": "plant_26a56a10a73e92fa",
+  "plant_name": "Asparagus adscendens Roxb.",
+  "botanical_name": "Asparagus adscendens",
+  "botanical_authority": "ROXB.",
+  "family": "LILIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Dr. Narain Singh Chauhan; distribution: Distribution; title: Title - Medicinal and Aromatic Plants of Himachal Pradesh\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol III\nDistribution entry: author: Author - A.E. Osmaston; distribution: Distribution; title: Title - A Forest Flora for Kumaon\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/31ff91e8cf2224fccb7fbb9372601656"
+  ],
+  "source_record_ids": [
+    "links-1333"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/31ff91e8cf2224fccb7fbb9372601656"
+    ],
+    "source_record_ids": [
+      "links-1333"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/31ff91e8cf2224fccb7fbb9372601656",
+          "Plant Name": "Asparagus adscendens Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Asparagus adscendens Roxb.",
+        "source_record_id": "links-1333",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/31ff91e8cf2224fccb7fbb9372601656"
+      }
+    ],
+    "source_xplant_id": "31ff91e8cf2224fccb7fbb9372601656",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

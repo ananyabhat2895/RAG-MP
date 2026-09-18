@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ef6a0c9167394767__vernacular_names__001",
+  "plant_id": "plant_ef6a0c9167394767",
+  "plant_name": "Stephania glabra Miers.",
+  "botanical_name": "Stephania glabra",
+  "botanical_authority": "(THUNB.) MIERS.",
+  "family": "MENISPERMACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (3): ganeeth, gindaru, rajapatha\nSanskrit (2): Sanskrit CommentsX patha, rajapatha",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc04a525af9be52f32c1b7c58ff850bb"
+  ],
+  "source_record_ids": [
+    "links-1502"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc04a525af9be52f32c1b7c58ff850bb"
+    ],
+    "source_record_ids": [
+      "links-1502"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc04a525af9be52f32c1b7c58ff850bb",
+          "Plant Name": "Stephania glabra Miers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Stephania glabra Miers.",
+        "source_record_id": "links-1502",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc04a525af9be52f32c1b7c58ff850bb"
+      }
+    ],
+    "source_xplant_id": "cc04a525af9be52f32c1b7c58ff850bb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_54138a065b9e361d__vernacular_names__001",
+  "plant_id": "plant_54138a065b9e361d",
+  "plant_name": "Cassia occidentalis Linn.",
+  "botanical_name": "Cassia occidentalis",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (16): alo, bari-kasondi, barikasaumdi, barikasondi, chakunda, chakundra, kasaumdi, kasonda, kasondi, kasunda, kasuondi, kesudo, kesundo, mari-pumbadio, talka, taror\nKannada (30): aanesogate, anechagate, anecogate, anesogate, anetajank, anetajanku, anne sogate, dodda thagache, dodda thagachi, doddatagace, doddatagache, doddatagaci, doddatagase, doddathagase, eleuri, elevure, elluri, koltagache, koltagaci, koltagasi, kolthagache, kolthagasi, kolu thogari, kolutagace, kolutagase, urecogate, uresogate, urisonte, yeleure, yelluri\nMalayalam (12): karintakara, mattantakara, narrantakara, natatagara, natram-takara, natrum-takara, nattantakara, payavera, peyaviram, ponnariviram, ponnaveeram, ponnaviram\nMarathi (5): kasivda, kasoda, ran-takda, rankasvinda, vhadlo-tay-kilo\nSanskrit (16): Sanskrit CommentsX arimarda, dipana, jarana, kala, kalankata, kanaka, karkasha, kasaghna, kasamara, kasamarda, kasamardah, kasamardaka, kasamardakah, kasari, kashamarda, vimarda\nTamil (39): kaca2, kattuccena, kattuttakarai, narattantakarai, narrantakarai, narttantakarai, narutakarai, nattam takarai, nattam-takarai, nattamtakarai, nattandagarai, nattantakarai, nattavarai, nattu takarai, nattutakarai, paeravirai, paya varai, payaverai, peravarai, peravirai, peravirai#, peravirai@, peyavarai, peyavirai, pon avarai, pon-avarai, ponavarai, ponmekamari, ponnampu 1, ponnavaarai, ponnavarai 1, ponnavarai@, ponnavaraiyilai, ponnavaram 1#, ponnavaram 1@, ponnavirai, ponnavirai 2, takarai, thagarai\nTelugu (10): cashanda, eddhukommaku, kasinda, kasindha, kasinta, kasintha, kasivinda, pedda kasivinda, peddakasinda, peddakasinta\nTibetan (2): ka sa ma rda (d), ka sa ma rdha",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9a2cce5b5ed8523980ebb8dc49acbe7c"
+  ],
+  "source_record_ids": [
+    "links-0993"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9a2cce5b5ed8523980ebb8dc49acbe7c"
+    ],
+    "source_record_ids": [
+      "links-0993"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9a2cce5b5ed8523980ebb8dc49acbe7c",
+          "Plant Name": "Cassia occidentalis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cassia occidentalis Linn.",
+        "source_record_id": "links-0993",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9a2cce5b5ed8523980ebb8dc49acbe7c"
+      }
+    ],
+    "source_xplant_id": "9a2cce5b5ed8523980ebb8dc49acbe7c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

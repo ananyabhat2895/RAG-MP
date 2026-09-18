@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_92f0a458046742b3__distribution__002",
+  "plant_id": "plant_92f0a458046742b3",
+  "plant_name": "Ziziphus mauritiana Lam.",
+  "botanical_name": "Ziziphus mauritiana",
+  "botanical_authority": "LAM.",
+  "family": "RHAMNACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - HARIDASAN K & RAO R R; distribution: Distribution; title: Title - FOREST FLORA OF MEGHALAYA VOL 1\nDistribution entry: author: Author - C.J SALDHANA; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-2\nDistribution entry: author: Author - KANJILAL & BOR; distribution: Distribution; title: Title - FLORA OF ASSAM\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9/xclkon/a802dbf8338be8bd2acb962b3dd37d8e"
+  ],
+  "source_record_ids": [
+    "links-0254",
+    "links-0257"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9/xclkon/a802dbf8338be8bd2acb962b3dd37d8e"
+    ],
+    "source_record_ids": [
+      "links-0254",
+      "links-0257"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9",
+          "Plant Name": "Ziziphus mauritiana Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ziziphus mauritiana Lam.",
+        "source_record_id": "links-0254",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9/xclkon/a802dbf8338be8bd2acb962b3dd37d8e",
+          "Plant Name": "Ziziphus jujuba Mill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ziziphus jujuba Mill.",
+        "source_record_id": "links-0257",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9/xclkon/a802dbf8338be8bd2acb962b3dd37d8e"
+      }
+    ],
+    "source_xplant_id": "d4be669d5491e9e967e8dd354e7842f9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

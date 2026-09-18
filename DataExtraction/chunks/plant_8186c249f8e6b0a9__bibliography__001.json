@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8186c249f8e6b0a9__bibliography__001",
+  "plant_id": "plant_8186c249f8e6b0a9",
+  "plant_name": "Commiphora schimperi Engl.",
+  "botanical_name": "Commiphora schimperi",
+  "botanical_authority": "ENGL.",
+  "family": "BURSERACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ac84bcb4b6ec199d3d9c8b0120cb57f"
+  ],
+  "source_record_ids": [
+    "links-0367"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ac84bcb4b6ec199d3d9c8b0120cb57f"
+    ],
+    "source_record_ids": [
+      "links-0367"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ac84bcb4b6ec199d3d9c8b0120cb57f",
+          "Plant Name": "Commiphora schimperi Engl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Commiphora schimperi Engl.",
+        "source_record_id": "links-0367",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ac84bcb4b6ec199d3d9c8b0120cb57f"
+      }
+    ],
+    "source_xplant_id": "0ac84bcb4b6ec199d3d9c8b0120cb57f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

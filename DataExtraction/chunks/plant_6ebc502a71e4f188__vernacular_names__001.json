@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_6ebc502a71e4f188__vernacular_names__001",
+  "plant_id": "plant_6ebc502a71e4f188",
+  "plant_name": "Tylophora indica (Burm.f.) Merr.",
+  "botanical_name": "Tylophora indica",
+  "botanical_authority": "(BURM.F.) MERRILL",
+  "family": "ASCLEPIADACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (5): antamul, jamgli pikvam, jangli-pikvan, jangli-pikwan, janglipikvan\nKannada (24): aadu muttada, aadu muttada balli, aadu mutthada, aadumuttada gida, adumuttada, adumuttadagida, adumuttadagide, adumuttoda, antamula, anthamool, anthamoola, katte kivi soppu, kirumani, kirumani balli, kirumanji, kirumanjiballi, kove balli, naayihaale, naepala, naepalada baeru, nepaalada beru, nepala, nepaladaberu, nipaladaberu\nMalayalam (4): nansjera-patsja, valli-pala, vallipal, vallippala\nMarathi (9): anthamul, khadari, kharaki-rasana, pitakari, pitmari, pittamari, pitthakaadi, pitthamaari, pitvel\nSanskrit (6): Sanskrit CommentsX anthrapachaka, arkaparni, gandhana, lataksiri, moolinee, shwasaghni\nTamil (120): akacakarutakkirikakkoti, akacakkarutakkirikam, akavacikam, anantam 3, antamul, avaci, caitanniyampayncan, caitanniyampayncankoti, cankam 1, capalu, carankacceti, carankam, caravanapparkoti, catitiyam, cinkiri, cinkirippalai, cocrinja, coorinja, curakari, curakarikkoti, kaakittam, kacappuppalai, kagittam, kagittiram, kakatiram, kakimacari, kakimacaricceti, kakittam, kakittiram, kaludaippalai, kalutaippalai, kalutaippalattankoti, kamanaccetikakkoti, kapamarukkumuli, karetcavacan, karuncili, karuncilikkoti, karungai, karunkurinca, karunkurincacceti, karunkurinci, karutakam, karuvecarikkoti, kashuthai palai, kattittam 2, kattukkurinci, kattukkurincukkoti, kodagam, konanku, kondachani, kondam, kontaccani, kontaccani 1, kontaiccani, kontakacceti, kontakam, kontaku, kontakucceti, kontam, kotakam, kotippalai, kuravaram, kurinca 1, kurinja, naccilai, naccilaikkoti, naccuruppan 1, nacheruppan, nachohuruppan, nai-palai, naippalai, nalpalai, nancarappayantan 1, nancarappayncan 1, nancarppayncankoti, nancaruppan, nancaruppancan, nancaruppankoti, nancaruttanputu 1, nanch-churuppan, nancharuppan, nancu murippan, nancu murittan, nancumurittan 2, nancumurittanpalai, nancupalai, nangilaippirattai, nanja-murich-chan, nanjamurich-chan, nanjaruppan, nay-palai, nayppalai, nenjaruppan, nilakiriyutappu, nirkkurinca, nirkkurincakkoti, paalaaikeerai, pai-palai, pataicci, pataiccikkoti, peyp-palai, peyppalai, pincakkoti, pincam, pincukam, putikanta, putikantarakkoti, tuccataru 2, unattaku, unattakucceti, unmatakai, unmattaki, unmatti, visakkolli, visankolli, visantincanmuli, vishakolli, vitankolli, yavaci, yavati",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2"
+  ],
+  "source_record_ids": [
+    "links-0162",
+    "links-0163"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2"
+    ],
+    "source_record_ids": [
+      "links-0162",
+      "links-0163"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2",
+          "Plant Name": "Tylophora indica (Burm.f.) Merr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tylophora indica (Burm.f.) Merr.",
+        "source_record_id": "links-0162",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2",
+          "Plant Name": "Tylophora indica (Burm.f.) Merrill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tylophora indica (Burm.f.) Merrill.",
+        "source_record_id": "links-0163",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2"
+      }
+    ],
+    "source_xplant_id": "1549400588c63584c7fe0037adf8a4e2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

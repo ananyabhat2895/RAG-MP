@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_25a29955573252ae__vernacular_names__001",
+  "plant_id": "plant_25a29955573252ae",
+  "plant_name": "Corallocarpus epigaeus Benth. ex Hook. f.",
+  "botanical_name": "Corallocarpus epigaeus",
+  "botanical_authority": "BENTH.",
+  "family": "CUCURBITACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (6): akas-gaddah, akasgaddah, kadawi nai, kadwai-nai, rakas-gaddah, rakasgaddah\nKannada (9): aakaasha garuda, aakaashagaruda balli, aakhasha garuda, akasha-garuda-gadde, akashagarudagadde, akashgaruda-balli, gilimoogina gedde, moogina gedde, mukkaarthi gedde\nMalayalam (5): kadamba, kollam-kova-kizhanna, kollan-kova-kizhauna, kollankova, nagadonda\nMarathi (1): kadavinai\nSanskrit (5): Sanskrit CommentsX kadamba, katunahi, mahamula, patalagaruda, sukanasa\nTamil (67): aakaasagarudan, aakasa garudan kizhangu, akaca karutan, akaca karutan kilanku, akacakarutan, akacakarutankilanku, akacakerutan, akacakkarutan, akacakkarutankoti, akacakkoti, akasagerudan, akasagerudon, akasha garudan, akasha-garudan, akashagarudan, akashagaruden, akashakarudan, akaya karutan, akayakarutan, antaravalli, antaravallikkoti, arkkankotan, atarakkovai, cakamuvi, catittavakkoti, catittavam, cavuttirakkutori, cimai civatai, civakamiruti, cutapantani 4, garudan, gollan-kovaik-kizhangu, gollankovai, kalkovai 2, karkovai 2, karutan, karutan kilanku, karutan kizanku, kilimukku-k-kilanku, kilimukkukkilanku, kilimukkukkilanku 2, kimmiyakkilanku, kimmiyam, kollaikkovai, kollan kovai, kollan kovaimulam, kollankoti, kollankovai, kollankovvai, kolung kovay kalung, korutakkoti, korutan 2, kovaikkilanku, manomaci, nakacanan, panangovai, pankayam, pattirati, pey cintil, peyar cintil, putaiyiral, tanavaiyatam 2, ularndadu, vanamaittanki, varukkatiron, ventonri, yarakam\nTelugu (9): aaakaash gadda, aakaashagaruda, akasha-garuda-gaddalu, akashagadda, murudonda, naagadonda, naga donda, nagadonda, pamudonda\nTibetan (1): sa khu ta",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b088cb551d11dd21380ebc54a81ccb68"
+  ],
+  "source_record_ids": [
+    "links-1863"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b088cb551d11dd21380ebc54a81ccb68"
+    ],
+    "source_record_ids": [
+      "links-1863"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b088cb551d11dd21380ebc54a81ccb68",
+          "Plant Name": "Corallocarpus epigaeus Benth. ex Hook. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Corallocarpus epigaeus Benth. ex Hook. f.",
+        "source_record_id": "links-1863",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b088cb551d11dd21380ebc54a81ccb68"
+      }
+    ],
+    "source_xplant_id": "b088cb551d11dd21380ebc54a81ccb68",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

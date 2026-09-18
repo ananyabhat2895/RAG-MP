@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_57e019610e0f5585__distribution__001",
+  "plant_id": "plant_57e019610e0f5585",
+  "plant_name": "Eclipta alba",
+  "botanical_name": "Eclipta prostrata",
+  "botanical_authority": "(L.) L.",
+  "family": "ASTERACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - ED. B.D. SHARMA & M.SANJAPPA , N.P. BALAKRISHNAN; distribution: Distribution; title: Title - FLORA OF INDIA VOL 12\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - KUNDAN K SHARMA & SHIVA SHARMA; distribution: Distribution; title: Title - FLORA OF RAJASTHAN\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebdf4cc43c22f9b9ef56093a924611d9/xclkon/8eb2faa62f552ed9c850bb651d691938"
+  ],
+  "source_record_ids": [
+    "links-0329",
+    "links-0330"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebdf4cc43c22f9b9ef56093a924611d9/xclkon/8eb2faa62f552ed9c850bb651d691938"
+    ],
+    "source_record_ids": [
+      "links-0329",
+      "links-0330"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebdf4cc43c22f9b9ef56093a924611d9/xclkon/8eb2faa62f552ed9c850bb651d691938",
+          "Plant Name": "Eclipta alba",
+          "Status": "Found"
+        },
+        "source_plant_name": "Eclipta alba",
+        "source_record_id": "links-0329",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebdf4cc43c22f9b9ef56093a924611d9/xclkon/8eb2faa62f552ed9c850bb651d691938"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebdf4cc43c22f9b9ef56093a924611d9/xclkon/8eb2faa62f552ed9c850bb651d691938",
+          "Plant Name": "Eclipta alba Hassk.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Eclipta alba Hassk.",
+        "source_record_id": "links-0330",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebdf4cc43c22f9b9ef56093a924611d9/xclkon/8eb2faa62f552ed9c850bb651d691938"
+      }
+    ],
+    "source_xplant_id": "ebdf4cc43c22f9b9ef56093a924611d9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_e7f45fda9690e6a6__images__001",
+  "plant_id": "plant_e7f45fda9690e6a6",
+  "plant_name": "Dendrophthoe falcata (Linn.f.) Ettingshaysen",
+  "botanical_name": "Dendrophthoe falcata",
+  "botanical_authority": "(L.F) ETTING.",
+  "family": "LORANTHACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c90f8a2b28b3cbebb4cd1fb3068ad5a7",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c90f8a2b28b3cbebb4cd1fb3068ad5a7/xclkon/821c2a98f003cd27fe4d9718022ac47c"
+  ],
+  "source_record_ids": [
+    "links-0286",
+    "links-2050"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c90f8a2b28b3cbebb4cd1fb3068ad5a7",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c90f8a2b28b3cbebb4cd1fb3068ad5a7/xclkon/821c2a98f003cd27fe4d9718022ac47c"
+    ],
+    "source_record_ids": [
+      "links-0286",
+      "links-2050"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c90f8a2b28b3cbebb4cd1fb3068ad5a7",
+          "Plant Name": "Dendrophthoe falcata (Linn.f.) Ettingshaysen",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dendrophthoe falcata (Linn.f.) Ettingshaysen",
+        "source_record_id": "links-0286",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c90f8a2b28b3cbebb4cd1fb3068ad5a7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c90f8a2b28b3cbebb4cd1fb3068ad5a7/xclkon/821c2a98f003cd27fe4d9718022ac47c",
+          "Plant Name": "Loranthus longiflorus Desr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Loranthus longiflorus Desr.",
+        "source_record_id": "links-2050",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c90f8a2b28b3cbebb4cd1fb3068ad5a7/xclkon/821c2a98f003cd27fe4d9718022ac47c"
+      }
+    ],
+    "source_xplant_id": "c90f8a2b28b3cbebb4cd1fb3068ad5a7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

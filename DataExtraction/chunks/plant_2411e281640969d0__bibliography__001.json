@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2411e281640969d0__bibliography__001",
+  "plant_id": "plant_2411e281640969d0",
+  "plant_name": "Euphorbia royleana Boiss.",
+  "botanical_name": "Euphorbia royleana",
+  "botanical_authority": "BOISS.",
+  "family": "EUPHORBIACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol. II\nBibliography entry: title: Title - Flora of Chamba District (Himachal Pradesh)\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol II\nBibliography entry: title: Title - Flora of Rajasthan Vol.2\nBibliography entry: title: Title - A Forest Flora for Kumaon\nBibliography entry: title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7a93b1cb5aa11bdabb3db783e064edb"
+  ],
+  "source_record_ids": [
+    "links-1734"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7a93b1cb5aa11bdabb3db783e064edb"
+    ],
+    "source_record_ids": [
+      "links-1734"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7a93b1cb5aa11bdabb3db783e064edb",
+          "Plant Name": "Euphorbia royleana Boiss.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia royleana Boiss.",
+        "source_record_id": "links-1734",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7a93b1cb5aa11bdabb3db783e064edb"
+      }
+    ],
+    "source_xplant_id": "b7a93b1cb5aa11bdabb3db783e064edb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

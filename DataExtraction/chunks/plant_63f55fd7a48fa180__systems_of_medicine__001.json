@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_63f55fd7a48fa180__systems_of_medicine__001",
+  "plant_id": "plant_63f55fd7a48fa180",
+  "plant_name": "Garcinia pedunculata Roxb.",
+  "botanical_name": "Garcinia pedunculata",
+  "botanical_authority": "ROXB.",
+  "family": "CLUSIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Sowa-Rigpa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4363b8d76a07b506e416768ec9f1e085"
+  ],
+  "source_record_ids": [
+    "links-0109"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4363b8d76a07b506e416768ec9f1e085"
+    ],
+    "source_record_ids": [
+      "links-0109"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4363b8d76a07b506e416768ec9f1e085",
+          "Plant Name": "Garcinia pedunculata Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Garcinia pedunculata Roxb.",
+        "source_record_id": "links-0109",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4363b8d76a07b506e416768ec9f1e085"
+      }
+    ],
+    "source_xplant_id": "4363b8d76a07b506e416768ec9f1e085",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

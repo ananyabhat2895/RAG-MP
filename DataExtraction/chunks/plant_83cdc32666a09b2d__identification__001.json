@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_83cdc32666a09b2d__identification__001",
+  "plant_id": "plant_83cdc32666a09b2d",
+  "plant_name": "Malus pumila Mill.",
+  "botanical_name": "Malus pumila",
+  "botanical_authority": "MILL.",
+  "family": "ROSACEAE",
+  "section": "identification",
+  "content": "Plant name: Malus pumila Mill. Botanical name: Malus pumila Botanical authority: MILL. Family: ROSACEAE Source xplant ID: ebc61e9fd917afa9686a83901f4e38e7",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebc61e9fd917afa9686a83901f4e38e7",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebc61e9fd917afa9686a83901f4e38e7/xclkon/ae2836a9459e730216e0cf14735f80dd"
+  ],
+  "source_record_ids": [
+    "links-1787",
+    "links-1795"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebc61e9fd917afa9686a83901f4e38e7",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebc61e9fd917afa9686a83901f4e38e7/xclkon/ae2836a9459e730216e0cf14735f80dd"
+    ],
+    "source_record_ids": [
+      "links-1787",
+      "links-1795"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebc61e9fd917afa9686a83901f4e38e7",
+          "Plant Name": "Malus pumila Mill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Malus pumila Mill.",
+        "source_record_id": "links-1787",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebc61e9fd917afa9686a83901f4e38e7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebc61e9fd917afa9686a83901f4e38e7/xclkon/ae2836a9459e730216e0cf14735f80dd",
+          "Plant Name": "Pyrus malus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pyrus malus Linn.",
+        "source_record_id": "links-1795",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebc61e9fd917afa9686a83901f4e38e7/xclkon/ae2836a9459e730216e0cf14735f80dd"
+      }
+    ],
+    "source_xplant_id": "ebc61e9fd917afa9686a83901f4e38e7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

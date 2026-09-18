@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_2381ea6faf52cf51__vernacular_names__001",
+  "plant_id": "plant_2381ea6faf52cf51",
+  "plant_name": "Solanum torvum Swartz",
+  "botanical_name": "Solanum torvum",
+  "botanical_authority": "SWARTZ",
+  "family": "SOLANACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (2): bhurat, tit-baigun\nKannada (25): borasunde, bovasonde, bovasunde, busende, busunde, chinde, chundai, chunde, kaada kallatti, kaadu badane, kaadu kadane, kaadu kallate, kaadu kallunte, kaadu sonde, kadakadana, kadakallate, kadchunde, kadubadene, kadusonde, karase, karashe, katukallante, shundakkayi, sonde, sonde gida\nMalayalam (7): chunda, chunde, cunta, kadchunde, katchunde, kattucunta, puttaricunta\nMarathi (2): dhoravaange, doralee\nSanskrit (1): Sanskrit CommentsX brhati\nTamil (32): amarakkay, cenkuronikacceti, cenkuronikam, chundai, cularkay, cularkaycceti, cuntai, cuntai varral, cuntankay, curacica, curapakam, curuntaikkay, curutkay, cuvacakacokkini, cuvucakacakkinipokki1, iruttiyakuttam, kancakacceti, kancakam, katikipalam, kottukkattari, malaiccuntai, malasundai, nattuccuntai, pasanamaini, pitiratakacceti, pitiratakam, pittalam, pittatincam, sundai, sundaikai, sundakkai, tottitanaipparpamakki\nTelugu (3): konda vusti, kondavuste, usti",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b6dd3c6f37a291782a1fba746563e72"
+  ],
+  "source_record_ids": [
+    "links-0394",
+    "links-0395"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b6dd3c6f37a291782a1fba746563e72"
+    ],
+    "source_record_ids": [
+      "links-0394",
+      "links-0395"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b6dd3c6f37a291782a1fba746563e72",
+          "Plant Name": "Solanum torvum Swartz",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum torvum Swartz",
+        "source_record_id": "links-0394",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b6dd3c6f37a291782a1fba746563e72"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b6dd3c6f37a291782a1fba746563e72",
+          "Plant Name": "Solanum torvum Swartz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum torvum Swartz.",
+        "source_record_id": "links-0395",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b6dd3c6f37a291782a1fba746563e72"
+      }
+    ],
+    "source_xplant_id": "7b6dd3c6f37a291782a1fba746563e72",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

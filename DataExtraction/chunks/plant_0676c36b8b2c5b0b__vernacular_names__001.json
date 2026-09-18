@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_0676c36b8b2c5b0b__vernacular_names__001",
+  "plant_id": "plant_0676c36b8b2c5b0b",
+  "plant_name": "Berberis aristata DC.",
+  "botanical_name": "Berberis aristata",
+  "botanical_authority": "DC.",
+  "family": "BERBERIDACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): chitra\nHindi (17): chitra, chotra, dar-chob, dar-hald, darhald, kash-mal, kashmal, kashmar, kasmal, kasmale, kemal, kemal/kasmal, khepacho, rasaunt, rasaut, rasvat, zarishk\nKannada (5): baagi soothra, bagisutra, bagisutrum, doddamaradarsina, gantarishina\nMalayalam (4): kasturimanjal, maradarisina, maramanjal, maramannal\nMarathi (1): daruhalad\nSanskrit (15): Sanskrit CommentsX daru, daruharidra, darunisa, darurajani, darvi, kaliyaka, kastaranjani, kata, katankateri, katankati, kateri, pacampaca, parjanya, pita-daru, suvarnavarna\nTamil (9): cailapitti3, kasturimanjal, kottukkala2, maramancal, maramanjal, mullukala, mullukkala, ucikkala, usikkala\nTelugu (3): daruharidra, kasthoori pushpa, kasturipaspu\nTibetan (6): lig mig, skyer ba, skyer dkar bar sun, skyer pa, skyer-rtsa yun-ba, yun-ba\nUrdu (8): aarghis, darhald, darhald nim kofta, rasaut, rasaut musaffa, rasaut mussafa, zarishk, zarisjhk",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1685daa1d81056ff688084cfe23825e9"
+  ],
+  "source_record_ids": [
+    "links-0490"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1685daa1d81056ff688084cfe23825e9"
+    ],
+    "source_record_ids": [
+      "links-0490"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1685daa1d81056ff688084cfe23825e9",
+          "Plant Name": "Berberis aristata DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Berberis aristata DC.",
+        "source_record_id": "links-0490",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1685daa1d81056ff688084cfe23825e9"
+      }
+    ],
+    "source_xplant_id": "1685daa1d81056ff688084cfe23825e9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

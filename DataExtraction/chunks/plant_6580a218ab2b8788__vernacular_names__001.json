@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_6580a218ab2b8788__vernacular_names__001",
+  "plant_id": "plant_6580a218ab2b8788",
+  "plant_name": "Thevetia neriifolia",
+  "botanical_name": "Cascabela thevetia",
+  "botanical_authority": "(L.) LIPPOLD",
+  "family": "APOCYNACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): lucky bean or nut, yellow oleander\nHindi (7): peeli kaner, pila-ganer, pila-kaner, pilakger, pili kaner, pili-kaner, pnila-kaher\nKannada (7): gowri hoo, gowri pushpa, hirehabbe, hirehalla, kaadu kaasi kanigalu, kaasi kanigala mara, kadakaasi kanigalu\nMalayalam (3): kanaviram, paccayarali, pachchai-alari\nMarathi (6): biti, halduvi, pivala-kanher, pivalakanher, pivalakanhera, sherani\nSanskrit (34): Sanskrit CommentsX ashvaghna, ashvaha, ashvamaraka, ashvanashaka, ashvantaka, ashvarodhaka, chandata, divyapushpa, gauripushpa, hapusha, haripriya, hayaghna, hayamaraka, hayari, karavira, karavirabheda, karavirah, kunda, nakharavha, pitakaravira, prachanda, pratihasa, rangari, shankudra, shatakumbha, shatakunda, shitakumbha, shvetapushpa, shvetapushpaka, sidhapushpa, sthalakumida, turangari, vira, viraka\nTamil (50): cempon, cemponmaram, cimaialari, cimaiyalari1, cuttavacikam, cuttavacikamaram, ilinkavalari, kaciyarali, kappatakam, kappatakamaran, malaimancarali, malaimancaralimaram, malaiyarali, malaiyarali@, malaiyaralimaram, mancal alari, mancalalari#, mancalarali@, mancalaralimaram, mancatcentaralimaram, mancatkuvali, manjal alari, nelicam, nelicamaram, paccai alari, paccaiyalari, pach-chai-alavi, pachaarali, pachchai-alari, paimponnarali, paimponnaralimaram, payiravikiyarali, payiraviti, ponnalari#, ponnarali, porikkacakam, tankalari, tankarali1, tankarali@, tankaralimaram#, tankaralimaram@, thiruvachipu, tiru vach-chippu, tiruvacci, tiruvaccippu, tiruvatci, tittiravam, tittiravamaram, ucimilirai, ucimiliraicceti\nTelugu (10): ganneru, paccaganneru, pacha-ganneru, pachaganneru, pachcha-ganneru, pachhaganneru, pasupugottalaganneru, patsaganaru, pattsaganneru, suvarna\nTibetan (1): ka ra bi ra dmar po",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f/xclkon/b7ed09bfd52a6f46b3806c201d93e242"
+  ],
+  "source_record_ids": [
+    "links-0954",
+    "links-0955"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f/xclkon/b7ed09bfd52a6f46b3806c201d93e242"
+    ],
+    "source_record_ids": [
+      "links-0954",
+      "links-0955"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f/xclkon/b7ed09bfd52a6f46b3806c201d93e242",
+          "Plant Name": "Thevetia neriifolia",
+          "Status": "Found"
+        },
+        "source_plant_name": "Thevetia neriifolia",
+        "source_record_id": "links-0954",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f/xclkon/b7ed09bfd52a6f46b3806c201d93e242"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f/xclkon/b7ed09bfd52a6f46b3806c201d93e242",
+          "Plant Name": "Thevetia neriifolia juss.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Thevetia neriifolia juss.",
+        "source_record_id": "links-0955",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f/xclkon/b7ed09bfd52a6f46b3806c201d93e242"
+      }
+    ],
+    "source_xplant_id": "5d98e136bf835caf4ca695c306d4299f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5b1ec1850cf5de51__botanical_synonyms__001",
+  "plant_id": "plant_5b1ec1850cf5de51",
+  "plant_name": "Mollugo cerviana Ser.",
+  "botanical_name": "Mollugo cerviana",
+  "botanical_authority": "SER.",
+  "family": "MOLLUGINACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Pharnaceum cerviana L. X Full Botanical citation - Pharnaceum cerviana L., Sp. Pl. 272. 1753; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 124. 1999.\nSynonym: Pharnaceum cerviana L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f4e367511a4b37c7dbb1734f71bb44a"
+  ],
+  "source_record_ids": [
+    "links-1456"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f4e367511a4b37c7dbb1734f71bb44a"
+    ],
+    "source_record_ids": [
+      "links-1456"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f4e367511a4b37c7dbb1734f71bb44a",
+          "Plant Name": "Mollugo cerviana Ser.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mollugo cerviana Ser.",
+        "source_record_id": "links-1456",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f4e367511a4b37c7dbb1734f71bb44a"
+      }
+    ],
+    "source_xplant_id": "9f4e367511a4b37c7dbb1734f71bb44a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

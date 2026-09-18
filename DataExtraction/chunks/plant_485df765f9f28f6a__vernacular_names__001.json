@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_485df765f9f28f6a__vernacular_names__001",
+  "plant_id": "plant_485df765f9f28f6a",
+  "plant_name": "Euphorbia tirucalli Linn.",
+  "botanical_name": "Euphorbia tirucalli",
+  "botanical_authority": "L.",
+  "family": "EUPHORBIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): tirucalli rubber\nHindi (16): angli thor, anglithor, barki-sehund, barki-thohar, gangli-thor, konpahlsehnd, konpal, konpal-sehnd, sehnd, sehnr, sehud, sehund, sendh, shirthohar, sindh, thohra\nKannada (32): bonta-kalli, bontakalli, bontekalli, bottu kalli, bottugalli, jiggalli, jiggu kalli, kadunevali, kalli, kodekalli, kodu galli, kodugalli, kodukalli, kolu galli, kolu kalli, kolugalli, kolukalli, mondugalli, mondukalli, mundugalika, mundugalli, munukalli, nandu galli, nandugalli, nandukalli, nundugalli, paccanegalli, pacchaneballi, pachan, pachanegalli, taria, yellegulla\nMalayalam (11): guda, kalli, kateruma, katerumakkalli, katterumakkalli, kol-kalli, kolkalli, tirucalli, tiruk-kalli, tirukalli, tirukkalli\nMarathi (13): kada nivali, nevli, nirval, nival, nivla, portugali, seyr, seyrteg, shar, shera, tej, thuvar, vajraduhu\nSanskrit (14): Sanskrit CommentsX bahukshira, dandasruha, dandathuhara, dugdhika, ganderi, kampillaka, satala, snuhi, snuk, snuka, trikantaka, trikuntaka, vajradruma, vajravrksah\nTamil (21): cakkalavi, catukalavi, kalli, kalli kiri, kalli-kombu, keeri, kombu-kalli, kombukkalli, kompukkalli, pachankalli, parchanu, thirugukalli, tiru-kalli, tirucalli, tirugu-kalli, tirukalli, tirukkalli, tiruku, tiruku-k-kalli, tirukukalli, tiruvatti\nTelugu (24): cemudu, chemadu, chemudu, jamudu, jemudu, jemudu-kadalu, kaadu jemmudu, kada-jemudu, kadajamudi, kadujemudu, kalli, kanchi jemudu, kancijemudu, kanji jemudu, kanjijemudu, kundigi, manchi jamudu, pullajeedikada, pullakada, sanna jemudu, sannajamudu, sannajemudu, thirugu jemmudu, thirukalli",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286afce510671abfbbf606395906a9c0"
+  ],
+  "source_record_ids": [
+    "links-1735"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286afce510671abfbbf606395906a9c0"
+    ],
+    "source_record_ids": [
+      "links-1735"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286afce510671abfbbf606395906a9c0",
+          "Plant Name": "Euphorbia tirucalli Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia tirucalli Linn.",
+        "source_record_id": "links-1735",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286afce510671abfbbf606395906a9c0"
+      }
+    ],
+    "source_xplant_id": "286afce510671abfbbf606395906a9c0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

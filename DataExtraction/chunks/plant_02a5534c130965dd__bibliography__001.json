@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_02a5534c130965dd__bibliography__001",
+  "plant_id": "plant_02a5534c130965dd",
+  "plant_name": "Cucumis trigonus Roxb.",
+  "botanical_name": "Cucumis pseudo-colocynthi",
+  "botanical_authority": "ROYLE",
+  "family": "CUCURBITACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - ANONYMOUS; title: Title - ASTANGA HRIDAYA KOSHA\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I\nBibliography entry: title: Title - Flora of the Indian Desert\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/282641155449618e266d50cc146a9e35/xclkon/98967d8b51a93ffa11ad42d30567fe3a"
+  ],
+  "source_record_ids": [
+    "links-0744"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/282641155449618e266d50cc146a9e35/xclkon/98967d8b51a93ffa11ad42d30567fe3a"
+    ],
+    "source_record_ids": [
+      "links-0744"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/282641155449618e266d50cc146a9e35/xclkon/98967d8b51a93ffa11ad42d30567fe3a",
+          "Plant Name": "Cucumis trigonus Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cucumis trigonus Roxb.",
+        "source_record_id": "links-0744",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/282641155449618e266d50cc146a9e35/xclkon/98967d8b51a93ffa11ad42d30567fe3a"
+      }
+    ],
+    "source_xplant_id": "282641155449618e266d50cc146a9e35",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

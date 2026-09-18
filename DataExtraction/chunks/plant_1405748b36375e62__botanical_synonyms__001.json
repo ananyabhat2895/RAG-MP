@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_1405748b36375e62__botanical_synonyms__001",
+  "plant_id": "plant_1405748b36375e62",
+  "plant_name": "Cucumis utilissimus Roxb.",
+  "botanical_name": "Cucumis melo",
+  "botanical_authority": "L. var. momordica DUTHIE & FULLER",
+  "family": "CUCURBITACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Cucumis callosus (ROTTL.) COGN. X Full Botanical citation - Cucumis callosus (Rottler) Cogn. in Engl. Das Pflanzenr. 4. 275. 2: 129. 1924; H.L. Chakravarty, Fascicles of Flora of India, Fasicle II, Cucurbitaceae, BSI, Howrah, 31. 1982 Cucumis utilissimus ROXB.\nSynonym: Cucumis callosus (ROTTL.) COGN.\nSynonym: Cucumis utilissimus ROXB.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/e9e5d138e313019434c1aff43227e08c"
+  ],
+  "source_record_ids": [
+    "links-0568",
+    "links-0569"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/e9e5d138e313019434c1aff43227e08c"
+    ],
+    "source_record_ids": [
+      "links-0568",
+      "links-0569"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/e9e5d138e313019434c1aff43227e08c",
+          "Plant Name": "Cucumis utilissimus Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cucumis utilissimus Roxb.",
+        "source_record_id": "links-0568",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/e9e5d138e313019434c1aff43227e08c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/e9e5d138e313019434c1aff43227e08c",
+          "Plant Name": "Cucumis utilissimus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cucumis utilissimus Linn.",
+        "source_record_id": "links-0569",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/e9e5d138e313019434c1aff43227e08c"
+      }
+    ],
+    "source_xplant_id": "a4f1228958884d0b1d991ee640366154",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

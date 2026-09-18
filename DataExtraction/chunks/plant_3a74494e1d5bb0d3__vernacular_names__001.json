@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_3a74494e1d5bb0d3__vernacular_names__001",
+  "plant_id": "plant_3a74494e1d5bb0d3",
+  "plant_name": "Ventilago madraspatana Gaertn.",
+  "botanical_name": "Ventilago madraspatana",
+  "botanical_authority": "GAERTN.",
+  "family": "RHAMNACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (1): pitti\nKannada (21): boppalichakkai, haruge, ithaala beelu, kabbilu, kobbilu, kubbila, malai maithra, malamaitra, male ithaala, malemaitra, malemytala, pampli, papli, paplichakka, pappali, pappalicakke, papplichakkay, papudi, papuli, popli, poppli\nMalayalam (1): vempata\nMarathi (4): kevati, khandvel, lokhandi, sakalyel\nSanskrit (5): Sanskrit CommentsX dinesavalli, kaivartika, raktavalli, rohitakalata, tamravalli\nTamil (42): amantacikam2, atittiyavalli, ayaccempicci, caturttayam, caturttayappattai, cayappattai, cempacci, cempaccippattai, cempirankam, cenkatari1, cenkattari, cenkattari pattai, cenkattari1, cerukoti, citalaviranarokini, curiyavalli, curiyavallicam, curul, curulappattai, curulpattai, curuluppattai, curutpattai, iyakam, pappili, pappili#, pappili@, surate-cheka, surul, surul pattai, surulbattaikkodi, surulbattaikkoti, velunku 1, vembadam, vembadam pattai, vempadam, vempadon, vempatai, vempataikkoti, vempatam, vempatam$, vempatam@, vempatampattai\nTelugu (28): errachilatali, errachiratali, errachirathali, erraciratalativva, errashiratthalathivva, errasurugudi, errasurugudu, ettashirattalativva, ettasurugudu, lurala-tige, papri, petlitige, putika, surabi, suralathige, suralatige, surathi thige, suratighekka, suratipattetige, surugudu, yerra-chairatali, yerrachicalli, yerrachicatti, yerrachictali, yerrachiratalaboddutheega, yerrachiratalativva, yerraciratalativva, yerrasurugudu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c06cc677ccb629a0b1943f094219fae3"
+  ],
+  "source_record_ids": [
+    "links-1660"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c06cc677ccb629a0b1943f094219fae3"
+    ],
+    "source_record_ids": [
+      "links-1660"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c06cc677ccb629a0b1943f094219fae3",
+          "Plant Name": "Ventilago madraspatana Gaertn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ventilago madraspatana Gaertn.",
+        "source_record_id": "links-1660",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c06cc677ccb629a0b1943f094219fae3"
+      }
+    ],
+    "source_xplant_id": "c06cc677ccb629a0b1943f094219fae3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

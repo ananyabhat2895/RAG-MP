@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_daf2b0a11c02ef45__vernacular_names__001",
+  "plant_id": "plant_daf2b0a11c02ef45",
+  "plant_name": "Salvadora persica",
+  "botanical_name": "Salvadora persica",
+  "botanical_authority": "L. var. wightiana (PLANCH EX THW.) VERDC.",
+  "family": "SALVADORACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): tooth-brush tree\nHindi (13): badapilu, chhota-pilu, chhotapilu, chota-pilu, dhalu, jal, jhai, jhak, kharjal, mitha jal, mithi-jal, mithi-pilu, pilu\nKannada (14): geya, goni, goni mara, goni-mara, gonimara, kankhina, kareegoni, kari goni mara, kireegoni, kirgonji, kiri gonee mara, kirigoni mara, koyya, kunni\nMalayalam (1): uka\nMarathi (13): khakheen, khakhin, kickin, kickni, meeraj, meerajoli, miraj, mirajoli, peelu, pelu, pilu, rhakhan, thorapeelu\nSanskrit (16): Sanskrit CommentsX brihatpilu, gauli, gudaphala, langhupilu, madhupilu, mahaphala, mahapilu, mahavriksha, pilu, piluh, piluka, rajapilu, sramsi, tiksna- vrksatphalani, tiksnataru, tiksnavrksa\nTamil (59): aranmakapicam, aranmakapicamaram, cakantititam, cakuntititam, camarankari, camaratam, cankiciyam, cevvuka, chirukalarva, ciru kalarva, cittuva, cittuvila#, cittuvila@, cumirtam, irattakampilucaramakki, irattaputpam 2, kakavallapam, kalarva, kalarva 1, kallivira, kantacakikam, kantacakikamaram, kargol, kargoli, karkol, kodumaavali, kotumavali, kunni, nettuka, nettukamaram, nilavukay 1, ooghai puttay, opa, pancatipika, paviyam, perungoli, piravalapalam, rokacamani, shiru-kalarva, sittuvila, surugalarva, tanuka, tanukamaram, tanukonam, titcanapalai 1, titcanapalaimaram, uba, uga, ughaiputtai, uka, ukai, ukamaram, ukattekku, ukaver, upa, uvay 1, velvigai, vikkinapalam, virutcanam\nTelugu (34): bhaara gaangu, chekkera-chettu, chinna-varagogu, chinnavaragogu, ghooria, ghunia, gogu, gone, gonia, goniya, gonni, gunia, kaarugogu, karugogu, pedda gogu, peddavara goki, peddavaragogu, peddavaragoki, peddavarajuvenki, peddawaragowenki, peddawaraguwenki, pennavaragogu, pinna-vera-gogu, pinnavaragogu, thuraka gogu, varagogu, varagoja, varagoki, varagu, veragogu, wara gogu, waragogu, waraguwenki, warangu-wenki",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/075b1ba44b6d5100c962e49f555de13f/xclkon/9d465fff1cb67579bd1fdb68eabadb47"
+  ],
+  "source_record_ids": [
+    "links-1328",
+    "links-1519"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/075b1ba44b6d5100c962e49f555de13f/xclkon/9d465fff1cb67579bd1fdb68eabadb47"
+    ],
+    "source_record_ids": [
+      "links-1328",
+      "links-1519"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/075b1ba44b6d5100c962e49f555de13f/xclkon/9d465fff1cb67579bd1fdb68eabadb47",
+          "Plant Name": "Salvadora persica",
+          "Status": "Found"
+        },
+        "source_plant_name": "Salvadora persica",
+        "source_record_id": "links-1328",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/075b1ba44b6d5100c962e49f555de13f/xclkon/9d465fff1cb67579bd1fdb68eabadb47"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/075b1ba44b6d5100c962e49f555de13f/xclkon/9d465fff1cb67579bd1fdb68eabadb47",
+          "Plant Name": "Salvadora persica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Salvadora persica Linn.",
+        "source_record_id": "links-1519",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/075b1ba44b6d5100c962e49f555de13f/xclkon/9d465fff1cb67579bd1fdb68eabadb47"
+      }
+    ],
+    "source_xplant_id": "075b1ba44b6d5100c962e49f555de13f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

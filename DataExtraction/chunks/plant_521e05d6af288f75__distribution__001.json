@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_521e05d6af288f75__distribution__001",
+  "plant_id": "plant_521e05d6af288f75",
+  "plant_name": "Phaseolus radiatus Linn.",
+  "botanical_name": "Vigna radiata",
+  "botanical_authority": "(L.) R. WILCZEK",
+  "family": "FABACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36/xclkon/861966854b6f061d45d7d5b7ca0eee42",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36"
+  ],
+  "source_record_ids": [
+    "links-1298",
+    "links-1299"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36/xclkon/861966854b6f061d45d7d5b7ca0eee42",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36"
+    ],
+    "source_record_ids": [
+      "links-1298",
+      "links-1299"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36/xclkon/861966854b6f061d45d7d5b7ca0eee42",
+          "Plant Name": "Phaseolus radiatus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Phaseolus radiatus Linn.",
+        "source_record_id": "links-1298",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36/xclkon/861966854b6f061d45d7d5b7ca0eee42"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36",
+          "Plant Name": "Vigna radiata (Linn) Wilczek.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vigna radiata (Linn) Wilczek.",
+        "source_record_id": "links-1299",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36"
+      }
+    ],
+    "source_xplant_id": "34e0474aa06f7828206ad2cc03c7fb36",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

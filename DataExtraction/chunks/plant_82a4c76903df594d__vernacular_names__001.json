@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_82a4c76903df594d__vernacular_names__001",
+  "plant_id": "plant_82a4c76903df594d",
+  "plant_name": "Pterospermum acerifolium Willd.",
+  "botanical_name": "Pterospermum acerifolium",
+  "botanical_authority": "WILLD.",
+  "family": "STERCULIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (8): kanak champa, kanaka-champa, kanakchampa, kaniar, kathachampa, latar chamba, later chamba, muchkund\nKannada (5): kanaka champaka, kanakacampaka, kanakachampa, kanakachampaka, rajataru\nMarathi (2): kanak-champo, karnikar\nSanskrit (7): Sanskrit CommentsX karnikara, karnikarah, ksatravrksa, mucakunda, mushukunda, padapotpala, parivyadha\nTamil (6): karenu, matsakanda, thadayamaram, turumotpalam, vennangu, vennanku\nTelugu (2): mathsyakanda, matsakanda",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b4081e222b0b912a46ae0f86016b991"
+  ],
+  "source_record_ids": [
+    "links-1297"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b4081e222b0b912a46ae0f86016b991"
+    ],
+    "source_record_ids": [
+      "links-1297"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b4081e222b0b912a46ae0f86016b991",
+          "Plant Name": "Pterospermum acerifolium Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pterospermum acerifolium Willd.",
+        "source_record_id": "links-1297",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b4081e222b0b912a46ae0f86016b991"
+      }
+    ],
+    "source_xplant_id": "1b4081e222b0b912a46ae0f86016b991",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

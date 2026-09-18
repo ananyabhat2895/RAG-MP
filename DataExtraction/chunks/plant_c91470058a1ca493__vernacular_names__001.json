@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_c91470058a1ca493__vernacular_names__001",
+  "plant_id": "plant_c91470058a1ca493",
+  "plant_name": "Taxus baccata Linn.",
+  "botanical_name": "Taxus wallichiana",
+  "botanical_authority": "ZUCC.",
+  "family": "TAXACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): english yew, irish yew\nHindi (15): barhmi, barmi, birch, birmi, brahmi, fhalsh, gallu, neyamdal, rakhal, rakhale, thuna, thuneer, thuner, thuno, zirnubbirmi\nMarathi (1): barmi\nSanskrit (9): Sanskrit CommentsX barahmi, granthi parna, manduparni, sthauneyaka, sthouneyaka, talisam, talisapatra, talisapatram, talispatra\nTamil (4): taleesapatri, talica pattiri, talicapattiri, thalisa pathri\nTibetan (2): ma thu i, ma thui",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8aa31f676d373d439a844b0cfc081853/xclkon/88ff95e12ea175e96fff7c57b2563984"
+  ],
+  "source_record_ids": [
+    "links-0645",
+    "links-1855"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8aa31f676d373d439a844b0cfc081853/xclkon/88ff95e12ea175e96fff7c57b2563984"
+    ],
+    "source_record_ids": [
+      "links-0645",
+      "links-1855"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8aa31f676d373d439a844b0cfc081853/xclkon/88ff95e12ea175e96fff7c57b2563984",
+          "Plant Name": "Taxus baccata Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Taxus baccata Linn.",
+        "source_record_id": "links-0645",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8aa31f676d373d439a844b0cfc081853/xclkon/88ff95e12ea175e96fff7c57b2563984"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8aa31f676d373d439a844b0cfc081853/xclkon/88ff95e12ea175e96fff7c57b2563984",
+          "Plant Name": "Taxus baccata",
+          "Status": "Found"
+        },
+        "source_plant_name": "Taxus baccata",
+        "source_record_id": "links-1855",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8aa31f676d373d439a844b0cfc081853/xclkon/88ff95e12ea175e96fff7c57b2563984"
+      }
+    ],
+    "source_xplant_id": "8aa31f676d373d439a844b0cfc081853",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

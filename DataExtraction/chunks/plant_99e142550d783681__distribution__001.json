@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_99e142550d783681__distribution__001",
+  "plant_id": "plant_99e142550d783681",
+  "plant_name": "Caesalpinia bonducella",
+  "botanical_name": "Caesalpinia bonduc",
+  "botanical_authority": "(L.) ROXB.",
+  "family": "CAESALPINIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol I\nDistribution entry: author: Author - A.E. Osmaston; distribution: Distribution; title: Title - A Forest Flora for Kumaon\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8771ef45a4117aec066c75b5b5a8f76a/xclkon/9352cc4c494e6878de04bb6fcd3f8925"
+  ],
+  "source_record_ids": [
+    "links-1294"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8771ef45a4117aec066c75b5b5a8f76a/xclkon/9352cc4c494e6878de04bb6fcd3f8925"
+    ],
+    "source_record_ids": [
+      "links-1294"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8771ef45a4117aec066c75b5b5a8f76a/xclkon/9352cc4c494e6878de04bb6fcd3f8925",
+          "Plant Name": "Caesalpinia bonducella",
+          "Status": "Found"
+        },
+        "source_plant_name": "Caesalpinia bonducella",
+        "source_record_id": "links-1294",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8771ef45a4117aec066c75b5b5a8f76a/xclkon/9352cc4c494e6878de04bb6fcd3f8925"
+      }
+    ],
+    "source_xplant_id": "8771ef45a4117aec066c75b5b5a8f76a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

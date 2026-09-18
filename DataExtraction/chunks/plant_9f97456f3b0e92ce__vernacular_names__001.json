@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_9f97456f3b0e92ce__vernacular_names__001",
+  "plant_id": "plant_9f97456f3b0e92ce",
+  "plant_name": "Lannea grandis (Dennst.) Engl.",
+  "botanical_name": "Lannea coromandelica",
+  "botanical_authority": "(HOUTT.) MERRILL",
+  "family": "ANACARDIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (28): ghinghan, ginyan, goda, a, godal, gojala, golar, gurjan, jhingam, jhingan, jingam, jingan, jingan-ki-gond, kaimil, kalmina, kamlai, kashmal, kashmala, kehmal, kehmbel, kehmble, khirni, kiamil, kimul, mohin, moween, moyen, salambra, thingam\nKannada (46): ajashringi, ajasringi, ajasryngi, bungaro, dhumpaari, dhumpari, dhumpila, dumpilli, geru, godan, godda, goddal mara, godde, goddel, goddi mara, gogal, gojal, gojjal, haleberi, hennu godda, jhigisee mara, kurathige, kuratige, kuratike, kurutige, kurutike, manjistha, mohimara, oodeemara, poonil, poonu, punaelemara, punal, puneb, punele, punli, puvil, shimtee, shimti, shinti, sintee mara, sinti, udee mara, udi, udi mara, wodiana\nMalayalam (21): anakkaram, annakara, annakare, ennakara, kalasan, kalash, kalasu, kalayam, kalayasam, kalesjam, karasu, karayam, oti, otiyamaram, thingam, udi, udi-maram, udimaram, uthi, uti, wodier\nMarathi (12): magir, mogeer, moi, moja, moya, moye, munidi, muya, shemat, shimat, shimti, shinti\nSanskrit (17): Sanskrit CommentsX ajashringi, ajasringgi, ajasringi, gudamanjari, gudhamanjari, jhingi, jhingini, jingini, jivala, kvala, manjari, netrashuddhi, netraushadhi, parvati, pramodini, suniryasa, tumbi\nTamil (51): acacirinki, anaikarai, anaikkarai, anicarra, appariyantam#, appariyantam@, appiriya, appiriyam, appiriyataru, aticarampokki, cakkaracireni, cantamarutavirutcam, catcuciyam 2, cinkini 1, irattacosani, kakausil, kalasan, kanacirinki, mirutuputpi, motakam, motakam 1, neyttor, odi, odia maram, odiya-maram, odiyam, odiyamaram, odiyan, othiyamaram, oti, otikai, otirai, otiya maram, otiyam, otiyampattai, otiyan, pacalatti 3, pacantiriyam, pakulankicam, peruti, punnacam, udayan, udi, udimaram, urisa, uthian, utiramaram, utiyamaram, viranacani, vodiyar, wodier\nTelugu (32): appiriyada, athopoo chettu, dampara, dhumpaari, dhumpari, dumper, dumperti, dumpidi, dumpilli, dumpini, dumpri, gampina, ganpani, goompana chettu, gumapan, gumapani, gumpena, gumpena chettu, gumpeni, gumpina, gumpini, gumpira, gumpirie, gumpna, kumpani, oddi, oddi-manu, oddimanu, othipoo, vaddi, voddapu, waddi\nTibetan (3): dzi ndza ni, dzi ndza ni (p), dzi ndzi ni (p)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de/xclkon/e465cb5437e4dc93479de2f06660d391"
+  ],
+  "source_record_ids": [
+    "links-0657"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de/xclkon/e465cb5437e4dc93479de2f06660d391"
+    ],
+    "source_record_ids": [
+      "links-0657"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de/xclkon/e465cb5437e4dc93479de2f06660d391",
+          "Plant Name": "Lannea grandis (Dennst.) Engl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lannea grandis (Dennst.) Engl.",
+        "source_record_id": "links-0657",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de/xclkon/e465cb5437e4dc93479de2f06660d391"
+      }
+    ],
+    "source_xplant_id": "ce649c9b00910b5bc2e1f3e8b02ca0de",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

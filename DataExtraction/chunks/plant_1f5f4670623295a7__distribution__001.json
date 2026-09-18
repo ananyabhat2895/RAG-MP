@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_1f5f4670623295a7__distribution__001",
+  "plant_id": "plant_1f5f4670623295a7",
+  "plant_name": "Physalis minima Linn.",
+  "botanical_name": "Physalis minima",
+  "botanical_authority": "L.",
+  "family": "SOLANACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ff9145d6e604e401343c4d074dd47fc"
+  ],
+  "source_record_ids": [
+    "links-0246",
+    "links-1927"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ff9145d6e604e401343c4d074dd47fc"
+    ],
+    "source_record_ids": [
+      "links-0246",
+      "links-1927"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ff9145d6e604e401343c4d074dd47fc",
+          "Plant Name": "Physalis minima Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Physalis minima Linn.",
+        "source_record_id": "links-0246",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ff9145d6e604e401343c4d074dd47fc"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ff9145d6e604e401343c4d074dd47fc",
+          "Plant Name": "Physalis Minima",
+          "Status": "Found"
+        },
+        "source_plant_name": "Physalis Minima",
+        "source_record_id": "links-1927",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ff9145d6e604e401343c4d074dd47fc"
+      }
+    ],
+    "source_xplant_id": "5ff9145d6e604e401343c4d074dd47fc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

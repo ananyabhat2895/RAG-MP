@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_087e3602b423e373__identification__001",
+  "plant_id": "plant_087e3602b423e373",
+  "plant_name": "Marsdenia tenacissima",
+  "botanical_name": "Marsdenia tenacissima",
+  "botanical_authority": "(ROXB.) MOON",
+  "family": "ASCLEPIADACEAE",
+  "section": "identification",
+  "content": "Plant name: Marsdenia tenacissima Botanical name: Marsdenia tenacissima Botanical authority: (ROXB.) MOON Family: ASCLEPIADACEAE Source xplant ID: 55932a997069277821e1beb2addca1f5",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55932a997069277821e1beb2addca1f5"
+  ],
+  "source_record_ids": [
+    "links-1326",
+    "links-1327",
+    "links-1983"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55932a997069277821e1beb2addca1f5"
+    ],
+    "source_record_ids": [
+      "links-1326",
+      "links-1327",
+      "links-1983"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55932a997069277821e1beb2addca1f5",
+          "Plant Name": "Marsdenia tenacissima",
+          "Status": "Found"
+        },
+        "source_plant_name": "Marsdenia tenacissima",
+        "source_record_id": "links-1326",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55932a997069277821e1beb2addca1f5"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55932a997069277821e1beb2addca1f5",
+          "Plant Name": "Marsdenia tenacissima W. & A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Marsdenia tenacissima W. & A.",
+        "source_record_id": "links-1327",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55932a997069277821e1beb2addca1f5"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55932a997069277821e1beb2addca1f5",
+          "Plant Name": "Marsdenia tenacissima W & A",
+          "Status": "Found"
+        },
+        "source_plant_name": "Marsdenia tenacissima W & A",
+        "source_record_id": "links-1983",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55932a997069277821e1beb2addca1f5"
+      }
+    ],
+    "source_xplant_id": "55932a997069277821e1beb2addca1f5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

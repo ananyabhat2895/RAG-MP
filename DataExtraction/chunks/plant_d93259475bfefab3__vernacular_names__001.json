@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_d93259475bfefab3__vernacular_names__001",
+  "plant_id": "plant_d93259475bfefab3",
+  "plant_name": "Bambusa arundinacea Retz.",
+  "botanical_name": "Bambusa arundinacea",
+  "botanical_authority": "WILLD.",
+  "family": "BAMBUSACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): male or spiny bamboo\nHindi (18): bams, bans, bans-kapur, bans-lochan, kanta bans, kanta-baus, kantabams, kantabans, katang, kattang, magar, magar (cultivated), magarbans, maggar, malbans, nari, vnahada, vnahado\nKannada (39): ande bidiru, andebidarus, andebidiru, bambu, bedru, bidaru, bidaruppu, bidirina mele, bidirna gala, bidiru, bidirumale, bidru, bidungulu, biduru, bombu, davage, dhattai, dongi, elubidiru, gala, gale, galu, gatte, hebbedru, hebbidaru, hebbidiru, hebbidru, hebbiduru, hennu bidiru, hennubidiru, hennubidru, hobbedru, hobbidiru, kalale, kaneera, karira, kirubidiru, tavakshira, vamshalochana\nMalayalam (24): illi, ily, kampu, kaniyaram, karmmaram, llli, mola, mole-uppa, moola, moolah, moongil, mula, mulla, mullmoollah, mulmula, mulmulam, mungil, pattil, tejanam, trinadhvajan, trynadhvajam, valiyamula, velliamolla, venu\nMarathi (10): bamboo, chivari, kalak, kallak, kallk, kantis, mandga, mandgay, nagotbelu, velu\nSanskrit (63): Sanskrit CommentsX a, bahupallava, bansalochana, brihattrina, dhanurdruma, dhatushya, dridhagranthi, dridhakanda, dridhapatra, duraruha, kamatha, kantaki, kantalu, karmmar vamsavidala, kicaka, kichaka, kilati, kishkuparva, kushirandhra, mahabala, maskara, mrityubija, navagragandha, phalantaka, purvayoni, pushpaghataka, sataparva, shataparva, shatpadalaya, suparva, suparvan, tajana, tavakshiri, tejana, trinadhvaja, trinadwajab, trinaketu, trinaketuka, trnadhvaja, tugakshiri, tvachisara, tvakasara, tvaksara, twak-kshira, vadaniya, vaishnavi, vamnsa-lavanum, vamsa, vamsah, vamsaja, vamsalekhana, vamsalocana, vamsavalekha, vamsavalekhana, vamsha, vansa, vansha, vanya, venu, venuh, venulavanam, yavaphala, yavavenu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1b3bf4ab82b51c86164353d81c0b5d6"
+  ],
+  "source_record_ids": [
+    "links-0279",
+    "links-2044"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1b3bf4ab82b51c86164353d81c0b5d6"
+    ],
+    "source_record_ids": [
+      "links-0279",
+      "links-2044"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1b3bf4ab82b51c86164353d81c0b5d6",
+          "Plant Name": "Bambusa arundinacea Retz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bambusa arundinacea Retz.",
+        "source_record_id": "links-0279",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1b3bf4ab82b51c86164353d81c0b5d6"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1b3bf4ab82b51c86164353d81c0b5d6",
+          "Plant Name": "Bambusa arundinacea Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bambusa arundinacea Willd.",
+        "source_record_id": "links-2044",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1b3bf4ab82b51c86164353d81c0b5d6"
+      }
+    ],
+    "source_xplant_id": "c1b3bf4ab82b51c86164353d81c0b5d6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

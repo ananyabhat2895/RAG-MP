@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_17bfa4715227c275__vernacular_names__001",
+  "plant_id": "plant_17bfa4715227c275",
+  "plant_name": "Bauhinia vahlii W. & A.",
+  "botanical_name": "Bauhinia vahlii",
+  "botanical_authority": "WIGHT & ARN.",
+  "family": "CAESALPINIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (14): jallaur, jallur, mahul, majaup, malghan, maljan, maljhan, malo, malu, maulein, maurain, taur, tor, tour\nKannada (8): aanepaada, ane-padu, anepadu, anipadu, hepparige, kambihoo, kambihu, kambu\nMalayalam (1): mottanvalli\nMarathi (7): chambal, chambeli, chambil, chambuli, chambura, charbor, maljan\nSanskrit (3): Sanskrit CommentsX asmantaka, malanjhana, murva\nTamil (3): adda, kattumandarai, mandarai\nTelugu (17): aadathige, adattige, adda, adda teega, addaku, addatiga, addatige, basaanapadaduga, basaanapadadugu, madapu, madapu tige, madaputiga, madupu, medapu, mudupu, parkay tige, parutakulu tige",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdde7b4fb44547c717301fdfe633c6ca"
+  ],
+  "source_record_ids": [
+    "links-0182",
+    "links-1313"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdde7b4fb44547c717301fdfe633c6ca"
+    ],
+    "source_record_ids": [
+      "links-0182",
+      "links-1313"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdde7b4fb44547c717301fdfe633c6ca",
+          "Plant Name": "Bauhinia vahlii W. & A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bauhinia vahlii W. & A.",
+        "source_record_id": "links-0182",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdde7b4fb44547c717301fdfe633c6ca"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdde7b4fb44547c717301fdfe633c6ca",
+          "Plant Name": "Bauhinia vahlii",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bauhinia vahlii",
+        "source_record_id": "links-1313",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdde7b4fb44547c717301fdfe633c6ca"
+      }
+    ],
+    "source_xplant_id": "bdde7b4fb44547c717301fdfe633c6ca",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

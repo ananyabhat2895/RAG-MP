@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_bdd6c2721c6b2da6__images__001",
+  "plant_id": "plant_bdd6c2721c6b2da6",
+  "plant_name": "Euphorbia hypericifolia Linn.",
+  "botanical_name": "Euphorbia hypericifolia",
+  "botanical_authority": "L.",
+  "family": "EUPHORBIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82f13c7c2f496be68410a6f54dd5b901"
+  ],
+  "source_record_ids": [
+    "links-0542"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82f13c7c2f496be68410a6f54dd5b901"
+    ],
+    "source_record_ids": [
+      "links-0542"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82f13c7c2f496be68410a6f54dd5b901",
+          "Plant Name": "Euphorbia hypericifolia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia hypericifolia Linn.",
+        "source_record_id": "links-0542",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82f13c7c2f496be68410a6f54dd5b901"
+      }
+    ],
+    "source_xplant_id": "82f13c7c2f496be68410a6f54dd5b901",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

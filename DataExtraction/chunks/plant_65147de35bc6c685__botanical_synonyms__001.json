@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_65147de35bc6c685__botanical_synonyms__001",
+  "plant_id": "plant_65147de35bc6c685",
+  "plant_name": "Triumfetta rhomboidea Jack.",
+  "botanical_name": "Triumfetta rhomboidea",
+  "botanical_authority": "JACQ.",
+  "family": "TILIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Trimufetta rhomboidea JACQ. Triumfetta bartramia L. X Full Botanical citation - Triumfetta bartramia L., Syst. Nat. ed. 10.2: 1044. 1759; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 152. 1999.\nSynonym: Trimufetta rhomboidea JACQ.\nSynonym: Triumfetta bartramia L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcce1ec86f24f6da681fb23f80151b5e"
+  ],
+  "source_record_ids": [
+    "links-0795"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcce1ec86f24f6da681fb23f80151b5e"
+    ],
+    "source_record_ids": [
+      "links-0795"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcce1ec86f24f6da681fb23f80151b5e",
+          "Plant Name": "Triumfetta rhomboidea Jack.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Triumfetta rhomboidea Jack.",
+        "source_record_id": "links-0795",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcce1ec86f24f6da681fb23f80151b5e"
+      }
+    ],
+    "source_xplant_id": "bcce1ec86f24f6da681fb23f80151b5e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

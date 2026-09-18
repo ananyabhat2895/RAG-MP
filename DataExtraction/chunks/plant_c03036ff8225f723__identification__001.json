@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_c03036ff8225f723__identification__001",
+  "plant_id": "plant_c03036ff8225f723",
+  "plant_name": "Phragmites maxima Blatter & McCann.",
+  "botanical_name": "Phragmites karka",
+  "botanical_authority": "TRIN. EX STEUD.",
+  "family": "POACEAE",
+  "section": "identification",
+  "content": "Plant name: Phragmites maxima Blatter & McCann. Botanical name: Phragmites karka Botanical authority: TRIN. EX STEUD. Family: POACEAE Source xplant ID: 130721dc95f6a7e5434c31359fc34c32",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32/xclkon/88e1880a90e63e7e12391cd7dee811a0",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32"
+  ],
+  "source_record_ids": [
+    "links-1371",
+    "links-1372"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32/xclkon/88e1880a90e63e7e12391cd7dee811a0",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32"
+    ],
+    "source_record_ids": [
+      "links-1371",
+      "links-1372"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32/xclkon/88e1880a90e63e7e12391cd7dee811a0",
+          "Plant Name": "Phragmites maxima Blatter & McCann.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Phragmites maxima Blatter & McCann.",
+        "source_record_id": "links-1371",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32/xclkon/88e1880a90e63e7e12391cd7dee811a0"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32",
+          "Plant Name": "Phragmites karka Trin. Ex. Steud.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Phragmites karka Trin. Ex. Steud.",
+        "source_record_id": "links-1372",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32"
+      }
+    ],
+    "source_xplant_id": "130721dc95f6a7e5434c31359fc34c32",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

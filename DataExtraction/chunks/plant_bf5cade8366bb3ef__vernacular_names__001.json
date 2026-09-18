@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_bf5cade8366bb3ef__vernacular_names__001",
+  "plant_id": "plant_bf5cade8366bb3ef",
+  "plant_name": "Glinus oppositifolius",
+  "botanical_name": "Glinus oppositifolius",
+  "botanical_authority": "(L.) A.DC.",
+  "family": "AIZOACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (1): jima\nKannada (4): chadaraasi gida, chadaraasi soppu, hachhu chadaraasi soppu, parpataka\nMalayalam (3): kaipajira, kalpa-tsjira, koluppa\nMarathi (2): jharasi, khadi-bhaji\nSanskrit (6): Sanskrit CommentsX grishma-sundaraka, grishmaja, lonika, parpata, phanija, ushnasundara\nTamil (59): caci3, cacinikam2, cacippuntu, caki2, catalam2, catalappuntu, cattala, cempukkulkariyamkutti, cenaniyacanaka, cikariccaram, cikattu, conakappul, kaccan tura, kachantarai, kirutturuni, mantiri, meta 1, murical, otuvatakki1, palapattiram, pampam, pampantiray, pampantirayppuntu, pampantra, parankittiray, peruntara, peruntaracceti, peruntiray, pulittiray, takal1, takan, tara1, taray@, tarayilaicceti, thera, thira, thura, thura poondu, tiranari, tirappuntu, tiray, tirenti, tirentikam, tiruvilam2, tiruvilappuntu#, tiruvilappuntu@, tiruvilapputu, tiyanti, toora elley, toora-ellay, tura, tura elai, turapoondu, turayilaippuntu, turuvam, varuni, vatala, vimalavala, vimiyala\nTelugu (6): chalaraashi koora, chayuntarashi, chayuntarashi aaku, chayuntarashiaku, chetarasikoora, pilaka saare",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28c3dc1e341a3546b10d37e26e480b04"
+  ],
+  "source_record_ids": [
+    "links-2030"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28c3dc1e341a3546b10d37e26e480b04"
+    ],
+    "source_record_ids": [
+      "links-2030"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28c3dc1e341a3546b10d37e26e480b04",
+          "Plant Name": "Glinus oppositifolius",
+          "Status": "Found"
+        },
+        "source_plant_name": "Glinus oppositifolius",
+        "source_record_id": "links-2030",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28c3dc1e341a3546b10d37e26e480b04"
+      }
+    ],
+    "source_xplant_id": "28c3dc1e341a3546b10d37e26e480b04",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

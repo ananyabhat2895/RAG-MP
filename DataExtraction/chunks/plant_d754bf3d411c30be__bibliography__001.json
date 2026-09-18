@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d754bf3d411c30be__bibliography__001",
+  "plant_id": "plant_d754bf3d411c30be",
+  "plant_name": "Salix tetrasperma Roxb.",
+  "botanical_name": "Salix tetrasperma",
+  "botanical_authority": "ROXB.",
+  "family": "SALICACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - DR.P.N.V.KURUP, DR.V.N.K.RAMADAS & JOSHI,P; title: Title - A HANDBOOK OF MEDICINAL PLANTS\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol. II\nBibliography entry: title: Title - Flora of Bankura District(West Bengal)\nBibliography entry: title: Title - Flora of Rajasthan Vol.2\nBibliography entry: title: Title - Flora of Gujarat State Vol 2\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol II\nBibliography entry: title: Title - FOREST FLORA OF MEGHALAYA VOL 2\nBibliography entry: title: Title - A Forest Flora for Kumaon\nBibliography entry: title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nBibliography entry: title: Title - Flora of Majuli\nBibliography entry: title: Title - The Flora of Orissa Vol III\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/202c38ee4b9c4d731da2ab5a4abd9f52"
+  ],
+  "source_record_ids": [
+    "links-0758"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/202c38ee4b9c4d731da2ab5a4abd9f52"
+    ],
+    "source_record_ids": [
+      "links-0758"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/202c38ee4b9c4d731da2ab5a4abd9f52",
+          "Plant Name": "Salix tetrasperma Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Salix tetrasperma Roxb.",
+        "source_record_id": "links-0758",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/202c38ee4b9c4d731da2ab5a4abd9f52"
+      }
+    ],
+    "source_xplant_id": "202c38ee4b9c4d731da2ab5a4abd9f52",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

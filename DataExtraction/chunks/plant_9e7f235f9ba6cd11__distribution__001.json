@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_9e7f235f9ba6cd11__distribution__001",
+  "plant_id": "plant_9e7f235f9ba6cd11",
+  "plant_name": "Hedychium spicatum Ham. ex Smith.",
+  "botanical_name": "Hedychium spicatum",
+  "botanical_authority": "BUCH.-HAM.",
+  "family": "ZINGIBERACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol III",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86da902d72336fd05c674e47ca98f36c"
+  ],
+  "source_record_ids": [
+    "links-1772"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86da902d72336fd05c674e47ca98f36c"
+    ],
+    "source_record_ids": [
+      "links-1772"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86da902d72336fd05c674e47ca98f36c",
+          "Plant Name": "Hedychium spicatum Ham. ex Smith.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hedychium spicatum Ham. ex Smith.",
+        "source_record_id": "links-1772",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86da902d72336fd05c674e47ca98f36c"
+      }
+    ],
+    "source_xplant_id": "86da902d72336fd05c674e47ca98f36c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

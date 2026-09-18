@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5c42f2323c6602b9__botanical_synonyms__001",
+  "plant_id": "plant_5c42f2323c6602b9",
+  "plant_name": "Murraya koenigii Spreng.",
+  "botanical_name": "Murraya koenigii",
+  "botanical_authority": "(L.) SPR.",
+  "family": "RUTACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Bergera koenigii L. X Full Botanical citation - Bergera koenigii L., Mant. Pl. Alt. 563. 1771; K.N. Nair & M.P. Nayar in Hajra & al., Fl. India 4: 351. 1997.\nSynonym: Bergera koenigii L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af44637aa5f0732b104e377cf264567e"
+  ],
+  "source_record_ids": [
+    "links-0832"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af44637aa5f0732b104e377cf264567e"
+    ],
+    "source_record_ids": [
+      "links-0832"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af44637aa5f0732b104e377cf264567e",
+          "Plant Name": "Murraya koenigii Spreng.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Murraya koenigii Spreng.",
+        "source_record_id": "links-0832",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af44637aa5f0732b104e377cf264567e"
+      }
+    ],
+    "source_xplant_id": "af44637aa5f0732b104e377cf264567e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

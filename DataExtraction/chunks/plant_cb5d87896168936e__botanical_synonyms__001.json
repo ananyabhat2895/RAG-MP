@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_cb5d87896168936e__botanical_synonyms__001",
+  "plant_id": "plant_cb5d87896168936e",
+  "plant_name": "Sesamum indicum Linn.",
+  "botanical_name": "Sesamum indicum",
+  "botanical_authority": "L.",
+  "family": "PEDALIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Sesamum orientale L. X Full Botanical citation - Sesamum orientale L., Sp. Pl. 634. 1753; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 519.1999.\nSynonym: Sesamum orientale L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/705add10c81b2324e15906c748d395db"
+  ],
+  "source_record_ids": [
+    "links-1941"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/705add10c81b2324e15906c748d395db"
+    ],
+    "source_record_ids": [
+      "links-1941"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/705add10c81b2324e15906c748d395db",
+          "Plant Name": "Sesamum indicum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesamum indicum Linn.",
+        "source_record_id": "links-1941",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/705add10c81b2324e15906c748d395db"
+      }
+    ],
+    "source_xplant_id": "705add10c81b2324e15906c748d395db",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

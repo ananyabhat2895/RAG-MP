@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_3728486931c9ff16__vernacular_names__001",
+  "plant_id": "plant_3728486931c9ff16",
+  "plant_name": "Erycibe paniculata Roxb.",
+  "botanical_name": "Erycibe paniculata",
+  "botanical_authority": "ROXB.",
+  "family": "CONVOLVULACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (1): katapergu\nKannada (9): ankola balli, ankole, krimighna, krymighna, sengarballi, singaaraballi, singaru balli, uhiniambu, vayla balli\nMalayalam (4): erima-tali, erimiatali, irimpiyatali, irupiyatali\nSanskrit (1): Sanskrit CommentsX asokarohini\nTamil (2): unamkodi, unankodi\nTelugu (3): putta palatige, puttapaalathige, puttapalatige",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08881b138837b1539bb51f3685be0cd3"
+  ],
+  "source_record_ids": [
+    "links-0197"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08881b138837b1539bb51f3685be0cd3"
+    ],
+    "source_record_ids": [
+      "links-0197"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08881b138837b1539bb51f3685be0cd3",
+          "Plant Name": "Erycibe paniculata Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Erycibe paniculata Roxb.",
+        "source_record_id": "links-0197",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08881b138837b1539bb51f3685be0cd3"
+      }
+    ],
+    "source_xplant_id": "08881b138837b1539bb51f3685be0cd3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_aa1353c97b7b3b7e__vernacular_names__001",
+  "plant_id": "plant_aa1353c97b7b3b7e",
+  "plant_name": "Gossypium arboreum Linn.",
+  "botanical_name": "Gossypium arboreum",
+  "botanical_authority": "L.",
+  "family": "MALVACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): tree cotton\nHindi (8): deokapas, diyokapas, kapas, kapas-ka-per, kapaska-per, nurma, nutma, rui\nKannada (15): anji, bangaali hathhi, daevakapaas, hanji, hatti, hatti-gida, jade-hatti-gida, jadehatthi, karee hatthi, kari hatthi, karibatthi, karihatti, karunganni hatthi, kirungani, marahatthi\nMalayalam (8): cemparutti, chemparutti, cudu-pariti, kanuparutti, kattuparutti, muripparutti, parittich-cheti, parutti\nMarathi (4): devakaapoos, devakapusa, kapsin, rankapus\nSanskrit (9): Sanskrit CommentsX anagnika, karpas, karpasa, karpasa-vrikshaha, karpasah, karpasaha, karpasamu, raksatika, tundakesi\nTamil (96): alattakam, alattam2, alattuparutti, ampurukam, arali, arattam2, aruttarali, aruttirali, aviyatam, ayamparutti, cakoraki, cakorakicceti, cakoram, capa, capakucumam, capakuyamam, capaputpa, capatan, capattippu, cappatticceti2, cappattu3, cappattucceti, carutanilnakankatti, celumaitelinili, cempa, cemparattanceti, cemparikacceti, cemparutti, cempatai, cempumaramuttam, ceppita, ceppitapparattai, cevali, cevvarattai, cevvarattam, chemparuthi, chemparuththi, cinacappattucceti, cinapparutti, civakaliyal, civamparattam, civamparattanceti, civantamalarparutti, civantavecai, civanvecai, civattaci1, civattaci2, civattacikacceti, civattacikam1, civattacikam2, civattaki, civattataci1, civattataci2, civattatci, civavecai, civavecaicceti, conapputu, inamekappu, irattacatanapalam, irattakarpacam, irattaputpi1, kucumavari, kunkumapparutti, kunkumapparuttiracceti, mallikati, mallikaticceti, mativavi, mativavicceti, mekacatani, mutanattimuli, nakkinam1, orraiccemparattampu, palavataippuntu, pali, parattai, parunilicceti, parunilimuli, paruthi, paruthivithai, parutti-chedi, puratamanci, rattakarpacam, rattankarpacacceti, ruttiraputpi, ruttiraputpicceti, sembaruthi, sembarutti, semparuthi, semparuththi, semparutti, tacanapu, tacanpu, tamalomaya, tarupaka, tiruttikkiritam, uruttiraputpam\nTelugu (8): doodhi, karpasamu, paminda pratti, patthi, patti, patti-chettu, praththi, pratti\nUrdu (1): maghz pumba dana",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/44706a0b7c307ec6ca0827237f53ee2f"
+  ],
+  "source_record_ids": [
+    "links-0981"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/44706a0b7c307ec6ca0827237f53ee2f"
+    ],
+    "source_record_ids": [
+      "links-0981"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/44706a0b7c307ec6ca0827237f53ee2f",
+          "Plant Name": "Gossypium arboreum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gossypium arboreum Linn.",
+        "source_record_id": "links-0981",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/44706a0b7c307ec6ca0827237f53ee2f"
+      }
+    ],
+    "source_xplant_id": "44706a0b7c307ec6ca0827237f53ee2f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

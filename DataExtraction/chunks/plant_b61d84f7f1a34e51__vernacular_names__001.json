@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b61d84f7f1a34e51__vernacular_names__001",
+  "plant_id": "plant_b61d84f7f1a34e51",
+  "plant_name": "Datura stramonium Linn.",
+  "botanical_name": "Datura stramonium",
+  "botanical_authority": "L.",
+  "family": "SOLANACEAE",
+  "section": "vernacular_names",
+  "content": "English (10): apple-of-peru, devil s-apple, jamestown weed, jimson or jamestown weed, jimsonweed, mad apple, stinkweed, stramonium, thorn weed, thorn-apple\nHindi (4): datura, dhatura, dhaturo, kala dhatura\nKannada (27): bili unmatthi, bilidatthoora, bilidattura, biliummatti, biliyummatta, datthoori, datthoori gida, dattura, datturi, dhattura, dhustura, duttura, dutturi, kariummatti, kariyummatta, kariyummatte, madaguniki, maddu gunike, maddugunike, madgunike, madugunika, umbatta, umbe, ummata, ummathi, ummatta, unmatta\nMalayalam (6): hummatoo, hummatu, matulam, ummam, ummata, ummattam\nSanskrit (40): Sanskrit CommentsX devika, dhattura, dhatturah, dhurta, dhurtakrit, dhustura, dhuttura, dhutturapatra, ghantapushpa, ghantika, harava, kahalapushpa, kalama, kanaka, kanakaohaya, kantaphala, khala, kharadushana, kharjhugna, kitava, llabha, madakara, madana, madanaka, mahamohi, mahashatha, matta, matula, matulaka, mohana, purimoha, rajadhattura, savisha, shaiva, shatha, shivapriya, shivashekhara, shyama, turi, unmatta\nTamil (26): cakamuli@, cimai umattai, cimaiyumattai, citatitavikam, cokkitakacceti, cokkitakam, emanacam, emanamam, kacamatukam, kanakakuvayam, kanakariyam, kanakavayam2, karccakkinam3, katitamaru, koram2, okati, okaticceti, oomaththan, oomathu, simaiyumattai, turuturam, umaddai, umatai, umathai, umattai, vellumattai\nTelugu (11): dutthuramu, dutturamu, nalla ummettha, tella vumetta, tellaoomatie, tellavummetta, thellaummetha, thellavumettha, ummeta, ummetta, ummettha\nUrdu (4): dhatoora, dhatura, qunain, tukhm dhatura safaid",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ad5a65c663fd952870a71abe7c38d6aa"
+  ],
+  "source_record_ids": [
+    "links-0518"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ad5a65c663fd952870a71abe7c38d6aa"
+    ],
+    "source_record_ids": [
+      "links-0518"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ad5a65c663fd952870a71abe7c38d6aa",
+          "Plant Name": "Datura stramonium Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Datura stramonium Linn.",
+        "source_record_id": "links-0518",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ad5a65c663fd952870a71abe7c38d6aa"
+      }
+    ],
+    "source_xplant_id": "ad5a65c663fd952870a71abe7c38d6aa",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

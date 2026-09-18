@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_3cd2227ddeeaa77d__vernacular_names__001",
+  "plant_id": "plant_3cd2227ddeeaa77d",
+  "plant_name": "Adiantum lunulatum Burm.",
+  "botanical_name": "Adiantum lunulatum",
+  "botanical_authority": "L.",
+  "family": "ADIANTACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (9): dung tuli, hansapadi, hansapagi, hansraj, kali-jhant, kalijhamp, kalijhant, paresiyavasan, raja-hamsa\nKannada (2): hamsapaadi, navalad\nMalayalam (2): avenka, nilamparanta\nMarathi (6): ghodkhuri, godepavlam, hansraj, kamsaraj, rajhans, supli\nSanskrit (32): Sanskrit CommentsX brahmadani, chitrapada, dharttarashtrapadi, ghritamandalika, godhangri, godhapadika, hamsahvaya, hamsapadi, hamsatamrapadi, hansaghri, hansapadi, hansavati, karnati, kiramata, kirapadika, kitamari, kitamata, madhusrava, padangi, raja, raktapadi, sancharini, shitangi, sitangi, sutapadika, suvaka, tridala, tripadi, tripadika, triphala, vikranta, vishvagranthi\nTelugu (2): baariki, banda nevali",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/24eea74e50c84fcb55c65b6f48d5efe7"
+  ],
+  "source_record_ids": [
+    "links-0681"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/24eea74e50c84fcb55c65b6f48d5efe7"
+    ],
+    "source_record_ids": [
+      "links-0681"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/24eea74e50c84fcb55c65b6f48d5efe7",
+          "Plant Name": "Adiantum lunulatum Burm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Adiantum lunulatum Burm.",
+        "source_record_id": "links-0681",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/24eea74e50c84fcb55c65b6f48d5efe7"
+      }
+    ],
+    "source_xplant_id": "24eea74e50c84fcb55c65b6f48d5efe7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

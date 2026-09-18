@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_10eb2f7528bd405b__vernacular_names__001",
+  "plant_id": "plant_10eb2f7528bd405b",
+  "plant_name": "Digera muricata (Linn.) Mart.",
+  "botanical_name": "Digera muricata",
+  "botanical_authority": "(L.) MART.",
+  "family": "AMARANTHACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (7): gangatiya, khanjru, latmahuria, leshua, lesua, lisava, lolaru\nKannada (4): chenchali soppu, gorajapalya, goraji palya, kankali soppu\nMarathi (2): getna, gitana\nSanskrit (6): Sanskrit CommentsX aranya, aranyavastuka, kunanjara, kuranjara, kutinjar, manjarika\nTamil (18): kecani, kecanikkirai, kiraittoyili, kutiraiccali, kutiraiccalikkirai, thoyyakeerai, toiyyakkirai, toyil, toyilikkirai, toyya, toyyakkirai, toyyil, toyyili, tuyilaikkirai, tuyili, tuyilikkirai, ventoyili, ventoyilikkirai\nTelugu (6): chanchali, chanchalikoora, chenchalikoora, chenchalikura, chencheli-kura, kura",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ceeeec14102b5ea72e990a3834fb283"
+  ],
+  "source_record_ids": [
+    "links-1010"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ceeeec14102b5ea72e990a3834fb283"
+    ],
+    "source_record_ids": [
+      "links-1010"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ceeeec14102b5ea72e990a3834fb283",
+          "Plant Name": "Digera muricata (Linn.) Mart.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Digera muricata (Linn.) Mart.",
+        "source_record_id": "links-1010",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ceeeec14102b5ea72e990a3834fb283"
+      }
+    ],
+    "source_xplant_id": "3ceeeec14102b5ea72e990a3834fb283",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

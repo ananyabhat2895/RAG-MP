@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_098b8afc5231b09f__distribution__001",
+  "plant_id": "plant_098b8afc5231b09f",
+  "plant_name": "Ficus retusa",
+  "botanical_name": "Ficus microcarpa",
+  "botanical_authority": "L.F.",
+  "family": "MORACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - A.E. Osmaston; distribution: Distribution; title: Title - A Forest Flora for Kumaon\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893/xclkon/0a6b22a0bd35ea31fb2c60b3431bd7be"
+  ],
+  "source_record_ids": [
+    "links-1379",
+    "links-1380"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893/xclkon/0a6b22a0bd35ea31fb2c60b3431bd7be"
+    ],
+    "source_record_ids": [
+      "links-1379",
+      "links-1380"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893/xclkon/0a6b22a0bd35ea31fb2c60b3431bd7be",
+          "Plant Name": "Ficus retusa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus retusa",
+        "source_record_id": "links-1379",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893/xclkon/0a6b22a0bd35ea31fb2c60b3431bd7be"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893/xclkon/0a6b22a0bd35ea31fb2c60b3431bd7be",
+          "Plant Name": "Ficus retusa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus retusa Linn.",
+        "source_record_id": "links-1380",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893/xclkon/0a6b22a0bd35ea31fb2c60b3431bd7be"
+      }
+    ],
+    "source_xplant_id": "3719e478e95b8cb9f9c878eca7a7e893",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

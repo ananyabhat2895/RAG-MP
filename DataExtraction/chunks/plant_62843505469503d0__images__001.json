@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_62843505469503d0__images__001",
+  "plant_id": "plant_62843505469503d0",
+  "plant_name": "Trichosanthes anguina Linn.",
+  "botanical_name": "Trichosanthes anguina",
+  "botanical_authority": "L.",
+  "family": "CUCURBITACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7cedd9933155d80eb3d2383c720264b"
+  ],
+  "source_record_ids": [
+    "links-0452"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7cedd9933155d80eb3d2383c720264b"
+    ],
+    "source_record_ids": [
+      "links-0452"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7cedd9933155d80eb3d2383c720264b",
+          "Plant Name": "Trichosanthes anguina Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Trichosanthes anguina Linn.",
+        "source_record_id": "links-0452",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7cedd9933155d80eb3d2383c720264b"
+      }
+    ],
+    "source_xplant_id": "f7cedd9933155d80eb3d2383c720264b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_f44595802623628b__images__001",
+  "plant_id": "plant_f44595802623628b",
+  "plant_name": "Apium graveolens Linn.",
+  "botanical_name": "Apium graveolens",
+  "botanical_authority": "L.",
+  "family": "APIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7782f3ecbc08d61e8a52665f2a8008f7"
+  ],
+  "source_record_ids": [
+    "links-0050"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7782f3ecbc08d61e8a52665f2a8008f7"
+    ],
+    "source_record_ids": [
+      "links-0050"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7782f3ecbc08d61e8a52665f2a8008f7",
+          "Plant Name": "Apium graveolens Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Apium graveolens Linn.",
+        "source_record_id": "links-0050",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7782f3ecbc08d61e8a52665f2a8008f7"
+      }
+    ],
+    "source_xplant_id": "7782f3ecbc08d61e8a52665f2a8008f7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_92d83642d1ab9b1f__distribution__001",
+  "plant_id": "plant_92d83642d1ab9b1f",
+  "plant_name": "Croton tiglium Linn.",
+  "botanical_name": "Croton tiglium",
+  "botanical_authority": "L.",
+  "family": "EUPHORBIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - HARIDASAN K & RAO R R; distribution: Distribution; title: Title - FOREST FLORA OF MEGHALAYA VOL 2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43571a504bf9f216f52c30d05b77af64"
+  ],
+  "source_record_ids": [
+    "links-0532"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43571a504bf9f216f52c30d05b77af64"
+    ],
+    "source_record_ids": [
+      "links-0532"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43571a504bf9f216f52c30d05b77af64",
+          "Plant Name": "Croton tiglium Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Croton tiglium Linn.",
+        "source_record_id": "links-0532",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43571a504bf9f216f52c30d05b77af64"
+      }
+    ],
+    "source_xplant_id": "43571a504bf9f216f52c30d05b77af64",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

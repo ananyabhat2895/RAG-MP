@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_e5017f366a88682a__botanical_synonyms__001",
+  "plant_id": "plant_e5017f366a88682a",
+  "plant_name": "Bergenia Ligulata",
+  "botanical_name": "Bergenia ciliata",
+  "botanical_authority": "(HOW.) STERN.",
+  "family": "SAXIFRAGACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Bergenia ligulata SENSU BAILEY Saxifraga ligulata WALL.\nSynonym: Bergenia ligulata SENSU BAILEY\nSynonym: Saxifraga ligulata WALL.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/2465817c4a7dab9f66eb227768ec7ecb"
+  ],
+  "source_record_ids": [
+    "links-1472",
+    "links-1473",
+    "links-1474",
+    "links-1475"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/2465817c4a7dab9f66eb227768ec7ecb"
+    ],
+    "source_record_ids": [
+      "links-1472",
+      "links-1473",
+      "links-1474",
+      "links-1475"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/2465817c4a7dab9f66eb227768ec7ecb",
+          "Plant Name": "Bergenia Ligulata",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bergenia Ligulata",
+        "source_record_id": "links-1472",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/2465817c4a7dab9f66eb227768ec7ecb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/2465817c4a7dab9f66eb227768ec7ecb",
+          "Plant Name": "Bergenia ligulata (Wall)",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bergenia ligulata (Wall)",
+        "source_record_id": "links-1473",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/2465817c4a7dab9f66eb227768ec7ecb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/2465817c4a7dab9f66eb227768ec7ecb",
+          "Plant Name": "Bergenia ligulata (Wall.) Engl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bergenia ligulata (Wall.) Engl.",
+        "source_record_id": "links-1474",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/2465817c4a7dab9f66eb227768ec7ecb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/2465817c4a7dab9f66eb227768ec7ecb",
+          "Plant Name": "Bergenia ligulata (Wall.) Engle.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bergenia ligulata (Wall.) Engle.",
+        "source_record_id": "links-1475",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/2465817c4a7dab9f66eb227768ec7ecb"
+      }
+    ],
+    "source_xplant_id": "f1d049b12746b9fcb10349f82b32d0ec",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

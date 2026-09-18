@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_098b8afc5231b09f__botanical_synonyms__001",
+  "plant_id": "plant_098b8afc5231b09f",
+  "plant_name": "Ficus retusa",
+  "botanical_name": "Ficus microcarpa",
+  "botanical_authority": "L.F.",
+  "family": "MORACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Ficus retusa AUCT. NON L. X Full Botanical citation - Ficus retusa auct. non L., 1767; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 90. 1999.\nSynonym: Ficus retusa AUCT. NON L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893/xclkon/0a6b22a0bd35ea31fb2c60b3431bd7be"
+  ],
+  "source_record_ids": [
+    "links-1379",
+    "links-1380"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893/xclkon/0a6b22a0bd35ea31fb2c60b3431bd7be"
+    ],
+    "source_record_ids": [
+      "links-1379",
+      "links-1380"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893/xclkon/0a6b22a0bd35ea31fb2c60b3431bd7be",
+          "Plant Name": "Ficus retusa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus retusa",
+        "source_record_id": "links-1379",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893/xclkon/0a6b22a0bd35ea31fb2c60b3431bd7be"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893/xclkon/0a6b22a0bd35ea31fb2c60b3431bd7be",
+          "Plant Name": "Ficus retusa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus retusa Linn.",
+        "source_record_id": "links-1380",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893/xclkon/0a6b22a0bd35ea31fb2c60b3431bd7be"
+      }
+    ],
+    "source_xplant_id": "3719e478e95b8cb9f9c878eca7a7e893",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

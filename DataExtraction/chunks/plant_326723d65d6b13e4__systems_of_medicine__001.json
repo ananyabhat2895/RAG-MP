@@ -1,0 +1,71 @@
+{
+  "chunk_id": "plant_326723d65d6b13e4__systems_of_medicine__001",
+  "plant_id": "plant_326723d65d6b13e4",
+  "plant_name": "Tamarix troupii Hole.",
+  "botanical_name": "Tamarix indica",
+  "botanical_authority": "ROXB.",
+  "family": "TAMARICACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk Botanical Synonyms (2) - Tamarix gallica AUCT. NON.L. X Full Botanical citation - Tamarix gallica auct. non L. 1753; N.P.Singh & S. Karthikeyan in Fl. Maharastra\nSystem of medicine: Dicotyledones 1: 267. 2000. Tamarix troupii HOLE. X Full Botanical citation - Tamarix troupii Hole in Indian Forester 45: 247. 1919; N.P.Singh & S. Karthikeyan in Fl. Maharastra\nSystem of medicine: Dicotyledones 1: 267. 2000.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d9a068c199a63264dd61b8ea1699c83/xclkon/fcfbd248725443b978f43146fbac8540",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d9a068c199a63264dd61b8ea1699c83",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d9a068c199a63264dd61b8ea1699c83/xclkon/ed8329df880c5f369e48a6062d530450"
+  ],
+  "source_record_ids": [
+    "links-0790",
+    "links-0794",
+    "links-1203"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d9a068c199a63264dd61b8ea1699c83/xclkon/fcfbd248725443b978f43146fbac8540",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d9a068c199a63264dd61b8ea1699c83",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d9a068c199a63264dd61b8ea1699c83/xclkon/ed8329df880c5f369e48a6062d530450"
+    ],
+    "source_record_ids": [
+      "links-0790",
+      "links-0794",
+      "links-1203"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d9a068c199a63264dd61b8ea1699c83/xclkon/fcfbd248725443b978f43146fbac8540",
+          "Plant Name": "Tamarix troupii Hole.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tamarix troupii Hole.",
+        "source_record_id": "links-0790",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d9a068c199a63264dd61b8ea1699c83/xclkon/fcfbd248725443b978f43146fbac8540"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d9a068c199a63264dd61b8ea1699c83",
+          "Plant Name": "Tamarix indica Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tamarix indica Roxb.",
+        "source_record_id": "links-0794",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d9a068c199a63264dd61b8ea1699c83"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d9a068c199a63264dd61b8ea1699c83/xclkon/ed8329df880c5f369e48a6062d530450",
+          "Plant Name": "Tamarix gallica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tamarix gallica Linn.",
+        "source_record_id": "links-1203",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d9a068c199a63264dd61b8ea1699c83/xclkon/ed8329df880c5f369e48a6062d530450"
+      }
+    ],
+    "source_xplant_id": "5d9a068c199a63264dd61b8ea1699c83",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

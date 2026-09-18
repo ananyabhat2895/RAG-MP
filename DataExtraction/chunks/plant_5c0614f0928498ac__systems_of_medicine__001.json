@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_5c0614f0928498ac__systems_of_medicine__001",
+  "plant_id": "plant_5c0614f0928498ac",
+  "plant_name": "Randia dumetorum Lam.",
+  "botanical_name": "Catunaregum spinosa",
+  "botanical_authority": "(THUNB.) TIRVENGADUM",
+  "family": "RUBIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (6) - Gardenia dumetorum RETZ. Gardenia floribunda ROXB. Randia dumetorum LAM. X Full Botanical citation - Randia dumetorum (Retz.) Lam.\nSystem of medicine: Encycl. Suppl. 2: 829. 1812; R.D.Gaur\nSystem of medicine: Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes)\nSystem of medicine: TransMedia\nSystem of medicine: Srinagar (Garhwal)\nSystem of medicine: India\nSystem of medicine: 530.1999. Randia longispina DC. Randia spinosa POIR. Xeromphis spinosa (THUNB.) KEAY",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/b78a1f9a78a09759c0265d85a325ab67",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/e2dd8c6529e2eebb9b6fd7ba82cf3773"
+  ],
+  "source_record_ids": [
+    "links-1205",
+    "links-1207"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/b78a1f9a78a09759c0265d85a325ab67",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/e2dd8c6529e2eebb9b6fd7ba82cf3773"
+    ],
+    "source_record_ids": [
+      "links-1205",
+      "links-1207"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/b78a1f9a78a09759c0265d85a325ab67",
+          "Plant Name": "Randia dumetorum Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Randia dumetorum Lam.",
+        "source_record_id": "links-1205",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/b78a1f9a78a09759c0265d85a325ab67"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/e2dd8c6529e2eebb9b6fd7ba82cf3773",
+          "Plant Name": "Randia spinosa Poir.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Randia spinosa Poir.",
+        "source_record_id": "links-1207",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/e2dd8c6529e2eebb9b6fd7ba82cf3773"
+      }
+    ],
+    "source_xplant_id": "1b163f98a9315a49f346598f315cbf73",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

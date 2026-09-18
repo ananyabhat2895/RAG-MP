@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_52c5ee209d8f37c0__vernacular_names__002",
+  "plant_id": "plant_52c5ee209d8f37c0",
+  "plant_name": "Jatropha curcas Linn.",
+  "botanical_name": "Jatropha curcas",
+  "botanical_authority": "L.",
+  "family": "EUPHORBIACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (96): acanankai, adalai, aimmuki 2, aimmukicceti, aituki, atalai, atalai 2@, atalai 3@, ayamurukki 2, caat amunak, cancayacceti, cancayam, cirevanacceti, cirevanam, cironi, cironicceti, cokanatipputu, eliamanakku, elippakam 3, elippasanam, eliyal 2, eliyalam, eliyalu, eliyamanakku, emattur, erikalai, erikalan 2, iyakatotikacceti, iyakatotikam, iyamakki, kaattamanakku, kadalamanakku, kaitta, kaittamanakkucceti, kamatatikacceti, kamatatikam, kat-amanak, katalamanakku, katalamanakku 2, katamanakku, kattamanakku, kattamanaku, kattamanatti, kattatalai, kattatalaicceti, kattinamanatti, kattukkottai, kattukkotti, kirakiratti, kocalamamuli, kuribaravuni, kurubaravuni, kuruparavuni, naali gaddi, naligadi, nalikacu 2, nalikati, nalikati 2, nalkati, nay-k-kottan pattai, nikkurotacceti, nikkurotam 2, nikkurottam, nikkurottam 2, nikumpacari, nulamanakku, nulamanakkucceti, pacuvacironi, pacuvacuroni#, pacuvacuroni@, pana, panan, pancamukaruttiri, parucci, periyatalai, periyatalaicceti, picarakanti, tiral, tiralanti, tiravaadi, tiravanticceti, tiravati, tiruvati, tummatikacceti, tummattika, tunkaitutan, tunti 1, turumavaruni, turumavarunicceti, turupavaruni, turuppavani, turuvati, upakumpam, utumparaparani, velinayakam, vellamanakku\nTelugu (35): adavi amida, adavi amudam, adavi amudamu, adavi karmida, adavi-amudamu, adaviaamudamu, adaviamuda, adaviyamudamu, adiviamadam, adiviamidam, adivie amida, adivuamudam, erri amudamu, kaatiyaamudamu, katiamudam, katiyamudamu, kondaamuda, kondaamudamu, kondamudamu, naepalamu, napalam, napatain, nepalam, nepalamu, nepalem, nepalemu, papaalemu, pedda-nepalamu, peddanaepalamu, peddanepalam, peddanepalamu, peddanepalemu, pepalam, pepalamu, pepalemu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ecdf68855a0364e6eb3661e83dccb60"
+  ],
+  "source_record_ids": [
+    "links-0534"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ecdf68855a0364e6eb3661e83dccb60"
+    ],
+    "source_record_ids": [
+      "links-0534"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ecdf68855a0364e6eb3661e83dccb60",
+          "Plant Name": "Jatropha curcas Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Jatropha curcas Linn.",
+        "source_record_id": "links-0534",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ecdf68855a0364e6eb3661e83dccb60"
+      }
+    ],
+    "source_xplant_id": "6ecdf68855a0364e6eb3661e83dccb60",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

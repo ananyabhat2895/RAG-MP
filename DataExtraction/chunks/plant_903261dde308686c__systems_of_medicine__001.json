@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_903261dde308686c__systems_of_medicine__001",
+  "plant_id": "plant_903261dde308686c",
+  "plant_name": "Grewia optiva Drummon.",
+  "botanical_name": "Grewia optiva",
+  "botanical_authority": "DRUMMOND",
+  "family": "TILIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Folk Botanical Synonyms (1) - Grewia oppositifolia ROXB. X Full Botanical citation - Grewia oppositifolia Buch.-Ham. ex D.Don\nSystem of medicine: Prodr. Fl. Nepal.: 227. 1825; P.Daniel in P.Daniel\nSystem of medicine: Fl. Kerala 1: 490. 2005.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a9ba5f60d638c3123d46f9fbfd01169"
+  ],
+  "source_record_ids": [
+    "links-0511",
+    "links-1969"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a9ba5f60d638c3123d46f9fbfd01169"
+    ],
+    "source_record_ids": [
+      "links-0511",
+      "links-1969"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a9ba5f60d638c3123d46f9fbfd01169",
+          "Plant Name": "Grewia optiva Drummon.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Grewia optiva Drummon.",
+        "source_record_id": "links-0511",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a9ba5f60d638c3123d46f9fbfd01169"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a9ba5f60d638c3123d46f9fbfd01169",
+          "Plant Name": "Grewia optiva Drummond.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Grewia optiva Drummond.",
+        "source_record_id": "links-1969",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a9ba5f60d638c3123d46f9fbfd01169"
+      }
+    ],
+    "source_xplant_id": "6a9ba5f60d638c3123d46f9fbfd01169",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

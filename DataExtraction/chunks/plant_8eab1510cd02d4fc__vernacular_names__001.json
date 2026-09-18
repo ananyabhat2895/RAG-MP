@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_8eab1510cd02d4fc__vernacular_names__001",
+  "plant_id": "plant_8eab1510cd02d4fc",
+  "plant_name": "Radermachera xylocarpa",
+  "botanical_name": "Radermachera xylocarpa",
+  "botanical_authority": "(ROXB.) SCHUM.",
+  "family": "BIGNONIACEAE",
+  "section": "vernacular_names",
+  "content": "Kannada (35): aane thanthu, aanethanthu vaaluka, ambaalahude, ambaari hode, ambalahude, ambari hode, anaitantwalaka, anetantuvaluka, genasaga, genasing, ghana shringi, ghanashringa, ghanashrynga, ghanasinga, ghanasrynga, ghansing, hude, hulave, huvvulave, kaananakombu, kanakakombu, kanana kombu, konana kombu, konana kombu mara, konana kombumara, konanakombu, linga dhari, lingnodaari oodi mara, oodi mara, otiyam, ruti, udi, ulve, valuka, vudi\nMalayalam (17): aduvakaden, edangkorna, edangkouna, edankorna, padri, pannimuringa, pathiri, patirevetamkaruna, patiri, patirivetamkaruna, vadamkorney, vedangkonnan, vedinkorana, vetamkaruna, vetamkorana, vetankarana, vitankurana\nMarathi (5): bersinge, kadashing, kharsimgi, kharsing, kharsinge\nSanskrit (2): Sanskrit CommentsX patala, svetapatala\nTamil (33): alambal, alampalmaram, cavatimaram#, cavatimaram@, kadalathi, kadalatti, kalpadiri, kattastam, kattattam, malaiyudi, malaiyuti, mankombu, mankompu, onthi, padiri, padirimilaidal, palakuka, parutippatiri, parutippatirimaram, patali 3, pathiri, patiri 3, savadi, sirakkora, vadancarni, vadencarni, vedamkurunai, vedanguruni, vellani, vellanimaram, venpatirai, venpatirimaram, vetankuruni\nTelugu (2): naga-dundilam, naguru",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8eb5bffeca052079f62e14fa39ccdccb"
+  ],
+  "source_record_ids": [
+    "links-1091",
+    "links-1491"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8eb5bffeca052079f62e14fa39ccdccb"
+    ],
+    "source_record_ids": [
+      "links-1091",
+      "links-1491"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8eb5bffeca052079f62e14fa39ccdccb",
+          "Plant Name": "Radermachera xylocarpa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Radermachera xylocarpa",
+        "source_record_id": "links-1091",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8eb5bffeca052079f62e14fa39ccdccb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8eb5bffeca052079f62e14fa39ccdccb",
+          "Plant Name": "Radermachera xylocarpa (Roxb.)K. Schum.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Radermachera xylocarpa (Roxb.)K. Schum.",
+        "source_record_id": "links-1491",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8eb5bffeca052079f62e14fa39ccdccb"
+      }
+    ],
+    "source_xplant_id": "8eb5bffeca052079f62e14fa39ccdccb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

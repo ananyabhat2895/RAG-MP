@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_22e7c17e28ff8c71__images__001",
+  "plant_id": "plant_22e7c17e28ff8c71",
+  "plant_name": "Phaseolus aconitifolius Jacq.",
+  "botanical_name": "Vigna aconitifolia",
+  "botanical_authority": "(JACQ.) MARECHAL",
+  "family": "FABACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0bd15dbcb4d37c93a9179136cb41564/xclkon/f073cf83d5d261931ca77b2eb007703f",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0bd15dbcb4d37c93a9179136cb41564"
+  ],
+  "source_record_ids": [
+    "links-1234",
+    "links-1235"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0bd15dbcb4d37c93a9179136cb41564/xclkon/f073cf83d5d261931ca77b2eb007703f",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0bd15dbcb4d37c93a9179136cb41564"
+    ],
+    "source_record_ids": [
+      "links-1234",
+      "links-1235"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0bd15dbcb4d37c93a9179136cb41564/xclkon/f073cf83d5d261931ca77b2eb007703f",
+          "Plant Name": "Phaseolus aconitifolius Jacq.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Phaseolus aconitifolius Jacq.",
+        "source_record_id": "links-1234",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0bd15dbcb4d37c93a9179136cb41564/xclkon/f073cf83d5d261931ca77b2eb007703f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0bd15dbcb4d37c93a9179136cb41564",
+          "Plant Name": "Vigna aconitifolia (Jacq.) Marechal",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vigna aconitifolia (Jacq.) Marechal",
+        "source_record_id": "links-1235",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0bd15dbcb4d37c93a9179136cb41564"
+      }
+    ],
+    "source_xplant_id": "d0bd15dbcb4d37c93a9179136cb41564",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

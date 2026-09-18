@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_056b112d3873349b__distribution__001",
+  "plant_id": "plant_056b112d3873349b",
+  "plant_name": "Sida Retus Linn.",
+  "botanical_name": "Sida retusa",
+  "botanical_authority": "L.",
+  "family": "MALVACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Botanicaly Survey of India; distribution: Distribution; title: Title - FLORA OF INDIA VOL 3\nDistribution entry: author: Author - N.P.Balakrishnan; distribution: Distribution; title: Title - Flora of Jowai Vol.I\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f515ce55a8d91b689252333d88280a02"
+  ],
+  "source_record_ids": [
+    "links-0269"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f515ce55a8d91b689252333d88280a02"
+    ],
+    "source_record_ids": [
+      "links-0269"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f515ce55a8d91b689252333d88280a02",
+          "Plant Name": "Sida Retus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida Retus Linn.",
+        "source_record_id": "links-0269",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f515ce55a8d91b689252333d88280a02"
+      }
+    ],
+    "source_xplant_id": "f515ce55a8d91b689252333d88280a02",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

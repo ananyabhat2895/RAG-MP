@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_26db341fdfd05b68__vernacular_names__001",
+  "plant_id": "plant_26db341fdfd05b68",
+  "plant_name": "Gloriosa superba Linn.",
+  "botanical_name": "Gloriosa superba",
+  "botanical_authority": "L.",
+  "family": "LILIACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): climbing lily, flame lily, glory lily\nHindi (18): bachnag, carrihari, kalhar, kaligari, kalihari, kalihari sans.n. langalie, kariari, karihari, karkari, karlari, kathari, kulhari, lakya, lalukhri, langali, langli, langlya, languli\nKannada (41): aghni shikhe, aginsikhe, agni sikhe, agnisikhe, akka thangi balli, akkatangaballi, balipaapu, balipapu, bennebidiru, chavathi hoo, chowthi hoo, gowri gadde, huliyuguru, indrana gedde, jokumaarana balli, kandi kannina gadde, karadekannu, karadi kannina gedde, karadikanninagadde, kenchan daapu, kenkannadapu, koli kutumana gedde, kolikuttuma, kolikutuma, kolikutumana balli, kolikutumana gedde, naagaleekana gedde, naangalika, naangulika, nangulika, onapoo, onapu, shishira rakthaballi, shivaraktiballi, shivashakthi, shivashakti, sivaraktaballi, sivaraktiballi, sivasaktiballi, totil, wanahavu\nMalayalam (11): kandal, kantal, kithonni, macttoennui, malattamara, manthori-kizhangu, melloni, mendoni, mentonni, mettonni, ventoni\nMarathi (13): bach-nag, bachnag, indai, kala-lavi, kalalaavi, kallavi, karianag, khadyanag, nagakaria, nagarika, nagkaria, vagh-batasko, vaghahyo-davlyo arti\nSanskrit (45): Sanskrit CommentsX agnijvala, agnimukhi, agnisikha, agnisikkha, ahijihoa, amrita, ananta, dipta, ga pushpasaurabha, garbhagatini, garbhanut, garbhapatani, garbhapatini, garbhhaghhatini, hali, halini, haripriya, hiranyapuspi, indrapushpika, indrapuspi, kalihari, kalikari, kalikarika, kanakapuspi, kandali, langala, langalahvaya, langalaka, langalakhya, langalaki, langali, langalika, langaliki, languli, nakta, rbhanuta, shakrapushpi, sikkhajihoa, sukrapushpika, svarnapushpa, vanhivaktra, visalya, vishalya, vranahrita, vudyutajvala",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b974a750fdc40827fd7e167dcb88e2ba"
+  ],
+  "source_record_ids": [
+    "links-1169",
+    "links-2110"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b974a750fdc40827fd7e167dcb88e2ba"
+    ],
+    "source_record_ids": [
+      "links-1169",
+      "links-2110"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b974a750fdc40827fd7e167dcb88e2ba",
+          "Plant Name": "Gloriosa superba Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gloriosa superba Linn.",
+        "source_record_id": "links-1169",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b974a750fdc40827fd7e167dcb88e2ba"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b974a750fdc40827fd7e167dcb88e2ba",
+          "Plant Name": "Gloriosa superba",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gloriosa superba",
+        "source_record_id": "links-2110",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b974a750fdc40827fd7e167dcb88e2ba"
+      }
+    ],
+    "source_xplant_id": "b974a750fdc40827fd7e167dcb88e2ba",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_43ae76e838df8580__vernacular_names__001",
+  "plant_id": "plant_43ae76e838df8580",
+  "plant_name": "Smilax ovalifolia Roxb.",
+  "botanical_name": "Smilax ovalifolia",
+  "botanical_authority": "ROXB.",
+  "family": "SMILACACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (4): guti, jangli-aushbah, jangliushbah, ram dana\nMalayalam (4): kal-tamara, kaltamara, karivilanti, kuri-vilandi\nMarathi (1): gutvel\nSanskrit (2): Sanskrit CommentsX copacini, maitri\nTamil (3): malai-tamarai, malait-tamarai, malaitamara\nTelugu (13): kistapa-tamara, kistapatamara, konda-dantena, konda-guruva-tige, konda-tamara, kondadantena, kondagarbhatige, kondaguravatige, kummarabaddu, kundagurvatiga, kushtaputamara, sitapa, sitapa-chettu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5bbd21c68d6600161b35db289954851"
+  ],
+  "source_record_ids": [
+    "links-0467"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5bbd21c68d6600161b35db289954851"
+    ],
+    "source_record_ids": [
+      "links-0467"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5bbd21c68d6600161b35db289954851",
+          "Plant Name": "Smilax ovalifolia Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Smilax ovalifolia Roxb.",
+        "source_record_id": "links-0467",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5bbd21c68d6600161b35db289954851"
+      }
+    ],
+    "source_xplant_id": "c5bbd21c68d6600161b35db289954851",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

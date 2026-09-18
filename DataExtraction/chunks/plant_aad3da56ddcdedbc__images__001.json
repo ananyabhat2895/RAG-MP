@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_aad3da56ddcdedbc__images__001",
+  "plant_id": "plant_aad3da56ddcdedbc",
+  "plant_name": "Grewia hirsuta Vahl.",
+  "botanical_name": "Grewia hirsuta",
+  "botanical_authority": "VAHL",
+  "family": "TILIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6bc8eecacb4603ff55b517bd520ce35"
+  ],
+  "source_record_ids": [
+    "links-0658",
+    "links-1343"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6bc8eecacb4603ff55b517bd520ce35"
+    ],
+    "source_record_ids": [
+      "links-0658",
+      "links-1343"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6bc8eecacb4603ff55b517bd520ce35",
+          "Plant Name": "Grewia hirsuta Vahl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Grewia hirsuta Vahl.",
+        "source_record_id": "links-0658",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6bc8eecacb4603ff55b517bd520ce35"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6bc8eecacb4603ff55b517bd520ce35",
+          "Plant Name": "Grewia hirsuta Vahl var. helicterifolia",
+          "Status": "Found"
+        },
+        "source_plant_name": "Grewia hirsuta Vahl var. helicterifolia",
+        "source_record_id": "links-1343",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6bc8eecacb4603ff55b517bd520ce35"
+      }
+    ],
+    "source_xplant_id": "f6bc8eecacb4603ff55b517bd520ce35",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

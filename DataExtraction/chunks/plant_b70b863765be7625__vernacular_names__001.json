@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b70b863765be7625__vernacular_names__001",
+  "plant_id": "plant_b70b863765be7625",
+  "plant_name": "Asclepias curassavica Linn.",
+  "botanical_name": "Asclepias curassavica",
+  "botanical_authority": "L.",
+  "family": "ASCLEPIADACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): bastard ipecacuanha, blood flower, matac, swallow wort\nHindi (3): kakatundi, kaura-dodi, lalma\nKannada (7): chikka kaage thonde, hole chadaranga, hulugilu gida, kaakathundi, kaakatundi, kakatundi, kiria kaage thonde\nMarathi (2): karki, kurki\nSanskrit (2): Sanskrit CommentsX kakanasika, kakatundi\nTamil (1): ariyaman\nTelugu (1): jilledu mandaara",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aba02209fa1a529826e8a5e336075429"
+  ],
+  "source_record_ids": [
+    "links-0849"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aba02209fa1a529826e8a5e336075429"
+    ],
+    "source_record_ids": [
+      "links-0849"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aba02209fa1a529826e8a5e336075429",
+          "Plant Name": "Asclepias curassavica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Asclepias curassavica Linn.",
+        "source_record_id": "links-0849",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aba02209fa1a529826e8a5e336075429"
+      }
+    ],
+    "source_xplant_id": "aba02209fa1a529826e8a5e336075429",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

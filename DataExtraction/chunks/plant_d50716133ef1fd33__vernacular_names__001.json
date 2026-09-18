@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d50716133ef1fd33__vernacular_names__001",
+  "plant_id": "plant_d50716133ef1fd33",
+  "plant_name": "Hyoscyamus niger Linn.",
+  "botanical_name": "Hyoscyamus niger",
+  "botanical_authority": "L.",
+  "family": "SOLANACEAE",
+  "section": "vernacular_names",
+  "content": "English (7): black henbane, devil s-eye, henbane, hog bean, jupiter s bean, poison tobacco, stinking nightshade\nHindi (6): ajwaina-kurasam, bisajain, khurasani ajavayan, khurasani-ajvayan, khurassani jamani, parshik-yavani\nKannada (6): khuraa saani ajavaana, khuraasaani oma, khurasaani vaadakki, khurasani-ajavana, khurasani-vadakki, khurasani-voma\nMalayalam (2): kurassani, parasikayavani\nMarathi (3): khorasanivova, khuresaani, vomvaa\nSanskrit (17): Sanskrit CommentsX dipya, kuberakhya, madaka, madakarini, mani, parasikava, parasikaya, parasikayavani, pareckyawani, shyama, tivra, turushka, turuska, yahvani, yavani, yavanibheda, yawani\nTamil (34): acamanaki, caniyattiraiyam, caniyattirayam, karapi, karasavai, karcavai, karukam, karukattomam, karunkurocikam, kiruminacam 2, kiruminacaniyomam, kirumiyokmam, kirumiyomam, koracaniomam, korasanie omum, kuracani, kuracani yomam, kuracani#, kuracani@, kuracaniyomam, kurasani omam, kurasani-yomam, kurashani-yomam, kurassani omam, kurassaniyomam, kurocakam, kurocani, kurocani omam, kurocaniyomam, kurocikavomam, naupattomam, omattuvayam 2, paracikavomam, tippiyam 2\nTelugu (5): kurasani-omam, kurasani-vaman, kurasaniyamani, kurashaani omam, kurinji-vaman\nUrdu (5): afeeqoon, ajwain khurasani, ajwain-e-qurasani, ajwain-i-khurasani, leshgharamas",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88e1d06b17b4a58028081693f16d2239"
+  ],
+  "source_record_ids": [
+    "links-1430"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88e1d06b17b4a58028081693f16d2239"
+    ],
+    "source_record_ids": [
+      "links-1430"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88e1d06b17b4a58028081693f16d2239",
+          "Plant Name": "Hyoscyamus niger Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hyoscyamus niger Linn.",
+        "source_record_id": "links-1430",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88e1d06b17b4a58028081693f16d2239"
+      }
+    ],
+    "source_xplant_id": "88e1d06b17b4a58028081693f16d2239",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_2e37e75c6f9b2ee8__botanical_synonyms__001",
+  "plant_id": "plant_2e37e75c6f9b2ee8",
+  "plant_name": "Cinnamomum zeylanicum",
+  "botanical_name": "Cinnamomum verum",
+  "botanical_authority": "PRESL",
+  "family": "LAURACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Cinnamomum zeylanicum BL. Laurus cinnamomum ( L.)\nSynonym: Cinnamomum zeylanicum BL.\nSynonym: Laurus cinnamomum ( L.)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757"
+  ],
+  "source_record_ids": [
+    "links-2008",
+    "links-2009",
+    "links-2010",
+    "links-2057"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757"
+    ],
+    "source_record_ids": [
+      "links-2008",
+      "links-2009",
+      "links-2010",
+      "links-2057"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757",
+          "Plant Name": "Cinnamomum zeylanicum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum zeylanicum",
+        "source_record_id": "links-2008",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757",
+          "Plant Name": "Cinnamomum zeylanicum Blume",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum zeylanicum Blume",
+        "source_record_id": "links-2009",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757",
+          "Plant Name": "Cinnamomum zeylanicum Breyn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum zeylanicum Breyn.",
+        "source_record_id": "links-2010",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757",
+          "Plant Name": "Cinnamomum zeylanicum Blume.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum zeylanicum Blume.",
+        "source_record_id": "links-2057",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757"
+      }
+    ],
+    "source_xplant_id": "c28e0da32f82e38f233cc690e98d4788",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

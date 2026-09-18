@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_76fcb3448b634165__distribution__001",
+  "plant_id": "plant_76fcb3448b634165",
+  "plant_name": "Cinnamomum camphora Nees & Eberm.",
+  "botanical_name": "Cinnamomum camphora",
+  "botanical_authority": "(L.) PRESL",
+  "family": "LAURACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa6cfda88d906581d2000529298c2963"
+  ],
+  "source_record_ids": [
+    "links-0989"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa6cfda88d906581d2000529298c2963"
+    ],
+    "source_record_ids": [
+      "links-0989"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa6cfda88d906581d2000529298c2963",
+          "Plant Name": "Cinnamomum camphora Nees & Eberm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum camphora Nees & Eberm.",
+        "source_record_id": "links-0989",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa6cfda88d906581d2000529298c2963"
+      }
+    ],
+    "source_xplant_id": "aa6cfda88d906581d2000529298c2963",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

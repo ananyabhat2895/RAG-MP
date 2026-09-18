@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8ae3e0d6f13a5a23__vernacular_names__001",
+  "plant_id": "plant_8ae3e0d6f13a5a23",
+  "plant_name": "Garuga pinnata Roxb.",
+  "botanical_name": "Garuga pinnata",
+  "botanical_authority": "ROXB.",
+  "family": "BURSERACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (9): bohlla, ghogar, kaikar, kankad, kharpat, khogar, titmar, toom, vanagra\nKannada (38): aranelli, arenelli, baalige, balige, bandera kaayi, bholamate, bilee gadde, bili gadde, biligadde, bilugadde, boalu amate, doddadumpli, doddamampli, gadde, garge, godda, goddana, goddana mara, godde, guddada nelli, haalahulige, hagabalagi, hala, halabalaga, halabalage, halabalagi, hallu bolige, hallubolige, kaashtanelli, kadambate, kadambatte, kadamte, nelagodda, nellagodda, nelligadde, sodikonne, sudhekanne, sudhikanne\nMalayalam (16): annakara, annakkara, aranelli, ben-kalesjam, garge, godde, karem, kareyam, karuvembu, karuvempu, katou-kalesjam, katoukalesjam, kattukalincan, kattukalinjam, kattukalinjan, kattunelli\nMarathi (11): kaakad, kaakanda, kakad, kooruk, kudak, kunak, kuruk, kurule, kusaar, kusar, roorak\nSanskrit (5): Sanskrit CommentsX golika, karnikara, kinkirata, krsnamilka, paranki\nTamil (30): accani, amalakam, amalam 2, arunelli, enneykkarai 2, enneykkaraimaram, karivembu, karivempu, karuvembu, karuvempu, karuvilangam, karuvilankam, kauriyam, kayitariyam, malaiyudi, malaiyuti#, malaiyuti@, malaiyutiyam, okkirukantam, pitariyancu, pitariyancumaram, ukkirakantam 3, ukkirakanti, vaccinimpam, vacciranimpam, vacciraninam, vilangam, vilankam, yannaikkarai, yennaikkarai\nTelugu (15): garga, gargu, garuga, garugoo, garugu, garugu chettu, garugudu, ghogar, gurugu, gurugumaru, kaalugudu, kaikar, kalugudu, kharpat, kondavepa\nTibetan (2): ki ra ti, kim ki ra ti (d)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d78735e5f127ec133f6ab1b671115c09"
+  ],
+  "source_record_ids": [
+    "links-0980"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d78735e5f127ec133f6ab1b671115c09"
+    ],
+    "source_record_ids": [
+      "links-0980"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d78735e5f127ec133f6ab1b671115c09",
+          "Plant Name": "Garuga pinnata Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Garuga pinnata Roxb.",
+        "source_record_id": "links-0980",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d78735e5f127ec133f6ab1b671115c09"
+      }
+    ],
+    "source_xplant_id": "d78735e5f127ec133f6ab1b671115c09",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

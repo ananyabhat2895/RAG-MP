@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b70b863765be7625__identification__001",
+  "plant_id": "plant_b70b863765be7625",
+  "plant_name": "Asclepias curassavica Linn.",
+  "botanical_name": "Asclepias curassavica",
+  "botanical_authority": "L.",
+  "family": "ASCLEPIADACEAE",
+  "section": "identification",
+  "content": "Plant name: Asclepias curassavica Linn. Botanical name: Asclepias curassavica Botanical authority: L. Family: ASCLEPIADACEAE Source xplant ID: aba02209fa1a529826e8a5e336075429",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aba02209fa1a529826e8a5e336075429"
+  ],
+  "source_record_ids": [
+    "links-0849"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aba02209fa1a529826e8a5e336075429"
+    ],
+    "source_record_ids": [
+      "links-0849"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aba02209fa1a529826e8a5e336075429",
+          "Plant Name": "Asclepias curassavica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Asclepias curassavica Linn.",
+        "source_record_id": "links-0849",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aba02209fa1a529826e8a5e336075429"
+      }
+    ],
+    "source_xplant_id": "aba02209fa1a529826e8a5e336075429",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

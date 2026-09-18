@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_522b67b50d0550ea__identification__001",
+  "plant_id": "plant_522b67b50d0550ea",
+  "plant_name": "Ceropegia bulbosa Roxb.",
+  "botanical_name": "Ceropegia bulbosa",
+  "botanical_authority": "ROXB.",
+  "family": "ASCLEPIADACEAE",
+  "section": "identification",
+  "content": "Plant name: Ceropegia bulbosa Roxb. Botanical name: Ceropegia bulbosa Botanical authority: ROXB. Family: ASCLEPIADACEAE Source xplant ID: db5270316f2791db0f918ec444f1dcbb",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db5270316f2791db0f918ec444f1dcbb"
+  ],
+  "source_record_ids": [
+    "links-0127",
+    "links-0878"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db5270316f2791db0f918ec444f1dcbb"
+    ],
+    "source_record_ids": [
+      "links-0127",
+      "links-0878"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db5270316f2791db0f918ec444f1dcbb",
+          "Plant Name": "Ceropegia bulbosa Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ceropegia bulbosa Roxb.",
+        "source_record_id": "links-0127",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db5270316f2791db0f918ec444f1dcbb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db5270316f2791db0f918ec444f1dcbb",
+          "Plant Name": "Ceropegia bulbosa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ceropegia bulbosa",
+        "source_record_id": "links-0878",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db5270316f2791db0f918ec444f1dcbb"
+      }
+    ],
+    "source_xplant_id": "db5270316f2791db0f918ec444f1dcbb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_9c661bd789c97948__systems_of_medicine__001",
+  "plant_id": "plant_9c661bd789c97948",
+  "plant_name": "Premna herbacea Roxb.",
+  "botanical_name": "Pygmaeopremna herbacea",
+  "botanical_authority": "(ROXB.) MOLD.",
+  "family": "VERBENACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (1) - Premna herbacea ROXB. X Full Botanical citation - Premna herbacea Roxb.\nSystem of medicine: Fl. Ind. 3: 80. 1832; A Rajendran & P.Daniel\nSystem of medicine: The Indian Verbenaceae ( A Taxonomic Revision) 245. 2002.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c48ca77a9908748268302def511b2fd/xclkon/52fa30b5df253887ecdd13f575f5a359"
+  ],
+  "source_record_ids": [
+    "links-0319"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c48ca77a9908748268302def511b2fd/xclkon/52fa30b5df253887ecdd13f575f5a359"
+    ],
+    "source_record_ids": [
+      "links-0319"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c48ca77a9908748268302def511b2fd/xclkon/52fa30b5df253887ecdd13f575f5a359",
+          "Plant Name": "Premna herbacea Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Premna herbacea Roxb.",
+        "source_record_id": "links-0319",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c48ca77a9908748268302def511b2fd/xclkon/52fa30b5df253887ecdd13f575f5a359"
+      }
+    ],
+    "source_xplant_id": "9c48ca77a9908748268302def511b2fd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

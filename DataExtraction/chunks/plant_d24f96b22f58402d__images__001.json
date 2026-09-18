@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_d24f96b22f58402d__images__001",
+  "plant_id": "plant_d24f96b22f58402d",
+  "plant_name": "Ehretia laevis Roxb.",
+  "botanical_name": "Ehretia laevis",
+  "botanical_authority": "ROXB.",
+  "family": "EHRETIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d329b135a1331fbffcfc9843b56582d8"
+  ],
+  "source_record_ids": [
+    "links-0420",
+    "links-0421"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d329b135a1331fbffcfc9843b56582d8"
+    ],
+    "source_record_ids": [
+      "links-0420",
+      "links-0421"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d329b135a1331fbffcfc9843b56582d8",
+          "Plant Name": "Ehretia laevis Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ehretia laevis Roxb.",
+        "source_record_id": "links-0420",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d329b135a1331fbffcfc9843b56582d8"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d329b135a1331fbffcfc9843b56582d8",
+          "Plant Name": "Ehretia laevis Var. pubescens.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ehretia laevis Var. pubescens.",
+        "source_record_id": "links-0421",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d329b135a1331fbffcfc9843b56582d8"
+      }
+    ],
+    "source_xplant_id": "d329b135a1331fbffcfc9843b56582d8",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

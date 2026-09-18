@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b22ad7aa02ded447__systems_of_medicine__001",
+  "plant_id": "plant_b22ad7aa02ded447",
+  "plant_name": "Carthamus tinctorius Linn.",
+  "botanical_name": "Carthamus tinctorius",
+  "botanical_authority": "L.",
+  "family": "ASTERACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de5ae5c07e6806076e0e5bc72fd89729"
+  ],
+  "source_record_ids": [
+    "links-1145"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de5ae5c07e6806076e0e5bc72fd89729"
+    ],
+    "source_record_ids": [
+      "links-1145"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de5ae5c07e6806076e0e5bc72fd89729",
+          "Plant Name": "Carthamus tinctorius Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Carthamus tinctorius Linn.",
+        "source_record_id": "links-1145",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de5ae5c07e6806076e0e5bc72fd89729"
+      }
+    ],
+    "source_xplant_id": "de5ae5c07e6806076e0e5bc72fd89729",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_f8dd3303ea0c03b4__vernacular_names__001",
+  "plant_id": "plant_f8dd3303ea0c03b4",
+  "plant_name": "Anogeissus latifolia Wall.",
+  "botanical_name": "Anogeissus latifolia",
+  "botanical_authority": "WALL. EX. GUILL. & PERR.",
+  "family": "COMBRETACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): dhawa, gatty gum\nHindi (22): bakali, bakla, bakli, bankli, chal, chhal, dhamda, dhamoda, dhao, dhaoya, dhau, dhaunda, dhaura, dhauri, dhauta, dhava, dhawadi, dhawda, dhokla, dhow-safed, dhuri, dohu\nKannada (27): bejalu, bejil, bejjal, bejjalu, bejjeri, bejulu, bellundoo, bellundu, biggiri, bijal, dhebri, dhibedi, dhinduga, dindaga, dindal, dindala, dindalu mara, dindhlu, dindiga, dindlu, dindu, dinduga, dindulu, dividagu, jejjalu, shrivaaru, tirapu\nMalayalam (11): dindallu, malakanniram, malukkanniram, marukanchiram, marukanniram, mazhkanjiram, njama, vellanaga, vellanava, vellaynaga, vellaynagulu\nMarathi (6): daura, dawnra, dhamora, dhaora, dhauda, dhavda\nSanskrit (23): Sanskrit CommentsX baka, dhava, dhavah, dhavala, dhurandhara, dridhataru, gaura, ghata, kashaya, madhura-tvacha, madhuratvacha, madhuratvaka, nanditaru, pandura, pandutaru, pisacavrksa, pishachavriksha, pitaphala, shakatakhya, shushkanga, shushkavriksha, sthira, vakavraksha\nTamil (23): ekariyam, ekariyamaram, nakam, namai, tara2, tintukam2, tintukanka2, tintukim1, vakkali, vekkali, vekkali 1, vel-naga-maram, vellai-nagai, vellainakai, vellainakam, vellainamai, vellanaga, vellanagai, vellanamai, vellay naga, venkali 1, vennakai, vetkali\nTelugu (14): cheriman shertinamu, chiru manu, chirumaanu, chirumanu, elama, shirimaanu, shirimanu, sirimaanu, sirimanu, thirumaanu, tiruman, vellama, yelama, yellamuddi\nTibetan (1): da pa\nUrdu (1): gul-e-dhawa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ad17ae90aa749f0433d78d7c2f35a1d"
+  ],
+  "source_record_ids": [
+    "links-0519"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ad17ae90aa749f0433d78d7c2f35a1d"
+    ],
+    "source_record_ids": [
+      "links-0519"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ad17ae90aa749f0433d78d7c2f35a1d",
+          "Plant Name": "Anogeissus latifolia Wall.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Anogeissus latifolia Wall.",
+        "source_record_id": "links-0519",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ad17ae90aa749f0433d78d7c2f35a1d"
+      }
+    ],
+    "source_xplant_id": "0ad17ae90aa749f0433d78d7c2f35a1d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

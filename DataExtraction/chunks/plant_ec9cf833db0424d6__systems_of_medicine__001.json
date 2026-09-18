@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_ec9cf833db0424d6__systems_of_medicine__001",
+  "plant_id": "plant_ec9cf833db0424d6",
+  "plant_name": "Sida rhombifolia Linn.",
+  "botanical_name": "Sida rhombifolia",
+  "botanical_authority": "L.",
+  "family": "MALVACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk Botanical Synonyms (1) - Sida rhombifolia L. subsp. rhombifolia X Full Botanical citation - Sida rhombifolia L. subsp. rhombifolia Borss. Waalk. in Blumea 14: 193. 1966; M.Mohanan & A.V.N.Rao in P. Daniel\nSystem of medicine: Fl. Kerala 1: 394. 2005.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5"
+  ],
+  "source_record_ids": [
+    "links-0270",
+    "links-1223",
+    "links-1224",
+    "links-1225"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5"
+    ],
+    "source_record_ids": [
+      "links-0270",
+      "links-1223",
+      "links-1224",
+      "links-1225"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5",
+          "Plant Name": "Sida rhombifolia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida rhombifolia Linn.",
+        "source_record_id": "links-0270",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5",
+          "Plant Name": "Sida rhombifolia",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida rhombifolia",
+        "source_record_id": "links-1223",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5",
+          "Plant Name": "Sida rhombifolia Linn. Mast.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida rhombifolia Linn. Mast.",
+        "source_record_id": "links-1224",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5",
+          "Plant Name": "Sida rhombifolia Linn. Mast. Var rhomboidea (Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida rhombifolia Linn. Mast. Var rhomboidea (Roxb.",
+        "source_record_id": "links-1225",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5"
+      }
+    ],
+    "source_xplant_id": "66adc2910b86fe10b651ba566ad346f5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

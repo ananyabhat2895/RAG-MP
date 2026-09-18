@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_cdf8015f1a2d38e4__distribution__001",
+  "plant_id": "plant_cdf8015f1a2d38e4",
+  "plant_name": "Triumfetta rotundifolia Lam.",
+  "botanical_name": "Triumfetta rotundifolia",
+  "botanical_authority": "LAM.",
+  "family": "TILIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - Botanicaly Survey of India; distribution: Distribution; title: Title - FLORA OF INDIA VOL 3\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/427434d878d5f9cdf9926ed3d54ebfab"
+  ],
+  "source_record_ids": [
+    "links-0609"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/427434d878d5f9cdf9926ed3d54ebfab"
+    ],
+    "source_record_ids": [
+      "links-0609"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/427434d878d5f9cdf9926ed3d54ebfab",
+          "Plant Name": "Triumfetta rotundifolia Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Triumfetta rotundifolia Lam.",
+        "source_record_id": "links-0609",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/427434d878d5f9cdf9926ed3d54ebfab"
+      }
+    ],
+    "source_xplant_id": "427434d878d5f9cdf9926ed3d54ebfab",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

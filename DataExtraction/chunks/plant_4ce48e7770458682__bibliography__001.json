@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4ce48e7770458682__bibliography__001",
+  "plant_id": "plant_4ce48e7770458682",
+  "plant_name": "Prunus armeniaca Linn.",
+  "botanical_name": "Prunus armeniaca",
+  "botanical_authority": "L.",
+  "family": "ROSACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol I\nBibliography entry: title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9bf02cf42ae0025a11c2d5cff0e712f8"
+  ],
+  "source_record_ids": [
+    "links-1391"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9bf02cf42ae0025a11c2d5cff0e712f8"
+    ],
+    "source_record_ids": [
+      "links-1391"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9bf02cf42ae0025a11c2d5cff0e712f8",
+          "Plant Name": "Prunus armeniaca Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Prunus armeniaca Linn.",
+        "source_record_id": "links-1391",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9bf02cf42ae0025a11c2d5cff0e712f8"
+      }
+    ],
+    "source_xplant_id": "9bf02cf42ae0025a11c2d5cff0e712f8",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

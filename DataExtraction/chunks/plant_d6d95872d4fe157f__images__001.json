@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_d6d95872d4fe157f__images__001",
+  "plant_id": "plant_d6d95872d4fe157f",
+  "plant_name": "Elettaria cardamomum Maton",
+  "botanical_name": "Elettaria cardamomum",
+  "botanical_authority": "MATON",
+  "family": "ZINGIBERACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc9a36679c6be366058571f5b89a9d7e"
+  ],
+  "source_record_ids": [
+    "links-0554",
+    "links-0555",
+    "links-0558",
+    "links-0559"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc9a36679c6be366058571f5b89a9d7e"
+    ],
+    "source_record_ids": [
+      "links-0554",
+      "links-0555",
+      "links-0558",
+      "links-0559"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc9a36679c6be366058571f5b89a9d7e",
+          "Plant Name": "Elettaria cardamomum Maton",
+          "Status": "Found"
+        },
+        "source_plant_name": "Elettaria cardamomum Maton",
+        "source_record_id": "links-0554",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc9a36679c6be366058571f5b89a9d7e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc9a36679c6be366058571f5b89a9d7e",
+          "Plant Name": "Elettaria cardamomum Maton.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Elettaria cardamomum Maton.",
+        "source_record_id": "links-0555",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc9a36679c6be366058571f5b89a9d7e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc9a36679c6be366058571f5b89a9d7e",
+          "Plant Name": "Elettaria cardamomum Maton. Var. major Thw.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Elettaria cardamomum Maton. Var. major Thw.",
+        "source_record_id": "links-0558",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc9a36679c6be366058571f5b89a9d7e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc9a36679c6be366058571f5b89a9d7e",
+          "Plant Name": "Elettaria cardamomum Maton. Var. minor Watt.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Elettaria cardamomum Maton. Var. minor Watt.",
+        "source_record_id": "links-0559",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc9a36679c6be366058571f5b89a9d7e"
+      }
+    ],
+    "source_xplant_id": "dc9a36679c6be366058571f5b89a9d7e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

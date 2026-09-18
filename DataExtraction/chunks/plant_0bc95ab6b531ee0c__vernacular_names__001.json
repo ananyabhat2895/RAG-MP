@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_0bc95ab6b531ee0c__vernacular_names__001",
+  "plant_id": "plant_0bc95ab6b531ee0c",
+  "plant_name": "Cassia obtusifolia",
+  "botanical_name": "Cassia obtusifolia",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (5): chakunda, panevar, puadia, pumaria, punwad\nKannada (8): dundu thangadi, gandutagase, sagace, sogase, sogata, tagace, taragasi, vanavarike\nMalayalam (2): sakramardakam, takara\nMarathi (4): takala, takla, tankli, tarota\nSanskrit (34): Sanskrit CommentsX avudham, chakragaja, chakramarda, chakramardaka, chakrapadmada, chakravha, chakri, dadrughna, dridhabija, edagaja, edahasti, gajakhya, ghna, kharjjuana, kusuma, meshakshi, meshalochana, meshavhaya, padmata, prabhunatha, prapunnala, prapunnata, praputatri, prisnaparni, punnata, sakramardaka, taga, tarkila, tarkina, tarvata, uranakhyaka, uranaksha, vimardaka, vyavartaka\nTamil (6): ciru takarai, senavu, sirudagarai, tagarai, vanamavaram, vindu\nTelugu (3): tagirise, tantemu, tantiyamu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9dc99ed01cd75337be1fe40729cf37a6"
+  ],
+  "source_record_ids": [
+    "links-0399"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9dc99ed01cd75337be1fe40729cf37a6"
+    ],
+    "source_record_ids": [
+      "links-0399"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9dc99ed01cd75337be1fe40729cf37a6",
+          "Plant Name": "Cassia obtusifolia",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cassia obtusifolia",
+        "source_record_id": "links-0399",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9dc99ed01cd75337be1fe40729cf37a6"
+      }
+    ],
+    "source_xplant_id": "9dc99ed01cd75337be1fe40729cf37a6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

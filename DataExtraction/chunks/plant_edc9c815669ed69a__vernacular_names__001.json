@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_edc9c815669ed69a__vernacular_names__001",
+  "plant_id": "plant_edc9c815669ed69a",
+  "plant_name": "Myristica fragrans Houtt.",
+  "botanical_name": "Myristica fragrans",
+  "botanical_authority": "HOUTT.",
+  "family": "MYRISTICACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): mace, nutmeg\nHindi (10): jae-phal, jaepatri, jaiphal, japatri, javatri, javattari, jay ka pet, jayphal, pathiri, rampatri\nKannada (15): jaai kaayi, jaapathre, jaapatre, jaatheehannu, jaayi kaayi, jajee kaayi, jaji, jajikai, jajikayi, jajipatre, jajipatri, jakayi, jati, kanage, pathre\nMalayalam (8): jati, jatika, jatikka, jatikkamaram, jatikosam, jatipatri, jatiphalam, surabhi\nMarathi (6): jaay phal, javantri, jayiphal, jaypatri, jayphal, manpatri\nSanskrit (34): Sanskrit CommentsX asana, aunda, bandhukapushpa, ghatastha, jaiphala, jaji-phalam, jajipatri, jajiphalam, jati, jati-phalam, jatidala, jatikapongara, jatikosa, jatikosha, jatipatra, jatipatri, jatipatrika, jatiphala, jatiphalah, jatiphalam, jatisasya, jatishasga, kosha, koshaka, madasaunda, majjasara, malathi-phalam, malatiphala, patri, phala, puta, rajabhogya, shaluka, sumanaphala",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6123efdc0a6955373bfc88ea0729d1e3"
+  ],
+  "source_record_ids": [
+    "links-0777"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6123efdc0a6955373bfc88ea0729d1e3"
+    ],
+    "source_record_ids": [
+      "links-0777"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6123efdc0a6955373bfc88ea0729d1e3",
+          "Plant Name": "Myristica fragrans Houtt.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Myristica fragrans Houtt.",
+        "source_record_id": "links-0777",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6123efdc0a6955373bfc88ea0729d1e3"
+      }
+    ],
+    "source_xplant_id": "6123efdc0a6955373bfc88ea0729d1e3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

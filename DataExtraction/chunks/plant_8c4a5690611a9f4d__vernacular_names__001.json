@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8c4a5690611a9f4d__vernacular_names__001",
+  "plant_id": "plant_8c4a5690611a9f4d",
+  "plant_name": "Sphaeranthus indicus Linn.",
+  "botanical_name": "Sphaeranthus hirtus",
+  "botanical_authority": "WILLD.",
+  "family": "ASTERACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (4): gorakmundi, gundi, mundi, mundika\nKannada (19): adike kasa, bettukarande, bodadaraga, bodathara, bodu kadale, bodu kadale soppu, boladaraga, bondathhara, chandikasa, gorakmundi, karanda, karandagida, kiriya bodandara, moodugattina gida, munde gida, mundeekasa, mundi gida, mundi kasa, mundigida\nMalayalam (8): adaca-manjen, adakkamanian, adakumaniyam, atakka-mani, atakkamaniyan, attakkamanni, minanganni, mirangani\nMarathi (8): barasavodi, bodathara, gorakhamundee, gorakhamundi, gorakmundi, mundee, mundi, varasbodi\nSanskrit (49): Sanskrit CommentsX alambusa, alambusha, aruna, avyatha, bhikshu, bhikshugparivraji, bhukadamba, bhukadambika, bhukanda, bhumikadamba, bhutaghni, boda, chhitragranthika, hapusa, jita, kadambapushpa, kadambapushpika, kadambapuspi, krodachuda, kulahalah, kumbhala, lochani, lotani, mahamundi, mahashvranika, mahasravani, mahasrawani, mata, mundakhya, mundi, mundika, mundirika, munditika, nadikadamba, nilakadambika, palankasha, parivraji, rajapatha, shravana, shravanashirshika, shravani, sravana, sravanahva, sravani, sthavira, tapasvini, tapodhana, vikacha, vridha\nTamil (64): anantai, camani 2, cenkottaikkarantai, cenkottankarantai, ciravani, citapiriyam, citappiriyam, citaranam, cittakanni, civa karantai, civanmuticelvi, civappukkottaikkarantai, cukantini, kallakaraki, kallakarakicceti, karandai, karantai, kirantini, kotalikkarantai@, kotarikkarantai#, kottai karandhai, kottai karanthai, kottai-k-karantai, kottaik karantai, kottaikarandai, kottaikkarandai, kottainalam, kottaippalai, kottaippamiracceti, kottaippamiram, kottak-karandai, kottakkarandai, kottakkarantai, kottang karundei, kottankarantai, kulatti, macittakanni, macumankaiyar, milankali 2, munmani, muntani, nanaiyavirutti, pallatarini, pallatarinicceti, parimali, pentamutamuli, perukarantai, petakaruval, piracitta, putpaki, putpakikkottai, putpakorittaru, tattai, tiruvakkinipputu, tontuppukkoti, unti, vakorakantan, valamatarai, vencitam, vishnu-karandai, visnu karantai, visnukarantai, visnukkarantai, vittunukarantai\nTelugu (10): badathaarguyi, boda savamu, boda-tarapu, bodasaramu, bodasoram, bodatarapu, bodatharamu, bodatharapu chettu, boddatarapu, boedatarapu-chettu\nTibetan (3): ka dam bi i me tog, ka dam pa i me tog (p), ka dam pai me tog (p)\nUrdu (4): gorakh mundi, gorakmundi, gul mundi, mundi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec08cd45797746e57adca9c7e0c516d7/xclkon/85f71eab3c1210d29a3d7648f55163c1"
+  ],
+  "source_record_ids": [
+    "links-0075"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec08cd45797746e57adca9c7e0c516d7/xclkon/85f71eab3c1210d29a3d7648f55163c1"
+    ],
+    "source_record_ids": [
+      "links-0075"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec08cd45797746e57adca9c7e0c516d7/xclkon/85f71eab3c1210d29a3d7648f55163c1",
+          "Plant Name": "Sphaeranthus indicus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sphaeranthus indicus Linn.",
+        "source_record_id": "links-0075",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec08cd45797746e57adca9c7e0c516d7/xclkon/85f71eab3c1210d29a3d7648f55163c1"
+      }
+    ],
+    "source_xplant_id": "ec08cd45797746e57adca9c7e0c516d7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

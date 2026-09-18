@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_7b5f057223de5960__distribution__001",
+  "plant_id": "plant_7b5f057223de5960",
+  "plant_name": "Dioscorea esculanta Burkill.",
+  "botanical_name": "Dioscorea esculanta",
+  "botanical_authority": "(LOUR.) BURKILL",
+  "family": "DIOSCOREACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III\nDistribution entry: author: Author - Ed B D Sharma, S Karthikeyan, N P Singh; distribution: Distribution; title: Title - Flora of Maharashrta State (Monocotyledons)\nDistribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c95aea5d88345b75c9f6230bc83a8f4"
+  ],
+  "source_record_ids": [
+    "links-0085"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c95aea5d88345b75c9f6230bc83a8f4"
+    ],
+    "source_record_ids": [
+      "links-0085"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c95aea5d88345b75c9f6230bc83a8f4",
+          "Plant Name": "Dioscorea esculanta Burkill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dioscorea esculanta Burkill.",
+        "source_record_id": "links-0085",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c95aea5d88345b75c9f6230bc83a8f4"
+      }
+    ],
+    "source_xplant_id": "9c95aea5d88345b75c9f6230bc83a8f4",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

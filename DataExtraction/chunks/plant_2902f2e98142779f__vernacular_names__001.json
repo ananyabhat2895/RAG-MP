@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2902f2e98142779f__vernacular_names__001",
+  "plant_id": "plant_2902f2e98142779f",
+  "plant_name": "Leucas cephalotes Spreng.",
+  "botanical_name": "Leucas cephalotes",
+  "botanical_authority": "(ROTH.) SPR.",
+  "family": "LAMIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (12): bishkhapru, deldona, dhurpisag, goma, goma madhupati, gomo, guma, gumba, kubi, motapati, nidralu, udapata\nKannada (1): dronapushpi\nMalayalam (1): tumba\nMarathi (7): deokhumba, deokumba, kumbha, shetad, shetvad, thumba, tumba\nSanskrit (22): Sanskrit CommentsX chhatraka, chhatrani, chitrak-shupa, chitrakshupa, chitrapathrika, chitrapatrika, drona, dronapushpi, dronapuspi, kaundinya, kshavapatri, kumbhayoni, kumbhayonika, kurumba, kurumbika, kutumbaka, palindi, phalapuspa, phalepushpa, shvasanaka, supushpi, vrikshasaraka\nTamil (3): peruntumpai, thumbai, tumbay-keere\nTelugu (6): pedda tummi, peddathummi, peddatumni, thummi, tummi, tumni\nTibetan (2): do na i me tog, dro na i me tog (d)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7a4c676664865e9c0c3e257933d566e"
+  ],
+  "source_record_ids": [
+    "links-0536"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7a4c676664865e9c0c3e257933d566e"
+    ],
+    "source_record_ids": [
+      "links-0536"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7a4c676664865e9c0c3e257933d566e",
+          "Plant Name": "Leucas cephalotes Spreng.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Leucas cephalotes Spreng.",
+        "source_record_id": "links-0536",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7a4c676664865e9c0c3e257933d566e"
+      }
+    ],
+    "source_xplant_id": "f7a4c676664865e9c0c3e257933d566e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

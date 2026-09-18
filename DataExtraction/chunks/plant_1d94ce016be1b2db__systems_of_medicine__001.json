@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_1d94ce016be1b2db__systems_of_medicine__001",
+  "plant_id": "plant_1d94ce016be1b2db",
+  "plant_name": "Datura innoxia Mill.",
+  "botanical_name": "Datura innoxia",
+  "botanical_authority": "MILL.",
+  "family": "SOLANACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/18ea200817838c090b09790e9f521864"
+  ],
+  "source_record_ids": [
+    "links-0516"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/18ea200817838c090b09790e9f521864"
+    ],
+    "source_record_ids": [
+      "links-0516"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/18ea200817838c090b09790e9f521864",
+          "Plant Name": "Datura innoxia Mill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Datura innoxia Mill.",
+        "source_record_id": "links-0516",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/18ea200817838c090b09790e9f521864"
+      }
+    ],
+    "source_xplant_id": "18ea200817838c090b09790e9f521864",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

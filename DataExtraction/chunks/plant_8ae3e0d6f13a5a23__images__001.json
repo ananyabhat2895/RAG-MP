@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8ae3e0d6f13a5a23__images__001",
+  "plant_id": "plant_8ae3e0d6f13a5a23",
+  "plant_name": "Garuga pinnata Roxb.",
+  "botanical_name": "Garuga pinnata",
+  "botanical_authority": "ROXB.",
+  "family": "BURSERACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d78735e5f127ec133f6ab1b671115c09"
+  ],
+  "source_record_ids": [
+    "links-0980"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d78735e5f127ec133f6ab1b671115c09"
+    ],
+    "source_record_ids": [
+      "links-0980"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d78735e5f127ec133f6ab1b671115c09",
+          "Plant Name": "Garuga pinnata Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Garuga pinnata Roxb.",
+        "source_record_id": "links-0980",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d78735e5f127ec133f6ab1b671115c09"
+      }
+    ],
+    "source_xplant_id": "d78735e5f127ec133f6ab1b671115c09",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

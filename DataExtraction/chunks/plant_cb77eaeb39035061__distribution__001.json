@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_cb77eaeb39035061__distribution__001",
+  "plant_id": "plant_cb77eaeb39035061",
+  "plant_name": "Ipomoea maxima (Linn.f.) G. Don.",
+  "botanical_name": "Ipomoea marginata",
+  "botanical_authority": "(DESR.) VERDC.",
+  "family": "CONVOLVULACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e70ca93e1f2ff0bc86f0d7f2f9a66dfc/xclkon/f2b8c25324356021ca20630f258c5d67"
+  ],
+  "source_record_ids": [
+    "links-1808"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e70ca93e1f2ff0bc86f0d7f2f9a66dfc/xclkon/f2b8c25324356021ca20630f258c5d67"
+    ],
+    "source_record_ids": [
+      "links-1808"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e70ca93e1f2ff0bc86f0d7f2f9a66dfc/xclkon/f2b8c25324356021ca20630f258c5d67",
+          "Plant Name": "Ipomoea maxima (Linn.f.) G. Don.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ipomoea maxima (Linn.f.) G. Don.",
+        "source_record_id": "links-1808",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e70ca93e1f2ff0bc86f0d7f2f9a66dfc/xclkon/f2b8c25324356021ca20630f258c5d67"
+      }
+    ],
+    "source_xplant_id": "e70ca93e1f2ff0bc86f0d7f2f9a66dfc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

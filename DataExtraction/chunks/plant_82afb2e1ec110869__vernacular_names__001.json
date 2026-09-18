@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_82afb2e1ec110869__vernacular_names__001",
+  "plant_id": "plant_82afb2e1ec110869",
+  "plant_name": "Desmostachya bipinnata Stapf",
+  "botanical_name": "Desmostachya bipinnata",
+  "botanical_authority": "STAPF",
+  "family": "POACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (9): dab, dabhena, dabro, davoli, dhab, doab, durva, kunja, kusha\nKannada (2): dharbe, kusha\nMalayalam (2): darbha, darbhappullu\nMarathi (3): daabh, darbha, kusha\nSanskrit (22): Sanskrit CommentsX barhi, darbha, darbhah, durbha, garbha, hrasva, kukuka, kurava, kusa, kusah, kusha, kutha, kutupa, munisastra, pavitra, puvitrung, siri, suchyagra, sucyagra, yajnabhusana, yajnabhushana, yajnanga\nTamil (79): acamantakam, arkkam, cakutcuka, canam1, cattanakuccam, cepappul1, cucakam1, cukiya, curumakantam, curumakantappul, curumam, cutakappul, cuyiracam, cuyirakam, cuyiram, darbhaipul, ekkiyacattan, kamavelam1, karumamulam, katalancikam, kucaippul, kucam, kucamaram, kucantam, kucappul, kuccam, kuccam1, kucumopanam, kumutakam, kumutam, kumutam2, kumutappul, kuram1@, kurappul, kurccai, kurccarappul, kutam1, kutampam, kutapapul, kuyam, muncai, naccuppul, nakkaruttan, nakkaruttan pul, nakkaruttanpul, notankucam, notankucappul, pauttirappul, pavittirakam, pavittiri, pavittiriyam, pavittiriyappul, perunkattikam, perunkattukappul, pincalam, piruccami, tarapattiram, tarppai, taruppai, taruppam, teppai, terpai, terppai, terppam, tharuppai, tiranaccoti, tirikalocitam, tirikatocam, tirikatocatappul, tirkkalokitam, tirkkamantiram, umakatam2, umakatkam, umarkatam, umarkkatakam, vicuvamittiram, vicuvamittiram 1, viracai, viracika\nTelugu (8): aswalayana, aswalayana darbha gaddi, dabha, darbha, durpa, kusadarbha, kushadarbha, sadanapu veduru\nTibetan (4): du ntha (p), ku ntha (p), ku sa, ku sa rnam gcig\nUrdu (1): bikh dab",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008"
+  ],
+  "source_record_ids": [
+    "links-0488",
+    "links-1136"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008"
+    ],
+    "source_record_ids": [
+      "links-0488",
+      "links-1136"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008",
+          "Plant Name": "Desmostachya bipinnata Stapf",
+          "Status": "Found"
+        },
+        "source_plant_name": "Desmostachya bipinnata Stapf",
+        "source_record_id": "links-0488",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008",
+          "Plant Name": "Desmostachya bipinnata Stapf.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Desmostachya bipinnata Stapf.",
+        "source_record_id": "links-1136",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008"
+      }
+    ],
+    "source_xplant_id": "5d5c75320e8249891ff513bfbd3f1008",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

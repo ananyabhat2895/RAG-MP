@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_60448dc63a213977__identification__001",
+  "plant_id": "plant_60448dc63a213977",
+  "plant_name": "Jasminum malabaricum Wight.",
+  "botanical_name": "Jasminum malabaricum",
+  "botanical_authority": "WIGHT",
+  "family": "OLEACEAE",
+  "section": "identification",
+  "content": "Plant name: Jasminum malabaricum Wight. Botanical name: Jasminum malabaricum Botanical authority: WIGHT Family: OLEACEAE Source xplant ID: cf51fe6f7a30459e205ef56576a92f15",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf51fe6f7a30459e205ef56576a92f15"
+  ],
+  "source_record_ids": [
+    "links-1301"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf51fe6f7a30459e205ef56576a92f15"
+    ],
+    "source_record_ids": [
+      "links-1301"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf51fe6f7a30459e205ef56576a92f15",
+          "Plant Name": "Jasminum malabaricum Wight.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Jasminum malabaricum Wight.",
+        "source_record_id": "links-1301",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf51fe6f7a30459e205ef56576a92f15"
+      }
+    ],
+    "source_xplant_id": "cf51fe6f7a30459e205ef56576a92f15",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

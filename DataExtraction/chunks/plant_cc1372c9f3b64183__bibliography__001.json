@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_cc1372c9f3b64183__bibliography__001",
+  "plant_id": "plant_cc1372c9f3b64183",
+  "plant_name": "Limonia crenulata Roxb.",
+  "botanical_name": "Naringi crenulata",
+  "botanical_authority": "(ROXB.) NICOLSON",
+  "family": "RUTACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: title: Title - Flora of Bankura District(West Bengal)\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I\nBibliography entry: title: Title - Flora of Rajasthan Vol. 1\nBibliography entry: title: Title - The Flora of Kerala Vol I\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol I\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-2\nBibliography entry: title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88b6416bfbb3910dc4dbcde8c2703e96/xclkon/0312fbdd9006634079d7473884dd4c7d"
+  ],
+  "source_record_ids": [
+    "links-0360"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88b6416bfbb3910dc4dbcde8c2703e96/xclkon/0312fbdd9006634079d7473884dd4c7d"
+    ],
+    "source_record_ids": [
+      "links-0360"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88b6416bfbb3910dc4dbcde8c2703e96/xclkon/0312fbdd9006634079d7473884dd4c7d",
+          "Plant Name": "Limonia crenulata Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Limonia crenulata Roxb.",
+        "source_record_id": "links-0360",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88b6416bfbb3910dc4dbcde8c2703e96/xclkon/0312fbdd9006634079d7473884dd4c7d"
+      }
+    ],
+    "source_xplant_id": "88b6416bfbb3910dc4dbcde8c2703e96",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

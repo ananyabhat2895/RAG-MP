@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b54842b762d3e546__bibliography__001",
+  "plant_id": "plant_b54842b762d3e546",
+  "plant_name": "Jateorhiza palmata (Lam.) Miers.",
+  "botanical_name": "Jateorhiza palmata",
+  "botanical_authority": "(LAM.) MIERS",
+  "family": "MENISPERMACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: author: Author - VAIDYA D.K. KAMAT; title: Title - STUDIES ON MEDICINAL PLANTS IN DHANVANTARIYA NIGHANTU VOL.1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5c7fcd1c728c05e501410bfc1b22f73"
+  ],
+  "source_record_ids": [
+    "links-0868"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5c7fcd1c728c05e501410bfc1b22f73"
+    ],
+    "source_record_ids": [
+      "links-0868"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5c7fcd1c728c05e501410bfc1b22f73",
+          "Plant Name": "Jateorhiza palmata (Lam.) Miers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Jateorhiza palmata (Lam.) Miers.",
+        "source_record_id": "links-0868",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5c7fcd1c728c05e501410bfc1b22f73"
+      }
+    ],
+    "source_xplant_id": "c5c7fcd1c728c05e501410bfc1b22f73",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

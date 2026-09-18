@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_344e05583c25f2dd__distribution__001",
+  "plant_id": "plant_344e05583c25f2dd",
+  "plant_name": "Thymus serpyllum Linn.",
+  "botanical_name": "Thymus serpyllum",
+  "botanical_authority": "L.",
+  "family": "LAMIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - Dr. Narain Singh Chauhan; distribution: Distribution; title: Title - Medicinal and Aromatic Plants of Himachal Pradesh\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - A.E. Osmaston; distribution: Distribution; title: Title - A Forest Flora for Kumaon\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)\nDistribution entry: author: Author - G.S.Rawat; distribution: Distribution; title: Title - Alpine meadows of Uttaranchal",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864390e41471024ac71fcfada20e4a86"
+  ],
+  "source_record_ids": [
+    "links-0043"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864390e41471024ac71fcfada20e4a86"
+    ],
+    "source_record_ids": [
+      "links-0043"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864390e41471024ac71fcfada20e4a86",
+          "Plant Name": "Thymus serpyllum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Thymus serpyllum Linn.",
+        "source_record_id": "links-0043",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864390e41471024ac71fcfada20e4a86"
+      }
+    ],
+    "source_xplant_id": "864390e41471024ac71fcfada20e4a86",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

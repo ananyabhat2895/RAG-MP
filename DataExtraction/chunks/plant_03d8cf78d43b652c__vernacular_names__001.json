@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_03d8cf78d43b652c__vernacular_names__001",
+  "plant_id": "plant_03d8cf78d43b652c",
+  "plant_name": "Gymnosporia spinosa (Forsk.) Fiori",
+  "botanical_name": "Maytenus senegalensis",
+  "botanical_authority": "(LAM.) EXELL.",
+  "family": "CELASTRACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (5): baikai, baikal, kingani, mal-kangani, tondarsaijhad\nKannada (7): halumanike, kankada, malegu, malkanguni, tandraja, tandrasee, tandrasi\nMarathi (9): baykal, bekal, bharati, bharatti, bharuli, vekal, vekar, yekal, yekkadi\nSanskrit (31): Sanskrit CommentsX bahuphala, bramhapadapa, dantakashtha, gopaghanta, granthila, himaka, kantakari, kantaki, kantapada, kantapatra, kinkari, madhuparni, mriduphala, padarohina, pindara, prithubija, putakinkani, ravana, sragdaru, sruvadruma, sruvavriksha, sudhavriksha, svadukanta, vaikankata, vikankala, vikankar, vikankata, vritinkar, vyaghrapadi, yadnavriksha, yadniya\nTamil (7): danti, kalikai, kattanci, kattangi, valuluvai, valuluvai#, valuluvai@\nTelugu (21): chinni, dantansi, dantausi, dante, danthi, danti, denta, gajachinni, gajasinni, geccangi, gechangi, gechchangi, gettsangi, peddachinta, peddachintoo, peddachintu, peddacintu, peddadanta, peddadante, sinni, thanisi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58404bfed44cb6699fa1efc8821009da/xclkon/2a03328c206c3c13d1b4eb94cab05a0c"
+  ],
+  "source_record_ids": [
+    "links-2103"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58404bfed44cb6699fa1efc8821009da/xclkon/2a03328c206c3c13d1b4eb94cab05a0c"
+    ],
+    "source_record_ids": [
+      "links-2103"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58404bfed44cb6699fa1efc8821009da/xclkon/2a03328c206c3c13d1b4eb94cab05a0c",
+          "Plant Name": "Gymnosporia spinosa (Forsk.) Fiori",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gymnosporia spinosa (Forsk.) Fiori",
+        "source_record_id": "links-2103",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58404bfed44cb6699fa1efc8821009da/xclkon/2a03328c206c3c13d1b4eb94cab05a0c"
+      }
+    ],
+    "source_xplant_id": "58404bfed44cb6699fa1efc8821009da",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

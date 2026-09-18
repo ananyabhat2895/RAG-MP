@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_5094185d33d9055b__vernacular_names__001",
+  "plant_id": "plant_5094185d33d9055b",
+  "plant_name": "Sida veronicaefolia Lam.",
+  "botanical_name": "Sida cordata",
+  "botanical_authority": "(BURM.F.) BOISS.",
+  "family": "MALVACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (12): adio bal, andiobal, bananiyar, bariara, bhiunli, bhiyli, bhyunli, gangeran, gulsakari, janglimethi, kharenti, khareti\nKannada (4): bekkina thale gida, bekkinathale gida, bikkanatalegida, kadumenthya\nMalayalam (5): kattaventiyam, kuruntotti, mayirmanikkam, nela-vaga, vallikkuruntotti\nMarathi (4): bhichikna, bhoybal, bhumy-petari, tupkati\nSanskrit (2): Sanskrit CommentsX bhumibala, nagabala\nTamil (9): arivalmanaippundu, koraippaci, kurunthotti, mayirmanikkam, nila thuthi, palam-pasi, palampaci 3, palampasi, velippaci\nTelugu (10): chinnamuttamu, chinnamuttavapulagamu, gaayapu aaku, gayapaku, gayapuvaku, mayilumnikyam, muttavapulagamu, telnallabenda, tirinelabenda, tirunala benda",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba"
+  ],
+  "source_record_ids": [
+    "links-0273",
+    "links-1576"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba"
+    ],
+    "source_record_ids": [
+      "links-0273",
+      "links-1576"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba",
+          "Plant Name": "Sida veronicaefolia Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida veronicaefolia Lam.",
+        "source_record_id": "links-0273",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba",
+          "Plant Name": "Sida veronicaefolia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida veronicaefolia Linn.",
+        "source_record_id": "links-1576",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba"
+      }
+    ],
+    "source_xplant_id": "47d9f33c2a99b8b51b28030e753d04d0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

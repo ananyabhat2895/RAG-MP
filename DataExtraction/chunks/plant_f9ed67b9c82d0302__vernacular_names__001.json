@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_f9ed67b9c82d0302__vernacular_names__001",
+  "plant_id": "plant_f9ed67b9c82d0302",
+  "plant_name": "Brassica nigra (Linn.) Koch.",
+  "botanical_name": "Brassica nigra",
+  "botanical_authority": "(L.) KOCH.",
+  "family": "BRASSICACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): black mustard, black or brown mustard\nHindi (14): aslrai, banarasirai, banarsi-rae, ghorrai, jagrai, kali rai, kalirai, kalorai, lahi, makra-rai, makrarai, rai, taramira, tira\nKannada (7): bilesasive, kappu saasiva, karee saasive, kari saasive, karisasive, karisasivey, sasive\nMalayalam (1): kaduka\nMarathi (2): mohori, rai\nSanskrit (27): Sanskrit CommentsX ana, asuri, atitikshva, bhutaghnah, jwalanti, jwalatprabha, katuasuri, katusnehah, krimika, krishnasarshapa, krishnika, kshava, kshavaka, kshudhabhijanikshnagandha, kshujjanika, kshutabhijanaka, kshutaka, madhurika, raji, rajika, raktasarshapa, raktika, sarsapah, sarshap, sarshapa, sarshapah, siddharthah\nTamil (4): kadagu, kadugu, karun katuku, katuku\nTelugu (2): avalu, naula avalu\nTibetan (1): skye tshe\nUrdu (2): khardal (rai), rai",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/560310f179c922f1c7ad3e150a5878cb"
+  ],
+  "source_record_ids": [
+    "links-0205"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/560310f179c922f1c7ad3e150a5878cb"
+    ],
+    "source_record_ids": [
+      "links-0205"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/560310f179c922f1c7ad3e150a5878cb",
+          "Plant Name": "Brassica nigra (Linn.) Koch.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Brassica nigra (Linn.) Koch.",
+        "source_record_id": "links-0205",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/560310f179c922f1c7ad3e150a5878cb"
+      }
+    ],
+    "source_xplant_id": "560310f179c922f1c7ad3e150a5878cb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

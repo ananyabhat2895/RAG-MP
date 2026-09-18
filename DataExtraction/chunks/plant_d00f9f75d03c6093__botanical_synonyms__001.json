@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d00f9f75d03c6093__botanical_synonyms__001",
+  "plant_id": "plant_d00f9f75d03c6093",
+  "plant_name": "Bryonopsis laciniosa (Linn) Naud.",
+  "botanical_name": "Diplocyclos palmatus",
+  "botanical_authority": "(L.) JAFFREY",
+  "family": "CUCURBITACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Bryonia laciniosa L. X Full Botanical citation - Bryonia laciniosa L. Sp. Pl. ed. 1: 1013. 1753; H.L. Chakravarty, Fascicles of Flora of India, Fasicle II, Cucurbitaceae, BSI, Howrah, 16. 1982 Bryonopsis laciniosa NAUD. X Full Botanical citation - Bryonopsis laciniosa (L.) Naud. Ann. Sc. Nat. 4. Ser. 12: 141. 1859; H.L. Chakravarty, Fascicles of Flora of India, Fasicle II, Cucurbitaceae, BSI, Howrah, 16. 1982\nSynonym: Bryonia laciniosa L.\nSynonym: Bryonopsis laciniosa NAUD.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c7f618abeda5452a8a3079708727925/xclkon/75d10d875e99e10f3c3a6cda6556d8f5"
+  ],
+  "source_record_ids": [
+    "links-1189"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c7f618abeda5452a8a3079708727925/xclkon/75d10d875e99e10f3c3a6cda6556d8f5"
+    ],
+    "source_record_ids": [
+      "links-1189"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c7f618abeda5452a8a3079708727925/xclkon/75d10d875e99e10f3c3a6cda6556d8f5",
+          "Plant Name": "Bryonopsis laciniosa (Linn) Naud.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bryonopsis laciniosa (Linn) Naud.",
+        "source_record_id": "links-1189",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c7f618abeda5452a8a3079708727925/xclkon/75d10d875e99e10f3c3a6cda6556d8f5"
+      }
+    ],
+    "source_xplant_id": "1c7f618abeda5452a8a3079708727925",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_3f2554306a02854a__identification__001",
+  "plant_id": "plant_3f2554306a02854a",
+  "plant_name": "Soymida febrifuga A. Juss.",
+  "botanical_name": "Soymida febrifuga",
+  "botanical_authority": "(ROXB.) A.JUSS.",
+  "family": "MELIACEAE",
+  "section": "identification",
+  "content": "Plant name: Soymida febrifuga A. Juss. Botanical name: Soymida febrifuga Botanical authority: (ROXB.) A.JUSS. Family: MELIACEAE Source xplant ID: 9d1c44e2d233abc3e05fb6a63084cd5f",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d1c44e2d233abc3e05fb6a63084cd5f"
+  ],
+  "source_record_ids": [
+    "links-1242"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d1c44e2d233abc3e05fb6a63084cd5f"
+    ],
+    "source_record_ids": [
+      "links-1242"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d1c44e2d233abc3e05fb6a63084cd5f",
+          "Plant Name": "Soymida febrifuga A. Juss.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Soymida febrifuga A. Juss.",
+        "source_record_id": "links-1242",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d1c44e2d233abc3e05fb6a63084cd5f"
+      }
+    ],
+    "source_xplant_id": "9d1c44e2d233abc3e05fb6a63084cd5f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

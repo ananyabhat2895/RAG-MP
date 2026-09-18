@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_8d23c3d2e48b7969__vernacular_names__001",
+  "plant_id": "plant_8d23c3d2e48b7969",
+  "plant_name": "Momordica charantia",
+  "botanical_name": "Momordica charantia",
+  "botanical_authority": "L.",
+  "family": "CUCURBITACEAE",
+  "section": "vernacular_names",
+  "content": "English (5): balsam pear, bitter cucumber, karela, karella, leprosy gourd\nHindi (5): karela, kareli, karelo, karila, karola\nKannada (11): haagala balli, haagala kaayi, haagala kaayi balli, hagala-kayi, hagala-kayi-gida, hagalakayi, hagola, kagalakayi, karate, midi kaayi, midigaayi balli\nMalayalam (13): kaipavalli, kaippa, kaippa-valli, kaippavalli, kappakka, kaypa, pandi-pavel, panti-pavel, pantipavel, pavakka-cheti, pavakkacheti, paval, pavel\nMarathi (4): karale, kareti, karla, karli\nSanskrit (36): Sanskrit CommentsX ambuvallika, brihadvalli, chiripatra, cirabhata, kandakataka, kandura, kantaphalla, kara-valli-lata, karaka, karavalli, karavallilata, karavella, karavellah, karavellaka, karavellam, karavelli, karavellika, karawallilata, kathillaka, katilla, katillaka, krimighna, patu, pitapushpa, rahavalli, sukanda, sukandaka, sukshmavalli, susavi, sushavi, susuvi, toyavalli, ugrakanda, urdhvasita, varivalli, visakantaki\nTamil (81): ampuvalli, caiva, catimuli2, civvika, civvikakkoti, cucavi, cutamaniyakki, ekaram3, ekaravalli3, iracavalli#, iracavalli@, kaippan, kakotci, kantakakam, kanturam@, karai1, karavalli, karavallikkoti1, karavellai, karikalakkoti, karikalam, katilam, katukol, katunapacam, kayppakal, kayppakarkoti, kentirakantam, kompanpakal, kompu pakal, kompukan, kompukappakal, kompupakal, kompuppakal, kotippakal, kulakkoti, kulam, kumarika, kuram, kuram#, kuram2, kuram2@, kuranam, malaippirkku, manokkiyam, mitipakal, nacimcavetanai, nakaci, nittappakal, ooo, paagal, pagal, pagal kombu-pagal, pakal, pakar, pakar palam, pakarkay, pakarkoti, palupakal, panripputal, pasanauralpokki, pataikkulai, pataikulaittan, pavakai, pavakka-chedi, pavakkachedi, pavakkay, pavakkayi, paval, piraca, punaipputal, putappirama, tanakanniyan, toyavalli, tusacopana, ulanku1, ulankuppakal, urkkuram, urttuvacitam, vencanam, vikkinoyakki, visakantaki\nTelugu (11): kaakara, kaakara kaay, kakara, kakara-chettu, mettakaakara, mettakakara, oorakaakara, potikankara, tellakakara, thellakaakara, urakakara\nTibetan (1): su sa ba\nUrdu (2): karela, karela-ka-pani",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdcb3ce6b2cde8dee6f0b137f8ce0c83"
+  ],
+  "source_record_ids": [
+    "links-0900",
+    "links-0949"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdcb3ce6b2cde8dee6f0b137f8ce0c83"
+    ],
+    "source_record_ids": [
+      "links-0900",
+      "links-0949"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdcb3ce6b2cde8dee6f0b137f8ce0c83",
+          "Plant Name": "Momordica charantia",
+          "Status": "Found"
+        },
+        "source_plant_name": "Momordica charantia",
+        "source_record_id": "links-0900",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdcb3ce6b2cde8dee6f0b137f8ce0c83"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdcb3ce6b2cde8dee6f0b137f8ce0c83",
+          "Plant Name": "Momordica charantia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Momordica charantia Linn.",
+        "source_record_id": "links-0949",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdcb3ce6b2cde8dee6f0b137f8ce0c83"
+      }
+    ],
+    "source_xplant_id": "bdcb3ce6b2cde8dee6f0b137f8ce0c83",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

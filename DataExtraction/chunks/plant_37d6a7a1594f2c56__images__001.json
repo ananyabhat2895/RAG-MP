@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_37d6a7a1594f2c56__images__001",
+  "plant_id": "plant_37d6a7a1594f2c56",
+  "plant_name": "Prunus cerasus Linn.",
+  "botanical_name": "Prunus cerasus",
+  "botanical_authority": "L.",
+  "family": "ROSACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/397ed2aea5b7f7b59968dd8d3d010582"
+  ],
+  "source_record_ids": [
+    "links-0563"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/397ed2aea5b7f7b59968dd8d3d010582"
+    ],
+    "source_record_ids": [
+      "links-0563"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/397ed2aea5b7f7b59968dd8d3d010582",
+          "Plant Name": "Prunus cerasus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Prunus cerasus Linn.",
+        "source_record_id": "links-0563",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/397ed2aea5b7f7b59968dd8d3d010582"
+      }
+    ],
+    "source_xplant_id": "397ed2aea5b7f7b59968dd8d3d010582",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

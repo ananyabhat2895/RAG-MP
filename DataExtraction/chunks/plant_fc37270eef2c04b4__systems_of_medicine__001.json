@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_fc37270eef2c04b4__systems_of_medicine__001",
+  "plant_id": "plant_fc37270eef2c04b4",
+  "plant_name": "Alangium salvifolium (Linn.f.) Wang.",
+  "botanical_name": "Alangium salvifolium",
+  "botanical_authority": "(L.F.) WANG.",
+  "family": "ALANGIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (3) - Alangium decapetalum LAM. Alangium hexapetalum LAM. Alangium lamarckii THWAITES X Full Botanical citation - Alangium lamarckii auct. non Thwaites\nSystem of medicine: Enum. Pl. Zeyl. 135. 1859; R.D.Gaur\nSystem of medicine: Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes)\nSystem of medicine: TransMedia\nSystem of medicine: Srinagar (Garhwal)\nSystem of medicine: India\nSystem of medicine: 321. 1999.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d"
+  ],
+  "source_record_ids": [
+    "links-0129"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d"
+    ],
+    "source_record_ids": [
+      "links-0129"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d",
+          "Plant Name": "Alangium salvifolium (Linn.f.) Wang.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alangium salvifolium (Linn.f.) Wang.",
+        "source_record_id": "links-0129",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d"
+      }
+    ],
+    "source_xplant_id": "2ed95f3d53b344394870ef34c7d83b4d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e2264968ee092d6d__vernacular_names__001",
+  "plant_id": "plant_e2264968ee092d6d",
+  "plant_name": "Casearia esculenta Roxb.",
+  "botanical_name": "Casearia zeylanica",
+  "botanical_authority": "(GAERTN.) RHW.",
+  "family": "FLACOURTIACEAE",
+  "section": "vernacular_names",
+  "content": "Kannada (12): allehaniche, dodda haniche, doddahanice, doddahanise, ekanaathana baeru, ekanaayakana gida, hillange, hillangi, hillechinch, hillehanice, hillehanige, hillehanise\nMalayalam (11): cerukannan, cherukannan, malampavata, malampavatta, malampavetta, pannimuranga, pannimurangam, tsjerakanneli, vellakannan, vellakunnam, vellakunnan\nMarathi (4): kulkulta, mori, pate, satagan\nSanskrit (17): Sanskrit CommentsX bhurigandha, bhutagandha, daitya, divya, gandhadhya, gandhakuti, gandhini, ghandhamadini, kuti, mura, muramansi, puragandhavati, saptacakrah, surabhi, svarnamulah, talaparni, talaparnika\nTamil (11): gutti, kakkai-palai, kakkaippilai, kilar, kolaiaili, kolayayili, kotai aili, kottar kovai, kottargovai, kutti, venjanduvar\nTelugu (5): konda jungara, kondadzzunguru, kondajunguru, kondapragara, kundajungura",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/730d07047139517662a44b8d0f892f9b/xclkon/a3267a89be1c37cdfadd17e7db9f2095"
+  ],
+  "source_record_ids": [
+    "links-0683"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/730d07047139517662a44b8d0f892f9b/xclkon/a3267a89be1c37cdfadd17e7db9f2095"
+    ],
+    "source_record_ids": [
+      "links-0683"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/730d07047139517662a44b8d0f892f9b/xclkon/a3267a89be1c37cdfadd17e7db9f2095",
+          "Plant Name": "Casearia esculenta Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Casearia esculenta Roxb.",
+        "source_record_id": "links-0683",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/730d07047139517662a44b8d0f892f9b/xclkon/a3267a89be1c37cdfadd17e7db9f2095"
+      }
+    ],
+    "source_xplant_id": "730d07047139517662a44b8d0f892f9b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

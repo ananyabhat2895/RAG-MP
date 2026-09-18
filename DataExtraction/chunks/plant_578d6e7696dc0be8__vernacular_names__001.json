@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_578d6e7696dc0be8__vernacular_names__001",
+  "plant_id": "plant_578d6e7696dc0be8",
+  "plant_name": "Euphorbia nivulia",
+  "botanical_name": "Euphorbia nivulia",
+  "botanical_authority": "BUCH.-HAM.",
+  "family": "EUPHORBIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (9): ghota thor, ghotathor, katathohar, sehund, senhur, sij, thor, thuhar, thura\nKannada (20): belakalli, dabba kalli, dabha galli, debbe galli, dubbakalli, dundugalli, dundukalli, dundukalli elegalli, elegalli, elekalli, goota kalli, gootagalli, gutagalli, gutakalli, irekalli, mabba kalli, motataria, yellakalli, yelli-kalli, yellikalli\nMalayalam (7): ela-calli, elacalli, elaculli, ilakalli, ilakkalli, yallakalli, yellakalli\nMarathi (9): kaante, kandenivdung, ming nut, newrang, nivanduga, nivarang, nivdung, seej, thor\nSanskrit (24): Sanskrit CommentsX adhoguda, gandira, guda, mahavrksha, nanda, nisrinapatra, patrasnuhi, patta-karie, pattakarie, samantadugdha, sanuhi, sanuka, sehuda, sehunda, snuhi, snuk, sudha, sudhavrksha, svarasana, tuda, vajra, vajradruksha, vajravrksa, vajri\nTamil (30): ainkonakkalli, aivakkalli, aivaykkalli, akujemudu, ativiracakkalli, ativiracan, centirancam, elai-kalli, ilai kalli, ilai-k-kalli, ilaik-kalli, ilaikalli, ilaikkalli, ilakalli, kalli, kallimulaiyan 1, kalliyitaiyan, kanangalli, manchevi kalli, manjevi, muttirukkan, nadaangi, naga-kalli, nakattaipparpamakki, nanangalli, nanankalli, nanankalli 1, parvanakkalli, parvanam, terravam\nTelugu (14): aakujemmudu, akoojemmoodoo, aku jemudu, akuchemmadu, akujamudu, akujemmadu, akujemudu, akukalli, bontha-jemudu, bonthajamudu, errakalli, jemku, jemudu, modu-jemudu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e43878eaf24531c77e3a4e6193e262b2"
+  ],
+  "source_record_ids": [
+    "links-0013",
+    "links-1822"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e43878eaf24531c77e3a4e6193e262b2"
+    ],
+    "source_record_ids": [
+      "links-0013",
+      "links-1822"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e43878eaf24531c77e3a4e6193e262b2",
+          "Plant Name": "Euphorbia nivulia",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia nivulia",
+        "source_record_id": "links-0013",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e43878eaf24531c77e3a4e6193e262b2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e43878eaf24531c77e3a4e6193e262b2",
+          "Plant Name": "Euphorbia nivulia Buch-Ham",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia nivulia Buch-Ham",
+        "source_record_id": "links-1822",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e43878eaf24531c77e3a4e6193e262b2"
+      }
+    ],
+    "source_xplant_id": "e43878eaf24531c77e3a4e6193e262b2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

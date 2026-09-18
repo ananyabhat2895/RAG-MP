@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_54979aade7138fb6__images__001",
+  "plant_id": "plant_54979aade7138fb6",
+  "plant_name": "Careya arborea Roxb.",
+  "botanical_name": "Careya arborea",
+  "botanical_authority": "ROXB.",
+  "family": "LECYTHIDACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/555260a885273d4bc22900a93dde378b"
+  ],
+  "source_record_ids": [
+    "links-1012"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/555260a885273d4bc22900a93dde378b"
+    ],
+    "source_record_ids": [
+      "links-1012"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/555260a885273d4bc22900a93dde378b",
+          "Plant Name": "Careya arborea Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Careya arborea Roxb.",
+        "source_record_id": "links-1012",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/555260a885273d4bc22900a93dde378b"
+      }
+    ],
+    "source_xplant_id": "555260a885273d4bc22900a93dde378b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

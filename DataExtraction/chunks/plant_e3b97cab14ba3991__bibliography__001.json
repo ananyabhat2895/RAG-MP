@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e3b97cab14ba3991__bibliography__001",
+  "plant_id": "plant_e3b97cab14ba3991",
+  "plant_name": "Anacyclus pyrethrum DC.",
+  "botanical_name": "Anacyclus pyrethrum",
+  "botanical_authority": "DC.",
+  "family": "ASTERACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - MUKERJI,B; title: Title - INDIAN PHARMACEUTICAL CODEX VOL.I\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29bd74b20f0de681f842ae11ae181b2f"
+  ],
+  "source_record_ids": [
+    "links-0055"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29bd74b20f0de681f842ae11ae181b2f"
+    ],
+    "source_record_ids": [
+      "links-0055"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29bd74b20f0de681f842ae11ae181b2f",
+          "Plant Name": "Anacyclus pyrethrum DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Anacyclus pyrethrum DC.",
+        "source_record_id": "links-0055",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29bd74b20f0de681f842ae11ae181b2f"
+      }
+    ],
+    "source_xplant_id": "29bd74b20f0de681f842ae11ae181b2f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

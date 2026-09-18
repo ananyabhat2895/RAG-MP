@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_7db5647c39eebd2e__vernacular_names__002",
+  "plant_id": "plant_7db5647c39eebd2e",
+  "plant_name": "Cassia fistula Linn.",
+  "botanical_name": "Cassia fistula",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (162): acarati, acaratu, akaratu, akeru, akkottumam, akkotu, akkuvatam, anaiveni, anaivenimaram, ankacutam, ankam, annai, apalankam, appai, ar, ar 3, aragoram, arakkuvadam, arakoram#, arakoram@, arakotam, arakuvatam, arevatam, aricalam 2, aricammarikam, aricayam 2, aricayamanku, ariyacam, ariyacamaram, ariyakam, arkkutam, arkoramaram, arkotam, atavamaram, atipacami, atipacamimaram, atitam, atitamaram, attatatikam, cammiyakam, cammiyakamaram, campikapakam, campurakam, campuvakku, canipakam, canipakamaram, canippakam#, canippakam@, carakkonnai, carakkonrai, carakkonrai puli, carakkonrai vittu, cataimuti, cataimutikkottu, catakavanni, caturankulam, contalu, cutareccati, cuvarnakam, elilai, icalil, icanarani, icankoti, icanrar, idali, ikali 2, ikuli, ilacatcacam, iracavikuratam, iracavirutcam, iragavinnadagam, iragaviruttam, irakavinnakamaram, irakavinnatakam, irali, irali 3, irali@, iravankam, irjviruttam, iruli 2, irulimaram, isandar, itali, iyagam, kamukam 3, kavani, kavuci, kavuti, kicaram, kicaramaram, kicaran, kicari, kiratamalam, kiratamalamaram, kiri 4, kirutamalam#, kirutamalam@, kirutamalamaram, kirutamalikai, kiyaracampar, konai, konakkonrai, kondrai poo, konnai, konnai#, konnai@, konnaikkay, konnaimaram, konnei, konnekai, konrai, konraik-kay, konraikkai, kotaimuti, kotitikali, kottikali, kottitali, kurappulikakkonnaimaram, kurappulikam, makaracitam, makaracitamaram, matalai, matalaimaram, mutantam 3, muticaram, mutiyiltarittan, nallekavam, nallekavamaram, natamitumican, nattukkornai, nilaccam, nilcataiyon, o, perunkonrai, ponkonrai, puccarrilpasanamayini, sara kondrai puli, sarak-konrai, sarakkondrai, sarakkonnai, sarakkonrai kai, sarakonnai, sarakonnekai, sarokkonnoi, sharak-konraik-kay, taccuka, taccukamaram, talaiccuti, talaiccutimaram, talimarutam, talimarutamaram, tamam, tirakari, tirakarimaram, tirakkiya, tirkkamuli, tirkkapalam, tirukkonrai, tunkarimantam, vakkam, viyatikatam, viyatikkatam\nTelugu (23): aaragvadhamu, aragvadhamu, koelapenna, kolapenna, kolaponna, konay, kondrakayi, raela, raelachettu, rala, rela, rela-kayalu, relagujju, relangi, rella, rellu, reyla, reylu, sampaakamu, sampakamu, sonnalu, suvarnam, suvarnamu\nTibetan (3): dan ka (d), don ga, don-ka\nUrdu (5): amaltas, khayarshanbar, maghz amaltas, maghz khiyar shambar, mughze amaltas",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b652fb54216db83110ef00b2c5262ae5"
+  ],
+  "source_record_ids": [
+    "links-0138",
+    "links-0145"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b652fb54216db83110ef00b2c5262ae5"
+    ],
+    "source_record_ids": [
+      "links-0138",
+      "links-0145"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b652fb54216db83110ef00b2c5262ae5",
+          "Plant Name": "Cassia fistula Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cassia fistula Linn.",
+        "source_record_id": "links-0138",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b652fb54216db83110ef00b2c5262ae5"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b652fb54216db83110ef00b2c5262ae5",
+          "Plant Name": "Cassia fistula",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cassia fistula",
+        "source_record_id": "links-0145",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b652fb54216db83110ef00b2c5262ae5"
+      }
+    ],
+    "source_xplant_id": "b652fb54216db83110ef00b2c5262ae5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

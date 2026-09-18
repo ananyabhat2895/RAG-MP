@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_5bc5e3a9a5be9900__systems_of_medicine__001",
+  "plant_id": "plant_5bc5e3a9a5be9900",
+  "plant_name": "Azadirachta indica A. Juss",
+  "botanical_name": "Azadirachta indica",
+  "botanical_authority": "A. JUSS.",
+  "family": "MELIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Homeopathy\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (1) - Melia azadirachta L. X Full Botanical citation - Melia azadirachta L.\nSystem of medicine: Sp. Pl. 385. 1753; S.S. Jain & Bennet in Hajra & al.\nSystem of medicine: Fl. India 4: 478. 1997.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370"
+  ],
+  "source_record_ids": [
+    "links-1396",
+    "links-1397"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370"
+    ],
+    "source_record_ids": [
+      "links-1396",
+      "links-1397"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370",
+          "Plant Name": "Azadirachta indica A. Juss",
+          "Status": "Found"
+        },
+        "source_plant_name": "Azadirachta indica A. Juss",
+        "source_record_id": "links-1396",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370",
+          "Plant Name": "Azadirachta indica A. Juss.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Azadirachta indica A. Juss.",
+        "source_record_id": "links-1397",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370"
+      }
+    ],
+    "source_xplant_id": "824a2c2219788b48e2a3bb1633d43370",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

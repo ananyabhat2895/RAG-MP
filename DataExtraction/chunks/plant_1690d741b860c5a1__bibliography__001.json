@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_1690d741b860c5a1__bibliography__001",
+  "plant_id": "plant_1690d741b860c5a1",
+  "plant_name": "Capparis mooni",
+  "botanical_name": "Capparis moonii",
+  "botanical_authority": "WIGHT",
+  "family": "CAPPARACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: title: Title - The Flora of Kerala Vol I\nBibliography entry: title: Title - FLORA OF INDIA VOL 2\nBibliography entry: title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e6d4df9c68f58a339901846ff2ed17f"
+  ],
+  "source_record_ids": [
+    "links-1666",
+    "links-1667"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e6d4df9c68f58a339901846ff2ed17f"
+    ],
+    "source_record_ids": [
+      "links-1666",
+      "links-1667"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e6d4df9c68f58a339901846ff2ed17f",
+          "Plant Name": "Capparis mooni",
+          "Status": "Found"
+        },
+        "source_plant_name": "Capparis mooni",
+        "source_record_id": "links-1666",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e6d4df9c68f58a339901846ff2ed17f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e6d4df9c68f58a339901846ff2ed17f",
+          "Plant Name": "Capparis moonii Wight.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Capparis moonii Wight.",
+        "source_record_id": "links-1667",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e6d4df9c68f58a339901846ff2ed17f"
+      }
+    ],
+    "source_xplant_id": "8e6d4df9c68f58a339901846ff2ed17f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

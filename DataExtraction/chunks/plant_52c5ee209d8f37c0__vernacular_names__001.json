@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_52c5ee209d8f37c0__vernacular_names__001",
+  "plant_id": "plant_52c5ee209d8f37c0",
+  "plant_name": "Jatropha curcas Linn.",
+  "botanical_name": "Jatropha curcas",
+  "botanical_authority": "L.",
+  "family": "EUPHORBIACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): physic nut, pulza, purging nut\nHindi (28): bag-berenda, bagberenda, bagbherenda, begberenda, bhernda, jabblota, jablota, jamal-ghota, jamalghota, jamnota, jangli-arandi, jangli-erandi, jangliarandi, jungli erand, pahari arand, pahari erand, paharierand, panch phuli, ratan-jhad, ratanjhad, ratanjot, ratanjyot, safe-dind, safed arand, safed-arand, safed-erandi, safedarand, safedind\nKannada (36): adalu haralu, adaluharalu, belioudalu, bettada-haralu, bettadaharalu, bettaharalu, dodda haralu, doddaharalu, dundagina gida, dundigina, dundigu, kaadu haralu, kachallu, kadaharalu, kadalambudu, kadallu, kadandla, kadi, kadubaralu, kaduharalu, karnocci, karnochchi, maraharalu, maraharlu, maranarulle, marayavudala, maraylavudala, marla, parangi haralu, parangiharalu, pharengiharalu, pharengilcala, ranniarendero, turakaharalu, turukaharalu, ucharale\nMalayalam (8): caakavanakoo, kaatavanako, kammatti, katalavanakku, katamanak, katamanakku, kattavanakku, kattuavanakku\nMarathi (10): erandi, jaiphal, jempel, mogaliaeranda, mogalieranda, moghli-erendi, mogli-erandi, ran-erandi, ranayerandi, ratanjot\nSanskrit (21): Sanskrit CommentsX akhuparnika, chitra, dravanti, kanana-eranda, kanana-kerundum, kananaeranda, kananakerundum, kananeranda, mushikaparni, nepala, nyagrodhi, paravata-yeranda, parvata-yeranda, parvatayeranda, parvateranda, pratyakshreni, randa, shanbari, sutashreni, vrisha, vyaghrairanda",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ecdf68855a0364e6eb3661e83dccb60"
+  ],
+  "source_record_ids": [
+    "links-0534"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ecdf68855a0364e6eb3661e83dccb60"
+    ],
+    "source_record_ids": [
+      "links-0534"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ecdf68855a0364e6eb3661e83dccb60",
+          "Plant Name": "Jatropha curcas Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Jatropha curcas Linn.",
+        "source_record_id": "links-0534",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ecdf68855a0364e6eb3661e83dccb60"
+      }
+    ],
+    "source_xplant_id": "6ecdf68855a0364e6eb3661e83dccb60",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

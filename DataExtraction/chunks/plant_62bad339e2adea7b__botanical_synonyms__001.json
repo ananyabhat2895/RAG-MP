@@ -1,0 +1,108 @@
+{
+  "chunk_id": "plant_62bad339e2adea7b__botanical_synonyms__001",
+  "plant_id": "plant_62bad339e2adea7b",
+  "plant_name": "Tecoma undulata G. Don.",
+  "botanical_name": "Tecomella undulata",
+  "botanical_authority": "(SM.)SEEM.",
+  "family": "BIGNONIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Tecoma undulata G.DON",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b90e24bb8c514451b8da9271860c3e2/xclkon/ab9fbf4582fc880d27129a89dd0fff2d",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b90e24bb8c514451b8da9271860c3e2"
+  ],
+  "source_record_ids": [
+    "links-1647",
+    "links-1656",
+    "links-1657",
+    "links-1658",
+    "links-1659",
+    "links-1661"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b90e24bb8c514451b8da9271860c3e2/xclkon/ab9fbf4582fc880d27129a89dd0fff2d",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b90e24bb8c514451b8da9271860c3e2"
+    ],
+    "source_record_ids": [
+      "links-1647",
+      "links-1656",
+      "links-1657",
+      "links-1658",
+      "links-1659",
+      "links-1661"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b90e24bb8c514451b8da9271860c3e2/xclkon/ab9fbf4582fc880d27129a89dd0fff2d",
+          "Plant Name": "Tecoma undulata G. Don.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tecoma undulata G. Don.",
+        "source_record_id": "links-1647",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b90e24bb8c514451b8da9271860c3e2/xclkon/ab9fbf4582fc880d27129a89dd0fff2d"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b90e24bb8c514451b8da9271860c3e2/xclkon/ab9fbf4582fc880d27129a89dd0fff2d",
+          "Plant Name": "Tecoma undulata (G. Don.)",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tecoma undulata (G. Don.)",
+        "source_record_id": "links-1656",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b90e24bb8c514451b8da9271860c3e2/xclkon/ab9fbf4582fc880d27129a89dd0fff2d"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b90e24bb8c514451b8da9271860c3e2",
+          "Plant Name": "Tecomella undulata",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tecomella undulata",
+        "source_record_id": "links-1657",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b90e24bb8c514451b8da9271860c3e2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b90e24bb8c514451b8da9271860c3e2",
+          "Plant Name": "Tecomella undulata (G. Don) Seem.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tecomella undulata (G. Don) Seem.",
+        "source_record_id": "links-1658",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b90e24bb8c514451b8da9271860c3e2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b90e24bb8c514451b8da9271860c3e2",
+          "Plant Name": "Tecomella undulata Seem.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tecomella undulata Seem.",
+        "source_record_id": "links-1659",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b90e24bb8c514451b8da9271860c3e2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b90e24bb8c514451b8da9271860c3e2/xclkon/ab9fbf4582fc880d27129a89dd0fff2d",
+          "Plant Name": "Tecoma undulata",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tecoma undulata",
+        "source_record_id": "links-1661",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b90e24bb8c514451b8da9271860c3e2/xclkon/ab9fbf4582fc880d27129a89dd0fff2d"
+      }
+    ],
+    "source_xplant_id": "8b90e24bb8c514451b8da9271860c3e2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

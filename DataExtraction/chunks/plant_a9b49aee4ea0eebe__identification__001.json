@@ -1,0 +1,82 @@
+{
+  "chunk_id": "plant_a9b49aee4ea0eebe__identification__001",
+  "plant_id": "plant_a9b49aee4ea0eebe",
+  "plant_name": "Stephania hernandifolia (Willd.) Walp.",
+  "botanical_name": "Stephania japonica",
+  "botanical_authority": "(THUNB.) MIERS.",
+  "family": "MENISPERMACEAE",
+  "section": "identification",
+  "content": "Plant name: Stephania hernandifolia (Willd.) Walp. Botanical name: Stephania japonica Botanical authority: (THUNB.) MIERS. Family: MENISPERMACEAE Source xplant ID: 41bb8e79ca9008863b51aee2e9b9ac0c",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c/xclkon/3001c0837b219c672e4d6afe2a9d953a",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c"
+  ],
+  "source_record_ids": [
+    "links-1500",
+    "links-1584",
+    "links-1585",
+    "links-1586"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c/xclkon/3001c0837b219c672e4d6afe2a9d953a",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c"
+    ],
+    "source_record_ids": [
+      "links-1500",
+      "links-1584",
+      "links-1585",
+      "links-1586"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c/xclkon/3001c0837b219c672e4d6afe2a9d953a",
+          "Plant Name": "Stephania hernandifolia (Willd.) Walp.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Stephania hernandifolia (Willd.) Walp.",
+        "source_record_id": "links-1500",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c/xclkon/3001c0837b219c672e4d6afe2a9d953a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c",
+          "Plant Name": "Stephania japonica Miers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Stephania japonica Miers.",
+        "source_record_id": "links-1584",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c",
+          "Plant Name": "Stephania japonica Miers. Var discolor",
+          "Status": "Found"
+        },
+        "source_plant_name": "Stephania japonica Miers. Var discolor",
+        "source_record_id": "links-1585",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c",
+          "Plant Name": "Stephania japonica Miers. Var japonica",
+          "Status": "Found"
+        },
+        "source_plant_name": "Stephania japonica Miers. Var japonica",
+        "source_record_id": "links-1586",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c"
+      }
+    ],
+    "source_xplant_id": "41bb8e79ca9008863b51aee2e9b9ac0c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

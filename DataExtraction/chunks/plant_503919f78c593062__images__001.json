@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_503919f78c593062__images__001",
+  "plant_id": "plant_503919f78c593062",
+  "plant_name": "Chenopodium album Linn.",
+  "botanical_name": "Chenopodium album",
+  "botanical_authority": "L.",
+  "family": "CHENOPODIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37433532fc0b9d0a01eb34d733ee80ab"
+  ],
+  "source_record_ids": [
+    "links-0446"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37433532fc0b9d0a01eb34d733ee80ab"
+    ],
+    "source_record_ids": [
+      "links-0446"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37433532fc0b9d0a01eb34d733ee80ab",
+          "Plant Name": "Chenopodium album Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Chenopodium album Linn.",
+        "source_record_id": "links-0446",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37433532fc0b9d0a01eb34d733ee80ab"
+      }
+    ],
+    "source_xplant_id": "37433532fc0b9d0a01eb34d733ee80ab",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

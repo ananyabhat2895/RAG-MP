@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4f442edd20d1474f__vernacular_names__001",
+  "plant_id": "plant_4f442edd20d1474f",
+  "plant_name": "Lochnera pusilla (Murr.) K. Schum.",
+  "botanical_name": "Catharanthus pusillus",
+  "botanical_authority": "(MURR.) G. DON",
+  "family": "APOCYNACEAE",
+  "section": "vernacular_names",
+  "content": "Kannada (1): bili kaasi kanigalu\nMalayalam (2): cupa-vela, kapavila\nMarathi (2): ran-kel, tiloni\nSanskrit (4): Sanskrit CommentsX sadampuspa, sanghaphuli, sangkhaphuli, sangkhi\nTamil (5): chetthai, kapa-vila, milakayc cakkalatti, paalaich, sangkhaphuli\nTelugu (8): billa ganneru, erri mirapa, gaddipoolu, gulvidi, kanupoolaku, sukbanda, sukka bommi, yerri mirapa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be52ef142a4bf30adacec5315f0ee7e5/xclkon/7b01c268d6be73ea6b355eb0cb9ecd6a"
+  ],
+  "source_record_ids": [
+    "links-1676"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be52ef142a4bf30adacec5315f0ee7e5/xclkon/7b01c268d6be73ea6b355eb0cb9ecd6a"
+    ],
+    "source_record_ids": [
+      "links-1676"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be52ef142a4bf30adacec5315f0ee7e5/xclkon/7b01c268d6be73ea6b355eb0cb9ecd6a",
+          "Plant Name": "Lochnera pusilla (Murr.) K. Schum.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lochnera pusilla (Murr.) K. Schum.",
+        "source_record_id": "links-1676",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be52ef142a4bf30adacec5315f0ee7e5/xclkon/7b01c268d6be73ea6b355eb0cb9ecd6a"
+      }
+    ],
+    "source_xplant_id": "be52ef142a4bf30adacec5315f0ee7e5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_dec4b92ef1d51105__distribution__001",
+  "plant_id": "plant_dec4b92ef1d51105",
+  "plant_name": "Croton oblongifolius",
+  "botanical_name": "Croton roxburghii",
+  "botanical_authority": "BALAK.",
+  "family": "EUPHORBIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - A S Chauhan, K P Singh, D K Singh; distribution: Distribution; title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1\nDistribution entry: author: Author - C.J SALDHANA; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-2\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39/xclkon/2ba2214c1eac5ed6152559704bdcaedb"
+  ],
+  "source_record_ids": [
+    "links-1351",
+    "links-1352"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39/xclkon/2ba2214c1eac5ed6152559704bdcaedb"
+    ],
+    "source_record_ids": [
+      "links-1351",
+      "links-1352"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39/xclkon/2ba2214c1eac5ed6152559704bdcaedb",
+          "Plant Name": "Croton oblongifolius",
+          "Status": "Found"
+        },
+        "source_plant_name": "Croton oblongifolius",
+        "source_record_id": "links-1351",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39/xclkon/2ba2214c1eac5ed6152559704bdcaedb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39/xclkon/2ba2214c1eac5ed6152559704bdcaedb",
+          "Plant Name": "Croton oblongifolius Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Croton oblongifolius Roxb.",
+        "source_record_id": "links-1352",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39/xclkon/2ba2214c1eac5ed6152559704bdcaedb"
+      }
+    ],
+    "source_xplant_id": "8783a7235f3055037ecf53fdd382fc39",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

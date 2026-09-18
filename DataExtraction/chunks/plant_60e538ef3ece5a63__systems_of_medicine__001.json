@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_60e538ef3ece5a63__systems_of_medicine__001",
+  "plant_id": "plant_60e538ef3ece5a63",
+  "plant_name": "Amaranthus spinosus Linn.",
+  "botanical_name": "Amaranthus spinosus",
+  "botanical_authority": "L.",
+  "family": "AMARANTHACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a6729b8a694c06ae22f4c4c81e30eab"
+  ],
+  "source_record_ids": [
+    "links-1255"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a6729b8a694c06ae22f4c4c81e30eab"
+    ],
+    "source_record_ids": [
+      "links-1255"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a6729b8a694c06ae22f4c4c81e30eab",
+          "Plant Name": "Amaranthus spinosus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Amaranthus spinosus Linn.",
+        "source_record_id": "links-1255",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a6729b8a694c06ae22f4c4c81e30eab"
+      }
+    ],
+    "source_xplant_id": "6a6729b8a694c06ae22f4c4c81e30eab",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

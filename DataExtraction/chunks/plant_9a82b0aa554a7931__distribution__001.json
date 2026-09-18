@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_9a82b0aa554a7931__distribution__001",
+  "plant_id": "plant_9a82b0aa554a7931",
+  "plant_name": "Vateria indica Linn.",
+  "botanical_name": "Vateria indica",
+  "botanical_authority": "L.",
+  "family": "DIPTEROCARPACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Ed. P. Daniel; distribution: Distribution; title: Title - The Flora of Kerala Vol I\nDistribution entry: author: Author - Botanicaly Survey of India; distribution: Distribution; title: Title - FLORA OF INDIA VOL 3\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4cb53b81e86d019935c6dc402d6307ca"
+  ],
+  "source_record_ids": [
+    "links-1752"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4cb53b81e86d019935c6dc402d6307ca"
+    ],
+    "source_record_ids": [
+      "links-1752"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4cb53b81e86d019935c6dc402d6307ca",
+          "Plant Name": "Vateria indica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vateria indica Linn.",
+        "source_record_id": "links-1752",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4cb53b81e86d019935c6dc402d6307ca"
+      }
+    ],
+    "source_xplant_id": "4cb53b81e86d019935c6dc402d6307ca",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

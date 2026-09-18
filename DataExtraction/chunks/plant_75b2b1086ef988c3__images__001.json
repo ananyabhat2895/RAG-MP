@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_75b2b1086ef988c3__images__001",
+  "plant_id": "plant_75b2b1086ef988c3",
+  "plant_name": "Elaeocarpus serratus Linn.",
+  "botanical_name": "Elaeocarpus serratus",
+  "botanical_authority": "L.",
+  "family": "ELAEOCARPACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93223a8a195ffeb9942a56f67c871d4d"
+  ],
+  "source_record_ids": [
+    "links-0567"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93223a8a195ffeb9942a56f67c871d4d"
+    ],
+    "source_record_ids": [
+      "links-0567"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93223a8a195ffeb9942a56f67c871d4d",
+          "Plant Name": "Elaeocarpus serratus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Elaeocarpus serratus Linn.",
+        "source_record_id": "links-0567",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93223a8a195ffeb9942a56f67c871d4d"
+      }
+    ],
+    "source_xplant_id": "93223a8a195ffeb9942a56f67c871d4d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

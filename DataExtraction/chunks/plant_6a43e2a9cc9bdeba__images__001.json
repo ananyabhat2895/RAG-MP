@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_6a43e2a9cc9bdeba__images__001",
+  "plant_id": "plant_6a43e2a9cc9bdeba",
+  "plant_name": "Tamarix aphylla (Linn.) Karst.",
+  "botanical_name": "Tamarix aphylla",
+  "botanical_authority": "(L.) KARST.",
+  "family": "TAMARICACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0750efa16d4c097c6f8f138e19e4548c"
+  ],
+  "source_record_ids": [
+    "links-0791",
+    "links-1202"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0750efa16d4c097c6f8f138e19e4548c"
+    ],
+    "source_record_ids": [
+      "links-0791",
+      "links-1202"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0750efa16d4c097c6f8f138e19e4548c",
+          "Plant Name": "Tamarix aphylla (Linn.) Karst.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tamarix aphylla (Linn.) Karst.",
+        "source_record_id": "links-0791",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0750efa16d4c097c6f8f138e19e4548c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0750efa16d4c097c6f8f138e19e4548c",
+          "Plant Name": "Tamarix aphylla Karst.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tamarix aphylla Karst.",
+        "source_record_id": "links-1202",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0750efa16d4c097c6f8f138e19e4548c"
+      }
+    ],
+    "source_xplant_id": "0750efa16d4c097c6f8f138e19e4548c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

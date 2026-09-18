@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_99e142550d783681__botanical_synonyms__001",
+  "plant_id": "plant_99e142550d783681",
+  "plant_name": "Caesalpinia bonducella",
+  "botanical_name": "Caesalpinia bonduc",
+  "botanical_authority": "(L.) ROXB.",
+  "family": "CAESALPINIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Caesalpinia bonducella (L.) FLEMING X Full Botanical citation - Caesalpinia bonducella (L.) Fleming in Asiat. Res. 11: 159. 1810 nom. illeg.; N.P.Singh &al., Fl.Maharashtra state, Dicotyledones, 1: Fl.India Ser. 2: 782. 2000. Guilandina bonducella L.\nSynonym: Caesalpinia bonducella (L.) FLEMING\nSynonym: Guilandina bonducella L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8771ef45a4117aec066c75b5b5a8f76a/xclkon/9352cc4c494e6878de04bb6fcd3f8925"
+  ],
+  "source_record_ids": [
+    "links-1294"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8771ef45a4117aec066c75b5b5a8f76a/xclkon/9352cc4c494e6878de04bb6fcd3f8925"
+    ],
+    "source_record_ids": [
+      "links-1294"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8771ef45a4117aec066c75b5b5a8f76a/xclkon/9352cc4c494e6878de04bb6fcd3f8925",
+          "Plant Name": "Caesalpinia bonducella",
+          "Status": "Found"
+        },
+        "source_plant_name": "Caesalpinia bonducella",
+        "source_record_id": "links-1294",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8771ef45a4117aec066c75b5b5a8f76a/xclkon/9352cc4c494e6878de04bb6fcd3f8925"
+      }
+    ],
+    "source_xplant_id": "8771ef45a4117aec066c75b5b5a8f76a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

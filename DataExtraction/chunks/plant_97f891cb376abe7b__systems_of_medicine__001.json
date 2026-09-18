@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_97f891cb376abe7b__systems_of_medicine__001",
+  "plant_id": "plant_97f891cb376abe7b",
+  "plant_name": "Hibiscus rosa-sinensis Linn.",
+  "botanical_name": "Hibiscus rosa-sinensis",
+  "botanical_authority": "L.",
+  "family": "MALVACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5769056afed91cbb4b41b2da6a52b5c7"
+  ],
+  "source_record_ids": [
+    "links-0769"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5769056afed91cbb4b41b2da6a52b5c7"
+    ],
+    "source_record_ids": [
+      "links-0769"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5769056afed91cbb4b41b2da6a52b5c7",
+          "Plant Name": "Hibiscus rosa-sinensis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hibiscus rosa-sinensis Linn.",
+        "source_record_id": "links-0769",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5769056afed91cbb4b41b2da6a52b5c7"
+      }
+    ],
+    "source_xplant_id": "5769056afed91cbb4b41b2da6a52b5c7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

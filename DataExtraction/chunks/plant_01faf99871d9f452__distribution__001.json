@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_01faf99871d9f452__distribution__001",
+  "plant_id": "plant_01faf99871d9f452",
+  "plant_name": "Bridelia montana",
+  "botanical_name": "Bridelia montana",
+  "botanical_authority": "WILLD.",
+  "family": "EUPHORBIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ac39a5388fb238319c53c0a748a1849"
+  ],
+  "source_record_ids": [
+    "links-0170"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ac39a5388fb238319c53c0a748a1849"
+    ],
+    "source_record_ids": [
+      "links-0170"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ac39a5388fb238319c53c0a748a1849",
+          "Plant Name": "Bridelia montana",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bridelia montana",
+        "source_record_id": "links-0170",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ac39a5388fb238319c53c0a748a1849"
+      }
+    ],
+    "source_xplant_id": "0ac39a5388fb238319c53c0a748a1849",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

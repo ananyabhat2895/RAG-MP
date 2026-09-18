@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b502c69ede25ecd1__vernacular_names__001",
+  "plant_id": "plant_b502c69ede25ecd1",
+  "plant_name": "Euphorbia neriifolia Linn.",
+  "botanical_name": "Euphorbia neriifolia",
+  "botanical_authority": "L.",
+  "family": "EUPHORBIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (10): danda thuar, danda-thor, gangi-chhu, patton-ke-send, patton-ki-send, pattonkisend, sehund, sij, thohar, thuar\nKannada (11): aelaegalli, dundukalli, elegalli, elekalli, gootagalli, ilaikalli, irekalli, mundagalli, yalekalli, yellegulla, yellikalli\nMalayalam (5): elakkalli, ilaikalli, ilakalli, ilakkalli, kalli\nMarathi (10): kaantethos, mingut, nevagunda, newrang, nial kamtem, nivadunga, saabar-kaanda, thora, vainivadunga, vayinivadunga\nSanskrit (22): Sanskrit CommentsX gudha, nagarika, nanda, nistrinsapatra, patrasnuhi, patrasnuk, puttakarie, sakhakanda, samantadugdhaka, seej, sehunda, sehundah, snoohi, snuhi, snuk, sudha, svarasana, vajra, vajravrksa, vajri, vijri, vujri\nTamil (78): ainkonakkalli, anaittarukkan, aranciruku, caciyami, caciyamikkalli, camattuttaccam, catakkai, catakkaicceti, cevikkalli, cilantinayakam 1, cinittam, cunkatam, ekavirakkalli, ekaviram, elekullie, icaimuti 1, ilai-kalli, ilaic cevikkalli, ilaik-kalli, ilaikkalli, ilaippacikkalli, innalai, kalli, kapanilakkinam, katarralikam, katarralikkalli, katukam 1, katutittacam, kunakki, kunayikkutaiyal, kunmanacani, kunmanittirincam, kunmattaippokki, manar, manattakkali, manca, mancarakkalli, mancaram, mancevi, mancevikkalli#, mancevikkalli@, manjevi, miruturecani@, mucalcevikkalli, mucarcevi, mucarcevikkalli, mulaittaci, mutakapani, muyar cevikkallu, muyarcevikkalli, muyarpelakam, muyarpelakkalli, nadangi, nakanay, nalainkalli, natanki, nattanki, nayin pattiri, naykkalli, naynakki, naynakkipputu, naynakku, naynakkukkalli, payaca, picakavayakkalli, picakavayam, pilavaikkolli, poruttavi, poruttavikkalli, punakam, sadurakalli, talaikkalli, tapilikai, terravacceti, ulokapantani, vaccirakanta, vannikaram, vattampam\nTelugu (5): aakujemmudu, aku-jemudu, akujamudu, akujemudu, akujimudu\nTibetan (2): si ri kha nda, snu-ha\nUrdu (1): thuhar",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/24690dc57b78b6e616afd381ad275dfd"
+  ],
+  "source_record_ids": [
+    "links-1820"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/24690dc57b78b6e616afd381ad275dfd"
+    ],
+    "source_record_ids": [
+      "links-1820"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/24690dc57b78b6e616afd381ad275dfd",
+          "Plant Name": "Euphorbia neriifolia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia neriifolia Linn.",
+        "source_record_id": "links-1820",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/24690dc57b78b6e616afd381ad275dfd"
+      }
+    ],
+    "source_xplant_id": "24690dc57b78b6e616afd381ad275dfd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

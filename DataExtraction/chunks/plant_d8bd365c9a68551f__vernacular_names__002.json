@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d8bd365c9a68551f__vernacular_names__002",
+  "plant_id": "plant_d8bd365c9a68551f",
+  "plant_name": "Asteracantha longifolia Nees.",
+  "botanical_name": "Hygrophila schulli",
+  "botanical_authority": "(HAM.) M.R. & S.M. ALMEIDA",
+  "family": "ACANTHACEAE",
+  "section": "vernacular_names",
+  "content": "Telugu (15): gobbi, gubbi chettu, kokilaksamu, kokilakshi, korimidi, mullagobbi, neerguviveru, neerugobbi, neerugubbi, neery golimidi, nirguvi-veru, nirugobbi, niruguviveru, niti gobbi, niti malli\nTibetan (2): ko ki la ksa ka, ksu-ra\nUrdu (2): tal makhana, talmakhana",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/da8288e06b3db16072344685f795b14d"
+  ],
+  "source_record_ids": [
+    "links-1062"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/da8288e06b3db16072344685f795b14d"
+    ],
+    "source_record_ids": [
+      "links-1062"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/da8288e06b3db16072344685f795b14d",
+          "Plant Name": "Asteracantha longifolia Nees.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Asteracantha longifolia Nees.",
+        "source_record_id": "links-1062",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/da8288e06b3db16072344685f795b14d"
+      }
+    ],
+    "source_xplant_id": "f2a716233e942c22d7165568a5a1341d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

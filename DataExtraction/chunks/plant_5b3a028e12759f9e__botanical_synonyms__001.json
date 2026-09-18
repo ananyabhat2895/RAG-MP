@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5b3a028e12759f9e__botanical_synonyms__001",
+  "plant_id": "plant_5b3a028e12759f9e",
+  "plant_name": "Hymenodictyon excelsum Wall.",
+  "botanical_name": "Hymenodictyon orixense",
+  "botanical_authority": "(ROXB.) MABBERLEY",
+  "family": "RUBIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Cinchona excelsa ROXB. Hymenodictyon excelsum WALL. X Full Botanical citation - Hymenodictyon excelsum (Roxb.) Wall. in Roxb., Fl. Indica 2: 149. 1824; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 536.1999.\nSynonym: Cinchona excelsa ROXB.\nSynonym: Hymenodictyon excelsum WALL.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21fd547f4d494d07cb6c4471820fd2dc/xclkon/6609de9df0709f1f6de0e1443feb01eb"
+  ],
+  "source_record_ids": [
+    "links-0328"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21fd547f4d494d07cb6c4471820fd2dc/xclkon/6609de9df0709f1f6de0e1443feb01eb"
+    ],
+    "source_record_ids": [
+      "links-0328"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21fd547f4d494d07cb6c4471820fd2dc/xclkon/6609de9df0709f1f6de0e1443feb01eb",
+          "Plant Name": "Hymenodictyon excelsum Wall.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hymenodictyon excelsum Wall.",
+        "source_record_id": "links-0328",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21fd547f4d494d07cb6c4471820fd2dc/xclkon/6609de9df0709f1f6de0e1443feb01eb"
+      }
+    ],
+    "source_xplant_id": "21fd547f4d494d07cb6c4471820fd2dc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

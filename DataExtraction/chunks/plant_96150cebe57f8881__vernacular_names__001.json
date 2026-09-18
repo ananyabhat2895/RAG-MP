@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_96150cebe57f8881__vernacular_names__001",
+  "plant_id": "plant_96150cebe57f8881",
+  "plant_name": "Lodoicea maldivica (Poir.) Pers.",
+  "botanical_name": "Lodoicea maldivica",
+  "botanical_authority": "(POIR.) PERS.",
+  "family": "ARECACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): coco-de-mer palm, double coconut palm\nHindi (6): dariya-i-nariyal, darva-ka-nariyal, darya-ka-nariyal, daryaka-nariyal, daryakanariyal, daryakanaryal\nKannada (2): kadalu thengu, kadalutengu\nMalayalam (6): aklarittenna, akraritennu, kadala-tangay, katal-tenna, kataltenna, katalttenna\nMarathi (3): daryaach naarl, jaahari naaral, jahari-naral\nSanskrit (7): Sanskrit CommentsX abdhinarikelah, agnijarah, aklari, arkaraga, arkaragah, samudranarikela, ubdienarikaylum\nTamil (12): kadalttengai, kadarrengu, kadartengay, kadarthengai, kadat-rengay, kadattengai, kaddil tayngai, kapparrenkay, katal tenkay, katarrenkay, katarrenku, malattivuttenkay\nTelugu (5): samadraputhekaaya, samudrapu, samudrapu-tenkaya, samudraputenkaya, tenkaya\nUrdu (2): narialdaryaee, narjeel daryaee",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/770f328a0c95044142db38382574f2af"
+  ],
+  "source_record_ids": [
+    "links-1710"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/770f328a0c95044142db38382574f2af"
+    ],
+    "source_record_ids": [
+      "links-1710"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/770f328a0c95044142db38382574f2af",
+          "Plant Name": "Lodoicea maldivica (Poir.) Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lodoicea maldivica (Poir.) Pers.",
+        "source_record_id": "links-1710",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/770f328a0c95044142db38382574f2af"
+      }
+    ],
+    "source_xplant_id": "770f328a0c95044142db38382574f2af",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

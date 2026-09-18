@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_46682eae857969ff__botanical_synonyms__001",
+  "plant_id": "plant_46682eae857969ff",
+  "plant_name": "Cedrela toona",
+  "botanical_name": "Cedrela toona",
+  "botanical_authority": "ROXB.",
+  "family": "MELIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Teona ciliata ROEM. Toona ciliata ROEM. X Full Botanical citation - Toona ciliata Roem. Syst. Hesp. 136. 1846; N.P.Singh &al., Fl.Maharashtra state, Dicotyledones, 1: Fl.India Ser. 2: 508. 2000.\nSynonym: Teona ciliata ROEM.\nSynonym: Toona ciliata ROEM.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52c82345cac6d02ebb5565290d2a1171"
+  ],
+  "source_record_ids": [
+    "links-1377"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52c82345cac6d02ebb5565290d2a1171"
+    ],
+    "source_record_ids": [
+      "links-1377"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52c82345cac6d02ebb5565290d2a1171",
+          "Plant Name": "Cedrela toona",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cedrela toona",
+        "source_record_id": "links-1377",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52c82345cac6d02ebb5565290d2a1171"
+      }
+    ],
+    "source_xplant_id": "52c82345cac6d02ebb5565290d2a1171",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

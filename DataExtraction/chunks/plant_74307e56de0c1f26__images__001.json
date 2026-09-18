@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_74307e56de0c1f26__images__001",
+  "plant_id": "plant_74307e56de0c1f26",
+  "plant_name": "Clematis triloba",
+  "botanical_name": "Clematis triloba",
+  "botanical_authority": "HEYNE",
+  "family": "RANUNCULACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1334cc2a4429e00ae0911dfb57dac9db"
+  ],
+  "source_record_ids": [
+    "links-1319"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1334cc2a4429e00ae0911dfb57dac9db"
+    ],
+    "source_record_ids": [
+      "links-1319"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1334cc2a4429e00ae0911dfb57dac9db",
+          "Plant Name": "Clematis triloba",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clematis triloba",
+        "source_record_id": "links-1319",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1334cc2a4429e00ae0911dfb57dac9db"
+      }
+    ],
+    "source_xplant_id": "1334cc2a4429e00ae0911dfb57dac9db",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

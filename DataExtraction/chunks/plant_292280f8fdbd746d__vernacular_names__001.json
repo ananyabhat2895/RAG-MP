@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_292280f8fdbd746d__vernacular_names__001",
+  "plant_id": "plant_292280f8fdbd746d",
+  "plant_name": "Nymphaea nouchali Burm. f.",
+  "botanical_name": "Nymphaea nouchali",
+  "botanical_authority": "BURM. F.",
+  "family": "NYMPHAEACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): egyptian lotus\nHindi (10): bhenght, chota kanval, kamal, kanval, koi, koka, kokka, krishna-kamal, kumudini, nilofar\nKannada (11): bile-naidilay, bile-tavaray, bilenaydilie, biletavare, kannaidele, kannaidile, kendaavare, kole hoo, neela naidile, neela thaavare, neela thavare\nMalayalam (5): ambel, ampal, cit-ambel, neerampal, vellanpal\nMarathi (9): kamal, krishna-kamal, krishnakamal, laal kamal, lal-kamal, lalakamal, raktakamal, saalaka, salak\nSanskrit (37): Sanskrit CommentsX alagandha, alipriya, alohita, alpapatra, anda, aravinda, arunakamala, bhadra, charunalaka, cumuda, hallaka, indivara, kalharamu, kamala, kokanada, krishnakktotpala, kumuda, kumudam, kunalaya, nilotpala, raktakairava, raktakalhara, raktakamala, raktakumuda, raktambhoja, raktasandhyaka, raktasaroruha, raktavarija, raktavarna, raktotpal, raktotpala, ravipriya, rochana, sandhyaka, shonapadma, somakhya, utpala\nTamil (91): alacam, alakam, allacikkoti, allai, allari, alli, alli mulam, alli ver, alliri, allitamarai, allittamarai, ampal, ampar, ariyakacakkoti, ariyakacam, ataivu, atti, cacampariyam, cacampiriyakkoti, cacampiriyam, cacippiriyam, cantirakantam#, cantirakantam@, cantirakanti, cantirakantimulam, caukantikam, cauntiriyam, cayaka, cayakakkoti, cayam, cevvampal, cikorakam, ciriyaputpam, citalakam 1, comapantu, ilapetaki, indiravacham, intiravacam, intiravamam 1, intukamalam, iramakkaruni, itciyakam, iyakkurotakkoti, iyakkurotam 1, kan 1, karttapam, karttavam, karuneythal, katirppakai, kavelam, kaya 1, kotiyampal, kulai, kulavampal, kumutaki, kumutakikkoti, kumutastam, kuvalakam, kuvalayam 1, kuvam, kuvelam, kuvelayam, mulakkoti, nedel kalung, neithal, neytar kilanku, nicakacam, nicapuspam, nicaputpam, nikacakakkoti, nikacakam, nikacam, nilotpalam, nirkkamalli, pakarvili, pakarvilikkoti, pennaracukkoti, punnakam 1, raivatakkoti, raivatam, tarpalam, tavalorpalam, tikkayam, tuvicatam, vellaialli, vellaiyallikkoti, vellambal, vellampal, venalli, venkumutakkoti, venkumutam\nTelugu (18): alli kaada, allikada, chandova, changaluva, chitti kaluva, erra kaluva, errakuluva, indeevaramu, indivara, kalava puvvu, kaluva, kaluvva poovu, nalla kalava, nallani padmamu, neeti tamara, tellakaluva, thaamara, thellakalava\nTibetan (1): u tpa la dmar po\nUrdu (3): gul nih far, gul nilofar, nilofar",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0459d5bd9c193f238f01385c30b35165",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0459d5bd9c193f238f01385c30b35165/xclkon/8c61940c2b90c0f19ac81e88fad98490"
+  ],
+  "source_record_ids": [
+    "links-1116",
+    "links-1117",
+    "links-1597"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0459d5bd9c193f238f01385c30b35165",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0459d5bd9c193f238f01385c30b35165/xclkon/8c61940c2b90c0f19ac81e88fad98490"
+    ],
+    "source_record_ids": [
+      "links-1116",
+      "links-1117",
+      "links-1597"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0459d5bd9c193f238f01385c30b35165",
+          "Plant Name": "Nymphaea nouchali Burm. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Nymphaea nouchali Burm. f.",
+        "source_record_id": "links-1116",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0459d5bd9c193f238f01385c30b35165"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0459d5bd9c193f238f01385c30b35165",
+          "Plant Name": "Nymphaea nouchali Burm.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Nymphaea nouchali Burm.f.",
+        "source_record_id": "links-1117",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0459d5bd9c193f238f01385c30b35165"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0459d5bd9c193f238f01385c30b35165/xclkon/8c61940c2b90c0f19ac81e88fad98490",
+          "Plant Name": "Nymphaea rubra Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Nymphaea rubra Roxb.",
+        "source_record_id": "links-1597",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0459d5bd9c193f238f01385c30b35165/xclkon/8c61940c2b90c0f19ac81e88fad98490"
+      }
+    ],
+    "source_xplant_id": "0459d5bd9c193f238f01385c30b35165",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

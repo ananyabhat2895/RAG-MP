@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_27060408715fb658__botanical_synonyms__001",
+  "plant_id": "plant_27060408715fb658",
+  "plant_name": "Flacourtia sepiaria Roxb.",
+  "botanical_name": "Flacourtia indica",
+  "botanical_authority": "(BURM.F.)",
+  "family": "FLACOURTIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Flacourtia sepiaria ROXB. X Full Botanical citation - Flacourtia sepiaria Roxb., Pl. Corom. 1: 48, t. 68. 1796; R.L.Mitra in B.D.Sharma & N.P. Balakr., Fl. India 2: 402. 1993 Sideroxylon spinosum WILLD.\nSynonym: Flacourtia sepiaria ROXB.\nSynonym: Sideroxylon spinosum WILLD.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2/xclkon/dd7d4036a32c36b7fc7182560be7f1c2",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2"
+  ],
+  "source_record_ids": [
+    "links-1050",
+    "links-2101"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2/xclkon/dd7d4036a32c36b7fc7182560be7f1c2",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2"
+    ],
+    "source_record_ids": [
+      "links-1050",
+      "links-2101"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2/xclkon/dd7d4036a32c36b7fc7182560be7f1c2",
+          "Plant Name": "Flacourtia sepiaria Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Flacourtia sepiaria Roxb.",
+        "source_record_id": "links-1050",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2/xclkon/dd7d4036a32c36b7fc7182560be7f1c2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2",
+          "Plant Name": "Flacourtia indica Merr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Flacourtia indica Merr.",
+        "source_record_id": "links-2101",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2"
+      }
+    ],
+    "source_xplant_id": "0a51b919c7926844e164c464ec8d28e2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

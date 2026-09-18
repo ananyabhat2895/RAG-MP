@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5e29c06bbdf9d8a7__vernacular_names__001",
+  "plant_id": "plant_5e29c06bbdf9d8a7",
+  "plant_name": "Cassia auriculata Linn.",
+  "botanical_name": "Cassia auriculata",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (9): anwal, aval, awai, tarawar, taroda, tarval, tarvar, tarwan, tarwar\nKannada (30): aavarike, athi, avara, avara-gida, avarakka, avarike, avarikke, bobbade, cakusina, chaknsiva, chakoosina gida, charma hada aavarike, chookusina gida, honnaavare, honnaavarike, honnarike, honnavari gida, honnavarike, olaniyaro, olle thangadi, olletangadi, olletangedi, olletangedu, sakusina, tangadi, tangadi-gida, tangedi, taravada, taravada-gida, thangadi\nMalayalam (7): avara, avarakka, avaram, aveeram, aviram, jimute, ponnaviram\nMarathi (8): arsuai, avul, taravada, taroda, tarvad, tarwad, tarwar, tharoda\nSanskrit (20): Sanskrit CommentsX adarisimbi, ahula, ahulya, ahulyam, avartaki, avarttaki, awarteki, bhumyahulya, carmaranga, charamranga, charmaranga, mandari, mayahari, mayharie, pitakalika, pitakilaka, pitapuspa, talopota, timirihari, visanika\nTamil (102): aavaarai, aavarai, akuli, anakavarai, anakavaraicceti, avarai, avarai#, avarai@, avaraicceti, avaram, avaram@, avary, avavirai, avaviraicceti, avirae, avirai, avirai arici, aviraittol, aviraiyilai, avirantol, aviri, aviricceti, cakacaka, cakuli, canakkirampul, caruvantirakam, catilaka, catilakacceti, catinakam, catinam, catirakuli, caturkkalicceti, caturkkuli, caturkuli, cemmai, cemmala, cemmalai, cemmalaviraicceti, ceppalai, cicuravikam, cittiraippal 2, corikkattai, cularai, cummai, cutcumapattiram, cuvarnaputpatam, emaputpi, ilanci, kapalacanti, kapalatti, kapalatticceti, kari 1, karikacceti, katavukacikacceti, katavukacikam, kotaikkuvatan@, kotakacalai 1, mancalavarai, mekacatturu, mekamaki, mekari, mekari 3, mikupattam, mikupattavarai, muntakaveni, muntakavenicceti, nattavarai, nattunilavarai, patarai 2, pataraicceti, periyaavirai, periyatakarai, peyaviram, pitantavarai, pitaputpi, pitattavarai, rukkumam, sadurguli, sadurgulu, semmalai, summai, talapattiram, talapetam, talapotakam, talapotam, talapotam#, talapotam@, talapotavirai, tamirakari, tankamavarai, tavapotakam, turonikai, turonikaivirai, tuvakai, vanamakiyamuli, vanamakumuli, vanamikumuli, vanamikuntamulicceti, vanamulikai, vanatteri, vanattericceti, varnaputpakam\nTelugu (12): avaray, merakatangedu, merakathangedu, merikatangaru, merka tangedu, tangar, tangedu, tangera, tanghedu, tangheroo, thangedu, thangera",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6508eac4f485855d8583f31fc94a2c57"
+  ],
+  "source_record_ids": [
+    "links-0006"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6508eac4f485855d8583f31fc94a2c57"
+    ],
+    "source_record_ids": [
+      "links-0006"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6508eac4f485855d8583f31fc94a2c57",
+          "Plant Name": "Cassia auriculata Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cassia auriculata Linn.",
+        "source_record_id": "links-0006",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6508eac4f485855d8583f31fc94a2c57"
+      }
+    ],
+    "source_xplant_id": "6508eac4f485855d8583f31fc94a2c57",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_93f37f070c97addf__botanical_synonyms__001",
+  "plant_id": "plant_93f37f070c97addf",
+  "plant_name": "Setaria italica Beauv.",
+  "botanical_name": "Setaria italica",
+  "botanical_authority": "(L.) BEAUV",
+  "family": "POACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Panicum italicum L. X Full Botanical citation - Panicum italiacum L., Sp. Pl. 56. 1753; R.D.Gaur, Fl. Dist. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 690. 1999.\nSynonym: Panicum italicum L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d"
+  ],
+  "source_record_ids": [
+    "links-0902",
+    "links-0903",
+    "links-1546"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d"
+    ],
+    "source_record_ids": [
+      "links-0902",
+      "links-0903",
+      "links-1546"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d",
+          "Plant Name": "Setaria italica Beauv.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Setaria italica Beauv.",
+        "source_record_id": "links-0902",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d",
+          "Plant Name": "Setaria italica Linn. Beauv.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Setaria italica Linn. Beauv.",
+        "source_record_id": "links-0903",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d",
+          "Plant Name": "Setaria italica",
+          "Status": "Found"
+        },
+        "source_plant_name": "Setaria italica",
+        "source_record_id": "links-1546",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d"
+      }
+    ],
+    "source_xplant_id": "531a08f076a25952ab592dbcd554bd1d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

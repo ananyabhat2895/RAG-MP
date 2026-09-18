@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_344e05583c25f2dd__systems_of_medicine__001",
+  "plant_id": "plant_344e05583c25f2dd",
+  "plant_name": "Thymus serpyllum Linn.",
+  "botanical_name": "Thymus serpyllum",
+  "botanical_authority": "L.",
+  "family": "LAMIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Unani\nSystem of medicine: Homeopathy\nSystem of medicine: Folk Botanical Synonyms (1) - Thymus linearis BENTH.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864390e41471024ac71fcfada20e4a86"
+  ],
+  "source_record_ids": [
+    "links-0043"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864390e41471024ac71fcfada20e4a86"
+    ],
+    "source_record_ids": [
+      "links-0043"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864390e41471024ac71fcfada20e4a86",
+          "Plant Name": "Thymus serpyllum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Thymus serpyllum Linn.",
+        "source_record_id": "links-0043",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864390e41471024ac71fcfada20e4a86"
+      }
+    ],
+    "source_xplant_id": "864390e41471024ac71fcfada20e4a86",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

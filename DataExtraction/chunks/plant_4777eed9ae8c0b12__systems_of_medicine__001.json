@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4777eed9ae8c0b12__systems_of_medicine__001",
+  "plant_id": "plant_4777eed9ae8c0b12",
+  "plant_name": "Crotalaria juncea Linn.",
+  "botanical_name": "Crotalaria juncea",
+  "botanical_authority": "L.",
+  "family": "FABACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk Botanical Synonyms (1) - Crotalaria benghalensis LAM. X Full Botanical citation - Crotalaria benghalensis Lam.\nSystem of medicine: Encycl. 2: 196. 1786; Ansari A.A.\nSystem of medicine: Crotalaria L. in India\nSystem of medicine: Bishen Singh Mahendra Pal Singh\nSystem of medicine: Dehra Dun\nSystem of medicine: 95. 2008_x000D_ _x000D_",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/383535346e3b0c21480413dd41563a8b"
+  ],
+  "source_record_ids": [
+    "links-1712"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/383535346e3b0c21480413dd41563a8b"
+    ],
+    "source_record_ids": [
+      "links-1712"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/383535346e3b0c21480413dd41563a8b",
+          "Plant Name": "Crotalaria juncea Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Crotalaria juncea Linn.",
+        "source_record_id": "links-1712",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/383535346e3b0c21480413dd41563a8b"
+      }
+    ],
+    "source_xplant_id": "383535346e3b0c21480413dd41563a8b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

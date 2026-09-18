@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_59db8f6bd96e2b0b__vernacular_names__001",
+  "plant_id": "plant_59db8f6bd96e2b0b",
+  "plant_name": "Lepidium iberis Linn.",
+  "botanical_name": "Lepidium iberis",
+  "botanical_authority": "POLL .",
+  "family": "BRASSICACEAE",
+  "section": "vernacular_names",
+  "content": "Sanskrit (1): Sanskrit CommentsX svetatodari\nUrdu (12): araq-e-saman, aroliman, aroosahan, dareena, jaara, labsaan, maar daraqath, matjaara, qadooma, tadari, todaranj, todari",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/397935253aeae41262bd8ea379f8bf46"
+  ],
+  "source_record_ids": [
+    "links-1970",
+    "links-1971"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/397935253aeae41262bd8ea379f8bf46"
+    ],
+    "source_record_ids": [
+      "links-1970",
+      "links-1971"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/397935253aeae41262bd8ea379f8bf46",
+          "Plant Name": "Lepidium iberis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lepidium iberis Linn.",
+        "source_record_id": "links-1970",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/397935253aeae41262bd8ea379f8bf46"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/397935253aeae41262bd8ea379f8bf46",
+          "Plant Name": "Lepidium iberis Linn. var. alba",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lepidium iberis Linn. var. alba",
+        "source_record_id": "links-1971",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/397935253aeae41262bd8ea379f8bf46"
+      }
+    ],
+    "source_xplant_id": "397935253aeae41262bd8ea379f8bf46",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

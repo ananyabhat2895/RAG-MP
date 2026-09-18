@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_7b498d1c4cdd15c1__bibliography__001",
+  "plant_id": "plant_7b498d1c4cdd15c1",
+  "plant_name": "Phaseolus lunatus Linn.",
+  "botanical_name": "Phaseolus lunatus",
+  "botanical_authority": "L.",
+  "family": "FABACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol I\nBibliography entry: title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68082995869e371287e15f5af82cfbb7"
+  ],
+  "source_record_ids": [
+    "links-0064"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68082995869e371287e15f5af82cfbb7"
+    ],
+    "source_record_ids": [
+      "links-0064"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68082995869e371287e15f5af82cfbb7",
+          "Plant Name": "Phaseolus lunatus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Phaseolus lunatus Linn.",
+        "source_record_id": "links-0064",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68082995869e371287e15f5af82cfbb7"
+      }
+    ],
+    "source_xplant_id": "68082995869e371287e15f5af82cfbb7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

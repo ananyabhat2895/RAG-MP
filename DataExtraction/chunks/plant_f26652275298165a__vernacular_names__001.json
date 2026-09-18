@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_f26652275298165a__vernacular_names__001",
+  "plant_id": "plant_f26652275298165a",
+  "plant_name": "Bauhinia purpurea Linn.",
+  "botanical_name": "Bauhinia purpurea",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (21): ashta, gairal, guiral, gurial, jhinjhora, kachnar, kaliar, kandan, kaniar, karal, karial, khairwal, koilari, koinar, koliar, kwiryal, lal kachnar, lal karal, makkuna, mawai, sona\nKannada (22): akilu, arelu, banne, basavanapadu, deva kaanchana, kanchivaala, kanchivala, kanchuvaala, kancivala, kanjivala, kempu kanchivaala, kempu kanchuvaala, kempu mandaara, kempukanchavala, kempukancivala, kempukanjivala, kempumandaara, kempumandara, mandara, sarul, uleppe, ulipe\nMalayalam (5): chovanna-mandaru, chovannamandaru, cuvannamandaram, mandaram, suvannamandaram\nMarathi (11): atmatti, dev kanchan, deva, devana kanchana, kanchan, kanchana, ragtachandan, ragthachandan, rakta kanchan, raktha kaanchan, tambdo-apto\nSanskrit (11): Sanskrit CommentsX camarikah, kancanarah, kanchan, kovidara, kovidarah, mahayamalapatrakah, raktakovidara, raktapushpakovidara, swetakancanara, tamrapuspah, vanaraja\nTamil (31): acanomantarai, acanomantaraimaram, acuvacampurappu, arputaveni, atthi, cikappu mantarai, compucikam, compucikamaram, kalarviluti, kalavilaccai#, kalavilaccai@, kalavilaichi, kalaviluti2, karuppumantarai, kattu mantarai, mancaltarai, mancaltaraimaram, mandarai, mandareh, mandari, mandharai, mantarai, mantharai, mutiraikkali, nilataru2, nilattiruvatti, periyavatti, punkaram, purapicam, segappumandarai, ulittikam\nTelugu (12): aroe, bodanta, bodanta chettu, deva-kasla, devakaanchanamu, devakanjanamu, kaanchanamu, kanchanam, kanjanamu, peddaare, peddare, peddari\nTibetan (3): go bi da ra (p), ko bi da ra, ko bid dri (d)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51bf46b3309a3cbde5d4370caff2809b"
+  ],
+  "source_record_ids": [
+    "links-0890"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51bf46b3309a3cbde5d4370caff2809b"
+    ],
+    "source_record_ids": [
+      "links-0890"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51bf46b3309a3cbde5d4370caff2809b",
+          "Plant Name": "Bauhinia purpurea Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bauhinia purpurea Linn.",
+        "source_record_id": "links-0890",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51bf46b3309a3cbde5d4370caff2809b"
+      }
+    ],
+    "source_xplant_id": "51bf46b3309a3cbde5d4370caff2809b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

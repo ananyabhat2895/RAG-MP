@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_3b30d8ff19e57017__bibliography__001",
+  "plant_id": "plant_3b30d8ff19e57017",
+  "plant_name": "Aconitum chasmanthum",
+  "botanical_name": "Aconitum chasmanthum",
+  "botanical_authority": "STAPF EX HOLMES",
+  "family": "RANUNCULACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: title: Title - FLORA OF INDIA VOL 1\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol I\nBibliography entry: title: Title - Medicinal and Aromatic Plants of Himachal Pradesh\nBibliography entry: title: Title - Aconites of India -A monograph",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf27c32bc3526ce4bc9be16c6daad6ce"
+  ],
+  "source_record_ids": [
+    "links-1853",
+    "links-2073"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf27c32bc3526ce4bc9be16c6daad6ce"
+    ],
+    "source_record_ids": [
+      "links-1853",
+      "links-2073"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf27c32bc3526ce4bc9be16c6daad6ce",
+          "Plant Name": "Aconitum chasmanthum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aconitum chasmanthum",
+        "source_record_id": "links-1853",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf27c32bc3526ce4bc9be16c6daad6ce"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf27c32bc3526ce4bc9be16c6daad6ce",
+          "Plant Name": "Aconitum chasmanthum Stapf ex Holmes.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aconitum chasmanthum Stapf ex Holmes.",
+        "source_record_id": "links-2073",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf27c32bc3526ce4bc9be16c6daad6ce"
+      }
+    ],
+    "source_xplant_id": "bf27c32bc3526ce4bc9be16c6daad6ce",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

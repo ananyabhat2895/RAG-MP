@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_26db341fdfd05b68__vernacular_names__002",
+  "plant_id": "plant_26db341fdfd05b68",
+  "plant_name": "Gloriosa superba Linn.",
+  "botanical_name": "Gloriosa superba",
+  "botanical_authority": "L.",
+  "family": "LILIACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (78): akkinichilam, alalavayiram, anantai 4, anaravam, anaravan, anarvan, ancanala 2, centonri, cevakanar kilanku, cevakanputu, chevaganar-kizhangu, cikappukkantal, civacaktivalli, civanarkilanku, civappukkantal, ilangali, ilankali, intuputpikam, iradi, irati 2, iratiputam, irumbu, irumpu, irumputu, itankali k kilanku, kaanthal kizhangu, kai 2, kairam, kalaippaik-kizhangu, kalapai-k-kilanku, kalapai-kilang, kalappai kizhangu, kalappai-k-kilanku, kalappaikizhangu, kalappaikkilangu, kalappaikkilanku, kalappaikkilankucceti, kalappakilangu, kalappankizhangu kaanthal, kalippaikizhangu, kandal, kannovu, kannovuppuntu, kannuvelli, kantakkilanku, kantal, kantavacikaram, kantavacikarappu, karltigaikkilangu, karthigai kilang, kartikkai-kizhangu, karttikai, karttikai-k-kilanku, karttikaik-kizhangu, karttikaippu, kodai, kotai, kurincippu, kurutikkantal, milankali 1, milankili, nabhikkodi, nalavitatatcani, napikkoti, navikkilanku, naviyam, nayani, nerivitam, parai, parparai, tiptam, tonri, totti, turrukkatu, vellai-nabhi, ven thondri, venton rikkilanku, ventonri 2\nTelugu (35): adavi nabhi, adavi-nabhi, adaviabhi, adavinaabhi, adavinabhhi, adavinabhi, adavinabi, agni sikha, agni-shikha, agnishikha, agnisikha, agnisikhha, deyyapu mokka, deyyapu poola chettu, ganjeri, kalaga puvvu, kalapagadda, kalapangadda, kalappa-gadda, kandiakoti aaku, kannu nopi mokka, laangali, langali, nabhi, posalapoligodi gadda, pothi, poththinabhi, potti dumpa, potti nabhi, potti-dumpa, pottidumpa, pottinaabhhi, pottinabhi, pottudumpa, vasa naabhi\nTibetan (2): la nga la (p), la nga li\nUrdu (2): kanol, kulhar",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b974a750fdc40827fd7e167dcb88e2ba"
+  ],
+  "source_record_ids": [
+    "links-1169",
+    "links-2110"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b974a750fdc40827fd7e167dcb88e2ba"
+    ],
+    "source_record_ids": [
+      "links-1169",
+      "links-2110"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b974a750fdc40827fd7e167dcb88e2ba",
+          "Plant Name": "Gloriosa superba Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gloriosa superba Linn.",
+        "source_record_id": "links-1169",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b974a750fdc40827fd7e167dcb88e2ba"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b974a750fdc40827fd7e167dcb88e2ba",
+          "Plant Name": "Gloriosa superba",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gloriosa superba",
+        "source_record_id": "links-2110",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b974a750fdc40827fd7e167dcb88e2ba"
+      }
+    ],
+    "source_xplant_id": "b974a750fdc40827fd7e167dcb88e2ba",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ba17d976e017a250__images__001",
+  "plant_id": "plant_ba17d976e017a250",
+  "plant_name": "Phoenix sylvestris Roxb.",
+  "botanical_name": "Phoenix sylvestris",
+  "botanical_authority": "ROXB.",
+  "family": "ARECACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fef84efdb0129c97ecd6a07953e4aa2"
+  ],
+  "source_record_ids": [
+    "links-1042"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fef84efdb0129c97ecd6a07953e4aa2"
+    ],
+    "source_record_ids": [
+      "links-1042"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fef84efdb0129c97ecd6a07953e4aa2",
+          "Plant Name": "Phoenix sylvestris Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Phoenix sylvestris Roxb.",
+        "source_record_id": "links-1042",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fef84efdb0129c97ecd6a07953e4aa2"
+      }
+    ],
+    "source_xplant_id": "1fef84efdb0129c97ecd6a07953e4aa2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

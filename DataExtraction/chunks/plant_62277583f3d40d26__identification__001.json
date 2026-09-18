@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_62277583f3d40d26__identification__001",
+  "plant_id": "plant_62277583f3d40d26",
+  "plant_name": "Ficus rumphii Blume",
+  "botanical_name": "Ficus rumphii",
+  "botanical_authority": "BLUME",
+  "family": "MORACEAE",
+  "section": "identification",
+  "content": "Plant name: Ficus rumphii Blume Botanical name: Ficus rumphii Botanical authority: BLUME Family: MORACEAE Source xplant ID: 9ed5a2ad43771eeec245a2ba852f03b2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ed5a2ad43771eeec245a2ba852f03b2"
+  ],
+  "source_record_ids": [
+    "links-0185",
+    "links-0186"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ed5a2ad43771eeec245a2ba852f03b2"
+    ],
+    "source_record_ids": [
+      "links-0185",
+      "links-0186"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ed5a2ad43771eeec245a2ba852f03b2",
+          "Plant Name": "Ficus rumphii Blume",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus rumphii Blume",
+        "source_record_id": "links-0185",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ed5a2ad43771eeec245a2ba852f03b2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ed5a2ad43771eeec245a2ba852f03b2",
+          "Plant Name": "Ficus rumphii Blume.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus rumphii Blume.",
+        "source_record_id": "links-0186",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ed5a2ad43771eeec245a2ba852f03b2"
+      }
+    ],
+    "source_xplant_id": "9ed5a2ad43771eeec245a2ba852f03b2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

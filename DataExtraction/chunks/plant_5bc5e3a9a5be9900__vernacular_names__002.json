@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_5bc5e3a9a5be9900__vernacular_names__002",
+  "plant_id": "plant_5bc5e3a9a5be9900",
+  "plant_name": "Azadirachta indica A. Juss",
+  "botanical_name": "Azadirachta indica",
+  "botanical_authority": "A. JUSS.",
+  "family": "MELIACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (138): acutakimaram, akaluti, akappalamakkiyacatti, akuluti, ammapattini, ammapattiri, aracankanni, aricu2, aristakam, aritam@, arittam, arittam2, arkkapatavam, arukkapatavam, arulaci, arulundi kaduppagai, arulupati, aruluruti, arunati, aruttakam2, aruttam3, atipam, cakarakam, cakatam@, cakatamaram, cakatamuli3, cankumaru, cankumarutam, cankumarutamaram, carutopattiri, carvacatakam2, catapalacitti, catapalacittimaram, cavamuli2, cenkumaru, cippuratimuli, cirilipannan, cirinapannam, cirinapanni, cirinapannimaram, cirinapattiram, cirnaparam, cirnapattiram, civam2, civamatukam, civamatukamaram, iravippiriyam, kacappi6, kacappu3, kacappuppacitam, kacappuppacitamaram, kacappuvaruti, kacappuvarutimaram, kaitariyam, katippakai3, kecamutti, kinci 2, kincika, kinji, kiruminacamaram, kosaram, kotakapaciyam, kotakapaciyamaram, kotaravali, kotaravalimaram, malai vembu, malai vempu, malai-vembu, malakai, malakam, malugam, malukam@, maturakkacappi, mutikam, nalatampumaram, nattuvempu, nim, nimpakam, nimpam, nimpamaram, nimpataru, ninpam, niriyacam#, niriyacam@, niriyasam, nitarpam, niyacam, niyamanam@, niyamanamaram, niyaracam, niyaratam, niyatam, pacumantam, paripattiram, paripattiram2, pariyam2, parvatam 2, peranimpam, perunimpam, picacappiriyam, picacappiriyam#, picacappiriyam@, picacuppiriyam, picaram@, picavappiriyam, picumantam, picumantam2, picumattam, pirapattiram, pisidam, piyacukam, puyari 2, puyarikam, sengumaru, tittai, tittai@, tuttai, ukkirakantam5, ukkirakanti2, ukkragandam, varuttam, vatari, vaypum puttay, vembu, vempu, vempumaram, venipam, vepa, veppam, veppamaram, veppan, veppu, vicimikini, vicumantam, vicumikini, vicumini, viruttamaram, visapatcani\nTelugu (12): nimbamu, tarakuvepa, taruka, tharuka, vaepa, vemu, vepa, vepa-chettu, vepachettu, yaapa chettu, yapa, yeppa\nTibetan (2): ni mba, ni-mba\nUrdu (15): bakayens, burg neem, burge neem, gul neem, maghz tukhm bakayan, maghz tukhm neem, maghz tukhm-e-neem, neem, neem ke khusk pattay, neem ki namontian, poast darakht neem, poast darakht nim, poast neem, roghan neem, roghan nim",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370"
+  ],
+  "source_record_ids": [
+    "links-1396",
+    "links-1397"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370"
+    ],
+    "source_record_ids": [
+      "links-1396",
+      "links-1397"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370",
+          "Plant Name": "Azadirachta indica A. Juss",
+          "Status": "Found"
+        },
+        "source_plant_name": "Azadirachta indica A. Juss",
+        "source_record_id": "links-1396",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370",
+          "Plant Name": "Azadirachta indica A. Juss.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Azadirachta indica A. Juss.",
+        "source_record_id": "links-1397",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370"
+      }
+    ],
+    "source_xplant_id": "824a2c2219788b48e2a3bb1633d43370",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

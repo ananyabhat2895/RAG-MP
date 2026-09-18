@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_efa8b619c52f4289__images__001",
+  "plant_id": "plant_efa8b619c52f4289",
+  "plant_name": "Dioscorea pentaphylla Linn.",
+  "botanical_name": "Dioscorea pentaphylla",
+  "botanical_authority": "L.",
+  "family": "DIOSCOREACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73676cdc95b8b8b51037ca0b166808c6"
+  ],
+  "source_record_ids": [
+    "links-2094"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73676cdc95b8b8b51037ca0b166808c6"
+    ],
+    "source_record_ids": [
+      "links-2094"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73676cdc95b8b8b51037ca0b166808c6",
+          "Plant Name": "Dioscorea pentaphylla Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dioscorea pentaphylla Linn.",
+        "source_record_id": "links-2094",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73676cdc95b8b8b51037ca0b166808c6"
+      }
+    ],
+    "source_xplant_id": "73676cdc95b8b8b51037ca0b166808c6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a2f25c796a03c179__vernacular_names__001",
+  "plant_id": "plant_a2f25c796a03c179",
+  "plant_name": "Ficus bengalensis Linn.",
+  "botanical_name": "Ficus bengalensis",
+  "botanical_authority": "L.",
+  "family": "MORACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): banyan\nHindi (17): bad, badla, bar, bar-ka-dudh, bargad, bargat, barh, barlo, bat, ber, bohar, bor, vad, vada, vadla, vadlo, var\nKannada (19): aala, aaladamara, ahlada, al, ala, alada, alada-halu, aladamara, alda, gilike mara, goli, golida, golimara, haala, haladu, holadu, kottegoli, nyagrodha, vata\nMalayalam (12): aal, al, ala, nyagrodham, paeral, peral, peralin, peralin-pala, peralu, periaala, vatam, vatavrksam\nMarathi (5): vad, vada, vata-vraksha, wad, war\nSanskrit (46): Sanskrit CommentsX achhaya, avaroha, bahupada, bahupadakandhajanma, bahupadaskandaja, bahupadi, bhandira, bhringi, chira, dhruva, jatala, jatiljati, karmaja, kshiri, mah, mana, mandali, nandi, nila, nyagrodha, nyagrodhah, padarohona, patanga, raktaphala, raktaphalah, rohina, shikhandin, shipharuha, shungi, skandaja, skandhaja, skandhajanya, skandharuha, sriksha, sungivanaspati, vaishravanavas, vaisravanalaya, vanaspati, vata, vatah, vatakshiram, vitapi, vrikshanath, yakshataru, yakshavas, yamapriya\nTamil (124): aal, aalamaram, al, al 2, ala, alai, alam, alam vizhuthu, alam-pal, alamaram, alampal, alampattai, alati, alavirukkai, alavirutcam 2, annapam, annayam, cakamiyam, cakamiyamaram, campucayanam 1, canamaviyam, catalam, ciparukam, ciparutamaram, ciravanaravam, civarakam, civarukam, eguvasam, ekalakam, ekavacam, irattappalam, iyakkurotam 2, iyakurotam, ka, ka 1, kadavam, kagavasugam, kakavacukam#, kakavacukam@, kamaram, kamaram 2, kan, kanmaram, kantakaccatturu, katavam, katavamaram, kavasugam, koli, koli 2, makacayam, makaccayam, maltuyil, maltuyilvirutcam, malumaram, manmatalayam, nekkurotam, nikkurotam 1, nikkurottam 1, nirampiyamaram, niyakkurotam#, niyakkurotam@, pakuvata, pal, palacirunki, pali, palimaram, palinpancanai, palmaram, palu, pantiram, paramparam, pennai, pennaivirutcam, peral, peruval, peruvalamaram, pukecam, putam, putam 1, putamaram 1, putavirukam, putavirukkam 1, putavirutcam, putavirutcam 1, tevakanati, tolmaram, tumpakikamaram, tumparakikam, upacittirai, vada, vaicciravanalayam@, vanappati, vanokki, vatakatiyam, vatakatiyamaram, vatal, vatam, vatam@, vatamaram, vatampuli, vatattam, vatavirukkam, vatavirutcakam, vatavirutcam, vatpattiram, vattam, vattamaram, vattavirukkam, vattavirutcam, vekkurodam, vilutika, vilutumaram, vilututanti, viruccanatam, virukarpatamaram, virukkapatam, virutcanatan 2, virutcantiram, virutcapakan 2, yalam 2, yalamaram, yamappiriyam 2, yamapriyam, yocanaiyalavi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86cd19a52dc5a7a46f7861db7b69d700"
+  ],
+  "source_record_ids": [
+    "links-2069"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86cd19a52dc5a7a46f7861db7b69d700"
+    ],
+    "source_record_ids": [
+      "links-2069"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86cd19a52dc5a7a46f7861db7b69d700",
+          "Plant Name": "Ficus bengalensis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus bengalensis Linn.",
+        "source_record_id": "links-2069",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86cd19a52dc5a7a46f7861db7b69d700"
+      }
+    ],
+    "source_xplant_id": "86cd19a52dc5a7a46f7861db7b69d700",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

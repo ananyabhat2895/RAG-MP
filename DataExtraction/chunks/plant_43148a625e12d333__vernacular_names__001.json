@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_43148a625e12d333__vernacular_names__001",
+  "plant_id": "plant_43148a625e12d333",
+  "plant_name": "Saccharum arundinaceum Retz.",
+  "botanical_name": "Saccharum arundinaceum",
+  "botanical_authority": "RETZ.",
+  "family": "POACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (3): ramsar, sar kanda, sara\nKannada (12): abbe, baragu, kadukabba, lekhani, lekhini hullu, lekhinihullu, munigida, munja, munji, nala, rellu, sara\nMalayalam (9): ama, ampottal, mekhalappullu, mekhalapullu, munja, munnappullu, sarappullu, sharappullu, ssarappullu\nMarathi (3): kerpa, munj, sar\nSanskrit (7): Sanskrit CommentsX darbhah, gundra, munja, munjah, sara, sarah, tejanaka\nTamil (33): acuvavalam, acuvavaram, adava, caivam2, cakastiyateva, carukkaraivaruni, elhudugirananal, eludu, elutukirananal, elutunanal, girananai, icikam, ilatikkarumpu, iramakkarumpu, kattukkarumpu, kunram2, munci 2, munji, munsi, naccuvi, nanal, nanarkarumpu, papakam, paykkarimpu, perattiri, peyitacuvalika, peykkarumpu, picacakkarumpu, picacam, pikarumbu, pirayokavacam, pullakantankarumpu, pullintal\nTelugu (21): adaviceruku, adavicheruku, brahma mekhalamu, bramhamekhalamu, gundra, kondakanamu, kondakanumu, mujamu, mungamu, munja gaddi, munjagaddi, munjamu, munjugaddi, nadamu, palagaddi, polagaddi, ponika, ponuga, ponugu, poonika, saramu\nTibetan (3): dam bu sbom po (d), gron bu sbom bo, gron bu sbom po (p)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73a43799444806a97a890a8dac745dc5"
+  ],
+  "source_record_ids": [
+    "links-0730"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73a43799444806a97a890a8dac745dc5"
+    ],
+    "source_record_ids": [
+      "links-0730"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73a43799444806a97a890a8dac745dc5",
+          "Plant Name": "Saccharum arundinaceum Retz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Saccharum arundinaceum Retz.",
+        "source_record_id": "links-0730",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73a43799444806a97a890a8dac745dc5"
+      }
+    ],
+    "source_xplant_id": "73a43799444806a97a890a8dac745dc5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

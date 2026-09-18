@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_1a01d8bdc3f0e639__images__001",
+  "plant_id": "plant_1a01d8bdc3f0e639",
+  "plant_name": "Blepharis indica",
+  "botanical_name": "Blepharis sindica",
+  "botanical_authority": "STOCKS EX T.ANDERS",
+  "family": "ACANTHACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f26e83345d4bd48b94c40473889dbda3"
+  ],
+  "source_record_ids": [
+    "links-2014"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f26e83345d4bd48b94c40473889dbda3"
+    ],
+    "source_record_ids": [
+      "links-2014"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f26e83345d4bd48b94c40473889dbda3",
+          "Plant Name": "Blepharis indica",
+          "Status": "Found"
+        },
+        "source_plant_name": "Blepharis indica",
+        "source_record_id": "links-2014",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f26e83345d4bd48b94c40473889dbda3"
+      }
+    ],
+    "source_xplant_id": "f26e83345d4bd48b94c40473889dbda3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

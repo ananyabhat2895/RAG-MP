@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_97118c081fb6f518__vernacular_names__001",
+  "plant_id": "plant_97118c081fb6f518",
+  "plant_name": "Canthium parviflorum Lam.",
+  "botanical_name": "Canthium coromandelicum",
+  "botanical_authority": "(N.BURM.)",
+  "family": "RUBIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (2): kadbar, kirma\nKannada (19): achchumullu, achhu mullu, balasu, ganduka korla, kaare, kaare gida, kaare mullu, kake, kake-gida, kakkendel, karai, kare, karemullu, kirani, lodhija, mullumusta, ollepode, therane, wollepuda\nMalayalam (12): cerukara, cherukara, kandangari, kanden-kara, kandenkara, kandenkhara, kantankara, kara, karamullu, neroori, niruri, valli-kara\nMarathi (4): kadbar, kirma, kirna, kirni\nSanskrit (3): Sanskrit CommentsX chayatinisah, gangeruki, kari\nTamil (31): carai, cenkarai, kalikkarai, karai, karaicceti, karanceti, karaycheddi, karaychedi, karmai, karuvavikam, katalatti, korutan 1, kudiram, kutirakitam, kutirakitamaram, kutiram, matamamukam, mullukarai, naippulikacceti, naippulikam, nakapala, nallakarai, nallakkarai, palakanacceti, palakanam, patarkaraicceti, patarkkarai, pintitam 2, punkaram, sengarai, theranaikarai\nTelugu (16): baasu koora, balasa, balasu, ballusookura, balsa, balusu, balusukura, bolusu, chinna balusu, chinnabalasu, chinnabalusu, cinnabalusu, kara, karai, karay, nakkiri",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dea5e5d7ef738a145a2bdd254197fe97/xclkon/3c94ddcbb81c25b5f005b7eb3f51e1bc"
+  ],
+  "source_record_ids": [
+    "links-0959"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dea5e5d7ef738a145a2bdd254197fe97/xclkon/3c94ddcbb81c25b5f005b7eb3f51e1bc"
+    ],
+    "source_record_ids": [
+      "links-0959"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dea5e5d7ef738a145a2bdd254197fe97/xclkon/3c94ddcbb81c25b5f005b7eb3f51e1bc",
+          "Plant Name": "Canthium parviflorum Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Canthium parviflorum Lam.",
+        "source_record_id": "links-0959",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dea5e5d7ef738a145a2bdd254197fe97/xclkon/3c94ddcbb81c25b5f005b7eb3f51e1bc"
+      }
+    ],
+    "source_xplant_id": "dea5e5d7ef738a145a2bdd254197fe97",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

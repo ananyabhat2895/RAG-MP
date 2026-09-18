@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_96c6114e015b442a__botanical_synonyms__001",
+  "plant_id": "plant_96c6114e015b442a",
+  "plant_name": "Rotula Aquatica Lour.",
+  "botanical_name": "Rotula aquatica",
+  "botanical_authority": "LOUR.",
+  "family": "BORAGINACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Rhabdia lycioides SENU CL. X Full Botanical citation - Rhabdia lycicoides Mart. Nov. Gen. & Sp. 2: 137, t. 195. 1826; N.P.Singh & al., Fl. Maharashtra State Dicotyledones, 2: Fl. India Ser 2: 434. 2001.\nSynonym: Rhabdia lycioides SENU CL.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2abdd6edd47dc6b62102a91c16bf1cd"
+  ],
+  "source_record_ids": [
+    "links-1483",
+    "links-1484"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2abdd6edd47dc6b62102a91c16bf1cd"
+    ],
+    "source_record_ids": [
+      "links-1483",
+      "links-1484"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2abdd6edd47dc6b62102a91c16bf1cd",
+          "Plant Name": "Rotula Aquatica Lour.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rotula Aquatica Lour.",
+        "source_record_id": "links-1483",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2abdd6edd47dc6b62102a91c16bf1cd"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2abdd6edd47dc6b62102a91c16bf1cd",
+          "Plant Name": "Rotula aquatica Lour.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rotula aquatica Lour.",
+        "source_record_id": "links-1484",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2abdd6edd47dc6b62102a91c16bf1cd"
+      }
+    ],
+    "source_xplant_id": "d2abdd6edd47dc6b62102a91c16bf1cd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

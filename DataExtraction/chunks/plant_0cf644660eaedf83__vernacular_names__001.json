@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_0cf644660eaedf83__vernacular_names__001",
+  "plant_id": "plant_0cf644660eaedf83",
+  "plant_name": "Strychnos nux vomica Linn.",
+  "botanical_name": "Strychnos nux-vomica",
+  "botanical_authority": "L.",
+  "family": "LOGANIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): nux-vomica\nHindi (7): bailewa, chibbinge, jahar, kajra, kucchla, kuchla, nirmal\nKannada (55): hemmushti, hemmusti, hemushti, ittangi, itte mara, itti, ittinji, kaagara, kaajavaara, kaanaraka, kaanjara, kaanjira, kaasana mara, kaasara, kaasaraka, kaasarakaayi, kaasarkaayi, kaiyar, kajavara, kangira, kanjira, kasakana, kasan, kasana, kasara, kasaragaddi, kasaraka, kasarakai, kasarakana, kasarakava, kasarakayi, kasarka, kasarkana, kasarkanamara, kasarkina, kasera, kasrakana, kasura, kataka, kayeru, khasca, koradu, kujarra, manjinakoradu, mushti, mushti-bija, najinakoradu, nanjina, nanjina koradu, nanjinakoradina, nanjinakoradu, nunjunda, visha mushti, yetti, yettica\nMalayalam (10): camram, cariram, kanhiram, kanjera, kanjiram, kanni-rak-karu, kannirakkuru, kanniram, kariram, tettamperahmaram\nMarathi (8): jharkhatchura, jharkhathchura, kaajraa, kajra, kajro, kar, kara, kuchala\nSanskrit (42): Sanskrit CommentsX akutaka, chipita, cutaka, dirghapatra, garadruma, kachchira, kakanda, kakapilu, kakapiluka, kakasphurja, kakatinduka, kaktindu, kalshti, karaskara, karaskarah, kimpaka, krishnabana, kucala, kucila, kulaka, kupaka, kupilu, kupiluh, kutaka, markatatindu, markatatinduka, mushti, payahprasadi, ramyaphala, vartula, veshamoostibeejun, visamusti, visamustih, visamustika, visataru, visatindu, visatinduka, vishadruma, vishatinduka, vishmushti, vishtindu, vishvabhishajam",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1deb6a97a7f8320dd2e75271d7d8f15"
+  ],
+  "source_record_ids": [
+    "links-0854"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1deb6a97a7f8320dd2e75271d7d8f15"
+    ],
+    "source_record_ids": [
+      "links-0854"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1deb6a97a7f8320dd2e75271d7d8f15",
+          "Plant Name": "Strychnos nux vomica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Strychnos nux vomica Linn.",
+        "source_record_id": "links-0854",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1deb6a97a7f8320dd2e75271d7d8f15"
+      }
+    ],
+    "source_xplant_id": "f1deb6a97a7f8320dd2e75271d7d8f15",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

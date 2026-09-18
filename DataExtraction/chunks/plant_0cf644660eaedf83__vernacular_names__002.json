@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_0cf644660eaedf83__vernacular_names__002",
+  "plant_id": "plant_0cf644660eaedf83",
+  "plant_name": "Strychnos nux vomica Linn.",
+  "botanical_name": "Strychnos nux-vomica",
+  "botanical_authority": "L.",
+  "family": "LOGANIACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (192): akku, amaram, amati, amatikam, amatikamaram, appayattutarakam, appu, appuri, appurimaram, arkkapittacamani, atti 4, caripputtekkimaram, cariputikam, cariputte, cariputtekki, cariputtel, carirattai#, carirattai@, carirattaimaram, cariyam, cattapariyavacam, cillam, cirkkirumi, citti 1, cittikkurimaram, corimaram, cuvacakam, etti, etti vittu, ettik-kottai, ettikkattai, ettikkottai, ettimaram, ettivittu, intu 1, irucikam, irucikamaram, kacotti, kagodi, kaitai, kaittakotaram, kaittakotaramaram, kakarukam 1, kakatintukam, kakoti#, kakoti@, kalacikam, kalacikamram, kalakam 2, kalakutam, kalam, kali, kanam, kanavitulo, kancika, kancikai 1, kancirai, kanciram, kanciramaram, kancirankalam, kancurai#, kancurai@, kancuraittol, kanjaram, kanjeerai, kanjiga, kanjirai, kanjiram, kantacuram, karalam, karanam, karumacakamaram, katukkala, katukkalamaram, katumacakam, katumaram 1, kecamamutti#, kecamamutti@, keshamamutti, kimpakam, kirusnapanam, kiruttinabanam, kiruttinapanam, kisnapanam, kittinapanam, kittipanam, kittivan, kodaram, kokkutam, kokkutamaram, kontaki, kontakimaram, kontakulam, kontakuntam, kopakuntam, kopakuntamaram, kopatintam, koratam, koratamaram, kota, kotaram 1, kucatataccan, kulavintu, kupaciya, kupaciyamaram, kupacupa, kurankam, kuyapicakam, kuyapicakamaram, kuyyapicakam, mamuti, mancatkanicci, mancatkaniccimaram, manruti, matakam, matukam 3$, maturakam 3, maturam 2, mavakam 2, murimuri, muriyaval, nacari, naccumaram, nakamutti, nancumutantam, nancumutantamaram, naukacarai, naukacaraimaram, nilapuspam, nilaputpam 2, nilaputpamaram, nilaputpikai 2, nukku, palapataiyati, petarikalam, petaritalam, peyttuvarpokkimaram, peyttuyarpokki, picacupokki, picacupokkimaram, piccam, piccu, piccumaram, pitaricanam, pocakam, porkancirai, potakam, potakamaram, puntitam, putakanaiyati, putakecar, putakeci 1, putattika, putattikamaram, putavirotimaram, puttan, putten, puttincari, puttiracari@, puttiracarimaram, puttiram, puttitam, puttitamaram, puttuvani, puttuvanimaram, rtti, tevankanimaram, tevarottati, tintu, tomalati, vacimaratti, vainakamali, vainakamalimaram, vainakamutti, vainakamuttimaram, vanamulutali, vantulo, vaucetikam, vicamutti, vicamuttimaram, vipattam, visamaram, visamitti, visamutti, vitamaram, vitamittimaram, vitamutti, vituttam, yetti, yetti-kottai, yettie cottay, yettikkottai",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1deb6a97a7f8320dd2e75271d7d8f15"
+  ],
+  "source_record_ids": [
+    "links-0854"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1deb6a97a7f8320dd2e75271d7d8f15"
+    ],
+    "source_record_ids": [
+      "links-0854"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1deb6a97a7f8320dd2e75271d7d8f15",
+          "Plant Name": "Strychnos nux vomica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Strychnos nux vomica Linn.",
+        "source_record_id": "links-0854",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1deb6a97a7f8320dd2e75271d7d8f15"
+      }
+    ],
+    "source_xplant_id": "f1deb6a97a7f8320dd2e75271d7d8f15",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

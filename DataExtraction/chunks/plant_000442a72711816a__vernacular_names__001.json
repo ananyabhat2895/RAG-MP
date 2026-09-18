@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_000442a72711816a__vernacular_names__001",
+  "plant_id": "plant_000442a72711816a",
+  "plant_name": "Rheum moorcroftianum Royle",
+  "botanical_name": "Rheum moorcroftianum",
+  "botanical_authority": "ROYLE",
+  "family": "POLYGONACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (2): dholu, revand-chini\nKannada (1): reval-chini\nMarathi (1): ladkirevanda-chini\nSanskrit (1): Sanskrit CommentsX amlaparni\nTamil (1): variyattu\nTelugu (1): nattu ireval-chinni",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e315155b80eb1a65ebb3ffe44d6349b"
+  ],
+  "source_record_ids": [
+    "links-0102"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e315155b80eb1a65ebb3ffe44d6349b"
+    ],
+    "source_record_ids": [
+      "links-0102"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e315155b80eb1a65ebb3ffe44d6349b",
+          "Plant Name": "Rheum moorcroftianum Royle",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rheum moorcroftianum Royle",
+        "source_record_id": "links-0102",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e315155b80eb1a65ebb3ffe44d6349b"
+      }
+    ],
+    "source_xplant_id": "0e315155b80eb1a65ebb3ffe44d6349b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

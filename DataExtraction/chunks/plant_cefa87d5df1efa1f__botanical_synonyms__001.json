@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_cefa87d5df1efa1f__botanical_synonyms__001",
+  "plant_id": "plant_cefa87d5df1efa1f",
+  "plant_name": "Acacia concinna D. C.",
+  "botanical_name": "Acacia sinuata",
+  "botanical_authority": "(LOUR.) MERR.",
+  "family": "MIMOSACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Acacia concinna (WILLD.) DC. X Full Botanical citation - Acacia concinna (Willd.) DC. Prodr. 2. 464. 1825; N.P.Singh &al., Fl.Maharashtra State, Dicotyledones, 1: Fl.India Ser. 2: 809. 2000. Acacia rugata (LAM.) MERR. Mimosa abstergens ROXB.\nSynonym: Acacia concinna (WILLD.) DC.\nSynonym: Acacia rugata (LAM.) MERR.\nSynonym: Mimosa abstergens ROXB.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/a5a87d4f4fba45600d69867dfb39d481"
+  ],
+  "source_record_ids": [
+    "links-1731",
+    "links-1732"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/a5a87d4f4fba45600d69867dfb39d481"
+    ],
+    "source_record_ids": [
+      "links-1731",
+      "links-1732"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/a5a87d4f4fba45600d69867dfb39d481",
+          "Plant Name": "Acacia concinna D. C.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Acacia concinna D. C.",
+        "source_record_id": "links-1731",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/a5a87d4f4fba45600d69867dfb39d481"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/a5a87d4f4fba45600d69867dfb39d481",
+          "Plant Name": "Acacia concinna DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Acacia concinna DC.",
+        "source_record_id": "links-1732",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/a5a87d4f4fba45600d69867dfb39d481"
+      }
+    ],
+    "source_xplant_id": "f07e3b8351810aafdef5ffd5c917230f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

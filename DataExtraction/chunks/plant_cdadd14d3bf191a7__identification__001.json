@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_cdadd14d3bf191a7__identification__001",
+  "plant_id": "plant_cdadd14d3bf191a7",
+  "plant_name": "Cressa cretica Linn.",
+  "botanical_name": "Cressa cretica",
+  "botanical_authority": "L.",
+  "family": "CONVOLVULACEAE",
+  "section": "identification",
+  "content": "Plant name: Cressa cretica Linn. Botanical name: Cressa cretica Botanical authority: L. Family: CONVOLVULACEAE Source xplant ID: 2d6f0df76153c62eca673c9808d33bb3",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d6f0df76153c62eca673c9808d33bb3"
+  ],
+  "source_record_ids": [
+    "links-1668"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d6f0df76153c62eca673c9808d33bb3"
+    ],
+    "source_record_ids": [
+      "links-1668"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d6f0df76153c62eca673c9808d33bb3",
+          "Plant Name": "Cressa cretica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cressa cretica Linn.",
+        "source_record_id": "links-1668",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d6f0df76153c62eca673c9808d33bb3"
+      }
+    ],
+    "source_xplant_id": "2d6f0df76153c62eca673c9808d33bb3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

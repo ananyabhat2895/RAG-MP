@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_5494a9d4c28fec62__vernacular_names__002",
+  "plant_id": "plant_5494a9d4c28fec62",
+  "plant_name": "Piper longum Linn.",
+  "botanical_name": "Piper longum",
+  "botanical_authority": "L.",
+  "family": "PIPERACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (234): a, akaci@, akari2, alakalunku#, alakalunku@, alakaman, amirtai2, amirutai1, ampinati, ampu, ampu2, arakanti, arake, argadi, aricitippili, arippalam, arisi thippili, ariyantippilli, ariyapalam, ariyappalam, arkali, arkati, arke, arkki, arsithippili, arttikam, atcatti, ati maruntu, atimaruntu, atti, atti@, attikatiyam, calani1, calani@, calini1, camilaki, camilakikam, camivaci, canam1, capala, capalai, capalatikam, caram, caram1, catalam1, catevi, cati, cati2, catikam, caucanti, caunti, cauntikam, cavikam, cavuntai, cavuntakam2, cavuntam2, cavunti, cavvantam, cayalati, cayini, cayinikam, cayulati@, cayutai, cemmai, ceruppatai, cilerpananaci1, cilettumanaci, cilettumanacini, cilettumattukkati, cincatai, civalokatti, cukkumatantulam, cukkumattantulam, dippili, ekalakikam, ekam, ekavacam, elivari, erantai, eranti, etakam, etam, eytumalan, inkai1, irattai2, kakari, kakattiruppi, kalidi, kalini, kaliti, kallni, kamam2, kaman, kamanam#, kamanam@, kamanpuli, kana2, kanai, kanam, kanamekampokki, kanamuli1, kanavatai, kanna, kanna@, kannatam, kantankanam, kantat-tippili, kantumulam2, kati, kattitosana, kattu-t-tippili, kattuttippilikkodi, kavarkulikam1, keccarutti, kindigam, kintikam, kirandigam, kirantikam, kirantiver, kirauncatanam, kirayantam, kirumanisattini, kirupantikam, kirusnam1, kiruttinam1, kiruttinatantulam1, kittinacaram, kittinan, kola, kolagam, kolaiarukki, kolaiyarukki, kolaiyarukkuncuran, kolakam, kolakam1, koli, koli@, kolikam1, kotittippili, kulam#, kulam$, kutari, magadi, makati, makati 1, makati 1@, malayaviretam, milagu, modi, moti, motiver, mukattamancari, mukayi, narukkuttippili, narukkuveru, natikantai, palappiratikam, palappiratitam, palappiretam#, palappiretam@, panam, panam 1, pili 2, pipili, pippalai, pippali 1, pippili, pippili 1, piranciyapalam, pirapalam, potakam 2, ratintikam, takkolam4, tanman1, tanmantanmulam, tantapacalai, tantapalai, tantulam1, tantuli, tantuli2, tecavaram, tevanati1, thippili, thippili ver, thippili-ver, thippiliver, thippli, tipali, tipilie, tipilli, tippali, tippam, tippili, tippili ver, tippilik kattai, tippilikkoti, tippilimulam, tippilittavayam, tippilli, tirantikam, titcanam1, titcanatantulam, tittatantulam, tiyaipi, tiyonti, tulampikkiri, tulavi, tulavikam, tunavi, tuttan, ulakulam, ulavainaci, uncaram, upakilliyam, upakuliyai, upakuliyam, upakullikam, upakulliyai, usanai, usanam1, utanai, uvakulam, vaitaki, vaitakikam, vaiteki, vaitekikam, vaitti, vanapippili, vatakunmanacini, vayateki, vayatorri, vettilai, viyalkana, viyalkanakam",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10f3a59b845d9890f688ad66980941fa"
+  ],
+  "source_record_ids": [
+    "links-1363",
+    "links-1522"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10f3a59b845d9890f688ad66980941fa"
+    ],
+    "source_record_ids": [
+      "links-1363",
+      "links-1522"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10f3a59b845d9890f688ad66980941fa",
+          "Plant Name": "Piper longum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper longum Linn.",
+        "source_record_id": "links-1363",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10f3a59b845d9890f688ad66980941fa"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10f3a59b845d9890f688ad66980941fa",
+          "Plant Name": "Piper longum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper longum",
+        "source_record_id": "links-1522",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10f3a59b845d9890f688ad66980941fa"
+      }
+    ],
+    "source_xplant_id": "10f3a59b845d9890f688ad66980941fa",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_5b4b05970cadc028__systems_of_medicine__001",
+  "plant_id": "plant_5b4b05970cadc028",
+  "plant_name": "Amaranthus mangostanus",
+  "botanical_name": "Amaranthus tricolor",
+  "botanical_authority": "L.",
+  "family": "AMARANTHACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk Botanical Synonyms (3) - Amaranthus gangeticus L. X Full Botanical citation - Amaranthus gangeticus L.\nSystem of medicine: Syst. veg. ed. 10. 1268. 1759; S. Karthikeyan & al.\nSystem of medicine: Flowering Plants of India - Dicots. 1: 73. 2009. Amaranthus mangostanus L. X Full Botanical citation - Amaranthus mangostanus L.\nSystem of medicine: Cent. pl. I: 32. 1755; S. Karthikeyan & al.\nSystem of medicine: Flowering Plants of India - Dicots. 1: 73. 2009. Amaranthus polygamus L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01/xclkon/2e2e171aedc0fdf3ca5d4fcd271d9f14"
+  ],
+  "source_record_ids": [
+    "links-0593",
+    "links-1254"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01/xclkon/2e2e171aedc0fdf3ca5d4fcd271d9f14"
+    ],
+    "source_record_ids": [
+      "links-0593",
+      "links-1254"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01/xclkon/2e2e171aedc0fdf3ca5d4fcd271d9f14",
+          "Plant Name": "Amaranthus mangostanus",
+          "Status": "Found"
+        },
+        "source_plant_name": "Amaranthus mangostanus",
+        "source_record_id": "links-0593",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01/xclkon/2e2e171aedc0fdf3ca5d4fcd271d9f14"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01/xclkon/2e2e171aedc0fdf3ca5d4fcd271d9f14",
+          "Plant Name": "Amaranthus mangostanus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Amaranthus mangostanus Linn.",
+        "source_record_id": "links-1254",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01/xclkon/2e2e171aedc0fdf3ca5d4fcd271d9f14"
+      }
+    ],
+    "source_xplant_id": "ddaf27e6f3e104858d9b0cae48ddab01",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

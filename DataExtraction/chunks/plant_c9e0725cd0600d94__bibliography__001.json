@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c9e0725cd0600d94__bibliography__001",
+  "plant_id": "plant_c9e0725cd0600d94",
+  "plant_name": "Diospyros tomentosa Roxb.",
+  "botanical_name": "Diospyros exsculpta",
+  "botanical_authority": "BUCH.-HAM.",
+  "family": "EBENACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: title: Title - Flora of Bankura District(West Bengal)\nBibliography entry: title: Title - The Flora of Orissa Vol II\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol II\nBibliography entry: title: Title - A Forest Flora for Kumaon\nBibliography entry: title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2102c41baf782c0ba6d4e7576c8a6f05/xclkon/cc728dfa4dceec727a9d6a0784ccef4a"
+  ],
+  "source_record_ids": [
+    "links-1962"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2102c41baf782c0ba6d4e7576c8a6f05/xclkon/cc728dfa4dceec727a9d6a0784ccef4a"
+    ],
+    "source_record_ids": [
+      "links-1962"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2102c41baf782c0ba6d4e7576c8a6f05/xclkon/cc728dfa4dceec727a9d6a0784ccef4a",
+          "Plant Name": "Diospyros tomentosa Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Diospyros tomentosa Roxb.",
+        "source_record_id": "links-1962",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2102c41baf782c0ba6d4e7576c8a6f05/xclkon/cc728dfa4dceec727a9d6a0784ccef4a"
+      }
+    ],
+    "source_xplant_id": "2102c41baf782c0ba6d4e7576c8a6f05",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

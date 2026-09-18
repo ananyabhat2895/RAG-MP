@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_3e50553ab4c2dd58__identification__001",
+  "plant_id": "plant_3e50553ab4c2dd58",
+  "plant_name": "Citrus limon (Linn.) Burm.f.",
+  "botanical_name": "Citrus limon",
+  "botanical_authority": "(L.) BURM.F.",
+  "family": "RUTACEAE",
+  "section": "identification",
+  "content": "Plant name: Citrus limon (Linn.) Burm.f. Botanical name: Citrus limon Botanical authority: (L.) BURM.F. Family: RUTACEAE Source xplant ID: 3bee610668c32c22dfa86540884bc5f3",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3bee610668c32c22dfa86540884bc5f3"
+  ],
+  "source_record_ids": [
+    "links-0760"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3bee610668c32c22dfa86540884bc5f3"
+    ],
+    "source_record_ids": [
+      "links-0760"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3bee610668c32c22dfa86540884bc5f3",
+          "Plant Name": "Citrus limon (Linn.) Burm.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrus limon (Linn.) Burm.f.",
+        "source_record_id": "links-0760",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3bee610668c32c22dfa86540884bc5f3"
+      }
+    ],
+    "source_xplant_id": "3bee610668c32c22dfa86540884bc5f3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

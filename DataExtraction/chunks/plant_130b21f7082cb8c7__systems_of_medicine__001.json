@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_130b21f7082cb8c7__systems_of_medicine__001",
+  "plant_id": "plant_130b21f7082cb8c7",
+  "plant_name": "Barleria cristata Linn.",
+  "botanical_name": "Barleria cristata",
+  "botanical_authority": "L.",
+  "family": "ACANTHACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Sowa-Rigpa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c9347ebbda5326f27d945845f83bfb6"
+  ],
+  "source_record_ids": [
+    "links-1682"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c9347ebbda5326f27d945845f83bfb6"
+    ],
+    "source_record_ids": [
+      "links-1682"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c9347ebbda5326f27d945845f83bfb6",
+          "Plant Name": "Barleria cristata Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Barleria cristata Linn.",
+        "source_record_id": "links-1682",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c9347ebbda5326f27d945845f83bfb6"
+      }
+    ],
+    "source_xplant_id": "7c9347ebbda5326f27d945845f83bfb6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_81c5240de5fc15b7__images__001",
+  "plant_id": "plant_81c5240de5fc15b7",
+  "plant_name": "Pandanus tectorius Soland. ex Parkinson.",
+  "botanical_name": "Pandanus fascicularis",
+  "botanical_authority": "LAM.",
+  "family": "PANDANACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f/xclkon/2d069fa55240aae0a906977f2a26e8d5"
+  ],
+  "source_record_ids": [
+    "links-1028"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f/xclkon/2d069fa55240aae0a906977f2a26e8d5"
+    ],
+    "source_record_ids": [
+      "links-1028"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f/xclkon/2d069fa55240aae0a906977f2a26e8d5",
+          "Plant Name": "Pandanus tectorius Soland. ex Parkinson.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pandanus tectorius Soland. ex Parkinson.",
+        "source_record_id": "links-1028",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f/xclkon/2d069fa55240aae0a906977f2a26e8d5"
+      }
+    ],
+    "source_xplant_id": "32cdafdc0cbbd3417dd00e715e6d596f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

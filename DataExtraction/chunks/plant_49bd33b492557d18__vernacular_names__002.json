@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_49bd33b492557d18__vernacular_names__002",
+  "plant_id": "plant_49bd33b492557d18",
+  "plant_name": "Emblica officinalis Gaertn.",
+  "botanical_name": "Emblica officinalis",
+  "botanical_authority": "GAERTN.",
+  "family": "EUPHORBIACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (127): alakam1, alakam@, alikam, amalagam, amalai, amalakam, amalakam1, amalakamalam, amalaki, amalakki, amalam2, amarikam, amirtai4, amirtapalai1, amirtapalam@, ampal, ampal1, ampalkamaram, amukam2, amutai2, amuttam1, anantai@, andakaram, antakaram, antakaramaram, antakolam#, antakolam@, antakoram, antor, atikoram, attakolam, attakoram, avutanci, cilata, cinkitakam, cinkitakamaram, ciripalam1, cirottam2, citupalam, civai, civam1, indul, intul, intulam, intulapam, intuli a, intuli x, intuli1, iratai1, kaiyirkani, kanakam1, kantamulakam, kantattiri, kantumalalam, kapi2, kapitattiri, kapitattirimaram, kattunelli, kayastam2, kokkam, konkal, konkam, korankam, korankamikam, korankamikamaram, kotam2, kotimukakkini, kotimukakkinimaram, makanti, makantika, makantikam, malainelli, mamalakam, mamalakkay, mankantikamaram, mintu, miruntikam 2, miruntikamaram, miruntu, mirutupala, mirutupala#, mirutupala@, mirutupalamaram, mitintu#, mitintu@, mituntumaram, nelli, nelli mulli, nelli-kay, nellie kai, nellie poo, nellikai, nellikkaai, nellikkai, nellikkay, pancatcaravaruni, parainatavanci, parainatavancimaram, peru nelli, perunelli, tamalaikkay, tantiri, tattari, tattili, tattinimaram, tattiri, tattirimaram, tattiripalai, tattiripalam, tecomantaram1, tecomantiram, tecomaram1, tiriciyam2, tiriciyapalam, tiripalati, toppi, toppi#, toppi@, toppunelli, totti@, tottiki, tottikimaram, tuppunelli, tuttarikam, vanamalakam, yankoram, yantikoram\nTelugu (33): aamalakamu, aamalaki, amalakamu, amalaki, asereki, assereki, nelli, nelli kaaya, oosree, pedda usiri, pedda usirika, peddavusirika, pullayusirika, putla yusirika, triphalam, triphalamu, u, usari, usarika, userakee, useri, userikai, usiri, usirika, usirikaaya, usirikai, usirikaya, usiriki, usiuka, usri, usrikayi, vusirika, vusirikaya\nTibetan (3): sk yu ru ra, skyu ru ra, skyu-ru-ra\nUrdu (18): aamla, amal khushk, amal khusk, amala khushk, amla, amla khushk, amla khusk, amla sabz, amlay taza aur farba, aonla, baobarang, guthli, guthli nikala hua, guthli nikalal hua, khushbu amla, murraba-i-amla, tirphala, triphala",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/479d2a25bb4439110c4f488df1dcb80d"
+  ],
+  "source_record_ids": [
+    "links-0090"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/479d2a25bb4439110c4f488df1dcb80d"
+    ],
+    "source_record_ids": [
+      "links-0090"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/479d2a25bb4439110c4f488df1dcb80d",
+          "Plant Name": "Emblica officinalis Gaertn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Emblica officinalis Gaertn.",
+        "source_record_id": "links-0090",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/479d2a25bb4439110c4f488df1dcb80d"
+      }
+    ],
+    "source_xplant_id": "479d2a25bb4439110c4f488df1dcb80d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

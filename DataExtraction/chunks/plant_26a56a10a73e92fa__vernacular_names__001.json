@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_26a56a10a73e92fa__vernacular_names__001",
+  "plant_id": "plant_26a56a10a73e92fa",
+  "plant_name": "Asparagus adscendens Roxb.",
+  "botanical_name": "Asparagus adscendens",
+  "botanical_authority": "ROXB.",
+  "family": "LILIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (8): dholi moosli, hazarmuli, jhirni, kairu, satavar, shasi mulu, sufed-musli, sufedmusli\nMalayalam (1): shedeveli\nMarathi (6): pandaari musalee, safed musli, safedamusli, safeta musli, sataver, sufed\nSanskrit (6): Sanskrit CommentsX durnamari, mahavrsa, musali, satavari, svetamusali, vrsyakanda\nTamil (2): naranka pattirakam, tannirvittang\nTelugu (2): sallog dooda, tsallogadda\nUrdu (7): musli siyah, satawar, shaqaq-ul-misri, shaqaqul misri, shaqaqul misri nim kofta, shaqaqul-i-misri, shaqqul misri",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/31ff91e8cf2224fccb7fbb9372601656"
+  ],
+  "source_record_ids": [
+    "links-1333"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/31ff91e8cf2224fccb7fbb9372601656"
+    ],
+    "source_record_ids": [
+      "links-1333"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/31ff91e8cf2224fccb7fbb9372601656",
+          "Plant Name": "Asparagus adscendens Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Asparagus adscendens Roxb.",
+        "source_record_id": "links-1333",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/31ff91e8cf2224fccb7fbb9372601656"
+      }
+    ],
+    "source_xplant_id": "31ff91e8cf2224fccb7fbb9372601656",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

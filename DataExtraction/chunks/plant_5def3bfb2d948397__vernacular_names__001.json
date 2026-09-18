@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5def3bfb2d948397__vernacular_names__001",
+  "plant_id": "plant_5def3bfb2d948397",
+  "plant_name": "Putranjiva roxburghii Wall.",
+  "botanical_name": "Drypetes roxburghii",
+  "botanical_authority": "(WALL.) HURUSAWA",
+  "family": "EUPHORBIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (19): jaiaputa, jaipota, jaiputa, jiaputa, jivputrak, jiyapota, joti, juti, patigia, patji, pitmar, puta-jan, putajan, putajen, putijia, putjia, putra-jiva, putrajiva, putranjiva\nKannada (13): amaami, amani, kaal damani, kalo, menasina kaale, menasinakaale, menasinakale, putrajiva, putrajivi, putranjeeva, putranjeevi, putranjivi, putremjiva\nMalayalam (7): pongalam, pongolam, pongolan, ponkalam, ponkolam, putranjivi, puttilanni\nMarathi (10): jewan-putr, jewanputr, jivan-putr, jivputrak, jiwanputr, puta-jan, putajan, putrajwa, putranjiv, saman\nSanskrit (20): Sanskrit CommentsX aksaphala, apatyajiva, ardhasadhaka, garbhada, garbhakara, jivanaputra, kumarajiva, kumarbeeja, mavu, pavitra, putra-jiva, putrajiva, putrajivah, putranjiva, putranjivah, shlipadapaha, sidhida, sutajivaka, sutrajiva, yashtipushpa\nTamil (24): irukolli, kancikai 2, karippalai, karupala, karupalai, karupale, karupali, karuppilai, karuppilai 2, karuppilaia, karuvilai, kattuppacceri maram, kumaricivan, kuruppalai, kutacappalai 3, parupala, paruppala, pongolam, ponkolam, putra coki, puttiracancivi, puttiracivi, vicaranai, visaranai\nTelugu (18): kadrajuvi, kadrajuvvi, kudrajinic, kudrajinic kudurujivi, kuduru-jivi, kudurujuvir, kudurujuvvi, mahaaputhrajeevi, mahapurajiviyarala, mahaputra-jivi, mahaputrajivi, puthrajeevika, putra jeevi, putrajiva, putrajivi, putrajivika, veku, yarala\nTibetan (4): bo di tse (p), bo do tse (d), bo do tse (p), bod tse",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17928fcffb05211bf2a50e20634bf2dd/xclkon/84adbed0a20d57bccc35fbabef337753"
+  ],
+  "source_record_ids": [
+    "links-1574"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17928fcffb05211bf2a50e20634bf2dd/xclkon/84adbed0a20d57bccc35fbabef337753"
+    ],
+    "source_record_ids": [
+      "links-1574"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17928fcffb05211bf2a50e20634bf2dd/xclkon/84adbed0a20d57bccc35fbabef337753",
+          "Plant Name": "Putranjiva roxburghii Wall.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Putranjiva roxburghii Wall.",
+        "source_record_id": "links-1574",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17928fcffb05211bf2a50e20634bf2dd/xclkon/84adbed0a20d57bccc35fbabef337753"
+      }
+    ],
+    "source_xplant_id": "17928fcffb05211bf2a50e20634bf2dd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

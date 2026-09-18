@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_afebdc0ab4752948__bibliography__001",
+  "plant_id": "plant_afebdc0ab4752948",
+  "plant_name": "Imperata arundinacea Cyrill.",
+  "botanical_name": "Imperata cylindrica",
+  "botanical_authority": "(L.) RAEUSCH.",
+  "family": "POACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - V.V. SIVARAJAN AND INDIRA BALACHANDRAN; title: Title - AYURVEDIC DRUGS AND THEIR PLANT SOURCES\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: title: Title - Flora of Rajasthan Vol. 3\nBibliography entry: title: Title - Flora of Bankura District(West Bengal)\nBibliography entry: title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nBibliography entry: title: Title - Flora of Chamba District (Himachal Pradesh)\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol III\nBibliography entry: title: Title - Flora of Majuli\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - Flora of Gujarat State Vol 2\nBibliography entry: title: Title - Flora of Tons Valley (Uttaranchal)\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL2\nBibliography entry: title: Title - The Flora of the Gulf of Mannar",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c620ecc4b2b2cb4bfb6ca2386c95648e/xclkon/3283951d6828b361f6cc05d42faa22cb",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c620ecc4b2b2cb4bfb6ca2386c95648e"
+  ],
+  "source_record_ids": [
+    "links-0278",
+    "links-0489"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c620ecc4b2b2cb4bfb6ca2386c95648e/xclkon/3283951d6828b361f6cc05d42faa22cb",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c620ecc4b2b2cb4bfb6ca2386c95648e"
+    ],
+    "source_record_ids": [
+      "links-0278",
+      "links-0489"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c620ecc4b2b2cb4bfb6ca2386c95648e/xclkon/3283951d6828b361f6cc05d42faa22cb",
+          "Plant Name": "Imperata arundinacea Cyrill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Imperata arundinacea Cyrill.",
+        "source_record_id": "links-0278",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c620ecc4b2b2cb4bfb6ca2386c95648e/xclkon/3283951d6828b361f6cc05d42faa22cb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c620ecc4b2b2cb4bfb6ca2386c95648e",
+          "Plant Name": "Imperata cylindrica Beauv.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Imperata cylindrica Beauv.",
+        "source_record_id": "links-0489",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c620ecc4b2b2cb4bfb6ca2386c95648e"
+      }
+    ],
+    "source_xplant_id": "c620ecc4b2b2cb4bfb6ca2386c95648e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

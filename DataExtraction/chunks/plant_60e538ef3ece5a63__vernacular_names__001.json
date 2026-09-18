@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_60e538ef3ece5a63__vernacular_names__001",
+  "plant_id": "plant_60e538ef3ece5a63",
+  "plant_name": "Amaranthus spinosus Linn.",
+  "botanical_name": "Amaranthus spinosus",
+  "botanical_authority": "L.",
+  "family": "AMARANTHACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): spiny pigweed\nHindi (16): adak-dhatura, cauleyi, cholai, goja, kanta-choulae, kanta-nutiya, kantaili-chaulai, kante-wali-chawli, kantelu marsu, kantemat, kantenatia, kantewali-chaulai, kantio chandelo, kataili, kateli, rajgira\nKannada (11): mulla-dantu, mulladantu, mullaravesoppu, mullluharive soppu, mullu dantu, mullu gorakoochi, mullu harive soppu, mullu keere soppu, mulludantina soppu, mulluharivesoppu, mullukeere soppu\nMalayalam (4): cerucira, mullan-chira, mullanchira, mullancira\nMarathi (7): chanalai, kante-bhaji, kantebhaji, kantemat, kanterimat, tandulja, thanduliya\nSanskrit (24): Sanskrit CommentsX alpamarisha, bahuvirya, bhandi, bhandira, ghanasvana, granthila, kandakamarisha, kandera, kantaki, meghanada, pathyashaka, sphurjathu, sushaka, svanitavhaya, tandula, tandulanama, tandulasahvaya, tanduleeya, tanduleraka, tandulibija, tanduliya, tanduliyah, tanduliyaka, vira\nTamil (27): cemmulli, cemmullikkirai, civappumullikkirai, erumaikkacikacceti, erumaikkacikam, ikkiri2, kantarceti, kuppaikkirai, kuppaimulli, kuppaimullikirai, mullankirai, mulliccivappu, mulliccivappukkirai, mullik-kirai, mullikkirai, mulluk-kirai, mullukeerai, mullukkirai, mutkirai, paniccakkirai, vanamacikakkirai, vanamacikam, vannikkirai, vannikkiraicceti, varataru, varataru#, varatarukkirai\nTelugu (11): erramullugoranta, ettamulugoranta, mulla thota-kura, mulluithota koora, mundla-tota-kura, mundlatotakoora, mundlatotakura, nalla doggali, nalla-doggali, nalladoggali, yerra mullu-gorinta\nTibetan (1): ta-ndu-la-ka",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a6729b8a694c06ae22f4c4c81e30eab"
+  ],
+  "source_record_ids": [
+    "links-1255"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a6729b8a694c06ae22f4c4c81e30eab"
+    ],
+    "source_record_ids": [
+      "links-1255"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a6729b8a694c06ae22f4c4c81e30eab",
+          "Plant Name": "Amaranthus spinosus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Amaranthus spinosus Linn.",
+        "source_record_id": "links-1255",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a6729b8a694c06ae22f4c4c81e30eab"
+      }
+    ],
+    "source_xplant_id": "6a6729b8a694c06ae22f4c4c81e30eab",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

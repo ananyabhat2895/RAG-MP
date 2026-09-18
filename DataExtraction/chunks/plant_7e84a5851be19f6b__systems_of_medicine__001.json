@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_7e84a5851be19f6b__systems_of_medicine__001",
+  "plant_id": "plant_7e84a5851be19f6b",
+  "plant_name": "Picrasma quassioides Benn.",
+  "botanical_name": "Picrasma quassioides",
+  "botanical_authority": "BENNET",
+  "family": "SIMAROUBACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Unani Botanical Synonyms (1) - Picarasma guassioides -",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1aae8891c6df4b711d19e75adb4dff29"
+  ],
+  "source_record_ids": [
+    "links-0309",
+    "links-1398"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1aae8891c6df4b711d19e75adb4dff29"
+    ],
+    "source_record_ids": [
+      "links-0309",
+      "links-1398"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1aae8891c6df4b711d19e75adb4dff29",
+          "Plant Name": "Picrasma quassioides Benn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Picrasma quassioides Benn.",
+        "source_record_id": "links-0309",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1aae8891c6df4b711d19e75adb4dff29"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1aae8891c6df4b711d19e75adb4dff29",
+          "Plant Name": "Picrasma quassioides Bennett.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Picrasma quassioides Bennett.",
+        "source_record_id": "links-1398",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1aae8891c6df4b711d19e75adb4dff29"
+      }
+    ],
+    "source_xplant_id": "1aae8891c6df4b711d19e75adb4dff29",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

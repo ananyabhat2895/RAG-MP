@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_596fd65ef4b6549c__bibliography__001",
+  "plant_id": "plant_596fd65ef4b6549c",
+  "plant_name": "Elaeodendron glaucum Pers.",
+  "botanical_name": "Cassine glauca",
+  "botanical_authority": "(ROTTB.) O.KTZE.",
+  "family": "CELASTRACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: title: Title - Flora of Bankura District(West Bengal)\nBibliography entry: title: Title - Flora of West Bengal Vol 1\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I\nBibliography entry: title: Title - The Flora of Kerala Vol I\nBibliography entry: title: Title - Flora of Gujarat State Vol 1\nBibliography entry: title: Title - The Flora of the Gulf of Mannar\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-2\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol I\nBibliography entry: title: Title - A Forest Flora for Kumaon\nBibliography entry: title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - The Flora of Orissa Volume 1\nBibliography entry: title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7727492ab9aa7dcdfa024d295d8072ae/xclkon/89fd92fe97aae8b3f6342686bbc8dacf"
+  ],
+  "source_record_ids": [
+    "links-0177"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7727492ab9aa7dcdfa024d295d8072ae/xclkon/89fd92fe97aae8b3f6342686bbc8dacf"
+    ],
+    "source_record_ids": [
+      "links-0177"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7727492ab9aa7dcdfa024d295d8072ae/xclkon/89fd92fe97aae8b3f6342686bbc8dacf",
+          "Plant Name": "Elaeodendron glaucum Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Elaeodendron glaucum Pers.",
+        "source_record_id": "links-0177",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7727492ab9aa7dcdfa024d295d8072ae/xclkon/89fd92fe97aae8b3f6342686bbc8dacf"
+      }
+    ],
+    "source_xplant_id": "7727492ab9aa7dcdfa024d295d8072ae",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

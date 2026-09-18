@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e7a5e78693d8f8e6__botanical_synonyms__001",
+  "plant_id": "plant_e7a5e78693d8f8e6",
+  "plant_name": "Aquilaria agallocha Roxb.",
+  "botanical_name": "Aquilaria malaccensis",
+  "botanical_authority": "LAM.,",
+  "family": "THYMELAEACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Aquilaria agallocha ROXB.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b3e943eaf551afe69c37b775b63a810/xclkon/ab3a820d2c99245939f5efc1bd65b84b"
+  ],
+  "source_record_ids": [
+    "links-0015"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b3e943eaf551afe69c37b775b63a810/xclkon/ab3a820d2c99245939f5efc1bd65b84b"
+    ],
+    "source_record_ids": [
+      "links-0015"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b3e943eaf551afe69c37b775b63a810/xclkon/ab3a820d2c99245939f5efc1bd65b84b",
+          "Plant Name": "Aquilaria agallocha Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aquilaria agallocha Roxb.",
+        "source_record_id": "links-0015",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b3e943eaf551afe69c37b775b63a810/xclkon/ab3a820d2c99245939f5efc1bd65b84b"
+      }
+    ],
+    "source_xplant_id": "8b3e943eaf551afe69c37b775b63a810",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

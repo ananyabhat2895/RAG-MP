@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_dec4b92ef1d51105__vernacular_names__001",
+  "plant_id": "plant_dec4b92ef1d51105",
+  "plant_name": "Croton oblongifolius",
+  "botanical_name": "Croton roxburghii",
+  "botanical_authority": "BALAK.",
+  "family": "EUPHORBIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (1): chucka\nKannada (7): aachedimbada baeru, bhootala bhairava, bhootala bhairavi, bhoothaala bhairava, gandhasoori, somari, vumme marada gida\nMalayalam (2): kattupatolam, koteputol\nMarathi (5): ganasura, ganasuri, ghan-suramg, ghanasaaree, gunsur\nSanskrit (6): Sanskrit CommentsX bhutamkusam, bhutankusa, bhuthalabhairi, hastidanti, nagdanti, putrasreni\nTamil (4): bhutankusam, milagunari, milgunari, millakumari\nTelugu (7): bhoorhaankusamu, bhootankusam, bhoothalabhairi, bhutala-bhairi, bhutalabhairi, bhutankusam, bhutankusamu\nTibetan (1): na ga da nti",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39/xclkon/2ba2214c1eac5ed6152559704bdcaedb"
+  ],
+  "source_record_ids": [
+    "links-1351",
+    "links-1352"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39/xclkon/2ba2214c1eac5ed6152559704bdcaedb"
+    ],
+    "source_record_ids": [
+      "links-1351",
+      "links-1352"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39/xclkon/2ba2214c1eac5ed6152559704bdcaedb",
+          "Plant Name": "Croton oblongifolius",
+          "Status": "Found"
+        },
+        "source_plant_name": "Croton oblongifolius",
+        "source_record_id": "links-1351",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39/xclkon/2ba2214c1eac5ed6152559704bdcaedb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39/xclkon/2ba2214c1eac5ed6152559704bdcaedb",
+          "Plant Name": "Croton oblongifolius Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Croton oblongifolius Roxb.",
+        "source_record_id": "links-1352",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39/xclkon/2ba2214c1eac5ed6152559704bdcaedb"
+      }
+    ],
+    "source_xplant_id": "8783a7235f3055037ecf53fdd382fc39",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

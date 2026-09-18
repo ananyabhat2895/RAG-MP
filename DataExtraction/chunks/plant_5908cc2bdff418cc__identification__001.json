@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5908cc2bdff418cc__identification__001",
+  "plant_id": "plant_5908cc2bdff418cc",
+  "plant_name": "Valeriana wallichii DC.",
+  "botanical_name": "Valeriana jatamansi",
+  "botanical_authority": "JONES",
+  "family": "VALERIANACEAE",
+  "section": "identification",
+  "content": "Plant name: Valeriana wallichii DC. Botanical name: Valeriana jatamansi Botanical authority: JONES Family: VALERIANACEAE Source xplant ID: b3a8baa0289e77e7553be34f2edd76a3",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3a8baa0289e77e7553be34f2edd76a3/xclkon/4c350576293cd1fc586d95682d8829ec"
+  ],
+  "source_record_ids": [
+    "links-1900"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3a8baa0289e77e7553be34f2edd76a3/xclkon/4c350576293cd1fc586d95682d8829ec"
+    ],
+    "source_record_ids": [
+      "links-1900"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3a8baa0289e77e7553be34f2edd76a3/xclkon/4c350576293cd1fc586d95682d8829ec",
+          "Plant Name": "Valeriana wallichii DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Valeriana wallichii DC.",
+        "source_record_id": "links-1900",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3a8baa0289e77e7553be34f2edd76a3/xclkon/4c350576293cd1fc586d95682d8829ec"
+      }
+    ],
+    "source_xplant_id": "b3a8baa0289e77e7553be34f2edd76a3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

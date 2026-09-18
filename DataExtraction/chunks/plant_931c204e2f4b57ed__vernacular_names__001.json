@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_931c204e2f4b57ed__vernacular_names__001",
+  "plant_id": "plant_931c204e2f4b57ed",
+  "plant_name": "Lepidium sativum Linn.",
+  "botanical_name": "Lepidium sativum",
+  "botanical_authority": "L.",
+  "family": "BRASSICACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): common cress, garden cress\nHindi (9): akalam, candsur, chamsuru, chandrasur, chansar, chansaur, chaunsar, halim, hurf\nKannada (5): alavibija, alli beeja, allibija, alvi, kurutige\nMalayalam (1): asali\nMarathi (6): ahaaleev, ahaliv, ahliv, ahliva, asaaliya, athaleeva\nSanskrit (25): Sanskrit CommentsX ahaleeva, asalika, asalima, ashalika, bhadra, candrasura, candrika, chandrashura, chandrasura, chandrika, charmahantri, daraa, drighabija, jati, kalamesha, karavi, krishna, nandini, pashumehankarika, pasumehanakarika, raktabija, raktaraji, sidhaprayojana, suvasura, vasapuspi\nTamil (12): aali, aalividai, ali, ali verai, ali-virai, aliverai, alivirai, alivitai, alivittu, cantiracura, cantirakam, kokila\nTelugu (8): aadithyalu, aandilee, adalavitulu, adalvitulu, adeli, aditya, adityalu, adiyalu\nUrdu (1): habb-ul-rashaad (haloon)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9bf5471eb2d105f4354cba4cac4dd74"
+  ],
+  "source_record_ids": [
+    "links-0418"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9bf5471eb2d105f4354cba4cac4dd74"
+    ],
+    "source_record_ids": [
+      "links-0418"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9bf5471eb2d105f4354cba4cac4dd74",
+          "Plant Name": "Lepidium sativum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lepidium sativum Linn.",
+        "source_record_id": "links-0418",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9bf5471eb2d105f4354cba4cac4dd74"
+      }
+    ],
+    "source_xplant_id": "b9bf5471eb2d105f4354cba4cac4dd74",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

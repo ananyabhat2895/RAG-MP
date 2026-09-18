@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_d7b79051442d0364__vernacular_names__001",
+  "plant_id": "plant_d7b79051442d0364",
+  "plant_name": "Martynia diandra",
+  "botanical_name": "Martynia annua",
+  "botanical_authority": "L.",
+  "family": "PEDALIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (9): bagh nakhi, bichhu ankadi, bichhu-ankadi, bichhu-butti, bichhwa, bichu, billi, hatha-jori, hathajori\nKannada (6): chaelu kondi beeja, chaelu kondiya gida, garuda moogu, garuda moogu mullu, huli nakha, huli uguru\nMarathi (2): vinchhuacha jhar, vinchu\nSanskrit (2): Sanskrit CommentsX kakanasa, nrtyakundala\nTamil (4): karutamukku, pulinakam, telkotukki2, tetkotukki\nTelugu (4): garudamukku, tehukondichhettu, telukondikaya chettu, thelukondichettu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08/xclkon/953967b7d49d297b9d071b53c6b3620e",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08"
+  ],
+  "source_record_ids": [
+    "links-0627",
+    "links-0845"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08/xclkon/953967b7d49d297b9d071b53c6b3620e",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08"
+    ],
+    "source_record_ids": [
+      "links-0627",
+      "links-0845"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08/xclkon/953967b7d49d297b9d071b53c6b3620e",
+          "Plant Name": "Martynia diandra",
+          "Status": "Found"
+        },
+        "source_plant_name": "Martynia diandra",
+        "source_record_id": "links-0627",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08/xclkon/953967b7d49d297b9d071b53c6b3620e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08",
+          "Plant Name": "Martynia annua Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Martynia annua Linn.",
+        "source_record_id": "links-0845",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08"
+      }
+    ],
+    "source_xplant_id": "95a099dc5b93175361cf6464f11c1c08",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

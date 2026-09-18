@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_54979aade7138fb6__vernacular_names__001",
+  "plant_id": "plant_54979aade7138fb6",
+  "plant_name": "Careya arborea Roxb.",
+  "botanical_name": "Careya arborea",
+  "botanical_authority": "ROXB.",
+  "family": "LECYTHIDACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): ceylon oak, patana oak\nHindi (10): handabhera, handbahera, kali-katbhi, kamba, khumbi, kumbh, kumbhi, kumbi, kumhi, vakamba\nKannada (54): aalagavvele, alagavala, alagavvele, daddal, daddala, dhaddaala mara, doddaale, doddala, doddalada, ganjal, ganju, garva hannu, gaujala mara, gaul, gaulu mara, gavaale, gavagile, gavala, gavalu hannu mara, gavudlu, gavuldu, gavvahannu, gavvele, gavvele hannu, gawagilu, goddadayippe, gongel, gongu, gonji, goujalu, gouju, guddada ippe, guddadaippa, guddadaippae, guddadaippe, hennu matthi, hennumatti, kaavale, kaulu, kaulumara, kaval, kavale, kavalu mara, kavane, kavne, kavulu, kavval, kumbaara, kumbaro, kumbha, kumbi, kumbiamara, pilu, savana\nMalayalam (23): alam, kavana, paer, peelam, pela, peloa, pelou, pelu, per, pera, peru, perzha, pevoo, pevu, peya, pezha, pezhu, pilam, pilu, poyu, udu, uka, ukamaram\nMarathi (12): kamba, kuba, kumbha, kumbhasala, kumbhi, kumbia, kumbika, kumbya, kumbyo, kumhi, vakumbha, wai-kumbha\nSanskrit (25): Sanskrit CommentsX ashaundi, bhadrendrani, girikarnika, kaidarya, kalindi, katabhi, katambhara, kinihi, kshudrashyama, kumbhi, kumbi, madhurenu, mahakatabi, mahashwata, nabhika, patali, pilu, shatapada, shaundi, shirishapatri, shwetakinihi, shyamala, sitakatabhi, svadupushpa, vishaghnika\nTamil (22): aima, avima, ayma, ayma#, kalkambi, kalkampi, kaltekku 2, kampi 2, kampil 2, kampili 2, karekku, karrekku, kolama, kumbi, kumpi, pailacputatammi, pela, pelu, peria, pudattanri, putattanri, puttatanni\nTelugu (36): araya, araya budada naedi, budaburija, budadadarini, budadadarvi, budadanedi, budadarini, budadarmee, budadarmi, budadurmi, budarnedi, budatadadimma, budatanavadi, budatanevadi, budatare, budathadaadimma, budathare, budda budusa, budda dharmi, buddaburija, darepi, duddippa, dudeppa, dudeppi, dudippa, dudippi, gaadhava, gada, gadava, gadha, gadhava, govadi, guda-dhermi, kambi, kumbhi, kumbi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/555260a885273d4bc22900a93dde378b"
+  ],
+  "source_record_ids": [
+    "links-1012"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/555260a885273d4bc22900a93dde378b"
+    ],
+    "source_record_ids": [
+      "links-1012"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/555260a885273d4bc22900a93dde378b",
+          "Plant Name": "Careya arborea Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Careya arborea Roxb.",
+        "source_record_id": "links-1012",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/555260a885273d4bc22900a93dde378b"
+      }
+    ],
+    "source_xplant_id": "555260a885273d4bc22900a93dde378b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

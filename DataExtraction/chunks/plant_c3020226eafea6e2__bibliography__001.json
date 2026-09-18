@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_c3020226eafea6e2__bibliography__001",
+  "plant_id": "plant_c3020226eafea6e2",
+  "plant_name": "Thespesia populnea Soland ex Correa.",
+  "botanical_name": "Thespesia populnea",
+  "botanical_authority": "(L.) SOL.EX. CORREA",
+  "family": "MALVACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - ANONYMOUS; title: Title - ASTANGA HRIDAYA KOSHA\nBibliography entry: author: Author - V.V. SIVARAJAN AND INDIRA BALACHANDRAN; title: Title - AYURVEDIC DRUGS AND THEIR PLANT SOURCES\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - WHITELAW AINSLIE; title: Title - MATERIA INDICA\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: title: Title - Flora of Rajasthan Vol. 1\nBibliography entry: title: Title - Flora of West Bengal Vol 1\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I\nBibliography entry: title: Title - The Flora of Kerala Vol I\nBibliography entry: title: Title - FLORA OF INDIA VOL 3\nBibliography entry: title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nBibliography entry: title: Title - The Flora of Orissa Volume 1\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-1\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nBibliography entry: title: Title - The Flora of the Gulf of Mannar\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2"
+  ],
+  "source_record_ids": [
+    "links-0928",
+    "links-1382"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2"
+    ],
+    "source_record_ids": [
+      "links-0928",
+      "links-1382"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2",
+          "Plant Name": "Thespesia populnea Soland ex Correa.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Thespesia populnea Soland ex Correa.",
+        "source_record_id": "links-0928",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2",
+          "Plant Name": "Thespesia populnea",
+          "Status": "Found"
+        },
+        "source_plant_name": "Thespesia populnea",
+        "source_record_id": "links-1382",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2"
+      }
+    ],
+    "source_xplant_id": "2cb098aab4546846e90d3847fd23c2b2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

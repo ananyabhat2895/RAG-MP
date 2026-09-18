@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_446d8b81a0296fa1__distribution__001",
+  "plant_id": "plant_446d8b81a0296fa1",
+  "plant_name": "Bixa orellana Linn.",
+  "botanical_name": "Bixa orellana",
+  "botanical_authority": "L.",
+  "family": "BIXACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - BSI Scientist; distribution: Distribution; title: Title - Flora of West Bengal Vol 1\nDistribution entry: author: Author - KANJILAL & BOR; distribution: Distribution; title: Title - FLORA OF ASSAM\nDistribution entry: author: Author - Botanicaly Survey of India; distribution: Distribution; title: Title - FLORA OF INDIA VOL 2\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - N.P.Balakrishnan; distribution: Distribution; title: Title - Flora of Jowai Vol.I\nDistribution entry: author: Author - Ed. P. Daniel; distribution: Distribution; title: Title - The Flora of Kerala Vol I\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1\nDistribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d0812dcec1feb32e6de6d3d3f45f5c5"
+  ],
+  "source_record_ids": [
+    "links-1797"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d0812dcec1feb32e6de6d3d3f45f5c5"
+    ],
+    "source_record_ids": [
+      "links-1797"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d0812dcec1feb32e6de6d3d3f45f5c5",
+          "Plant Name": "Bixa orellana Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bixa orellana Linn.",
+        "source_record_id": "links-1797",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d0812dcec1feb32e6de6d3d3f45f5c5"
+      }
+    ],
+    "source_xplant_id": "8d0812dcec1feb32e6de6d3d3f45f5c5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

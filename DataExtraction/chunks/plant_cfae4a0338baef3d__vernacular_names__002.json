@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_cfae4a0338baef3d__vernacular_names__002",
+  "plant_id": "plant_cfae4a0338baef3d",
+  "plant_name": "Ricinus communis",
+  "botanical_name": "Ricinus communis",
+  "botanical_authority": "L.",
+  "family": "EUPHORBIACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (182): aamanakku, aimmuki 1, aimugi, amanakkam ceti, amanakkam chedi, amanakkam-chedi, amanakkan-kottai, amanakkilai, amanakku, amanakku ennai, amanakku ver, amanakkuilai, amanaku, amankalam, amantakam, amantalam, amantam#, amantam@, amanukku-muttu, amirtam1, andagam, antakam, aratticceti, arattitam, aruvarulimuli, asaram, atalai 1#, atalai 1$, atam, atamanakku, atamatakku, ati#, attagam, attakacceti, attakam 1, attamanam, attikkarani, attimanam, attugam, attukam, attukamanakku, attukameticceti, cacamapari, cacampari, cancu, caruci, catticatamuli, cattitarumuli, cemmanakkati, cemmanakkaticceti, cempaimalinicceti, centulamanakku, centulamanakkucceti, cevvali, cevvamanakku, chittamanakkan-chedi, chittmani, cikanti, cikanticceti, cikantitam, cirramanakkenney, cirramanakku, cirrerantam, cirreranticceti, cirunalikacceti, cittaman, cittamanam, cittiram, cittiram 2, cittiramanakkucceti, civappamanakku, civappatalai1, civappatalaicceti1, civappi2, culaiccatturu, culatavirutti, cunnu, curiyakanatavamanakku, cutacenturi, ekkalatevi, eranam, erandam, erantam, ilinkapentakatti, iraiyamanakku, irataverantam, irattakam, irenukamuli, istam, istayitacceti, istayitam, itimpam, ittam, itticam, kanaipputu, kanalakkini, kanalakkinikari, kantaruva#, kapanilatipanam, katalam, kentacatakam, kottai, kottaimuttu, kumparittam, makapattiri, manam, mantaki, mantakicceti, mantalam, mantam, matuvantapputu, motanankamuli, muttukkottaicceti, nakakarnam, narikamanakku, narikamanakkucceti, nattamanakku, orantam, pancamilevavatam, pancankam, pancankulam, parankiyatalai, parpatikacceti, parpatikam, peritaiyal, sitta-manakku, sittamanaku, taccattaru, taittiyakikacceti, taittiyakikam, talarupakam, talarupam, tamincam, tampincam, tapincam#, tapincam@, tarunakamati, tarunakamaticceti, tarunam, tatimantaram, timitakutalacceti, timitakutalam, tipataili, tiriputipalam, tirkkapattirakam 1, tirkkatantam, tiruvalamuli, tiruvalipputu, tiruvatiraimuli, tuccataru 1, tuccattaru 1, tuccattaru@, tuccatturu, tuccitacceti, tuccitam, tutturam 1, ucakam, urppulam, urucakam 1, urupukam#, urupukam@, uruttirapattiram, usapam, vacanimuli, valaippen, varantalu, varantaru, varttamanam, vataivari, vataivaricceti, vatanacanam, vatari, vatavairi, vatavari, vattamacceti, vattamam, viyakkiramam, viyakkirapuccam, viyakkiratalam, viyatampakam, vullak unnay, yatutaiyanputu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab8b2a15b1ed94d74b5d9605be29a51f"
+  ],
+  "source_record_ids": [
+    "links-0486",
+    "links-0565"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab8b2a15b1ed94d74b5d9605be29a51f"
+    ],
+    "source_record_ids": [
+      "links-0486",
+      "links-0565"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab8b2a15b1ed94d74b5d9605be29a51f",
+          "Plant Name": "Ricinus communis",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ricinus communis",
+        "source_record_id": "links-0486",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab8b2a15b1ed94d74b5d9605be29a51f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab8b2a15b1ed94d74b5d9605be29a51f",
+          "Plant Name": "Ricinus communis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ricinus communis Linn.",
+        "source_record_id": "links-0565",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab8b2a15b1ed94d74b5d9605be29a51f"
+      }
+    ],
+    "source_xplant_id": "ab8b2a15b1ed94d74b5d9605be29a51f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

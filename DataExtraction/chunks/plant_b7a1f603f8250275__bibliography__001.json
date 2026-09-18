@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b7a1f603f8250275__bibliography__001",
+  "plant_id": "plant_b7a1f603f8250275",
+  "plant_name": "Baliospermum sinuatum Muell-Arg.",
+  "botanical_name": "Baliospermum sinuatum",
+  "botanical_authority": "MUELL.",
+  "family": "EUPHORBIACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: title: Title - The Family Euphorbiaceae in India- A Synopsis of its profile….",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b61c446a38833336b45d96d547e2d535"
+  ],
+  "source_record_ids": [
+    "links-0531"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b61c446a38833336b45d96d547e2d535"
+    ],
+    "source_record_ids": [
+      "links-0531"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b61c446a38833336b45d96d547e2d535",
+          "Plant Name": "Baliospermum sinuatum Muell-Arg.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Baliospermum sinuatum Muell-Arg.",
+        "source_record_id": "links-0531",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b61c446a38833336b45d96d547e2d535"
+      }
+    ],
+    "source_xplant_id": "b61c446a38833336b45d96d547e2d535",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

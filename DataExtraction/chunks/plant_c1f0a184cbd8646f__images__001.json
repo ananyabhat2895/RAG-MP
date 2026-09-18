@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_c1f0a184cbd8646f__images__001",
+  "plant_id": "plant_c1f0a184cbd8646f",
+  "plant_name": "Cajanus cajan (Linn.) Millsp.",
+  "botanical_name": "Cajanus cajan",
+  "botanical_authority": "(L.) MILLSP.",
+  "family": "FABACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047"
+  ],
+  "source_record_ids": [
+    "links-0008",
+    "links-0009",
+    "links-0010",
+    "links-2004"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047"
+    ],
+    "source_record_ids": [
+      "links-0008",
+      "links-0009",
+      "links-0010",
+      "links-2004"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047",
+          "Plant Name": "Cajanus cajan (Linn.) Millsp.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cajanus cajan (Linn.) Millsp.",
+        "source_record_id": "links-0008",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047",
+          "Plant Name": "Cajanus cajan (Linn.) Millsp. var. bicolor DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cajanus cajan (Linn.) Millsp. var. bicolor DC.",
+        "source_record_id": "links-0009",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047",
+          "Plant Name": "Cajanus cajan (Linn.) Millsp. var. flavus DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cajanus cajan (Linn.) Millsp. var. flavus DC.",
+        "source_record_id": "links-0010",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047",
+          "Plant Name": "Cajanus cajan (Linn.) Mill sp.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cajanus cajan (Linn.) Mill sp.",
+        "source_record_id": "links-2004",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047"
+      }
+    ],
+    "source_xplant_id": "56cace4947d620fcfd20cee3d4fdb047",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

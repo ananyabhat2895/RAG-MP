@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_fd57ade42869e568__images__001",
+  "plant_id": "plant_fd57ade42869e568",
+  "plant_name": "Jasminum multiflorum Andr.",
+  "botanical_name": "Jasminum multiflorum",
+  "botanical_authority": "(BURM.F.) ANDR.",
+  "family": "OLEACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13c5e57966efeeeee22ad5138e8b25a1"
+  ],
+  "source_record_ids": [
+    "links-1125"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13c5e57966efeeeee22ad5138e8b25a1"
+    ],
+    "source_record_ids": [
+      "links-1125"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13c5e57966efeeeee22ad5138e8b25a1",
+          "Plant Name": "Jasminum multiflorum Andr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Jasminum multiflorum Andr.",
+        "source_record_id": "links-1125",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13c5e57966efeeeee22ad5138e8b25a1"
+      }
+    ],
+    "source_xplant_id": "13c5e57966efeeeee22ad5138e8b25a1",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

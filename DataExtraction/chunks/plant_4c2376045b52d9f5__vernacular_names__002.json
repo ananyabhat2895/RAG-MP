@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_4c2376045b52d9f5__vernacular_names__002",
+  "plant_id": "plant_4c2376045b52d9f5",
+  "plant_name": "Gmelina arborea Linn.",
+  "botanical_name": "Gmelina arborea",
+  "botanical_authority": "L.",
+  "family": "VERBENACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (65): ancavira, ankaravalli3, arica, aricakikam, aricakikamaram, ariccavi, arisa, arucakumil, arucakumilmaram, arucavira, caruvatapattiram, ciriparani1, ciruparani2, comavalakkam1, comavali, comavalimaram, cukattikam, cummi, gumadi, gumuadu-teku, kacumari3, kalappanri, kalarbadi, kalarpati, kattanam, kirusnavantika, kiruttinam2, kiruttinaviruntai2, kiruttinaviruttikam2, kopapattirikam, kumadi, kumalan, kumbal, kumil, kumil2, kumizham, kumla, kumutapattiram, matuparni, pakarpala, palacomam, pammari, pampari, pamparimaram, paruni 2, pattira, pattiraparani, pattiravati, patuparani, perumkumbil, perungumil, perungumizh, perunkumil, perunkumilam palan, peruntumpai, pulirgumil, pulirkumil, tustamakirakani, umitekku, umithekku, umittekku, ummithekku, umpal, valakkaccam, varanki 1\nTelugu (49): adavigummudu, adivigumadi, belligumudu, calagummudu, callagummudu, challagummadi, challagummadu, challagummudu, chittungudu, errinatuva, gamudu, geemaditekku, goomadee, goomartek, gumar-tek, gumitaku, gummadi, gummadi chettu, gummudu, gummudu taeku, gumtaeku, gumteku, gumudu, gumudu-teku, gumuduteku, kaashmari, kaashmaryamu, kasmari, kasmaryamu, kasmeryamu, kasmiryamu, parsini, pedda gumudu, peddagomru, peddagoomru, peddagumu, peddagumudu, peddagumudutaekku, peddagumuduteku, peddakummi, peggumadu, tagoomooda, tagumuda, teggnmmudu, teggummudu, teggumudu, theggummudu, tsalagummadi, tsalogummadi\nTibetan (1): tan pal",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f7b5cf8d3bddfdbf51e2ed742280d51"
+  ],
+  "source_record_ids": [
+    "links-0573",
+    "links-1003"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f7b5cf8d3bddfdbf51e2ed742280d51"
+    ],
+    "source_record_ids": [
+      "links-0573",
+      "links-1003"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f7b5cf8d3bddfdbf51e2ed742280d51",
+          "Plant Name": "Gmelina arborea Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gmelina arborea Linn.",
+        "source_record_id": "links-0573",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f7b5cf8d3bddfdbf51e2ed742280d51"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f7b5cf8d3bddfdbf51e2ed742280d51",
+          "Plant Name": "Gmelina arborea",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gmelina arborea",
+        "source_record_id": "links-1003",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f7b5cf8d3bddfdbf51e2ed742280d51"
+      }
+    ],
+    "source_xplant_id": "2f7b5cf8d3bddfdbf51e2ed742280d51",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

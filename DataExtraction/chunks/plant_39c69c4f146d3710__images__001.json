@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_39c69c4f146d3710__images__001",
+  "plant_id": "plant_39c69c4f146d3710",
+  "plant_name": "Strychnos colubrina Linn.",
+  "botanical_name": "Strychnos colubrina",
+  "botanical_authority": "AUCTT. PL.",
+  "family": "LOGANIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25e0dd121cb70c8593ee55a204ce27d3"
+  ],
+  "source_record_ids": [
+    "links-0125"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25e0dd121cb70c8593ee55a204ce27d3"
+    ],
+    "source_record_ids": [
+      "links-0125"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25e0dd121cb70c8593ee55a204ce27d3",
+          "Plant Name": "Strychnos colubrina Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Strychnos colubrina Linn.",
+        "source_record_id": "links-0125",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25e0dd121cb70c8593ee55a204ce27d3"
+      }
+    ],
+    "source_xplant_id": "25e0dd121cb70c8593ee55a204ce27d3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

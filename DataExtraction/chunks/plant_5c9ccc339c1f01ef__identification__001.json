@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5c9ccc339c1f01ef__identification__001",
+  "plant_id": "plant_5c9ccc339c1f01ef",
+  "plant_name": "Tragia involucrata Linn.",
+  "botanical_name": "Tragia involucrata",
+  "botanical_authority": "L.",
+  "family": "EUPHORBIACEAE",
+  "section": "identification",
+  "content": "Plant name: Tragia involucrata Linn. Botanical name: Tragia involucrata Botanical authority: L. Family: EUPHORBIACEAE Source xplant ID: 203d31d36424aa51a59e67b391b11cd2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/203d31d36424aa51a59e67b391b11cd2"
+  ],
+  "source_record_ids": [
+    "links-2132"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/203d31d36424aa51a59e67b391b11cd2"
+    ],
+    "source_record_ids": [
+      "links-2132"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/203d31d36424aa51a59e67b391b11cd2",
+          "Plant Name": "Tragia involucrata Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tragia involucrata Linn.",
+        "source_record_id": "links-2132",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/203d31d36424aa51a59e67b391b11cd2"
+      }
+    ],
+    "source_xplant_id": "203d31d36424aa51a59e67b391b11cd2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

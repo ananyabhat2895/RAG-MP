@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2d0bf99657b99817__images__001",
+  "plant_id": "plant_2d0bf99657b99817",
+  "plant_name": "Nyctanthes arbor-tristis Linn.",
+  "botanical_name": "Nyctanthes arbor-tristis",
+  "botanical_authority": "L.",
+  "family": "OLEACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fbf96782c22d2fe4a001d4ed9be0c9b"
+  ],
+  "source_record_ids": [
+    "links-1441"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fbf96782c22d2fe4a001d4ed9be0c9b"
+    ],
+    "source_record_ids": [
+      "links-1441"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fbf96782c22d2fe4a001d4ed9be0c9b",
+          "Plant Name": "Nyctanthes arbor-tristis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Nyctanthes arbor-tristis Linn.",
+        "source_record_id": "links-1441",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fbf96782c22d2fe4a001d4ed9be0c9b"
+      }
+    ],
+    "source_xplant_id": "1fbf96782c22d2fe4a001d4ed9be0c9b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

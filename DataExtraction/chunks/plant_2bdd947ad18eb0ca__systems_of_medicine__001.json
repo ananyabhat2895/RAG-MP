@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2bdd947ad18eb0ca__systems_of_medicine__001",
+  "plant_id": "plant_2bdd947ad18eb0ca",
+  "plant_name": "Gnetum montanum Markgraf.",
+  "botanical_name": "Gnetum montanum",
+  "botanical_authority": "MARKGRAF",
+  "family": "GNETACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f09f0454167c12a5bca011fbb66c040c"
+  ],
+  "source_record_ids": [
+    "links-1296"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f09f0454167c12a5bca011fbb66c040c"
+    ],
+    "source_record_ids": [
+      "links-1296"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f09f0454167c12a5bca011fbb66c040c",
+          "Plant Name": "Gnetum montanum Markgraf.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gnetum montanum Markgraf.",
+        "source_record_id": "links-1296",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f09f0454167c12a5bca011fbb66c040c"
+      }
+    ],
+    "source_xplant_id": "f09f0454167c12a5bca011fbb66c040c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

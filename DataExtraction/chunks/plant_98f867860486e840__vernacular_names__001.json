@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_98f867860486e840__vernacular_names__001",
+  "plant_id": "plant_98f867860486e840",
+  "plant_name": "Hyptis suaveolens Poit.",
+  "botanical_name": "Hyptis suaveolens",
+  "botanical_authority": "POIT.",
+  "family": "LAMIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): ganga basil\nHindi (1): vilaiti-tulsi\nKannada (1): ganga thulasi\nSanskrit (1): Sanskrit CommentsX bhustrna\nTelugu (3): danthi thulasi, seema thulasi, sirna tulasi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1656cb1b511a149d9533ff43a5d68eda"
+  ],
+  "source_record_ids": [
+    "links-0346"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1656cb1b511a149d9533ff43a5d68eda"
+    ],
+    "source_record_ids": [
+      "links-0346"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1656cb1b511a149d9533ff43a5d68eda",
+          "Plant Name": "Hyptis suaveolens Poit.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hyptis suaveolens Poit.",
+        "source_record_id": "links-0346",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1656cb1b511a149d9533ff43a5d68eda"
+      }
+    ],
+    "source_xplant_id": "1656cb1b511a149d9533ff43a5d68eda",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

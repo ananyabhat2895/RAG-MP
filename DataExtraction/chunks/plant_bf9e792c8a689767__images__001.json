@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_bf9e792c8a689767__images__001",
+  "plant_id": "plant_bf9e792c8a689767",
+  "plant_name": "Nymphaea stellata Willd.",
+  "botanical_name": "Nymphaea stellata",
+  "botanical_authority": "WILLD.",
+  "family": "NYMPHAEACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55669346cfc88ce051fbd6c2951c4147"
+  ],
+  "source_record_ids": [
+    "links-1119"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55669346cfc88ce051fbd6c2951c4147"
+    ],
+    "source_record_ids": [
+      "links-1119"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55669346cfc88ce051fbd6c2951c4147",
+          "Plant Name": "Nymphaea stellata Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Nymphaea stellata Willd.",
+        "source_record_id": "links-1119",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55669346cfc88ce051fbd6c2951c4147"
+      }
+    ],
+    "source_xplant_id": "55669346cfc88ce051fbd6c2951c4147",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

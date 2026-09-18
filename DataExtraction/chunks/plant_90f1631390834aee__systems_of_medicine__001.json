@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_90f1631390834aee__systems_of_medicine__001",
+  "plant_id": "plant_90f1631390834aee",
+  "plant_name": "Wattakaka volubilis (Linn.f.) Stapf.",
+  "botanical_name": "Wattakaka volubilis",
+  "botanical_authority": "(L.F.) STAPF",
+  "family": "ASCLEPIADACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk Botanical Synonyms (4) - Asclepias volubilis L.F. X Full Botanical citation - Asclepias volubilis L.f.\nSystem of medicine: Suppl. pl. 170. 1782; S. Karthikeyan & al.\nSystem of medicine: Flowering Plants of India - Dicots. 1: 168. 2009. Dregea volubilis (L.F.) BENTH. EX.HOOK.F. X Full Botanical citation - Dregea volubilis (L.f.) Benth. ex Hook.f.\nSystem of medicine: Fl. Brit. India 4: 46. 1883; S. Karthikeyan & al.\nSystem of medicine: Flowering Plants of India - Dicots. 1: 168. 2009. Hoya viridiflora R.BR. X Full Botanical citation - Hoya viridiflora R.Br. in Mem. Wern. Nat. Hist. Soc. 1: 26. 1809; S. Karthikeyan & al.\nSystem of medicine: Flowering Plants of India - Dicots. 1: 168. 2009. Marsdenia volubilis (L.F). X Full Botanical citation - Marsdenia volubilis (L.f.) T.Cooke\nSystem of medicine: Fl. Bombay 2: 166. 1904 (2:231. 1967\nSystem of medicine: Repr.); S. Karthikeyan & al.\nSystem of medicine: Flowering Plants of India - Dicots. 1: 168. 2009.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66abd203e28e8a1260e62436cbe8a63d"
+  ],
+  "source_record_ids": [
+    "links-1332"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66abd203e28e8a1260e62436cbe8a63d"
+    ],
+    "source_record_ids": [
+      "links-1332"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66abd203e28e8a1260e62436cbe8a63d",
+          "Plant Name": "Wattakaka volubilis (Linn.f.) Stapf.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Wattakaka volubilis (Linn.f.) Stapf.",
+        "source_record_id": "links-1332",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66abd203e28e8a1260e62436cbe8a63d"
+      }
+    ],
+    "source_xplant_id": "66abd203e28e8a1260e62436cbe8a63d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

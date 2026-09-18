@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_81f6e3e668692e00__images__001",
+  "plant_id": "plant_81f6e3e668692e00",
+  "plant_name": "Pentapetes phoenicea Linn.",
+  "botanical_name": "Pentapetes phoenicea",
+  "botanical_authority": "L.",
+  "family": "STERCULIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c7037565523923a4f80c7c40784ce52"
+  ],
+  "source_record_ids": [
+    "links-0287"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c7037565523923a4f80c7c40784ce52"
+    ],
+    "source_record_ids": [
+      "links-0287"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c7037565523923a4f80c7c40784ce52",
+          "Plant Name": "Pentapetes phoenicea Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pentapetes phoenicea Linn.",
+        "source_record_id": "links-0287",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c7037565523923a4f80c7c40784ce52"
+      }
+    ],
+    "source_xplant_id": "7c7037565523923a4f80c7c40784ce52",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a29ca361568d4002__vernacular_names__001",
+  "plant_id": "plant_a29ca361568d4002",
+  "plant_name": "Mangifera indica Linn.",
+  "botanical_name": "Mangifera indica",
+  "botanical_authority": "L.",
+  "family": "ANACARDIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): mango mango\nHindi (14): aam, am, am-ka-per, ama, amb, amb/am, amba, ambe, ambo, amra, amuva, anb-ka-per, kairi, keri\nKannada (34): amba, ambaro, balli maavu, ballimavu, candramavu, chandra maavu, chandramavu, jeerige maavu, jiragemavu, kaadugenasina gadde, kaligaala gida, kukku, kulike, maavina mara, maavu, manmatha, marveen, mava, mavan, mavena, mavi, mavina, mavina-hannu, mavina-mara, mavinamara, mavinamra, mavu, mawa, rasala, rasala mara, shimavu, simavu, suka, toremavu\nMalayalam (20): amram, cutam, gomanna, gomanne, mangas, mango, manna, mao, mau, mav, mava, mavina, mavu, mavva, moochi, mucci, much-chi-maram, muchi, nattumavu, tenmavu\nMarathi (4): aamba, am, amba, ambo\nSanskrit (64): Sanskrit CommentsX alipriya, amra, amrah, amravrikshaha, amva, atisairrabha, bhramarapriya, bhringabhishta, chukralatamra, chuta, chutaka, chutu, cuta, cutah, gandhabandhu, joota, kamanga, kamaphala, kamarasa, kamashara, kamavallabha, kamayudha, kameshta, keshavayudha, kireshta, kokilananda, kokilavasa, kokilotsava, koshi, madadhya, madha-dut, madhavadruma, madhuduta, madhukara, madhuli, madhvavasa, madirasakha, makanda, manjari, manmathalaya, manmathavasa, manodna, modakhya, mrishalaka, nilakapittha, nriyapapriya, parapushtamahotsava, phalashreshtha, phalotpatti, pikapriya, pikaraga, pikavallabha, priyambu, rasala, sahakara, shareshta, shatapadatilhi, shukrapriya, sidhurasa, sripriya, sumadana, vanotswa, vasantadru, vasantaduta",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8a83ef9a6450c46b4347fb66fd4858d4"
+  ],
+  "source_record_ids": [
+    "links-0117"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8a83ef9a6450c46b4347fb66fd4858d4"
+    ],
+    "source_record_ids": [
+      "links-0117"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8a83ef9a6450c46b4347fb66fd4858d4",
+          "Plant Name": "Mangifera indica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mangifera indica Linn.",
+        "source_record_id": "links-0117",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8a83ef9a6450c46b4347fb66fd4858d4"
+      }
+    ],
+    "source_xplant_id": "8a83ef9a6450c46b4347fb66fd4858d4",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_c3020226eafea6e2__vernacular_names__001",
+  "plant_id": "plant_c3020226eafea6e2",
+  "plant_name": "Thespesia populnea Soland ex Correa.",
+  "botanical_name": "Thespesia populnea",
+  "botanical_authority": "(L.) SOL.EX. CORREA",
+  "family": "MALVACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): mahoe\nHindi (11): ban-pipal, bhendi, gajadanda, gajhanol, paras pipal, paras-pipal, parashajhad, paraspipal, parsipu, pipal, porush\nKannada (37): adavi bande tree, adavibende mara, arasha, arashi, arasi, asha, bangaali, bangali, bhogiarale, bogari, boogooi, bugari, bugari mara, gandarali, gandaralihuvarasi, havarasi, hooarasu, hoovarasi, hoovarasi mara, hurvashi, huvarase, huvarasi, huvarsi, huvvagase, jogi, jogia mara, jogiattasa, jogierale, jogiyarale, jogiyattasa, kandarola, kandarola-mara, kandaroola, kandasola, kilankoi, paarasi, turuve\nMalayalam (22): bupariti, chandamaram, cheelanthi, cheelanthy, chilanti, cilanti, cilantippatta, kallal, kattal, pooarasu, poovarasu, poovarchi, porassu, puparti, puparutti, pupparutti, puvarachu, puvaracu, puvarasu, puvvarasha, puvvarashah, puvvarasu\nMarathi (15): ashta, bendi, bhenda, bhendi, bhendy, kaade paayir, khari-kapusi, manor, paaras peepal, paaras peepar, paarsachajhada, paraspipar, parsachajhada, ranbhendi, vhadli\nSanskrit (23): Sanskrit CommentsX gardabhanda, gardabhandah, gardha-bhanda, haripucchah, kamandalu, kandarala, kapichuta, kapitana, kapitanah, kuberaksha, kundah, nandi, nandivrksa, parisa, parisah, parisha, parsvapippala, phalisha, plaksah, sooparshavaka, suparashvaka, suparsha-vaka, suparshvaka\nTamil (69): acuvattai 2, ampuviyaracu, aracanviroti, aracu, cakkiram2, carutavikam, chandamaram, cilanti, cilanti$, cuyakkini, kallal, karttapavantakam, kattuparuthi, kulirikam, kulirkamaram, makanimpam 2, makanimpar 2, mannaracu, mannaracumaram, mannilaventan 1, manru, nattuppuvaracu, pancalai, paricam, parushamaram, perumputalam, piram, piram 2, piramanettam, piramataru 2, piramatarucam, pirmakastam, pirumaniyam, pirumpirkku, pittarocanam, poovarasam, poovarasu, poursunghai, puarasu, pukam 3, pulam, punam, pupparuti, pupparutimaram, pupparutti, puracu 2, purappoti, purasha-maram, purashamaram, purpoti, pursung, purvarasam, puvanam, puvaracu, puvaracu vittu, puvarasam, puvarasamkallal, puvarasu, puviracan, tutancam, umam, umattotikam, umattotikamaram, vatapetam, vatapotam, vattu 1, vekutci, vekutcimaram, viranahari 1\nTelugu (19): benda, gandareni, ganga ravi, gangaraavi, gangaravi, gangaraya, gangareeni, gangaregu, gangareni, gangarenu, gangarenuchettu, gangarevi, ganguranichettu, gara, ghengheranie, ghengheravie, mooneegangaraya, muni gangaravi, munigangaravi\nUrdu (1): tukhm ispast",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2"
+  ],
+  "source_record_ids": [
+    "links-0928",
+    "links-1382"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2"
+    ],
+    "source_record_ids": [
+      "links-0928",
+      "links-1382"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2",
+          "Plant Name": "Thespesia populnea Soland ex Correa.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Thespesia populnea Soland ex Correa.",
+        "source_record_id": "links-0928",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2",
+          "Plant Name": "Thespesia populnea",
+          "Status": "Found"
+        },
+        "source_plant_name": "Thespesia populnea",
+        "source_record_id": "links-1382",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2"
+      }
+    ],
+    "source_xplant_id": "2cb098aab4546846e90d3847fd23c2b2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

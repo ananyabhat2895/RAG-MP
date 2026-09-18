@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_6ebc502a71e4f188__identification__001",
+  "plant_id": "plant_6ebc502a71e4f188",
+  "plant_name": "Tylophora indica (Burm.f.) Merr.",
+  "botanical_name": "Tylophora indica",
+  "botanical_authority": "(BURM.F.) MERRILL",
+  "family": "ASCLEPIADACEAE",
+  "section": "identification",
+  "content": "Plant name: Tylophora indica (Burm.f.) Merr. Botanical name: Tylophora indica Botanical authority: (BURM.F.) MERRILL Family: ASCLEPIADACEAE Source xplant ID: 1549400588c63584c7fe0037adf8a4e2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2"
+  ],
+  "source_record_ids": [
+    "links-0162",
+    "links-0163"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2"
+    ],
+    "source_record_ids": [
+      "links-0162",
+      "links-0163"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2",
+          "Plant Name": "Tylophora indica (Burm.f.) Merr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tylophora indica (Burm.f.) Merr.",
+        "source_record_id": "links-0162",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2",
+          "Plant Name": "Tylophora indica (Burm.f.) Merrill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tylophora indica (Burm.f.) Merrill.",
+        "source_record_id": "links-0163",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2"
+      }
+    ],
+    "source_xplant_id": "1549400588c63584c7fe0037adf8a4e2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

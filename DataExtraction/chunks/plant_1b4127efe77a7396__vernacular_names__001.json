@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_1b4127efe77a7396__vernacular_names__001",
+  "plant_id": "plant_1b4127efe77a7396",
+  "plant_name": "Ruta graveolens Linn.",
+  "botanical_name": "Ruta graveolens",
+  "botanical_authority": "L.",
+  "family": "RUTACEAE",
+  "section": "vernacular_names",
+  "content": "English (6): common rue, countryman s-treacle, garden rue, german rue, herb-of-grace, rue\nHindi (4): pismarum, sadab, satap, satari\nKannada (15): haavu nanjina gida, havunanjina, havunanjinagida, havunanju, naagadaali, nagadali, sadaapa, sadaashoo, sadabu, sadapa, sadapu, seeme saddapu, shivaddali soppu, sudabu, sudabugida\nMalayalam (3): aruta, somarayam, somarayen\nMarathi (3): arud, satap, satapa\nSanskrit (9): Sanskrit CommentsX brahmi, guchhapatra, pitapushpa, sadapaha, sarpadanshta, sitaba, soma, somalata, vishapaha\nTamil (45): arooda, aruta, aruta2, aruvada, aruvadam, aruvadan, aruvata, arvada, arvata, cantiravallari, catamurkkam, catamurkkan, catamurkkappuntu, catapalai, catappilai, catappilaicceti, catappu, catappu@, catappuyilai, cataputpam2@, cimaiccatappilai, citeviputpi, comalatai, cupika, cupikappuntu, cuppiyam1, cuppiyam@, enneymuriyilaicceti, enneymuriyillai, ilemporukam, kallampitacceti, kallampitam, kentakam2, kentikam@, kenturam, macci, macci#, maccikappuntu, maccitam, maycci, nakatali3, pambugolli, pampukolli, uparpavam, uparpavapputu\nTelugu (6): aruda, arudu, sadapa, sadapaka, sadapaku, suddhapuaku\nUrdu (7): burg sudab, burg-i-sudab, ispand, sadab, sudab (burg-e-sudab), sudah, tukhm sudab",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7bc9b346e478e08cc42a7c383541740"
+  ],
+  "source_record_ids": [
+    "links-1802"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7bc9b346e478e08cc42a7c383541740"
+    ],
+    "source_record_ids": [
+      "links-1802"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7bc9b346e478e08cc42a7c383541740",
+          "Plant Name": "Ruta graveolens Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ruta graveolens Linn.",
+        "source_record_id": "links-1802",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7bc9b346e478e08cc42a7c383541740"
+      }
+    ],
+    "source_xplant_id": "b7bc9b346e478e08cc42a7c383541740",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

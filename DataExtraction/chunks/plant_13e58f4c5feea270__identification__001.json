@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_13e58f4c5feea270__identification__001",
+  "plant_id": "plant_13e58f4c5feea270",
+  "plant_name": "Tamarindus indica Linn.",
+  "botanical_name": "Tamarindus indica",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "identification",
+  "content": "Plant name: Tamarindus indica Linn. Botanical name: Tamarindus indica Botanical authority: L. Family: CAESALPINIACEAE Source xplant ID: 01649c8cebf19249351228352a1554c0",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01649c8cebf19249351228352a1554c0"
+  ],
+  "source_record_ids": [
+    "links-0116"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01649c8cebf19249351228352a1554c0"
+    ],
+    "source_record_ids": [
+      "links-0116"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01649c8cebf19249351228352a1554c0",
+          "Plant Name": "Tamarindus indica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tamarindus indica Linn.",
+        "source_record_id": "links-0116",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01649c8cebf19249351228352a1554c0"
+      }
+    ],
+    "source_xplant_id": "01649c8cebf19249351228352a1554c0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4a96aff20ed5cf47__vernacular_names__001",
+  "plant_id": "plant_4a96aff20ed5cf47",
+  "plant_name": "Echinops echinatus Roxb.",
+  "botanical_name": "Echinops echinatus",
+  "botanical_authority": "ROXB.",
+  "family": "ASTERACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (12): bharoos, gokhru, gokru, kantela, oont-kanti, oont-katalo, uintkato, unt kantalo, unt katalo, untakatara, utakanta, utakatira\nKannada (8): brahma dande, brahmadande, kantaala mullu gida, kantaalu, naayi mullu, nari mullu, ushtrakanta, utkante\nMarathi (7): kadechubak, utanti, utati, uthanti, uthati, uthkatara, utkatara\nSanskrit (20): Sanskrit CommentsX ajadandi, brahmadandi, kantalu, kantaphala, karabhadana, karamadana, mukhadantarujapaha, raktapushpa, shrigala, shunakashana, tikshnagra, tiksnagra, ushtrakanta, ustrakanta, utakantaka, utati, utkantaka, utkatotkata, uttundaka, vrittaguchha\nTamil (15): icalika, icalikamaram#, icalikamaram@, kantakam, kattam, kirumirustanki, kokkilam, konta, kopankontar, kutiraippijan, kutiraippisanmaram, mutini, ottaimaram, patarikantam, patariritcam\nTelugu (5): brahma dandi, brahmadandi, mulla banti, pitchi ksusuma, vaemadonda\nUrdu (1): bikh untkatara",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4517a64f6d5d32607bac9502312643b9"
+  ],
+  "source_record_ids": [
+    "links-2033"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4517a64f6d5d32607bac9502312643b9"
+    ],
+    "source_record_ids": [
+      "links-2033"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4517a64f6d5d32607bac9502312643b9",
+          "Plant Name": "Echinops echinatus Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Echinops echinatus Roxb.",
+        "source_record_id": "links-2033",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4517a64f6d5d32607bac9502312643b9"
+      }
+    ],
+    "source_xplant_id": "4517a64f6d5d32607bac9502312643b9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

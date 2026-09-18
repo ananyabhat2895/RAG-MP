@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_53726fd37c62fae1__identification__001",
+  "plant_id": "plant_53726fd37c62fae1",
+  "plant_name": "Ocimum basilicum Linn.",
+  "botanical_name": "Ocimum basilicum",
+  "botanical_authority": "L.",
+  "family": "LAMIACEAE",
+  "section": "identification",
+  "content": "Plant name: Ocimum basilicum Linn. Botanical name: Ocimum basilicum Botanical authority: L. Family: LAMIACEAE Source xplant ID: ac85a1dcb3ffc32786f88e3307605202",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202"
+  ],
+  "source_record_ids": [
+    "links-0042",
+    "links-0288",
+    "links-0289",
+    "links-0290"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202"
+    ],
+    "source_record_ids": [
+      "links-0042",
+      "links-0288",
+      "links-0289",
+      "links-0290"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202",
+          "Plant Name": "Ocimum basilicum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ocimum basilicum Linn.",
+        "source_record_id": "links-0042",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202",
+          "Plant Name": "Ocimum basilicum Linn. Var. basilicum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ocimum basilicum Linn. Var. basilicum",
+        "source_record_id": "links-0288",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202",
+          "Plant Name": "Ocimum basilicum Linn. Var. majus",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ocimum basilicum Linn. Var. majus",
+        "source_record_id": "links-0289",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202",
+          "Plant Name": "Ocimum basilicum Linn. Var. pilosum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ocimum basilicum Linn. Var. pilosum",
+        "source_record_id": "links-0290",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202"
+      }
+    ],
+    "source_xplant_id": "ac85a1dcb3ffc32786f88e3307605202",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

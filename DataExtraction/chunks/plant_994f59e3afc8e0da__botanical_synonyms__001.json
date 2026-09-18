@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_994f59e3afc8e0da__botanical_synonyms__001",
+  "plant_id": "plant_994f59e3afc8e0da",
+  "plant_name": "Toddalia asiatica Lam.",
+  "botanical_name": "Toddalia asiatica",
+  "botanical_authority": "(L.) LAM.",
+  "family": "RUTACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Scolopia aculeata SM. X Full Botanical citation - Scopalia aculeata Smith, Pl. Ic. Hact. ed. 1, 2: t. 34. 1790. nom. superfl.; K.N. Nair & M.P. Nayar in Hajra & al., Fl. India 4: 403. 1997. Toddalia aculeata PERS. X Full Botanical citation - Toddalia aculeata (Smith) Pers., Syn. P1. 1: 249. 1805, nom. superfl.; K.N. Nair & M.P. Nayar in Hajra & al., Fl. India 4: 403. 1997.\nSynonym: Scolopia aculeata SM.\nSynonym: Toddalia aculeata PERS.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96f20205aea37f5df8b167fbe9761d22"
+  ],
+  "source_record_ids": [
+    "links-0943"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96f20205aea37f5df8b167fbe9761d22"
+    ],
+    "source_record_ids": [
+      "links-0943"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96f20205aea37f5df8b167fbe9761d22",
+          "Plant Name": "Toddalia asiatica Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Toddalia asiatica Lam.",
+        "source_record_id": "links-0943",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96f20205aea37f5df8b167fbe9761d22"
+      }
+    ],
+    "source_xplant_id": "96f20205aea37f5df8b167fbe9761d22",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

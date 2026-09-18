@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_7c2fe634214c8ebd__vernacular_names__001",
+  "plant_id": "plant_7c2fe634214c8ebd",
+  "plant_name": "Mesua ferrea",
+  "botanical_name": "Mesua nagassarium",
+  "botanical_authority": "(BURM.F.) KOSTERM.",
+  "family": "CLUSIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): ironwood\nHindi (9): gajapushpam, nag-kesar, nag-kesar-ka-aitr, nagakesar, nagakesara, nagesar, nagesar-ka-aitr, naghas, nagkesar\nKannada (22): atha, atta, irupu mara, kaanchana, kancana, kanchana, kasara, kesara, naaga keasari, naaga sampige, naagaakeshara, naagachampa, naagakesara, naagasampige, naga, naga sampege, nagachampa, nagakesara, nagakesari, nagasampai, nagasampige, nagha\nMalayalam (28): behettachampagam, bellutta-tsjampakam, beluttachampagam, churuli, curuli, eliponku, nagacampakam, nagacempakam, nagachampakam, nagachempakam, nagappuvu, nanga, nangu, nanku, pera, peri, surli, vainavu, vayanavu, veila, vellatthapala, velutta-chenpakam, veluttacampakam, veluttacempakam, veluttachempakam, veluttapala, vyla, wayanavu\nMarathi (13): naagachampa, naagchampa, naagchampha, naagchapha, nag-chamfo, nag-champa, nagachampa, nagakaeshar, nagchampa, nagchampe, nagchapha, nagehampha, vhadlo-chamfo\nSanskrit (57): Sanskrit CommentsX ahikesara, ahipuspa, bhujangakhya, bhujangapuspa, campeya, champeryah, champeya, ebha, gaja, gajakesara, gajakesaraka, hema, ibhakesara, ibhakhya, ka, kanaka, kanakavhaya, kanchana, kanchanavhaya, kesara, kesaramu, keshara, kinjalka, kinjalkamu, magalesara, maushadha, naga, naga-kesaram, nagahva, nagahvam, nagahvayam, nagakesara, nagakesarah, nagakesaram, nagakeshara, nagakhya, nagakinjalka, nagakusuma, nagapushpa, nagapushpanaga, nagapuspa, nagapuspah, nagaya, nagkesara, nagpushpa, phalaka, phanikeshara, pinjara, punnagakeshara, pushparachana, rajapushpa, rukma, shatapadapriya, suvarna, suvarnakhya, svaraghatana, varanakesara",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6d6c1d42d9f0e734974f13a160553b0/xclkon/186a824bd1fbae66409ba12aab6593be"
+  ],
+  "source_record_ids": [
+    "links-1359",
+    "links-1360"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6d6c1d42d9f0e734974f13a160553b0/xclkon/186a824bd1fbae66409ba12aab6593be"
+    ],
+    "source_record_ids": [
+      "links-1359",
+      "links-1360"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6d6c1d42d9f0e734974f13a160553b0/xclkon/186a824bd1fbae66409ba12aab6593be",
+          "Plant Name": "Mesua ferrea",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mesua ferrea",
+        "source_record_id": "links-1359",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6d6c1d42d9f0e734974f13a160553b0/xclkon/186a824bd1fbae66409ba12aab6593be"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6d6c1d42d9f0e734974f13a160553b0/xclkon/186a824bd1fbae66409ba12aab6593be",
+          "Plant Name": "Mesua ferrea Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mesua ferrea Linn.",
+        "source_record_id": "links-1360",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6d6c1d42d9f0e734974f13a160553b0/xclkon/186a824bd1fbae66409ba12aab6593be"
+      }
+    ],
+    "source_xplant_id": "b6d6c1d42d9f0e734974f13a160553b0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

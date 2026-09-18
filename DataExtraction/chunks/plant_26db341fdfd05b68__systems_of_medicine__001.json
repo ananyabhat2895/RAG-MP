@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_26db341fdfd05b68__systems_of_medicine__001",
+  "plant_id": "plant_26db341fdfd05b68",
+  "plant_name": "Gloriosa superba Linn.",
+  "botanical_name": "Gloriosa superba",
+  "botanical_authority": "L.",
+  "family": "LILIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b974a750fdc40827fd7e167dcb88e2ba"
+  ],
+  "source_record_ids": [
+    "links-1169",
+    "links-2110"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b974a750fdc40827fd7e167dcb88e2ba"
+    ],
+    "source_record_ids": [
+      "links-1169",
+      "links-2110"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b974a750fdc40827fd7e167dcb88e2ba",
+          "Plant Name": "Gloriosa superba Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gloriosa superba Linn.",
+        "source_record_id": "links-1169",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b974a750fdc40827fd7e167dcb88e2ba"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b974a750fdc40827fd7e167dcb88e2ba",
+          "Plant Name": "Gloriosa superba",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gloriosa superba",
+        "source_record_id": "links-2110",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b974a750fdc40827fd7e167dcb88e2ba"
+      }
+    ],
+    "source_xplant_id": "b974a750fdc40827fd7e167dcb88e2ba",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

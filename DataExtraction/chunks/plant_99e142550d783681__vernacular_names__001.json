@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_99e142550d783681__vernacular_names__001",
+  "plant_id": "plant_99e142550d783681",
+  "plant_name": "Caesalpinia bonducella",
+  "botanical_name": "Caesalpinia bonduc",
+  "botanical_authority": "(L.) ROXB.",
+  "family": "CAESALPINIACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): bonduc nut, nicker bean\nHindi (19): ceckhbar, gachika, gajga, kanderi, kantikaranja, kantkarej, karanjava, karanjo, karaunj, kat-kalija, kat-karanj, kath karanj, katkaliji, katkaranj, katklija, mechka, mechkhar, naktamala, sagar-gholah\nKannada (31): gajaga, gajaga-kayi, gajige, gajigekayi, gajikaimullu, gajikekayi, gajjegaballi, gajjege, gajjgada balli, gajji, gajjiga, gajjige, gajjigekayi, gajjikai, gajjuga, gajkaayi, gajkai, gajuga, gazzaga, gejige, gejjige balli, heggajjiga, heggajjuga, heggejjuga, heggerjige, kitta, sanna gajjuga, sanna gejjuga, sannagajjiga, sannagejje, tapasi\nMalayalam (10): avil, caretti, kalanchik-karu, kalanchikuru, kalanci, kalancikkuru, kalimarakam, kazhanchi, kazhanchik-karu, kulunje\nMarathi (8): gajaga, kanchaki, karbath, rahedo, saagaragota, saagargota, sagargota, sagur-ghota\nSanskrit (10): Sanskrit CommentsX kantakikaranjah, kuberaksha, kuberakshi, kuberaksi, kuberaksiphalam, latakaranja, latakaranjah, morata, puti, putikaranja\nTamil (86): cakarakoti, capavalam, carivacantam, cayavalam, cetitta, curiyintu, curppuka, curppukakkoti, gajega, gech-chakkay, kaccakikay, kaccakkay, kaccarkoti, kaccukkay, kaccuram, kaccuram 2, kaccurankay, kaccurankoti, kalakunti, kalakunticceti, kalalmani, kalangu, kalankukkay, kalarci, kalarci-k-koti, kalarcik koti, kalarcikkay, kalarcikkoti, kalarcivittu, kalarkay, kalarkay 1, kalarkay 2, kalarkkay, kalarkodi, kalarkoti, kalavirutti, kalcuri, kaliccakkay, kaliccikkai, kalichikai, kanakam, kanappantupokkicceti, karccurankay, karcurakkoti, karcuram 2, karcuram 3, kashachikai, katukarancam, kazhar-shikkay, kazharchi kodi, kazharchikodi, kazhichi-kai, keccakkay, kilinaval, kopakkitam, kotikaccikkoti, kotikkacci, kotikkalarci, kumpika 2, kuperatcam, kuperatci, kuperatci 1, mancirakam, manciram, maruti, mulal, mulalkalanku, mularci, mularcikkoti, narumparuppu 2, patalar, pentukam, putikarancam, rocanaikkottai, tampiraputpi, tettan, tettiyan, tuticcam, ulankucakkay, ulankucam, utarikam, utarikkoti, vaccirapicakkay, vaccirapicam, vajjirapijam, vajrapijam\nTelugu (24): gacca, gaccakaya, gach-chakaya, gacha kaya, gachcha, gachha, gachhaakaaya, gatchakaaya, gatchkaya, gatsakai, gattsa, getsa kela, getsakaia, gotchi, gutsakai, nemaliaduda, shukajambukam, suka jambuka, sukajambuka, tellagacca, thellagachha, thellagatcha, yalakhi, yalakshi\nUrdu (4): akthamakhath, anataitus, karanjwa, maghz karanjwah",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8771ef45a4117aec066c75b5b5a8f76a/xclkon/9352cc4c494e6878de04bb6fcd3f8925"
+  ],
+  "source_record_ids": [
+    "links-1294"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8771ef45a4117aec066c75b5b5a8f76a/xclkon/9352cc4c494e6878de04bb6fcd3f8925"
+    ],
+    "source_record_ids": [
+      "links-1294"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8771ef45a4117aec066c75b5b5a8f76a/xclkon/9352cc4c494e6878de04bb6fcd3f8925",
+          "Plant Name": "Caesalpinia bonducella",
+          "Status": "Found"
+        },
+        "source_plant_name": "Caesalpinia bonducella",
+        "source_record_id": "links-1294",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8771ef45a4117aec066c75b5b5a8f76a/xclkon/9352cc4c494e6878de04bb6fcd3f8925"
+      }
+    ],
+    "source_xplant_id": "8771ef45a4117aec066c75b5b5a8f76a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_81744b8a20e584fc__vernacular_names__001",
+  "plant_id": "plant_81744b8a20e584fc",
+  "plant_name": "Embelia tsjeriam-cottam A. DC.",
+  "botanical_name": "Embelia tsjeriam-cottam",
+  "botanical_authority": "A.DC.",
+  "family": "MYRSINACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (5): babrang, baibrang, baya birang, bayabirang, bhingi\nKannada (6): amti, choladhanna, joladhanna, kanthree vilanga, maraharive, vaivaling\nMalayalam (3): basaal, cheriyannattam, tsjeriam-cottam\nMarathi (6): ambati, ambti, ambuti, ingali, kokla, waiwarung\nSanskrit (6): Sanskrit CommentsX bidanga, krimighnam, vellah, vidanga, vilangah, vilangam\nTamil (1): vaivilangam",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a56c30202a8ee64633d5d9f4df537632"
+  ],
+  "source_record_ids": [
+    "links-2093"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a56c30202a8ee64633d5d9f4df537632"
+    ],
+    "source_record_ids": [
+      "links-2093"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a56c30202a8ee64633d5d9f4df537632",
+          "Plant Name": "Embelia tsjeriam-cottam A. DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Embelia tsjeriam-cottam A. DC.",
+        "source_record_id": "links-2093",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a56c30202a8ee64633d5d9f4df537632"
+      }
+    ],
+    "source_xplant_id": "a56c30202a8ee64633d5d9f4df537632",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

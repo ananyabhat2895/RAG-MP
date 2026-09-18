@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_9a48eb175ec73141__systems_of_medicine__001",
+  "plant_id": "plant_9a48eb175ec73141",
+  "plant_name": "Schleichera oleosa (Lour) oken.",
+  "botanical_name": "Schleichera oleosa",
+  "botanical_authority": "(LOUR.) OKEN",
+  "family": "SAPINDACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk Botanical Synonyms (2) - Schleichera trijuga WILLD. X Full Botanical citation - Schleichera trijuga Willd.\nSystem of medicine: Sp. Pl. 4: 1096. 1806; P.C. Pant in N.P. Singh & al.\nSystem of medicine: Fl. India 5: 384. 2000. Schlerichera trijuga WILLD.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f"
+  ],
+  "source_record_ids": [
+    "links-1065",
+    "links-1066",
+    "links-1151"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f"
+    ],
+    "source_record_ids": [
+      "links-1065",
+      "links-1066",
+      "links-1151"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f",
+          "Plant Name": "Schleichera oleosa (Lour) oken.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Schleichera oleosa (Lour) oken.",
+        "source_record_id": "links-1065",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f",
+          "Plant Name": "Schleichera oleosa (Lour.) Oken.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Schleichera oleosa (Lour.) Oken.",
+        "source_record_id": "links-1066",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f",
+          "Plant Name": "Schleichera oleosa (Lour.) Merr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Schleichera oleosa (Lour.) Merr.",
+        "source_record_id": "links-1151",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f"
+      }
+    ],
+    "source_xplant_id": "4d9b9ebe9aa91dc47dc6f0134138402f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

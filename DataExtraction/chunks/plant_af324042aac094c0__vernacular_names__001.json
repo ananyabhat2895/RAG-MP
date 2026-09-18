@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_af324042aac094c0__vernacular_names__001",
+  "plant_id": "plant_af324042aac094c0",
+  "plant_name": "Sida spinosa Linn.",
+  "botanical_name": "Sida alba",
+  "botanical_authority": "L.",
+  "family": "MALVACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (4): bariara, gulsakari, kantio bal, katiobal\nKannada (6): gattigaruke, kaadu menthya, kaadumenthya, kadira, kadumenthya, kallangadale\nMalayalam (2): kattu-ventiyam, kuruntotti\nMarathi (10): banabaavari, gaangshi, gandedhaman, gangaavathi, gangeti, kaanteri thupakadee, kaanterithukati, kanteritukati, naagabala, tukati-khareti\nSanskrit (28): Sanskrit CommentsX agandha, avishta, bala, bhadrandani, chatupala, devadanda, gangati, gangeruki, ghanta, gorakshatandula, hrisvagavedhuka, jhasha, khar-yashtika, kharagandhini, kharavallika, kharyashthika, mahabala, mahagandha, mahapatra, mahaphala, mahashakha, mahodaya, naga-bala, nagabala, pitberela, vatyayani, vishvadeva, vishvadevi\nTamil (5): arivalmanai-poondu, mayir manikkam, mayir-mamkkam, mayirmanikam, perunthuthi\nTelugu (16): chinamootam, chinamuttama, chinamuttavapulagam, chinnamuttama, chinnamuttamu, chinnamuttavapulagamu, cinnamuttavapulagamu, cinnamuttemu, mayilu-manikyam, mayirumanikyam, muttavapulagamu, nagabala, ternaliabenda, thernallabenda, thirinelabenda, tirinelabenda\nUrdu (2): nagbala, tukhm kharenti",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7621992d08641c0676e7761e5775f25f/xclkon/5e97d527ce4dc1d2979d24bec30ac556"
+  ],
+  "source_record_ids": [
+    "links-0272"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7621992d08641c0676e7761e5775f25f/xclkon/5e97d527ce4dc1d2979d24bec30ac556"
+    ],
+    "source_record_ids": [
+      "links-0272"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7621992d08641c0676e7761e5775f25f/xclkon/5e97d527ce4dc1d2979d24bec30ac556",
+          "Plant Name": "Sida spinosa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida spinosa Linn.",
+        "source_record_id": "links-0272",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7621992d08641c0676e7761e5775f25f/xclkon/5e97d527ce4dc1d2979d24bec30ac556"
+      }
+    ],
+    "source_xplant_id": "7621992d08641c0676e7761e5775f25f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

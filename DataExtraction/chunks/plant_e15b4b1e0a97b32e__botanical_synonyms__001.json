@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_e15b4b1e0a97b32e__botanical_synonyms__001",
+  "plant_id": "plant_e15b4b1e0a97b32e",
+  "plant_name": "Cymbopogon martini (Roxb.) Wats",
+  "botanical_name": "Cymbopogon martini",
+  "botanical_authority": "(ROXB.) WATS",
+  "family": "POACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Andropogon martini ROXB. X Full Botanical citation - Andropogon martinii Roxb., Fl. Indica 1: 280. 1820; R.D.Gaur, Fl. Dist. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 656.1999.\nSynonym: Andropogon martini ROXB.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418"
+  ],
+  "source_record_ids": [
+    "links-1643",
+    "links-1644"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418"
+    ],
+    "source_record_ids": [
+      "links-1643",
+      "links-1644"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418",
+          "Plant Name": "Cymbopogon martini (Roxb.) Wats",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cymbopogon martini (Roxb.) Wats",
+        "source_record_id": "links-1643",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418",
+          "Plant Name": "Cymbopogon martini (Roxb.) Wats.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cymbopogon martini (Roxb.) Wats.",
+        "source_record_id": "links-1644",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418"
+      }
+    ],
+    "source_xplant_id": "edab2a314693f3a25a21f493e238a418",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

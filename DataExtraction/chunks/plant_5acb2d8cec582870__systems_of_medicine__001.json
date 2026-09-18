@@ -1,0 +1,71 @@
+{
+  "chunk_id": "plant_5acb2d8cec582870__systems_of_medicine__001",
+  "plant_id": "plant_5acb2d8cec582870",
+  "plant_name": "Piper chaba Hunter.",
+  "botanical_name": "Piper retrofractum",
+  "botanical_authority": "VAHL",
+  "family": "PIPERACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (2) - Piper chaba HUNTER Piper officinarum DC.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396/xclkon/28cc4ca56beebaf750ac2335c5c27c4f",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396/xclkon/833f2849974c593828b4347b5ebf1d30"
+  ],
+  "source_record_ids": [
+    "links-0433",
+    "links-0434",
+    "links-1364"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396/xclkon/28cc4ca56beebaf750ac2335c5c27c4f",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396/xclkon/833f2849974c593828b4347b5ebf1d30"
+    ],
+    "source_record_ids": [
+      "links-0433",
+      "links-0434",
+      "links-1364"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396/xclkon/28cc4ca56beebaf750ac2335c5c27c4f",
+          "Plant Name": "Piper chaba Hunter.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper chaba Hunter.",
+        "source_record_id": "links-0433",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396/xclkon/28cc4ca56beebaf750ac2335c5c27c4f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396",
+          "Plant Name": "Piper retrofractum Vahl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper retrofractum Vahl.",
+        "source_record_id": "links-0434",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396/xclkon/833f2849974c593828b4347b5ebf1d30",
+          "Plant Name": "Piper officinarum C. DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper officinarum C. DC.",
+        "source_record_id": "links-1364",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396/xclkon/833f2849974c593828b4347b5ebf1d30"
+      }
+    ],
+    "source_xplant_id": "fd9f5cb9d41fda0052cc6e85fd31c396",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

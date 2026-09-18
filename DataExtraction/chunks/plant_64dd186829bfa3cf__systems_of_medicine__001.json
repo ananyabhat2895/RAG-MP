@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_64dd186829bfa3cf__systems_of_medicine__001",
+  "plant_id": "plant_64dd186829bfa3cf",
+  "plant_name": "Euphorbia acaulis Roxb.",
+  "botanical_name": "Euphorbia acaulis",
+  "botanical_authority": "ROXB.",
+  "family": "EUPHORBIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Folk Botanical Synonyms (1) - Euphorbia fusiformis BUCHY.-HAM. EX D.DON",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a64ac9a5bbe52e06ed81d388de20a7a2"
+  ],
+  "source_record_ids": [
+    "links-0012"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a64ac9a5bbe52e06ed81d388de20a7a2"
+    ],
+    "source_record_ids": [
+      "links-0012"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a64ac9a5bbe52e06ed81d388de20a7a2",
+          "Plant Name": "Euphorbia acaulis Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia acaulis Roxb.",
+        "source_record_id": "links-0012",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a64ac9a5bbe52e06ed81d388de20a7a2"
+      }
+    ],
+    "source_xplant_id": "a64ac9a5bbe52e06ed81d388de20a7a2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

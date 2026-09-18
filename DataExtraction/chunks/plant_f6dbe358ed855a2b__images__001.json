@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_f6dbe358ed855a2b__images__001",
+  "plant_id": "plant_f6dbe358ed855a2b",
+  "plant_name": "Cuminum cyminum Linn.",
+  "botanical_name": "Cuminum cyminum",
+  "botanical_authority": "L.",
+  "family": "APIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685dab1d433e4428f5a40d044edc6db2"
+  ],
+  "source_record_ids": [
+    "links-0797"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685dab1d433e4428f5a40d044edc6db2"
+    ],
+    "source_record_ids": [
+      "links-0797"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685dab1d433e4428f5a40d044edc6db2",
+          "Plant Name": "Cuminum cyminum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cuminum cyminum Linn.",
+        "source_record_id": "links-0797",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685dab1d433e4428f5a40d044edc6db2"
+      }
+    ],
+    "source_xplant_id": "685dab1d433e4428f5a40d044edc6db2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

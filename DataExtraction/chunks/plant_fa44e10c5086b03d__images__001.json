@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_fa44e10c5086b03d__images__001",
+  "plant_id": "plant_fa44e10c5086b03d",
+  "plant_name": "Urginea indica Kunth.",
+  "botanical_name": "Drimia indica",
+  "botanical_authority": "(ROXB.) J.P. JESSOP",
+  "family": "LILIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ddd9f01a806249ae8306064b767007a/xclkon/6689ee33b13257da64c29d622d98007e"
+  ],
+  "source_record_ids": [
+    "links-1063"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ddd9f01a806249ae8306064b767007a/xclkon/6689ee33b13257da64c29d622d98007e"
+    ],
+    "source_record_ids": [
+      "links-1063"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ddd9f01a806249ae8306064b767007a/xclkon/6689ee33b13257da64c29d622d98007e",
+          "Plant Name": "Urginea indica Kunth.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Urginea indica Kunth.",
+        "source_record_id": "links-1063",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ddd9f01a806249ae8306064b767007a/xclkon/6689ee33b13257da64c29d622d98007e"
+      }
+    ],
+    "source_xplant_id": "6ddd9f01a806249ae8306064b767007a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

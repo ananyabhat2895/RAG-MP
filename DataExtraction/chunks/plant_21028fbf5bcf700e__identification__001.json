@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_21028fbf5bcf700e__identification__001",
+  "plant_id": "plant_21028fbf5bcf700e",
+  "plant_name": "Paspalum scrobiculatum Linn.",
+  "botanical_name": "Paspalum scrobiculatum",
+  "botanical_authority": "L.",
+  "family": "POACEAE",
+  "section": "identification",
+  "content": "Plant name: Paspalum scrobiculatum Linn. Botanical name: Paspalum scrobiculatum Botanical authority: L. Family: POACEAE Source xplant ID: afd4de13278615f13cf5bc7aa1c36ad2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afd4de13278615f13cf5bc7aa1c36ad2"
+  ],
+  "source_record_ids": [
+    "links-1060",
+    "links-2019"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afd4de13278615f13cf5bc7aa1c36ad2"
+    ],
+    "source_record_ids": [
+      "links-1060",
+      "links-2019"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afd4de13278615f13cf5bc7aa1c36ad2",
+          "Plant Name": "Paspalum scrobiculatum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Paspalum scrobiculatum Linn.",
+        "source_record_id": "links-1060",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afd4de13278615f13cf5bc7aa1c36ad2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afd4de13278615f13cf5bc7aa1c36ad2",
+          "Plant Name": "Paspalum scrobiculatum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Paspalum scrobiculatum",
+        "source_record_id": "links-2019",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afd4de13278615f13cf5bc7aa1c36ad2"
+      }
+    ],
+    "source_xplant_id": "afd4de13278615f13cf5bc7aa1c36ad2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

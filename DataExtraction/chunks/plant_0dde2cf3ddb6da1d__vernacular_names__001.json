@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_0dde2cf3ddb6da1d__vernacular_names__001",
+  "plant_id": "plant_0dde2cf3ddb6da1d",
+  "plant_name": "Amorphophallus bulbifer Blume.",
+  "botanical_name": "Amorphophallus bulbifer",
+  "botanical_authority": "BLUME",
+  "family": "ARACEAE",
+  "section": "vernacular_names",
+  "content": "Kannada (3): kaadu choorna gedde, kaadu kande gedde, kaadu soorana gedde\nMarathi (1): ran-suran\nSanskrit (2): Sanskrit CommentsX amalavela, atyamlaparni",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb2679ef2da3c86bd49d7589178a9c24"
+  ],
+  "source_record_ids": [
+    "links-0098"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb2679ef2da3c86bd49d7589178a9c24"
+    ],
+    "source_record_ids": [
+      "links-0098"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb2679ef2da3c86bd49d7589178a9c24",
+          "Plant Name": "Amorphophallus bulbifer Blume.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Amorphophallus bulbifer Blume.",
+        "source_record_id": "links-0098",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb2679ef2da3c86bd49d7589178a9c24"
+      }
+    ],
+    "source_xplant_id": "fb2679ef2da3c86bd49d7589178a9c24",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

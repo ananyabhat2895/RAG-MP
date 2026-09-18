@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_f546cd7a5552914f__identification__001",
+  "plant_id": "plant_f546cd7a5552914f",
+  "plant_name": "Saccharum spontaneum Linn.",
+  "botanical_name": "Saccharum spontaneum",
+  "botanical_authority": "L.",
+  "family": "POACEAE",
+  "section": "identification",
+  "content": "Plant name: Saccharum spontaneum Linn. Botanical name: Saccharum spontaneum Botanical authority: L. Family: POACEAE Source xplant ID: eb6ad1ac54a01c1ffaeddace467aa144",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb6ad1ac54a01c1ffaeddace467aa144"
+  ],
+  "source_record_ids": [
+    "links-0731"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb6ad1ac54a01c1ffaeddace467aa144"
+    ],
+    "source_record_ids": [
+      "links-0731"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb6ad1ac54a01c1ffaeddace467aa144",
+          "Plant Name": "Saccharum spontaneum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Saccharum spontaneum Linn.",
+        "source_record_id": "links-0731",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb6ad1ac54a01c1ffaeddace467aa144"
+      }
+    ],
+    "source_xplant_id": "eb6ad1ac54a01c1ffaeddace467aa144",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

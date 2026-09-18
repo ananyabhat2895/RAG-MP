@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_82a4c76903df594d__distribution__001",
+  "plant_id": "plant_82a4c76903df594d",
+  "plant_name": "Pterospermum acerifolium Willd.",
+  "botanical_name": "Pterospermum acerifolium",
+  "botanical_authority": "WILLD.",
+  "family": "STERCULIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - KANJILAL & BOR; distribution: Distribution; title: Title - FLORA OF ASSAM\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1\nDistribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - BSI Scientist; distribution: Distribution; title: Title - Flora of West Bengal Vol 1\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - Ed. P. Daniel; distribution: Distribution; title: Title - The Flora of Kerala Vol I\nDistribution entry: author: Author - Botanicaly Survey of India; distribution: Distribution; title: Title - FLORA OF INDIA VOL 3\nDistribution entry: author: Author - HARIDASAN K & RAO R R; distribution: Distribution; title: Title - FOREST FLORA OF MEGHALAYA VOL 1\nDistribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b4081e222b0b912a46ae0f86016b991"
+  ],
+  "source_record_ids": [
+    "links-1297"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b4081e222b0b912a46ae0f86016b991"
+    ],
+    "source_record_ids": [
+      "links-1297"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b4081e222b0b912a46ae0f86016b991",
+          "Plant Name": "Pterospermum acerifolium Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pterospermum acerifolium Willd.",
+        "source_record_id": "links-1297",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b4081e222b0b912a46ae0f86016b991"
+      }
+    ],
+    "source_xplant_id": "1b4081e222b0b912a46ae0f86016b991",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_1de05e8f89ccef2b__vernacular_names__001",
+  "plant_id": "plant_1de05e8f89ccef2b",
+  "plant_name": "Ocimum sanctum Linn. var.",
+  "botanical_name": "Ocimum tenuiflorum",
+  "botanical_authority": "L.",
+  "family": "LAMIACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): holy basil, thai basil\nHindi (8): baranda, kala tulasi, kala-tulasi, kalatulsi, maujari, shyma tulsi, tulsi, varanda\nKannada (27): daeva thulasi, kaala thulasi, kaalathulasi, kala thulasi, kalathulasi, kalatulashi, kalatulasi, kappu tulasi, kapputulachi, kapputulaci, karee thulasi, kari thulasi, kari tulasi, karitulashi, karitulasi, krishna thulasi, kural, sree tulasi, sri thulasi, sri tulasi, sritulasi, thulasi, tulashi, tulashi-gida, tulasi, vishnu tulasi, vishnuthulasi\nMalayalam (24): karuttatrttavu, krishnatoolsee, krishnatulasi, krsnattulasi, krsnatulasi, kryshnatulasi, kunnakam, nala-tirtava, nalla-tirtta, nalla-tuttuva, nallatirtava, nallatrittavu, nallatryttavu, niellatirtova, punya, shiva-tulasi, shivatulasi, sivatulasi, surasam, thulasi, trittavu, trttavu, tryttavu, tulasi\nMarathi (7): chojharr, thulasa, thulasichajadha, tulasa, tulasi, tulasichajadha, tulsi\nSanskrit (66): Sanskrit CommentsX ajaka, amrita, apetaraksasi, apetarakshasi, arjaka, bahumanjari, bahupatri, bharati, bhutaghni, bhutaka, bhutapatri, brinda, devaha, divya, dundubhi, gandhaharini, gauri, gramya, haripriya, indra, kakamalika, kathinjara, kayastha, krishnamul, krishnamula, krishnatulasi, krsna-surasah, kutheraka, laxmi, madhavi, malashreshtha, manjari, manjarika, papaghni, parnasa, patrapushpa, pavani, pavitra, pretarakshasi, punya, sarasa, shrikrishnavallabha, shyama, sorasaw, subhaga, sugandha, sulabha, surabhi, suradundubhi, surasa, surasah, suravallari, suravalli, surejya, suvaha, sveta-surasah, tivra, tridashamanjari, tulashi, tulashivrikshaha, tulasi, vaishnavi, vishnu-priya, vishnupatni, vrinda, vrnda",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3faedcb64cd0f9a51be4c9d54acaf69/xclkon/70fe8f0f9c2b14cf8f0862e6637ffe50"
+  ],
+  "source_record_ids": [
+    "links-0844",
+    "links-1446",
+    "links-1879"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3faedcb64cd0f9a51be4c9d54acaf69/xclkon/70fe8f0f9c2b14cf8f0862e6637ffe50"
+    ],
+    "source_record_ids": [
+      "links-0844",
+      "links-1446",
+      "links-1879"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3faedcb64cd0f9a51be4c9d54acaf69/xclkon/70fe8f0f9c2b14cf8f0862e6637ffe50",
+          "Plant Name": "Ocimum sanctum Linn. var.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ocimum sanctum Linn. var.",
+        "source_record_id": "links-0844",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3faedcb64cd0f9a51be4c9d54acaf69/xclkon/70fe8f0f9c2b14cf8f0862e6637ffe50"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3faedcb64cd0f9a51be4c9d54acaf69/xclkon/70fe8f0f9c2b14cf8f0862e6637ffe50",
+          "Plant Name": "Ocimum sanctum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ocimum sanctum Linn.",
+        "source_record_id": "links-1446",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3faedcb64cd0f9a51be4c9d54acaf69/xclkon/70fe8f0f9c2b14cf8f0862e6637ffe50"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3faedcb64cd0f9a51be4c9d54acaf69/xclkon/70fe8f0f9c2b14cf8f0862e6637ffe50",
+          "Plant Name": "Ocimum sanctum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ocimum sanctum",
+        "source_record_id": "links-1879",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3faedcb64cd0f9a51be4c9d54acaf69/xclkon/70fe8f0f9c2b14cf8f0862e6637ffe50"
+      }
+    ],
+    "source_xplant_id": "b3faedcb64cd0f9a51be4c9d54acaf69",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_041088133fcce98f__vernacular_names__001",
+  "plant_id": "plant_041088133fcce98f",
+  "plant_name": "Saraca asoca (Roxb.) De Wilde.",
+  "botanical_name": "Saraca asoca",
+  "botanical_authority": "(ROXB.) DE WILDE",
+  "family": "CAESALPINIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): asoka\nHindi (5): anganapriya, ashok, ashoka, asok, asoka\nKannada (30): abhanga, achanga, achenge, akshath, akshatha, aksunkara, asage, asaje, asanke, ashanke, ashoka, ashoka mara, ashokada mara, ashuge, ashunkar, asoka, asokada, gandha pushpi, hashige, jaasundi, jassoondie, kankelli, kempuchinnadeke gida, kengalimara, kenkali, kenkali mara, kenkalimara, kusge, kusgemara, seethe mara\nMalayalam (8): ashokam, asjogam, asogam, asoka, asokam, hemapushpam, vanculam, vanjulam\nMarathi (4): ashoka, asok, jasundi, tamada ashok\nSanskrit (54): Sanskrit CommentsX anganapriya, apashoka, ashoka, asoka, asokah, chakraguchha, chitra, dohali, doshahari, gandapushpa, gandhapushpa, gatasoka, gatasokah, hemapushpa, hemapuspa, kankali, kankeli, kankelih, kankelli, kantacharandohada, kantangharidohadah, karnapura, karnapuraka, kelika, krimikaraka, madhupushpa, madhupuspah, nata, palladru, pindapushpa, pindipushpa, prapallava, raktapallava, raktapallavah, rama, rogitaru, shhaya, shokaharta, shokanasha, smaradhivasa, smaradhivasah, sokanasanah, strinirikshanadohada, subhaga, tamrapallava, vajula, vamanghrighataka, vamankayatana, vanjuladrumah, vanjuldruma, vichitra, vichitrah, vishoka, vitashoka\nTamil (91): acoka, acoka maram, acokam, acokam 2, acokataru, acokaturu, acoku, acunam, acunam 1, anagam, ankanappiriyam, asavu, ashoka pattai, asogam, asogu, asogy, asoka, asoka pattai, ayil, ayil 1, ayil pattai, cacupam, cakam, cakam 1, cakkarakuccam, caricam, caripam, centu, ceyalai, cincupam, cittirakaranam, cittiram, cittiram 1, cokam, emaputbam, emaputpam, iravatam, iravattam, kakoli, kakorini, kakorinimaram, kamukam, kamukam 1, kamukamaram, kankeli, kankeli#, kankeli@, kankoli, kannapuram, karcokam, kattutonimaram, kattuttoni, kelikam, kelikomaram, kopikam, kopikamaram, malaikarunai, malaikkarunai, malaikkoran, mati, mati 1, matu, matu 1, nettilink, nettilinkam, nettilinki, nettilinku, nettulinkam, pallavattiru, pallavattirumaram, pallavttirumaram, pintaputpam, pintitam, pintitam 1, pintitamaram, pirakipattikam, pitam, pitam 1, ravatam, sasubam, tamirapallavam, tamirapalliyam, tamirapalliyamaram, tokali, vacciram, vanculam, vantiputpam, vicokam, vitacokam, yukapatrikai, yukapattirikai\nTelugu (8): ashokamu, asogam, asoka, asokamanu, asokamu, seethamma asokamu, vanjalamu, vanjulamu\nTibetan (3): a so ka, my nan med, mya-nan-med",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42/xclkon/d1b647103166d4e2f09762d792a45a49"
+  ],
+  "source_record_ids": [
+    "links-0194",
+    "links-0195"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42/xclkon/d1b647103166d4e2f09762d792a45a49"
+    ],
+    "source_record_ids": [
+      "links-0194",
+      "links-0195"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42",
+          "Plant Name": "Saraca asoca (Roxb.) De Wilde.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Saraca asoca (Roxb.) De Wilde.",
+        "source_record_id": "links-0194",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42/xclkon/d1b647103166d4e2f09762d792a45a49",
+          "Plant Name": "Saraca indica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Saraca indica Linn.",
+        "source_record_id": "links-0195",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42/xclkon/d1b647103166d4e2f09762d792a45a49"
+      }
+    ],
+    "source_xplant_id": "b7163d6d0033f6cd3fb15eb2bde54d42",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

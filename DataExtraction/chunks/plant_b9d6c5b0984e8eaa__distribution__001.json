@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b9d6c5b0984e8eaa__distribution__001",
+  "plant_id": "plant_b9d6c5b0984e8eaa",
+  "plant_name": "Calophyllum inophyllum Linn.",
+  "botanical_name": "Calophyllum inophyllum",
+  "botanical_authority": "L.",
+  "family": "CLUSIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Ed. P. Daniel; distribution: Distribution; title: Title - The Flora of Kerala Vol I\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - BSI Scientist; distribution: Distribution; title: Title - Flora of West Bengal Vol 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/63361b942f516ca1f261db839c74d854"
+  ],
+  "source_record_ids": [
+    "links-1353"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/63361b942f516ca1f261db839c74d854"
+    ],
+    "source_record_ids": [
+      "links-1353"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/63361b942f516ca1f261db839c74d854",
+          "Plant Name": "Calophyllum inophyllum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Calophyllum inophyllum Linn.",
+        "source_record_id": "links-1353",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/63361b942f516ca1f261db839c74d854"
+      }
+    ],
+    "source_xplant_id": "63361b942f516ca1f261db839c74d854",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

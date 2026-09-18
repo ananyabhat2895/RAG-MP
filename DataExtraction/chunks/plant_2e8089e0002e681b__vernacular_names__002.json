@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2e8089e0002e681b__vernacular_names__002",
+  "plant_id": "plant_2e8089e0002e681b",
+  "plant_name": "Celastrus paniculatus Willd.",
+  "botanical_name": "Celastrus paniculatus",
+  "botanical_authority": "WILLD.",
+  "family": "CELASTRACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (110): acuvalakkal, adibaricham, alankankanam, amuttirakali, ankolakkanni, appakam, atipari-chcham, atipariccam, atiparich-cham, atipatican, atipaticcam, atipaticcankam, cakinitam, campavaluki, carasvati, cilantikam, cinnavaluluvai, ciruvaluluvai, cotikam, cotimayam, cotimpam, cotiyam, cottiyam, cunacanam, cunicam, cunicanam, cuyotispati, jotimayam, kacappi5, kaciram1, kagodagi, kakotaki, kakotarici, kalambam, kaligam, kalikam, kankuni, kapam, kapampam, kapampokki, kappam, katampam2@, katapi, kativiranakari, kattanci2, kirimikkini, kirumikkundram, kirumikkunram, kukkalati, kungiligam, kunkilikam, kuvangundal, kuvari, kuvarikuntal, makacani, makacu etam, makacuvecam, makacuvetam, makaravetikam, malganguni, malkankani, malkankuni, mallakam, mannai 1, maticakkini, matipaccam, matipaticcam, mattimaccam, natumatirai, pamatam, pantunacani, paravatam, parvatam 1, paticcam, peymiratti 2, pukalappal, pulappakal, pulippakal, punarpakal, puppakam, siruvaluluvai, tanicai, tanti4, tecavati, tipaccam, tipati, tipaticam#, tipaticam@, tipaticcam#, tipaticcam@, tiripatam, turukkanati, vaaluluvai, vakuntimatam, vakuntumatam, val, valukai, valulurai, valuluvai, valuluvai#, valuluvaiyarici, valuluvari, valuluwai, valuzhuvai, vantiyam 2, vetam, virocani 2, yapatam, yarpatam, yatukam\nTelugu (33): baavanji, baavunji, bavanji, bavungie, bavunji, bhavunji, erikata, erikatha, erileta, erukata, gandumida, gundu-mida, gundumaeda, gundumeda, jyothishmathi, maayalerikatha, maayaleruthige, mala-eri-kata, malaerikata, malkanguni, malkanguni-vittulu, maneru, manirtheega, mayalaerikata, mayalerukata, mayalerutige, odur, palleruthivva, pallerutiva, pallerutivva, theega paaleru, yarikatha, yerilata\nTibetan (1): dzo ti sma ti\nUrdu (2): malkangni, roghan mal kangni",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4a9785d419e49cb21ac6db6e4feb41a7"
+  ],
+  "source_record_ids": [
+    "links-0820"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4a9785d419e49cb21ac6db6e4feb41a7"
+    ],
+    "source_record_ids": [
+      "links-0820"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4a9785d419e49cb21ac6db6e4feb41a7",
+          "Plant Name": "Celastrus paniculatus Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Celastrus paniculatus Willd.",
+        "source_record_id": "links-0820",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4a9785d419e49cb21ac6db6e4feb41a7"
+      }
+    ],
+    "source_xplant_id": "4a9785d419e49cb21ac6db6e4feb41a7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

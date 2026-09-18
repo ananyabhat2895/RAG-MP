@@ -1,0 +1,84 @@
+{
+  "chunk_id": "plant_eccf6c2e51b55b0d__vernacular_names__001",
+  "plant_id": "plant_eccf6c2e51b55b0d",
+  "plant_name": "Fumaria indica Pugsley",
+  "botanical_name": "Fumaria vaillantii",
+  "botanical_authority": "LOISEL",
+  "family": "FUMARIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (7): papara, pit papra, pithpaparo, pitpapada, pitpapara, pitpapra, shahatra\nMalayalam (1): parpatakam\nMarathi (1): pitpapda\nSanskrit (25): Sanskrit CommentsX araka, charaka, kalapanga, katupatra, kavachanamaka, krishnashakha, ksheparpata, nakra, panshu, panshuparyaya, parpata, parpataka, parpatakah, parpati, pittari, pragandha, renu, shita, shitavallabha, sutikta, tikta, trishnari, triyashti, varatikta, varmakantaka\nTamil (10): centara, centura, iura, matukam, pampantara, tara, tarakkoti, thara, tura, tusa\nTelugu (2): chatarashi, chatarasi\nTibetan (4): ldum bu skra bzans and skra lo, ldum bu skra bzans te skra lo, pa-rpa ta-ka, parpa ta\nUrdu (2): shahatra, shahtara",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248/xclkon/1ecde723108465eda012594612add28c",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248/xclkon/07e931baad360fecb11f0d2634aff041",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248"
+  ],
+  "source_record_ids": [
+    "links-1448",
+    "links-1450",
+    "links-1451",
+    "links-1452"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248/xclkon/1ecde723108465eda012594612add28c",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248/xclkon/07e931baad360fecb11f0d2634aff041",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248"
+    ],
+    "source_record_ids": [
+      "links-1448",
+      "links-1450",
+      "links-1451",
+      "links-1452"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248/xclkon/1ecde723108465eda012594612add28c",
+          "Plant Name": "Fumaria indica Pugsley",
+          "Status": "Found"
+        },
+        "source_plant_name": "Fumaria indica Pugsley",
+        "source_record_id": "links-1448",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248/xclkon/1ecde723108465eda012594612add28c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248/xclkon/07e931baad360fecb11f0d2634aff041",
+          "Plant Name": "Fumaria parviflora",
+          "Status": "Found"
+        },
+        "source_plant_name": "Fumaria parviflora",
+        "source_record_id": "links-1450",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248/xclkon/07e931baad360fecb11f0d2634aff041"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248/xclkon/07e931baad360fecb11f0d2634aff041",
+          "Plant Name": "Fumaria parviflora Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Fumaria parviflora Lam.",
+        "source_record_id": "links-1451",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248/xclkon/07e931baad360fecb11f0d2634aff041"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248",
+          "Plant Name": "Fumaria vaillantii Loisel.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Fumaria vaillantii Loisel.",
+        "source_record_id": "links-1452",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dec41b8a5572d1c4acbdc909f89a8248"
+      }
+    ],
+    "source_xplant_id": "dec41b8a5572d1c4acbdc909f89a8248",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

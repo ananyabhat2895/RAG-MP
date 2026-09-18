@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_5c0614f0928498ac__identification__001",
+  "plant_id": "plant_5c0614f0928498ac",
+  "plant_name": "Randia dumetorum Lam.",
+  "botanical_name": "Catunaregum spinosa",
+  "botanical_authority": "(THUNB.) TIRVENGADUM",
+  "family": "RUBIACEAE",
+  "section": "identification",
+  "content": "Plant name: Randia dumetorum Lam. Botanical name: Catunaregum spinosa Botanical authority: (THUNB.) TIRVENGADUM Family: RUBIACEAE Source xplant ID: 1b163f98a9315a49f346598f315cbf73",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/b78a1f9a78a09759c0265d85a325ab67",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/e2dd8c6529e2eebb9b6fd7ba82cf3773"
+  ],
+  "source_record_ids": [
+    "links-1205",
+    "links-1207"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/b78a1f9a78a09759c0265d85a325ab67",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/e2dd8c6529e2eebb9b6fd7ba82cf3773"
+    ],
+    "source_record_ids": [
+      "links-1205",
+      "links-1207"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/b78a1f9a78a09759c0265d85a325ab67",
+          "Plant Name": "Randia dumetorum Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Randia dumetorum Lam.",
+        "source_record_id": "links-1205",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/b78a1f9a78a09759c0265d85a325ab67"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/e2dd8c6529e2eebb9b6fd7ba82cf3773",
+          "Plant Name": "Randia spinosa Poir.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Randia spinosa Poir.",
+        "source_record_id": "links-1207",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/e2dd8c6529e2eebb9b6fd7ba82cf3773"
+      }
+    ],
+    "source_xplant_id": "1b163f98a9315a49f346598f315cbf73",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

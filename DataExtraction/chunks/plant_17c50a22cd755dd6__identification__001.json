@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_17c50a22cd755dd6__identification__001",
+  "plant_id": "plant_17c50a22cd755dd6",
+  "plant_name": "Eruca sativa Mill.",
+  "botanical_name": "Eruca sativa",
+  "botanical_authority": "GARS.",
+  "family": "BRASSICACEAE",
+  "section": "identification",
+  "content": "Plant name: Eruca sativa Mill. Botanical name: Eruca sativa Botanical authority: GARS. Family: BRASSICACEAE Source xplant ID: 3b849a4aa2deed808558ec37cedae016",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b849a4aa2deed808558ec37cedae016"
+  ],
+  "source_record_ids": [
+    "links-2005"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b849a4aa2deed808558ec37cedae016"
+    ],
+    "source_record_ids": [
+      "links-2005"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b849a4aa2deed808558ec37cedae016",
+          "Plant Name": "Eruca sativa Mill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Eruca sativa Mill.",
+        "source_record_id": "links-2005",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b849a4aa2deed808558ec37cedae016"
+      }
+    ],
+    "source_xplant_id": "3b849a4aa2deed808558ec37cedae016",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

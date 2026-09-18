@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b913f745050bd7e9__images__001",
+  "plant_id": "plant_b913f745050bd7e9",
+  "plant_name": "Arisaema alba N.E. Br.",
+  "botanical_name": "Arisaema alba",
+  "botanical_authority": "N. E. BR.",
+  "family": "ARACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1dc9bd4cafbfec108bf087f636abd5db"
+  ],
+  "source_record_ids": [
+    "links-1366"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1dc9bd4cafbfec108bf087f636abd5db"
+    ],
+    "source_record_ids": [
+      "links-1366"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1dc9bd4cafbfec108bf087f636abd5db",
+          "Plant Name": "Arisaema alba N.E. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Arisaema alba N.E. Br.",
+        "source_record_id": "links-1366",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1dc9bd4cafbfec108bf087f636abd5db"
+      }
+    ],
+    "source_xplant_id": "1dc9bd4cafbfec108bf087f636abd5db",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

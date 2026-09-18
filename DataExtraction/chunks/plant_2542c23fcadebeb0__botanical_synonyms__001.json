@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_2542c23fcadebeb0__botanical_synonyms__001",
+  "plant_id": "plant_2542c23fcadebeb0",
+  "plant_name": "Avicennia officinalis Linn.",
+  "botanical_name": "Avicennia officinalis",
+  "botanical_authority": "L.",
+  "family": "AVICENNIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Aricennia officinalis L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c98c9aa609e27c661c9007391ab11adf"
+  ],
+  "source_record_ids": [
+    "links-0282",
+    "links-1968"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c98c9aa609e27c661c9007391ab11adf"
+    ],
+    "source_record_ids": [
+      "links-0282",
+      "links-1968"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c98c9aa609e27c661c9007391ab11adf",
+          "Plant Name": "Avicennia officinalis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Avicennia officinalis Linn.",
+        "source_record_id": "links-0282",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c98c9aa609e27c661c9007391ab11adf"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c98c9aa609e27c661c9007391ab11adf",
+          "Plant Name": "Avicennia officinalis Linn",
+          "Status": "Found"
+        },
+        "source_plant_name": "Avicennia officinalis Linn",
+        "source_record_id": "links-1968",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c98c9aa609e27c661c9007391ab11adf"
+      }
+    ],
+    "source_xplant_id": "c98c9aa609e27c661c9007391ab11adf",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_c0ee6bd0baf36d0b__vernacular_names__001",
+  "plant_id": "plant_c0ee6bd0baf36d0b",
+  "plant_name": "Boswellia serrata Roxb.",
+  "botanical_name": "Boswellia serrata",
+  "botanical_authority": "ROXB.",
+  "family": "BURSERACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (14): anduk, gugal, halar, kundur, loban, lobhan, luban, salaga, salai, salar, salaran, salhe, sel-gond, vellakkunturukkam\nKannada (46): aanebyala, chilakadi, chilakadoopa, chilkada, chilku, chite mara, chitta, chittha, chitthu, chittu, chittumbe, cite, citumme, dhupa, dhupadamara, doopa, dupa, googula, guggala, guggala doopa, guggaladupa, guggula, guggula mara, guggulu, huguludhupa, idabola, kanda, kunda, kunduru, lobaana maadi, lobana, maddi, maddi mara, madi, mukunda, saliria, sambrani, site, situmme, tadika, tadiku, taduku, turushka, viseshadhupada, vishesha dhoopa, visheshadhupada\nMalayalam (23): chitteenthi, citinti, hladini, kondrike, koondrika, koondrikam, koonthrakum, kundurukkamaram, kuntirikkam, kuntirukkam, kunturukkam, manna-kungiliyam, mannakkunkilyam, mukundam, palangam, palankam, parankisamprani, sambrani, samprani, stayanti, valanku-chambrani, vella-kundirukkam, vellakkunturukkam\nMarathi (6): anduk, pahadidhup, saalayi, salai, salaphali, salphulia\nSanskrit (59): Sanskrit CommentsX agavrttika, ashvamutri, asraphala, bahusrava, gajabhaksha, gajabhaksya, gajapriya, gajasana, gajashana, gajavallabha, gandhamula, gandhavira, guggu, hladini, hraswada, jalatiktika, kapitthaparni, karaka, khapurah, konkanadhoopam, konkanadhupa, kumbhi, kundara, kundu, kundurakam, kunduru, kunduruguggulu, kunduruka, kunduruki, kunduruska, kunduruskah, l, lhadini, maherana, maheruna, mocha, nagavadhu, nagavrttika, rasala, salakhi, salasi, salasiniryasam, salasiniryasasallaki, sallaki, shallaki, silhabhumika, silhaki, sugandha, sukhamoda, surabhi, surabhisrava, sushrika, susrava, suvaha, vanakarnika, vasamaharuba, viseshadhupa, vrttika, yakshadhupa\nTamil (56): attam, campirani2, coong kilium, curapi5, dhupam, kavucikam, koondricum, kulikili, kumaincan, kumancam, kumancan, kundrikam, kunduru, kundurukam-pishin, kundurukkam-pishin, kundurukkan, kungiliam, kungiliyam, kungli, kungulu, kunkiliyam, kunkulu1, kuntarikkam, kunthirikkam, kuntilinkam, kuntirikam, kuntirukkam, kunturu1, kunturucam, kunturukam, kunturukkam, kunturukkam1, muraiyidam, muruntapali 1, narumpicin, parangi-shambirani, parangichambrani, paranki campirani, parankic campirani, parankisampirani, paringhi sambrani, pinniyakam, pinniyakkam, pintivakanam, pintivalakam, pintivalam, punniyakam, punniyakkam, sambrani, tevatupam1, titcanam4, valakam 1, valugam, vellai kunkiliyam, vellaik kunkiliyam, vellaikungiliyam",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/4657546057a7a522681239099a690c16"
+  ],
+  "source_record_ids": [
+    "links-1126",
+    "links-1702"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/4657546057a7a522681239099a690c16"
+    ],
+    "source_record_ids": [
+      "links-1126",
+      "links-1702"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/4657546057a7a522681239099a690c16",
+          "Plant Name": "Boswellia serrata Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Boswellia serrata Roxb.",
+        "source_record_id": "links-1126",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/4657546057a7a522681239099a690c16"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/4657546057a7a522681239099a690c16",
+          "Plant Name": "Boswellia serrata Roxb. Var. glabra",
+          "Status": "Found"
+        },
+        "source_plant_name": "Boswellia serrata Roxb. Var. glabra",
+        "source_record_id": "links-1702",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/4657546057a7a522681239099a690c16"
+      }
+    ],
+    "source_xplant_id": "178cc9ad03d6f4d8fd4257d486c60e22",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

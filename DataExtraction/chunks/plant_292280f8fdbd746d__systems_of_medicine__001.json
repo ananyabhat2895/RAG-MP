@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_292280f8fdbd746d__systems_of_medicine__001",
+  "plant_id": "plant_292280f8fdbd746d",
+  "plant_name": "Nymphaea nouchali Burm. f.",
+  "botanical_name": "Nymphaea nouchali",
+  "botanical_authority": "BURM. F.",
+  "family": "NYMPHAEACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (3) - Nymphaea lotus HOOK. F.( NON L). X Full Botanical citation - Nymphaea lotus auct. non L. (1753); Hook. f. & Thomson in Hook. f.\nSystem of medicine: Fl. Brit. India 1: 114. 1872; R. Ansari et al.\nSystem of medicine: in Waterlilies in India\nSystem of medicine: Tax.. Culti. Genus Nymphaea L. (Nymphaeaceae)\nSystem of medicine: Indian Asso. for Angio.Tax.\nSystem of medicine: 53. 2009. Nymphaea pubescens WILLD. X Full Botanical citation - Nymphaea pubescens Willd.\nSystem of medicine: Sp. Pl. 2; 1154. 1799; R. Ansari et al.\nSystem of medicine: 31. 2009. Nymphaea rubra ROXB. EX ANDREWS X Full Botanical citation - Nymphaea rubra Roxb. ex Andrews\nSystem of medicine: in Bot. Rep. 8 (104) : t. 503. 1808; R. Ansari et al.\nSystem of medicine: 28. 2009.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0459d5bd9c193f238f01385c30b35165",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0459d5bd9c193f238f01385c30b35165/xclkon/8c61940c2b90c0f19ac81e88fad98490"
+  ],
+  "source_record_ids": [
+    "links-1116",
+    "links-1117",
+    "links-1597"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0459d5bd9c193f238f01385c30b35165",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0459d5bd9c193f238f01385c30b35165/xclkon/8c61940c2b90c0f19ac81e88fad98490"
+    ],
+    "source_record_ids": [
+      "links-1116",
+      "links-1117",
+      "links-1597"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0459d5bd9c193f238f01385c30b35165",
+          "Plant Name": "Nymphaea nouchali Burm. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Nymphaea nouchali Burm. f.",
+        "source_record_id": "links-1116",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0459d5bd9c193f238f01385c30b35165"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0459d5bd9c193f238f01385c30b35165",
+          "Plant Name": "Nymphaea nouchali Burm.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Nymphaea nouchali Burm.f.",
+        "source_record_id": "links-1117",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0459d5bd9c193f238f01385c30b35165"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0459d5bd9c193f238f01385c30b35165/xclkon/8c61940c2b90c0f19ac81e88fad98490",
+          "Plant Name": "Nymphaea rubra Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Nymphaea rubra Roxb.",
+        "source_record_id": "links-1597",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0459d5bd9c193f238f01385c30b35165/xclkon/8c61940c2b90c0f19ac81e88fad98490"
+      }
+    ],
+    "source_xplant_id": "0459d5bd9c193f238f01385c30b35165",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

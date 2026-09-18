@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_eba907908993f8d9__images__001",
+  "plant_id": "plant_eba907908993f8d9",
+  "plant_name": "Ficus talboti G. King",
+  "botanical_name": "Ficus talboti",
+  "botanical_authority": "G.KING",
+  "family": "MORACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8573aec452d552b86ea2d5cc47069cc7"
+  ],
+  "source_record_ids": [
+    "links-1532"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8573aec452d552b86ea2d5cc47069cc7"
+    ],
+    "source_record_ids": [
+      "links-1532"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8573aec452d552b86ea2d5cc47069cc7",
+          "Plant Name": "Ficus talboti G. King",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus talboti G. King",
+        "source_record_id": "links-1532",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8573aec452d552b86ea2d5cc47069cc7"
+      }
+    ],
+    "source_xplant_id": "8573aec452d552b86ea2d5cc47069cc7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

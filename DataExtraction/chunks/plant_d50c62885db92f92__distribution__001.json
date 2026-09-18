@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d50c62885db92f92__distribution__001",
+  "plant_id": "plant_d50c62885db92f92",
+  "plant_name": "Chlorophytum arundinaceum Baker.",
+  "botanical_name": "Chlorophytum arundinaceum",
+  "botanical_authority": "BAKER",
+  "family": "LILIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III\nDistribution entry: author: Author - Ed B D Sharma, S Karthikeyan, N P Singh; distribution: Distribution; title: Title - Flora of Maharashrta State (Monocotyledons)\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/64d4c1f1f88873a7bc4d0c42bb06ddbd"
+  ],
+  "source_record_ids": [
+    "links-1336"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/64d4c1f1f88873a7bc4d0c42bb06ddbd"
+    ],
+    "source_record_ids": [
+      "links-1336"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/64d4c1f1f88873a7bc4d0c42bb06ddbd",
+          "Plant Name": "Chlorophytum arundinaceum Baker.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Chlorophytum arundinaceum Baker.",
+        "source_record_id": "links-1336",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/64d4c1f1f88873a7bc4d0c42bb06ddbd"
+      }
+    ],
+    "source_xplant_id": "64d4c1f1f88873a7bc4d0c42bb06ddbd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

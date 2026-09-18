@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_5bc5e3a9a5be9900__vernacular_names__001",
+  "plant_id": "plant_5bc5e3a9a5be9900",
+  "plant_name": "Azadirachta indica A. Juss",
+  "botanical_name": "Azadirachta indica",
+  "botanical_authority": "A. JUSS.",
+  "family": "MELIACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): margosa margosa, neem, nim\nHindi (18): bakain, balnimb, darek, darek.dek.bekam, dinkan, drek, leemba, leemda, limbada, neem, neemda, neemdi, neemdo, neemro, nim, nimb, nimgachh, ninb\nKannada (33): ajani, arebevu, baalanthi baevu, baemu, baevina mara, baevu, bemu, beorunara, bevina, bevina mara, bevina-mara, bevu, beysdunara, chikkabevu, garudabevu, huttchubevu, isabaevu, kaayabaevu, kahi baevu, kahi bevu, kahi nimba, kahibevu, kaybevu, kayibevu, kaypebevu, kaypebivu, keibevu, lemalo, nimba, olle-bevu, ollebevu, thurakabevu, vevina\nMalayalam (17): aria-bepou, ariabepou, ariya-veppa, aruveppu, aryatikta, aryaveppu, arytikta, kaippanveppu, nimbam, picumarddam, pisumarddam, rajaveppu, vembu, veppa, veppu, veppuu, vepu\nMarathi (12): balantanimba, balanthanimba, kadu khajur, kadukhajur, kadunimb, kadunimba, limb, limba, limba chajhada, limbachajhada, nimb, nimbay\nSanskrit (45): Sanskrit CommentsX a, arishta, arista, aristah, arkapadapa, chhardana, chhardighna, hingu, hinguniryasa, kaitarya, kakaphala, kireshta, kitaka, malaka, neta, nimba, nimbah, nimbaka, nimbavrikshaha, niryasa, niyamana, pakvakrita, paribhadhraka, paribhadrakah, pichumanda, picumanda, picumandah, picumarda, pitasara, prabhadra, prabhadrah, pukamalaka, puyari, rajabhadraka, ravipriya, sarvatobhadra, shirshaparna, shita, shukrapriya, subhadra, sumana, varatvacha, vishirnaparna, vranasodhakari, yavaneshta",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370"
+  ],
+  "source_record_ids": [
+    "links-1396",
+    "links-1397"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370"
+    ],
+    "source_record_ids": [
+      "links-1396",
+      "links-1397"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370",
+          "Plant Name": "Azadirachta indica A. Juss",
+          "Status": "Found"
+        },
+        "source_plant_name": "Azadirachta indica A. Juss",
+        "source_record_id": "links-1396",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370",
+          "Plant Name": "Azadirachta indica A. Juss.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Azadirachta indica A. Juss.",
+        "source_record_id": "links-1397",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370"
+      }
+    ],
+    "source_xplant_id": "824a2c2219788b48e2a3bb1633d43370",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d3677b494e8f5a10__botanical_synonyms__001",
+  "plant_id": "plant_d3677b494e8f5a10",
+  "plant_name": "Eleusine aegyptiaca Desf.",
+  "botanical_name": "Dactyloctenium aegyptium",
+  "botanical_authority": "BEAUV.",
+  "family": "POACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Eleusine aegyptiaca DESF. X Full Botanical citation - Eleusine aegyptica (L.) Desf., Fl. Atlant. 1: 85. 1798; R.D.Gaur, Fl. Dist. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 657. 1999.\nSynonym: Eleusine aegyptiaca DESF.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d561019cdc3054d595e12e34b7a47d3/xclkon/b7bad29b0bc55298b8138ceddd23b8ef"
+  ],
+  "source_record_ids": [
+    "links-1405"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d561019cdc3054d595e12e34b7a47d3/xclkon/b7bad29b0bc55298b8138ceddd23b8ef"
+    ],
+    "source_record_ids": [
+      "links-1405"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d561019cdc3054d595e12e34b7a47d3/xclkon/b7bad29b0bc55298b8138ceddd23b8ef",
+          "Plant Name": "Eleusine aegyptiaca Desf.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Eleusine aegyptiaca Desf.",
+        "source_record_id": "links-1405",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d561019cdc3054d595e12e34b7a47d3/xclkon/b7bad29b0bc55298b8138ceddd23b8ef"
+      }
+    ],
+    "source_xplant_id": "2d561019cdc3054d595e12e34b7a47d3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

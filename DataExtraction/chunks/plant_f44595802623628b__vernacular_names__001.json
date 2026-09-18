@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_f44595802623628b__vernacular_names__001",
+  "plant_id": "plant_f44595802623628b",
+  "plant_name": "Apium graveolens Linn.",
+  "botanical_name": "Apium graveolens",
+  "botanical_authority": "L.",
+  "family": "APIACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): celery, marsh parsley, smallage, wild celery\nHindi (2): shalari, sonira\nKannada (2): ajamoda, guddaga sompu\nMarathi (5): ajamoda, ajmoda, karafas, seleri, seliri\nSanskrit (32): Sanskrit CommentsX agni, agnika, ajamoda, ajmoda, andhapatrika, bastamoda, brahmakoshi, brahmamusha, dipya, dipyaka, gandhadala, ha, hastikavari, hayagandndha, karavi, kharahya, kharashva, kharasva, kharavha, krimijagdha, lochamastaka, markati, mayura, moda, modadhya, modini, phalamukhya, shikkimoda, ugragandhika, vanhidipika, vastamoda, vishali\nTamil (1): callari\nTibetan (2): tam mu sa, tim mu sa\nUrdu (10): ajmud, bikh karafs, bikh karfas, fitrasalium, karafs, tukhm karafs, tukhm karafs nim kofta, tukhm karofs, tukhm khurfa siyah, tukhm-i-karafs",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7782f3ecbc08d61e8a52665f2a8008f7"
+  ],
+  "source_record_ids": [
+    "links-0050"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7782f3ecbc08d61e8a52665f2a8008f7"
+    ],
+    "source_record_ids": [
+      "links-0050"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7782f3ecbc08d61e8a52665f2a8008f7",
+          "Plant Name": "Apium graveolens Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Apium graveolens Linn.",
+        "source_record_id": "links-0050",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7782f3ecbc08d61e8a52665f2a8008f7"
+      }
+    ],
+    "source_xplant_id": "7782f3ecbc08d61e8a52665f2a8008f7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

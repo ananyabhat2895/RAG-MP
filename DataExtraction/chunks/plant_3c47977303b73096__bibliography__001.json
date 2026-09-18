@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_3c47977303b73096__bibliography__001",
+  "plant_id": "plant_3c47977303b73096",
+  "plant_name": "Ipomoea reptans (Linn.) Poir.",
+  "botanical_name": "Ipomoea aquatica",
+  "botanical_authority": "FORSK.",
+  "family": "CONVOLVULACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - ANONYMOUS; title: Title - ASTANGA HRIDAYA KOSHA\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: title: Title - Flora of Bankura District(West Bengal)\nBibliography entry: title: Title - Flora of Rajasthan Vol.2\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol. II\nBibliography entry: title: Title - Flora of the Indian Desert\nBibliography entry: title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nBibliography entry: title: Title - Flora of Majuli\nBibliography entry: title: Title - The Flora of Orissa Vol II\nBibliography entry: title: Title - The Flora of the Gulf of Mannar\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - Flora of Gujarat State Vol 1\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac5061ae3543c0dde7c0f30fab00cc30/xclkon/12c3e401618c342ad8fcae407977a1e0",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac5061ae3543c0dde7c0f30fab00cc30"
+  ],
+  "source_record_ids": [
+    "links-0865",
+    "links-0870"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac5061ae3543c0dde7c0f30fab00cc30/xclkon/12c3e401618c342ad8fcae407977a1e0",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac5061ae3543c0dde7c0f30fab00cc30"
+    ],
+    "source_record_ids": [
+      "links-0865",
+      "links-0870"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac5061ae3543c0dde7c0f30fab00cc30/xclkon/12c3e401618c342ad8fcae407977a1e0",
+          "Plant Name": "Ipomoea reptans (Linn.) Poir.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ipomoea reptans (Linn.) Poir.",
+        "source_record_id": "links-0865",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac5061ae3543c0dde7c0f30fab00cc30/xclkon/12c3e401618c342ad8fcae407977a1e0"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac5061ae3543c0dde7c0f30fab00cc30",
+          "Plant Name": "Ipomoea aquatica Forsk.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ipomoea aquatica Forsk.",
+        "source_record_id": "links-0870",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac5061ae3543c0dde7c0f30fab00cc30"
+      }
+    ],
+    "source_xplant_id": "ac5061ae3543c0dde7c0f30fab00cc30",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

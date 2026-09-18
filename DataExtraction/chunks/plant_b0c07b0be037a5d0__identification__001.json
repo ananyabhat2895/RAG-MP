@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b0c07b0be037a5d0__identification__001",
+  "plant_id": "plant_b0c07b0be037a5d0",
+  "plant_name": "Rheum rhaponticum Linn.",
+  "botanical_name": "Rheum rhaponticum",
+  "botanical_authority": "L.",
+  "family": "POLYGONACEAE",
+  "section": "identification",
+  "content": "Plant name: Rheum rhaponticum Linn. Botanical name: Rheum rhaponticum Botanical authority: L. Family: POLYGONACEAE Source xplant ID: 6f822c14910fcd41c589ce4fbac73638",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f822c14910fcd41c589ce4fbac73638"
+  ],
+  "source_record_ids": [
+    "links-0106"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f822c14910fcd41c589ce4fbac73638"
+    ],
+    "source_record_ids": [
+      "links-0106"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f822c14910fcd41c589ce4fbac73638",
+          "Plant Name": "Rheum rhaponticum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rheum rhaponticum Linn.",
+        "source_record_id": "links-0106",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f822c14910fcd41c589ce4fbac73638"
+      }
+    ],
+    "source_xplant_id": "6f822c14910fcd41c589ce4fbac73638",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_32c83e5f6b57620b__vernacular_names__001",
+  "plant_id": "plant_32c83e5f6b57620b",
+  "plant_name": "Withania somnifera",
+  "botanical_name": "Withania somnifera",
+  "botanical_authority": "DUNAL",
+  "family": "SOLANACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): ashwagandha\nHindi (10): asgand, asgandh, asgandhi, ashgandh, ashgandha, ashwagandha, aswagandha, chirpotan, punir, rashbhari\nKannada (35): amakire, amangara gida, amangura, amikkira-gadday, ammangura, amukkire, angaara gadde gida, angara, angara baeru, angura gedde, anukeere, ashvagandha, ashvagandhi, ashwagandhi, asvagandha, asvagandhi, aswagandha, baiseyabara gida, hiremaddina, hiremaddina baeru, hiremaddina gida, hiremaddu, hirimaddina, hirimaddina-gadday, hirregadday, kiremallinagida, kirimaddana, kudure, manmatha shakthi, mohini gida, rathi gida, shakti gida, sogade-beru, sogadeberu, viremaddinagaddi\nMalayalam (4): amukkiram, amukkuram, pevette, pevetti\nMarathi (6): asagandha, askand, askandha, domdalaki, kanchuki, tilli\nSanskrit (39): Sanskrit CommentsX Sanskrit Name - AsvagandhaAuthor CommentsChunekar: for Asvagandha. Identified with the species Dr Bapalal Vaidya: for Asvagandha. Identified with the species P.V.Sharma: for Asvagandha. Identified with the speciesamukkura, ashvagandha, ashvakandika, ashvaroha, ashvavarshaka, ashwagandha, asvagandha, aswagandha, balada, balaja, gandhapatri, haya, hayagandha, hayapriya, kala, kambuka, kamrupini, kushthagandha, kushthagandhini, palashaparni, priyakari, punya, pushtida, pushtipavira, rajgandha, shyamala, turagagandha, turagi, turangagandha, ushuvaghendi, vajigandha, vajigandhika, vajikari, vajini, varada, varahakarni, varahapatri, vataghni, wajie ganaha",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881"
+  ],
+  "source_record_ids": [
+    "links-0212",
+    "links-0213",
+    "links-0214",
+    "links-0215"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881"
+    ],
+    "source_record_ids": [
+      "links-0212",
+      "links-0213",
+      "links-0214",
+      "links-0215"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881",
+          "Plant Name": "Withania somnifera",
+          "Status": "Found"
+        },
+        "source_plant_name": "Withania somnifera",
+        "source_record_id": "links-0212",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881",
+          "Plant Name": "Withania somnifera (Linn.) Dunal.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Withania somnifera (Linn.) Dunal.",
+        "source_record_id": "links-0213",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881",
+          "Plant Name": "Withania somnifera Dunal",
+          "Status": "Found"
+        },
+        "source_plant_name": "Withania somnifera Dunal",
+        "source_record_id": "links-0214",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881",
+          "Plant Name": "Withania somnifera Dunal.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Withania somnifera Dunal.",
+        "source_record_id": "links-0215",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881"
+      }
+    ],
+    "source_xplant_id": "f420a8ab57a668675b6825cc58f4f881",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

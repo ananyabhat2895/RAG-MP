@@ -1,0 +1,71 @@
+{
+  "chunk_id": "plant_326723d65d6b13e4__distribution__001",
+  "plant_id": "plant_326723d65d6b13e4",
+  "plant_name": "Tamarix troupii Hole.",
+  "botanical_name": "Tamarix indica",
+  "botanical_authority": "ROXB.",
+  "family": "TAMARICACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Botanicaly Survey of India; distribution: Distribution; title: Title - FLORA OF INDIA VOL 3\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - BSI Scientist; distribution: Distribution; title: Title - Flora of West Bengal Vol 1\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d9a068c199a63264dd61b8ea1699c83/xclkon/fcfbd248725443b978f43146fbac8540",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d9a068c199a63264dd61b8ea1699c83",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d9a068c199a63264dd61b8ea1699c83/xclkon/ed8329df880c5f369e48a6062d530450"
+  ],
+  "source_record_ids": [
+    "links-0790",
+    "links-0794",
+    "links-1203"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d9a068c199a63264dd61b8ea1699c83/xclkon/fcfbd248725443b978f43146fbac8540",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d9a068c199a63264dd61b8ea1699c83",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d9a068c199a63264dd61b8ea1699c83/xclkon/ed8329df880c5f369e48a6062d530450"
+    ],
+    "source_record_ids": [
+      "links-0790",
+      "links-0794",
+      "links-1203"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d9a068c199a63264dd61b8ea1699c83/xclkon/fcfbd248725443b978f43146fbac8540",
+          "Plant Name": "Tamarix troupii Hole.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tamarix troupii Hole.",
+        "source_record_id": "links-0790",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d9a068c199a63264dd61b8ea1699c83/xclkon/fcfbd248725443b978f43146fbac8540"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d9a068c199a63264dd61b8ea1699c83",
+          "Plant Name": "Tamarix indica Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tamarix indica Roxb.",
+        "source_record_id": "links-0794",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d9a068c199a63264dd61b8ea1699c83"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d9a068c199a63264dd61b8ea1699c83/xclkon/ed8329df880c5f369e48a6062d530450",
+          "Plant Name": "Tamarix gallica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tamarix gallica Linn.",
+        "source_record_id": "links-1203",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d9a068c199a63264dd61b8ea1699c83/xclkon/ed8329df880c5f369e48a6062d530450"
+      }
+    ],
+    "source_xplant_id": "5d9a068c199a63264dd61b8ea1699c83",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

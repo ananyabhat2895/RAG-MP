@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_fceb35065ed3489b__systems_of_medicine__001",
+  "plant_id": "plant_fceb35065ed3489b",
+  "plant_name": "Calotropis procera",
+  "botanical_name": "Calotropis procera",
+  "botanical_authority": "R.BR.",
+  "family": "ASCLEPIADACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c76266822323a28653a10f8f215007d2"
+  ],
+  "source_record_ids": [
+    "links-0158",
+    "links-0159",
+    "links-0161"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c76266822323a28653a10f8f215007d2"
+    ],
+    "source_record_ids": [
+      "links-0158",
+      "links-0159",
+      "links-0161"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c76266822323a28653a10f8f215007d2",
+          "Plant Name": "Calotropis procera",
+          "Status": "Found"
+        },
+        "source_plant_name": "Calotropis procera",
+        "source_record_id": "links-0158",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c76266822323a28653a10f8f215007d2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c76266822323a28653a10f8f215007d2",
+          "Plant Name": "Calotropis procera (Ait) R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Calotropis procera (Ait) R. Br.",
+        "source_record_id": "links-0159",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c76266822323a28653a10f8f215007d2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c76266822323a28653a10f8f215007d2",
+          "Plant Name": "Calotropis procera (Ait.) R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Calotropis procera (Ait.) R. Br.",
+        "source_record_id": "links-0161",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c76266822323a28653a10f8f215007d2"
+      }
+    ],
+    "source_xplant_id": "c76266822323a28653a10f8f215007d2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

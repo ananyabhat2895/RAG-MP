@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_502992f618f2e887__vernacular_names__001",
+  "plant_id": "plant_502992f618f2e887",
+  "plant_name": "Costus speciosus (Koeing Sm.)",
+  "botanical_name": "Costus speciosus",
+  "botanical_authority": "(KOEN. EX RETZ.) SM.",
+  "family": "COSTACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (5): kebu, keu, keyu, kust, mahalakri\nKannada (20): aarathi kundige, benne kundige, cangalakoshta, changal kostha, changala koshta, changalakoshta, chikey, chikke, cikke, korikattu, korikottu, korikuttu, kundige gida, neeraja, niraja, padmapatra, pushkaramoola, pushkaramula, pushkarmoola, vyaadi\nMalayalam (26): anakkuva, anappu, canna, cannakkilannu, cannakkuva, cannakkuvva, channa, channak-koova, channakkuva, channakuva, kottam, marujanna, maruncanna, marunchanna, nariccanna, narikarambu, narikkurampu, narumcanna, naruncana, narunchana, onapoovu, patimukam, pushkaramulam, tjanakua, tsjana-kua, tsjanakua\nMarathi (6): naagaali, penva, pinnaga, pinnga, pushkarmoola, pushkarmula\nSanskrit (27): Sanskrit CommentsX a, bramhatirtha, canda, kashmeera, kashmira, kasmira, kemuka, kushtha, kushthabheda, padmakarna, padmapatra, padmapatramulira, padmapunya, padmavarnaka, paushkara, pushkara, pushkarajata, pushkaramula, pushkaramulaka, pushkarashifa, sagara, shulaghna, shura, shvasari, subandhu, virapushkaravhaya, vrkisharuha\nTamil (81): cancamancam, catikostam, cetamakam, cikarappati, cikarappatikam, cilatarattinam, cirakapali, cirakapati, cirakapatiakm, ciram, itapavanati, kacumiram, koestam, kostam, kostam 1, kottam, kottilam, kudavam, kugaimanjal, kukaimancal, kumam, kupam, kuperam, kura, kurampai 2, kuravam, kuravam 2, kuravam 3, kurutupalam, kutavan, kutcim, kutikam, kuttaiyidukki, kuttam, kuttam 2, kuttamam, kuttapam, kuttarokovakkini, kutti 3, kuttiyitukki, kuttu, malaivacampu, malaivacapancam, malaivasambu, mukkili, oli 2, palakam 2, palkostam, panpakappu 2, pappayam, pari, paripaviyam, perunkurumpai, pillaikkocam, pulakkaram, pulkkaram, punakkam, putkaram, tattan, tatti, tomapalam, tuttai, ubariyavi, upariyavi#, upariyavi@, urpalam, vamananitam, vappiyam, vappuyam, vayinarutatayam, vellaikkostam, vengottam, venkostam, vintiyavacani#, vintiyavacani@, vintiyavacini, viranari, viyacitam, viyappirayam, viyappiyam, viyati\nTelugu (23): bhangalkoshta, bogachchikadumpalu, bommakaccika, bommakachchika, bommakachhika, bommakachika, cengalvakoshtu, chengalvakoshtu, kaashmeeremu, kashmeeramu, kashmiramu, kasmiramu, kevukinna, kimuka, koshtamu, kushthamu, paaribhavyamu, paribhavayamu, paribhavyamu, pushkaramoolam, pushkaramulam, pushkaramulamu, vana vaasa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4a366236a46dad574e5d484d9f83852"
+  ],
+  "source_record_ids": [
+    "links-1025",
+    "links-1026"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4a366236a46dad574e5d484d9f83852"
+    ],
+    "source_record_ids": [
+      "links-1025",
+      "links-1026"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4a366236a46dad574e5d484d9f83852",
+          "Plant Name": "Costus speciosus (Koeing Sm.)",
+          "Status": "Found"
+        },
+        "source_plant_name": "Costus speciosus (Koeing Sm.)",
+        "source_record_id": "links-1025",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4a366236a46dad574e5d484d9f83852"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4a366236a46dad574e5d484d9f83852",
+          "Plant Name": "Costus speciosus (Koen.) Sm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Costus speciosus (Koen.) Sm.",
+        "source_record_id": "links-1026",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4a366236a46dad574e5d484d9f83852"
+      }
+    ],
+    "source_xplant_id": "f4a366236a46dad574e5d484d9f83852",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

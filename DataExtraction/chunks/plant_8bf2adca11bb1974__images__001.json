@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_8bf2adca11bb1974__images__001",
+  "plant_id": "plant_8bf2adca11bb1974",
+  "plant_name": "Centratherum anthelminticum Kuntze.",
+  "botanical_name": "Centratherum anthelminticum",
+  "botanical_authority": "(L.) KUNTZE",
+  "family": "ASTERACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722/xclkon/fcf45865a19d02817ced62a814450260"
+  ],
+  "source_record_ids": [
+    "links-0143",
+    "links-1840"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722/xclkon/fcf45865a19d02817ced62a814450260"
+    ],
+    "source_record_ids": [
+      "links-0143",
+      "links-1840"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722",
+          "Plant Name": "Centratherum anthelminticum Kuntze.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Centratherum anthelminticum Kuntze.",
+        "source_record_id": "links-0143",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722/xclkon/fcf45865a19d02817ced62a814450260",
+          "Plant Name": "Vernonia anthelmintica Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vernonia anthelmintica Willd.",
+        "source_record_id": "links-1840",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722/xclkon/fcf45865a19d02817ced62a814450260"
+      }
+    ],
+    "source_xplant_id": "21e566ad80c6135f91fb60ec06d72722",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

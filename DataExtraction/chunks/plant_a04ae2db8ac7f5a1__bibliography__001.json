@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a04ae2db8ac7f5a1__bibliography__001",
+  "plant_id": "plant_a04ae2db8ac7f5a1",
+  "plant_name": "Swertia ciliata (G. Don.) Burtt.",
+  "botanical_name": "Swertia ciliata",
+  "botanical_authority": "(G.DON) BURTT.",
+  "family": "GENTIANACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: title: Title - Flora of Chamba District (Himachal Pradesh)\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol II\nBibliography entry: title: Title - Alpine meadows of Uttaranchal",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25169ad5f7e18e5014942f3d540b20fe"
+  ],
+  "source_record_ids": [
+    "links-1056"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25169ad5f7e18e5014942f3d540b20fe"
+    ],
+    "source_record_ids": [
+      "links-1056"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25169ad5f7e18e5014942f3d540b20fe",
+          "Plant Name": "Swertia ciliata (G. Don.) Burtt.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Swertia ciliata (G. Don.) Burtt.",
+        "source_record_id": "links-1056",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25169ad5f7e18e5014942f3d540b20fe"
+      }
+    ],
+    "source_xplant_id": "25169ad5f7e18e5014942f3d540b20fe",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

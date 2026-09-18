@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e64030a764534267__vernacular_names__001",
+  "plant_id": "plant_e64030a764534267",
+  "plant_name": "Quercus ilex Linn.",
+  "botanical_name": "Quercus ilex",
+  "botanical_authority": "L.",
+  "family": "FAGACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): holly oak, holm oak, ilex\nHindi (1): breh\nSanskrit (1): Sanskrit CommentsX mayaphala",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c0cabae31f92999e5d9d69bb5a25068"
+  ],
+  "source_record_ids": [
+    "links-1267"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c0cabae31f92999e5d9d69bb5a25068"
+    ],
+    "source_record_ids": [
+      "links-1267"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c0cabae31f92999e5d9d69bb5a25068",
+          "Plant Name": "Quercus ilex Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Quercus ilex Linn.",
+        "source_record_id": "links-1267",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c0cabae31f92999e5d9d69bb5a25068"
+      }
+    ],
+    "source_xplant_id": "4c0cabae31f92999e5d9d69bb5a25068",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

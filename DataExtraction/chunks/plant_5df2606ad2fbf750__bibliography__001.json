@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5df2606ad2fbf750__bibliography__001",
+  "plant_id": "plant_5df2606ad2fbf750",
+  "plant_name": "Adiantum caudatum Linn.",
+  "botanical_name": "Adiantum incisum",
+  "botanical_authority": "FORSK.",
+  "family": "ADIANTACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: author: Author - ED. SHRI S.P. AMBASTA; title: Title - THE USEFUL PLANTS OF INDIA\nBibliography entry: title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL1\nBibliography entry: title: Title - The Flora of Orissa Vol IV\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d55e585ca4f2480b6cbf59c6e1bdae71/xclkon/2564db2a8011c9e2f2ef3f0a0e42a2ec"
+  ],
+  "source_record_ids": [
+    "links-1270"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d55e585ca4f2480b6cbf59c6e1bdae71/xclkon/2564db2a8011c9e2f2ef3f0a0e42a2ec"
+    ],
+    "source_record_ids": [
+      "links-1270"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d55e585ca4f2480b6cbf59c6e1bdae71/xclkon/2564db2a8011c9e2f2ef3f0a0e42a2ec",
+          "Plant Name": "Adiantum caudatum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Adiantum caudatum Linn.",
+        "source_record_id": "links-1270",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d55e585ca4f2480b6cbf59c6e1bdae71/xclkon/2564db2a8011c9e2f2ef3f0a0e42a2ec"
+      }
+    ],
+    "source_xplant_id": "d55e585ca4f2480b6cbf59c6e1bdae71",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

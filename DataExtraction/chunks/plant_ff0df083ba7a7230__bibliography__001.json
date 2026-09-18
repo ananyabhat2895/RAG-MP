@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ff0df083ba7a7230__bibliography__001",
+  "plant_id": "plant_ff0df083ba7a7230",
+  "plant_name": "Myristica argentea Warb.",
+  "botanical_name": "Myristica argentea",
+  "botanical_authority": "WARB",
+  "family": "MYRISTICACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ad65d99cb4a788c5e5bc0be077e0a424"
+  ],
+  "source_record_ids": [
+    "links-0778"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ad65d99cb4a788c5e5bc0be077e0a424"
+    ],
+    "source_record_ids": [
+      "links-0778"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ad65d99cb4a788c5e5bc0be077e0a424",
+          "Plant Name": "Myristica argentea Warb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Myristica argentea Warb.",
+        "source_record_id": "links-0778",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ad65d99cb4a788c5e5bc0be077e0a424"
+      }
+    ],
+    "source_xplant_id": "ad65d99cb4a788c5e5bc0be077e0a424",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

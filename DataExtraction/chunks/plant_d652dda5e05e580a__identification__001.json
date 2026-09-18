@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d652dda5e05e580a__identification__001",
+  "plant_id": "plant_d652dda5e05e580a",
+  "plant_name": "Cedrus deodara (Roxb.) Loud.",
+  "botanical_name": "Cedrus deodara",
+  "botanical_authority": "(ROXB.) LOUD.",
+  "family": "PINACEAE",
+  "section": "identification",
+  "content": "Plant name: Cedrus deodara (Roxb.) Loud. Botanical name: Cedrus deodara Botanical authority: (ROXB.) LOUD. Family: PINACEAE Source xplant ID: 89b7f1eb2eb5a832b7a26aa6a24e9bf0",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89b7f1eb2eb5a832b7a26aa6a24e9bf0"
+  ],
+  "source_record_ids": [
+    "links-0504"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89b7f1eb2eb5a832b7a26aa6a24e9bf0"
+    ],
+    "source_record_ids": [
+      "links-0504"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89b7f1eb2eb5a832b7a26aa6a24e9bf0",
+          "Plant Name": "Cedrus deodara (Roxb.) Loud.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cedrus deodara (Roxb.) Loud.",
+        "source_record_id": "links-0504",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89b7f1eb2eb5a832b7a26aa6a24e9bf0"
+      }
+    ],
+    "source_xplant_id": "89b7f1eb2eb5a832b7a26aa6a24e9bf0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

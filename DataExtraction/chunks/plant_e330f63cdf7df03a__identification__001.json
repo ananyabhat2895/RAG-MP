@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e330f63cdf7df03a__identification__001",
+  "plant_id": "plant_e330f63cdf7df03a",
+  "plant_name": "Origanum majorana Linn.",
+  "botanical_name": "Majorana hortensis",
+  "botanical_authority": "MOENCH",
+  "family": "LAMIACEAE",
+  "section": "identification",
+  "content": "Plant name: Origanum majorana Linn. Botanical name: Majorana hortensis Botanical authority: MOENCH Family: LAMIACEAE Source xplant ID: 84e4b831f506c0fdda468af246ecea3a",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84e4b831f506c0fdda468af246ecea3a/xclkon/073507649417c5fc48c69fe9f602e52d"
+  ],
+  "source_record_ids": [
+    "links-1512"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84e4b831f506c0fdda468af246ecea3a/xclkon/073507649417c5fc48c69fe9f602e52d"
+    ],
+    "source_record_ids": [
+      "links-1512"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84e4b831f506c0fdda468af246ecea3a/xclkon/073507649417c5fc48c69fe9f602e52d",
+          "Plant Name": "Origanum majorana Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Origanum majorana Linn.",
+        "source_record_id": "links-1512",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84e4b831f506c0fdda468af246ecea3a/xclkon/073507649417c5fc48c69fe9f602e52d"
+      }
+    ],
+    "source_xplant_id": "84e4b831f506c0fdda468af246ecea3a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

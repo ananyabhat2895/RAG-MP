@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_00796c9066c196e6__distribution__001",
+  "plant_id": "plant_00796c9066c196e6",
+  "plant_name": "Curcuma aromatica Salisb.",
+  "botanical_name": "Curcuma aromatica",
+  "botanical_authority": "SALISB.",
+  "family": "ZINGIBERACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - A S Chauhan, K P Singh, D K Singh; distribution: Distribution; title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol III\nDistribution entry: author: Author - Ed B D Sharma, S Karthikeyan, N P Singh; distribution: Distribution; title: Title - Flora of Maharashrta State (Monocotyledons)\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93ddd0ed462932400083818f60f06bd0"
+  ],
+  "source_record_ids": [
+    "links-2045"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93ddd0ed462932400083818f60f06bd0"
+    ],
+    "source_record_ids": [
+      "links-2045"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93ddd0ed462932400083818f60f06bd0",
+          "Plant Name": "Curcuma aromatica Salisb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Curcuma aromatica Salisb.",
+        "source_record_id": "links-2045",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93ddd0ed462932400083818f60f06bd0"
+      }
+    ],
+    "source_xplant_id": "93ddd0ed462932400083818f60f06bd0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

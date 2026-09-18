@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_dcd085c21ce1fb8f__identification__001",
+  "plant_id": "plant_dcd085c21ce1fb8f",
+  "plant_name": "Cordia rothii Roem Schult.",
+  "botanical_name": "Cordia gharaf",
+  "botanical_authority": "(FORSK.) EHRENB.",
+  "family": "CORDIACEAE",
+  "section": "identification",
+  "content": "Plant name: Cordia rothii Roem Schult. Botanical name: Cordia gharaf Botanical authority: (FORSK.) EHRENB. Family: CORDIACEAE Source xplant ID: 9458ee02ee2338b609e6bfb85b94c76e",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9458ee02ee2338b609e6bfb85b94c76e/xclkon/42ef131958dfa53f2118998227589500"
+  ],
+  "source_record_ids": [
+    "links-1817"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9458ee02ee2338b609e6bfb85b94c76e/xclkon/42ef131958dfa53f2118998227589500"
+    ],
+    "source_record_ids": [
+      "links-1817"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9458ee02ee2338b609e6bfb85b94c76e/xclkon/42ef131958dfa53f2118998227589500",
+          "Plant Name": "Cordia rothii Roem Schult.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cordia rothii Roem Schult.",
+        "source_record_id": "links-1817",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9458ee02ee2338b609e6bfb85b94c76e/xclkon/42ef131958dfa53f2118998227589500"
+      }
+    ],
+    "source_xplant_id": "9458ee02ee2338b609e6bfb85b94c76e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

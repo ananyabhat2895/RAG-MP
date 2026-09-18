@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_0919b6d7d4b8ef29__vernacular_names__001",
+  "plant_id": "plant_0919b6d7d4b8ef29",
+  "plant_name": "Dodonaea viscosa Linn.",
+  "botanical_name": "Dodonaea viscosa",
+  "botanical_authority": "(L.) JACQ.",
+  "family": "SAPINDACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): akeake, hop-bush\nHindi (15): aliar, jangli-anar, maindhar, maindhor, mehndar, mehndi velavti, mehndu, mendru, mendu, mhendu, sanatta, sonalta, sonatta, walaytinahndi, wilayati-mehandi\nKannada (27): andara baralu, andara gida, angaaraka, angare, angari, banaduruba, bandaari, bandarah, bandare, bandargi, bandari, bandarike, bandediro, bandri, bandrike, bandriki, bandurgi, bangaru, bhandaru, bondaare, bondare, bundurgi, hangara, hangaralu, hangarike, hangaru, vullari\nMalayalam (6): krali, unatharivi, unatharivie, unnataruvi, virali, vrali\nMarathi (10): bandaaree, bandari, banderu, bandurgi, jakhmi, karata, latchmi, lutchmi, paorki, zakhmi\nSanskrit (3): Sanskrit CommentsX aliar, rasna, sanatta\nTamil (20): cavunatitacceti, cavunatitam, inkucukantan#, naykatampu, pantarai, taivaralicceti, valari, varali, varali #, velari, vellaivirali#, vellaivirali@, vellaiviruli, vilari, vilari 1, vilari#, vilaricceti 1, virali, virali-t-tol, viralicceti\nTelugu (21): bandaaru, bandam, bandara, bandara aaku chettu, bandarai, bandari, bandaru, bandedu, banderu, bandhari, bandhedu, bandheru, bandikampa, golla pulleda, gollapuleda, gollapulleda, puli-vallu, pulivavili, pulleda, pullena, purugudu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ed481b13abdae12cba10ed644f0129b"
+  ],
+  "source_record_ids": [
+    "links-1602"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ed481b13abdae12cba10ed644f0129b"
+    ],
+    "source_record_ids": [
+      "links-1602"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ed481b13abdae12cba10ed644f0129b",
+          "Plant Name": "Dodonaea viscosa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dodonaea viscosa Linn.",
+        "source_record_id": "links-1602",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ed481b13abdae12cba10ed644f0129b"
+      }
+    ],
+    "source_xplant_id": "6ed481b13abdae12cba10ed644f0129b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

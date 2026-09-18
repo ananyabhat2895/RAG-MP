@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_9c661bd789c97948__vernacular_names__001",
+  "plant_id": "plant_9c661bd789c97948",
+  "plant_name": "Premna herbacea Roxb.",
+  "botanical_name": "Pygmaeopremna herbacea",
+  "botanical_authority": "(ROXB.) MOLD.",
+  "family": "VERBENACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (2): bharangi, kamraj\nKannada (2): bhuminerale, nayit-yaga\nMalayalam (1): cerutekku\nMarathi (1): bharangi\nSanskrit (6): Sanskrit CommentsX bharngi, bhumi-jambuka, bhumijambu, bhumjambu, boomi-jambuka, phanji\nTamil (15): ankarakavalli, ankaravallan1, ankaravalli2, bumisamba, caleyam2, chiru thekku, chirudekku, cirutekku, kantu paranki, kantuparanki, nilanaval, pumicampu, pumichamba, shiruket, sirudekku\nTelugu (12): aadavinellikura, adavinelli-kura, adavinellikura, ghantubhaarangi, ghantubharangi, gunta bharinga, janna, kura nelli, kuranelli, neelanaeraedu, nela neredu, nelaneredu\nTibetan (2): kha ma pa (p), khal ba (d)\nUrdu (1): bharangi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c48ca77a9908748268302def511b2fd/xclkon/52fa30b5df253887ecdd13f575f5a359"
+  ],
+  "source_record_ids": [
+    "links-0319"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c48ca77a9908748268302def511b2fd/xclkon/52fa30b5df253887ecdd13f575f5a359"
+    ],
+    "source_record_ids": [
+      "links-0319"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c48ca77a9908748268302def511b2fd/xclkon/52fa30b5df253887ecdd13f575f5a359",
+          "Plant Name": "Premna herbacea Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Premna herbacea Roxb.",
+        "source_record_id": "links-0319",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c48ca77a9908748268302def511b2fd/xclkon/52fa30b5df253887ecdd13f575f5a359"
+      }
+    ],
+    "source_xplant_id": "9c48ca77a9908748268302def511b2fd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

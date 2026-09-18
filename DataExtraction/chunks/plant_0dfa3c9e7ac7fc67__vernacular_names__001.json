@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_0dfa3c9e7ac7fc67__vernacular_names__001",
+  "plant_id": "plant_0dfa3c9e7ac7fc67",
+  "plant_name": "Canavalia gladiata (Jacq.) DC.",
+  "botanical_name": "Canavalia gladiata",
+  "botanical_authority": "(JACQ.) DC.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "English (5): jack bean, jamaica horse bean, jamaican horse bean, sabre bean, sword bean\nHindi (12): gojiasema, goyijiyashivalam, kadasambal, kadsambu, khadsambal, khadsampal, lalkudsumbal, lalkudusumpal, safedkudsumbal, sema, suarasema, sweeta-sima\nKannada (11): kaadavare, kadavare, kadavari, sambe, shambe, shambee avare, shembiavare, tamateballi, tamategida, thumbe kaayi, tumbekonji\nMalayalam (11): bara-mareca, baramareca, kanavala, kanavazha, kattuvalamarakkaya, katubaramareca, valamara, valavarai, valavarata, valpayar, valvara\nMarathi (8): aabayee, abai, gavara, gavari, ghevdo, govari, khadasambala, kisamari\nSanskrit (11): Sanskrit CommentsX asishimbi, asisimbi, brihatshimbi, khadgashimbi, koshaphala, maha-shibee, mahashimbi, mahasimbi, nilashimbika, shimbi, sthulashimbi\nTamil (58): ampucakitacceti, ampucakitam, anititam, anititavavaraikkoti, araniyamutkam, cetittampattai, cetittampattaiyavarai, cikkuri, cikkuricceti, civapputtampattai, cupakavavarai, kattavarai1, kattavaraikkoti, kattuttambattan, kattuvalari, kayilakakkoti, kayilakam, kocapalam3, kodittambattan, kolhiyavarai, koliavarai, kolikkoti, kolippuntu, koliyavarai, koliyenramuli, koshi avarai, kottuttambattam, paluvakkoti, pataiyavarai, patavarai, patavavarai, peyavarai, peyavarai 1, peyavarai 2, peyppatal 2, peyttampattai, peyttampattaiyavarai, pukati, pukatiyavaraikkoti, segapputampattai, segapu thampattai, sivapputtambattai, tampattai, tampattam, tampattankay, tampattankoti, thamattan, thambattai, tottiraiyakkoti, tottirayam, ulakanamikkoti, ulakanapi, valavarai, varaiyaruttan, varaiyaruttankoti, vellaittampattai, vellaittampattan, vellaittumattan\nTelugu (24): adavichamma, adavitamma, adavithamma, chamba kaasya, chamma, erratamma, errathamma, ettatamma, kaaranputhige, karanuputige, karochikadu, karuchamma, karutamma, karuthamma, shimbi, simbi, tamba, tamma, thamba, thamma, thamma kaaya, tumbettankaya, yerratamma, yerrathambattankaya",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a/xclkon/aee4777276c6f39b05ed71d735e97f30"
+  ],
+  "source_record_ids": [
+    "links-0176",
+    "links-0855"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a/xclkon/aee4777276c6f39b05ed71d735e97f30"
+    ],
+    "source_record_ids": [
+      "links-0176",
+      "links-0855"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a",
+          "Plant Name": "Canavalia gladiata (Jacq.) DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Canavalia gladiata (Jacq.) DC.",
+        "source_record_id": "links-0176",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a/xclkon/aee4777276c6f39b05ed71d735e97f30",
+          "Plant Name": "Canavalia ensiformis (Linn.) DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Canavalia ensiformis (Linn.) DC.",
+        "source_record_id": "links-0855",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a/xclkon/aee4777276c6f39b05ed71d735e97f30"
+      }
+    ],
+    "source_xplant_id": "3b4655846cbe42dc6e7077bb62f44b4a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

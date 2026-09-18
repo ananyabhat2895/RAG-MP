@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_52a220f9e1a2293a__identification__001",
+  "plant_id": "plant_52a220f9e1a2293a",
+  "plant_name": "Rhinacanthus nasuta Kurz.",
+  "botanical_name": "Rhinacanthus nasuta",
+  "botanical_authority": "(L.) KURZ.",
+  "family": "ACANTHACEAE",
+  "section": "identification",
+  "content": "Plant name: Rhinacanthus nasuta Kurz. Botanical name: Rhinacanthus nasuta Botanical authority: (L.) KURZ. Family: ACANTHACEAE Source xplant ID: 8fed9b52bb4c1275b5366616ad17b2f6",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fed9b52bb4c1275b5366616ad17b2f6"
+  ],
+  "source_record_ids": [
+    "links-2146"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fed9b52bb4c1275b5366616ad17b2f6"
+    ],
+    "source_record_ids": [
+      "links-2146"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fed9b52bb4c1275b5366616ad17b2f6",
+          "Plant Name": "Rhinacanthus nasuta Kurz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rhinacanthus nasuta Kurz.",
+        "source_record_id": "links-2146",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fed9b52bb4c1275b5366616ad17b2f6"
+      }
+    ],
+    "source_xplant_id": "8fed9b52bb4c1275b5366616ad17b2f6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

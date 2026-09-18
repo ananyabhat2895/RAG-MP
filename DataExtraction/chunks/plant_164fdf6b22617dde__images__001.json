@@ -1,0 +1,95 @@
+{
+  "chunk_id": "plant_164fdf6b22617dde__images__001",
+  "plant_id": "plant_164fdf6b22617dde",
+  "plant_name": "Anthocephalus cadamba",
+  "botanical_name": "Neolamarckia cadamba",
+  "botanical_authority": "(ROXB.) BOSSER",
+  "family": "RUBIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/2e0bec78b33f9ea9a8a4e7a59533e763",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/4a0b43648ef2a3cc8f3c53a99b5d3539"
+  ],
+  "source_record_ids": [
+    "links-0824",
+    "links-0825",
+    "links-0826",
+    "links-0827",
+    "links-1407"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/2e0bec78b33f9ea9a8a4e7a59533e763",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/4a0b43648ef2a3cc8f3c53a99b5d3539"
+    ],
+    "source_record_ids": [
+      "links-0824",
+      "links-0825",
+      "links-0826",
+      "links-0827",
+      "links-1407"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/2e0bec78b33f9ea9a8a4e7a59533e763",
+          "Plant Name": "Anthocephalus cadamba",
+          "Status": "Found"
+        },
+        "source_plant_name": "Anthocephalus cadamba",
+        "source_record_id": "links-0824",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/2e0bec78b33f9ea9a8a4e7a59533e763"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/2e0bec78b33f9ea9a8a4e7a59533e763",
+          "Plant Name": "Anthocephalus cadamba Miq.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Anthocephalus cadamba Miq.",
+        "source_record_id": "links-0825",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/2e0bec78b33f9ea9a8a4e7a59533e763"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/4a0b43648ef2a3cc8f3c53a99b5d3539",
+          "Plant Name": "Anthocephalus indicus A. Rich.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Anthocephalus indicus A. Rich.",
+        "source_record_id": "links-0826",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/4a0b43648ef2a3cc8f3c53a99b5d3539"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/4a0b43648ef2a3cc8f3c53a99b5d3539",
+          "Plant Name": "Anthocephalus indicus Miq.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Anthocephalus indicus Miq.",
+        "source_record_id": "links-0827",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/4a0b43648ef2a3cc8f3c53a99b5d3539"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/2e0bec78b33f9ea9a8a4e7a59533e763",
+          "Plant Name": "Anthocephalus cadamb",
+          "Status": "Found"
+        },
+        "source_plant_name": "Anthocephalus cadamb",
+        "source_record_id": "links-1407",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/2e0bec78b33f9ea9a8a4e7a59533e763"
+      }
+    ],
+    "source_xplant_id": "84b3ccebf56292e28d68c311540dc57b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

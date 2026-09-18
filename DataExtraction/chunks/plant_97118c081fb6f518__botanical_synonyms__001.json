@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_97118c081fb6f518__botanical_synonyms__001",
+  "plant_id": "plant_97118c081fb6f518",
+  "plant_name": "Canthium parviflorum Lam.",
+  "botanical_name": "Canthium coromandelicum",
+  "botanical_authority": "(N.BURM.)",
+  "family": "RUBIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Canthium parviflorum LAM. X Full Botanical citation - Canthium parviflorum Lam. Encycl. 1: 602. 1785; N.P.Singh & al., Fl. Maharashtra State Dicotyledones, 2: Fl. India Ser 2: 120. 2001.\nSynonym: Canthium parviflorum LAM.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dea5e5d7ef738a145a2bdd254197fe97/xclkon/3c94ddcbb81c25b5f005b7eb3f51e1bc"
+  ],
+  "source_record_ids": [
+    "links-0959"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dea5e5d7ef738a145a2bdd254197fe97/xclkon/3c94ddcbb81c25b5f005b7eb3f51e1bc"
+    ],
+    "source_record_ids": [
+      "links-0959"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dea5e5d7ef738a145a2bdd254197fe97/xclkon/3c94ddcbb81c25b5f005b7eb3f51e1bc",
+          "Plant Name": "Canthium parviflorum Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Canthium parviflorum Lam.",
+        "source_record_id": "links-0959",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dea5e5d7ef738a145a2bdd254197fe97/xclkon/3c94ddcbb81c25b5f005b7eb3f51e1bc"
+      }
+    ],
+    "source_xplant_id": "dea5e5d7ef738a145a2bdd254197fe97",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

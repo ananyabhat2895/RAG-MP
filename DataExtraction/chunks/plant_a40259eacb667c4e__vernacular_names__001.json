@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a40259eacb667c4e__vernacular_names__001",
+  "plant_id": "plant_a40259eacb667c4e",
+  "plant_name": "Crinum asiaticum Linn.",
+  "botanical_name": "Crinum asiaticum",
+  "botanical_authority": "L.",
+  "family": "AMARYLLIDACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (10): badakanvar, bara-kanvar, chindar, cintar, kanmu, kanwal, nagadamani, pindar, sukhdarsan, sukhdarshan\nKannada (5): naagadaali gida, vishamoongila, vishamoonguli, vishamungali, vishamungili\nMalayalam (6): kantenna, polattali, pulattali, valutta polatali, visha-mula, vishamula\nMarathi (5): gadambhikanda, gadani-kanda, magdavan, naagadavana, nagadavana\nSanskrit (5): Sanskrit CommentsX nagadamani, nagdamini, sudarsana, sudarshan, vishamandala\nTamil (31): amal2, campankulikacceti, campankulikam, kanalmunkil, kanavumuli#, kanavumuli@, kanavumunkikam, kanavumunkil, nakatavanam, narivenkayam, onkalam, peru-nari-vengaram, perunarivenkayam 2, tudaivachi, tuntakavaracu, tutai, tutai@, tutaivacci, tutaivaci, tutaiyaracu, veshei moonghie elley, veshi munghee, visamumgil, visamunkil, visha moongil, visha-mungil, visha-munkil, vishamoongil, vishamungil, vitamunkil, vizhamungal\nTelugu (12): chengalva, chengu lauva, kesara-chettu, kesarchettu, kesari chettu, kesarichettu, lakshmi-narayana-chettu, lakshminarayanachettu, lakshminarayanachetu, visha-mungali, vishamoongali, vishamungali\nUrdu (2): nagadaman, nagadauna",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b2274b1e1269ea7ad2a8edda77c821d"
+  ],
+  "source_record_ids": [
+    "links-1860"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b2274b1e1269ea7ad2a8edda77c821d"
+    ],
+    "source_record_ids": [
+      "links-1860"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b2274b1e1269ea7ad2a8edda77c821d",
+          "Plant Name": "Crinum asiaticum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Crinum asiaticum Linn.",
+        "source_record_id": "links-1860",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b2274b1e1269ea7ad2a8edda77c821d"
+      }
+    ],
+    "source_xplant_id": "8b2274b1e1269ea7ad2a8edda77c821d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

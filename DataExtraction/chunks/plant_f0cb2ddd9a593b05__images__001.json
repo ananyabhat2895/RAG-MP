@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_f0cb2ddd9a593b05__images__001",
+  "plant_id": "plant_f0cb2ddd9a593b05",
+  "plant_name": "Morinda coreia Buch-Ham.",
+  "botanical_name": "Morinda pubescens",
+  "botanical_authority": "SM.",
+  "family": "RUBIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d880bd02d3f20d29c4b2349028ac9771/xclkon/8000d14555500e2a572e668f497cc32a",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d880bd02d3f20d29c4b2349028ac9771/xclkon/70d372d3a394a201f3c13b154c20d3ef"
+  ],
+  "source_record_ids": [
+    "links-0069",
+    "links-0070"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d880bd02d3f20d29c4b2349028ac9771/xclkon/8000d14555500e2a572e668f497cc32a",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d880bd02d3f20d29c4b2349028ac9771/xclkon/70d372d3a394a201f3c13b154c20d3ef"
+    ],
+    "source_record_ids": [
+      "links-0069",
+      "links-0070"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d880bd02d3f20d29c4b2349028ac9771/xclkon/8000d14555500e2a572e668f497cc32a",
+          "Plant Name": "Morinda coreia Buch-Ham.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Morinda coreia Buch-Ham.",
+        "source_record_id": "links-0069",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d880bd02d3f20d29c4b2349028ac9771/xclkon/8000d14555500e2a572e668f497cc32a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d880bd02d3f20d29c4b2349028ac9771/xclkon/70d372d3a394a201f3c13b154c20d3ef",
+          "Plant Name": "Morinda tinctoria Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Morinda tinctoria Roxb.",
+        "source_record_id": "links-0070",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d880bd02d3f20d29c4b2349028ac9771/xclkon/70d372d3a394a201f3c13b154c20d3ef"
+      }
+    ],
+    "source_xplant_id": "d880bd02d3f20d29c4b2349028ac9771",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

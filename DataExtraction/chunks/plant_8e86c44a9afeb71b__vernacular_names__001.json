@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8e86c44a9afeb71b__vernacular_names__001",
+  "plant_id": "plant_8e86c44a9afeb71b",
+  "plant_name": "Swertia paniculata Wall.",
+  "botanical_name": "Swertia paniculata",
+  "botanical_authority": "WALL.",
+  "family": "GENTIANACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (1): charaita\nSanskrit (1): Sanskrit CommentsX kiratatikta",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/347ceeac4a1cc362ed84fd8a93777413"
+  ],
+  "source_record_ids": [
+    "links-1058"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/347ceeac4a1cc362ed84fd8a93777413"
+    ],
+    "source_record_ids": [
+      "links-1058"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/347ceeac4a1cc362ed84fd8a93777413",
+          "Plant Name": "Swertia paniculata Wall.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Swertia paniculata Wall.",
+        "source_record_id": "links-1058",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/347ceeac4a1cc362ed84fd8a93777413"
+      }
+    ],
+    "source_xplant_id": "347ceeac4a1cc362ed84fd8a93777413",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

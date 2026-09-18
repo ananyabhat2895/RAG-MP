@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_6f02383955ce1a60__botanical_synonyms__001",
+  "plant_id": "plant_6f02383955ce1a60",
+  "plant_name": "Thespesia lampas Dalz. & Gibs.",
+  "botanical_name": "Thespesia lampas",
+  "botanical_authority": "(CAV.) DALZ. EX DALZ.",
+  "family": "MALVACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Azanza lampas (CAV.) ALEF. X Full Botanical citation - Azanza lampas (Cav.) Alef. in Bot. Zeit. 19: 298. 1861; T.K.Paul in B.D.Sharma & Sanjappa, Fl. India 3: 350. 1993. Hibiscus lampas CAV. X Full Botanical citation - Hibiscus lampas Cav. Diss. 3: 154, t. 56, f. 2. 1787; T.K.Paul in B.D. Sharma & Sanjappa, Fl. India 3: 350. 1993.\nSynonym: Azanza lampas (CAV.) ALEF.\nSynonym: Hibiscus lampas CAV.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dce52209e08745bc3ad7912e59b35047"
+  ],
+  "source_record_ids": [
+    "links-0988"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dce52209e08745bc3ad7912e59b35047"
+    ],
+    "source_record_ids": [
+      "links-0988"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dce52209e08745bc3ad7912e59b35047",
+          "Plant Name": "Thespesia lampas Dalz. & Gibs.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Thespesia lampas Dalz. & Gibs.",
+        "source_record_id": "links-0988",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dce52209e08745bc3ad7912e59b35047"
+      }
+    ],
+    "source_xplant_id": "dce52209e08745bc3ad7912e59b35047",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

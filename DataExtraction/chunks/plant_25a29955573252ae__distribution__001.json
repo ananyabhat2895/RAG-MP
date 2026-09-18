@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_25a29955573252ae__distribution__001",
+  "plant_id": "plant_25a29955573252ae",
+  "plant_name": "Corallocarpus epigaeus Benth. ex Hook. f.",
+  "botanical_name": "Corallocarpus epigaeus",
+  "botanical_authority": "BENTH.",
+  "family": "CUCURBITACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b088cb551d11dd21380ebc54a81ccb68"
+  ],
+  "source_record_ids": [
+    "links-1863"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b088cb551d11dd21380ebc54a81ccb68"
+    ],
+    "source_record_ids": [
+      "links-1863"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b088cb551d11dd21380ebc54a81ccb68",
+          "Plant Name": "Corallocarpus epigaeus Benth. ex Hook. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Corallocarpus epigaeus Benth. ex Hook. f.",
+        "source_record_id": "links-1863",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b088cb551d11dd21380ebc54a81ccb68"
+      }
+    ],
+    "source_xplant_id": "b088cb551d11dd21380ebc54a81ccb68",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_da17b19ad5355623__identification__001",
+  "plant_id": "plant_da17b19ad5355623",
+  "plant_name": "Helicteres isora Linn.",
+  "botanical_name": "Helicteres isora",
+  "botanical_authority": "L.",
+  "family": "STERCULIACEAE",
+  "section": "identification",
+  "content": "Plant name: Helicteres isora Linn. Botanical name: Helicteres isora Botanical authority: L. Family: STERCULIACEAE Source xplant ID: 38a584df4e3681cfcec0c76b9237291c",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c"
+  ],
+  "source_record_ids": [
+    "links-0247",
+    "links-0248",
+    "links-0249",
+    "links-1320"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c"
+    ],
+    "source_record_ids": [
+      "links-0247",
+      "links-0248",
+      "links-0249",
+      "links-1320"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c",
+          "Plant Name": "Helicteres isora Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Helicteres isora Linn.",
+        "source_record_id": "links-0247",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c",
+          "Plant Name": "Helicteres isora Linn. Var. glabrescens",
+          "Status": "Found"
+        },
+        "source_plant_name": "Helicteres isora Linn. Var. glabrescens",
+        "source_record_id": "links-0248",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c",
+          "Plant Name": "Helicteres isora Linn. Var. tomentosa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Helicteres isora Linn. Var. tomentosa",
+        "source_record_id": "links-0249",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c",
+          "Plant Name": "Helicteres isora",
+          "Status": "Found"
+        },
+        "source_plant_name": "Helicteres isora",
+        "source_record_id": "links-1320",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c"
+      }
+    ],
+    "source_xplant_id": "38a584df4e3681cfcec0c76b9237291c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

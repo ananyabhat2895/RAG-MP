@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_e9c88da6afe5967c__vernacular_names__001",
+  "plant_id": "plant_e9c88da6afe5967c",
+  "plant_name": "Piper cubeba Linn.f.",
+  "botanical_name": "Piper cubeba",
+  "botanical_authority": "L. F.",
+  "family": "PIPERACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): cubeb, java pepper\nHindi (4): kabab-chini, kabacini, sheetal-chini, sitalachini\nKannada (13): baala menasu, balamenasu, balmenasu, chinamunchi, cinamnnci, gandha menasu, gandha-menasu, gandhamenasu, gandhamunchi, gandhamunci, kankola, mara menasu, maramenasu\nMalayalam (7): cavika, chinimulaku, cinamulagu, ciniamulaku, val-milaku, val-mulaka, valmulaku\nMarathi (6): hima simire, kaapoorcheenee, kankol, mothi, pimpli, pipli\nSanskrit (13): Sanskrit CommentsX cinatiksna, cinorana, kakkola, kankola, kankolaka, kankolam, kankolika, maricam, renuka, sugandhamarichatai, sugandhamarichu, sugandhamuricha, sungadha-muricha\nTamil (67): ainnilam@, alankaram2, aranukam, arenu, arenugam, arenukam, aripalugam, aripalukam, atturati, autaciyamilaku, avattam2, calani2, calini2, catavikam, catavikamilaku, catuttam, cevviyam, cikkam, cinamilaku, cinaviram, cubab chinie, cur2, curam@, curamilaku, curmilaku, elavalukam2, ilatai, ilepam, illi2, ittakam, kanacam, kanacamilaku, kanakam4, kanakamilaku, kanakamilaku#, kanakamilaku@, kankolam, katturikai, kaulakam, kaunti, kauntiriyacceti, kauntiriyam, kavinti, kirusnai3, kiruttinai3, kolakam3, kolam4, macati, maceti, malukam 2, maricam 2, maricinam@, mayenam, nalvaci, ponkam, takkolam, takkolam6, takkolamilaku, tulati, vaalmilagu, val milagu, val-milaku, valmilagu, valmilaku, valmilakukkoti, valmilgu, vanmilaku\nTelugu (11): calavamiriyalu, caluvamiriyamu, chalava-miriyalu, chaluva-miriyalu, chaluvamiriyaalu, thokamiriyaalu, toka-miriyalu, tokamiriyalau, tokamiriyalu, tokamiriyamulu, tsalavamiriyalu\nTibetan (1): ka ko la\nUrdu (5): kabab chini, kabab-chini, kababchini, kababchini (kankol), sital-chini",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3"
+  ],
+  "source_record_ids": [
+    "links-0909",
+    "links-0913"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3"
+    ],
+    "source_record_ids": [
+      "links-0909",
+      "links-0913"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3",
+          "Plant Name": "Piper cubeba Linn.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper cubeba Linn.f.",
+        "source_record_id": "links-0909",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3",
+          "Plant Name": "Piper cubeba Linn. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper cubeba Linn. f.",
+        "source_record_id": "links-0913",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3"
+      }
+    ],
+    "source_xplant_id": "38599335cef650b6064a59bda99b11c3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

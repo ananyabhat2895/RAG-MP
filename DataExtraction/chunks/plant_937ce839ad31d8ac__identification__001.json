@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_937ce839ad31d8ac__identification__001",
+  "plant_id": "plant_937ce839ad31d8ac",
+  "plant_name": "Ficus glomerata Roxb.",
+  "botanical_name": "Ficus racemosa",
+  "botanical_authority": "L.",
+  "family": "MORACEAE",
+  "section": "identification",
+  "content": "Plant name: Ficus glomerata Roxb. Botanical name: Ficus racemosa Botanical authority: L. Family: MORACEAE Source xplant ID: b22339bd7b08169fb15e7da6dfbc9aa7",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7/xclkon/0a6fc1518f767f06ed6e96b6fa1bb8f8",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7"
+  ],
+  "source_record_ids": [
+    "links-2021",
+    "links-2022"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7/xclkon/0a6fc1518f767f06ed6e96b6fa1bb8f8",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7"
+    ],
+    "source_record_ids": [
+      "links-2021",
+      "links-2022"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7/xclkon/0a6fc1518f767f06ed6e96b6fa1bb8f8",
+          "Plant Name": "Ficus glomerata Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus glomerata Roxb.",
+        "source_record_id": "links-2021",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7/xclkon/0a6fc1518f767f06ed6e96b6fa1bb8f8"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7",
+          "Plant Name": "Ficus racemosa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus racemosa Linn.",
+        "source_record_id": "links-2022",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7"
+      }
+    ],
+    "source_xplant_id": "b22339bd7b08169fb15e7da6dfbc9aa7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

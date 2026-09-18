@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_9bf89804263c5f1b__bibliography__001",
+  "plant_id": "plant_9bf89804263c5f1b",
+  "plant_name": "Myrica nagi Thunb.",
+  "botanical_name": "Myrica nagi",
+  "botanical_authority": "THUNB.",
+  "family": "MYRICACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - DR.P.N.V.KURUP, DR.V.N.K.RAMADAS & JOSHI,P; title: Title - A HANDBOOK OF MEDICINAL PLANTS\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - ALIX RAISON; title: Title - LA-HARITA SAMHITA\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - VAIDYA D.K. KAMAT; title: Title - STUDIES ON MEDICINAL PLANTS IN DHANVANTARIYA NIGHANTU VOL.1\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: title: Title - FOREST FLORA OF MEGHALAYA VOL 2\nBibliography entry: title: Title - A Forest Flora for Kumaon",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d3491a161f15fefb4ea92a4c82c5381"
+  ],
+  "source_record_ids": [
+    "links-1014"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d3491a161f15fefb4ea92a4c82c5381"
+    ],
+    "source_record_ids": [
+      "links-1014"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d3491a161f15fefb4ea92a4c82c5381",
+          "Plant Name": "Myrica nagi Thunb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Myrica nagi Thunb.",
+        "source_record_id": "links-1014",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d3491a161f15fefb4ea92a4c82c5381"
+      }
+    ],
+    "source_xplant_id": "8d3491a161f15fefb4ea92a4c82c5381",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_5aac7449fe296df6__identification__001",
+  "plant_id": "plant_5aac7449fe296df6",
+  "plant_name": "Dolichandrone falcata Seem",
+  "botanical_name": "Dolichandrone falcata",
+  "botanical_authority": "SEEMANN",
+  "family": "BIGNONIACEAE",
+  "section": "identification",
+  "content": "Plant name: Dolichandrone falcata Seem Botanical name: Dolichandrone falcata Botanical authority: SEEMANN Family: BIGNONIACEAE Source xplant ID: 812ed115c585d63b8aea8971c1766024",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/812ed115c585d63b8aea8971c1766024"
+  ],
+  "source_record_ids": [
+    "links-1277",
+    "links-1278"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/812ed115c585d63b8aea8971c1766024"
+    ],
+    "source_record_ids": [
+      "links-1277",
+      "links-1278"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/812ed115c585d63b8aea8971c1766024",
+          "Plant Name": "Dolichandrone falcata Seem",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dolichandrone falcata Seem",
+        "source_record_id": "links-1277",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/812ed115c585d63b8aea8971c1766024"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/812ed115c585d63b8aea8971c1766024",
+          "Plant Name": "Dolichandrone falcata Seem.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dolichandrone falcata Seem.",
+        "source_record_id": "links-1278",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/812ed115c585d63b8aea8971c1766024"
+      }
+    ],
+    "source_xplant_id": "812ed115c585d63b8aea8971c1766024",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

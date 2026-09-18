@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b5f6b66e505609a7__vernacular_names__001",
+  "plant_id": "plant_b5f6b66e505609a7",
+  "plant_name": "Pistia stratiotes Linn.",
+  "botanical_name": "Pistia stratiotes",
+  "botanical_authority": "L.",
+  "family": "ARACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): water leltuce, water lettuce\nHindi (5): jal-kumbhi, jalkhumbi, jalkumbhi, kalkhunbi, takapana\nKannada (7): aakaasha thaamare, antara gange, antaragange, anthara daavare, anthara gange, anthara thaamara, jala kumbika\nMalayalam (2): kodda-pail, koddapail\nMarathi (8): gondaala, gondala, jalabandavi, jalamandvi, jelo, paankumbhi, praashnee, prasni\nSanskrit (21): Sanskrit CommentsX akashamuli, ashakumbhi, bariparni, daladhaka, hathah, jalakumbhi, jalakumbhika, jalavalkala, khali, khamulika, kumbhika, kumuda, kutrina, paniyaprishthaja, pariparni, parni, prashni, shvetaparna, untarei-tamara, varimuli, variparni\nTamil (64): aakaasa taamarai, aakayatamarai, acakuppi, agasa tamarai, agasa-tamarai, agasatamarai, agasatamaray, akacamuli, akacattamarai, akasa thamarai, akasa-thamarai, akayaddamarai, akayamuli 1, akayat tamarai, akayat tamarai ilai, akayat-tamarai, akayattamarai, andara thamarai, antara-t-tamarai, antaramuli, antarat tamarai, antaratamarai, antarattamarai, antarattamarai ver, avam, calacarakkuli, calakkan, calakkaran, calaputpam 1, calaputpapalava, calavakaram, calavataram, carata, ilatcumicirestar, inattamarai, irecakunakkoti, irecakunam, kavutikam, kavutittamarai, kodi-tamarai, kottaippacam, kottaippaci, kuli thamarai, kulirtamarai, kulittamarai#, kulittamarai@, kumpika 1, kuruttamarai, kuzhi-thamarai, nanaivaratti, nanaiyavaratti, nirmelpaccilai, nirneruppu 1, paccaikkottai, paccaikkottaittamarai, pankacakam, pankacakitam, patumacarini, patumapattiri, pauttaratamarai, picacutamarai, titcaram, varapicam, velittamarai\nTelugu (11): aakaasathaamara, akasatamara, antara tamara, antharathaamara, autaratamara, budaga tamara, neeraaku, neerubudiki, niru-buduki, nirubudiki, thoodi koora\nUrdu (1): jalakumbhi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/53073686747245295f650f8f5f359bd7"
+  ],
+  "source_record_ids": [
+    "links-0754"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/53073686747245295f650f8f5f359bd7"
+    ],
+    "source_record_ids": [
+      "links-0754"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/53073686747245295f650f8f5f359bd7",
+          "Plant Name": "Pistia stratiotes Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pistia stratiotes Linn.",
+        "source_record_id": "links-0754",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/53073686747245295f650f8f5f359bd7"
+      }
+    ],
+    "source_xplant_id": "53073686747245295f650f8f5f359bd7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

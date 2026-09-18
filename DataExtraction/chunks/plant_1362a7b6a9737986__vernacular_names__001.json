@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_1362a7b6a9737986__vernacular_names__001",
+  "plant_id": "plant_1362a7b6a9737986",
+  "plant_name": "Alternanthera sessilis",
+  "botanical_name": "Alternanthera sessilis",
+  "botanical_authority": "(L.) R.BR.EX DC.",
+  "family": "AMARANTHACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): mukunawanna, water amaranth\nHindi (2): gudre-saag, gudrisag\nKannada (3): honagone soppu, honagonne, honagonne soppu\nMalayalam (5): coluppa, koluppa, minannani, ponnankannikkira, ponnannani\nMarathi (3): kanchari, koypa, laanchari\nSanskrit (7): Sanskrit CommentsX lonika, matsyaksaka, matsyaksi, matsyaksika, minakshi, minaksi, patturah\nTamil (112): al, alaku1, antarnilai, anumacakanni, anumacakka, anumacakkay, cakaccai, cakatevi3, cakatevicceti, cempucattumuli3, cenkanni, cirinakannicceti, cirinam, citaci, citacikannicceti, citalacatti3, citalakkani, citali#, citali$, citalicceti, citani, citanicceti, citapu, citapuram, citevi3, citevicceti2, cittaman, cittamani, cittamanicceti, citti2@, comakanni, comakannicceti, comavallari, comavallaricceti, cukatir, curaiman, curaimankanni, cuvatuvarnam, intiranikani, intiranur, iruncatuvamaippuntu, kalavativalaki, kallukkalaikkattan, kallukkalaittan, kallukkattanceti, kani, kannukkanimuli, kannukkiniyan, karippavai, karippavaicceti, karpurakkanni, karpurakkannicceti, karpuram, katuncitalatti, kayacitti1, kayacitticci, kodupai, kotuppai, maccikkanni, maccikkannicceti, macciyacci, macciyankanicceti, macciyankanni, macciyatti, maicatci 2, menattukkanni, menatu, minatci, muci, natcattirantonri, nettiranaci, nirovati, pakalnatcattiramtonri, patturam, patumalayam2, pautikamankai, pautikamankaicceti, perunkotuppai, pittacanti, pittacanticceti, ponkani, ponmeni, ponmuli, ponnaankanni, ponnakunkanni, ponnam kani, ponnan kani, ponnangani, ponnanganni, ponnangannikkirai, ponnangkani, ponnankani, ponnankanni, ponnannanikkirai, porkani, porkanni, punarkannikkirai, tacamaikkanni, tacamaikkannicceti, tai2, tevarur, tirekacitti, tiyakkanni, tiyakkirai, ulavanikacceti, ulavanikam, umparur, utukatti, varikkani, varikkannicceti, vatuvarnam, vinnukkulmurtti\nTelugu (4): madanaganti, ponagantikura, ponna ganti-kura, ponnaganti koora\nTibetan (2): dza la pi pi la (d), tsha la pi pa la",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a"
+  ],
+  "source_record_ids": [
+    "links-0379",
+    "links-0380",
+    "links-0381",
+    "links-1701"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a"
+    ],
+    "source_record_ids": [
+      "links-0379",
+      "links-0380",
+      "links-0381",
+      "links-1701"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a",
+          "Plant Name": "Alternanthera sessilis",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alternanthera sessilis",
+        "source_record_id": "links-0379",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a",
+          "Plant Name": "Alternanthera sessilis (Linn.) R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alternanthera sessilis (Linn.) R. Br.",
+        "source_record_id": "links-0380",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a",
+          "Plant Name": "Alternanthera sessilis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alternanthera sessilis Linn.",
+        "source_record_id": "links-0381",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a",
+          "Plant Name": "Alternanthera sessilis Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alternanthera sessilis Br.",
+        "source_record_id": "links-1701",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a"
+      }
+    ],
+    "source_xplant_id": "b1f3091dde540ab224f51a6d7eded07a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

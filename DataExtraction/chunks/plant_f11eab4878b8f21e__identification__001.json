@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_f11eab4878b8f21e__identification__001",
+  "plant_id": "plant_f11eab4878b8f21e",
+  "plant_name": "Clerodendrum serratum",
+  "botanical_name": "Clerodendrum serratum",
+  "botanical_authority": "(L.) MOON",
+  "family": "VERBENACEAE",
+  "section": "identification",
+  "content": "Plant name: Clerodendrum serratum Botanical name: Clerodendrum serratum Botanical authority: (L.) MOON Family: VERBENACEAE Source xplant ID: 6899e21f6e238d27f39d9e28e5e5fdf0",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6899e21f6e238d27f39d9e28e5e5fdf0"
+  ],
+  "source_record_ids": [
+    "links-0301",
+    "links-0307",
+    "links-0313"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6899e21f6e238d27f39d9e28e5e5fdf0"
+    ],
+    "source_record_ids": [
+      "links-0301",
+      "links-0307",
+      "links-0313"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6899e21f6e238d27f39d9e28e5e5fdf0",
+          "Plant Name": "Clerodendrum serratum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clerodendrum serratum",
+        "source_record_id": "links-0301",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6899e21f6e238d27f39d9e28e5e5fdf0"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6899e21f6e238d27f39d9e28e5e5fdf0",
+          "Plant Name": "Clerodendrum serratum (Linn.) Moon",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clerodendrum serratum (Linn.) Moon",
+        "source_record_id": "links-0307",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6899e21f6e238d27f39d9e28e5e5fdf0"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6899e21f6e238d27f39d9e28e5e5fdf0",
+          "Plant Name": "Clerodendrum serratum (Linn.)Moon.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clerodendrum serratum (Linn.)Moon.",
+        "source_record_id": "links-0313",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6899e21f6e238d27f39d9e28e5e5fdf0"
+      }
+    ],
+    "source_xplant_id": "6899e21f6e238d27f39d9e28e5e5fdf0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

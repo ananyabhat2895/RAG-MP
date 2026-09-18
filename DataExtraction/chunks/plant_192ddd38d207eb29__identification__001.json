@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_192ddd38d207eb29__identification__001",
+  "plant_id": "plant_192ddd38d207eb29",
+  "plant_name": "Sesbania grandiflora (Linn.) Pers.",
+  "botanical_name": "Sesbania grandiflora",
+  "botanical_authority": "(L.) POIRET",
+  "family": "FABACEAE",
+  "section": "identification",
+  "content": "Plant name: Sesbania grandiflora (Linn.) Pers. Botanical name: Sesbania grandiflora Botanical authority: (L.) POIRET Family: FABACEAE Source xplant ID: 69094b6f1ba1d0b9964388ec214b1e16",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69094b6f1ba1d0b9964388ec214b1e16"
+  ],
+  "source_record_ids": [
+    "links-0016",
+    "links-0017"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69094b6f1ba1d0b9964388ec214b1e16"
+    ],
+    "source_record_ids": [
+      "links-0016",
+      "links-0017"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69094b6f1ba1d0b9964388ec214b1e16",
+          "Plant Name": "Sesbania grandiflora (Linn.) Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesbania grandiflora (Linn.) Pers.",
+        "source_record_id": "links-0016",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69094b6f1ba1d0b9964388ec214b1e16"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69094b6f1ba1d0b9964388ec214b1e16",
+          "Plant Name": "Sesbania grandiflora Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesbania grandiflora Pers.",
+        "source_record_id": "links-0017",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69094b6f1ba1d0b9964388ec214b1e16"
+      }
+    ],
+    "source_xplant_id": "69094b6f1ba1d0b9964388ec214b1e16",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

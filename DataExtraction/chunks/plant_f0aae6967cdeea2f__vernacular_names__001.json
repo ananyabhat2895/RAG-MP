@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_f0aae6967cdeea2f__vernacular_names__001",
+  "plant_id": "plant_f0aae6967cdeea2f",
+  "plant_name": "Coffea arabica Linn.",
+  "botanical_name": "Coffea arabica",
+  "botanical_authority": "L.",
+  "family": "RUBIACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): arabian coffee, arabica coffee, coffee\nHindi (4): bun, caphi, kafi, pilu\nKannada (12): bannu gida, bonda, bonda-bija, bundu, bunnu, bunu, coffee gida, kaaphi, kaphi, kapi, kapi-bija, kappi\nMalayalam (6): bannu, bunnu, kapi, kappi, kappi-karu, kuppu\nMarathi (3): bund, kaaphe, kaphe\nSanskrit (3): Sanskrit CommentsX kaphi, mlechca-phala, rajapiluh\nTamil (18): capie cottay, cilapakakkottai, cilapakam, kapi, kapi-kottai, kapikottai, kappi, kappikkottai, kappikkottaicceti, kopi 2, koppi, koppicceti, patakari, patakarikkottai, ticaipari, ticaiparikkottai, tumpavakakkottai, tumpavakam\nTelugu (6): kaapivittulu, kafi, kapi, kapi-vittulu, kapivittulu, kappi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/709c0f176b4cf579f0e6ce6afc3a0714"
+  ],
+  "source_record_ids": [
+    "links-0926"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/709c0f176b4cf579f0e6ce6afc3a0714"
+    ],
+    "source_record_ids": [
+      "links-0926"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/709c0f176b4cf579f0e6ce6afc3a0714",
+          "Plant Name": "Coffea arabica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Coffea arabica Linn.",
+        "source_record_id": "links-0926",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/709c0f176b4cf579f0e6ce6afc3a0714"
+      }
+    ],
+    "source_xplant_id": "709c0f176b4cf579f0e6ce6afc3a0714",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

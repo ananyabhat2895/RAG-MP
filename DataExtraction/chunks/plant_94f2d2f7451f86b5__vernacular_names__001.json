@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_94f2d2f7451f86b5__vernacular_names__001",
+  "plant_id": "plant_94f2d2f7451f86b5",
+  "plant_name": "Capparis decidua Edgew.",
+  "botanical_name": "Capparis decidua",
+  "botanical_authority": "(FORSK.) EDGEW.",
+  "family": "CAPPARACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (18): kabra, kachra, kair, karel, karel-ka-tel, karer, karia, karil, kario, karir, karira, karu, ker, kerro, kurel, kurrel, lete, satari\nKannada (13): chippuri, cippuri, kaareela, kareera, kareeuppina gida, kari uppigida, kari uppina gida, karira, keraa, kiruli, nispatigay, nispatley gida, shipri\nMalayalam (2): karimulli, karimullu\nMarathi (6): karil, ker, naepathi, naevatho, nepati, nevati\nSanskrit (27): Sanskrit CommentsX apatra, granthila, gudhapatra, kantaki, karaka, karira, karirah, kataphala, krakara, krakatha, krishashakha, mar vidahika, marubharuha, maruruhu, mriduphala, nigudhapatra, nishpatra, nishpatrika, shakapushpa, shatakunta, shonapushpa, suphala, tikshnakantaka, tikshnasara, ubhuruha, ushnasundara, vishvakpatra\nTamil (27): cattiputpam, cattiracoputpam, cinaikaravi, cinaikaravicceti, ciracukkilam, cirakakoli, cirakatantai, cirakkoli, cirakkoli#, cirakkoli@, ciratci, cutakkini, kariram, karyal, kelal, kentikam, kulaladondai, kulalatontai, kuraram, marupurukam 2, palaccaka, sengam, senkam, sirakkali, vayacca, vayaccam, venu\nTelugu (3): enugadanta, kariramu, mumudatu\nTibetan (6): ka ri ra, rgya sna lu, rgya sne u (p & d), u bo ka (d), u po ta ka (p), u po ta ki la\nUrdu (3): ab karir, kachia phal, titali",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/097e59d34e31f548d8c5d40949d1fc74"
+  ],
+  "source_record_ids": [
+    "links-0961"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/097e59d34e31f548d8c5d40949d1fc74"
+    ],
+    "source_record_ids": [
+      "links-0961"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/097e59d34e31f548d8c5d40949d1fc74",
+          "Plant Name": "Capparis decidua Edgew.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Capparis decidua Edgew.",
+        "source_record_id": "links-0961",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/097e59d34e31f548d8c5d40949d1fc74"
+      }
+    ],
+    "source_xplant_id": "097e59d34e31f548d8c5d40949d1fc74",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

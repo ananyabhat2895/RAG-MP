@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_db10d6ce0551714f__bibliography__001",
+  "plant_id": "plant_db10d6ce0551714f",
+  "plant_name": "Cinchona officinalis Linn.",
+  "botanical_name": "Cinchona officinalis",
+  "botanical_authority": "L.",
+  "family": "RUBIACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: title: Title - The Flora of the Palni Hills Vol-2\nBibliography entry: title: Title - MEDICO-ETHNO-BOTANICAL EXPLORATIONS IN SIKKIM HIMALAYAS\nBibliography entry: title: Title - FLORA OF ASSAM",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/27582a317d4ba9f644ce013f81020fba"
+  ],
+  "source_record_ids": [
+    "links-1121"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/27582a317d4ba9f644ce013f81020fba"
+    ],
+    "source_record_ids": [
+      "links-1121"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/27582a317d4ba9f644ce013f81020fba",
+          "Plant Name": "Cinchona officinalis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinchona officinalis Linn.",
+        "source_record_id": "links-1121",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/27582a317d4ba9f644ce013f81020fba"
+      }
+    ],
+    "source_xplant_id": "27582a317d4ba9f644ce013f81020fba",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

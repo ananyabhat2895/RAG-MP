@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_9bd9142c0da0d155__distribution__001",
+  "plant_id": "plant_9bd9142c0da0d155",
+  "plant_name": "Hibiscus cannabinus Linn.",
+  "botanical_name": "Hibiscus cannabinus",
+  "botanical_authority": "L.",
+  "family": "MALVACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - BSI Scientist; distribution: Distribution; title: Title - Flora of West Bengal Vol 1\nDistribution entry: author: Author - Botanicaly Survey of India; distribution: Distribution; title: Title - FLORA OF INDIA VOL 3\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol I\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5ac4ac0df18faf0f3690fcbc62b47bb"
+  ],
+  "source_record_ids": [
+    "links-0094"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5ac4ac0df18faf0f3690fcbc62b47bb"
+    ],
+    "source_record_ids": [
+      "links-0094"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5ac4ac0df18faf0f3690fcbc62b47bb",
+          "Plant Name": "Hibiscus cannabinus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hibiscus cannabinus Linn.",
+        "source_record_id": "links-0094",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5ac4ac0df18faf0f3690fcbc62b47bb"
+      }
+    ],
+    "source_xplant_id": "f5ac4ac0df18faf0f3690fcbc62b47bb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

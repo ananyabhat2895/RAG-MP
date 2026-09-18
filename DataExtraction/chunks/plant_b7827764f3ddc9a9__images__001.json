@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_b7827764f3ddc9a9__images__001",
+  "plant_id": "plant_b7827764f3ddc9a9",
+  "plant_name": "Coscinium fenestratum",
+  "botanical_name": "Coscinium fenestratum",
+  "botanical_authority": "(GAERTN.) COLEB.",
+  "family": "MENISPERMACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e2189aaaa64f74a73704897a2aa88fe"
+  ],
+  "source_record_ids": [
+    "links-0498",
+    "links-0500",
+    "links-0866"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e2189aaaa64f74a73704897a2aa88fe"
+    ],
+    "source_record_ids": [
+      "links-0498",
+      "links-0500",
+      "links-0866"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e2189aaaa64f74a73704897a2aa88fe",
+          "Plant Name": "Coscinium fenestratum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Coscinium fenestratum",
+        "source_record_id": "links-0498",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e2189aaaa64f74a73704897a2aa88fe"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e2189aaaa64f74a73704897a2aa88fe",
+          "Plant Name": "Coscinium fenestratum (Gaertn.) Colebr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Coscinium fenestratum (Gaertn.) Colebr.",
+        "source_record_id": "links-0500",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e2189aaaa64f74a73704897a2aa88fe"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e2189aaaa64f74a73704897a2aa88fe",
+          "Plant Name": "Coscinium fenestratum Colebr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Coscinium fenestratum Colebr.",
+        "source_record_id": "links-0866",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e2189aaaa64f74a73704897a2aa88fe"
+      }
+    ],
+    "source_xplant_id": "7e2189aaaa64f74a73704897a2aa88fe",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

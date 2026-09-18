@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b22ad7aa02ded447__vernacular_names__001",
+  "plant_id": "plant_b22ad7aa02ded447",
+  "plant_name": "Carthamus tinctorius Linn.",
+  "botanical_name": "Carthamus tinctorius",
+  "botanical_authority": "L.",
+  "family": "ASTERACEAE",
+  "section": "vernacular_names",
+  "content": "English (8): american saffron, azafran, bastard safron, dyer s-saffron, false saffron, kurdee, safflower, saffron thistle\nHindi (10): barre, kar, kar; karar-ke-bij, karar-ke-bij, karrah, kasumba, kussum, kusum, kusumba, kusumbar\nKannada (14): kusambe, kusambi-bija, kushibe, kusibe, kusube, kusube enne kaalu, kusubeegida, kusubi, kusumba, kusumbe, kusumbhi, kusume, kusume kaalu, maharajana\nMalayalam (3): centurakam, chendurakam, kuyimpu\nMarathi (11): kadaya, karadayi, karadi, kararhi, kardai, kardi, kasdi, kurdi, kusbo, kusumba, sadhi\nSanskrit (18): Sanskrit CommentsX agnishikha, cusumbha, gramyakunkuma, kamalottara, kamlottama, kukkutashikha, kusamba, kusambabijam, kusumbha, kusumbhah, lohita, maharajana, padmottara, papaka, pita, rakta, vanishikha, vasraranjana\nTamil (35): akkinicekaram 1, araniyakukampam, ayattira, ayattiracceti, cantirakam1, cantirikam, centirikkam, centirukkam, centirukku, centurukkai, centurukkam, centurukku, chendurukam, cilacayacceti, cilacayam, irattakam, kamalottaram, kentakakkoli, kentakakkolicceti, kucumpa, kuntumanikkacceti, kuntumanikkam, kushumba-virai, kusumba, kusumbai, kusumbavirai, paicacattumpili, paicacattumpilicceti, sendoorkum, sendurakam, sendurgam, sendurkam, sendurukkai, senturakam, tumpuravali\nTelugu (10): agni-sikha, agnisikha, kooshumba chettu, koosumbha, kushumba, kusmbe chettu, kusuma, kusuma chettu, kusumba-vittulu, kusumbha\nTibetan (2): le brgan rtsi, le ra na tsi\nUrdu (9): hab qurtum, kar ke bijun ki giri, kurtum, maghz tukhm qurtum, maghz-i-qurtum, qurtum, roghan-i-qurtum, roghan-i-usfar, tukhm kar",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de5ae5c07e6806076e0e5bc72fd89729"
+  ],
+  "source_record_ids": [
+    "links-1145"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de5ae5c07e6806076e0e5bc72fd89729"
+    ],
+    "source_record_ids": [
+      "links-1145"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de5ae5c07e6806076e0e5bc72fd89729",
+          "Plant Name": "Carthamus tinctorius Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Carthamus tinctorius Linn.",
+        "source_record_id": "links-1145",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de5ae5c07e6806076e0e5bc72fd89729"
+      }
+    ],
+    "source_xplant_id": "de5ae5c07e6806076e0e5bc72fd89729",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

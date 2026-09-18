@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d456ce040b71871e__vernacular_names__001",
+  "plant_id": "plant_d456ce040b71871e",
+  "plant_name": "Cyperus amabilis Vahl.",
+  "botanical_name": "Cyperus amabilis",
+  "botanical_authority": "VAHL",
+  "family": "CYPERACEAE",
+  "section": "vernacular_names",
+  "content": "Sanskrit (2): Sanskrit CommentsX jalamustaka, kaivartamustaka",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68cf38ca50b8b154244b86fc05ae2c8e"
+  ],
+  "source_record_ids": [
+    "links-0833"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68cf38ca50b8b154244b86fc05ae2c8e"
+    ],
+    "source_record_ids": [
+      "links-0833"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68cf38ca50b8b154244b86fc05ae2c8e",
+          "Plant Name": "Cyperus amabilis Vahl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cyperus amabilis Vahl.",
+        "source_record_id": "links-0833",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68cf38ca50b8b154244b86fc05ae2c8e"
+      }
+    ],
+    "source_xplant_id": "68cf38ca50b8b154244b86fc05ae2c8e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

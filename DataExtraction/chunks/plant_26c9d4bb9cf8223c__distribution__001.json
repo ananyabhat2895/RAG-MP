@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_26c9d4bb9cf8223c__distribution__001",
+  "plant_id": "plant_26c9d4bb9cf8223c",
+  "plant_name": "Brassica juncea (Linn.) Czern. and Coss.",
+  "botanical_name": "Brassica juncea",
+  "botanical_authority": "(L.) CZERN. var. integrifolia (WEST) SINSKAJA",
+  "family": "BRASSICACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - Botanicaly Survey of India; distribution: Distribution; title: Title - FLORA OF INDIA VOL 2\nDistribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca"
+  ],
+  "source_record_ids": [
+    "links-1080",
+    "links-1589"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca"
+    ],
+    "source_record_ids": [
+      "links-1080",
+      "links-1589"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca",
+          "Plant Name": "Brassica juncea (Linn.) Czern. and Coss.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Brassica juncea (Linn.) Czern. and Coss.",
+        "source_record_id": "links-1080",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca",
+          "Plant Name": "Brassica juncea Czern & Coss.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Brassica juncea Czern & Coss.",
+        "source_record_id": "links-1589",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca"
+      }
+    ],
+    "source_xplant_id": "35b1b446f9c1865523515bc7cb4315ca",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

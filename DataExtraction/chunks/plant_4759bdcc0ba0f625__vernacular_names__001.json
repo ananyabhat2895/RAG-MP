@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_4759bdcc0ba0f625__vernacular_names__001",
+  "plant_id": "plant_4759bdcc0ba0f625",
+  "plant_name": "Merremia emarginata (Burm.f.) Hallier f.",
+  "botanical_name": "Merremia emarginata",
+  "botanical_authority": "(BURM.F.) HALL.F.",
+  "family": "CONVOLVULACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): rats ear\nHindi (3): musakani, musakari, mushakani\nKannada (6): althi gida, elikivi soppu, ilikivi soppu, mooshikaparni, thigade, valliharuhi\nMalayalam (1): eliccevi\nMarathi (2): umdrakani, underkani\nSanskrit (47): Sanskrit CommentsX adibhu, akhukarni, akhuparni, akhuparnika, bahukarnika, bahupadika, bhudaribhava, bhudharashraya, bhudharasrya, bhumichari, chandaa, chitra, darduraparnika, dravanti, elikkatukkirai, krishika, mata, mekaparni, mooshakarni, musakarni, mushakaparni, mushakarni, mushikavhaya, musikahvaya, musikakarni, musikaparni, nyagrodhi, parnika, patrashreni, perattaikkirai, phanjipatrika, pratiparnashipha, pratyashreni, putrashreni, randa, sahasramushi, shambari, shatamulika, sukarnika, suvarni, undurkarni, undurukarni, undurukarnika, upchitra, vikranta, vrishaparni, vrishchikakarni\nTamil (51): akatilai 2, akukarni, campari, cikappueliccevikkirai, civappeliccevi, eliccevi, eliccevikkirai, eliccevipputu, elikadilai, elikkadhu-keerai, elikkadilai, elikkatilai, elikkatu, elikkatu tutti, elikkatukirai, elikkatukkirai, irumpakakkirai, irumpakam, iyarram, kalakannikkirai, kappuka, kappukakkirai, katteliccevi 1, katteliccevikkirai, kiruminacani, mapali, mapaliccevikkirai, musakakarni, musakaparni, musikkay, mutikkirai, nakatorani, nakatoranikkirai, nemi, nilakkuntal, nilakkuntarkirai, paerattaekirae perretay-kiray, parattai, pavalaccevikkirai, pavanaveliccevi, perattaikkirai, peratti-k-kirai, perattikirai, perettaikkirai, perettaikkiray, piramekacatarokkiyam, pirattaikkirai, putticcireni, tiravanti, turaki, yelikkaadhukeerai\nTelugu (4): elika jimudu, elikajemudu, toinnuatali, yelaka jeevi aaku\nTibetan (1): mu sa ka ka rni\nUrdu (3): marzanjosh, mirzan josh, mirzanjosh",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd/xclkon/919accc8f51788781ae03eef778e1b23"
+  ],
+  "source_record_ids": [
+    "links-0060",
+    "links-0062",
+    "links-1338"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd/xclkon/919accc8f51788781ae03eef778e1b23"
+    ],
+    "source_record_ids": [
+      "links-0060",
+      "links-0062",
+      "links-1338"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd",
+          "Plant Name": "Merremia emarginata (Burm.f.) Hallier f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Merremia emarginata (Burm.f.) Hallier f.",
+        "source_record_id": "links-0060",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd",
+          "Plant Name": "Merremia emarginata (Burm.f.) Hallier.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Merremia emarginata (Burm.f.) Hallier.f.",
+        "source_record_id": "links-0062",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd/xclkon/919accc8f51788781ae03eef778e1b23",
+          "Plant Name": "Ipomoea reniformis Chois.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ipomoea reniformis Chois.",
+        "source_record_id": "links-1338",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd/xclkon/919accc8f51788781ae03eef778e1b23"
+      }
+    ],
+    "source_xplant_id": "f914465bab5b5ed0307908b9d8856abd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

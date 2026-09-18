@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_89ab3fa0d8479093__vernacular_names__001",
+  "plant_id": "plant_89ab3fa0d8479093",
+  "plant_name": "Lawsonia inermis Linn.",
+  "botanical_name": "Lawsonia inermis",
+  "botanical_authority": "L.",
+  "family": "LYTHRACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): henna\nHindi (7): hena, henna, mahendi, mehandi, mehanti, mehndi, mhindi\nKannada (15): goranta, gorante, goranthu, goranti, goranti bannada gida, gorantlu, honnu balli, koranti, korate, madaranga, madarangi, madirengi, madurangi, madurengi, mardaani soppu\nMalayalam (16): mail-anschi, mailanchi, mailanci, mailanji, mailanschi, manjathi, marutonni, mauilanchi, mayilanchi, mayilanci, mayilanji, pontalasi, pontaletsche, poyitalace, poytalacci, puttalacci\nMarathi (6): mehandi, mehndi, mendhi, mendi, padchi-methi, panwar\nSanskrit (24): Sanskrit CommentsX dvivranta, kokadanta, kuravaka, madanaka, madayanti, madayantika, medhini, medika, mendhi, mendhika, mendi, mendika, nakharanjaka, nakharanjani, ragagarbha, ragangi, raktagarba, ranjaka, sahashara, sakachara, sakachera, sugandhapushpa, timira, yavaneshta\nTamil (74): aivanam, aivanam#, aivani, aivanimaram, aiyavani, alakuvannatti, alavan, alavanam, azhavanam, cairiyakam1, cakacari1, cakacarikam, cakacarimaram, cakaci, caranam2, carvatamuli, cempi#, cempi@, cemputam, henna, korandam, korantam3, kotiyavisatti, kotuvisatti, kurandagam, kurantakam, kurantam, kuravakam, kurinci2, kurinji, mailenanti, mali, malikai 2, maratani, marithondi, maroodanie, marudondri, marudonri, marutani, marutani@, marutenai, maruthani, maruthanri, maruthondri, maruthonri, marutoni, marutonimaram, marutonri, marutonti, mayilainanti, menti 1, mentikai 1, mettavisatti, niliyam, niliyamaram, pavalakkurinci 2, pidai, ponninpuvalamarudondri, ponnirppuvalamarutonri, ponvannakkurinci, ruttirakopam, ruttirakoppamaram, tanri, tanri@, toni, tonimaram, tonri1, tonrimaram, uruttirakopam, uyarvannatti, vakuntaki, vakuntakimaram, valaiyamali, vanakkanni\nTelugu (25): gaumba, goeranta, goounta, gorandla, goranta, goranti, gorata, gorinta, gorintaaku, gorintaku, gorintha, gounta, guvanta, kommi, krommi, kuravakam, kuravakamu, kuravamu, maida, maidaaku, paccapeddagoranta, pachapeddagoranta, pachchapeddagoranta, pachhapeddagoranta, peddapattsagoranta\nTibetan (1): ma du ya nta\nUrdu (13): burg hena, burg hena khushk, burg henna saida, burg nim, burge hena, burrg henna, hina, mehendi, mehndi, mehndi ke pattey, mehndi ke sabz pattay, menhdi, tukhm panwar",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5"
+  ],
+  "source_record_ids": [
+    "links-0687"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5"
+    ],
+    "source_record_ids": [
+      "links-0687"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5",
+          "Plant Name": "Lawsonia inermis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lawsonia inermis Linn.",
+        "source_record_id": "links-0687",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5"
+      }
+    ],
+    "source_xplant_id": "87ff7185526f449e897125584c3d7fe5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_fc7112f4b27a3a4e__distribution__001",
+  "plant_id": "plant_fc7112f4b27a3a4e",
+  "plant_name": "Lens culinaris Medic.",
+  "botanical_name": "Lens culinaris",
+  "botanical_authority": "MEDIC.",
+  "family": "FABACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol I\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e6e9064b1e2255ae069f638135e0d46"
+  ],
+  "source_record_ids": [
+    "links-1263"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e6e9064b1e2255ae069f638135e0d46"
+    ],
+    "source_record_ids": [
+      "links-1263"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e6e9064b1e2255ae069f638135e0d46",
+          "Plant Name": "Lens culinaris Medic.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lens culinaris Medic.",
+        "source_record_id": "links-1263",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e6e9064b1e2255ae069f638135e0d46"
+      }
+    ],
+    "source_xplant_id": "5e6e9064b1e2255ae069f638135e0d46",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

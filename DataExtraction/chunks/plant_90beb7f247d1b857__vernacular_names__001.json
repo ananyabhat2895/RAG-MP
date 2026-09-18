@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_90beb7f247d1b857__vernacular_names__001",
+  "plant_id": "plant_90beb7f247d1b857",
+  "plant_name": "Corchorus olitorius Linn.",
+  "botanical_name": "Corchorus olitorius",
+  "botanical_authority": "L.",
+  "family": "TILIACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): jew s mallow, tossa jute\nHindi (7): chamghas, jute, koshta, mithapat, pata, rajaan, singinjanascha\nKannada (4): chunchali gida, dodda chunchala gida, kaadu senabu, kadusenabu\nMarathi (5): banpat, chinch, chunch, mote chunch, motichunch\nSanskrit (13): Sanskrit CommentsX brihatchanchu, dirghapatri, divyagandha, kalasa, mahachanchu, nadika, nalika, patta, sing-gika, singgika, sthulachanchu, suchanchuka, vishari\nTamil (14): kattuttutti, konkaramacu, konkaramacukkirai2, natikam, peratti, peratti-kirai, perattikkirai, perumpinnak kukkirai, pinnakkukkirai@, pirattaikkirai, pirattikkirai, punaku, purattikkirai, sanal\nTelugu (5): janumu, parinta, parinta koora, parinta kura, parintakura",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2e597b3619ea7550c30df72f5aba9fe"
+  ],
+  "source_record_ids": [
+    "links-0409"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2e597b3619ea7550c30df72f5aba9fe"
+    ],
+    "source_record_ids": [
+      "links-0409"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2e597b3619ea7550c30df72f5aba9fe",
+          "Plant Name": "Corchorus olitorius Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Corchorus olitorius Linn.",
+        "source_record_id": "links-0409",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2e597b3619ea7550c30df72f5aba9fe"
+      }
+    ],
+    "source_xplant_id": "f2e597b3619ea7550c30df72f5aba9fe",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

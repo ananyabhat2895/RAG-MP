@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b9d6c5b0984e8eaa__images__001",
+  "plant_id": "plant_b9d6c5b0984e8eaa",
+  "plant_name": "Calophyllum inophyllum Linn.",
+  "botanical_name": "Calophyllum inophyllum",
+  "botanical_authority": "L.",
+  "family": "CLUSIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/63361b942f516ca1f261db839c74d854"
+  ],
+  "source_record_ids": [
+    "links-1353"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/63361b942f516ca1f261db839c74d854"
+    ],
+    "source_record_ids": [
+      "links-1353"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/63361b942f516ca1f261db839c74d854",
+          "Plant Name": "Calophyllum inophyllum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Calophyllum inophyllum Linn.",
+        "source_record_id": "links-1353",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/63361b942f516ca1f261db839c74d854"
+      }
+    ],
+    "source_xplant_id": "63361b942f516ca1f261db839c74d854",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

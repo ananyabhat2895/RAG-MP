@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_cefa87d5df1efa1f__distribution__001",
+  "plant_id": "plant_cefa87d5df1efa1f",
+  "plant_name": "Acacia concinna D. C.",
+  "botanical_name": "Acacia sinuata",
+  "botanical_authority": "(LOUR.) MERR.",
+  "family": "MIMOSACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/a5a87d4f4fba45600d69867dfb39d481"
+  ],
+  "source_record_ids": [
+    "links-1731",
+    "links-1732"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/a5a87d4f4fba45600d69867dfb39d481"
+    ],
+    "source_record_ids": [
+      "links-1731",
+      "links-1732"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/a5a87d4f4fba45600d69867dfb39d481",
+          "Plant Name": "Acacia concinna D. C.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Acacia concinna D. C.",
+        "source_record_id": "links-1731",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/a5a87d4f4fba45600d69867dfb39d481"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/a5a87d4f4fba45600d69867dfb39d481",
+          "Plant Name": "Acacia concinna DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Acacia concinna DC.",
+        "source_record_id": "links-1732",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/a5a87d4f4fba45600d69867dfb39d481"
+      }
+    ],
+    "source_xplant_id": "f07e3b8351810aafdef5ffd5c917230f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

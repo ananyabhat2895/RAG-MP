@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_337d66add0ffe6ad__distribution__001",
+  "plant_id": "plant_337d66add0ffe6ad",
+  "plant_name": "Amaranthus blitum var. oleracea Duthie",
+  "botanical_name": "Amaranthus lividus",
+  "botanical_authority": "L.",
+  "family": "AMARANTHACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29694d8ade41a4c643a021f40fb8862d/xclkon/0080a8f062f06ce4b916c41865ca29d1"
+  ],
+  "source_record_ids": [
+    "links-1249",
+    "links-1251",
+    "links-1252"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29694d8ade41a4c643a021f40fb8862d/xclkon/0080a8f062f06ce4b916c41865ca29d1"
+    ],
+    "source_record_ids": [
+      "links-1249",
+      "links-1251",
+      "links-1252"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29694d8ade41a4c643a021f40fb8862d/xclkon/0080a8f062f06ce4b916c41865ca29d1",
+          "Plant Name": "Amaranthus blitum var. oleracea Duthie",
+          "Status": "Found"
+        },
+        "source_plant_name": "Amaranthus blitum var. oleracea Duthie",
+        "source_record_id": "links-1249",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29694d8ade41a4c643a021f40fb8862d/xclkon/0080a8f062f06ce4b916c41865ca29d1"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29694d8ade41a4c643a021f40fb8862d/xclkon/0080a8f062f06ce4b916c41865ca29d1",
+          "Plant Name": "Amaranthus blitum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Amaranthus blitum Linn.",
+        "source_record_id": "links-1251",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29694d8ade41a4c643a021f40fb8862d/xclkon/0080a8f062f06ce4b916c41865ca29d1"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29694d8ade41a4c643a021f40fb8862d/xclkon/0080a8f062f06ce4b916c41865ca29d1",
+          "Plant Name": "Amaranthus blitum Linn. var. oleracea Duthie",
+          "Status": "Found"
+        },
+        "source_plant_name": "Amaranthus blitum Linn. var. oleracea Duthie",
+        "source_record_id": "links-1252",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29694d8ade41a4c643a021f40fb8862d/xclkon/0080a8f062f06ce4b916c41865ca29d1"
+      }
+    ],
+    "source_xplant_id": "29694d8ade41a4c643a021f40fb8862d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

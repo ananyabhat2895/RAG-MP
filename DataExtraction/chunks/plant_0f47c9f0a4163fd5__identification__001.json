@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_0f47c9f0a4163fd5__identification__001",
+  "plant_id": "plant_0f47c9f0a4163fd5",
+  "plant_name": "Jasminum sambac Ait.",
+  "botanical_name": "Jasminum sambac",
+  "botanical_authority": "(L.) AIT.",
+  "family": "OLEACEAE",
+  "section": "identification",
+  "content": "Plant name: Jasminum sambac Ait. Botanical name: Jasminum sambac Botanical authority: (L.) AIT. Family: OLEACEAE Source xplant ID: 1bdc4942b0b3c49e17f20da87a4ec52a",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1bdc4942b0b3c49e17f20da87a4ec52a"
+  ],
+  "source_record_ids": [
+    "links-1239",
+    "links-1240"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1bdc4942b0b3c49e17f20da87a4ec52a"
+    ],
+    "source_record_ids": [
+      "links-1239",
+      "links-1240"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1bdc4942b0b3c49e17f20da87a4ec52a",
+          "Plant Name": "Jasminum sambac Ait.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Jasminum sambac Ait.",
+        "source_record_id": "links-1239",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1bdc4942b0b3c49e17f20da87a4ec52a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1bdc4942b0b3c49e17f20da87a4ec52a",
+          "Plant Name": "Jasminum sambac Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Jasminum sambac Linn.",
+        "source_record_id": "links-1240",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1bdc4942b0b3c49e17f20da87a4ec52a"
+      }
+    ],
+    "source_xplant_id": "1bdc4942b0b3c49e17f20da87a4ec52a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

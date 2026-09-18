@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b371cf428be7c07e__vernacular_names__001",
+  "plant_id": "plant_b371cf428be7c07e",
+  "plant_name": "Mollugo hirta Thunb.",
+  "botanical_name": "Glinus lotoides",
+  "botanical_authority": "L.",
+  "family": "AIZOACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (7): badka, bakada, dholakani, gandhi-buti, gandhi-butti, hata, matter\nKannada (4): chandra kaasi soppu, chandrakaasi soppu, chandrakkasi soppu, kaage purale gida\nMarathi (2): kadi-bhaji, kotak\nSanskrit (3): Sanskrit CommentsX bhissata, okharadi, ushandi\nTamil (50): amucakam, amucam, anceruppatai, atai1, ati@, attanpatani, attanpullati, attilai, carati, caratippatai, ceruppa tai, ceruppatai, ceruppati, ceruppatinayan, ceruppu, ceruppukkal, cheruppadai, circuceruppatai, cirrilaippatam, cirruceruppatai, ciru ceruppati, ciruceruppatai, ciruceruppati, cori, cuntari1, karcurampa, karcurampacceti, kiritacuntari, kiritmacuntari, kirittumacuntari, kotaivacani, kotaivakali, kotaivakani, muttalaicatticceti, muttalaiccatti, paracatci, patavai, patavaikkoti, patukai, perumanti, piramitiyakkoti, piramitiyam, siru seruppadai, siru-cheruppadai, siruseruppadai, talaiviriccan1, talaivirittan1, tampirappiriyam, tekaccoti, utaiyam\nTelugu (4): chadrasi koora, chadrasikoora, thella poraku, thella puni",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/cec6d03d0e1bbe969c56f2e457d35f35"
+  ],
+  "source_record_ids": [
+    "links-1457"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/cec6d03d0e1bbe969c56f2e457d35f35"
+    ],
+    "source_record_ids": [
+      "links-1457"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/cec6d03d0e1bbe969c56f2e457d35f35",
+          "Plant Name": "Mollugo hirta Thunb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mollugo hirta Thunb.",
+        "source_record_id": "links-1457",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/cec6d03d0e1bbe969c56f2e457d35f35"
+      }
+    ],
+    "source_xplant_id": "67349d031267ee6d717be88c91b873eb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

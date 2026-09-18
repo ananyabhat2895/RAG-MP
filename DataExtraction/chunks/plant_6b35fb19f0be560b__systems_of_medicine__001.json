@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_6b35fb19f0be560b__systems_of_medicine__001",
+  "plant_id": "plant_6b35fb19f0be560b",
+  "plant_name": "Kalanchoe integra (Medic) Kutze.",
+  "botanical_name": "Kalanchoe integra",
+  "botanical_authority": "(MEDIK.) KUNTZE.",
+  "family": "CRASSULACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Folk Botanical Synonyms (1) - Kalanchoe spathulata DC. X Full Botanical citation - Kalanchoe spathulata DC.\nSystem of medicine: Pl. Hist. Succ. t. 65. 1811; N.P.Singh &al.\nSystem of medicine: Fl.Maharashtra State\nSystem of medicine: Dicotyledones\nSystem of medicine: 1: Fl.India Ser. 2: 840. 2000.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/26abd53a61097e10227894fe3bc79223"
+  ],
+  "source_record_ids": [
+    "links-1444"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/26abd53a61097e10227894fe3bc79223"
+    ],
+    "source_record_ids": [
+      "links-1444"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/26abd53a61097e10227894fe3bc79223",
+          "Plant Name": "Kalanchoe integra (Medic) Kutze.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Kalanchoe integra (Medic) Kutze.",
+        "source_record_id": "links-1444",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/26abd53a61097e10227894fe3bc79223"
+      }
+    ],
+    "source_xplant_id": "26abd53a61097e10227894fe3bc79223",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

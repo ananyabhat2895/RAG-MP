@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_cc1372c9f3b64183__vernacular_names__001",
+  "plant_id": "plant_cc1372c9f3b64183",
+  "plant_name": "Limonia crenulata Roxb.",
+  "botanical_name": "Naringi crenulata",
+  "botanical_authority": "(ROXB.) NICOLSON",
+  "family": "RUTACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (4): barhani, beli, belsion, bilam\nKannada (20): aranamullu, aruna mullu, arunamullu, betaruhi, kaadu baela, kaadu nimba, kaat nimma, kaavata, kaaveta, kadubela, kadubilvapatri, kadunimba, kawat, naayi baela, naayi naarangi, naayi nimbe, naibel, naibela, nayibel, nayibullal\nMalayalam (4): kattunarakan, nilanaragam, serukattunarakan, tsjerou-katou-naregam\nMarathi (4): kawat, naaibel, naibel, tondsha\nSanskrit (3): Sanskrit CommentsX bilvaparni, surasi, vilvaparni\nTamil (23): billuvamaram, iyalputikam1, kattelumiccai1, kattu-elimichai, kattuelimichai, kattuvila, kirumikuttavisapakam, kurangu, kurankam1, kuranku2, kurrivila, kuttivila, kuttivila1, magavilvam, makavilvam, naga vilvam, nalvala, narivala, nayelumiccai, nayelumichai, nayvila, nilaver, nilavila1\nTelugu (18): kukka velaga, kukkavelaga, kukkavelanga, munukudu, thollivelam, thorelaga, thorravelaga, thorri yelaga, thorrivelaga, thottelaga, tollivellam, tor-elaga, toralaga, tore-elaga, torelaga, torrelaga, torri velaga, tottelaga",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88b6416bfbb3910dc4dbcde8c2703e96/xclkon/0312fbdd9006634079d7473884dd4c7d"
+  ],
+  "source_record_ids": [
+    "links-0360"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88b6416bfbb3910dc4dbcde8c2703e96/xclkon/0312fbdd9006634079d7473884dd4c7d"
+    ],
+    "source_record_ids": [
+      "links-0360"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88b6416bfbb3910dc4dbcde8c2703e96/xclkon/0312fbdd9006634079d7473884dd4c7d",
+          "Plant Name": "Limonia crenulata Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Limonia crenulata Roxb.",
+        "source_record_id": "links-0360",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88b6416bfbb3910dc4dbcde8c2703e96/xclkon/0312fbdd9006634079d7473884dd4c7d"
+      }
+    ],
+    "source_xplant_id": "88b6416bfbb3910dc4dbcde8c2703e96",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

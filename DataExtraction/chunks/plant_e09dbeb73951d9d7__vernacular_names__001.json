@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_e09dbeb73951d9d7__vernacular_names__001",
+  "plant_id": "plant_e09dbeb73951d9d7",
+  "plant_name": "Carum copticum Benth. Hook.f.",
+  "botanical_name": "Trachyspermum ammi",
+  "botanical_authority": "(L.) SPRAGUE",
+  "family": "APIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): ajowan\nHindi (5): ajowan, ajuan, ajwain, jawain, owa\nKannada (7): ajamoda, ajamola, ajamoola, ajvaana, oma, omu, voma\nMalayalam (2): ayamodakam, homam\nMarathi (4): ajwan, onva, owa, vova\nSanskrit (36): Sanskrit CommentsX agnivardhini, agniverdhana, ajamoda, ajamodika, ajamojah, ajmada, ajmodum, bhukadambaka, bhumikadambaka, bhutika, bhutikah, brahmadarbha, deepyaka, dipani, dipya, dipyaka, dipyakah, hridya, javani, kharahva, kshetrayavanika, shulahantri, tikshnagandha, tivragandha, ugra, ugragandha, vatari, yamani, yamanika, yavagraja, yavajadipaniya, yavanaka, yavani, yavanika, yavasavha, yavavha\nTamil (85): acam, acamam, acamatakam, acamatam, acamotai, acamotakam 2, acamotam, acamotam 2, acatti 2, akkinicantam, amam, arampai, arampaikkani, ariyavaciyam, asamadam, attimai 1, catakuppi, cirani#, cirani@, cirati, ciraticceti, emanacacceti, emanacam, emanakam 2, erivakal 2, evakanam, evani, evankacceti, evankam 2, evankanam 2, ilacamattakam, incikaicceti, iyavani, karavi 1, kiruminacam 1, komari, komarimotam, kuros niomam, kuruvacam, mancil, mari, motakam 2, motam, navalukam, navanakam, navanakam 2, navancam@, okkam 2, omam, oman, omattuvayam 1, omum, onkan, pantukam 2, pariyacam#, pariyacam@, tattilam, ticakam, tikacam, tikaccam, tipani 1, tipini 1, tippiyacceti#, tippiyacceti@, tippiyakam, tippiyam, tippiyam 1, tirikipokki, ukkirakantai, ukkirakantam 1, ulocamattakam, ulokamattam, vani#, vani@, vitipali, womum, yamani, yavani#, yavani@, yavanikai#, yavanikai@, yavanikam, yevani, yevanicceti, yupam\nTelugu (5): omaan, omami, omamu, oman, vamu\nTibetan (4): la la bud, la la phud, la la phud (p & d), la-la-phud\nUrdu (7): ajowain, ajwain, ajwain desi, ajwain desi nim kofta, ajwan, ajwayin (nankhwah), nankhwah (ajwayin)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c/xclkon/b9563e0efa57c18349269948ab02c075",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c"
+  ],
+  "source_record_ids": [
+    "links-2138",
+    "links-2139"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c/xclkon/b9563e0efa57c18349269948ab02c075",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c"
+    ],
+    "source_record_ids": [
+      "links-2138",
+      "links-2139"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c/xclkon/b9563e0efa57c18349269948ab02c075",
+          "Plant Name": "Carum copticum Benth. Hook.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Carum copticum Benth. Hook.f.",
+        "source_record_id": "links-2138",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c/xclkon/b9563e0efa57c18349269948ab02c075"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c",
+          "Plant Name": "Trachyspermum ammi (Linn.) Sprague",
+          "Status": "Found"
+        },
+        "source_plant_name": "Trachyspermum ammi (Linn.) Sprague",
+        "source_record_id": "links-2139",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c"
+      }
+    ],
+    "source_xplant_id": "30456577a3723bdb91e400b8b7993f8c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_db2bd538d81a7ea9__bibliography__001",
+  "plant_id": "plant_db2bd538d81a7ea9",
+  "plant_name": "Melia composita Willd.",
+  "botanical_name": "Melia dubia",
+  "botanical_authority": "HIERN, NON CAV.",
+  "family": "MELIACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - ANONYMOUS; title: Title - PHARMACOGNOSY OF AYURVEDIC DRUGS NOS. 01 & 02\nBibliography entry: author: Author - VAIDYA D.K. KAMAT; title: Title - STUDIES ON MEDICINAL PLANTS IN DHANVANTARIYA NIGHANTU VOL.1\nBibliography entry: title: Title - FLORA OF ASSAM\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I\nBibliography entry: title: Title - Flora of Gujarat State Vol 1\nBibliography entry: title: Title - The Flora of Kerala Vol I\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-2\nBibliography entry: title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nBibliography entry: title: Title - The Flora of Orissa Volume 1\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c6a389f01cb3f8ebfa0be70fe987c25/xclkon/2053988d906a6e8680160aecd49c0c8d"
+  ],
+  "source_record_ids": [
+    "links-1230"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c6a389f01cb3f8ebfa0be70fe987c25/xclkon/2053988d906a6e8680160aecd49c0c8d"
+    ],
+    "source_record_ids": [
+      "links-1230"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c6a389f01cb3f8ebfa0be70fe987c25/xclkon/2053988d906a6e8680160aecd49c0c8d",
+          "Plant Name": "Melia composita Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Melia composita Willd.",
+        "source_record_id": "links-1230",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c6a389f01cb3f8ebfa0be70fe987c25/xclkon/2053988d906a6e8680160aecd49c0c8d"
+      }
+    ],
+    "source_xplant_id": "3c6a389f01cb3f8ebfa0be70fe987c25",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

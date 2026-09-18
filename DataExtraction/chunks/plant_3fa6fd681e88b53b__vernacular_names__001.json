@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_3fa6fd681e88b53b__vernacular_names__001",
+  "plant_id": "plant_3fa6fd681e88b53b",
+  "plant_name": "Elephantopus scaber Linn.",
+  "botanical_name": "Elephantopus scaber",
+  "botanical_authority": "L.",
+  "family": "ASTERACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (2): adhomukha, gobhi\nKannada (14): aane gida, aane kaalu gida, aanekaalu gida, aetthina naalige gida, gojihwa, hakkarike, hastipaada, naayi naalige gida, naayi nalige gida, nelaganagalu, nelamucchala, nelamucchilu, yetthina naalige gida, yulu naalige\nMalayalam (3): ana-schovadi, anaccuvati, anayatiyan\nMarathi (5): gayjib, gojeebh, hasthipaad, hatipay, pathari\nSanskrit (24): Sanskrit CommentsX adhomukha, anadujivha, bahuputra, barhisikha, darvi, darvika, darvipatrika, gobhi, gojee, goji, gojihba, gojihiva, gojihva, gojihwa, gojivha, gojivhika, hastipadi, hdhapushpi, kharaparni, kharapatri, kurasa, mayurasikha, satamulika, vatona\nTamil (22): ana-shovadi, anaicceviyati, anaiccivatai, anaiccuvatu, anaichovadi, anaikkalmuli, anaikkatilai, anaiyati, anaiyatippaccilai, anashavadi, anashovadi, anasvati, anattuccivan, attikkarcuvati, attikkarcuvatu, attiniccuvati, yanai-c-cuvati, yanaiccuvati, yanaikkalippuntu, yanaikkalmuli, yanaikkarcuvati, yanaikkarputu\nTelugu (6): eddumalikechettu, eddunaalikechettu, enugabira, hasthikasaka, hastikasaka, hustikasaka",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d033dab259cf3199674520640011fbcc"
+  ],
+  "source_record_ids": [
+    "links-0293",
+    "links-0621"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d033dab259cf3199674520640011fbcc"
+    ],
+    "source_record_ids": [
+      "links-0293",
+      "links-0621"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d033dab259cf3199674520640011fbcc",
+          "Plant Name": "Elephantopus scaber Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Elephantopus scaber Linn.",
+        "source_record_id": "links-0293",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d033dab259cf3199674520640011fbcc"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d033dab259cf3199674520640011fbcc",
+          "Plant Name": "Elephantopus scaber",
+          "Status": "Found"
+        },
+        "source_plant_name": "Elephantopus scaber",
+        "source_record_id": "links-0621",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d033dab259cf3199674520640011fbcc"
+      }
+    ],
+    "source_xplant_id": "d033dab259cf3199674520640011fbcc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

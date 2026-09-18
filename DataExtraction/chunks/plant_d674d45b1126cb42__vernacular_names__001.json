@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d674d45b1126cb42__vernacular_names__001",
+  "plant_id": "plant_d674d45b1126cb42",
+  "plant_name": "Wrightia tomentosa Roem. & Schult.",
+  "botanical_name": "Wrightia arborea",
+  "botanical_authority": "(DENNST.) MABB.",
+  "family": "APOCYNACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (8): beri khinna, daira, darula, dharauli, dudhi, khalawa, meetha kuda, summa\nKannada (16): benkee gida, beppale, bili kendra kanigale, bilikude gida, bilikudegidda kadunagalu, haladi beppaale, kaadu ganagalu, kaadu janagalu, kaadu kanaigalu, kaadu veppaale, kaadu veppale, kaadunagalu, kaduganagalu, kaduveppale, kodsige, vepala\nMalayalam (9): ayyappala, kutakappala, mailampala, mayilapala, mylampala, nelampala, nelem-pala, nettampala, nilampala\nMarathi (9): aqto-kudo, kaala inderjau, kalainderjau, laalkudayi, pandu-kura, tambdo-kudo, tamdakura, tembda-kuda, thamdakura\nSanskrit (4): Sanskrit CommentsX kutaja, kutajah, kutajastri, strikutaja\nTamil (11): conai vetpalai, karupaalai, pala, palai, sonaivetpalai, thonthapala, todampalai, tondambalai, tondampalai, veppalai, vetpalai\nTelugu (31): adaviankudu, koilamukri, kolamukhi, koyila mokiri, paala, pala, pala bariki, palabariki, palaperbi, pedda paala, peddapala, peddathedla paala, pootajeeleroo, poothi jilledu, potla paala, putajilledu, putta jilledu, puttajilledu, puttu cheyavalaru, puttuceyavalaru, puttucheyavalaru, tedla pala, tedlapal, tedlapala, telapal, tella pala, tellapal, tellapala, thedlapaala, thedlapala, thellapala",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b761ad76706c434da7b7b92f8f55dc3d/xclkon/a53397a19c4b7e6679fd94bf82fb372d"
+  ],
+  "source_record_ids": [
+    "links-1149"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b761ad76706c434da7b7b92f8f55dc3d/xclkon/a53397a19c4b7e6679fd94bf82fb372d"
+    ],
+    "source_record_ids": [
+      "links-1149"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b761ad76706c434da7b7b92f8f55dc3d/xclkon/a53397a19c4b7e6679fd94bf82fb372d",
+          "Plant Name": "Wrightia tomentosa Roem. & Schult.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Wrightia tomentosa Roem. & Schult.",
+        "source_record_id": "links-1149",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b761ad76706c434da7b7b92f8f55dc3d/xclkon/a53397a19c4b7e6679fd94bf82fb372d"
+      }
+    ],
+    "source_xplant_id": "b761ad76706c434da7b7b92f8f55dc3d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

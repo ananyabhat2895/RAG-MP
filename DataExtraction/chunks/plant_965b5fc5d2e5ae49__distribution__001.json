@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_965b5fc5d2e5ae49__distribution__001",
+  "plant_id": "plant_965b5fc5d2e5ae49",
+  "plant_name": "Cynodon dactylon (Linn.) Pers.",
+  "botanical_name": "Cynodon dactylon",
+  "botanical_authority": "(L.) PERS.",
+  "family": "POACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 3\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - KANJILAL & BOR; distribution: Distribution; title: Title - FLORA OF ASSAM\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - Dr. Narain Singh Chauhan; distribution: Distribution; title: Title - Medicinal and Aromatic Plants of Himachal Pradesh\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol III\nDistribution entry: author: Author - Ed B D Sharma, S Karthikeyan, N P Singh; distribution: Distribution; title: Title - Flora of Maharashrta State (Monocotyledons)\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - K.M. Matthew; distribution: Distribution; title: Title - The Flora of the Palni Hills Vol-3\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol IV\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 2\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb"
+  ],
+  "source_record_ids": [
+    "links-0549",
+    "links-0550",
+    "links-0551"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb"
+    ],
+    "source_record_ids": [
+      "links-0549",
+      "links-0550",
+      "links-0551"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb",
+          "Plant Name": "Cynodon dactylon (Linn.) Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cynodon dactylon (Linn.) Pers.",
+        "source_record_id": "links-0549",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb",
+          "Plant Name": "Cynodon dactylon Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cynodon dactylon Pers.",
+        "source_record_id": "links-0550",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb",
+          "Plant Name": "Cynodon dactylon Pers. Var. suberectum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cynodon dactylon Pers. Var. suberectum",
+        "source_record_id": "links-0551",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb"
+      }
+    ],
+    "source_xplant_id": "b4bff9ff2e61651c614600eaf8529bcb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

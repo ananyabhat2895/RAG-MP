@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_f11eab4878b8f21e__vernacular_names__001",
+  "plant_id": "plant_f11eab4878b8f21e",
+  "plant_name": "Clerodendrum serratum",
+  "botanical_name": "Clerodendrum serratum",
+  "botanical_authority": "(L.) MOON",
+  "family": "VERBENACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (6): ban bakri, banbakri, barangi, bharangi, bhurangi, gant-baharangi\nKannada (13): bhaarangi, bharangi, gantibharangi, gantu barangi, gantu bhaarangi, gantubarangi, kari thekki, kiri thaggi, kiri thaggi gida, kiritekki, kiriteku, kirrudegu, neeru seenina gida\nMalayalam (14): cerutekku, cheru-tekka, cherutekku, cheruteku, chinteku, cintita, kanta-bharanni, kantabharngi, kantabharnni, kantani, kondane, napalu, tsjerou-theka, tsjeruteka\nMarathi (5): barang, bhaarangi, bharangi, domb-saylo, ganthu baarangi\nSanskrit (47): Sanskrit CommentsX angaravallari, angaravalli, baleya, barbara, bhandi, bhangri, bharangi, bhargaka, bhargavi, bhargi, bharngi, bhramareshta, bhrigubhava, bhriguja, bhringaja, brahmanayastika, brahmani, brahmayastika, brahmini, bramhanayashtika, bramhani, bramhi, bramhika, durva, dvidandi, dvijayastika, gardabhashaka, hanjika, kalingavalli, kasaghni, kasajita, kharasaka, kharasakah, kharashaka, mukhadhanta, padama, padma, phanji, phanjika, shakramata, svarupa, valeyashaka, vantari, varddhaka, varvara, vatari, yashti\nTamil (43): angaravalli, cacakkini, cakancam, caleyanam1, canmulikai, cheruteku, chirudekku, cikarittekku, ciru tekku, cirutekku, ciruthekku, kacakkini, kaittekku, kaittekkumaram, kandu barangi, kandubarangi, kanduparanji, kantikai, kantu paranki, kantumulam1, kantuparanki, kantuparanki1, kantuparanki@, kattuttekku, nantakari, narivalai1, nitiyavam, nitiyavamaram, nuvalam, nuvalamaram, parkkavi 1, pirapavam, pullaikamaram, pullikam, punrekku, shirutek, sirutekku, siruthekku, tiranikkam, tiranikkamaram, vaadamadakki, vatacurampokki, vatamatakki 1\nTelugu (19): baarangi, banal chettu, barangi, bharangi, bhramaramari, bommanamarri, chiriteka, chiruteka, ciruteka, ciruteku, gandu-bharangi, gantubaarangi, gantubarangi, gantubharangi, ghantubharangi, gunta barangi, neta, panja, suvvipi\nTibetan (3): bha-rgi, ga bra i rtsa ba, ga brai rtsa ba\nUrdu (2): baharangi, baharangi (bharangi)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6899e21f6e238d27f39d9e28e5e5fdf0"
+  ],
+  "source_record_ids": [
+    "links-0301",
+    "links-0307",
+    "links-0313"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6899e21f6e238d27f39d9e28e5e5fdf0"
+    ],
+    "source_record_ids": [
+      "links-0301",
+      "links-0307",
+      "links-0313"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6899e21f6e238d27f39d9e28e5e5fdf0",
+          "Plant Name": "Clerodendrum serratum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clerodendrum serratum",
+        "source_record_id": "links-0301",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6899e21f6e238d27f39d9e28e5e5fdf0"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6899e21f6e238d27f39d9e28e5e5fdf0",
+          "Plant Name": "Clerodendrum serratum (Linn.) Moon",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clerodendrum serratum (Linn.) Moon",
+        "source_record_id": "links-0307",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6899e21f6e238d27f39d9e28e5e5fdf0"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6899e21f6e238d27f39d9e28e5e5fdf0",
+          "Plant Name": "Clerodendrum serratum (Linn.)Moon.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clerodendrum serratum (Linn.)Moon.",
+        "source_record_id": "links-0313",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6899e21f6e238d27f39d9e28e5e5fdf0"
+      }
+    ],
+    "source_xplant_id": "6899e21f6e238d27f39d9e28e5e5fdf0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_30de40d06bfaa3c6__systems_of_medicine__001",
+  "plant_id": "plant_30de40d06bfaa3c6",
+  "plant_name": "Vitex leucoxylon Linn.f.",
+  "botanical_name": "Vitex leucoxylon",
+  "botanical_authority": "SCHAU",
+  "family": "VERBENACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/585e39d7a39848fcc72a6a3a13e0c99a"
+  ],
+  "source_record_ids": [
+    "links-1432"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/585e39d7a39848fcc72a6a3a13e0c99a"
+    ],
+    "source_record_ids": [
+      "links-1432"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/585e39d7a39848fcc72a6a3a13e0c99a",
+          "Plant Name": "Vitex leucoxylon Linn.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vitex leucoxylon Linn.f.",
+        "source_record_id": "links-1432",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/585e39d7a39848fcc72a6a3a13e0c99a"
+      }
+    ],
+    "source_xplant_id": "585e39d7a39848fcc72a6a3a13e0c99a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

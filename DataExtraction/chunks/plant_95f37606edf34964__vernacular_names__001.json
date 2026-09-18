@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_95f37606edf34964__vernacular_names__001",
+  "plant_id": "plant_95f37606edf34964",
+  "plant_name": "Luffa acutangula (Linn.) Roxb.",
+  "botanical_name": "Luffa acutangula",
+  "botanical_authority": "(L.) ROXB.",
+  "family": "CUCURBITACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): sing-kwa, sinqua (melon)\nHindi (11): gudari, jinga, kali tori, kali-tori, karvi tori, karvi-tori, sataputitorai, torai, tori, turai, turi\nKannada (9): eere kaayi, heere balli, heere kaayi balli, heere-kai, hire balli, hire kaayi, hirekayi, kadupadagila, kahiheere balli\nMalayalam (8): cheru-peeram, djinji, peechhakam, piccil, piccinna, picinna, puichenggah, puttalpiram\nMarathi (8): dodaki, dodka, dodke, gomsali, sataputi, shiralla, shirola, turai\nSanskrit (43): Sanskrit CommentsX dhamargava, dhamargavah, dhamargowa, dharaphala, dirghaphala, ghantali, ghosa, gramya, jalini, jhingaka, karkashachhada, karkotaki, katukoshataki, kausataki, kesataki, kosataki, koshataki, krishna, kritachhidra, kritavedhana, kritawedhana, krtavedhana, krtavedhanah, kshveda, ksvedah, laghukoshataki, mrdangaphala, mrdangaphalam, mridangaphalika, pitapushpa, rajakosataki, rajakoshataki, rajimatphala, saptaputri, sukosha, supushpa, sushodhani, sutikta, svadukosataki, svaduphala, tikta, tiktakoshataki, turai\nTamil (92): atalai2, atalakkay, atalankay, cakaram, cakati1, cakkarakkoti, cakkaram1, calini1#, canikappuri2, canikappurikkoti, canikkappuri2, catini1, catinikkoti, cattiyam, cinkakam, cittirakunam, curiyanaiyariyappanni, itukal, itukalam, itukali, itukalikkoti, kalalapu, kalapu, kecattiyam, kiritaveni, kirukampali, kirutacittiram, kiruttuvetan, kirutukakkoti, kirutukam, kirutuvetan, kirutuvetanan, kocamam, kocari, kocarppam, kocavati, koccam, kolakakkoti, kolakam2, kolunkiri, kolunkirikkoti, kosam2, kovaritaki1, macukam, makacalini, malinavalli, maruvarikam, maruvarikkoti, mirutankapalam 2, nacukam, nacukatitakkoti, nacukatitam1, narpikkankoti, narpirkku, nilappirkku, pampikai2, patarkay2, patarkaykkoti, patarkoti, peerakai, peerkku, pekankai, peyppichukku, peyppirkam, peyppirkku, picukku, pikangai, pikumkai, pikunkai, pir, pirankoti, pirkkakkoti, pirkkangai, pirkkankay, pirkkankoti, pirkkil, pirkku, pitaputpi 1, racakakkoti, racakam@, tamarakkavam, tamarkkatam, tamarkkatavakkoti, tamarkkavakkoti, tamarkkavam, tamarkkavam1, tikkay, tinpirkku, varippirkku, velakakkoti, velakam, velam 2\nTelugu (6): beera, beerakaaya, beerakaya, birakaya, burkaai, burkai\nTibetan (2): ko sa ta ki, ko-sa-ta-ki",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f723ab5d64bea1511a90c43317cb5697"
+  ],
+  "source_record_ids": [
+    "links-1067",
+    "links-1068",
+    "links-1069",
+    "links-1079"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f723ab5d64bea1511a90c43317cb5697"
+    ],
+    "source_record_ids": [
+      "links-1067",
+      "links-1068",
+      "links-1069",
+      "links-1079"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f723ab5d64bea1511a90c43317cb5697",
+          "Plant Name": "Luffa acutangula (Linn.) Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Luffa acutangula (Linn.) Roxb.",
+        "source_record_id": "links-1067",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f723ab5d64bea1511a90c43317cb5697"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f723ab5d64bea1511a90c43317cb5697",
+          "Plant Name": "Luffa acutangula (Linn.) Roxb.var.amara Clarke",
+          "Status": "Found"
+        },
+        "source_plant_name": "Luffa acutangula (Linn.) Roxb.var.amara Clarke",
+        "source_record_id": "links-1068",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f723ab5d64bea1511a90c43317cb5697"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f723ab5d64bea1511a90c43317cb5697",
+          "Plant Name": "Luffa acutangula Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Luffa acutangula Roxb.",
+        "source_record_id": "links-1069",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f723ab5d64bea1511a90c43317cb5697"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f723ab5d64bea1511a90c43317cb5697",
+          "Plant Name": "Luffa acutangula (Linn) Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Luffa acutangula (Linn) Roxb.",
+        "source_record_id": "links-1079",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f723ab5d64bea1511a90c43317cb5697"
+      }
+    ],
+    "source_xplant_id": "f723ab5d64bea1511a90c43317cb5697",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

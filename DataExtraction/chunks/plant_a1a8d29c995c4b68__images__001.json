@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a1a8d29c995c4b68__images__001",
+  "plant_id": "plant_a1a8d29c995c4b68",
+  "plant_name": "Alpinia speciosa K. Schum.",
+  "botanical_name": "Alpinia zerumbet",
+  "botanical_authority": "BURTT & R.M. SM.",
+  "family": "ZINGIBERACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd714a2fc3a5a3f503726b20f90f1c28/xclkon/af4cf18cffbff17956de0e3d1171d419"
+  ],
+  "source_record_ids": [
+    "links-1856"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd714a2fc3a5a3f503726b20f90f1c28/xclkon/af4cf18cffbff17956de0e3d1171d419"
+    ],
+    "source_record_ids": [
+      "links-1856"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd714a2fc3a5a3f503726b20f90f1c28/xclkon/af4cf18cffbff17956de0e3d1171d419",
+          "Plant Name": "Alpinia speciosa K. Schum.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alpinia speciosa K. Schum.",
+        "source_record_id": "links-1856",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd714a2fc3a5a3f503726b20f90f1c28/xclkon/af4cf18cffbff17956de0e3d1171d419"
+      }
+    ],
+    "source_xplant_id": "dd714a2fc3a5a3f503726b20f90f1c28",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

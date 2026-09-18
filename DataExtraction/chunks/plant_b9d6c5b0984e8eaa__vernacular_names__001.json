@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b9d6c5b0984e8eaa__vernacular_names__001",
+  "plant_id": "plant_b9d6c5b0984e8eaa",
+  "plant_name": "Calophyllum inophyllum Linn.",
+  "botanical_name": "Calophyllum inophyllum",
+  "botanical_authority": "L.",
+  "family": "CLUSIACEAE",
+  "section": "vernacular_names",
+  "content": "English (5): alexandrian laurel, borneo mahogany, domba oil, pinnay oil, tongan oil\nHindi (8): sultana-champa, sultanachampa, sultanah-champa, sultanchampa, surpan, surpunika, surpunka, undi\nKannada (34): hona, honne, honne kaayi mara, honnu, hoo home, hoo honne, huhome, huhonne, kallu honne, koove mara, mara, naameru mara, namaeru, nameru, nameyru mara, ooma mara, pinekai, pinnai, pinnaykai, ponne, ponneda, ponnekayi, srihonne, sudaabu mara, sura honne, suraganne-mara, suragonne, surahonnae, surahonne, surhonne, uma, voma, vuma, wuma\nMalayalam (12): betan, ceruppuna, cerupunna, cherupinna, cherupuna, cherupunna, pine, ponna, ponnakam, ponnakum, pouna, punna\nMarathi (8): nagchampa, pumag, surangi, undag, undela, undi, ungam, wundi\nSanskrit (7): Sanskrit CommentsX namaeruak, panchakaeshera, punnaga, punnagah, punnagavrikshaha, punnaman, tunga\nTamil (56): arttakecam, cayantakam, cayantakamaram, cimmantacikam, culetam, culetamaram, curalam, cuvetputpakam, kecaram2, kopikakitam, kopikakitamaram, koppika, koppikamaram, kukattal, kuruntutikam, kuruntutikamaram, macarrapattiram, makapucurapi, makapucurpimaram, matukatitam, matukatitamaram, murunkai#, nagam, nakam, nakam4, nameru, nameru2, narruti2, patalatturumam, patumakecaram, pillaicceti, pinmai, pinnai, pinnai 2, pinnay unnay, pitataru 2, pitatarumaram, punnacam, punnacamaram, punnagam, punnagum, punnai, punnai-maram, punnaivirai, punnakam, purusa akacciyam, purusam, purutaki, purutakimaram, purutam, tamalai, tankakecaram, tevali, tevalimaram, vacanaikkenti, viranankalkustampokki\nTelugu (19): naameru, nameru, ponna, ponna chettu, ponna vithulu, ponna-chettu, ponnachettu, ponnavittulu, poona, poonas, poone, pouna, pumagamu, puna, punas, punna, punnaagamu, punnaga, punnagamu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/63361b942f516ca1f261db839c74d854"
+  ],
+  "source_record_ids": [
+    "links-1353"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/63361b942f516ca1f261db839c74d854"
+    ],
+    "source_record_ids": [
+      "links-1353"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/63361b942f516ca1f261db839c74d854",
+          "Plant Name": "Calophyllum inophyllum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Calophyllum inophyllum Linn.",
+        "source_record_id": "links-1353",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/63361b942f516ca1f261db839c74d854"
+      }
+    ],
+    "source_xplant_id": "63361b942f516ca1f261db839c74d854",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

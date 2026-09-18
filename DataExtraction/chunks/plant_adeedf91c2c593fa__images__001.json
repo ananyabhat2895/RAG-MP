@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_adeedf91c2c593fa__images__001",
+  "plant_id": "plant_adeedf91c2c593fa",
+  "plant_name": "Gardenia incida Roxb.",
+  "botanical_name": "Gardenia incida",
+  "botanical_authority": "ROXB.",
+  "family": "RUBIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/622147c97f08a73b8e1068c0ab322e4d"
+  ],
+  "source_record_ids": [
+    "links-0722"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/622147c97f08a73b8e1068c0ab322e4d"
+    ],
+    "source_record_ids": [
+      "links-0722"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/622147c97f08a73b8e1068c0ab322e4d",
+          "Plant Name": "Gardenia incida Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gardenia incida Roxb.",
+        "source_record_id": "links-0722",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/622147c97f08a73b8e1068c0ab322e4d"
+      }
+    ],
+    "source_xplant_id": "622147c97f08a73b8e1068c0ab322e4d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

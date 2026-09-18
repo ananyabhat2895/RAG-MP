@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_6f2aa00f787d8cc5__botanical_synonyms__001",
+  "plant_id": "plant_6f2aa00f787d8cc5",
+  "plant_name": "Scirpus grossus Linn.f.",
+  "botanical_name": "Scirpus grossus",
+  "botanical_authority": "L. F.",
+  "family": "CYPERACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Scirpus kysoor ROXB.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e31dcff0e6077e95eb1390645f6659d3"
+  ],
+  "source_record_ids": [
+    "links-0997",
+    "links-1000"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e31dcff0e6077e95eb1390645f6659d3"
+    ],
+    "source_record_ids": [
+      "links-0997",
+      "links-1000"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e31dcff0e6077e95eb1390645f6659d3",
+          "Plant Name": "Scirpus grossus Linn.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Scirpus grossus Linn.f.",
+        "source_record_id": "links-0997",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e31dcff0e6077e95eb1390645f6659d3"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e31dcff0e6077e95eb1390645f6659d3",
+          "Plant Name": "Scirpus grossus Linn. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Scirpus grossus Linn. f.",
+        "source_record_id": "links-1000",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e31dcff0e6077e95eb1390645f6659d3"
+      }
+    ],
+    "source_xplant_id": "e31dcff0e6077e95eb1390645f6659d3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

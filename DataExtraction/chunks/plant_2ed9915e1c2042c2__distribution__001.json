@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2ed9915e1c2042c2__distribution__001",
+  "plant_id": "plant_2ed9915e1c2042c2",
+  "plant_name": "Garcinia cowa Roxb.",
+  "botanical_name": "Garcinia cowa",
+  "botanical_authority": "ROXB. EX DC.",
+  "family": "CLUSIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1\nDistribution entry: author: Author - Botanicaly Survey of India; distribution: Distribution; title: Title - FLORA OF INDIA VOL 3\nDistribution entry: author: Author - A S Chauhan, K P Singh, D K Singh; distribution: Distribution; title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nDistribution entry: author: Author - KANJILAL & BOR; distribution: Distribution; title: Title - FLORA OF ASSAM\nDistribution entry: author: Author - HARIDASAN K & RAO R R; distribution: Distribution; title: Title - FOREST FLORA OF MEGHALAYA VOL 1\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - BSI Scientist; distribution: Distribution; title: Title - Flora of West Bengal Vol 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15f0724866331d238de92cbc096eb7fd"
+  ],
+  "source_record_ids": [
+    "links-1064"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15f0724866331d238de92cbc096eb7fd"
+    ],
+    "source_record_ids": [
+      "links-1064"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15f0724866331d238de92cbc096eb7fd",
+          "Plant Name": "Garcinia cowa Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Garcinia cowa Roxb.",
+        "source_record_id": "links-1064",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15f0724866331d238de92cbc096eb7fd"
+      }
+    ],
+    "source_xplant_id": "15f0724866331d238de92cbc096eb7fd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

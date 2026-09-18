@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_84c862870e99f470__vernacular_names__001",
+  "plant_id": "plant_84c862870e99f470",
+  "plant_name": "Barringtonia racemosa Roxb.",
+  "botanical_name": "Barringtonia racemosa",
+  "botanical_authority": "(L.) K.SPRENG.",
+  "family": "BARINGTONIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (2): ijjul, norvisnee\nKannada (10): ganagilatora, ganigala thora, kanaginathora, kanaginatora, kempuganigilu, kempukanagina, neeruganagile, neevaara, nivar, samudraphala\nMalayalam (13): katampu, samaskaravadi, samstaravati, samstravadi, samudraccam, samudracham, samudrakka, samudrapad, samudrapoo, samudrappu, samudrapu, samuthraccham, samuthrachcham\nMarathi (2): nivar, sadphali\nSanskrit (8): Sanskrit CommentsX hijjala, neepa, nichula, nipa, samstravadi, samudrapad, samudraphala, vishaya\nTamil (104): aracakkini, arattam, arippiriyam, arittiram2, cadapum vayr, calacakam, calam3, calaparam, camuttira4, camuttirakkatampu, camuttirappalam, camuttirappalam2, camuttirappalavi, camuttirappalavimaram, cantakentam, carucapam, carucapikam, carupam, carusam, cilesmanacani, cilettumavisapakan, citakantanam, citakantanamaram, cukataru, cumpal, cumpul, cupuram, curapi8, curapiyankam, cutaru, cuvetacamaram, icataru, icitaru, icitarumaram, icutaru, icuvarataru, intirapacitam, intirapacitamaram, isudaru, isuvaradaru, kaciram2, kadambam, kadambu, kalampakam, kalampam3, karaci, karacimaram, karam4, karamam, katampaccuvetam, katampaccuvetamaram, katampam2, katampam3@, katampuri, katampurimaram, katappaimaram2, katappamaram, katotam, kelivirutcam, kogali, kokali2, kondalai, kontalai#, kontalai2, kontalam, kontalankay#, kontalankay@, kontavakkay, koputtam, kotalankay, kucciram2, kuchidam, mara, maraam 2, marakika, marakikamaram, maram 2, maravam, nipam3, nipam3@, palapatirappiriyam, periyacali, periyacalimaram, peruncerippan, peruncerippanmaram, piriyakam 1, piriyatati, pitriyagam, sametrapalam, samuthram, semetrapalam, tarakatampam#, tarakatampam$, tarakatampam@, tenakam, tevavirutcam, tunikkatampamaram, tunikkatampu, varaki@, venkatampu, venkatampumaram, vicalam 4, vicuvalopakarakam, vilattaru\nTelugu (4): aare, kadapa, kanapa, samudrapandu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b14490a3c7c4c893d2ba90b25a5c499e"
+  ],
+  "source_record_ids": [
+    "links-1390"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b14490a3c7c4c893d2ba90b25a5c499e"
+    ],
+    "source_record_ids": [
+      "links-1390"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b14490a3c7c4c893d2ba90b25a5c499e",
+          "Plant Name": "Barringtonia racemosa Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Barringtonia racemosa Roxb.",
+        "source_record_id": "links-1390",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b14490a3c7c4c893d2ba90b25a5c499e"
+      }
+    ],
+    "source_xplant_id": "b14490a3c7c4c893d2ba90b25a5c499e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

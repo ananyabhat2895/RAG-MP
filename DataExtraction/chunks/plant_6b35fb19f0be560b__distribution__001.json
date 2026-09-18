@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_6b35fb19f0be560b__distribution__001",
+  "plant_id": "plant_6b35fb19f0be560b",
+  "plant_name": "Kalanchoe integra (Medic) Kutze.",
+  "botanical_name": "Kalanchoe integra",
+  "botanical_authority": "(MEDIK.) KUNTZE.",
+  "family": "CRASSULACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol I\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/26abd53a61097e10227894fe3bc79223"
+  ],
+  "source_record_ids": [
+    "links-1444"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/26abd53a61097e10227894fe3bc79223"
+    ],
+    "source_record_ids": [
+      "links-1444"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/26abd53a61097e10227894fe3bc79223",
+          "Plant Name": "Kalanchoe integra (Medic) Kutze.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Kalanchoe integra (Medic) Kutze.",
+        "source_record_id": "links-1444",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/26abd53a61097e10227894fe3bc79223"
+      }
+    ],
+    "source_xplant_id": "26abd53a61097e10227894fe3bc79223",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_f26652275298165a__identification__001",
+  "plant_id": "plant_f26652275298165a",
+  "plant_name": "Bauhinia purpurea Linn.",
+  "botanical_name": "Bauhinia purpurea",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "identification",
+  "content": "Plant name: Bauhinia purpurea Linn. Botanical name: Bauhinia purpurea Botanical authority: L. Family: CAESALPINIACEAE Source xplant ID: 51bf46b3309a3cbde5d4370caff2809b",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51bf46b3309a3cbde5d4370caff2809b"
+  ],
+  "source_record_ids": [
+    "links-0890"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51bf46b3309a3cbde5d4370caff2809b"
+    ],
+    "source_record_ids": [
+      "links-0890"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51bf46b3309a3cbde5d4370caff2809b",
+          "Plant Name": "Bauhinia purpurea Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bauhinia purpurea Linn.",
+        "source_record_id": "links-0890",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51bf46b3309a3cbde5d4370caff2809b"
+      }
+    ],
+    "source_xplant_id": "51bf46b3309a3cbde5d4370caff2809b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

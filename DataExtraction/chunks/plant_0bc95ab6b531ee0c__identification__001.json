@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_0bc95ab6b531ee0c__identification__001",
+  "plant_id": "plant_0bc95ab6b531ee0c",
+  "plant_name": "Cassia obtusifolia",
+  "botanical_name": "Cassia obtusifolia",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "identification",
+  "content": "Plant name: Cassia obtusifolia Botanical name: Cassia obtusifolia Botanical authority: L. Family: CAESALPINIACEAE Source xplant ID: 9dc99ed01cd75337be1fe40729cf37a6",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9dc99ed01cd75337be1fe40729cf37a6"
+  ],
+  "source_record_ids": [
+    "links-0399"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9dc99ed01cd75337be1fe40729cf37a6"
+    ],
+    "source_record_ids": [
+      "links-0399"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9dc99ed01cd75337be1fe40729cf37a6",
+          "Plant Name": "Cassia obtusifolia",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cassia obtusifolia",
+        "source_record_id": "links-0399",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9dc99ed01cd75337be1fe40729cf37a6"
+      }
+    ],
+    "source_xplant_id": "9dc99ed01cd75337be1fe40729cf37a6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

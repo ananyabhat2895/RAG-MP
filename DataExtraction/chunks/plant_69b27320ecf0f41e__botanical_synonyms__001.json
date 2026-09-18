@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_69b27320ecf0f41e__botanical_synonyms__001",
+  "plant_id": "plant_69b27320ecf0f41e",
+  "plant_name": "Lettsomia setosa Roxb.",
+  "botanical_name": "Argyreia setosa",
+  "botanical_authority": "(ROXB.) CHOISY",
+  "family": "CONVOLVULACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Lettsomia setosa ROXB.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/19b26d637c9700cd448e8e1a5f3b01ce/xclkon/835397b5a119b56d9c405df9d8c12e5c"
+  ],
+  "source_record_ids": [
+    "links-2097"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/19b26d637c9700cd448e8e1a5f3b01ce/xclkon/835397b5a119b56d9c405df9d8c12e5c"
+    ],
+    "source_record_ids": [
+      "links-2097"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/19b26d637c9700cd448e8e1a5f3b01ce/xclkon/835397b5a119b56d9c405df9d8c12e5c",
+          "Plant Name": "Lettsomia setosa Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lettsomia setosa Roxb.",
+        "source_record_id": "links-2097",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/19b26d637c9700cd448e8e1a5f3b01ce/xclkon/835397b5a119b56d9c405df9d8c12e5c"
+      }
+    ],
+    "source_xplant_id": "19b26d637c9700cd448e8e1a5f3b01ce",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

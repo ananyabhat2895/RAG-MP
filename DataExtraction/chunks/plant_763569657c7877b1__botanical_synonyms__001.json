@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_763569657c7877b1__botanical_synonyms__001",
+  "plant_id": "plant_763569657c7877b1",
+  "plant_name": "Benincasa hispida (Thunb.) Cogn.",
+  "botanical_name": "Benincasa hispida",
+  "botanical_authority": "(THUNB.) COGN.",
+  "family": "CUCURBITACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Benincasa cerifera SAVI X Full Botanical citation - Benincasa cerifera Savi, Biblioth. Ital. 9: 158. t.c. 1818; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 173. 1999.\nSynonym: Benincasa cerifera SAVI",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b97c80a9c80c326e5751c068d24aabbe"
+  ],
+  "source_record_ids": [
+    "links-1138"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b97c80a9c80c326e5751c068d24aabbe"
+    ],
+    "source_record_ids": [
+      "links-1138"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b97c80a9c80c326e5751c068d24aabbe",
+          "Plant Name": "Benincasa hispida (Thunb.) Cogn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Benincasa hispida (Thunb.) Cogn.",
+        "source_record_id": "links-1138",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b97c80a9c80c326e5751c068d24aabbe"
+      }
+    ],
+    "source_xplant_id": "b97c80a9c80c326e5751c068d24aabbe",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

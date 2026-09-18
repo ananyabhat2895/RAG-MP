@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_00796c9066c196e6__vernacular_names__001",
+  "plant_id": "plant_00796c9066c196e6",
+  "plant_name": "Curcuma aromatica Salisb.",
+  "botanical_name": "Curcuma aromatica",
+  "botanical_authority": "SALISB.",
+  "family": "ZINGIBERACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (9): anbe-halad, anbe-haldi, ban haldi, ban-haridra, banhaldi, banharidra, jangli haldi, jangli-haldi, janglihaldi\nKannada (11): aambe haladi, haali, kaadu arishina, kadarasina, kasthoori manjal, kasthooriarishina, kasturi arashina, kasturi arisina, kasturi-arishina, kasturiarishina, maavina kaayi shunti\nMalayalam (8): anakuva, kasturi-mannal, kasturimannal, kattu-mannal, kattumanjal, kattumannal, kattumannar, manjal\nMarathi (6): aambe halad, ambe-halad, ran-halad, ranahalada, sholi, vedi-halad\nSanskrit (7): Sanskrit CommentsX aranyahaldikanda, aranyaharidra, sholi, sholika, vanahaladi, vanaharidra, vanarishta\nTamil (50): atai, ataivikaccolam, ataivikkaccolam, atavikaccelvam, atavikkac -colam, atavikkaccolam, avisam, ikasi, ikati, ikkuca, ikkucamancal, iksi, itci, kaccolam 1, kaccuram 1, kaleyam 2, kaleyamancal, kappumancal, kasdurimahcal, kasthurimangal, kastoori manjal, kasturi mancal, kasturi manjal, kasturi-manjal, kasturimancal, kasturimanjal, kasturinici#, kasturinici@, kat-turi-manjal, kattumanjal, kattumannal, katturi mancal, katturimancal, katuri mancal, koccimancal, kulavintam, kuttukkarantai, mirukamatam, mituraimulam, mituraiver, nallamancal, nir visham, nirakkumancal, nirvisam, pittattuvayam, talaivalipokki, turlapam, ucitam, ucitamancal, velviliyal\nTelugu (5): adavipasupu, kasturi-pasupa, kasturi-pasupu, kasturipasupu, thella kathoori pasupu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93ddd0ed462932400083818f60f06bd0"
+  ],
+  "source_record_ids": [
+    "links-2045"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93ddd0ed462932400083818f60f06bd0"
+    ],
+    "source_record_ids": [
+      "links-2045"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93ddd0ed462932400083818f60f06bd0",
+          "Plant Name": "Curcuma aromatica Salisb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Curcuma aromatica Salisb.",
+        "source_record_id": "links-2045",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93ddd0ed462932400083818f60f06bd0"
+      }
+    ],
+    "source_xplant_id": "93ddd0ed462932400083818f60f06bd0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

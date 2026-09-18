@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2f2ea783c22ed33f__vernacular_names__001",
+  "plant_id": "plant_2f2ea783c22ed33f",
+  "plant_name": "Trianthema portulacastrum Linn.",
+  "botanical_name": "Trianthema portulacastrum",
+  "botanical_authority": "L.",
+  "family": "AIZOACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): giant pigweed, horse purslane\nHindi (15): bawra, dhedo santo, dhedo-santo, hato, lal-sabuni, nasur janghi, sabuni, safed santo, salsabuni, santhi, santo, satto, svetsabuni, swet punarva, vishakhapara\nKannada (8): bili komme, bili punarnava, gaijaa soppu, komme, muchchugoni, muchhugoni, muchugoni, neeli belladakilu\nMalayalam (2): talutama, tavilama\nMarathi (4): khapra, pundharighentuli, pundhrighentuli, vishkhapra\nSanskrit (25): Sanskrit CommentsX chiratika, dhanapatra, dirghapatrika, kathilla, kathillaka, krurah, mandalapatrakah, prithvi, punaravi, punarnava, punarnavi, raktakandah, raktapatrikah, shashivatika, shothaghni, shvetamula, shvetapunarnava, sitavarshabhu, svetapunarnava, varsabhu, varshahi, varshangi, visakharparika, vrischira, vrscira\nTamil (12): caru velai, caruvelai, saranai, sarvalai, sen-charanai, sharunnai, sharunnay, sharunnay vayr, sharvalaykiray, shavalai, vellai-saranai, vellaiccaranai\nTelugu (13): ambatimaadu, ambatimaddu, ambatimadu, galijaeru, galijeru, ghalijeroo, ghelijaehru, ghelijehru, tella-galijeru, thella galijaeru, yerra-galljeru, yerragalijaeru, yerragalijeru",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2df78fec71f8a7390767f6a3406b4b8f"
+  ],
+  "source_record_ids": [
+    "links-1561"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2df78fec71f8a7390767f6a3406b4b8f"
+    ],
+    "source_record_ids": [
+      "links-1561"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2df78fec71f8a7390767f6a3406b4b8f",
+          "Plant Name": "Trianthema portulacastrum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Trianthema portulacastrum Linn.",
+        "source_record_id": "links-1561",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2df78fec71f8a7390767f6a3406b4b8f"
+      }
+    ],
+    "source_xplant_id": "2df78fec71f8a7390767f6a3406b4b8f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

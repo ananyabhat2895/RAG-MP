@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_adef628d5135fec0__images__001",
+  "plant_id": "plant_adef628d5135fec0",
+  "plant_name": "Hibiscus cancellatus Roxb.",
+  "botanical_name": "Abelmoschus crinitus",
+  "botanical_authority": "WALL.",
+  "family": "MALVACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abe65b2e409317659131e47d5b7fa402/xclkon/bbfd6a91927f3260981223b8f9a98479"
+  ],
+  "source_record_ids": [
+    "links-0987"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abe65b2e409317659131e47d5b7fa402/xclkon/bbfd6a91927f3260981223b8f9a98479"
+    ],
+    "source_record_ids": [
+      "links-0987"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abe65b2e409317659131e47d5b7fa402/xclkon/bbfd6a91927f3260981223b8f9a98479",
+          "Plant Name": "Hibiscus cancellatus Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hibiscus cancellatus Roxb.",
+        "source_record_id": "links-0987",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abe65b2e409317659131e47d5b7fa402/xclkon/bbfd6a91927f3260981223b8f9a98479"
+      }
+    ],
+    "source_xplant_id": "abe65b2e409317659131e47d5b7fa402",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

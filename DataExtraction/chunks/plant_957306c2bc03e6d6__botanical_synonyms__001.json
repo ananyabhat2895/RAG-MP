@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_957306c2bc03e6d6__botanical_synonyms__001",
+  "plant_id": "plant_957306c2bc03e6d6",
+  "plant_name": "Delphinium denudatum Wall.",
+  "botanical_name": "Delphinium denudatum",
+  "botanical_authority": "WALL. EX HOOK. F. & THOMS.",
+  "family": "RANUNCULACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Delphaenium denudatum WALL.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e012c1a10701bb8d5b9dbc991bd5f1a3"
+  ],
+  "source_record_ids": [
+    "links-1401",
+    "links-1402"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e012c1a10701bb8d5b9dbc991bd5f1a3"
+    ],
+    "source_record_ids": [
+      "links-1401",
+      "links-1402"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e012c1a10701bb8d5b9dbc991bd5f1a3",
+          "Plant Name": "Delphinium denudatum Wall.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Delphinium denudatum Wall.",
+        "source_record_id": "links-1401",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e012c1a10701bb8d5b9dbc991bd5f1a3"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e012c1a10701bb8d5b9dbc991bd5f1a3",
+          "Plant Name": "Delphinium denudatum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Delphinium denudatum",
+        "source_record_id": "links-1402",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e012c1a10701bb8d5b9dbc991bd5f1a3"
+      }
+    ],
+    "source_xplant_id": "e012c1a10701bb8d5b9dbc991bd5f1a3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

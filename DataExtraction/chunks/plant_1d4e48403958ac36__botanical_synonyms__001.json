@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_1d4e48403958ac36__botanical_synonyms__001",
+  "plant_id": "plant_1d4e48403958ac36",
+  "plant_name": "Salmalia malabarica Schott and Endl.",
+  "botanical_name": "Bombax ceiba",
+  "botanical_authority": "L.",
+  "family": "BOMBACACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Bombax malabaricum DC. X Full Botanical citation - Bombax malabaricum DC., Prodr. 1: 479. 1824; M.P. Nayar & M.C.Biswas in B.D.Sharma & Sanjappa, Fl. India 3: 398. 1993. Salmalia malabarica SCHOTT & ENDL. X Full Botanical citation - Salmalia malabarica (DC.) Schott in Schott & Endl., Melet. Bot. 35. 1832; M.P. Nayar & M.C.Biswas in B.D.Sharma & Sanjappa, Fl. India 3: 398. 1993.\nSynonym: Bombax malabaricum DC.\nSynonym: Salmalia malabarica SCHOTT & ENDL.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/3cb86cbdb9510e8b57bb03383599897d"
+  ],
+  "source_record_ids": [
+    "links-1289",
+    "links-1703"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/3cb86cbdb9510e8b57bb03383599897d"
+    ],
+    "source_record_ids": [
+      "links-1289",
+      "links-1703"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/3cb86cbdb9510e8b57bb03383599897d",
+          "Plant Name": "Salmalia malabarica Schott and Endl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Salmalia malabarica Schott and Endl.",
+        "source_record_id": "links-1289",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/3cb86cbdb9510e8b57bb03383599897d"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/3cb86cbdb9510e8b57bb03383599897d",
+          "Plant Name": "Salmalia malabarica Schott & Endl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Salmalia malabarica Schott & Endl.",
+        "source_record_id": "links-1703",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/3cb86cbdb9510e8b57bb03383599897d"
+      }
+    ],
+    "source_xplant_id": "f4df3d740a26f6ad1fc5eec095132bff",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

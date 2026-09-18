@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a2f25c796a03c179__vernacular_names__002",
+  "plant_id": "plant_a2f25c796a03c179",
+  "plant_name": "Ficus bengalensis Linn.",
+  "botanical_name": "Ficus bengalensis",
+  "botanical_authority": "L.",
+  "family": "MORACEAE",
+  "section": "vernacular_names",
+  "content": "Telugu (23): bhaandiramu, bhandiramu, maree, mari, marichettu, marie, marri, marri-palu, marrichettu, matti, muri, peddaimari, peddamari, peddamarri, peddamatti, peddimari, rohi, vatavriksham, vati, vitapi, vrikshaadanamu, vrikshadanamu, vrykshadanamu\nTibetan (2): nya gro dha, nya-gro-dha\nUrdu (4): anjir jangli, bargad, katumari, shir bargadh",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86cd19a52dc5a7a46f7861db7b69d700"
+  ],
+  "source_record_ids": [
+    "links-2069"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86cd19a52dc5a7a46f7861db7b69d700"
+    ],
+    "source_record_ids": [
+      "links-2069"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86cd19a52dc5a7a46f7861db7b69d700",
+          "Plant Name": "Ficus bengalensis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus bengalensis Linn.",
+        "source_record_id": "links-2069",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86cd19a52dc5a7a46f7861db7b69d700"
+      }
+    ],
+    "source_xplant_id": "86cd19a52dc5a7a46f7861db7b69d700",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

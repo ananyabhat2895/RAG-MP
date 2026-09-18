@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b96f797cc1134fd9__vernacular_names__001",
+  "plant_id": "plant_b96f797cc1134fd9",
+  "plant_name": "Cucumis sativus Linn.",
+  "botanical_name": "Cucumis sativus",
+  "botanical_authority": "L.",
+  "family": "CUCURBITACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): cucumber, gherkin\nHindi (4): kakree, kankri, kheera, khira\nKannada (8): maghe kaayi, moge kaayi, mullu southe, mullusavte, santekayi, sautekayi, southe kaayi, thaseya kaayi\nMalayalam (4): kakkari, mullanvellari, mullen-belleri, vellari\nMarathi (7): kaakdi, kakdi, kheera, khira, tavase, tavsini, thavase\nSanskrit (21): Sanskrit CommentsX bahuphala, kandalu, kantakilata, kantakiphala, kantalu, karkaru, karkatee, koshaphala, pitapushpa, sakusa, sudhavasa, sukasa, sushitala, swetakarkataka, tiktakarkatika, trapukarkati, trapusa, trapusah, trapusha, trapusi, tundilaphala\nTamil (66): am2, anilvarikkotunkay, anilvariyan, araikkiraikkay, arpapiramanakam, civataki, civatakikkoti, civatati@, cukacakam, cukacakkoti, cukacam, cukacanam2, cukkam, iram2, kacakam, kakkari2, kakkarikkay, kakrikai, karkati, karuvacam, kattirikuntan, kutalakkoti, kutalam2, kutam2, kutari, mayaka, miruntu, mul-vellari, mullan vellari, mullanvellari, mulluvellari, mulluvellari 2, mulvellarikkay, nattuvellari, nirvellari, pantalkattiri, patolikai2, pipingkay, pippinkay, pottiri, pottiricceti, tirapucam, tirikatam, tirikatam@, tocakkay2, uruvar, uruvaram, uruvarkoti, uruvarpayan, urvarappan, urvarappankoti, urvarukam, usnakapakari, varukam 2, vellaippukikakkoti, vellaippukikam, vellari, vellari-k-kay, vellari-ppu, vellarikai, vellarikkai, vellarikkay, vellarikkoti, virali 2, vittukakkoti, vittukam 2\nTelugu (5): dosa kaya, dosekaaya, dosekaya, dozakaya, ujakaayipa\nTibetan (1): ga go na\nUrdu (13): khira, khiyar (khira), kiyar, maghz tukhm khilyarin, maghz tukhm khiyarin, maghz tukhm-i-khiyarin, maghz-i-khiyarin, maghz-i-tukhm-i- khiyarin, maghz-i-tukhm-i-khiyarin, tukhm khiyarin, tukhm khiyarin nim koafta, tukhm khiyarin nim kofta, tukhm-i-khiyaria",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7539d46056fe6cad14cc5bf5c29ac602"
+  ],
+  "source_record_ids": [
+    "links-0964"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7539d46056fe6cad14cc5bf5c29ac602"
+    ],
+    "source_record_ids": [
+      "links-0964"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7539d46056fe6cad14cc5bf5c29ac602",
+          "Plant Name": "Cucumis sativus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cucumis sativus Linn.",
+        "source_record_id": "links-0964",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7539d46056fe6cad14cc5bf5c29ac602"
+      }
+    ],
+    "source_xplant_id": "7539d46056fe6cad14cc5bf5c29ac602",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

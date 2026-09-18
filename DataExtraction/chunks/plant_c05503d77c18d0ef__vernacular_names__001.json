@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c05503d77c18d0ef__vernacular_names__001",
+  "plant_id": "plant_c05503d77c18d0ef",
+  "plant_name": "Cassytha filiformis Linn.",
+  "botanical_name": "Cassytha filiformis",
+  "botanical_authority": "L.",
+  "family": "CASSYTHACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (1): amarbeli\nKannada (13): aakaasha balli, aakasha balli, akasaballi, akashaballi, amaraballi, beelu balli, beeluballi, beluballi, daarada balli, haadaragithi balli, janivaara balli, mangana udidaara, mudeludantiburu\nMalayalam (5): acatagabulli, acatsja-valli, acatsjavalli, aiyapala, akashavalli\nMarathi (2): amarbaela, amarvela\nSanskrit (7): Sanskrit CommentsX akasavalli, akasavela, akashavalli, akasvalli, amaravela, amrtavalli, khavalli\nTamil (68): akacavalli, akaya valli, alarntapu, amaravallari, amaravalli, ammaiyarkoonthal, anantai 6, ananti@, anantikkoti, aral, calantirati, canaki, cankutam, cavuttumananci, curai, cure, emanatanki, erumaikkorran, erumaikkottan, inci, incikakkoti, indiravalli, intiravalli, irumpacceti, itumpakakkoti, itumpakam, karukkutaiyalmuli, karulananki, kodikkottan, korran, kothan, koththan, kotikkorran, kottan, kottankoti, kunacali, mativalli, mulacci, nalil, nandei, nantai, nattai, nattai 2, nelil, nelilkoti, nimtecan, notiyatipputu, nuli, nulikkoti, ovaiyarkoonthal, pachungottan, pacunkorran, pacunkottan, tirkki, tudakkarupan, tumbi, tumpi 4, tumpu, tumpukkoti, tutakkaruppan, utaiyavalitam, vacaki, vancimalikkoti, vancimalitali, vinmativalli, viranakkopini, visnupari, viti\nTelugu (16): antaravallitige, antharavallithige, nooluthige, nulutega, paachithige, pachatige, pachitiga, pachitige, pacitige, paunchtiga, punchatige, seethammaavaari jadaalu, seethammapogunoolu, seethammavaarupogulu, sitammapogunulu, sitammavarupogulu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed43dbfd597a20d586af076f4be9766c"
+  ],
+  "source_record_ids": [
+    "links-0056"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed43dbfd597a20d586af076f4be9766c"
+    ],
+    "source_record_ids": [
+      "links-0056"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed43dbfd597a20d586af076f4be9766c",
+          "Plant Name": "Cassytha filiformis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cassytha filiformis Linn.",
+        "source_record_id": "links-0056",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed43dbfd597a20d586af076f4be9766c"
+      }
+    ],
+    "source_xplant_id": "ed43dbfd597a20d586af076f4be9766c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

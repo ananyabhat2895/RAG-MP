@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_1dda784555c44bc2__bibliography__001",
+  "plant_id": "plant_1dda784555c44bc2",
+  "plant_name": "Garcinia morella",
+  "botanical_name": "Garcinia morella",
+  "botanical_authority": "(GAERTN.) DESR.",
+  "family": "CLUSIACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - V.V. SIVARAJAN AND INDIRA BALACHANDRAN; title: Title - AYURVEDIC DRUGS AND THEIR PLANT SOURCES\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: title: Title - The Flora of Kerala Vol I\nBibliography entry: title: Title - FLORA OF INDIA VOL 3\nBibliography entry: title: Title - FLORA OF ASSAM\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-1\nBibliography entry: title: Title - FOREST FLORA OF MEGHALAYA VOL 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754"
+  ],
+  "source_record_ids": [
+    "links-0916",
+    "links-0917",
+    "links-1920"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754"
+    ],
+    "source_record_ids": [
+      "links-0916",
+      "links-0917",
+      "links-1920"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754",
+          "Plant Name": "Garcinia morella",
+          "Status": "Found"
+        },
+        "source_plant_name": "Garcinia morella",
+        "source_record_id": "links-0916",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754",
+          "Plant Name": "Garcinia morella Desr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Garcinia morella Desr.",
+        "source_record_id": "links-0917",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754",
+          "Plant Name": "Garcinia morella Dsv.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Garcinia morella Dsv.",
+        "source_record_id": "links-1920",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754"
+      }
+    ],
+    "source_xplant_id": "a3e6f8691986cdca6ffe150c459f9754",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

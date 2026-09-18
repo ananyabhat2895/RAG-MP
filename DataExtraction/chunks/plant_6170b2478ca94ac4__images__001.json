@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_6170b2478ca94ac4__images__001",
+  "plant_id": "plant_6170b2478ca94ac4",
+  "plant_name": "Blepharispermum subsessile DC.",
+  "botanical_name": "Blepharispermum subsessile",
+  "botanical_authority": "DC.",
+  "family": "ASTERACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7fbee11bc8def2f24d8ab3384a325323"
+  ],
+  "source_record_ids": [
+    "links-1601"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7fbee11bc8def2f24d8ab3384a325323"
+    ],
+    "source_record_ids": [
+      "links-1601"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7fbee11bc8def2f24d8ab3384a325323",
+          "Plant Name": "Blepharispermum subsessile DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Blepharispermum subsessile DC.",
+        "source_record_id": "links-1601",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7fbee11bc8def2f24d8ab3384a325323"
+      }
+    ],
+    "source_xplant_id": "7fbee11bc8def2f24d8ab3384a325323",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

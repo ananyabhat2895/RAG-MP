@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_ec9cf833db0424d6__vernacular_names__001",
+  "plant_id": "plant_ec9cf833db0424d6",
+  "plant_name": "Sida rhombifolia Linn.",
+  "botanical_name": "Sida rhombifolia",
+  "botanical_authority": "L.",
+  "family": "MALVACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): paddys lucerne, queensland hemp\nHindi (15): barela, bariara, bhiunli, dhabi, kharenti, kheriti, lalbarela, lalbariala, pitabala, safed, sahadebi, sahadeva, svetberela, sweet-barela, swetbarela\nKannada (20): aanekadeeru, athibala, banne garuga gida, baralu kaddi, bellu maravi, bennegaragu, binnegangagida, bolamgadale, bolangadale, dodda kallangadale, gobetadegida, goobe thale gida, goobetale gida, goobethade gida, gubethadegida, kaadu kadle, kadiru, kallangadale, kallangalle, kisangihettuti-gida\nMalayalam (9): anakkuruntotti, kurundoti, kuruntotti, totti, valamkarumthuthi, valankuruntotti, vankuruntotti, vatturam, velluram\nMarathi (8): athibala, baler, chikna, sadeda, sadeva, sahadaevi, sahadevi, thukatee sahadaevi\nSanskrit (35): Sanskrit CommentsX ahikhanda, atibala, bala, barela, brihadagala, devaarha, devabala, devasaha, gandhavallari, gandhavalli, hara, jyeshthabala, karambi, kesarika, keshawardhini, keshruha, lalbarila, mahabala, mahagalarthaprasadini, mahagandha, mriga, mrigadini, mrigarasa, pitapushpa, prasadini, sahadeva, sahadevi, samanga, sarini, vadha, varshapushpa, varshpushpi, vataghni, vatya, vatyayani\nTamil (27): anaikkuruntotti@, anaikurundotti, arival manai- puntu, athibalachedi, athiballached, canakki2, chitra mutti, chittamutti, kammavikakkoti, kammavikam, kankatikam, kattukkuruntotti, kecavarttanam, kurundotti, kurunthotti, kuruntotti, kuruntotti#, makapalam 4, mayirmanikkam@, piramutti 2, sirramutti, siru thuthi, sittamutti, tankarikam, tenacham, velaippacai, yanaikkuruntotti\nTelugu (12): athobalacettu, atibala, guba tada, gubatada, mauilumanikyamu, mayilu-manikyam, mayilumanikyamu, mayir manikkam, mutheera pulangam, muttavapulaga, muttavapulagamu, pulagamu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5"
+  ],
+  "source_record_ids": [
+    "links-0270",
+    "links-1223",
+    "links-1224",
+    "links-1225"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5"
+    ],
+    "source_record_ids": [
+      "links-0270",
+      "links-1223",
+      "links-1224",
+      "links-1225"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5",
+          "Plant Name": "Sida rhombifolia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida rhombifolia Linn.",
+        "source_record_id": "links-0270",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5",
+          "Plant Name": "Sida rhombifolia",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida rhombifolia",
+        "source_record_id": "links-1223",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5",
+          "Plant Name": "Sida rhombifolia Linn. Mast.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida rhombifolia Linn. Mast.",
+        "source_record_id": "links-1224",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5",
+          "Plant Name": "Sida rhombifolia Linn. Mast. Var rhomboidea (Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida rhombifolia Linn. Mast. Var rhomboidea (Roxb.",
+        "source_record_id": "links-1225",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5"
+      }
+    ],
+    "source_xplant_id": "66adc2910b86fe10b651ba566ad346f5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

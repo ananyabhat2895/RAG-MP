@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_dfc534eb158e85e5__identification__001",
+  "plant_id": "plant_dfc534eb158e85e5",
+  "plant_name": "Ophiorrhiza mungos Linn.",
+  "botanical_name": "Ophiorrhiza mungos",
+  "botanical_authority": "L.",
+  "family": "RUBIACEAE",
+  "section": "identification",
+  "content": "Plant name: Ophiorrhiza mungos Linn. Botanical name: Ophiorrhiza mungos Botanical authority: L. Family: RUBIACEAE Source xplant ID: f4ae3036c3bc5d24c50cde781aa09fa9",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4ae3036c3bc5d24c50cde781aa09fa9"
+  ],
+  "source_record_ids": [
+    "links-1757"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4ae3036c3bc5d24c50cde781aa09fa9"
+    ],
+    "source_record_ids": [
+      "links-1757"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4ae3036c3bc5d24c50cde781aa09fa9",
+          "Plant Name": "Ophiorrhiza mungos Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ophiorrhiza mungos Linn.",
+        "source_record_id": "links-1757",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4ae3036c3bc5d24c50cde781aa09fa9"
+      }
+    ],
+    "source_xplant_id": "f4ae3036c3bc5d24c50cde781aa09fa9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

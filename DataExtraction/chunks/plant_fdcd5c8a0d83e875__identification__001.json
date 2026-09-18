@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_fdcd5c8a0d83e875__identification__001",
+  "plant_id": "plant_fdcd5c8a0d83e875",
+  "plant_name": "Cucurbita pepo DC.",
+  "botanical_name": "Cucurbita pepo",
+  "botanical_authority": "L.",
+  "family": "CUCURBITACEAE",
+  "section": "identification",
+  "content": "Plant name: Cucurbita pepo DC. Botanical name: Cucurbita pepo Botanical authority: L. Family: CUCURBITACEAE Source xplant ID: 683924de25f6b219baf4d1912bc5cedb",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/683924de25f6b219baf4d1912bc5cedb"
+  ],
+  "source_record_ids": [
+    "links-0965",
+    "links-1139",
+    "links-1140"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/683924de25f6b219baf4d1912bc5cedb"
+    ],
+    "source_record_ids": [
+      "links-0965",
+      "links-1139",
+      "links-1140"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/683924de25f6b219baf4d1912bc5cedb",
+          "Plant Name": "Cucurbita pepo DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cucurbita pepo DC.",
+        "source_record_id": "links-0965",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/683924de25f6b219baf4d1912bc5cedb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/683924de25f6b219baf4d1912bc5cedb",
+          "Plant Name": "Cucurbita pepo F. I.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cucurbita pepo F. I.",
+        "source_record_id": "links-1139",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/683924de25f6b219baf4d1912bc5cedb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/683924de25f6b219baf4d1912bc5cedb",
+          "Plant Name": "Cucurbita pepo Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cucurbita pepo Linn.",
+        "source_record_id": "links-1140",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/683924de25f6b219baf4d1912bc5cedb"
+      }
+    ],
+    "source_xplant_id": "683924de25f6b219baf4d1912bc5cedb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

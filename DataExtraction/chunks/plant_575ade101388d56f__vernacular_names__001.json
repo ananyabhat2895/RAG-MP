@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_575ade101388d56f__vernacular_names__001",
+  "plant_id": "plant_575ade101388d56f",
+  "plant_name": "Eragrostis tremula Hochst.",
+  "botanical_name": "Eragrostis tremula",
+  "botanical_authority": "HOCHST.",
+  "family": "POACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (1): chirio ro khet\nSanskrit (1): Sanskrit CommentsX chanika",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9a0716b27b21e0d3116a6e70f6b1d6db"
+  ],
+  "source_record_ids": [
+    "links-0419"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9a0716b27b21e0d3116a6e70f6b1d6db"
+    ],
+    "source_record_ids": [
+      "links-0419"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9a0716b27b21e0d3116a6e70f6b1d6db",
+          "Plant Name": "Eragrostis tremula Hochst.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Eragrostis tremula Hochst.",
+        "source_record_id": "links-0419",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9a0716b27b21e0d3116a6e70f6b1d6db"
+      }
+    ],
+    "source_xplant_id": "9a0716b27b21e0d3116a6e70f6b1d6db",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

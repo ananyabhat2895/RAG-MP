@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c1696979b475391f__distribution__001",
+  "plant_id": "plant_c1696979b475391f",
+  "plant_name": "Meyna laxiflora Robyns.",
+  "botanical_name": "Meyna laxiflora",
+  "botanical_authority": "ROBYNS",
+  "family": "RUBIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - HARIDASAN K & RAO R R; distribution: Distribution; title: Title - FOREST FLORA OF MEGHALAYA VOL 2\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/98c810ae2787dceac870f83ad3b436de"
+  ],
+  "source_record_ids": [
+    "links-1206"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/98c810ae2787dceac870f83ad3b436de"
+    ],
+    "source_record_ids": [
+      "links-1206"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/98c810ae2787dceac870f83ad3b436de",
+          "Plant Name": "Meyna laxiflora Robyns.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Meyna laxiflora Robyns.",
+        "source_record_id": "links-1206",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/98c810ae2787dceac870f83ad3b436de"
+      }
+    ],
+    "source_xplant_id": "98c810ae2787dceac870f83ad3b436de",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

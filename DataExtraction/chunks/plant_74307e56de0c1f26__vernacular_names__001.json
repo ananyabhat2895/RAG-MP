@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_74307e56de0c1f26__vernacular_names__001",
+  "plant_id": "plant_74307e56de0c1f26",
+  "plant_name": "Clematis triloba",
+  "botanical_name": "Clematis triloba",
+  "botanical_authority": "HEYNE",
+  "family": "RANUNCULACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (2): churahar, moravela\nKannada (5): habbu balli, hegguru, morhari, souga valli, tikeke\nMarathi (5): moravela, morbel, ranjaayi, ranjai, ranjal\nSanskrit (19): Sanskrit CommentsX devashreni, devi, dhanurguna, dhanurmala, dridhasutrika, gokarni, laghukarni, laghuparnika, madhulika, madhurasa, madhushreni, madhusrava, morata, murva, piluparni, prithakaparni, snigdhaparni, snuva, tejani\nUrdu (1): muhari",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1334cc2a4429e00ae0911dfb57dac9db"
+  ],
+  "source_record_ids": [
+    "links-1319"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1334cc2a4429e00ae0911dfb57dac9db"
+    ],
+    "source_record_ids": [
+      "links-1319"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1334cc2a4429e00ae0911dfb57dac9db",
+          "Plant Name": "Clematis triloba",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clematis triloba",
+        "source_record_id": "links-1319",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1334cc2a4429e00ae0911dfb57dac9db"
+      }
+    ],
+    "source_xplant_id": "1334cc2a4429e00ae0911dfb57dac9db",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

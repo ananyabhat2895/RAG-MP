@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_25a29955573252ae__identification__001",
+  "plant_id": "plant_25a29955573252ae",
+  "plant_name": "Corallocarpus epigaeus Benth. ex Hook. f.",
+  "botanical_name": "Corallocarpus epigaeus",
+  "botanical_authority": "BENTH.",
+  "family": "CUCURBITACEAE",
+  "section": "identification",
+  "content": "Plant name: Corallocarpus epigaeus Benth. ex Hook. f. Botanical name: Corallocarpus epigaeus Botanical authority: BENTH. Family: CUCURBITACEAE Source xplant ID: b088cb551d11dd21380ebc54a81ccb68",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b088cb551d11dd21380ebc54a81ccb68"
+  ],
+  "source_record_ids": [
+    "links-1863"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b088cb551d11dd21380ebc54a81ccb68"
+    ],
+    "source_record_ids": [
+      "links-1863"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b088cb551d11dd21380ebc54a81ccb68",
+          "Plant Name": "Corallocarpus epigaeus Benth. ex Hook. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Corallocarpus epigaeus Benth. ex Hook. f.",
+        "source_record_id": "links-1863",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b088cb551d11dd21380ebc54a81ccb68"
+      }
+    ],
+    "source_xplant_id": "b088cb551d11dd21380ebc54a81ccb68",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

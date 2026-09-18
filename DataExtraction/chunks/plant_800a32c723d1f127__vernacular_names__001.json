@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_800a32c723d1f127__vernacular_names__001",
+  "plant_id": "plant_800a32c723d1f127",
+  "plant_name": "Ocimum gratissimum Linn.",
+  "botanical_name": "Ocimum gratissimum",
+  "botanical_authority": "L.",
+  "family": "LAMIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (8): banjari, banjiri, bantulsi, malatulsi, ram tulasi, ram tulsi, ram-tulsi, ramtulsi\nKannada (7): ajagandhika, biliya kargoli, kaadu thulasi, lavanga thulasi, nimbe thulasi, nimbe tulasi, rama-tulashi\nMalayalam (6): kattei-tulluva, kattu-tirtava, kattu-tuttuva, kattutrittavu, kattutryttavu, ramatulasi\nMarathi (7): ajavala, maali thulasi, raamathulasi, raamthulasi, ramatulasi, ran-tulas, tanatulasu\nSanskrit (20): Sanskrit CommentsX ajaka, ajeka, bilvaparni, doshakleshi, haricaya, nidralu, phaninjaka, ramatulasi, shophahari, sugandhi, sukshmapatraka, sumukha, sumukhah, suprassanaka, suvakra, tulasi, vanabarbarika, vantulasi, vishghna, vriddhatulasi\nTamil (27): acakantikam, alarutanmatu, arccakam, attuttulay, attuttulaycceti, ekapattirikai, elmich-cham-tolashi, elumiccam tulaci, elumiccantulaci@, elumicchan-thulasi, elumicham tulasi, elumichan tulasi, elumichantulasi, elumichantulsi, kantapattiram1, mataralaki, perumtulsi, perundu lachi, peruntulaci, peruntulasi, tikatturai, tiruntanam, tiruvaci, ventulaci, ventulaci 2, vitappakam, yatovarumaci\nTelugu (9): nimma tulasi, nimma-tulasi, nimmathulasi, nimmatulasi, raamathulasi, rama tulasi, rama-tulasi, ramatulasi, tamathulasi\nUrdu (1): tukhm faranjmushk",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/894fdf8bd1c5d0213b26d907179a3120"
+  ],
+  "source_record_ids": [
+    "links-0361"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/894fdf8bd1c5d0213b26d907179a3120"
+    ],
+    "source_record_ids": [
+      "links-0361"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/894fdf8bd1c5d0213b26d907179a3120",
+          "Plant Name": "Ocimum gratissimum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ocimum gratissimum Linn.",
+        "source_record_id": "links-0361",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/894fdf8bd1c5d0213b26d907179a3120"
+      }
+    ],
+    "source_xplant_id": "894fdf8bd1c5d0213b26d907179a3120",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

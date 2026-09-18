@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ad26e9864ccddfe4__identification__001",
+  "plant_id": "plant_ad26e9864ccddfe4",
+  "plant_name": "Daucus carota",
+  "botanical_name": "Daucus carota",
+  "botanical_authority": "L.",
+  "family": "APIACEAE",
+  "section": "identification",
+  "content": "Plant name: Daucus carota Botanical name: Daucus carota Botanical authority: L. Family: APIACEAE Source xplant ID: 7ca5a9ca110d0375f77329a66fe54741",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ca5a9ca110d0375f77329a66fe54741/xclkon/f56b3cdb07baa0a620ab150f4e304cce"
+  ],
+  "source_record_ids": [
+    "links-0651"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ca5a9ca110d0375f77329a66fe54741/xclkon/f56b3cdb07baa0a620ab150f4e304cce"
+    ],
+    "source_record_ids": [
+      "links-0651"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ca5a9ca110d0375f77329a66fe54741/xclkon/f56b3cdb07baa0a620ab150f4e304cce",
+          "Plant Name": "Daucus carota",
+          "Status": "Found"
+        },
+        "source_plant_name": "Daucus carota",
+        "source_record_id": "links-0651",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ca5a9ca110d0375f77329a66fe54741/xclkon/f56b3cdb07baa0a620ab150f4e304cce"
+      }
+    ],
+    "source_xplant_id": "7ca5a9ca110d0375f77329a66fe54741",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2bb2ad59ecd95072__vernacular_names__002",
+  "plant_id": "plant_2bb2ad59ecd95072",
+  "plant_name": "Cannabis sativa Linn.",
+  "botanical_name": "Cannabis sativa",
+  "botanical_authority": "L.",
+  "family": "CANNABINACEAE",
+  "section": "vernacular_names",
+  "content": "Telugu (16): bangiaaku, bangiaku, gaanja chettu, ganja chettu, ganjachettu, ganjavi-chettu, ganjayi, ganzai, guruginja, jadaganja, kalpam chettu, kalpam-chettu, kalpamchettu, krishna thaamara, krishnathaamara, metta thaamara\nTibetan (1): myan rtsi spras\nUrdu (5): bhang, burg-e-qinnab, qinnab (bhang), tukhm bhang, waraq-ul-khyal",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecd201452a1b2725f9d85e58abdbbf8b"
+  ],
+  "source_record_ids": [
+    "links-0304"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecd201452a1b2725f9d85e58abdbbf8b"
+    ],
+    "source_record_ids": [
+      "links-0304"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecd201452a1b2725f9d85e58abdbbf8b",
+          "Plant Name": "Cannabis sativa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cannabis sativa Linn.",
+        "source_record_id": "links-0304",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecd201452a1b2725f9d85e58abdbbf8b"
+      }
+    ],
+    "source_xplant_id": "ecd201452a1b2725f9d85e58abdbbf8b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

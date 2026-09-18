@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5873af8230350456__vernacular_names__001",
+  "plant_id": "plant_5873af8230350456",
+  "plant_name": "Anethum sowa Kurz.",
+  "botanical_name": "Anethum graveolens",
+  "botanical_authority": "L.",
+  "family": "APIACEAE",
+  "section": "vernacular_names",
+  "content": "English (5): dill, dillseed, dillweed, east indian dill, indian dill\nHindi (4): sowa, soya, soyah, suva\nKannada (3): sabbasagi, sabbasige, sabbasige soppu\nMalayalam (3): chatukuppa, satakuppa, shatakuppa\nMarathi (6): balanta shopa, shepu, shopha, shupa, surva, suva\nSanskrit (6): Sanskrit CommentsX chhatra, satahva, satapushpi, satapuspa, shatapushpa, shopakataila\nTamil (66): cadakuppai, campucampal, cananamali, cananamali#, cananamali@, cananmali, cannamali, catakuppai, catakuppi, catakuppikam, catakuya, catappukkirai, cataputpam, cataputpam1@, cataputpi, cataputpi1@, cattapukkirai, cikkuyatti, cilettumavatatiran, ckkuyatti, cokikirai, cokikkirai1, cokivittu, colikkirai, coyikkirai, coyikkiraivitai, coyikkiri, coyikkirivitai, cutavari, jananamali, karavi, karavi1, karkorocikam, kattucata kuppai, kuppai, maturikai, mici, mici 1, nattuccatakuppai, nocci, nocci@, picitam, picitam1, piritam, sadakuppai, saddacooppei, satakuppai, satakuppi, shatakupivirai, shatakuppi-virai, shoyi-kirai-virai, vakkuppa cappi, vakkuppacappi, varippirotikam, varippirotitam, varippirottam, variyarottam, vici, vilankalam, vimotam, viranampokki, vittimam, vittukam, vittukam 1, vittukikam, vittumam\nTelugu (9): pedda sadaapara chettu, pedda sadaapra, pedda-sadapara-vittulu, sabasige, shatakupivittulu, shatakuppi-vittulu, sompa, sowa, soyikura-vittulu\nTibetan (1): sa-ta pu spa\nUrdu (5): shibt (soya), soya, tukhm karafs, tukhm shabt, tukhm soya",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3efa0ff40e2008455f38ca54b509516b/xclkon/73fe95508eb3748b64dc894f48de58a4"
+  ],
+  "source_record_ids": [
+    "links-1762"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3efa0ff40e2008455f38ca54b509516b/xclkon/73fe95508eb3748b64dc894f48de58a4"
+    ],
+    "source_record_ids": [
+      "links-1762"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3efa0ff40e2008455f38ca54b509516b/xclkon/73fe95508eb3748b64dc894f48de58a4",
+          "Plant Name": "Anethum sowa Kurz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Anethum sowa Kurz.",
+        "source_record_id": "links-1762",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3efa0ff40e2008455f38ca54b509516b/xclkon/73fe95508eb3748b64dc894f48de58a4"
+      }
+    ],
+    "source_xplant_id": "3efa0ff40e2008455f38ca54b509516b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

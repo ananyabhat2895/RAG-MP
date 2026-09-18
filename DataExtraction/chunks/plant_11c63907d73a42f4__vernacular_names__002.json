@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_11c63907d73a42f4__vernacular_names__002",
+  "plant_id": "plant_11c63907d73a42f4",
+  "plant_name": "Datura metel Linn.",
+  "botanical_name": "Datura metel",
+  "botanical_authority": "L.",
+  "family": "SOLANACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (184): adukkumattai, atukkumattai, ayakam, ayigam, ayika 2, ayikacceti, ayikam 2, ayirakam, camanam 2, camatikacceti, camatikam, camatu 1, camatu 3, carupakanni, carupakarani, carupakaranicceti, cataicci 2, cempicci, cempiccu, cimaiyumattai, cinkamuki, civappiriyam, emanaamam, emanakam, emanakam 1, emanakam 3, emanamam, emanamam 1, emanamam 2, emanapi, emanapicceti, emmali, emmalikaccetti, emmalikam, eruntukacceti, eruntukam, ilakam, ilankalikkocacceti, irulakitacceti, irulakitam, kacamatam, kacamatu, kacametu, kalan, kamatanam, kanankay, kancanavayam, kantaputpam 3, karoo oomatay, karu umattai, karu-umattai, karu-vumattai, karu-vummattai, karumattai, karumattai 2, karumattam 2, karumattam vitai, karumpumattai, karuniratti 2, karuppumatiracceti, karuppumattaicceti, karuvumattai, karuvumattan 2, kastovar, katterimuli 2, katuppu, kirusnaputpapicam 1, kirusnatari 2, kirusnatatturi 2, kitapam, kitavam#, kitavam$, kitavam@, kotunkay, kulivacamuli, lakiricci, madulam, madumattai, maiyal, maiyal 1, maiyal 2, maiyarceti, matamattam, matamattimuli, matevi, mattadi, mattai, mattai 1, mattam, mattam 1, mattan, mattati, mattu, matulam, matumattai, mayirakamam, milarati, motamacceti, motamam, nalalmatu, nalam, namakarani, napiyacceti, napiyam, nattuumattai, naval, navarceti, navi, nittiravi, nittiravicceti, oomathai, oomaththan, pattirancanacceti, pattirankam 2, pirantitacceti, pirantitam, pitarantam, pitirantacceti, pitirantam, ponnumathai, ponnumattai, pumattai, samadu, tatturi, tevikai, tiriputpam 3, tulatutam, tummattam, tuntalapitti, turam, turattam, turatturam, turttakacceti, turttakam, turttam, turttukikam, turtturam, turuttukikacceti, turutturam, tuttaram, tutturam 2, ukam, ukattai, ukattaicceti, umatai, umathai, umathan, umattai, umattan, umattan koluntu, umattanceti, umatti, umattitacceti, umattitam, umattu, ummattai, unmattai, unmattam@, unmattu, uram, urantinar 1, utaumattai, vantulacceti, vantulamatu, varalamarati, varanam 2, vayirrakkamayuram, velikontamuli, vellaiyumattai, vellaiyumattai 1, vellaiyumattai 2, vellaiyummatai, vellaiyummattai, vellumattai 1, vellumattai 2, vellummattai, veloomathu, vemmali, venmattan, vennumattai, vikatam, viranapatam, visamulam 1, vullay oomatay",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ff99d5b0189d36345e4af9144ab4151/xclkon/67ec8bd7665d6500bb20a60e4ef3574c"
+  ],
+  "source_record_ids": [
+    "links-0517"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ff99d5b0189d36345e4af9144ab4151/xclkon/67ec8bd7665d6500bb20a60e4ef3574c"
+    ],
+    "source_record_ids": [
+      "links-0517"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ff99d5b0189d36345e4af9144ab4151/xclkon/67ec8bd7665d6500bb20a60e4ef3574c",
+          "Plant Name": "Datura metel Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Datura metel Linn.",
+        "source_record_id": "links-0517",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ff99d5b0189d36345e4af9144ab4151/xclkon/67ec8bd7665d6500bb20a60e4ef3574c"
+      }
+    ],
+    "source_xplant_id": "6ff99d5b0189d36345e4af9144ab4151",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

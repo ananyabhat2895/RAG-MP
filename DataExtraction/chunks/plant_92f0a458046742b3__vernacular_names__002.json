@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_92f0a458046742b3__vernacular_names__002",
+  "plant_id": "plant_92f0a458046742b3",
+  "plant_name": "Ziziphus mauritiana Lam.",
+  "botanical_name": "Ziziphus mauritiana",
+  "botanical_authority": "LAM.",
+  "family": "RHAMNACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (119): adidaram, arulatotikacceti, arulatotiyam, atitarakamaram, atitaram, attiram, attiram 2, cancarikai, cancikai, cannirotayam, cannirotayamaram, cattiracamam, cimaiyilantai, cinailantai, civakam 1, cuviriyam#, cuviriyam@, cuviriyamaram, elandai, elandap-pazham, elandei vayr, iccatti, ilandai, ilandai maram, ilantai, ilantai ilai, ilantai ppalam, ilantappalam, ilantha, ilanthei, ilatai 1, inippilantai, inturu, inturukam, inturukamaram, iracatuntu, iradi, iram, irantuntu, irantuntukam, irantuntukamaram, irati 1, iratti, irisipakam, iruntunar, irutu, kamanalatti, karkkantu, katturekam, katturekamaram, kauvalam, ko, kokilam, kokkumpatari, koli, kolikam, kolikamaram, kolmuli, kondai, kontai, korkoti, korkotimaram, kotali, kottakkoti, kottakoti, kulari, kulatti, kulavali, kulavalli, kulavallimaram, kullari, kulvali, kulvali kol, kutapalai, kutapalam, kuvalam, miruttiyupalam, mulatti, muliyeru, munnatimatu, murukatantai, nalampalam, nattilantai, nilailantai, nilavilantai, padari, pallavaparuni, pallavaparunicceti, pancamiyam, patari, patarikam, patarikamaram, pulippilantai, pulippilantaicceti, ratti, ratticceti, sivagam, tammalai, tampalai, tampalam, tanupicam, tiritapicam 1, tittipilantaimaram, tittippilantai, utirumpalam, uyastavam, vaccirakantam, vadari, vakkirakantam, valarotayam, varuvaluntimuli, vataram@, vatari, vatuputpakam, vetirimaram, vettiracceti, vettiram 1, veyam, yellande\nTelugu (19): badaramu, badari, badarika, ganga regi, ganga-regu-pandu, gangaregu, gangarenu, karkandhuvu, karkhanduvu, ragu, regi, regu, regu-pandu, renga, rengha, reni, renu, reyghoo, reygoo\nTibetan (3): gya-sug, ko la, rgya sug\nUrdu (5): annab, baer, ber, unab, unnab",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9/xclkon/a802dbf8338be8bd2acb962b3dd37d8e"
+  ],
+  "source_record_ids": [
+    "links-0254",
+    "links-0257"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9/xclkon/a802dbf8338be8bd2acb962b3dd37d8e"
+    ],
+    "source_record_ids": [
+      "links-0254",
+      "links-0257"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9",
+          "Plant Name": "Ziziphus mauritiana Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ziziphus mauritiana Lam.",
+        "source_record_id": "links-0254",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9/xclkon/a802dbf8338be8bd2acb962b3dd37d8e",
+          "Plant Name": "Ziziphus jujuba Mill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ziziphus jujuba Mill.",
+        "source_record_id": "links-0257",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9/xclkon/a802dbf8338be8bd2acb962b3dd37d8e"
+      }
+    ],
+    "source_xplant_id": "d4be669d5491e9e967e8dd354e7842f9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

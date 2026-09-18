@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2fa10bc571eb3bc7__images__001",
+  "plant_id": "plant_2fa10bc571eb3bc7",
+  "plant_name": "Ceratophyllum demersum Linn.",
+  "botanical_name": "Ceratophyllum demersum",
+  "botanical_authority": "L.",
+  "family": "CERATOPHYLLACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/882fdbde02cdc497d7a9a621b3dfa0c2"
+  ],
+  "source_record_ids": [
+    "links-1689"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/882fdbde02cdc497d7a9a621b3dfa0c2"
+    ],
+    "source_record_ids": [
+      "links-1689"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/882fdbde02cdc497d7a9a621b3dfa0c2",
+          "Plant Name": "Ceratophyllum demersum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ceratophyllum demersum Linn.",
+        "source_record_id": "links-1689",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/882fdbde02cdc497d7a9a621b3dfa0c2"
+      }
+    ],
+    "source_xplant_id": "882fdbde02cdc497d7a9a621b3dfa0c2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

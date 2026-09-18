@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8816c1e690318aaa__botanical_synonyms__001",
+  "plant_id": "plant_8816c1e690318aaa",
+  "plant_name": "Artemisia maritima Linn.",
+  "botanical_name": "Artemisia maritima",
+  "botanical_authority": "L.",
+  "family": "ASTERACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Artemisia brevifolia WALL. EX DC. X Full Botanical citation - Artemisia brevifolia Wall. ex DC., Prodr. 6: 103. (1837) 1838; S. Karthikeyan & al., Flowering Plants of India - Dicots. 1: 275. 2009.\nSynonym: Artemisia brevifolia WALL. EX DC.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125f618790fe26adac71053fc6318dbc"
+  ],
+  "source_record_ids": [
+    "links-0428"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125f618790fe26adac71053fc6318dbc"
+    ],
+    "source_record_ids": [
+      "links-0428"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125f618790fe26adac71053fc6318dbc",
+          "Plant Name": "Artemisia maritima Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Artemisia maritima Linn.",
+        "source_record_id": "links-0428",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125f618790fe26adac71053fc6318dbc"
+      }
+    ],
+    "source_xplant_id": "125f618790fe26adac71053fc6318dbc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

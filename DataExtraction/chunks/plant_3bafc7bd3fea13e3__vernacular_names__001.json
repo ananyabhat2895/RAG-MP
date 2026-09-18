@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_3bafc7bd3fea13e3__vernacular_names__001",
+  "plant_id": "plant_3bafc7bd3fea13e3",
+  "plant_name": "Peristrophe bicalyculata Nees.",
+  "botanical_name": "Peristrophe paniculata",
+  "botanical_authority": "(FORSK.) BRUMMITT",
+  "family": "ACANTHACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (3): atrilal, kaknadi, kuchchi\nKannada (8): chebira gida, cheebe gida, cheebee gida, cheebeera soppu, cheebera soppu, cibi gida, eluvu sandaka, kaage kaalu baeru\nMalayalam (1): katou-pulcholli\nMarathi (5): ghati pitta papada, ghatipittapapada, kaanga, raan kiraayath, rankirayat\nSanskrit (5): Sanskrit CommentsX kakajangha, kakatikta, nadikanta, pracivala, sulomasa\nTamil (1): cara caniram\nTelugu (3): chebeera, chebira, chebura",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e51a53a5f7a18b8f9399a34ec44d5228/xclkon/3d64e75fec6f091f6614f457c062d7b4"
+  ],
+  "source_record_ids": [
+    "links-0841",
+    "links-0979"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e51a53a5f7a18b8f9399a34ec44d5228/xclkon/3d64e75fec6f091f6614f457c062d7b4"
+    ],
+    "source_record_ids": [
+      "links-0841",
+      "links-0979"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e51a53a5f7a18b8f9399a34ec44d5228/xclkon/3d64e75fec6f091f6614f457c062d7b4",
+          "Plant Name": "Peristrophe bicalyculata Nees.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Peristrophe bicalyculata Nees.",
+        "source_record_id": "links-0841",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e51a53a5f7a18b8f9399a34ec44d5228/xclkon/3d64e75fec6f091f6614f457c062d7b4"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e51a53a5f7a18b8f9399a34ec44d5228/xclkon/3d64e75fec6f091f6614f457c062d7b4",
+          "Plant Name": "Peristrophe bicalyculata",
+          "Status": "Found"
+        },
+        "source_plant_name": "Peristrophe bicalyculata",
+        "source_record_id": "links-0979",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e51a53a5f7a18b8f9399a34ec44d5228/xclkon/3d64e75fec6f091f6614f457c062d7b4"
+      }
+    ],
+    "source_xplant_id": "e51a53a5f7a18b8f9399a34ec44d5228",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

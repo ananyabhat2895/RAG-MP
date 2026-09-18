@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e1ce366ebc1a76f1__vernacular_names__001",
+  "plant_id": "plant_e1ce366ebc1a76f1",
+  "plant_name": "Crotalaria verrucosa Linn.",
+  "botanical_name": "Crotalaria verrucosa",
+  "botanical_authority": "L.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (2): banshana, jhanjhania\nKannada (10): gijate, giji-giji gida, gijibeeji, gijigiji gida, gijigiji soppu, gilanganchi gida, gilangicchu, ginagigiji gida, thannele gida, ulukina gida\nMalayalam (2): kilukiluppa, pee-tandale-cotti\nMarathi (9): bhat-ghagri, bomb, ghagaree, ghagari, ghagharu, khulkulaa, san, tag, thirat\nSanskrit (4): Sanskrit CommentsX brihatapushpi, dhavani, sanapuspi, shanapuspi\nTamil (60): amparanemi, amparanemicceti, avaratimatu, calcalamatar, cankuniti, cankunti, cantatakacceti, cantatakam, guluglluppaichedi, iratimatu, iratimatucceti, kalimakam, kalimarakacceti, kalimarakam#, kalimarakam@, kappi, kaucikeyam, killukiluppai, kilu kulppai, kilukiluppai, kilunki, kuttanacani2, matavalaki, mavatalaki, narimarutti, narimerutti, narimiratti, nariverutti, otai, pakanrai3, pakanraicceti, pancapatcivaci, peetandale-cotti, pemiratti, peymiratti, peymocci, peyppalamiratti, peyppalamiratti 2, peyppalamiratticceti@, piccai4, pittantalaikkotti, tampalakkarutam, tantalaikkotti, tanti5, ulanku2, ulankucceti, uttelanacceti, uttelanam, vami, vattakillu killuppai, vattakilukiluppai, vattakkilukiluppai, vattanarimiratti, vattanariviratti, vellaikkilukiluppai, venkilukiluppai, venkilukiluppaicceti, vilupannivilu 2, vitaikalikacceti, vitaikalikam\nTelugu (7): alla galli gheetsa, alla gili giccha, ghalegherinta, ghelegherinta, gheli-gherinta, gilagoranta, gili gicha",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/979fbcac54e140940ee02b3a7f92d022"
+  ],
+  "source_record_ids": [
+    "links-1713"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/979fbcac54e140940ee02b3a7f92d022"
+    ],
+    "source_record_ids": [
+      "links-1713"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/979fbcac54e140940ee02b3a7f92d022",
+          "Plant Name": "Crotalaria verrucosa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Crotalaria verrucosa Linn.",
+        "source_record_id": "links-1713",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/979fbcac54e140940ee02b3a7f92d022"
+      }
+    ],
+    "source_xplant_id": "979fbcac54e140940ee02b3a7f92d022",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

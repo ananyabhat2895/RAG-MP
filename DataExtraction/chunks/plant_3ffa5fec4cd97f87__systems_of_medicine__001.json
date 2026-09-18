@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_3ffa5fec4cd97f87__systems_of_medicine__001",
+  "plant_id": "plant_3ffa5fec4cd97f87",
+  "plant_name": "Vigna mungo ( Linn) Hepper. Var. viridis",
+  "botanical_name": "Vigna mungo",
+  "botanical_authority": "(L.) HEPPER",
+  "family": "FABACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk Botanical Synonyms (1) - Phaseolus mungo (L) MANT. X Full Botanical citation - Phaseolus mungo L. Mant. Pl. 1: 101. 1767; N.P.Singh &al.\nSystem of medicine: Fl.Maharashtra state\nSystem of medicine: Dicotyledones\nSystem of medicine: 1: Fl.India Ser. 2: 776. 2000.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079"
+  ],
+  "source_record_ids": [
+    "links-1259",
+    "links-1260",
+    "links-1261"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079"
+    ],
+    "source_record_ids": [
+      "links-1259",
+      "links-1260",
+      "links-1261"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079",
+          "Plant Name": "Vigna mungo ( Linn) Hepper. Var. viridis",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vigna mungo ( Linn) Hepper. Var. viridis",
+        "source_record_id": "links-1259",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079",
+          "Plant Name": "Vigna mungo (Linn) Hepper.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vigna mungo (Linn) Hepper.",
+        "source_record_id": "links-1260",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079",
+          "Plant Name": "Vigna mungo (Linn) Hepper. Var mungo",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vigna mungo (Linn) Hepper. Var mungo",
+        "source_record_id": "links-1261",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079"
+      }
+    ],
+    "source_xplant_id": "b1f8104caf3cd03763188a39cf068079",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

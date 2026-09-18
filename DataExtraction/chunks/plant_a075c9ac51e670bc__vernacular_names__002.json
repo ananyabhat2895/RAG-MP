@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a075c9ac51e670bc__vernacular_names__002",
+  "plant_id": "plant_a075c9ac51e670bc",
+  "plant_name": "Asparagus racemosus Willd.",
+  "botanical_name": "Asparagus racemosus",
+  "botanical_authority": "WILLD.",
+  "family": "LILIACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (165): aikkuncu, akerukam, alatakkilanku, amam1, ammai-kodi, ammaikodi, ampu1, apiru, attumacalliyai, ayaru, calakuntalam, calliver, catamulai, catamulakkilanku, catamulam, catamulam#, catamulam@, catamuli@, catamullacam, catavari, cataveli, cataveli#, cataveli@, catavelikkilanku, cataveri, cataveri#, cataveri@, cattiraveri, cattiraverikkilanku, catturu, cikkuvai, cikkuvai#, cikkuvai@, cirumal, citacintu, citacintukkilanku, citumalar, citumalarkkilanku, cuntarakeci, cutcumanarayani, cutcumapattiram, cuttakeci, intivari, intuvaci, intuvari, ittiyapi, kadamulam, kadumulla, kancanakarini, kankaimittan, ketaram, kilavari, kilavarikkilanku, kizhangu, kulimittan1, kulimittan1@, kumilmittan, matacaranai, mekam, migundavanam, mikuntavanam, mikuntavanam#, mikuntavanam@, mikuntiki, mikuntikikkilanku, mirukam, mirutam 2, nakatamanam, narayanamuli, narayani, nikatam, nilichedi, nirkkilanku2, nirkkutatti, nirkkutattikkilanku, nirlittan, nirmittan, nirmittan#, nirmittan@, nirmittankilanku, nirmulakkilanku, nirmulam, nirmulam#, nirunti1, niruntiver, nirvali, nirvalli, nirvalli1, nirvalli1@, nirvallikkilanku, nirvatan1, nirvisakkilanku, nirvittan, nirvittankilanku, nittam#, nittankilanku, nuruntikkilanku, pakumulam, palapillaikkilanku, pani yanaku, paniti, panitikkilanku, paniyanakku, paniyinakku, pankini, pannai, pannai#, papattai, paranai, paranai#, paranai@, parranai, pattiyal, pattiyarkilanku, perumputtika, piritivu, piritivukkilanku, pirutanti, piruttiri, pulipiru, purukam, purukiyam, purupiru, purupirukam, puvupiru, sadamulam, sadavari, sadaveli, sadaveri, sandavari, satavali, shadavari, shimai shadavari, tampiravalli, tampiravalli@, tanirvittan, tannir mittan, tannir vittan, tannir-muttan-kizhangu, tannirmuttan, tannirvittan, tannirvittankizhangu, tarakantikam, thanneer vittan kizhangu, thanneervittan kizhangu, thannir-vittan, thannirvittan, thanuttu-kodi, thanuttukodi, tucippukkilanku, tucuppu@, tuviputtukkilanku, tuviputturu, tuvittatturu, urttuvakantam, utaka mulam, utakamulam, vannattikkilanku, varivali, varivalikkilanku, varivam, varivari, varunamuni, vipucatturu, viputacatturu\nTelugu (25): challa, challa gadda, challa-gaddalu, challagadda, erravaaluduthige, ettavaludutige, peechara, philli-taga, pichara, pilli, pilli gaddalu, pilli teegalu, pilli-tega, pillipeechara, pillipichara, pillitege, pillitheegalu, pillithege, pillityaga, sadavari, satanandudu, sathaanandudu, sathaavari, seethammajata, shatavari\nTibetan (1): ne u sin",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/739a42451fb9c14fd1f382b72baf507d"
+  ],
+  "source_record_ids": [
+    "links-1767"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/739a42451fb9c14fd1f382b72baf507d"
+    ],
+    "source_record_ids": [
+      "links-1767"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/739a42451fb9c14fd1f382b72baf507d",
+          "Plant Name": "Asparagus racemosus Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Asparagus racemosus Willd.",
+        "source_record_id": "links-1767",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/739a42451fb9c14fd1f382b72baf507d"
+      }
+    ],
+    "source_xplant_id": "739a42451fb9c14fd1f382b72baf507d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

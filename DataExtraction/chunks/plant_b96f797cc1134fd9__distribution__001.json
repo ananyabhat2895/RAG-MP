@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b96f797cc1134fd9__distribution__001",
+  "plant_id": "plant_b96f797cc1134fd9",
+  "plant_name": "Cucumis sativus Linn.",
+  "botanical_name": "Cucumis sativus",
+  "botanical_authority": "L.",
+  "family": "CUCURBITACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - HARIDASAN K & RAO R R; distribution: Distribution; title: Title - FOREST FLORA OF MEGHALAYA VOL 1\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol I\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7539d46056fe6cad14cc5bf5c29ac602"
+  ],
+  "source_record_ids": [
+    "links-0964"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7539d46056fe6cad14cc5bf5c29ac602"
+    ],
+    "source_record_ids": [
+      "links-0964"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7539d46056fe6cad14cc5bf5c29ac602",
+          "Plant Name": "Cucumis sativus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cucumis sativus Linn.",
+        "source_record_id": "links-0964",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7539d46056fe6cad14cc5bf5c29ac602"
+      }
+    ],
+    "source_xplant_id": "7539d46056fe6cad14cc5bf5c29ac602",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

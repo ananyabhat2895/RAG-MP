@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_96150cebe57f8881__systems_of_medicine__001",
+  "plant_id": "plant_96150cebe57f8881",
+  "plant_name": "Lodoicea maldivica (Poir.) Pers.",
+  "botanical_name": "Lodoicea maldivica",
+  "botanical_authority": "(POIR.) PERS.",
+  "family": "ARECACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk Botanical Synonyms (1) - Lodoicea seychellarum LABILL",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/770f328a0c95044142db38382574f2af"
+  ],
+  "source_record_ids": [
+    "links-1710"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/770f328a0c95044142db38382574f2af"
+    ],
+    "source_record_ids": [
+      "links-1710"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/770f328a0c95044142db38382574f2af",
+          "Plant Name": "Lodoicea maldivica (Poir.) Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lodoicea maldivica (Poir.) Pers.",
+        "source_record_id": "links-1710",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/770f328a0c95044142db38382574f2af"
+      }
+    ],
+    "source_xplant_id": "770f328a0c95044142db38382574f2af",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

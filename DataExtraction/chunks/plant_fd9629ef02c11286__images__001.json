@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_fd9629ef02c11286__images__001",
+  "plant_id": "plant_fd9629ef02c11286",
+  "plant_name": "Solanum insanum Roxb.",
+  "botanical_name": "Solanum melongena",
+  "botanical_authority": "L. var. incanum KUNTZE",
+  "family": "SOLANACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1b4d62fca64de2eb2eeaf1e6d3c61e1/xclkon/2fd77ce1b83df13257cebf1af142564d"
+  ],
+  "source_record_ids": [
+    "links-0393"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1b4d62fca64de2eb2eeaf1e6d3c61e1/xclkon/2fd77ce1b83df13257cebf1af142564d"
+    ],
+    "source_record_ids": [
+      "links-0393"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1b4d62fca64de2eb2eeaf1e6d3c61e1/xclkon/2fd77ce1b83df13257cebf1af142564d",
+          "Plant Name": "Solanum insanum Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum insanum Roxb.",
+        "source_record_id": "links-0393",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1b4d62fca64de2eb2eeaf1e6d3c61e1/xclkon/2fd77ce1b83df13257cebf1af142564d"
+      }
+    ],
+    "source_xplant_id": "f1b4d62fca64de2eb2eeaf1e6d3c61e1",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

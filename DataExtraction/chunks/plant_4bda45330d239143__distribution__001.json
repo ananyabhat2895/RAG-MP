@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4bda45330d239143__distribution__001",
+  "plant_id": "plant_4bda45330d239143",
+  "plant_name": "Canscora diffusa R. Br.",
+  "botanical_name": "Canscora diffusa",
+  "botanical_authority": "(VAHL) R. BR.",
+  "family": "GENTIANACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b980ee74d14fdca6e2c6804db0287848"
+  ],
+  "source_record_ids": [
+    "links-1718"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b980ee74d14fdca6e2c6804db0287848"
+    ],
+    "source_record_ids": [
+      "links-1718"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b980ee74d14fdca6e2c6804db0287848",
+          "Plant Name": "Canscora diffusa R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Canscora diffusa R. Br.",
+        "source_record_id": "links-1718",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b980ee74d14fdca6e2c6804db0287848"
+      }
+    ],
+    "source_xplant_id": "b980ee74d14fdca6e2c6804db0287848",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

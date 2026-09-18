@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_27060408715fb658__vernacular_names__001",
+  "plant_id": "plant_27060408715fb658",
+  "plant_name": "Flacourtia sepiaria Roxb.",
+  "botanical_name": "Flacourtia indica",
+  "botanical_authority": "(BURM.F.)",
+  "family": "FLACOURTIACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): governor s plum, madagascar plum, ramontchi\nHindi (14): baichi, bhanber, bilangra, ghargoogar, kancu, kandai, kangu, kangu/kandai, kanju, kankair, kattar, kondai, kondari, konkrol\nKannada (19): ablu, aturake, bilehuli, gaajaale, gajale, gekara, hennusampige, hettari mullu, kaakade, karre, kuduvale, miradi, mirde, miridi, mullu thaare, mulluthotti, mulluvinda, naayi beli, nakkeharagu\nMalayalam (7): aghori, courou-moelli, couroumullu, karimulli, kurumuli, kurumulli, mullullakatta\nMarathi (11): athruna, atran, babhuli, bhekal, bhekala, binka, kaantera, kaker, kuki, paker, tambat\nSanskrit (7): Sanskrit CommentsX aghori, kantaki, kinkini, obadali, sruvavrksa, svadukantaka, vikankata\nTamil (20): cottai, cottaikkala, courou moelli, kanru, kattukala, katukalai, kodikarai, kodikarral, kodumundi, kotimunti1, kottaikkala1, kotumunti, kurumulli, malukkarai, nattukkottaikkala, shothukala, sottacla, sottaikala, sottaikalai, sottaikalla\nTelugu (24): bontakandraegu, conren, conrew, ganregumaddi, kaanaraegu, kampa, kanaregu, kandraegu, kandraju, kandregu, kanru, mulielka, mulu tiruman, nakkanaraegu, nakkaneraedu, nelli, peddakanaraegu, ptikatada, pulivelaga, puliyellaga, puliyellaka, pullerika, pulregu, putikatada\nTibetan (5): bi ka na ka, sa ba na rnam gcig, sra ba na rnam gcig (p), sra sa, srs ba",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2/xclkon/dd7d4036a32c36b7fc7182560be7f1c2",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2"
+  ],
+  "source_record_ids": [
+    "links-1050",
+    "links-2101"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2/xclkon/dd7d4036a32c36b7fc7182560be7f1c2",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2"
+    ],
+    "source_record_ids": [
+      "links-1050",
+      "links-2101"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2/xclkon/dd7d4036a32c36b7fc7182560be7f1c2",
+          "Plant Name": "Flacourtia sepiaria Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Flacourtia sepiaria Roxb.",
+        "source_record_id": "links-1050",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2/xclkon/dd7d4036a32c36b7fc7182560be7f1c2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2",
+          "Plant Name": "Flacourtia indica Merr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Flacourtia indica Merr.",
+        "source_record_id": "links-2101",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2"
+      }
+    ],
+    "source_xplant_id": "0a51b919c7926844e164c464ec8d28e2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

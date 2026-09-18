@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_17bfa4715227c275__identification__001",
+  "plant_id": "plant_17bfa4715227c275",
+  "plant_name": "Bauhinia vahlii W. & A.",
+  "botanical_name": "Bauhinia vahlii",
+  "botanical_authority": "WIGHT & ARN.",
+  "family": "CAESALPINIACEAE",
+  "section": "identification",
+  "content": "Plant name: Bauhinia vahlii W. & A. Botanical name: Bauhinia vahlii Botanical authority: WIGHT & ARN. Family: CAESALPINIACEAE Source xplant ID: bdde7b4fb44547c717301fdfe633c6ca",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdde7b4fb44547c717301fdfe633c6ca"
+  ],
+  "source_record_ids": [
+    "links-0182",
+    "links-1313"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdde7b4fb44547c717301fdfe633c6ca"
+    ],
+    "source_record_ids": [
+      "links-0182",
+      "links-1313"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdde7b4fb44547c717301fdfe633c6ca",
+          "Plant Name": "Bauhinia vahlii W. & A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bauhinia vahlii W. & A.",
+        "source_record_id": "links-0182",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdde7b4fb44547c717301fdfe633c6ca"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdde7b4fb44547c717301fdfe633c6ca",
+          "Plant Name": "Bauhinia vahlii",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bauhinia vahlii",
+        "source_record_id": "links-1313",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdde7b4fb44547c717301fdfe633c6ca"
+      }
+    ],
+    "source_xplant_id": "bdde7b4fb44547c717301fdfe633c6ca",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

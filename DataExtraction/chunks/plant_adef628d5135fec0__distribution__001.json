@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_adef628d5135fec0__distribution__001",
+  "plant_id": "plant_adef628d5135fec0",
+  "plant_name": "Hibiscus cancellatus Roxb.",
+  "botanical_name": "Abelmoschus crinitus",
+  "botanical_authority": "WALL.",
+  "family": "MALVACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - Botanicaly Survey of India; distribution: Distribution; title: Title - FLORA OF INDIA VOL 3\nDistribution entry: author: Author - Ed. P. Daniel; distribution: Distribution; title: Title - The Flora of Kerala Vol I\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol I\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - BSI Scientist; distribution: Distribution; title: Title - Flora of West Bengal Vol 1\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abe65b2e409317659131e47d5b7fa402/xclkon/bbfd6a91927f3260981223b8f9a98479"
+  ],
+  "source_record_ids": [
+    "links-0987"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abe65b2e409317659131e47d5b7fa402/xclkon/bbfd6a91927f3260981223b8f9a98479"
+    ],
+    "source_record_ids": [
+      "links-0987"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abe65b2e409317659131e47d5b7fa402/xclkon/bbfd6a91927f3260981223b8f9a98479",
+          "Plant Name": "Hibiscus cancellatus Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hibiscus cancellatus Roxb.",
+        "source_record_id": "links-0987",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abe65b2e409317659131e47d5b7fa402/xclkon/bbfd6a91927f3260981223b8f9a98479"
+      }
+    ],
+    "source_xplant_id": "abe65b2e409317659131e47d5b7fa402",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

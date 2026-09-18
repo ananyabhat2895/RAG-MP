@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_9b010c300c9bb7f7__botanical_synonyms__001",
+  "plant_id": "plant_9b010c300c9bb7f7",
+  "plant_name": "Commiphora myrrha (Nees) Engl.",
+  "botanical_name": "Commiphora myrrha",
+  "botanical_authority": "ENGL.",
+  "family": "BURSERACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Balsamodendron myrrha N.& E. X Full Botanical citation - Balsamodendron myrrha T. Nees in Weyhe, Pl. Medicin.: t. 182. 1828; A.N. Henry & V. Chithra in P. Daniel, Fl. Kerala 1: 632. 2005.\nSynonym: Balsamodendron myrrha N.& E.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/62b4c58d8e0366dc7366d335ad7ae585"
+  ],
+  "source_record_ids": [
+    "links-0364",
+    "links-0781"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/62b4c58d8e0366dc7366d335ad7ae585"
+    ],
+    "source_record_ids": [
+      "links-0364",
+      "links-0781"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/62b4c58d8e0366dc7366d335ad7ae585",
+          "Plant Name": "Commiphora myrrha (Nees) Engl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Commiphora myrrha (Nees) Engl.",
+        "source_record_id": "links-0364",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/62b4c58d8e0366dc7366d335ad7ae585"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/62b4c58d8e0366dc7366d335ad7ae585",
+          "Plant Name": "Commiphora myrrha Holmes.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Commiphora myrrha Holmes.",
+        "source_record_id": "links-0781",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/62b4c58d8e0366dc7366d335ad7ae585"
+      }
+    ],
+    "source_xplant_id": "62b4c58d8e0366dc7366d335ad7ae585",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_f0582bb9b9305f8a__identification__001",
+  "plant_id": "plant_f0582bb9b9305f8a",
+  "plant_name": "Smilax lanceifolia Roxb.",
+  "botanical_name": "Smilax lanceifolia",
+  "botanical_authority": "ROXB.",
+  "family": "SMILACACEAE",
+  "section": "identification",
+  "content": "Plant name: Smilax lanceifolia Roxb. Botanical name: Smilax lanceifolia Botanical authority: ROXB. Family: SMILACACEAE Source xplant ID: 043d2158b1783720e6473daad512c87d",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/043d2158b1783720e6473daad512c87d"
+  ],
+  "source_record_ids": [
+    "links-0466"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/043d2158b1783720e6473daad512c87d"
+    ],
+    "source_record_ids": [
+      "links-0466"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/043d2158b1783720e6473daad512c87d",
+          "Plant Name": "Smilax lanceifolia Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Smilax lanceifolia Roxb.",
+        "source_record_id": "links-0466",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/043d2158b1783720e6473daad512c87d"
+      }
+    ],
+    "source_xplant_id": "043d2158b1783720e6473daad512c87d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

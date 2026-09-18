@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_e39811427c512fc4__vernacular_names__001",
+  "plant_id": "plant_e39811427c512fc4",
+  "plant_name": "Tribulus terrestris",
+  "botanical_name": "Tribulus terrestris",
+  "botanical_authority": "L.",
+  "family": "ZYGOPHYLLACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): caltrops, devil s thorn\nHindi (12): burragokhur, chhotagokhru, chota-gokhru, goghru, gokharu, gokhru, gokhuru, gokshri, hatechanghara, hussuk, kanti, pili-kante\nKannada (14): govina mullu, kirineglu mullu, naegalu mullu, naeggila mullu, negalu, neggila mullu, neggilu, negil-mullu, neglumullu, nerigilu, nerinjimullu, sanna neggilu, sannaneggilugida, sennanegalu\nMalayalam (3): neringil, nerinnil, nerungil\nMarathi (8): ghokaroo, ghokaru, gokru, kaante gokharoo, lahanagokharu, sarata, sarate, sharatte\nSanskrit (43): Sanskrit CommentsX bahukantaka, bhakshataka, canadruma, chanadruma, gokanta, gokantaka, gokantakah, gokhura, gokhurha, gokshua, gokshura, gokshuru, goksura, goksurah, goksuraka, ikshugandha, iksugandhika, kanta, kantaphala, kshudragokshura, kshudrakshura, kshura, laghugokshura, laghugoksuru, palankasha, ractasuadanshtra, ri, sadanga, sadangah, shadanga, shvadanshtra, soodumstra, sthalashringataka, sthalasringataka, sudumstra, svadamstra, svadukantaka, svadunestra, traikantaka, trikantah, trikantaka, vanashringataka, vanasrangata\nTamil (113): acacaram1, acacuram1, accuram2, acuvacattiram, acuvacettiram, acuvatattiram, akkavalati, akkilu, akkini 2, akkinil, antaravaruni, antaravarunikkoti, cherunerinche, cineruncil, ciruneruncil, citiram, cucumam, cukam@, cutakakkoti, cutakam, cutam, cuvatattam, cuvatukantakam2, cuvatukantakkoti, cuvatukantam, cuvatukantam2, ikkukantai3, inki, inkucakkanan2, inkucukantan2, inkucukantan@, inkucukkantan2, inkukkantan2, inkutavakam, irattaccemi, itcukantam2, kamaraci, kamaracikkoti, kamarici, kanatanti, katutatinetti, kittiram, kokanamul, kokanamutkoti, kokantakam, kokantam, kokkurapputu, kontakakkoti, kontakam, kontam, kontam1, kotimakitam, kurukku, matipam, matipoti, matipoti#, matipoti@, mattuppoti, mukkantakam, mukkantaki, mukkantali, nal nenuncil, nallaneruncil, nalnerunci, nalneruncil, nannerincil, nanneruncikkoti, nattuvarikam, nayppanippuntu, nerenjimullu, nerinci, neringie, nerinjal, nerinji, nerunchil, nerunci, neruncil, neruncippaccai, nerunciputum, nerungil, nerunji, nerunjil, nerunjul, ororutali, pacanapeti 2, palleru, paramatarai, patalamulam 3, patalamuli 3, patamuli, peru neruncil, piruntai 2, sirunerinji, tirikalatakam, tirikantakam, tirikantaki, tirikantakkoti, tirikantam, tirikantam#, tirikantam@, tiritantam, tiruvarttaivattam, tumpu, ucaripam, ucaritam, uccitakkoti, uccitam, viruccalapam, viruccalayi, virukkalapam, yanaikkalvananki, yanaikkalvanankipputu, yanaivananki 2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c36ef2db0f80f2189c83977da274cbc"
+  ],
+  "source_record_ids": [
+    "links-0629",
+    "links-0630"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c36ef2db0f80f2189c83977da274cbc"
+    ],
+    "source_record_ids": [
+      "links-0629",
+      "links-0630"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c36ef2db0f80f2189c83977da274cbc",
+          "Plant Name": "Tribulus terrestris",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tribulus terrestris",
+        "source_record_id": "links-0629",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c36ef2db0f80f2189c83977da274cbc"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c36ef2db0f80f2189c83977da274cbc",
+          "Plant Name": "Tribulus terrestris Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tribulus terrestris Linn.",
+        "source_record_id": "links-0630",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c36ef2db0f80f2189c83977da274cbc"
+      }
+    ],
+    "source_xplant_id": "2c36ef2db0f80f2189c83977da274cbc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ed49ce82a376a972__systems_of_medicine__001",
+  "plant_id": "plant_ed49ce82a376a972",
+  "plant_name": "Trichosanthes cucumerina Linn.",
+  "botanical_name": "Trichosanthes cucumerina",
+  "botanical_authority": "L.",
+  "family": "CUCURBITACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8f2570e1527708ce5a2b15f50a8da412"
+  ],
+  "source_record_ids": [
+    "links-0848"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8f2570e1527708ce5a2b15f50a8da412"
+    ],
+    "source_record_ids": [
+      "links-0848"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8f2570e1527708ce5a2b15f50a8da412",
+          "Plant Name": "Trichosanthes cucumerina Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Trichosanthes cucumerina Linn.",
+        "source_record_id": "links-0848",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8f2570e1527708ce5a2b15f50a8da412"
+      }
+    ],
+    "source_xplant_id": "8f2570e1527708ce5a2b15f50a8da412",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

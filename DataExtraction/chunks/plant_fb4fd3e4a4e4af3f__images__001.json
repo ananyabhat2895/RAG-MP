@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_fb4fd3e4a4e4af3f__images__001",
+  "plant_id": "plant_fb4fd3e4a4e4af3f",
+  "plant_name": "Dipterocarpus turbinatus Gaertn.f.",
+  "botanical_name": "Dipterocarpus turbinatus",
+  "botanical_authority": "GAERTN. F.",
+  "family": "DIPTEROCARPACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c0079351bb60f9dd4362d867582c9cb8"
+  ],
+  "source_record_ids": [
+    "links-0048",
+    "links-0223"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c0079351bb60f9dd4362d867582c9cb8"
+    ],
+    "source_record_ids": [
+      "links-0048",
+      "links-0223"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c0079351bb60f9dd4362d867582c9cb8",
+          "Plant Name": "Dipterocarpus turbinatus Gaertn.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dipterocarpus turbinatus Gaertn.f.",
+        "source_record_id": "links-0048",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c0079351bb60f9dd4362d867582c9cb8"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c0079351bb60f9dd4362d867582c9cb8",
+          "Plant Name": "Dipterocarpus turbinatus Gaertn. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dipterocarpus turbinatus Gaertn. f.",
+        "source_record_id": "links-0223",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c0079351bb60f9dd4362d867582c9cb8"
+      }
+    ],
+    "source_xplant_id": "c0079351bb60f9dd4362d867582c9cb8",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

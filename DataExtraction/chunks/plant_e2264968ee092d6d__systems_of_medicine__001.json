@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e2264968ee092d6d__systems_of_medicine__001",
+  "plant_id": "plant_e2264968ee092d6d",
+  "plant_name": "Casearia esculenta Roxb.",
+  "botanical_name": "Casearia zeylanica",
+  "botanical_authority": "(GAERTN.) RHW.",
+  "family": "FLACOURTIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Folk Botanical Synonyms (2) - Casearia esculenta ROXB. X Full Botanical citation - Casearia esculenta Roxb.\nSystem of medicine: Fl. Ind. 2: 422. 1832; R.L. Mitra in B.D. Sharma & N.P. Balakr.\nSystem of medicine: Fl. India 2: 399. 1993. Casearia esculentta ROXB.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/730d07047139517662a44b8d0f892f9b/xclkon/a3267a89be1c37cdfadd17e7db9f2095"
+  ],
+  "source_record_ids": [
+    "links-0683"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/730d07047139517662a44b8d0f892f9b/xclkon/a3267a89be1c37cdfadd17e7db9f2095"
+    ],
+    "source_record_ids": [
+      "links-0683"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/730d07047139517662a44b8d0f892f9b/xclkon/a3267a89be1c37cdfadd17e7db9f2095",
+          "Plant Name": "Casearia esculenta Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Casearia esculenta Roxb.",
+        "source_record_id": "links-0683",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/730d07047139517662a44b8d0f892f9b/xclkon/a3267a89be1c37cdfadd17e7db9f2095"
+      }
+    ],
+    "source_xplant_id": "730d07047139517662a44b8d0f892f9b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

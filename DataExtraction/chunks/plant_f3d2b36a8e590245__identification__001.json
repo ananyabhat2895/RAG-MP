@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_f3d2b36a8e590245__identification__001",
+  "plant_id": "plant_f3d2b36a8e590245",
+  "plant_name": "Breynia patens Benth.",
+  "botanical_name": "Breynia retusa",
+  "botanical_authority": "(DENNST.) ALSTON",
+  "family": "EUPHORBIACEAE",
+  "section": "identification",
+  "content": "Plant name: Breynia patens Benth. Botanical name: Breynia retusa Botanical authority: (DENNST.) ALSTON Family: EUPHORBIACEAE Source xplant ID: 1b7ff6980b812e3d97d3a2b7bccd3b70",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b7ff6980b812e3d97d3a2b7bccd3b70/xclkon/0d16479ace53a50e75aac8fea3834be7"
+  ],
+  "source_record_ids": [
+    "links-0882"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b7ff6980b812e3d97d3a2b7bccd3b70/xclkon/0d16479ace53a50e75aac8fea3834be7"
+    ],
+    "source_record_ids": [
+      "links-0882"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b7ff6980b812e3d97d3a2b7bccd3b70/xclkon/0d16479ace53a50e75aac8fea3834be7",
+          "Plant Name": "Breynia patens Benth.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Breynia patens Benth.",
+        "source_record_id": "links-0882",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b7ff6980b812e3d97d3a2b7bccd3b70/xclkon/0d16479ace53a50e75aac8fea3834be7"
+      }
+    ],
+    "source_xplant_id": "1b7ff6980b812e3d97d3a2b7bccd3b70",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

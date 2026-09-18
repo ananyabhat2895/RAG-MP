@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_92f0a458046742b3__vernacular_names__001",
+  "plant_id": "plant_92f0a458046742b3",
+  "plant_name": "Ziziphus mauritiana Lam.",
+  "botanical_name": "Ziziphus mauritiana",
+  "botanical_authority": "LAM.",
+  "family": "RHAMNACEAE",
+  "section": "vernacular_names",
+  "content": "English (5): french jujube, indian jujube, jujube, neutral henna, sedra\nHindi (13): badara, baer, bara-bor, ber, beri, bor, bordi, borti, karkandhu, kath ber, kuvala, pamji-bor, pemdiber\nKannada (32): badari, bare, bari, barihannu, ber, bogare, bogari, bogori, bogri, bore, egaci, egasi, elachi, elaci, elanji, elasi, ilanji, ilantai, ilici, ilisi, jati, jelachi, karkandhu, karkhandhyalachi, yagachi, yalachi, yalachi-hannu, yalaci, yelachi, yelanji, yelchi, yellachi\nMalayalam (21): badaram, badari, elanta, elantap-pazham, elantha, elenda, elentha, ilanta, ilantappalam, ilantha, kolam, lanta, lantappalam, parintoddali, parintudai, perimtoddali, perin-toddah, perintoddah, perintutali, peruntutali, yelanda\nMarathi (7): baher, ber, bera, bhor, bor, bora, bori\nSanskrit (39): Sanskrit CommentsX ajapriya, badara, badarah, badari, balashta, dridhabija, dviparni, ghonta, grddhanakha, gudaphala, kantaki, karkarmadhu, kola, kolah, koli, kuvala, kuvali, madhuraphala, mahadebara, nakhi, nripabadari, nripeshta, phalashayshira, prithukoli, rajabadari, rajakoli, rajavallabha, sauvira, sincitikaphala, srigalakoli, sukrapriya, sukshmapatrika, sukshmaphala, suphala, svachha, tanubija, ubhayakantaka, vadari, vatadalla",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9/xclkon/a802dbf8338be8bd2acb962b3dd37d8e"
+  ],
+  "source_record_ids": [
+    "links-0254",
+    "links-0257"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9/xclkon/a802dbf8338be8bd2acb962b3dd37d8e"
+    ],
+    "source_record_ids": [
+      "links-0254",
+      "links-0257"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9",
+          "Plant Name": "Ziziphus mauritiana Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ziziphus mauritiana Lam.",
+        "source_record_id": "links-0254",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9/xclkon/a802dbf8338be8bd2acb962b3dd37d8e",
+          "Plant Name": "Ziziphus jujuba Mill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ziziphus jujuba Mill.",
+        "source_record_id": "links-0257",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9/xclkon/a802dbf8338be8bd2acb962b3dd37d8e"
+      }
+    ],
+    "source_xplant_id": "d4be669d5491e9e967e8dd354e7842f9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

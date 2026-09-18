@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_11c63907d73a42f4__botanical_synonyms__001",
+  "plant_id": "plant_11c63907d73a42f4",
+  "plant_name": "Datura metel Linn.",
+  "botanical_name": "Datura metel",
+  "botanical_authority": "L.",
+  "family": "SOLANACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Datura alba NEES X Full Botanical citation - Datura alba Nees in Trans. Linn. Soc. 17: 73. 1834; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 429-30. 1999. Datura fastuosa L. X Full Botanical citation - Datura fastuosa L., Syst. Nat. ed. 10: 932. 1759; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 429. 1999. Datura fastuosa L. var. alba (NEES) C.B. CLARKE Datura metel L. var. alba\nSynonym: Datura alba NEES\nSynonym: Datura fastuosa L.\nSynonym: Datura fastuosa L. var. alba (NEES) C.B. CLARKE\nSynonym: Datura metel L. var. alba",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ff99d5b0189d36345e4af9144ab4151/xclkon/67ec8bd7665d6500bb20a60e4ef3574c"
+  ],
+  "source_record_ids": [
+    "links-0517"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ff99d5b0189d36345e4af9144ab4151/xclkon/67ec8bd7665d6500bb20a60e4ef3574c"
+    ],
+    "source_record_ids": [
+      "links-0517"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ff99d5b0189d36345e4af9144ab4151/xclkon/67ec8bd7665d6500bb20a60e4ef3574c",
+          "Plant Name": "Datura metel Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Datura metel Linn.",
+        "source_record_id": "links-0517",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ff99d5b0189d36345e4af9144ab4151/xclkon/67ec8bd7665d6500bb20a60e4ef3574c"
+      }
+    ],
+    "source_xplant_id": "6ff99d5b0189d36345e4af9144ab4151",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

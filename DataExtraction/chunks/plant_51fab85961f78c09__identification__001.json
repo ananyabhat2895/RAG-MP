@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_51fab85961f78c09__identification__001",
+  "plant_id": "plant_51fab85961f78c09",
+  "plant_name": "Aloe variegata Linn.",
+  "botanical_name": "Aloe variegata",
+  "botanical_authority": "L.",
+  "family": "LILIACEAE",
+  "section": "identification",
+  "content": "Plant name: Aloe variegata Linn. Botanical name: Aloe variegata Botanical authority: L. Family: LILIACEAE Source xplant ID: 9302230e136ea74d075c250d7eef46bc",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9302230e136ea74d075c250d7eef46bc"
+  ],
+  "source_record_ids": [
+    "links-1112"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9302230e136ea74d075c250d7eef46bc"
+    ],
+    "source_record_ids": [
+      "links-1112"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9302230e136ea74d075c250d7eef46bc",
+          "Plant Name": "Aloe variegata Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aloe variegata Linn.",
+        "source_record_id": "links-1112",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9302230e136ea74d075c250d7eef46bc"
+      }
+    ],
+    "source_xplant_id": "9302230e136ea74d075c250d7eef46bc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

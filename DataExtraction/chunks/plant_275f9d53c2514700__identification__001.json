@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_275f9d53c2514700__identification__001",
+  "plant_id": "plant_275f9d53c2514700",
+  "plant_name": "Argemone mexicana",
+  "botanical_name": "Argemone mexicana",
+  "botanical_authority": "L.",
+  "family": "PAPAVERACEAE",
+  "section": "identification",
+  "content": "Plant name: Argemone mexicana Botanical name: Argemone mexicana Botanical authority: L. Family: PAPAVERACEAE Source xplant ID: 5e93a9d29c6a195665eb396e6fedb15e",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e93a9d29c6a195665eb396e6fedb15e"
+  ],
+  "source_record_ids": [
+    "links-0368",
+    "links-1778"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e93a9d29c6a195665eb396e6fedb15e"
+    ],
+    "source_record_ids": [
+      "links-0368",
+      "links-1778"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e93a9d29c6a195665eb396e6fedb15e",
+          "Plant Name": "Argemone mexicana",
+          "Status": "Found"
+        },
+        "source_plant_name": "Argemone mexicana",
+        "source_record_id": "links-0368",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e93a9d29c6a195665eb396e6fedb15e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e93a9d29c6a195665eb396e6fedb15e",
+          "Plant Name": "Argemone mexicana Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Argemone mexicana Linn.",
+        "source_record_id": "links-1778",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e93a9d29c6a195665eb396e6fedb15e"
+      }
+    ],
+    "source_xplant_id": "5e93a9d29c6a195665eb396e6fedb15e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

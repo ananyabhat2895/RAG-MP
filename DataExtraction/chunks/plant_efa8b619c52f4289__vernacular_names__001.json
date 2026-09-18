@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_efa8b619c52f4289__vernacular_names__001",
+  "plant_id": "plant_efa8b619c52f4289",
+  "plant_name": "Dioscorea pentaphylla Linn.",
+  "botanical_name": "Dioscorea pentaphylla",
+  "botanical_authority": "L.",
+  "family": "DIOSCOREACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (13): bhusa, bursa, dregal, gajaria, kada kanda, kanta alu, kantaalu, phal alu, phalu alu, ratalu, tena, teona, teoni\nKannada (3): adavigummathiga, kaadu gumbala, kaadugumbala\nMalayalam (14): kattunurankilannu, kattunurankizhannu, kattunurunnakilannu, katu-nuren-kelengu, nuraigenassu, nuraikaju, nurankilangu, nurankilannu, nurankizhannu, nuren-kelengu, nurenikelangu, nurenkelengu, nurkavan, nurunnakilannu\nMarathi (7): chataveli, dhai-karamdi, koneti, mamdel, manda, shendvel, ulasi\nSanskrit (1): Sanskrit CommentsX kantakalu\nTamil (12): chedukundi, kattu valli kalangu, kattukkilangu, kattuvalli, keval, kevali, nurangilangu, nurankilanku#, nurankilanku@, vallai-kodi, vallaikkoti, vallikodi\nTelugu (17): adavi-ginusu tiga, adavigummaditiga, chenchu gadda, dukka pendalam, dukka pendulamu, kaaruchemba, kanta alu, karucamba, karuchemba, monyakku-pendalam, mullupendalam, mullupendalamu, nuludumpa, pandi mukku dumpa, pandigada, pandimukkudumpa, pendi-muka tiga",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73676cdc95b8b8b51037ca0b166808c6"
+  ],
+  "source_record_ids": [
+    "links-2094"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73676cdc95b8b8b51037ca0b166808c6"
+    ],
+    "source_record_ids": [
+      "links-2094"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73676cdc95b8b8b51037ca0b166808c6",
+          "Plant Name": "Dioscorea pentaphylla Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dioscorea pentaphylla Linn.",
+        "source_record_id": "links-2094",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73676cdc95b8b8b51037ca0b166808c6"
+      }
+    ],
+    "source_xplant_id": "73676cdc95b8b8b51037ca0b166808c6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

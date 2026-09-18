@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_5f24793f383795a0__distribution__001",
+  "plant_id": "plant_5f24793f383795a0",
+  "plant_name": "Dillenia pentagyna Roxb. .",
+  "botanical_name": "Dillenia pentagyna",
+  "botanical_authority": "ROXB.",
+  "family": "DILLENIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - BSI Scientist; distribution: Distribution; title: Title - Flora of West Bengal Vol 1\nDistribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1\nDistribution entry: author: Author - N.P.Balakrishnan; distribution: Distribution; title: Title - Flora of Jowai Vol.I\nDistribution entry: author: Author - A S Chauhan, K P Singh, D K Singh; distribution: Distribution; title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nDistribution entry: author: Author - Ed. P. Daniel; distribution: Distribution; title: Title - The Flora of Kerala Vol I\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - KANJILAL & BOR; distribution: Distribution; title: Title - FLORA OF ASSAM\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - HARIDASAN K & RAO R R; distribution: Distribution; title: Title - FOREST FLORA OF MEGHALAYA VOL 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69187c98d65911f2688eb248130c3568"
+  ],
+  "source_record_ids": [
+    "links-0067",
+    "links-1358"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69187c98d65911f2688eb248130c3568"
+    ],
+    "source_record_ids": [
+      "links-0067",
+      "links-1358"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69187c98d65911f2688eb248130c3568",
+          "Plant Name": "Dillenia pentagyna Roxb. .",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dillenia pentagyna Roxb. .",
+        "source_record_id": "links-0067",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69187c98d65911f2688eb248130c3568"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69187c98d65911f2688eb248130c3568",
+          "Plant Name": "Dillenia pentagyna",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dillenia pentagyna",
+        "source_record_id": "links-1358",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69187c98d65911f2688eb248130c3568"
+      }
+    ],
+    "source_xplant_id": "69187c98d65911f2688eb248130c3568",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

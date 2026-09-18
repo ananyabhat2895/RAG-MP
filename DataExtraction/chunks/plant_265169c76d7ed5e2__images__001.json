@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_265169c76d7ed5e2__images__001",
+  "plant_id": "plant_265169c76d7ed5e2",
+  "plant_name": "Brassica campestris",
+  "botanical_name": "Brassica campestris",
+  "botanical_authority": "L. var. dichotoma (ROXB.) WATT.",
+  "family": "BRASSICACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de2afdb402f93d318113fdb7598cc94f"
+  ],
+  "source_record_ids": [
+    "links-0650",
+    "links-1760",
+    "links-1761"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de2afdb402f93d318113fdb7598cc94f"
+    ],
+    "source_record_ids": [
+      "links-0650",
+      "links-1760",
+      "links-1761"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de2afdb402f93d318113fdb7598cc94f",
+          "Plant Name": "Brassica campestris",
+          "Status": "Found"
+        },
+        "source_plant_name": "Brassica campestris",
+        "source_record_id": "links-0650",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de2afdb402f93d318113fdb7598cc94f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de2afdb402f93d318113fdb7598cc94f",
+          "Plant Name": "Brassica campestris Linn. Var. Sarson Prain",
+          "Status": "Found"
+        },
+        "source_plant_name": "Brassica campestris Linn. Var. Sarson Prain",
+        "source_record_id": "links-1760",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de2afdb402f93d318113fdb7598cc94f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de2afdb402f93d318113fdb7598cc94f",
+          "Plant Name": "Brassica campestris var. sarson Prain.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Brassica campestris var. sarson Prain.",
+        "source_record_id": "links-1761",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de2afdb402f93d318113fdb7598cc94f"
+      }
+    ],
+    "source_xplant_id": "de2afdb402f93d318113fdb7598cc94f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

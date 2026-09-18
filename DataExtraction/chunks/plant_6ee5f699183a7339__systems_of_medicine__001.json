@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_6ee5f699183a7339__systems_of_medicine__001",
+  "plant_id": "plant_6ee5f699183a7339",
+  "plant_name": "Curculigo orchioides",
+  "botanical_name": "Curculigo orchioides",
+  "botanical_authority": "GAERTN.",
+  "family": "HYPOXIDACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (1) - Hypoxis orchioides KURZ.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03"
+  ],
+  "source_record_ids": [
+    "links-1283",
+    "links-1908",
+    "links-1909"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03"
+    ],
+    "source_record_ids": [
+      "links-1283",
+      "links-1908",
+      "links-1909"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03",
+          "Plant Name": "Curculigo orchioides",
+          "Status": "Found"
+        },
+        "source_plant_name": "Curculigo orchioides",
+        "source_record_id": "links-1283",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03",
+          "Plant Name": "Curculigo orchioides Gaertn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Curculigo orchioides Gaertn.",
+        "source_record_id": "links-1908",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03",
+          "Plant Name": "Curculigo orchioides Geartn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Curculigo orchioides Geartn.",
+        "source_record_id": "links-1909",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03"
+      }
+    ],
+    "source_xplant_id": "9b3b2f091fce646055ab4609bbd38b03",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

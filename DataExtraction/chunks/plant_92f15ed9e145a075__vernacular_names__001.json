@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_92f15ed9e145a075__vernacular_names__001",
+  "plant_id": "plant_92f15ed9e145a075",
+  "plant_name": "Aristolochia bracteata Retz.",
+  "botanical_name": "Aristolochia bracteolata",
+  "botanical_authority": "LAM.",
+  "family": "ARISTOLOCHIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (11): aulosa, gandan, gandati, hukka bel, hukka-bel, jufa, kalipaad, kidamari, kira-mar, kiramar, kitamar\nKannada (15): aadumuttada gida, adumuttadagida, kalaguraki, kathhe hotte kirubana baeru, kathhe kirubana baeru, kathhegaalina hambu, kathhegarida, kathhekirubana gida, kaththe kirubana gida, katthe hotte gida, katthe kaalambu, katthe kirubana gida, keeta maari gida, kuri gida, sanajali-hulu\nMalayalam (6): aduthinnapalai, attukottappala, atu-tinlap, atutinnappala, atutintap-pala, atutintappala\nMarathi (4): didamar, gandhaari, gindhaan, keedamaari\nSanskrit (19): Sanskrit CommentsX bhringi, cattrabungha, dhumapatra, dhumra-patra, dhumrapatra, gridhrani, gridhrapatra, katrabunga, kitakaha, kitamari, kitari, krimighni, nakuli, pattrabanga, pattrabunga, shrimalapatra, shymabhuva, sulabha, visanika",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2516c519da6bdf64bc291cd56d62a0eb/xclkon/e73b845a0ee25891129c126cd14bfcb8"
+  ],
+  "source_record_ids": [
+    "links-1059",
+    "links-1600"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2516c519da6bdf64bc291cd56d62a0eb/xclkon/e73b845a0ee25891129c126cd14bfcb8"
+    ],
+    "source_record_ids": [
+      "links-1059",
+      "links-1600"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2516c519da6bdf64bc291cd56d62a0eb/xclkon/e73b845a0ee25891129c126cd14bfcb8",
+          "Plant Name": "Aristolochia bracteata Retz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aristolochia bracteata Retz.",
+        "source_record_id": "links-1059",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2516c519da6bdf64bc291cd56d62a0eb/xclkon/e73b845a0ee25891129c126cd14bfcb8"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2516c519da6bdf64bc291cd56d62a0eb/xclkon/e73b845a0ee25891129c126cd14bfcb8",
+          "Plant Name": "Aristolochia bracteata",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aristolochia bracteata",
+        "source_record_id": "links-1600",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2516c519da6bdf64bc291cd56d62a0eb/xclkon/e73b845a0ee25891129c126cd14bfcb8"
+      }
+    ],
+    "source_xplant_id": "2516c519da6bdf64bc291cd56d62a0eb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

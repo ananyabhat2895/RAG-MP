@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_415821e7e6cfe42d__botanical_synonyms__001",
+  "plant_id": "plant_415821e7e6cfe42d",
+  "plant_name": "Tephrosia spinosa Pers.",
+  "botanical_name": "Tephrosia spinosa",
+  "botanical_authority": "PERS.",
+  "family": "FABACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Galega spinosa L.F.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25f06264b7839a4ed3da205ea71d0af7"
+  ],
+  "source_record_ids": [
+    "links-0919"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25f06264b7839a4ed3da205ea71d0af7"
+    ],
+    "source_record_ids": [
+      "links-0919"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25f06264b7839a4ed3da205ea71d0af7",
+          "Plant Name": "Tephrosia spinosa Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tephrosia spinosa Pers.",
+        "source_record_id": "links-0919",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25f06264b7839a4ed3da205ea71d0af7"
+      }
+    ],
+    "source_xplant_id": "25f06264b7839a4ed3da205ea71d0af7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

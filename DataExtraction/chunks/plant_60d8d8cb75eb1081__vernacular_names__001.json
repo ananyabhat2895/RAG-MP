@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_60d8d8cb75eb1081__vernacular_names__001",
+  "plant_id": "plant_60d8d8cb75eb1081",
+  "plant_name": "Tabernaemontana coronaria",
+  "botanical_name": "Tabernaemontana divaricata",
+  "botanical_authority": "(L.) ROEM. & SCHULT.",
+  "family": "APOCYNACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): crepe jasmine, moon beam\nHindi (9): candni, chandni, chandui, jangli chameli, sugandabala, tagar, taggai, taggar, togar\nKannada (23): kokke, kokke kaayi gida, kokkekayida, kottu haale, kottubale, kottuhale, kottuhale hoo, kotwalle, maddarasa gida, maddarasagida, mudrasa, nandabatlu, nandi batla hoovu, nandi batlu, nandibatlu, nandibattal, nandyaa vartha, nanjaa patte, nanjaa vatla, nanjaavattu, nanjabatlu, nanjapatta, nanjavatta\nMalayalam (15): belutta-amelpodi, curatapala, curutupala, gandmtagarappu, kuttampala, kuttampale, nandi-ervatum, nandiyavertam, nandyarvattam, nantiyavattam, nantyarvattam, nantyavarttam, pala, tadgara, takaram\nMarathi (11): ananta, anantha, gondetagara, gondethagara, nadiavatti, namdit, sagar, tagar, tagar avattam, thagar, vadhil-namdit\nSanskrit (20): Sanskrit CommentsX ashvathabheda, atukkunantiyarvattai, gajapadapa, kshayataru, kshiri, nandi, nandi vrksa, nandivraksha, nandivriksha, nandivrksah, nandyavarta, nandyavartah, niryasatagara, prarohi, sthalivriksha, tagar, tagara, taravata, vanaspati, vishnupriya\nTamil (27): adukkunandiyavattai, atukkunantiyarvattai, cuyotanan, karerduppalai, kuruduppalai, malai, nandhi, nandhiavattai, nandiavattai, nandiavattampu, nandiyaavattam, nandiyavarttam, nandiyavattam, nanthia, nanthin-vatal, nanthiyarattam, nanthiyavattam, nantipattiri, nantiya vattappu, nantiyavarttam, nantiyavattam, nundiavuttei, pattidai, pattitai, perunandiyavattam, valamburi, valampuri\nTelugu (9): gandhi thagara poo, gandhitagarapu, grandhi thagarapi chettu, grandhitagarapu, nandi-vardhanamu, nandivardhana, nandivardhanamu, nandyavaraimu, toggari",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3/xclkon/5c7f553bf903a7526d122f802c99d498"
+  ],
+  "source_record_ids": [
+    "links-1381"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3/xclkon/5c7f553bf903a7526d122f802c99d498"
+    ],
+    "source_record_ids": [
+      "links-1381"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3/xclkon/5c7f553bf903a7526d122f802c99d498",
+          "Plant Name": "Tabernaemontana coronaria",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tabernaemontana coronaria",
+        "source_record_id": "links-1381",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3/xclkon/5c7f553bf903a7526d122f802c99d498"
+      }
+    ],
+    "source_xplant_id": "5f8bfd4196998db48c75cf43cc008be3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

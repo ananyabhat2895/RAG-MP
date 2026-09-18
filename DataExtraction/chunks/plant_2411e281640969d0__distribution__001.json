@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2411e281640969d0__distribution__001",
+  "plant_id": "plant_2411e281640969d0",
+  "plant_name": "Euphorbia royleana Boiss.",
+  "botanical_name": "Euphorbia royleana",
+  "botanical_authority": "BOISS.",
+  "family": "EUPHORBIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - A.E. Osmaston; distribution: Distribution; title: Title - A Forest Flora for Kumaon\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7a93b1cb5aa11bdabb3db783e064edb"
+  ],
+  "source_record_ids": [
+    "links-1734"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7a93b1cb5aa11bdabb3db783e064edb"
+    ],
+    "source_record_ids": [
+      "links-1734"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7a93b1cb5aa11bdabb3db783e064edb",
+          "Plant Name": "Euphorbia royleana Boiss.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia royleana Boiss.",
+        "source_record_id": "links-1734",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7a93b1cb5aa11bdabb3db783e064edb"
+      }
+    ],
+    "source_xplant_id": "b7a93b1cb5aa11bdabb3db783e064edb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

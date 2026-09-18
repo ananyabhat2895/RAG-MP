@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8e808376c5ad8a6f__identification__001",
+  "plant_id": "plant_8e808376c5ad8a6f",
+  "plant_name": "Tephrosia uniflora Pers subsp petrosa (Blatt & Hal",
+  "botanical_name": "Tephrosia uniflora",
+  "botanical_authority": "PERS. subsp. petrosa (BLATT. & HALLB.) GILLETT & ALI",
+  "family": "FABACEAE",
+  "section": "identification",
+  "content": "Plant name: Tephrosia uniflora Pers subsp petrosa (Blatt & Hal Botanical name: Tephrosia uniflora Botanical authority: PERS. subsp. petrosa (BLATT. & HALLB.) GILLETT & ALI Family: FABACEAE Source xplant ID: ae23b3d74504872e5cfdebb00a729e1c",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae23b3d74504872e5cfdebb00a729e1c"
+  ],
+  "source_record_ids": [
+    "links-0920"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae23b3d74504872e5cfdebb00a729e1c"
+    ],
+    "source_record_ids": [
+      "links-0920"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae23b3d74504872e5cfdebb00a729e1c",
+          "Plant Name": "Tephrosia uniflora Pers subsp petrosa (Blatt & Hal",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tephrosia uniflora Pers subsp petrosa (Blatt & Hal",
+        "source_record_id": "links-0920",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae23b3d74504872e5cfdebb00a729e1c"
+      }
+    ],
+    "source_xplant_id": "ae23b3d74504872e5cfdebb00a729e1c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

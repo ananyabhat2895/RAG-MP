@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_0e8ba7936c7d220b__systems_of_medicine__001",
+  "plant_id": "plant_0e8ba7936c7d220b",
+  "plant_name": "Randia uliginosa DC.",
+  "botanical_name": "Randia uliginosa",
+  "botanical_authority": "DC.",
+  "family": "RUBIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk Botanical Synonyms (1) - Xeromphis uliginosa (RETZ.) MAHESH.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55a85aaf339f7ebe3210e3a60a443d86"
+  ],
+  "source_record_ids": [
+    "links-1520"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55a85aaf339f7ebe3210e3a60a443d86"
+    ],
+    "source_record_ids": [
+      "links-1520"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55a85aaf339f7ebe3210e3a60a443d86",
+          "Plant Name": "Randia uliginosa DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Randia uliginosa DC.",
+        "source_record_id": "links-1520",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55a85aaf339f7ebe3210e3a60a443d86"
+      }
+    ],
+    "source_xplant_id": "55a85aaf339f7ebe3210e3a60a443d86",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_3a30442130450e48__systems_of_medicine__001",
+  "plant_id": "plant_3a30442130450e48",
+  "plant_name": "Eupatorium triplinerve Vahl.",
+  "botanical_name": "Eupatorium triplinerve",
+  "botanical_authority": "VAHL",
+  "family": "ASTERACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk Botanical Synonyms (1) - Eupatorium ayapana VENT. X Full Botanical citation - Eupatorium ayapana Vent.\nSystem of medicine: Malm. 2. t. 3. 1804; B.P. Uniyal in P.K. Hajra\nSystem of medicine: Fl. India 12: 356. 1995.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5b59b1be20119e838a4aa24944e75e04"
+  ],
+  "source_record_ids": [
+    "links-0250"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5b59b1be20119e838a4aa24944e75e04"
+    ],
+    "source_record_ids": [
+      "links-0250"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5b59b1be20119e838a4aa24944e75e04",
+          "Plant Name": "Eupatorium triplinerve Vahl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Eupatorium triplinerve Vahl.",
+        "source_record_id": "links-0250",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5b59b1be20119e838a4aa24944e75e04"
+      }
+    ],
+    "source_xplant_id": "5b59b1be20119e838a4aa24944e75e04",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

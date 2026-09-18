@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_431402e14eb6415c__vernacular_names__002",
+  "plant_id": "plant_431402e14eb6415c",
+  "plant_name": "Mucuna prurita Hook.",
+  "botanical_name": "Mucuna pruriens",
+  "botanical_authority": "(L.) DC.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (131): amudari, amukari, amutari, anantavankam, arikkiyantam, arruppalattan, arruppukkali, arruppukkalikkoti, arrupputtan, aruciyarttam, arugrattam, arukiyarattacceti, arukiyarattam, arukkiyantam, arukkiyatakam, atiyantam, attaramuttan, attukkali, attukkalicceti, attumabuttar, attumakupta, attumaputtar, avali, aviyankam, cilapetakkoti, cilapetam, corivalli, cukacimpar, cukacimpi, cukacitakkoti, cukacitam, cukampalam, cukkilaviruttiyakki, ilakuncam, ilakunccakkoti, irattapittani, iriciya, irishiya, itapi, kadigandu, kali2@, kamattaikkalaiyappanni, kantukari, kanturai, kanturam#, kanturankoti, kantuti, katcura, katikali, katikalicceti, katikantu, kattavarai2, kavi, kavi1, kavicakakkoti, kavicakam, kavikaccu, kavikaccura, kavikaccuram, kaviromakkoti, kaviromam, kayincunai, kecaromam, kuptam, kurankuccori, kuruvakkali, kuruvarakkalicceti, kuvariya, kuvariyacceti, macci, macci@, maccu, maguttam, makutam, makuti, makutikkalikkoti, makuttam, manaikkitanku, markati, markkati, markkatikkoti, marutam, mikuntakitam, mikuntatikam, mutkavikam, naikurni, pa, palatam, palatavakkoti, palatavam, palukam 2, palupam 2, pasanapeti 2, pattitaviyakkoti, pattitaviyam, petakampetam, poonai kanjori, poonaikaali, poonaikali, poonaikkali, poonaykali, poonaykalie, pulamittican, punai-k-kali, punai-k-kali vittu, punaikkali, punaikkancori 2, punaikkancori@, punaikkayncori, punaimati, punaippidukkan, punaippitukkan, punaippitukkavarai, punaippitukku 2, punaipputittan, punaipputukkan, punaiyavari, puravarkkam, ranakali, ranakalikkoti, riciya, riciyakkoti, taumatiyakkoti, terkali, teruvakkoti, teruvam, tiriparnikam, vatanacan, veppulikam, verukatu, verukatukkoti\nTelugu (33): adavi ulavu, deluganda, dodaragunda, dolugunda, doolagonda, doolagondi, dooradagondi, dul-dundi, dula-gondi, duladaama, dulagondi, durada gondi, duradagondi, nayikkorana, pedda-dulagondi, peeliadagookaila, pilladugu, pilli adugu, pilli-adugu, pilliadagu, pilliaduga, pilliadugu, pilliyadagu, pilliyadugu, praavrishayani, pravrishayani, pravryshayani, tella dradagondi, telladuradagondi, theeta kogial, thelladooradagondi, tita-kogila, totadulagondi\nTibetan (2): ba-na-ri, kha sral\nUrdu (3): hub-i-qilqil, kavancha, konch",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/571cbf77cc7d7792510bafead68d18c4",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544"
+  ],
+  "source_record_ids": [
+    "links-0927",
+    "links-1886"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/571cbf77cc7d7792510bafead68d18c4",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544"
+    ],
+    "source_record_ids": [
+      "links-0927",
+      "links-1886"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/571cbf77cc7d7792510bafead68d18c4",
+          "Plant Name": "Mucuna prurita Hook.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mucuna prurita Hook.",
+        "source_record_id": "links-0927",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/571cbf77cc7d7792510bafead68d18c4"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544",
+          "Plant Name": "Mucuna pruriens DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mucuna pruriens DC.",
+        "source_record_id": "links-1886",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544"
+      }
+    ],
+    "source_xplant_id": "8b22b64302e1857bf8ef9d889912e544",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

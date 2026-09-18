@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_784d0837e9da60c9__vernacular_names__001",
+  "plant_id": "plant_784d0837e9da60c9",
+  "plant_name": "Erythrina indica Lam.",
+  "botanical_name": "Erythrina variegata",
+  "botanical_authority": "L.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (12): dadap, farad, mandar, mandara, pamkara, pangara, pangra, panjira, pharad, pharhad, rakta madar, raktamadar\nKannada (47): bilee vaarjipe, bilivarijapa, bilivarjaya, haarivaana, halivana, halivara, hangara, hangaraka, hngaraka, holivara, hongaara, hongara, hongaraka, karakalli, kempuvarijapa, kempuvarippe, mandara, mullumarige, mullumurige, mullumurinje, mullumurinji, mullumurunji, mullumutalu, nimbataru, paarijaathaka, palivana, paliware, palwan, paravala, paravalada-mara, paravalla, paravella, parawalada, parijata, parivala, parivalada, parivana, pongaara, pongara, pongarada, pongare, saleki, vaarjipe mara, varijapa, varjipe, varjrapa, warjipe\nMalayalam (20): kalyana-murukku-maram, kalyanamurikku, karimurikku, karu-murukkin-maram, kulmurikku, mandaram, mooloomoorikah, mouricou, mulloomurkai, mullumurika, mullumurikku, mulmurikku, mulmurukku, murikku, muruka, murukka, murukku, muruku, nimbataru, paribhadram\nMarathi (12): farad, mandar, pamgero, panara, pandra, pangara, pangaru, pangira, pangra, pangri, paringa, phandra\nSanskrit (22): Sanskrit CommentsX bahupushpa, kantaki, kantakinshuka, kantakipalasa, krimighna, krimishatru, mandalia, mandara, mimbataru, nimbataru, palasha, palitmandar, palitmandara, paribhadra, paribhadrah, paribhadraka, parijata, parijataka, prabhadraka, raktakeshar, raktakusuma, raktapuspa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d/xclkon/ffef96b012fd8b5ae25a48a954e3c5df",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d"
+  ],
+  "source_record_ids": [
+    "links-1436",
+    "links-1438",
+    "links-1440"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d/xclkon/ffef96b012fd8b5ae25a48a954e3c5df",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d"
+    ],
+    "source_record_ids": [
+      "links-1436",
+      "links-1438",
+      "links-1440"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d/xclkon/ffef96b012fd8b5ae25a48a954e3c5df",
+          "Plant Name": "Erythrina indica Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Erythrina indica Lam.",
+        "source_record_id": "links-1436",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d/xclkon/ffef96b012fd8b5ae25a48a954e3c5df"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d",
+          "Plant Name": "Erythrina variegata Linn. Var. orientalis (Linn.)",
+          "Status": "Found"
+        },
+        "source_plant_name": "Erythrina variegata Linn. Var. orientalis (Linn.)",
+        "source_record_id": "links-1438",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d",
+          "Plant Name": "Erythrina variegata Linn. var. orientalis (Linn.)",
+          "Status": "Found"
+        },
+        "source_plant_name": "Erythrina variegata Linn. var. orientalis (Linn.)",
+        "source_record_id": "links-1440",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d"
+      }
+    ],
+    "source_xplant_id": "9da4a2d302421acdaade99983bef319d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

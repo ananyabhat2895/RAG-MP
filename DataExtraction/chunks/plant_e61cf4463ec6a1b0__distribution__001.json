@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e61cf4463ec6a1b0__distribution__001",
+  "plant_id": "plant_e61cf4463ec6a1b0",
+  "plant_name": "Triticum aestivum Linn.",
+  "botanical_name": "Triticum aestivum",
+  "botanical_authority": "L.",
+  "family": "POACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol III\nDistribution entry: author: Author - K.M. Matthew; distribution: Distribution; title: Title - The Flora of the Palni Hills Vol-3\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol IV",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a9112b40b7e8b1aa8abd33288fde4c3"
+  ],
+  "source_record_ids": [
+    "links-0614"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a9112b40b7e8b1aa8abd33288fde4c3"
+    ],
+    "source_record_ids": [
+      "links-0614"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a9112b40b7e8b1aa8abd33288fde4c3",
+          "Plant Name": "Triticum aestivum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Triticum aestivum Linn.",
+        "source_record_id": "links-0614",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a9112b40b7e8b1aa8abd33288fde4c3"
+      }
+    ],
+    "source_xplant_id": "3a9112b40b7e8b1aa8abd33288fde4c3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_67f9762453bf0961__distribution__001",
+  "plant_id": "plant_67f9762453bf0961",
+  "plant_name": "Holarrhena antidysenterica Wall.",
+  "botanical_name": "Holarrhena pubescens",
+  "botanical_authority": "(BUCH.-HAM.) WALLICH EX DO",
+  "family": "APOCYNACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - A S Chauhan, K P Singh, D K Singh; distribution: Distribution; title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - HARIDASAN K & RAO R R; distribution: Distribution; title: Title - FOREST FLORA OF MEGHALAYA VOL 2\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/d85c17a78537df90d7a732a0a6457f45"
+  ],
+  "source_record_ids": [
+    "links-0877",
+    "links-1147"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/d85c17a78537df90d7a732a0a6457f45"
+    ],
+    "source_record_ids": [
+      "links-0877",
+      "links-1147"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/d85c17a78537df90d7a732a0a6457f45",
+          "Plant Name": "Holarrhena antidysenterica Wall.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Holarrhena antidysenterica Wall.",
+        "source_record_id": "links-0877",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/d85c17a78537df90d7a732a0a6457f45"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/d85c17a78537df90d7a732a0a6457f45",
+          "Plant Name": "Holarrhena antidysenterica (Linn.) Wall.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Holarrhena antidysenterica (Linn.) Wall.",
+        "source_record_id": "links-1147",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/d85c17a78537df90d7a732a0a6457f45"
+      }
+    ],
+    "source_xplant_id": "d82e0c372c58e441f83c65a700ed4d85",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_7ea9daab476015f4__vernacular_names__001",
+  "plant_id": "plant_7ea9daab476015f4",
+  "plant_name": "Morus indica",
+  "botanical_name": "Morus australis",
+  "botanical_authority": "POIRET",
+  "family": "MORACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (10): karun, shehtut, shetut, shiah-tut, sia, sia tut, sia-tut, siahtut, tut, tutri\nKannada (15): brahmadaaru, brahmadaru, hile, hippal verali, hippal-nerali-gida, hippali, hippalinerale, kambali, kambli, kambli hannu, korigida, korihannu, rasame, reshme, tuti\nMalayalam (7): brahmanyam, cerukamuka, cherukamuka, tankanakam, tankannakam, tulam, yusham\nMarathi (5): ambat, amoram, amori, thootha, tut\nSanskrit (26): Sanskrit CommentsX brahmacari, brahmadaru, brahmakashtha, brahmakastakam, brahmaneshta, brahmanya, kramuka, kramukam, madasdra, madhupippali, mrdupippali, mridupippali, nilarangaka, nilavrintaka, nuda, palashika, puna, pusha, shalmali, shalmalivrikshaha, supushpa, surupa, tuda, tula, tuta, yusha\nTamil (35): avantinavval, catini2, catinippari, catinipparicceti, cuccikam, cuccikanavvalmaram, kamalapputtiri, kamalaputtiri, kambali, kambali chedi, kambalikkondan, kambalippuchijedi, kambili-puch-chi-chedi, kambilipuch, kampali, kampalicceti2, kampalikkontan, kampalikontan, kampalimaram, kampalippuccimaram, kavarkulikamaram, kayttaniyam2, mucukkattai, mucukkattaicceti, mucukkattaimaram, muraimulam, muraimulamaram, mushu kattai-chedi, musukkattai, sadini, tippilinaval, tutam, upakullavicam, utantimakitam, utantimakitamaram\nTelugu (5): kambali, kambali-buchi-chettu, kambali-chettu, kambalibuchi, putika\nTibetan (2): su la o sa, su la o se (p & d)\nUrdu (1): thooth",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42706b8c53e9046dc41149cd7267bb68/xclkon/905561313057d630b76bea3a474f74dd"
+  ],
+  "source_record_ids": [
+    "links-1073",
+    "links-1989"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42706b8c53e9046dc41149cd7267bb68/xclkon/905561313057d630b76bea3a474f74dd"
+    ],
+    "source_record_ids": [
+      "links-1073",
+      "links-1989"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42706b8c53e9046dc41149cd7267bb68/xclkon/905561313057d630b76bea3a474f74dd",
+          "Plant Name": "Morus indica",
+          "Status": "Found"
+        },
+        "source_plant_name": "Morus indica",
+        "source_record_id": "links-1073",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42706b8c53e9046dc41149cd7267bb68/xclkon/905561313057d630b76bea3a474f74dd"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42706b8c53e9046dc41149cd7267bb68/xclkon/905561313057d630b76bea3a474f74dd",
+          "Plant Name": "Morus indica Griff.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Morus indica Griff.",
+        "source_record_id": "links-1989",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42706b8c53e9046dc41149cd7267bb68/xclkon/905561313057d630b76bea3a474f74dd"
+      }
+    ],
+    "source_xplant_id": "42706b8c53e9046dc41149cd7267bb68",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

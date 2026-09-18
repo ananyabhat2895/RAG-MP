@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_f546cd7a5552914f__vernacular_names__001",
+  "plant_id": "plant_f546cd7a5552914f",
+  "plant_name": "Saccharum spontaneum Linn.",
+  "botanical_name": "Saccharum spontaneum",
+  "botanical_authority": "L.",
+  "family": "POACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): kansgrass\nHindi (11): dharbi ghas, kagara, kahi, kans, kansi, kas, kasa, kosa, kus, munj, nannana\nKannada (16): darbhe, darbhe hullu, dharbe kabbu, gorasu hullu, hodake-hullu, hodakehullu, hodekehullu, hodike hullu, huchhu kabbu, kaadu kabbu, mudduli hullu, muddulihullu, muthhala hullu, muttullahullu, mutulla-hullu, mutullahullu\nMalayalam (3): kerpa, kusa, nannana\nMarathi (8): dharbi, dhub, kaash, kagara, kangar, kasaada, kasai, kasayi\nSanskrit (8): Sanskrit CommentsX ikshugandha, kasa, kasah, kash, kasha, kashi, khaggara, svetacamara\nTamil (149): accaparam, achabaram, acumantakam, acumantakappul, alikai, amai1, ancani 1, anitcam, anjani, antamayimai, antamayina, antattaimayinamakki, cacaparam, cankapitam, cankipitam, cankunappul, cantakam, caracoti1, carattikam, caravanattattai, carpacci, carparacciyam2, carpatci, carpatcimaram, carupparaci, catparaci, cattiyacantakam, cavanam, cepappul2, ceppappul, ceppuki, ceppukippul, ceppuppul, cevarpanni, cevarpannippul, cikki, cinakkilanku1, civetai4, cukattam1, cukattan 1#, cukattan1@, cukattika, cukkilattam, cunate, cuttilattam, cuvetacaram1, cuvetakaram, cuvetakarattatai, cuvetam2, erumaikkorai, eruvai, ikkukantai1, irevalcini, irevalcinni, irevarcinni, kaca1, kacam1, kacappul, kacaram, kaka, kakattari, kanacara, kankunam, kantam4, kapetcu, karantai, karuntanam, kilavarikattattai, kilavariketanam, kilavarikketanappul, kocankam, kocankattattai, kocarankam, kosangam, kuccam2, kuccappul, kucham, kucumacattam, kulavukacam3, kumil, kumpal, kurakkam, kurbagam, kurpakam, kurpakattattai, kurvalakam, makkikkilanku, mampusam, mancatcinakkilanku 1, mancatkilanku 1, mantakkutori, munci 1, muncippul, naanal, naccetiraticci, nanal, nanarbul, nanarkattai, nanarpul, nanmugappul, nanmukappul@, naraipputam, naripputtattai, nateyam2, nattuirevalcinni, nattumancalcinakkilanku, natturevalcinni, naykkarumpu, nirakacitam, nirakacitappul, palatakam, pavini, pekkarimpu, petikkilanku, peykkarumbu, pitaram, pumicankunam, purpiti, putal, putumai, saravanam, sugattan, tarppi, tintippicci, tittippicci, tittiri, tittiricci, tittirittattai, tittiru, tittirucci, tittiruchi, titturu, titturucci, tiyankam, tiyankappul, tuttam1, tuttamam, tuttamappul, vanam, vanam$, variyattu#, variyattu@, vekutu, vekututtattai, velam 1, vetacam 1, vetacaram 1, vipalaketcu, viswamitra-dharbai",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb6ad1ac54a01c1ffaeddace467aa144"
+  ],
+  "source_record_ids": [
+    "links-0731"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb6ad1ac54a01c1ffaeddace467aa144"
+    ],
+    "source_record_ids": [
+      "links-0731"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb6ad1ac54a01c1ffaeddace467aa144",
+          "Plant Name": "Saccharum spontaneum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Saccharum spontaneum Linn.",
+        "source_record_id": "links-0731",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb6ad1ac54a01c1ffaeddace467aa144"
+      }
+    ],
+    "source_xplant_id": "eb6ad1ac54a01c1ffaeddace467aa144",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

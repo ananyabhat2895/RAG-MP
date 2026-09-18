@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4a2baa6271353b3d__images__001",
+  "plant_id": "plant_4a2baa6271353b3d",
+  "plant_name": "Annona reticulata Linn.",
+  "botanical_name": "Annona reticulata",
+  "botanical_authority": "L.",
+  "family": "ANNONACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/486a1ff1f5fecf613cc97f73480b5840"
+  ],
+  "source_record_ids": [
+    "links-1806"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/486a1ff1f5fecf613cc97f73480b5840"
+    ],
+    "source_record_ids": [
+      "links-1806"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/486a1ff1f5fecf613cc97f73480b5840",
+          "Plant Name": "Annona reticulata Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Annona reticulata Linn.",
+        "source_record_id": "links-1806",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/486a1ff1f5fecf613cc97f73480b5840"
+      }
+    ],
+    "source_xplant_id": "486a1ff1f5fecf613cc97f73480b5840",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

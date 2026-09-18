@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_8d9baaf26cd030bc__identification__001",
+  "plant_id": "plant_8d9baaf26cd030bc",
+  "plant_name": "Prunus amygdalus Batsch.",
+  "botanical_name": "Prunus dulcis",
+  "botanical_authority": "(MILLER) D.A. WEBB.",
+  "family": "ROSACEAE",
+  "section": "identification",
+  "content": "Plant name: Prunus amygdalus Batsch. Botanical name: Prunus dulcis Botanical authority: (MILLER) D.A. WEBB. Family: ROSACEAE Source xplant ID: 7d57e91d4ba99981148afbcb8af8094c",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c/xclkon/c5908bf1970dba1886a96f815d82cfbb"
+  ],
+  "source_record_ids": [
+    "links-2070",
+    "links-2071",
+    "links-2072"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c/xclkon/c5908bf1970dba1886a96f815d82cfbb"
+    ],
+    "source_record_ids": [
+      "links-2070",
+      "links-2071",
+      "links-2072"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c/xclkon/c5908bf1970dba1886a96f815d82cfbb",
+          "Plant Name": "Prunus amygdalus Batsch.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Prunus amygdalus Batsch.",
+        "source_record_id": "links-2070",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c/xclkon/c5908bf1970dba1886a96f815d82cfbb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c/xclkon/c5908bf1970dba1886a96f815d82cfbb",
+          "Plant Name": "Prunus amygdalus Batsch. var amara",
+          "Status": "Found"
+        },
+        "source_plant_name": "Prunus amygdalus Batsch. var amara",
+        "source_record_id": "links-2071",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c/xclkon/c5908bf1970dba1886a96f815d82cfbb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c/xclkon/c5908bf1970dba1886a96f815d82cfbb",
+          "Plant Name": "Prunus amygdalus Batsch. var sativa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Prunus amygdalus Batsch. var sativa",
+        "source_record_id": "links-2072",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c/xclkon/c5908bf1970dba1886a96f815d82cfbb"
+      }
+    ],
+    "source_xplant_id": "7d57e91d4ba99981148afbcb8af8094c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

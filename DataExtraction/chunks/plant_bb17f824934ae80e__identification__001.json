@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_bb17f824934ae80e__identification__001",
+  "plant_id": "plant_bb17f824934ae80e",
+  "plant_name": "Aralia quinquefolia",
+  "botanical_name": "Aralia quinquefolia",
+  "botanical_authority": "DECNE. & PLANCH.",
+  "family": "ARALIACEAE",
+  "section": "identification",
+  "content": "Plant name: Aralia quinquefolia Botanical name: Aralia quinquefolia Botanical authority: DECNE. & PLANCH. Family: ARALIACEAE Source xplant ID: 85961ffbf80e4c432da551b7782e822e",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/85961ffbf80e4c432da551b7782e822e"
+  ],
+  "source_record_ids": [
+    "links-1157"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/85961ffbf80e4c432da551b7782e822e"
+    ],
+    "source_record_ids": [
+      "links-1157"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/85961ffbf80e4c432da551b7782e822e",
+          "Plant Name": "Aralia quinquefolia",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aralia quinquefolia",
+        "source_record_id": "links-1157",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/85961ffbf80e4c432da551b7782e822e"
+      }
+    ],
+    "source_xplant_id": "85961ffbf80e4c432da551b7782e822e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

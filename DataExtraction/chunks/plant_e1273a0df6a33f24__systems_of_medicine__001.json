@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e1273a0df6a33f24__systems_of_medicine__001",
+  "plant_id": "plant_e1273a0df6a33f24",
+  "plant_name": "Cinchona succirubra Pav. ex Klotzsch",
+  "botanical_name": "Cinchona succirubra",
+  "botanical_authority": "PAV. EX KLOTZSCH",
+  "family": "RUBIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fc75d8a8b95c319d7f0f6f80e580aec5"
+  ],
+  "source_record_ids": [
+    "links-1122"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fc75d8a8b95c319d7f0f6f80e580aec5"
+    ],
+    "source_record_ids": [
+      "links-1122"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fc75d8a8b95c319d7f0f6f80e580aec5",
+          "Plant Name": "Cinchona succirubra Pav. ex Klotzsch",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinchona succirubra Pav. ex Klotzsch",
+        "source_record_id": "links-1122",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fc75d8a8b95c319d7f0f6f80e580aec5"
+      }
+    ],
+    "source_xplant_id": "fc75d8a8b95c319d7f0f6f80e580aec5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

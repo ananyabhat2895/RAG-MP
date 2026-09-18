@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_90beb7f247d1b857__images__001",
+  "plant_id": "plant_90beb7f247d1b857",
+  "plant_name": "Corchorus olitorius Linn.",
+  "botanical_name": "Corchorus olitorius",
+  "botanical_authority": "L.",
+  "family": "TILIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2e597b3619ea7550c30df72f5aba9fe"
+  ],
+  "source_record_ids": [
+    "links-0409"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2e597b3619ea7550c30df72f5aba9fe"
+    ],
+    "source_record_ids": [
+      "links-0409"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2e597b3619ea7550c30df72f5aba9fe",
+          "Plant Name": "Corchorus olitorius Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Corchorus olitorius Linn.",
+        "source_record_id": "links-0409",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2e597b3619ea7550c30df72f5aba9fe"
+      }
+    ],
+    "source_xplant_id": "f2e597b3619ea7550c30df72f5aba9fe",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

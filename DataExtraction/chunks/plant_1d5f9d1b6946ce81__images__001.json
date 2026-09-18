@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_1d5f9d1b6946ce81__images__001",
+  "plant_id": "plant_1d5f9d1b6946ce81",
+  "plant_name": "Pedalium murex Linn.",
+  "botanical_name": "Pedalium murex",
+  "botanical_authority": "L.",
+  "family": "PEDALIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/433d10cb897d470b0e460215a7c8f2cb"
+  ],
+  "source_record_ids": [
+    "links-0628",
+    "links-0631"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/433d10cb897d470b0e460215a7c8f2cb"
+    ],
+    "source_record_ids": [
+      "links-0628",
+      "links-0631"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/433d10cb897d470b0e460215a7c8f2cb",
+          "Plant Name": "Pedalium murex Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pedalium murex Linn.",
+        "source_record_id": "links-0628",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/433d10cb897d470b0e460215a7c8f2cb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/433d10cb897d470b0e460215a7c8f2cb",
+          "Plant Name": "Pedalium murex",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pedalium murex",
+        "source_record_id": "links-0631",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/433d10cb897d470b0e460215a7c8f2cb"
+      }
+    ],
+    "source_xplant_id": "433d10cb897d470b0e460215a7c8f2cb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_aca0c161c61b60a9__distribution__001",
+  "plant_id": "plant_aca0c161c61b60a9",
+  "plant_name": "Rubia cordifolia",
+  "botanical_name": "Rubia cordifolia",
+  "botanical_authority": "L.",
+  "family": "RUBIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - HARIDASAN K & RAO R R; distribution: Distribution; title: Title - FOREST FLORA OF MEGHALAYA VOL 2\nDistribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - A S Chauhan, K P Singh, D K Singh; distribution: Distribution; title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - N.P.Balakrishnan; distribution: Distribution; title: Title - Flora of Jowai Vol.I\nDistribution entry: author: Author - A.E. Osmaston; distribution: Distribution; title: Title - A Forest Flora for Kumaon\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4ec5c05469f4e92ee7f365922bee5353"
+  ],
+  "source_record_ids": [
+    "links-1053",
+    "links-1247"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4ec5c05469f4e92ee7f365922bee5353"
+    ],
+    "source_record_ids": [
+      "links-1053",
+      "links-1247"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4ec5c05469f4e92ee7f365922bee5353",
+          "Plant Name": "Rubia cordifolia",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rubia cordifolia",
+        "source_record_id": "links-1053",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4ec5c05469f4e92ee7f365922bee5353"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4ec5c05469f4e92ee7f365922bee5353",
+          "Plant Name": "Rubia cordifolia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rubia cordifolia Linn.",
+        "source_record_id": "links-1247",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4ec5c05469f4e92ee7f365922bee5353"
+      }
+    ],
+    "source_xplant_id": "4ec5c05469f4e92ee7f365922bee5353",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

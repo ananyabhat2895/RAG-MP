@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_535f4b8e223ee51e__botanical_synonyms__001",
+  "plant_id": "plant_535f4b8e223ee51e",
+  "plant_name": "Psidium guajava Linn.",
+  "botanical_name": "Psidium guajava",
+  "botanical_authority": "L. var. pomiferum L.",
+  "family": "MYRTACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Psidium guyava L. Psidium pomiferum L. Psidium pyriferum L.\nSynonym: Psidium guyava L.\nSynonym: Psidium pomiferum L.\nSynonym: Psidium pyriferum L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6/xclkon/975930e0996cae25e596c9af45e3c4f4"
+  ],
+  "source_record_ids": [
+    "links-0093",
+    "links-1423"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6/xclkon/975930e0996cae25e596c9af45e3c4f4"
+    ],
+    "source_record_ids": [
+      "links-0093",
+      "links-1423"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6",
+          "Plant Name": "Psidium guajava Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Psidium guajava Linn.",
+        "source_record_id": "links-0093",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6/xclkon/975930e0996cae25e596c9af45e3c4f4",
+          "Plant Name": "Psidium guyava",
+          "Status": "Found"
+        },
+        "source_plant_name": "Psidium guyava",
+        "source_record_id": "links-1423",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6/xclkon/975930e0996cae25e596c9af45e3c4f4"
+      }
+    ],
+    "source_xplant_id": "3fdda2688c27df3027657e00882c20d6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

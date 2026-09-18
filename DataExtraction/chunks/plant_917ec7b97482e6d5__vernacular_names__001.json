@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_917ec7b97482e6d5__vernacular_names__001",
+  "plant_id": "plant_917ec7b97482e6d5",
+  "plant_name": "Diospyros melanoxylon Roxb.",
+  "botanical_name": "Diospyros melanoxylon",
+  "botanical_authority": "ROXB.",
+  "family": "EBENACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (11): abnus, biri-patta, kendu, makartendua, temru, tenda, tendu, tendu-patta, timbarana, timbarna, timru\nKannada (30): abanaashi, abanasi, aenne, aennemara, annathammana mara, balai, bale, bansampa, beediyele mara, bilara, billaaradamara, challaane, chirathinjali, dhuma, duparasu, gandu anne mara, googe, googe mara, guggala, kallapaini, kari, mallali, maradenne, thoobara, thoopra, thumbarashi, thumbri, tumari, tumburasu, tupra\nMalayalam (1): kari\nMarathi (12): kaakathembhurni, kakatembhurni, tembiri, temru, tendu, thaamruja, themru, thendu, thimburni, thumri, timburni, tumri\nSanskrit (17): Sanskrit CommentsX dirghapatraka, jalaja, kakabijaka, kakada, kakapiluka, kakasphurja, kakatindu, kakatinduka, kakavha, kakendu, kakenduka, kenduka, kulaka, kupilu, tinduka, tinduki, tumvuru\nTamil (18): beedi elai, catukama, catukamacceti, karai, karumdumbi, karun thumbi, karundumbi, karungali, karunkali, karunthumbi, karuntumpai 1, karuntumpi, karupputumbi, thumbi, tumbi, tumbili, tummi, tumpili\nTelugu (36): beedi aaku, beedi aku, damadi, gike, manchi tumiki, manchigata, manchighata, mancigata, manjigata, nallathumiki, nallatumiki, tellagada, thellagada, thumida, thumiki, thumki, thummika, thuniki, timmurri, toomida, tuki, tumbi, tumi, tumida, tumiki, tumikka, tumki, tummada, tummi, tummida, tummika, tummiki, tummikia, tumri, tuniki, tunki",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3e840519e9ad28aeb0760051b97213ec"
+  ],
+  "source_record_ids": [
+    "links-1959"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3e840519e9ad28aeb0760051b97213ec"
+    ],
+    "source_record_ids": [
+      "links-1959"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3e840519e9ad28aeb0760051b97213ec",
+          "Plant Name": "Diospyros melanoxylon Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Diospyros melanoxylon Roxb.",
+        "source_record_id": "links-1959",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3e840519e9ad28aeb0760051b97213ec"
+      }
+    ],
+    "source_xplant_id": "3e840519e9ad28aeb0760051b97213ec",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

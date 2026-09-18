@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_daf2b0a11c02ef45__distribution__001",
+  "plant_id": "plant_daf2b0a11c02ef45",
+  "plant_name": "Salvadora persica",
+  "botanical_name": "Salvadora persica",
+  "botanical_authority": "L. var. wightiana (PLANCH EX THW.) VERDC.",
+  "family": "SALVADORACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - C.J SALDHANA; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-2\nDistribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/075b1ba44b6d5100c962e49f555de13f/xclkon/9d465fff1cb67579bd1fdb68eabadb47"
+  ],
+  "source_record_ids": [
+    "links-1328",
+    "links-1519"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/075b1ba44b6d5100c962e49f555de13f/xclkon/9d465fff1cb67579bd1fdb68eabadb47"
+    ],
+    "source_record_ids": [
+      "links-1328",
+      "links-1519"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/075b1ba44b6d5100c962e49f555de13f/xclkon/9d465fff1cb67579bd1fdb68eabadb47",
+          "Plant Name": "Salvadora persica",
+          "Status": "Found"
+        },
+        "source_plant_name": "Salvadora persica",
+        "source_record_id": "links-1328",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/075b1ba44b6d5100c962e49f555de13f/xclkon/9d465fff1cb67579bd1fdb68eabadb47"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/075b1ba44b6d5100c962e49f555de13f/xclkon/9d465fff1cb67579bd1fdb68eabadb47",
+          "Plant Name": "Salvadora persica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Salvadora persica Linn.",
+        "source_record_id": "links-1519",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/075b1ba44b6d5100c962e49f555de13f/xclkon/9d465fff1cb67579bd1fdb68eabadb47"
+      }
+    ],
+    "source_xplant_id": "075b1ba44b6d5100c962e49f555de13f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

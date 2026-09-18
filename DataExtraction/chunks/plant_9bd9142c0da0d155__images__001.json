@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_9bd9142c0da0d155__images__001",
+  "plant_id": "plant_9bd9142c0da0d155",
+  "plant_name": "Hibiscus cannabinus Linn.",
+  "botanical_name": "Hibiscus cannabinus",
+  "botanical_authority": "L.",
+  "family": "MALVACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5ac4ac0df18faf0f3690fcbc62b47bb"
+  ],
+  "source_record_ids": [
+    "links-0094"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5ac4ac0df18faf0f3690fcbc62b47bb"
+    ],
+    "source_record_ids": [
+      "links-0094"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5ac4ac0df18faf0f3690fcbc62b47bb",
+          "Plant Name": "Hibiscus cannabinus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hibiscus cannabinus Linn.",
+        "source_record_id": "links-0094",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5ac4ac0df18faf0f3690fcbc62b47bb"
+      }
+    ],
+    "source_xplant_id": "f5ac4ac0df18faf0f3690fcbc62b47bb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

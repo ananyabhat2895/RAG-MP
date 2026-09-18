@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_177ae9495596b908__botanical_synonyms__001",
+  "plant_id": "plant_177ae9495596b908",
+  "plant_name": "Trianthema decandra Linn.",
+  "botanical_name": "Zaleya decandra",
+  "botanical_authority": "(L.) BURM. F.",
+  "family": "AIZOACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Trianthema decandra L. MANT. X Full Botanical citation - Trianthema decandra L., Mant. pl. 1: 70. 1767; S. Karthikeyan & al., Flowering Plants of India - Dicots. 1: 66. 2009. Zalia decandra (L.) BURM. F.\nSynonym: Trianthema decandra L. MANT.\nSynonym: Zalia decandra (L.) BURM. F.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1372e484a4544888cd653df753bfaf83/xclkon/c72ff456a59ea3b9fe163df8f041a0bd"
+  ],
+  "source_record_ids": [
+    "links-1558"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1372e484a4544888cd653df753bfaf83/xclkon/c72ff456a59ea3b9fe163df8f041a0bd"
+    ],
+    "source_record_ids": [
+      "links-1558"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1372e484a4544888cd653df753bfaf83/xclkon/c72ff456a59ea3b9fe163df8f041a0bd",
+          "Plant Name": "Trianthema decandra Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Trianthema decandra Linn.",
+        "source_record_id": "links-1558",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1372e484a4544888cd653df753bfaf83/xclkon/c72ff456a59ea3b9fe163df8f041a0bd"
+      }
+    ],
+    "source_xplant_id": "1372e484a4544888cd653df753bfaf83",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

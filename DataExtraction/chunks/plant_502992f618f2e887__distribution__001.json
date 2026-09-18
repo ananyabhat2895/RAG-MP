@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_502992f618f2e887__distribution__001",
+  "plant_id": "plant_502992f618f2e887",
+  "plant_name": "Costus speciosus (Koeing Sm.)",
+  "botanical_name": "Costus speciosus",
+  "botanical_authority": "(KOEN. EX RETZ.) SM.",
+  "family": "COSTACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 2\nDistribution entry: author: Author - Dr. Narain Singh Chauhan; distribution: Distribution; title: Title - Medicinal and Aromatic Plants of Himachal Pradesh\nDistribution entry: author: Author - A S Chauhan, K P Singh, D K Singh; distribution: Distribution; title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol III\nDistribution entry: author: Author - Ed B D Sharma, S Karthikeyan, N P Singh; distribution: Distribution; title: Title - Flora of Maharashrta State (Monocotyledons)\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4a366236a46dad574e5d484d9f83852"
+  ],
+  "source_record_ids": [
+    "links-1025",
+    "links-1026"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4a366236a46dad574e5d484d9f83852"
+    ],
+    "source_record_ids": [
+      "links-1025",
+      "links-1026"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4a366236a46dad574e5d484d9f83852",
+          "Plant Name": "Costus speciosus (Koeing Sm.)",
+          "Status": "Found"
+        },
+        "source_plant_name": "Costus speciosus (Koeing Sm.)",
+        "source_record_id": "links-1025",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4a366236a46dad574e5d484d9f83852"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4a366236a46dad574e5d484d9f83852",
+          "Plant Name": "Costus speciosus (Koen.) Sm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Costus speciosus (Koen.) Sm.",
+        "source_record_id": "links-1026",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4a366236a46dad574e5d484d9f83852"
+      }
+    ],
+    "source_xplant_id": "f4a366236a46dad574e5d484d9f83852",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

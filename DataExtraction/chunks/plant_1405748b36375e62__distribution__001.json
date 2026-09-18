@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_1405748b36375e62__distribution__001",
+  "plant_id": "plant_1405748b36375e62",
+  "plant_name": "Cucumis utilissimus Roxb.",
+  "botanical_name": "Cucumis melo",
+  "botanical_authority": "L. var. momordica DUTHIE & FULLER",
+  "family": "CUCURBITACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol I\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/e9e5d138e313019434c1aff43227e08c"
+  ],
+  "source_record_ids": [
+    "links-0568",
+    "links-0569"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/e9e5d138e313019434c1aff43227e08c"
+    ],
+    "source_record_ids": [
+      "links-0568",
+      "links-0569"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/e9e5d138e313019434c1aff43227e08c",
+          "Plant Name": "Cucumis utilissimus Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cucumis utilissimus Roxb.",
+        "source_record_id": "links-0568",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/e9e5d138e313019434c1aff43227e08c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/e9e5d138e313019434c1aff43227e08c",
+          "Plant Name": "Cucumis utilissimus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cucumis utilissimus Linn.",
+        "source_record_id": "links-0569",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/e9e5d138e313019434c1aff43227e08c"
+      }
+    ],
+    "source_xplant_id": "a4f1228958884d0b1d991ee640366154",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

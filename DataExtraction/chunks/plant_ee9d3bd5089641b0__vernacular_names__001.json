@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ee9d3bd5089641b0__vernacular_names__001",
+  "plant_id": "plant_ee9d3bd5089641b0",
+  "plant_name": "Hibiscus esculentus Linn.",
+  "botanical_name": "Abelmoschus esculentus",
+  "botanical_authority": "(L.) MOENCH",
+  "family": "MALVACEAE",
+  "section": "vernacular_names",
+  "content": "English (5): gobbo, gombo, gumbo, ladys-finger, okra\nHindi (7): bendi, bhendi, bhindi, bhindi-tori, ram-turi, ram-turi or ram-turai, ramturai\nKannada (8): bendakainaru, bende, bende kaayi, bende kaayi gida, bende kayi, bende naaru, bende-kayi, bhendekayi\nMalayalam (4): vanta, venda, venta, ventak-kaya\nMarathi (6): benda, bhajichi-bhendi, bhenda, bhendi, bhendo, ram-turai\nSanskrit (19): Sanskrit CommentsX asrapatraka, bhenda, bhinda, bhindatika, chatupunda, chatushpada, darivka, darvika, gandhamula, karaparna, karaparnaphala, kasturilatika, kshatrasambhava, pichhila, pitali, sushaka, tindisa, tindisha, vrittabija\nTamil (24): akacakattiri, akayakkattiri, kalaniventai, mautteyacceti, mautteyam, nattuventai, pentaikkay, tinticam, uparamayacceti, uparamayam, valukkuventi, vantai, venaikkay, vendai, vendaik-kai, vendaik-kay, vendaikkai, vendi, ventai, ventaicceti, ventaikkay, venti, ventikkay, ventukkay\nTelugu (6): benda, bendakaya, benda_kaya, penda, venda, vendakaya\nUrdu (2): bhandi, bhendi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0cd0d9e6bdcca7b488e56438adea6097/xclkon/ae955e38e1388c00e213fb56667a06a7"
+  ],
+  "source_record_ids": [
+    "links-0302"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0cd0d9e6bdcca7b488e56438adea6097/xclkon/ae955e38e1388c00e213fb56667a06a7"
+    ],
+    "source_record_ids": [
+      "links-0302"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0cd0d9e6bdcca7b488e56438adea6097/xclkon/ae955e38e1388c00e213fb56667a06a7",
+          "Plant Name": "Hibiscus esculentus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hibiscus esculentus Linn.",
+        "source_record_id": "links-0302",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0cd0d9e6bdcca7b488e56438adea6097/xclkon/ae955e38e1388c00e213fb56667a06a7"
+      }
+    ],
+    "source_xplant_id": "0cd0d9e6bdcca7b488e56438adea6097",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

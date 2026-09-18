@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_65e1bc44863af3ef__vernacular_names__001",
+  "plant_id": "plant_65e1bc44863af3ef",
+  "plant_name": "Thysanolaena procera Mez.",
+  "botanical_name": "Thysanolaena procera",
+  "botanical_authority": "MEZ.",
+  "family": "POACEAE",
+  "section": "vernacular_names",
+  "content": "Sanskrit (2): Sanskrit CommentsX jurna, jurnahva",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/deb6873d4d874e7cbd3454703404ef0d"
+  ],
+  "source_record_ids": [
+    "links-0817"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/deb6873d4d874e7cbd3454703404ef0d"
+    ],
+    "source_record_ids": [
+      "links-0817"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/deb6873d4d874e7cbd3454703404ef0d",
+          "Plant Name": "Thysanolaena procera Mez.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Thysanolaena procera Mez.",
+        "source_record_id": "links-0817",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/deb6873d4d874e7cbd3454703404ef0d"
+      }
+    ],
+    "source_xplant_id": "deb6873d4d874e7cbd3454703404ef0d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

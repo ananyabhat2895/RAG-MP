@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_323281cd676e4e8c__systems_of_medicine__001",
+  "plant_id": "plant_323281cd676e4e8c",
+  "plant_name": "Hydnocarpus laurifolia (Dennst) Sleumer.",
+  "botanical_name": "Hydnocarpus pentandra",
+  "botanical_authority": "(BUCH.-HAM.) OKEN",
+  "family": "FLACOURTIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk Botanical Synonyms (3) - Hydnocarpus inebrians VAHL Hydnocarpus laurifolia (DENNST.) STEUM. X Full Botanical citation - Hydnocarpus laurifolia (Dennst.) Sleumer in Engler\nSystem of medicine: Bot. Jahrb. 69: 33. 1938\nSystem of medicine: nom. invalid.; R.L. Mitra in B.D. Sharma & N.P. Balakr.\nSystem of medicine: Fl. India 2: 422. 1993. Hydnocarpus wightiana BLUME X Full Botanical citation - Hydnocarpus wightiana Blume in Rumphia 4: 22. 1848; R.L. Mitra in B.D. Sharma & N.P. Balakr.\nSystem of medicine: Fl. India 2: 422. 1993.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11b926cc135658fac2c427ce4c420acc/xclkon/f349c1fb521ee086c4eb87d3b82c1309",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11b926cc135658fac2c427ce4c420acc/xclkon/e500d850d59145138a81017534588aa7"
+  ],
+  "source_record_ids": [
+    "links-2001",
+    "links-2002",
+    "links-2003"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11b926cc135658fac2c427ce4c420acc/xclkon/f349c1fb521ee086c4eb87d3b82c1309",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11b926cc135658fac2c427ce4c420acc/xclkon/e500d850d59145138a81017534588aa7"
+    ],
+    "source_record_ids": [
+      "links-2001",
+      "links-2002",
+      "links-2003"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11b926cc135658fac2c427ce4c420acc/xclkon/f349c1fb521ee086c4eb87d3b82c1309",
+          "Plant Name": "Hydnocarpus laurifolia (Dennst) Sleumer.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hydnocarpus laurifolia (Dennst) Sleumer.",
+        "source_record_id": "links-2001",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11b926cc135658fac2c427ce4c420acc/xclkon/f349c1fb521ee086c4eb87d3b82c1309"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11b926cc135658fac2c427ce4c420acc/xclkon/f349c1fb521ee086c4eb87d3b82c1309",
+          "Plant Name": "Hydnocarpus laurifolia (Dennst.) Sleumer.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hydnocarpus laurifolia (Dennst.) Sleumer.",
+        "source_record_id": "links-2002",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11b926cc135658fac2c427ce4c420acc/xclkon/f349c1fb521ee086c4eb87d3b82c1309"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11b926cc135658fac2c427ce4c420acc/xclkon/e500d850d59145138a81017534588aa7",
+          "Plant Name": "Hydnocarpus wightiana Blume",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hydnocarpus wightiana Blume",
+        "source_record_id": "links-2003",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11b926cc135658fac2c427ce4c420acc/xclkon/e500d850d59145138a81017534588aa7"
+      }
+    ],
+    "source_xplant_id": "11b926cc135658fac2c427ce4c420acc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

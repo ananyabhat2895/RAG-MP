@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_d1fd3af1ebe2c0c6__vernacular_names__001",
+  "plant_id": "plant_d1fd3af1ebe2c0c6",
+  "plant_name": "Ocimum canum Sims.",
+  "botanical_name": "Ocimum americanum",
+  "botanical_authority": "L.",
+  "family": "LAMIACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): hoary basil, lemon basil\nHindi (12): ban-tulsi, bapchi, bapji, jangli tulsi, kala tulsi, kali-tulsi, mamri, nakad bapchi, nakad-bapchi, rantulsi, tusli, vantulsi\nKannada (8): hola thulasi, naayi thulasi, naayi tulasi, naithulasi, nauitulasi, nayitulasi, raama thulasi, ramatulasi\nMalayalam (5): katturamattulasi, katturamatulasi, kattuthulasi, kattutrttavu, kattutulasi\nMarathi (2): raana thulasi, ran-tulas\nSanskrit (17): Sanskrit CommentsX ajaka, aranyatulasi, arjaka, gambhira, gandhapanirjjaka, gramya, jambira, kathinjara, kshudraparna, kshudratulasi, kuthera, mukharjaka, svetasurasa, svetatulasi, thiksnamanu, ugragandha, vanabarbarika\nTamil (86): acalcatimuli, acokatitacceti, campirattitcanakentam, caracacumukam, cenkolikacceti, cenkolikam, centivannan, centivannanceti, cirukancankorai2, civanmalai, civatulaci2, cukantacuracaracam, cumukam, ganjamkorai, gunjamkorai, intimalakacceti, intimalakam, kalikanca, kancam3, kancankorai, kancankorai3, kanjagkorai, kanjankorai, karaiviliyal, katirnecamaruvam, kattulay, kattulaycceti, kattuttulaci, katuvay, katuvaycceti, kirunti, kukka-tulasi, kulavel, kulaverkorai, kurai, kurutanacani, malatitam, mancari, mancari@, mayilainati, mayilainatittulaci, mukkatpiran, mukkatpiranceti, naaithulasi, nai tulasi, nai-thulasi, naithulasi, naitulasi, nayitulasi, nayttulaci, nilakatakam, nirancanatimuli, niraninton, niranintonceti, niya, niyacceti, pakalicceti, pakli, palinkiam, panicca, paniccaka, paniccakkorai, parakam2, parakamam2, permalli, peyttulaci, putpakam 1, talaicculalmuli, tanamutirkorai, tanamutirkorai#, tanamutirkorai@, tanamuttumatar, ticanam, tiralakkorai, tiralkorai, tiratkorai, titcanam2, tittanam, tuyappirantaputpakam, vakuntakam, vakuntikai, vakuntikaikkorai, vakuntikam, vikkanaramali, vitpanattinpu, yaranimulli\nTelugu (7): kaukkatulasi, kukka tulassi, kukkathulasi, kukkatulasi, kupatulasi, kuppatulasi, thulasi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16562534d77643625eaab1f108606b1e"
+  ],
+  "source_record_ids": [
+    "links-1888",
+    "links-1993"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16562534d77643625eaab1f108606b1e"
+    ],
+    "source_record_ids": [
+      "links-1888",
+      "links-1993"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16562534d77643625eaab1f108606b1e",
+          "Plant Name": "Ocimum canum Sims.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ocimum canum Sims.",
+        "source_record_id": "links-1888",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16562534d77643625eaab1f108606b1e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16562534d77643625eaab1f108606b1e",
+          "Plant Name": "Ocimum americanum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ocimum americanum Linn.",
+        "source_record_id": "links-1993",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16562534d77643625eaab1f108606b1e"
+      }
+    ],
+    "source_xplant_id": "16562534d77643625eaab1f108606b1e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

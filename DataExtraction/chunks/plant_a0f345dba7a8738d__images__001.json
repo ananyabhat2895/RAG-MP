@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a0f345dba7a8738d__images__001",
+  "plant_id": "plant_a0f345dba7a8738d",
+  "plant_name": "Bergenia stracheyi H.f. & T.",
+  "botanical_name": "Bergenia stracheyi",
+  "botanical_authority": "(HOOK.F.& THOMS.) ENGL.",
+  "family": "SAXIFRAGACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/03bc9f98e4a827873261a5104a0c374c"
+  ],
+  "source_record_ids": [
+    "links-1485"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/03bc9f98e4a827873261a5104a0c374c"
+    ],
+    "source_record_ids": [
+      "links-1485"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/03bc9f98e4a827873261a5104a0c374c",
+          "Plant Name": "Bergenia stracheyi H.f. & T.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bergenia stracheyi H.f. & T.",
+        "source_record_id": "links-1485",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/03bc9f98e4a827873261a5104a0c374c"
+      }
+    ],
+    "source_xplant_id": "03bc9f98e4a827873261a5104a0c374c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

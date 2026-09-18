@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_032e6ab03f21c26d__vernacular_names__001",
+  "plant_id": "plant_032e6ab03f21c26d",
+  "plant_name": "Buchanania lanzan Spreng.",
+  "botanical_name": "Buchanania lanzan",
+  "botanical_authority": "SPR.",
+  "family": "ANACARDIACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): almondette, cheronjee, cuddapah almond\nHindi (18): achar, char, charoli, charoli-kernel, chiraunji, chiroli, chironji, chironji-kernel, ciraumci, kath bhilawa, maira, niyeveru, paira, pial, piyal, piyala, piyar, pural\nKannada (58): calali, chaara pappu, chaaruvaala, chalaali, char, charoli, charpoppu, chirapuli, ciravuli, dhurkaalu, dhurkalu, durkalu, erappu, erpa, hulimaralu, iripa, irippa, irpe, kolageru, kolamaavu, kole maavu, kolegaeru, kolegeru, kolemaavu, kolemavu, kolligeru, kulurmava, kulurmavu, morale, morante, morappa, morate, morave, mukrali, muraki, murante, murchil, murikil, murkaali, murkala, murkali, murkalimorave, murkalu, murki, murukali, murukalu, muruke, murukkil, nurchil, nurchilla, nureke, nurkal, nurkala, nurkul, nurukkal, nusikal, nuskul, yerpa\nMalayalam (22): cala, cheru, kala, kalamavu, kulurmava, moongapezhu, moorghee, mora, morakanji, mungapera, mungaperlu, munnalperu, munnapelu, mura, mural, muralkalu, muralkanci, murikkalu, muruvei, nuruvei, nuruvi, priyalam\nMarathi (8): char, chareli, charoli, chiraoli, chirauli, chironji, pyal-chari, pyalchar\nSanskrit (29): Sanskrit CommentsX akhatta, bahulavalkala, cara, carah, chara, charaka, chirika, dhanu, dhanushpatta, dhanuspata, drusallaka, hasannaka, kharaskandha, lalana, mokshavirya, pata, piyal, piyala, piyalaka, priyala, priyalah, rajadana, sannakadru, snehabija, snehabijah, tapalesta, tapaseshtha, upavata, viyala\nTamil (39): ayakkira2, ayattilitacempi, ayma, cara paruppu, carai1#, carai1@, caraipparuppu, kaattumaa, kantulatti, kati-mango, katma mowda, kattu-ma, kattuma, kattuma2, kodamankattumaram, modama, moraimaram, morala, mudaikkai, mudaima, muppantini, muppantinimaram, muraiyidam, murala, mutaiccai, mutaima, mutaiyilai, mutama, mutama paruppu, naraitiraimarappanni2, pulima, pulimankay 2, sarai, saraiparuppu, tanu, tanu#, tapacappiriyai2, tavacimaram1, tavacumaram1\nTelugu (37): cara, carapappu, carumamidi, chaara, chaarumaamidi, chara, chara-mamidi, charamamidi, charapappu, charapuppoe, charoomamudee, charumamidi, charummamidi, chaurapuppoo, chinamorali, chinamoralli, chinna moralli, chinnamoral, cinnamoralli, jaarumaamidi, jaru mamidi, jarumamidi, jvaramaamidi, jvaramamidi, moraeda, moralli, mori, morili, morlli, morlu, sara, sarai, sarapappu, sarapappu-kernel, sarapappulu, sinna moralli, sinnamoralli\nTibetan (1): pi la ya\nUrdu (2): chironji, maghz chiraunji",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659/xclkon/16a29852ee33afa1969289d9c7e634e5"
+  ],
+  "source_record_ids": [
+    "links-1539",
+    "links-1543"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659/xclkon/16a29852ee33afa1969289d9c7e634e5"
+    ],
+    "source_record_ids": [
+      "links-1539",
+      "links-1543"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659",
+          "Plant Name": "Buchanania lanzan Spreng.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Buchanania lanzan Spreng.",
+        "source_record_id": "links-1539",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659/xclkon/16a29852ee33afa1969289d9c7e634e5",
+          "Plant Name": "Buchanania latifolia Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Buchanania latifolia Roxb.",
+        "source_record_id": "links-1543",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659/xclkon/16a29852ee33afa1969289d9c7e634e5"
+      }
+    ],
+    "source_xplant_id": "c3ebdb8352b0a28552fb6a32e2044659",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_ad5aca1285b986e5__bibliography__001",
+  "plant_id": "plant_ad5aca1285b986e5",
+  "plant_name": "Cinnamomum tamala Nees and Eberm.",
+  "botanical_name": "Cinnamomum tamala",
+  "botanical_authority": "NEES & EBERM.",
+  "family": "LAURACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - DR.P.N.V.KURUP, DR.V.N.K.RAMADAS & JOSHI,P; title: Title - A HANDBOOK OF MEDICINAL PLANTS\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - N.S. MOOSS; title: Title - GANAS OF VAHATA\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: author: Author - ANONYMOUS; title: Title - THE AYURVEDIC PHARMACOPOEIA OF INDIA PART 1. VOL.1\nBibliography entry: title: Title - Medicinal and Aromatic Plants of Himachal Pradesh\nBibliography entry: title: Title - Flora of Chamba District (Himachal Pradesh)\nBibliography entry: title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol II\nBibliography entry: title: Title - A Forest Flora for Kumaon\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol. II\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL1\nBibliography entry: title: Title - Flora of Tons Valley (Uttaranchal)\nBibliography entry: title: Title - FOREST FLORA OF MEGHALAYA VOL 2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367"
+  ],
+  "source_record_ids": [
+    "links-0463",
+    "links-1373",
+    "links-2007",
+    "links-2056"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367"
+    ],
+    "source_record_ids": [
+      "links-0463",
+      "links-1373",
+      "links-2007",
+      "links-2056"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367",
+          "Plant Name": "Cinnamomum tamala Nees and Eberm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum tamala Nees and Eberm.",
+        "source_record_id": "links-0463",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367",
+          "Plant Name": "Cinnamomum tamala",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum tamala",
+        "source_record_id": "links-1373",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367",
+          "Plant Name": "Cinnamomum tamala Nees & Eberm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum tamala Nees & Eberm.",
+        "source_record_id": "links-2007",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367",
+          "Plant Name": "Cinnamomum tamala Nees.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum tamala Nees.",
+        "source_record_id": "links-2056",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367"
+      }
+    ],
+    "source_xplant_id": "a2f427bdd69c3196852735873010d367",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_fa44e10c5086b03d__vernacular_names__001",
+  "plant_id": "plant_fa44e10c5086b03d",
+  "plant_name": "Urginea indica Kunth.",
+  "botanical_name": "Drimia indica",
+  "botanical_authority": "(ROXB.) J.P. JESSOP",
+  "family": "LILIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (10): ban piaz, jangli piaz, jangli-piaz, jangli-piyaz, janglikanda, janglipiyaz, kanda, kande, koli-kanda, safed-kando\nKannada (11): adavi-irulli, bheemana ulli, dodda kaadu bellulli, kaadu bellulli, kaadu bili eerulli, kola kanda, naayi ullaa gaddi, naayiulli, nari eerulli, seeme nari eerulli, shiru naarangadde\nMalayalam (2): kanthanga, kattulli\nMarathi (10): hal-kamdo, jangli-kanda, janglipyaaz, janglipyajha, kolkaandaa, kolkanda, ranachakanda, ranachakande, rankaandaa, rankanda\nSanskrit (12): Sanskrit CommentsX asmantaka, kolakanda, krimighna, panjala, patalu, putakanda, putalu, suputa, vana-palandam, vanapalandam, vanapalandu, vasrapanjala\nTamil (32): acukkayam, cevakam 1, cevakan, cevukan, ciruvenkayam, kaattu vengayam, kakunarakavulli, karunarakam, karuvulli, katterumai 3, kattirulli, kattu venkayam, kattulli, kattullikkilanku, kattuvelvenkayam, kattuvengayam, kattuvenkayam, kirincanam 2, nari-vengayam, narivengayam, narivenkayam 1, narivenkayam#, narivenkayam@, nayulli, nir venkayam, peyanulli, peyanullicceti, peyppariti, peypparitiyulli, peyulli, peyvenkayam#, peyvenkayam@\nTelugu (5): adavi-tellagada, adavithellagadda, kaazagadda, nakka-vulli-gadda, nakkavalligadda\nUrdu (2): isqeel, janglipiyaz",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ddd9f01a806249ae8306064b767007a/xclkon/6689ee33b13257da64c29d622d98007e"
+  ],
+  "source_record_ids": [
+    "links-1063"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ddd9f01a806249ae8306064b767007a/xclkon/6689ee33b13257da64c29d622d98007e"
+    ],
+    "source_record_ids": [
+      "links-1063"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ddd9f01a806249ae8306064b767007a/xclkon/6689ee33b13257da64c29d622d98007e",
+          "Plant Name": "Urginea indica Kunth.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Urginea indica Kunth.",
+        "source_record_id": "links-1063",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ddd9f01a806249ae8306064b767007a/xclkon/6689ee33b13257da64c29d622d98007e"
+      }
+    ],
+    "source_xplant_id": "6ddd9f01a806249ae8306064b767007a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_93cdb11e401cec76__bibliography__001",
+  "plant_id": "plant_93cdb11e401cec76",
+  "plant_name": "Lagerstroemia speciosa Pers.",
+  "botanical_name": "Lagerstroemia speciosa",
+  "botanical_authority": "(L.) PERS.",
+  "family": "LYTHRACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-2\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nBibliography entry: title: Title - FOREST FLORA OF MEGHALAYA VOL 1\nBibliography entry: title: Title - Flora of Majuli\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68d8e18e3d38533f90e80c159a6dc8f5",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68d8e18e3d38533f90e80c159a6dc8f5/xclkon/6781ba7d29cc29fae0a91e340419e751"
+  ],
+  "source_record_ids": [
+    "links-1072",
+    "links-1963"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68d8e18e3d38533f90e80c159a6dc8f5",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68d8e18e3d38533f90e80c159a6dc8f5/xclkon/6781ba7d29cc29fae0a91e340419e751"
+    ],
+    "source_record_ids": [
+      "links-1072",
+      "links-1963"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68d8e18e3d38533f90e80c159a6dc8f5",
+          "Plant Name": "Lagerstroemia speciosa Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lagerstroemia speciosa Pers.",
+        "source_record_id": "links-1072",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68d8e18e3d38533f90e80c159a6dc8f5"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68d8e18e3d38533f90e80c159a6dc8f5/xclkon/6781ba7d29cc29fae0a91e340419e751",
+          "Plant Name": "Lagerstroemia flos-reginae Retz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lagerstroemia flos-reginae Retz.",
+        "source_record_id": "links-1963",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68d8e18e3d38533f90e80c159a6dc8f5/xclkon/6781ba7d29cc29fae0a91e340419e751"
+      }
+    ],
+    "source_xplant_id": "68d8e18e3d38533f90e80c159a6dc8f5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

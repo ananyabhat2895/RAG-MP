@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_266de6b17565dd5f__botanical_synonyms__001",
+  "plant_id": "plant_266de6b17565dd5f",
+  "plant_name": "Delima scandens Burkill.",
+  "botanical_name": "Tetracera scandens",
+  "botanical_authority": "(L.) MERR",
+  "family": "DILLENIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Delima scandens (L.) MERR.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/302b15d9541dfb162fbfdd1b15a2fe25/xclkon/af992980b10023046bbd813e16081cf3"
+  ],
+  "source_record_ids": [
+    "links-1427"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/302b15d9541dfb162fbfdd1b15a2fe25/xclkon/af992980b10023046bbd813e16081cf3"
+    ],
+    "source_record_ids": [
+      "links-1427"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/302b15d9541dfb162fbfdd1b15a2fe25/xclkon/af992980b10023046bbd813e16081cf3",
+          "Plant Name": "Delima scandens Burkill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Delima scandens Burkill.",
+        "source_record_id": "links-1427",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/302b15d9541dfb162fbfdd1b15a2fe25/xclkon/af992980b10023046bbd813e16081cf3"
+      }
+    ],
+    "source_xplant_id": "302b15d9541dfb162fbfdd1b15a2fe25",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_20c31881cc2c9aab__systems_of_medicine__001",
+  "plant_id": "plant_20c31881cc2c9aab",
+  "plant_name": "Cichorium intybus Linn.",
+  "botanical_name": "Cichorium intybus",
+  "botanical_authority": "L.",
+  "family": "ASTERACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Homeopathy\nSystem of medicine: Folk",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebe06d889ffbfca666ff76ff0f6cd419"
+  ],
+  "source_record_ids": [
+    "links-0996"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebe06d889ffbfca666ff76ff0f6cd419"
+    ],
+    "source_record_ids": [
+      "links-0996"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebe06d889ffbfca666ff76ff0f6cd419",
+          "Plant Name": "Cichorium intybus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cichorium intybus Linn.",
+        "source_record_id": "links-0996",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebe06d889ffbfca666ff76ff0f6cd419"
+      }
+    ],
+    "source_xplant_id": "ebe06d889ffbfca666ff76ff0f6cd419",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

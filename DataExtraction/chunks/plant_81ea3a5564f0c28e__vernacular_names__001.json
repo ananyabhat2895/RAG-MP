@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_81ea3a5564f0c28e__vernacular_names__001",
+  "plant_id": "plant_81ea3a5564f0c28e",
+  "plant_name": "Phyllanthus urinaria Linn.",
+  "botanical_name": "Phyllanthus urinaria",
+  "botanical_authority": "L.",
+  "family": "EUPHORBIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (5): hazarmani, lal-bhuin-anvalah, lalbhuin, lalbhuinanvalah, serhi\nKannada (5): kempu kira nelli, kempu nela nelli, kempu nelanelli, kempu-kiranelli, kempukiranelli\nMalayalam (3): chirukizhukanelli, chukanna-kizha-nelli, chukannakizhanelli\nMarathi (6): bhooyimabi, bhuiavala, bhumy-avli, laal mandaj aamvalee, laalbhooyavali, lalmundajanvali\nSanskrit (37): Sanskrit CommentsX adhyanda, ajata, ajuta, amala, aphala, ara-valli, aruha, bahupatra, bahuphala, bahupushpa, bhudhatri, bhumyamalaki, charati, chorata, dalasparshini, dridhapadi, hilolika, jada, jharika, jhatamala, mala, nilolika, putrashronika, shiva, sukshmadala, sukshmaphala, tali, tamalaki, tamalika, tamalini, tamravalli, uchchata, vishaghni, vishvaparni, vitunnaka, vituntika, vrishya\nTamil (14): aniccuravitam, cenkilanelli, chengizha-nelli, cikappu ttantu, cikappukkilanelli, cirappu kilanelli, cirukilanelli, civappu kilanelli, civappukilanelli, civappunelli, keezhkai nelli, shivappu-nelli, shivappunelli, shivapu-nelli\nTelugu (7): erra usirika, erra-usirika, ettausirika, neeti usiri, ucha chiyu, uchi usiri, usirika",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55a5adee3303b062f867bdd9c73aa21d"
+  ],
+  "source_record_ids": [
+    "links-0339"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55a5adee3303b062f867bdd9c73aa21d"
+    ],
+    "source_record_ids": [
+      "links-0339"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55a5adee3303b062f867bdd9c73aa21d",
+          "Plant Name": "Phyllanthus urinaria Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Phyllanthus urinaria Linn.",
+        "source_record_id": "links-0339",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55a5adee3303b062f867bdd9c73aa21d"
+      }
+    ],
+    "source_xplant_id": "55a5adee3303b062f867bdd9c73aa21d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

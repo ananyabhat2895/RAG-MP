@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_5b4b05970cadc028__vernacular_names__001",
+  "plant_id": "plant_5b4b05970cadc028",
+  "plant_name": "Amaranthus mangostanus",
+  "botanical_name": "Amaranthus tricolor",
+  "botanical_authority": "L.",
+  "family": "AMARANTHACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): joseph s coat, tampala\nHindi (8): chaulai, chaulai sag, deokati, lal sag, lal-sag, lalnatiya, rajkiri, sarvari\nKannada (14): chikka harive soppu, chikkeere soppu, chivika soppu, dantina soppu, dantu, dantu palya, dantu soppu, geerakasaale, goraji, keerake saale, kempudantu soppu, kempuharive, kunambu, naeneyakki gida\nMarathi (10): chavalaayi, chavli, domgli-bhaji, koordoo, pokla, ranmaath, tamdi-bhaji, tandulji, thambada maath, thandulajaa\nSanskrit (11): Sanskrit CommentsX alpamarisa, ariki sira, ganna, jalaja, marisa, meghanada, mekanada, panyasaka, ramasitalika, tanduliya, tanduliyaka\nTamil (47): ancan, appulaki, appulakittantu, cankumutaki, cankumutakicceti, cenkirai-t-tantu, cerikkirai, chirukirai, ciru kirai, cirukirai, cittacantacceti, cittacantam, ilantantu, kalancakacceti, kalancu, karuvilatikam, katampam1@, killukkirai, kiraittantu, kullattantukkirai, mattuka, mattukattuantu, mulaikkirai, mulaittantu, mutikkirai, nilattantu, paccaki, paccakikkirai, pannai-k-kirai, pillaikkirai, pirati, piratikkirai, rocukkirai, rocukkiraittantu, sirukeerai, tantankirai, tantu1, tantukirai, tantuli1, tantulikkirai, thandukkeerai, thandukkirai, ulukattantucceti, ulukatttantu, utaivalaikkirai, valukkopikam, venkiraittantu\nTelugu (13): bhadara, chiri koora, dant.v, dantu koora, doggalikoora, erra doggali koora, gurugu, kamulu, koyyatotakoora, perugu thotakoora, sirukoora, thotakoora, tota kura\nUrdu (1): tukhm sarwali",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01/xclkon/2e2e171aedc0fdf3ca5d4fcd271d9f14"
+  ],
+  "source_record_ids": [
+    "links-0593",
+    "links-1254"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01/xclkon/2e2e171aedc0fdf3ca5d4fcd271d9f14"
+    ],
+    "source_record_ids": [
+      "links-0593",
+      "links-1254"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01/xclkon/2e2e171aedc0fdf3ca5d4fcd271d9f14",
+          "Plant Name": "Amaranthus mangostanus",
+          "Status": "Found"
+        },
+        "source_plant_name": "Amaranthus mangostanus",
+        "source_record_id": "links-0593",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01/xclkon/2e2e171aedc0fdf3ca5d4fcd271d9f14"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01/xclkon/2e2e171aedc0fdf3ca5d4fcd271d9f14",
+          "Plant Name": "Amaranthus mangostanus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Amaranthus mangostanus Linn.",
+        "source_record_id": "links-1254",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01/xclkon/2e2e171aedc0fdf3ca5d4fcd271d9f14"
+      }
+    ],
+    "source_xplant_id": "ddaf27e6f3e104858d9b0cae48ddab01",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

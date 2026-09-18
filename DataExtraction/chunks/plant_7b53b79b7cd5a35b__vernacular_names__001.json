@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_7b53b79b7cd5a35b__vernacular_names__001",
+  "plant_id": "plant_7b53b79b7cd5a35b",
+  "plant_name": "Alhagi camelorum Fisch.",
+  "botanical_name": "Alhagi pseudalhagi",
+  "botanical_authority": "(BIEB.) DESV.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (9): jasava, javansa, javasa, jawasa, junwasa, juwasa, oant-jhari, yavasa, yavasajawasa\nKannada (9): balli duraba, balli duruba, balli thurachi, ballidurubi, ballituruche, dhurlava, durlava, jayasi, toreyingalu\nMalayalam (3): kappattumba, kappattumpa, kotittuva\nMarathi (7): belikamuli, javaas, jawas, kantechumbaka, kas, yavas, yawas\nSanskrit (38): Sanskrit CommentsX adhikantaka, ananta, bahukantaka, balapatra, dhanva, dhanvayasa, dhanvayasah, dhanvayasaka, dhanvayavasa, dhirghamula, dirghamula, duhsparsa, duralabha, duramula, durlabha, dusparsha, gandhari, girikarnika, girikarnika- yavasa, kachhura, kantakaluka, kantaki, kshudrengudi, marudbhava, rodanika, samudranta, tamramuli, tikshnakantaka, triparnika, vanadarbha, vasanta, vishaghna, vivarnaka, yas, yasa, yavasa, yavasah, yavasaka\nTamil (6): thurinjibin, thurnjbin, tulgonri, turalapam, turalappai, turancipin\nTelugu (5): girikarnika, pilaregati, tell-giniyachettu, tellaginiya, thella giniya chettu\nTibetan (4): bi dza ra ba, bi tsher ba (p), byi tsher ma (d), dug-nun\nUrdu (14): athariyun, bikh jawansa, farakiyun, javasa, jawansa, jawasa, mana, manna, ratan jaute, turanjabeen, turanjabin, turanjabin-i-khurasani, turanjabni, turanjebin",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e/xclkon/4d3fb45063f05be383f4e65997e0c154"
+  ],
+  "source_record_ids": [
+    "links-2140"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e/xclkon/4d3fb45063f05be383f4e65997e0c154"
+    ],
+    "source_record_ids": [
+      "links-2140"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e/xclkon/4d3fb45063f05be383f4e65997e0c154",
+          "Plant Name": "Alhagi camelorum Fisch.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alhagi camelorum Fisch.",
+        "source_record_id": "links-2140",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e/xclkon/4d3fb45063f05be383f4e65997e0c154"
+      }
+    ],
+    "source_xplant_id": "52bffa110beee75c92ccb1744d96145e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

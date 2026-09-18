@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_9c661bd789c97948__identification__001",
+  "plant_id": "plant_9c661bd789c97948",
+  "plant_name": "Premna herbacea Roxb.",
+  "botanical_name": "Pygmaeopremna herbacea",
+  "botanical_authority": "(ROXB.) MOLD.",
+  "family": "VERBENACEAE",
+  "section": "identification",
+  "content": "Plant name: Premna herbacea Roxb. Botanical name: Pygmaeopremna herbacea Botanical authority: (ROXB.) MOLD. Family: VERBENACEAE Source xplant ID: 9c48ca77a9908748268302def511b2fd",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c48ca77a9908748268302def511b2fd/xclkon/52fa30b5df253887ecdd13f575f5a359"
+  ],
+  "source_record_ids": [
+    "links-0319"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c48ca77a9908748268302def511b2fd/xclkon/52fa30b5df253887ecdd13f575f5a359"
+    ],
+    "source_record_ids": [
+      "links-0319"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c48ca77a9908748268302def511b2fd/xclkon/52fa30b5df253887ecdd13f575f5a359",
+          "Plant Name": "Premna herbacea Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Premna herbacea Roxb.",
+        "source_record_id": "links-0319",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c48ca77a9908748268302def511b2fd/xclkon/52fa30b5df253887ecdd13f575f5a359"
+      }
+    ],
+    "source_xplant_id": "9c48ca77a9908748268302def511b2fd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

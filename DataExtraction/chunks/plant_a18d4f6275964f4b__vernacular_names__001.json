@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_a18d4f6275964f4b__vernacular_names__001",
+  "plant_id": "plant_a18d4f6275964f4b",
+  "plant_name": "Cinnamomum wightii",
+  "botanical_name": "Cinnamomum wightii",
+  "botanical_authority": "C.F.W.MEISSN",
+  "family": "LAURACEAE",
+  "section": "vernacular_names",
+  "content": "Kannada (14): adavilavanga, cuddoolavanga, cuddulavanga, dalacinni, dalchini, eluke, ijin, kaadu daalchini, kaadulavanga, kadudalacini, kadudalchini, kadudalcini, kadulavanga, katkaruva\nMalayalam (5): ilavangam, katcarua, katkaruva, katoukarua, kattukaruva\nSanskrit (1): Sanskrit CommentsX tejpatra\nTamil (3): cempala, naagakesharam, vettadu\nTelugu (10): adavilavanagapatta, adavilavangapatta, akupatrikamu, paccaku, pachaaku, pachchaku, pattsaku, talisapatri, talishapatri, thaalisapathri",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ffb69f4e222a7d9473fc0909c80ef205"
+  ],
+  "source_record_ids": [
+    "links-1355",
+    "links-1356"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ffb69f4e222a7d9473fc0909c80ef205"
+    ],
+    "source_record_ids": [
+      "links-1355",
+      "links-1356"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ffb69f4e222a7d9473fc0909c80ef205",
+          "Plant Name": "Cinnamomum wightii",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum wightii",
+        "source_record_id": "links-1355",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ffb69f4e222a7d9473fc0909c80ef205"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ffb69f4e222a7d9473fc0909c80ef205",
+          "Plant Name": "Cinnamomum Wightii",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum Wightii",
+        "source_record_id": "links-1356",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ffb69f4e222a7d9473fc0909c80ef205"
+      }
+    ],
+    "source_xplant_id": "ffb69f4e222a7d9473fc0909c80ef205",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

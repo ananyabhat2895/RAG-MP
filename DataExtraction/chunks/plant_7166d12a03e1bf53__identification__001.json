@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_7166d12a03e1bf53__identification__001",
+  "plant_id": "plant_7166d12a03e1bf53",
+  "plant_name": "Ferula thomsoni C. B. Clarke.",
+  "botanical_name": "Ferula thomsoni",
+  "botanical_authority": "C.B.CLARKE",
+  "family": "APIACEAE",
+  "section": "identification",
+  "content": "Plant name: Ferula thomsoni C. B. Clarke. Botanical name: Ferula thomsoni Botanical authority: C.B.CLARKE Family: APIACEAE Source xplant ID: afa070fce3d087bba81240ae41f9a6f9",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afa070fce3d087bba81240ae41f9a6f9"
+  ],
+  "source_record_ids": [
+    "links-0718"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afa070fce3d087bba81240ae41f9a6f9"
+    ],
+    "source_record_ids": [
+      "links-0718"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afa070fce3d087bba81240ae41f9a6f9",
+          "Plant Name": "Ferula thomsoni C. B. Clarke.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ferula thomsoni C. B. Clarke.",
+        "source_record_id": "links-0718",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afa070fce3d087bba81240ae41f9a6f9"
+      }
+    ],
+    "source_xplant_id": "afa070fce3d087bba81240ae41f9a6f9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

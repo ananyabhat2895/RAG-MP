@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_61aed7a409b11b6e__bibliography__001",
+  "plant_id": "plant_61aed7a409b11b6e",
+  "plant_name": "Musa paradisiaca Linn.",
+  "botanical_name": "Musa paradisiaca",
+  "botanical_authority": "L.",
+  "family": "MUSACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - N.S. MOOSS; title: Title - GANAS OF VAHATA\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - WHITELAW AINSLIE; title: Title - MATERIA INDICA\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: title: Title - Flora of Rajasthan Vol.2\nBibliography entry: title: Title - The Flora of Orissa Vol III\nBibliography entry: title: Title - The Flora of the Palni Hills Vol-3\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)\nBibliography entry: title: Title - Flora of Gujarat State Vol 2\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36fd1eaaa9cc232c37fc32f777ae27e9"
+  ],
+  "source_record_ids": [
+    "links-0822"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36fd1eaaa9cc232c37fc32f777ae27e9"
+    ],
+    "source_record_ids": [
+      "links-0822"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36fd1eaaa9cc232c37fc32f777ae27e9",
+          "Plant Name": "Musa paradisiaca Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Musa paradisiaca Linn.",
+        "source_record_id": "links-0822",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36fd1eaaa9cc232c37fc32f777ae27e9"
+      }
+    ],
+    "source_xplant_id": "36fd1eaaa9cc232c37fc32f777ae27e9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

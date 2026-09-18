@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d15307cf35c938ea__identification__001",
+  "plant_id": "plant_d15307cf35c938ea",
+  "plant_name": "Sapindus mukorossi Gaertn.",
+  "botanical_name": "Sapindus mukorossi",
+  "botanical_authority": "GAERTN.",
+  "family": "SAPINDACEAE",
+  "section": "identification",
+  "content": "Plant name: Sapindus mukorossi Gaertn. Botanical name: Sapindus mukorossi Botanical authority: GAERTN. Family: SAPINDACEAE Source xplant ID: f34abf9c21d4c39fcd57b42d49d46f0b",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f34abf9c21d4c39fcd57b42d49d46f0b"
+  ],
+  "source_record_ids": [
+    "links-0147"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f34abf9c21d4c39fcd57b42d49d46f0b"
+    ],
+    "source_record_ids": [
+      "links-0147"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f34abf9c21d4c39fcd57b42d49d46f0b",
+          "Plant Name": "Sapindus mukorossi Gaertn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sapindus mukorossi Gaertn.",
+        "source_record_id": "links-0147",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f34abf9c21d4c39fcd57b42d49d46f0b"
+      }
+    ],
+    "source_xplant_id": "f34abf9c21d4c39fcd57b42d49d46f0b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

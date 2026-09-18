@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_a1e7dad460c4b4d7__vernacular_names__001",
+  "plant_id": "plant_a1e7dad460c4b4d7",
+  "plant_name": "Pinus longifolia Roxb.",
+  "botanical_name": "Pinus roxburghii",
+  "botanical_authority": "SARG.",
+  "family": "PINACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): chir, chir pine\nHindi (18): chil, chir, chir-ka-per, chir-ki-gond, chirgond, chll, cid, cil, dhupasarala, gandah-borajah, kolain, kulain, salla, sanobar-ki-gond, saral, saral-ka-per, saral-ki-gond, sarala\nKannada (6): barhi, daevadaaru, iailaparni, sarala, saraladevadaru, tailaparni\nMalayalam (6): caralam, charalam, pitadaru, putikashtam, saralam, srivasam\nMarathi (1): saraladeodara\nSanskrit (20): Sanskrit CommentsX bhadradaru, dhupavrikshaka, kshira, manojna, marichapatraka, namera, pitadaru, pitadru, putikashtha, sarala, saraladrava, saralah, siddhadaru, snigdhadaru, snigdhadarusanjnaka, srivasa, srivasakah, srivestaka, sryahvapitadru, surabhidaruka\nTamil (30): carala tevataru, caraladevadaru, caraladevataru, caralaittevataru, caralaittevatarumaram, caralam@, caralatevataram, caralatevatari, caralatevataru, cikarimatiyam, cikarimatiyamaram, cimaittevatari, cimaittevataru, curatturumam, curul tevataru, curultevataru, kaurimati, kaurimatimaram, porrevatari, porrevatarimaram, shimai-deva-dari, shirsal, shurul-devadari, simaidevadari, suruldevadari, tuvitattaru@, tuvitatturu, vatarakkacci 1, vataratci, vatarayanam 1\nTelugu (4): daevadaaru chettu, devadari-chettu, devadaru, sarala\nTibetan (3): kau ndzo tsa (p), ko ndzo tsa, than sin\nUrdu (4): behroza khushk, habb-e-sanobar, ilak-ul-butm, sanobar",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3/xclkon/8dd249de9bd0e593c326f7af795248a8",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3"
+  ],
+  "source_record_ids": [
+    "links-1047",
+    "links-1737"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3/xclkon/8dd249de9bd0e593c326f7af795248a8",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3"
+    ],
+    "source_record_ids": [
+      "links-1047",
+      "links-1737"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3/xclkon/8dd249de9bd0e593c326f7af795248a8",
+          "Plant Name": "Pinus longifolia Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pinus longifolia Roxb.",
+        "source_record_id": "links-1047",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3/xclkon/8dd249de9bd0e593c326f7af795248a8"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3",
+          "Plant Name": "Pinus roxburghii Sargent.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pinus roxburghii Sargent.",
+        "source_record_id": "links-1737",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3"
+      }
+    ],
+    "source_xplant_id": "5c592c064b9567277c71857fa99918e3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5651efd93651aa6b__distribution__001",
+  "plant_id": "plant_5651efd93651aa6b",
+  "plant_name": "Tricholepis glaberrima DC.",
+  "botanical_name": "Tricholepis glaberrima",
+  "botanical_authority": "DC.",
+  "family": "ASTERACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - ED. B.D. SHARMA & M.SANJAPPA , N.P. BALAKRISHNAN; distribution: Distribution; title: Title - FLORA OF INDIA VOL 12\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - KUNDAN K SHARMA & SHIVA SHARMA; distribution: Distribution; title: Title - FLORA OF RAJASTHAN\nDistribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f57a77e2ee2a731b67113510c90833a"
+  ],
+  "source_record_ids": [
+    "links-0370"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f57a77e2ee2a731b67113510c90833a"
+    ],
+    "source_record_ids": [
+      "links-0370"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f57a77e2ee2a731b67113510c90833a",
+          "Plant Name": "Tricholepis glaberrima DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tricholepis glaberrima DC.",
+        "source_record_id": "links-0370",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f57a77e2ee2a731b67113510c90833a"
+      }
+    ],
+    "source_xplant_id": "2f57a77e2ee2a731b67113510c90833a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

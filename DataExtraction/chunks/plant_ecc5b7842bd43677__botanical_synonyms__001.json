@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ecc5b7842bd43677__botanical_synonyms__001",
+  "plant_id": "plant_ecc5b7842bd43677",
+  "plant_name": "Rosa moschata Herrm.",
+  "botanical_name": "Rosa brunonii",
+  "botanical_authority": "LINDL.",
+  "family": "ROSACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Rosa moschata HERRM. X Full Botanical citation - Rosa moschata non Mill. ex Herrm., Diss. de Rosa 15. 1762; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 229. 1999.\nSynonym: Rosa moschata HERRM.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8be9312fdfcd1a853f95e4334d861161/xclkon/d7f82b84efd9ab450a978426594ddf86"
+  ],
+  "source_record_ids": [
+    "links-1092"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8be9312fdfcd1a853f95e4334d861161/xclkon/d7f82b84efd9ab450a978426594ddf86"
+    ],
+    "source_record_ids": [
+      "links-1092"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8be9312fdfcd1a853f95e4334d861161/xclkon/d7f82b84efd9ab450a978426594ddf86",
+          "Plant Name": "Rosa moschata Herrm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rosa moschata Herrm.",
+        "source_record_id": "links-1092",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8be9312fdfcd1a853f95e4334d861161/xclkon/d7f82b84efd9ab450a978426594ddf86"
+      }
+    ],
+    "source_xplant_id": "8be9312fdfcd1a853f95e4334d861161",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8163bd95b3c58c99__vernacular_names__001",
+  "plant_id": "plant_8163bd95b3c58c99",
+  "plant_name": "Hiptage benghalensis Kurz.",
+  "botanical_name": "Hiptage benghalensis",
+  "botanical_authority": "(L.) KURZ",
+  "family": "MALPIGHIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (12): aita-lagula, jutimukta, kampti, madhabilata, madhavilata, madhmalti, madholota, madhumalati, madhumalti, madmalti, malti wan, want\nKannada (26): aadi mooruthe, adar ganchi hambu, adaraganche, adaraganchihambu, adaraganjee hambu, adarkaanchi, adarkanji, adharaganchiambu, adhimoorthi, adhriganti, adimurtte, adirgante, adirganti, indra goche, konana kane, kone balli, maadhavee lathe, maadhavi, maadhavilatha, madhavi, madhavi lathe, madhavivasantadhuti, madhwivasanthi, pikigisam, vasantaduti, vasantadutike\nMalayalam (3): sida-pou, sidapou, sitampu\nMarathi (12): bokhi, distusti, haladbael, haladvel, haludwail, maadhavalatha, maadhavi, madhavi, madhavlata, madhumaalathi, madhumalati, utimukta\nSanskrit (20): Sanskrit CommentsX atimukta, atimuktaka, bhadralata, bhramarotsava, bhrihgapriya, bhumimandapa, bhushana, chandravalli, kamuka, madhabi, madhavi, madhavilata, malati, mandapa, parashraya, pundrakalata, sugandha, suvasanta, vasantaduti, vasanti\nTamil (58): adigam, adigandi, adimattam, atikam, atikamali, atikamalikkoti, atikanti, atikatti, atikattikkoti, atimuttam, ayantanaicinturamakki, caravukarakkoti, caravukaram, cirukurincan, cokanikki, erukkatti, erukkattikkoti, kalarai, kamakantam, kamukam 2, karipakkukodi, karungodi kurindai, karuri-kothelai, karurikothelai, kotaimatavi, kuriku, kurinca 2, kurincan, kurindai, kurinja, kurintai, kurukatti, kurukkath-thi, kurukkathy, kurukkatti, kurukkatti-p-pu, kuruku, kurunatai, kurungu, kuruntai, madavi, madhavalata, madhavi, manaku 2, matavi, matavikkoti, muttakam 2, nagari, nakaru, panrimottai, perunkurincan, shiru-kurinja, vacantakalamallikai, vallakini, vallakinikkoti, vasandi, vasantagalamalligai, vennalankodi\nTelugu (30): adavi puttangi, athimutamu, atimuktamu, atimutamu, bandi guriginja, chirighatha, cirugata, kuru venda, kuruvenda, maadhavithige, machavitige, madavi, madavu, madhavalata, madhavatige, madhavi-tige, madhavilata, madhavitege, patuvadla, peddadara, potuvadla, sura gata, suragaatha, suragata, vadla-yarala, vadlayaaraala, vadlayarala, vadlayerala, vedal, vedala\nTibetan (2): a ti mu kta ka, ya ti mu kta",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d0ae3b25c382375dad0c0e6935416ed"
+  ],
+  "source_record_ids": [
+    "links-0240"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d0ae3b25c382375dad0c0e6935416ed"
+    ],
+    "source_record_ids": [
+      "links-0240"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d0ae3b25c382375dad0c0e6935416ed",
+          "Plant Name": "Hiptage benghalensis Kurz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hiptage benghalensis Kurz.",
+        "source_record_id": "links-0240",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d0ae3b25c382375dad0c0e6935416ed"
+      }
+    ],
+    "source_xplant_id": "4d0ae3b25c382375dad0c0e6935416ed",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

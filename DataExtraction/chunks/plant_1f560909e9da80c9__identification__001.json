@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_1f560909e9da80c9__identification__001",
+  "plant_id": "plant_1f560909e9da80c9",
+  "plant_name": "Thysanolaena agrostis Nees.",
+  "botanical_name": "Thysanolaena maxima",
+  "botanical_authority": "(ROXB.) KUNTZE",
+  "family": "POACEAE",
+  "section": "identification",
+  "content": "Plant name: Thysanolaena agrostis Nees. Botanical name: Thysanolaena maxima Botanical authority: (ROXB.) KUNTZE Family: POACEAE Source xplant ID: ebd705058811d25aac1cbe75f327bd20",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebd705058811d25aac1cbe75f327bd20/xclkon/8b0668e11db5354512cc8fa5c301231d"
+  ],
+  "source_record_ids": [
+    "links-0816"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebd705058811d25aac1cbe75f327bd20/xclkon/8b0668e11db5354512cc8fa5c301231d"
+    ],
+    "source_record_ids": [
+      "links-0816"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebd705058811d25aac1cbe75f327bd20/xclkon/8b0668e11db5354512cc8fa5c301231d",
+          "Plant Name": "Thysanolaena agrostis Nees.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Thysanolaena agrostis Nees.",
+        "source_record_id": "links-0816",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebd705058811d25aac1cbe75f327bd20/xclkon/8b0668e11db5354512cc8fa5c301231d"
+      }
+    ],
+    "source_xplant_id": "ebd705058811d25aac1cbe75f327bd20",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

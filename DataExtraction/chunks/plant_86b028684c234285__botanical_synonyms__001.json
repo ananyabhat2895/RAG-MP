@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_86b028684c234285__botanical_synonyms__001",
+  "plant_id": "plant_86b028684c234285",
+  "plant_name": "Pongamia pinnata (Linn.) Merr.",
+  "botanical_name": "Pongamia pinnata",
+  "botanical_authority": "(L.) PIERRE",
+  "family": "FABACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Derris indica (LAM.) BENNET X Full Botanical citation - Derris indica (Lam.) Bennet, J.Bomb. nat. Hist. Soc. 68: 303. 1971; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 289. 1999. Pongamia glabra VENT. X Full Botanical citation - Pongamia glabra Vent., Jard. Malm. t. 28. 1803 nom. illegit.; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 289. 1999.\nSynonym: Derris indica (LAM.) BENNET\nSynonym: Pongamia glabra VENT.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5"
+  ],
+  "source_record_ids": [
+    "links-0940",
+    "links-0941",
+    "links-0942"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5"
+    ],
+    "source_record_ids": [
+      "links-0940",
+      "links-0941",
+      "links-0942"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5",
+          "Plant Name": "Pongamia pinnata (Linn.) Merr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pongamia pinnata (Linn.) Merr.",
+        "source_record_id": "links-0940",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5",
+          "Plant Name": "Pongamia pinnata Pierre.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pongamia pinnata Pierre.",
+        "source_record_id": "links-0941",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5",
+          "Plant Name": "Pongamia pinnata Lierra.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pongamia pinnata Lierra.",
+        "source_record_id": "links-0942",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5"
+      }
+    ],
+    "source_xplant_id": "43842c8edcd45ca1ca952945109884e5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

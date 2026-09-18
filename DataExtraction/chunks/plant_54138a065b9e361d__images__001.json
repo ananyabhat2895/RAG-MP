@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_54138a065b9e361d__images__001",
+  "plant_id": "plant_54138a065b9e361d",
+  "plant_name": "Cassia occidentalis Linn.",
+  "botanical_name": "Cassia occidentalis",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9a2cce5b5ed8523980ebb8dc49acbe7c"
+  ],
+  "source_record_ids": [
+    "links-0993"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9a2cce5b5ed8523980ebb8dc49acbe7c"
+    ],
+    "source_record_ids": [
+      "links-0993"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9a2cce5b5ed8523980ebb8dc49acbe7c",
+          "Plant Name": "Cassia occidentalis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cassia occidentalis Linn.",
+        "source_record_id": "links-0993",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9a2cce5b5ed8523980ebb8dc49acbe7c"
+      }
+    ],
+    "source_xplant_id": "9a2cce5b5ed8523980ebb8dc49acbe7c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_fa6a7237296cd5f3__identification__001",
+  "plant_id": "plant_fa6a7237296cd5f3",
+  "plant_name": "Nelumbo nucifera Gaertn.",
+  "botanical_name": "Nelumbo nucifera",
+  "botanical_authority": "GAERTN.",
+  "family": "NELUMBONACEAE",
+  "section": "identification",
+  "content": "Plant name: Nelumbo nucifera Gaertn. Botanical name: Nelumbo nucifera Botanical authority: GAERTN. Family: NELUMBONACEAE Source xplant ID: d2caa8f1b1c034456016bafd49cc97ae",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2caa8f1b1c034456016bafd49cc97ae"
+  ],
+  "source_record_ids": [
+    "links-0879"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2caa8f1b1c034456016bafd49cc97ae"
+    ],
+    "source_record_ids": [
+      "links-0879"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2caa8f1b1c034456016bafd49cc97ae",
+          "Plant Name": "Nelumbo nucifera Gaertn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Nelumbo nucifera Gaertn.",
+        "source_record_id": "links-0879",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2caa8f1b1c034456016bafd49cc97ae"
+      }
+    ],
+    "source_xplant_id": "d2caa8f1b1c034456016bafd49cc97ae",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

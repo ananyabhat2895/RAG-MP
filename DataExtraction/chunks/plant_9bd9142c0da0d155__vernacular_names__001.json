@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_9bd9142c0da0d155__vernacular_names__001",
+  "plant_id": "plant_9bd9142c0da0d155",
+  "plant_name": "Hibiscus cannabinus Linn.",
+  "botanical_name": "Hibiscus cannabinus",
+  "botanical_authority": "L.",
+  "family": "MALVACEAE",
+  "section": "vernacular_names",
+  "content": "English (5): ambari hemp, bimlipatum jute, confederate rose, deccan hemp, kenaf\nHindi (7): ambadi, ambari, nalita, patsan, pulu, san, sun\nKannada (9): ambade, gogu, holada pundrike, holadapundrike, kasala gida, pindi soppu, pinidrikegida, pundi, vundi\nMalayalam (3): kancavu, kanchavu, kanjaru\nMarathi (4): ambaadi, ambada, ambadi, ambari\nSanskrit (32): Sanskrit CommentsX alka, ambalika, ambashtha, ambastha, ambika, amla, amlapatraka, balika, bhenda, bhinid, bhurimalli, chhinnapatri, chitrapushpi, dridhv, gandhapatri, garnikura, karaparni, keshi, machika, macika, maryurika, mayurvidala, mukhavachika, nali, phalamla, prashthika, rajjudatri, sahasravatamulika, sana, shathamba, shreyasi, vrttabija\nTamil (66): canampu, canappuppuliccai, cetikkacuraikkirai, curi2, kacalkirai, kacaraikkirai, kaccakkirai, kaccam, kaccirakku, kacciranku, kaccorikkirai, kaccurai, kaccurakkainar, kaccurakkirai, kaccuram, kaccurukkukkirai, kachurai, kachurukkai, kacilikkirai, kacini-k-kirai, kacinikkirai, kairavali, kairavalikacceti, kairavalikam, katiyilai, kattukkayccurai, kattuppuliccai, kayccirakku#, kayccori, kayccurai, kayccurukku, kaycurai, kayiciranku, kincaka, kincakakkirai, kotikkacarai, kottikkacaraikkirai, nali, oulimanji, palungu, phalungu, piliccai, puliccai, puliccaikkirai, puliccakkirai, puliccana, puliccankirai, puliccha keerai, pulicciru kirai, puliccukkirai, pulich-chirukirai, pulichai, pulichai-keera, pulichakeerai, pulicharkirai, pulichhai, pulichi, pulimancai, pulimanci#, pulimanci@, pulimanjai, pulimanji, pulimaricai, pulivincai, valikai, valikaikkirai\nTelugu (13): ghongookoora, ghongukuru, gogu, golungu, gongoora, gongura, gonkoora, gonkura, gulugu, gulungu, gulunguchettu, gungkura, pundikura\nTibetan (1): a mba sti\nUrdu (1): mushkadanah",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5ac4ac0df18faf0f3690fcbc62b47bb"
+  ],
+  "source_record_ids": [
+    "links-0094"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5ac4ac0df18faf0f3690fcbc62b47bb"
+    ],
+    "source_record_ids": [
+      "links-0094"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5ac4ac0df18faf0f3690fcbc62b47bb",
+          "Plant Name": "Hibiscus cannabinus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hibiscus cannabinus Linn.",
+        "source_record_id": "links-0094",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5ac4ac0df18faf0f3690fcbc62b47bb"
+      }
+    ],
+    "source_xplant_id": "f5ac4ac0df18faf0f3690fcbc62b47bb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

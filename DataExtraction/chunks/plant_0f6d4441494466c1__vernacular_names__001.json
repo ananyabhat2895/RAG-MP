@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_0f6d4441494466c1__vernacular_names__001",
+  "plant_id": "plant_0f6d4441494466c1",
+  "plant_name": "Grewia tiliaefolia Vahl",
+  "botanical_name": "Grewia tiliaefolia",
+  "botanical_authority": "VAHL",
+  "family": "TILIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (7): dhaman, dhamani, dhamin, dhamni, jhujhana, phaisa, pharsa\nKannada (36): balmuri, batala, batale, bhutthade, boothaale, butale, butali, buttale, buttele, dadasal, dadasalu, daddasal, dadsaala, dadsal, dadsalu, dhadsal, dhanvana, jaana, jana, jani, kanapadi, kendalasu, tadacali, tadagana, tadajana, tadasal, tadasali, tadashalu, taddasu, thadachi, thadas, thadasal, thadasalu, thadasu, thadsal, thathsaale\nMalayalam (19): catacci, cchadicha, chadache, chadachi, chadack, chadiccha, chatacci, dhanvanavrksam, pai-paroea, sadachi, sadachu, satachi, thadathi, thadiccha, thadicha, una, unal, unnam, unum\nMarathi (8): daaman, daamani, daman, damni, dhaaman, dhaman, karavarani, karkarani\nSanskrit (17): Sanskrit CommentsX dhamni, dhanurvriksha, dhanurvrksah, dhanvana, dhanvanah, dhanvangah, dharmana, dharwana, dhavanga, dhawana, mahabala, pichhilaka, pichhilatvaka, raktakusuma, rujasaha, ruksha, swaduphala\nTamil (25): belakka, catacci, cataicci-p-pattai, chadachi, karvini, kavini, kitacari, kitacaricceti, sadachi, tada, tanuvakam, tarra, tarumanam, tata, tatacal, tatacaltatrumanam, tatacci, thada, thadachi, thadasu, una, unal, unnu, unu, vatelai unnu\nTelugu (29): baddi bodda, charachi, erratada, errathada, ettatada, inupatada, jaana, jana, kada, nacudu, nulijaana, nulijana, pedda jaana, pedda jana, peddatena, tada, tada chettu, tadajana, tadda, tara, thada, thadachettu, thadajana, thadda, thana, tharaa, tharra, udupai, yerratada",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd1ba4c8b33bed15c89de85bd0fef5ce"
+  ],
+  "source_record_ids": [
+    "links-0512",
+    "links-0513"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd1ba4c8b33bed15c89de85bd0fef5ce"
+    ],
+    "source_record_ids": [
+      "links-0512",
+      "links-0513"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd1ba4c8b33bed15c89de85bd0fef5ce",
+          "Plant Name": "Grewia tiliaefolia Vahl",
+          "Status": "Found"
+        },
+        "source_plant_name": "Grewia tiliaefolia Vahl",
+        "source_record_id": "links-0512",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd1ba4c8b33bed15c89de85bd0fef5ce"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd1ba4c8b33bed15c89de85bd0fef5ce",
+          "Plant Name": "Grewia tiliaefolia Vahl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Grewia tiliaefolia Vahl.",
+        "source_record_id": "links-0513",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd1ba4c8b33bed15c89de85bd0fef5ce"
+      }
+    ],
+    "source_xplant_id": "fd1ba4c8b33bed15c89de85bd0fef5ce",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_53726fd37c62fae1__vernacular_names__001",
+  "plant_id": "plant_53726fd37c62fae1",
+  "plant_name": "Ocimum basilicum Linn.",
+  "botanical_name": "Ocimum basilicum",
+  "botanical_authority": "L.",
+  "family": "LAMIACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): basil, common basil, lemon basil, sweet basil\nHindi (21): babestul, babui, babuitulsi, babul, babuyitulsi, bahari, ban tulsi, barbar, gola-tulasi, jangli-tulsi, kalitulsi, marua, maruwa, murya, niyakshbo, rihan, sabzah, safed-tulsi, sbazah, tukhmerihan, tulsi\nKannada (16): bhoothulasi, kaama gaggare, kaama kasthoori, kaama kasturi, kaamakasturi, kam kasturi, kamagaggare, kamakasturi, kamkasturi, karavgagri, nayi-tulasi, neeru thulasi, ramkasturi, sabjaa gida, sajjebiya, tulasi\nMalayalam (10): kattarama-tulasi, pach-cha-pushpam, pachcha, ram-tulasi, ramattulasi, ramatulasi, soladi-tirtava, tirunitri, tirunitru, tirunitru-pach-cha\nMarathi (8): bhumy-tulas, marva, ran-tulasi, sabja, sabjaa, sabji, sabza, tukhamariya\nSanskrit (38): Sanskrit CommentsX ajagandhika, ajaka, ambheram, apetarakhsasi, arjaca, arjaka, arjakah, asurasa, barba, barbara, barbari, bisvatulasi, g, gandha-panirajaka, gandhapatra, jambirah, karahi, kharapushpa, kharapuspa, krsnarjakah, kutheraka, manjariki, manjirika, marubaka, munjariki, parnasa, pasanabheda, phanijjah, sitarjakah, suklatulasi, surabhi, surasa, tulasidvesha, tungi, ugragandha, varavara, varvara, vishvatulasi\nTamil (69): cankanirakkarantai, capcavitai, capja, cirukancankorai1, cirvanikkottan, civatocikappaccai, civatotikam, civatulaci1, cunaikkarantai, cunaikkarantai@, cunja koray, ganjankorai, kalimokam, kalimokappaccai, kamakasturi, kancan korai, kancankorai, kancankorai2, kancankullai1, kanchan korai, kanjan-korai, kanjankorai, karandai, karantai1, karpuratulasi, karunthulasi, kavavi, kiruttina parani, kuttiracatai, makkatirunirruppattiri, mancali$, mancalippaccai, mancilikkan, milankili, nay-tolashi, naytulaci, nolakitacceti, nolatikam, paccai, paccaicapja, paccilai, pasanacceti, rudrajadai, ruttiracatai, thiruneethupachai, thiruneetru patchi, tirnoot patchie verie, tirnut-patchi, tirnutpatchi, tiruneetruppachchilai, tiruneetruppachilai, tirunirruppaccai, tirunirruppattiri, tirunirupaccai, tirunirupachai, tiruniruppaccai, tirunitru, tirunitru-pach-chi-ai, tirunitrup-pattiri, tirunittru, tirunutpatchi, tunnarruppaccai, uruttira catai, uruttirac-catai, uruttiracatai, varuttiraccatai, varvaram, ventulaci 1, viputippaccai\nTelugu (20): bhoo tulasi, bhoothulasi, bhu-tulasi, bhutulasi, gakarakau, komma gaggiri, kukka-tulasi, kukkatulasi, rudra jada, rudra-jeda, rudrajada, sabja, vaepudupachha, vebudipatri, vepudu-pach-cha, vepudupachha, vibhudi patri, viboodipathri, vibudi-patri, vibudipatri\nTibetan (1): pha ni dza",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202"
+  ],
+  "source_record_ids": [
+    "links-0042",
+    "links-0288",
+    "links-0289",
+    "links-0290"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202"
+    ],
+    "source_record_ids": [
+      "links-0042",
+      "links-0288",
+      "links-0289",
+      "links-0290"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202",
+          "Plant Name": "Ocimum basilicum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ocimum basilicum Linn.",
+        "source_record_id": "links-0042",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202",
+          "Plant Name": "Ocimum basilicum Linn. Var. basilicum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ocimum basilicum Linn. Var. basilicum",
+        "source_record_id": "links-0288",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202",
+          "Plant Name": "Ocimum basilicum Linn. Var. majus",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ocimum basilicum Linn. Var. majus",
+        "source_record_id": "links-0289",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202",
+          "Plant Name": "Ocimum basilicum Linn. Var. pilosum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ocimum basilicum Linn. Var. pilosum",
+        "source_record_id": "links-0290",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202"
+      }
+    ],
+    "source_xplant_id": "ac85a1dcb3ffc32786f88e3307605202",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

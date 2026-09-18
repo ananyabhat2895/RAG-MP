@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_02de4e6a6704d87e__vernacular_names__001",
+  "plant_id": "plant_02de4e6a6704d87e",
+  "plant_name": "Gardenia gummifera Linn. f.",
+  "botanical_name": "Gardenia gummifera",
+  "botanical_authority": "L.F.",
+  "family": "RUBIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (3): dikamali, dikamalli, dikamli\nKannada (30): adavi bikke, aerebikke, bhickygidda, bikka, bikke, bikkegidha, bikki, bikki gida, birki, chitta-bikke, chittaa mooli, chittabikke, chittubikke, cittubikke, dickygidda, dikamali, dikambli, dikkaamalli, dikkamalli, dikki, dokambe, kalkambi, kambe, kambi, kambi maena, kambi mara, kambimena, kambipisin, sittubikke, yerbhicky\nMalayalam (2): gandharajan, somanadikayam\nMarathi (5): dekamali, dikamali, dikemaali, kamarri, karmarri\nSanskrit (4): Sanskrit CommentsX gandharaj, hingunadika, nadihingu, pindava\nTamil (32): cantirakarkam, ciriya kumpai, cirukampil, deekkamalli, dika-malli, dikamali, dikamalli, dikkamalli, kambil, kambili, kampi, kampi-p-picin, kampil, kampili, kampilippicin#, kampilippicin@, kampilippisin, kampippicin, kampippicinmaram, kumbai, kumpai, manaccila, periyakampi, perunkampil, perunkampipputu, puranapalam, sinnakkambil, sirukkambil, tikka malli, tikkamalli, tikkamalli@, vellapavatta\nTelugu (35): bikki, biliki, bukki, chinnabikki, chiribikki, chit-mit, chitnityal, chitta-mitta, chittamatt, chittamatta, chittimitta, cinnabikki, cirubikki, cittamalli, cittamatta, cittimitta, gaaraga, gaggaru, garaga, garagamoduga, garagamuti, garga, kaaringuva, karinga, karinguva, manchi bikki, manchibikki, mancibikki, manjibikki, sinnabikki, sirubikki, sittamatta, sittimitta, tellamanga, thella manga\nTibetan (1): sibs\nUrdu (1): decamali",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b458f6084bfd1560dc9847485bbba2a3"
+  ],
+  "source_record_ids": [
+    "links-0719",
+    "links-0721"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b458f6084bfd1560dc9847485bbba2a3"
+    ],
+    "source_record_ids": [
+      "links-0719",
+      "links-0721"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b458f6084bfd1560dc9847485bbba2a3",
+          "Plant Name": "Gardenia gummifera Linn. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gardenia gummifera Linn. f.",
+        "source_record_id": "links-0719",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b458f6084bfd1560dc9847485bbba2a3"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b458f6084bfd1560dc9847485bbba2a3",
+          "Plant Name": "Gardenia gummifera Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gardenia gummifera Linn.",
+        "source_record_id": "links-0721",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b458f6084bfd1560dc9847485bbba2a3"
+      }
+    ],
+    "source_xplant_id": "b458f6084bfd1560dc9847485bbba2a3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

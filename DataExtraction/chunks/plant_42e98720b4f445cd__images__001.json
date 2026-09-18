@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_42e98720b4f445cd__images__001",
+  "plant_id": "plant_42e98720b4f445cd",
+  "plant_name": "Luffa graveolens Roxb.",
+  "botanical_name": "Luffa graveolens",
+  "botanical_authority": "ROXB.",
+  "family": "CUCURBITACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/180009dcf3f64171795122deb79c7be9"
+  ],
+  "source_record_ids": [
+    "links-0502",
+    "links-0503"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/180009dcf3f64171795122deb79c7be9"
+    ],
+    "source_record_ids": [
+      "links-0502",
+      "links-0503"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/180009dcf3f64171795122deb79c7be9",
+          "Plant Name": "Luffa graveolens Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Luffa graveolens Roxb.",
+        "source_record_id": "links-0502",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/180009dcf3f64171795122deb79c7be9"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/180009dcf3f64171795122deb79c7be9",
+          "Plant Name": "Luffa graveolens Roxb. var. longystyla Clarke.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Luffa graveolens Roxb. var. longystyla Clarke.",
+        "source_record_id": "links-0503",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/180009dcf3f64171795122deb79c7be9"
+      }
+    ],
+    "source_xplant_id": "180009dcf3f64171795122deb79c7be9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

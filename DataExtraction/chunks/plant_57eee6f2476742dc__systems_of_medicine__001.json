@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_57eee6f2476742dc__systems_of_medicine__001",
+  "plant_id": "plant_57eee6f2476742dc",
+  "plant_name": "Adhatoda vasica Nees.",
+  "botanical_name": "Justicia adhatoda",
+  "botanical_authority": "L.",
+  "family": "ACANTHACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Homeopathy\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (2) - Adhatoda vasica NEES X Full Botanical citation - Adhatoda vasica Nees in Wall.\nSystem of medicine: Pl. asiat. rar. 3: 103. 1832; S. Karthikeyan & al.\nSystem of medicine: Flowering Plants of India - Dicot. 1: 24. 2009. Adhatoda zeylanica MEDIK. X Full Botanical citation - Adhatoda zeylanica Medik. in Hist. & Commentat. Acad. Elect. Sci. Theod.- Palat. 6: 393. 1790; S. Karthikeyan & al.\nSystem of medicine: Flowering Plants of India - Dicot. 1: 24. 2009.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6af02657ecf8d4b1d3e0f08206e91314/xclkon/a75a0c0270c6dc24e802cda3469d09fc"
+  ],
+  "source_record_ids": [
+    "links-2061"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6af02657ecf8d4b1d3e0f08206e91314/xclkon/a75a0c0270c6dc24e802cda3469d09fc"
+    ],
+    "source_record_ids": [
+      "links-2061"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6af02657ecf8d4b1d3e0f08206e91314/xclkon/a75a0c0270c6dc24e802cda3469d09fc",
+          "Plant Name": "Adhatoda vasica Nees.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Adhatoda vasica Nees.",
+        "source_record_id": "links-2061",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6af02657ecf8d4b1d3e0f08206e91314/xclkon/a75a0c0270c6dc24e802cda3469d09fc"
+      }
+    ],
+    "source_xplant_id": "6af02657ecf8d4b1d3e0f08206e91314",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

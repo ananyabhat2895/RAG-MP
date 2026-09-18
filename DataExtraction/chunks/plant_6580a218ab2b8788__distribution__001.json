@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_6580a218ab2b8788__distribution__001",
+  "plant_id": "plant_6580a218ab2b8788",
+  "plant_name": "Thevetia neriifolia",
+  "botanical_name": "Cascabela thevetia",
+  "botanical_authority": "(L.) LIPPOLD",
+  "family": "APOCYNACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Dr. Narain Singh Chauhan; distribution: Distribution; title: Title - Medicinal and Aromatic Plants of Himachal Pradesh\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f/xclkon/b7ed09bfd52a6f46b3806c201d93e242"
+  ],
+  "source_record_ids": [
+    "links-0954",
+    "links-0955"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f/xclkon/b7ed09bfd52a6f46b3806c201d93e242"
+    ],
+    "source_record_ids": [
+      "links-0954",
+      "links-0955"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f/xclkon/b7ed09bfd52a6f46b3806c201d93e242",
+          "Plant Name": "Thevetia neriifolia",
+          "Status": "Found"
+        },
+        "source_plant_name": "Thevetia neriifolia",
+        "source_record_id": "links-0954",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f/xclkon/b7ed09bfd52a6f46b3806c201d93e242"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f/xclkon/b7ed09bfd52a6f46b3806c201d93e242",
+          "Plant Name": "Thevetia neriifolia juss.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Thevetia neriifolia juss.",
+        "source_record_id": "links-0955",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f/xclkon/b7ed09bfd52a6f46b3806c201d93e242"
+      }
+    ],
+    "source_xplant_id": "5d98e136bf835caf4ca695c306d4299f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

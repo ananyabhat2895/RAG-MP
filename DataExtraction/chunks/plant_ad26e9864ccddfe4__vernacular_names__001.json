@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ad26e9864ccddfe4__vernacular_names__001",
+  "plant_id": "plant_ad26e9864ccddfe4",
+  "plant_name": "Daucus carota",
+  "botanical_name": "Daucus carota",
+  "botanical_authority": "L.",
+  "family": "APIACEAE",
+  "section": "vernacular_names",
+  "content": "English (6): bee s nest, bird s nest, carrot, devil s plague, queen annes lace, wild carrot\nHindi (5): gagar, gajar, gajar-ke-binj, gajra, gazar\nKannada (10): gaajara gedde, gaajina gedde, gajara gedde, gajjari, gajjari gedde, garjari, kempu kyaarattu, kempu moolangi, kyaret, manjal mulangi\nMalayalam (2): karattu, mannamullanki\nMarathi (4): gaajar, gajar, gajara, gazara\nSanskrit (31): Sanskrit CommentsX dindiramodaka, gajara, gajida, garijara, garjara, garjarah, garjaram, granthimula, grinjana, grnjana, grnjanakah, grunjana, grunjanakam, kanda, na, naranga, narangavaraneshta, narangavarnakah, pindamula, pindika, pitakanda, pitamulaka, shekhamulama, shikha-mulam, shikhakanda, shikhamulam, shikhimula, sumulaka, supita, svadumula, varttula\nTamil (18): carrot kalung, gajjara-kilangu, gajjarakkilamgu, gajjarakkilangu, kaccarakkilanku, karattu, karattukkilanku#, karattukkilanku@, karottukkilanku, kartkilanku, karttukkilangu, kattu-kizhangu, kattu-kizhangu virai, mancal mullanki, mancalmullanki, manjal-mullangi, manjalmullangi, narankam 3\nTelugu (13): gajjara-gedda, gajjaragadda, gajjaragedda, pach-cha-mullangi, pachchamullangi, pachhamoollangi, peethakanda, pita-kanda, pita-kande, pitakanda, shikha-mulamu, shikhamoolamu, shikhamulamu\nUrdu (10): daqu, doqu, gajar, gajar kaddu kash ki hui, gajar ke beej, gajor, gazar (gajar), tukhm gazar, tukhm-i-gajar, wild carrot",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ca5a9ca110d0375f77329a66fe54741/xclkon/f56b3cdb07baa0a620ab150f4e304cce"
+  ],
+  "source_record_ids": [
+    "links-0651"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ca5a9ca110d0375f77329a66fe54741/xclkon/f56b3cdb07baa0a620ab150f4e304cce"
+    ],
+    "source_record_ids": [
+      "links-0651"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ca5a9ca110d0375f77329a66fe54741/xclkon/f56b3cdb07baa0a620ab150f4e304cce",
+          "Plant Name": "Daucus carota",
+          "Status": "Found"
+        },
+        "source_plant_name": "Daucus carota",
+        "source_record_id": "links-0651",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ca5a9ca110d0375f77329a66fe54741/xclkon/f56b3cdb07baa0a620ab150f4e304cce"
+      }
+    ],
+    "source_xplant_id": "7ca5a9ca110d0375f77329a66fe54741",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

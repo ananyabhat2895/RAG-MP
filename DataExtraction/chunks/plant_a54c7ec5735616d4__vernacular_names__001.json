@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_a54c7ec5735616d4__vernacular_names__001",
+  "plant_id": "plant_a54c7ec5735616d4",
+  "plant_name": "Andrographis paniculata Nees.",
+  "botanical_name": "Andrographis paniculata",
+  "botanical_authority": "(BURM.F.)WALLICH EX NEES.",
+  "family": "ACANTHACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): kariyat\nHindi (10): chara-yetah, charayetaah, charayetah, chiraita, kalamegh, kalmegh, kalpanath, kiryat, maha-tita, mahatita\nKannada (12): hasi kiriyaatha, kaala megha, kreata, nela baevu, nela beru, nela bevu, nela-bevinagida, nelabaevinagida, nelabaevu, nelabevinagida, oora kiriyaathu, vaayu hullu\nMalayalam (8): cara-caniram, kiriyat, kiriyatta, kiriyattu, nalaveppu, nila-veppa, nilavaepu, nilaveppu\nMarathi (5): kirayatem, olenkiraayath, olenkirayat, paale kiraayath, vhadlem\nSanskrit (10): Sanskrit CommentsX bhunimba, bhunimbah, bhunimbaha, kairata, kalamegha, kirata, kiratatikta, kiratatiktah, mahatikta, yavatikta\nTamil (65): accani 1, anarivempucceti, anariyam, anariyatittam#, anariyatittam@, ceyapunimpam, cilesmati, ciratkucci, copakkini, intirekai, kaipparacan, kaippuvempu, kairatacceti, kairatam#, kariyattu1, katcima, kattinuna, kattinunacceti, katunimpam, kavutakam, kiriat, kiriyattu1, kokanam2, kolakkirutam, kolakkirutamaram, kommattimarikacceti, kommattimarikam, koritalai, korittal, korittalai, korittalaivempu, korrikalai, korukkacci2, kottilai, kottilaimaram, kurakivempu, kuramacanam, marukkatitam, marukkatitavempu, mutacancam, narciritu, nelavemu, nila vembu, nila-vembu, nilavembu, nilavempu, nittacam, puminayakacceti, puminayakam, puminayakan, puminimpacceti, puminimpam, punimpam, punimpar, puriyar, putikam 3, puyari 1, shirat-kuchchi, shiratkuch-chi, shiratkuchi, talainimpaki, talainimpakicceti, taruluruti, vempatikacceti, vempatikam\nTelugu (5): karivaemu, nela vemu, nelavaemu, nelavemu, velavemu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74fd26aaa5ce2fc2932d2d8056aaf796"
+  ],
+  "source_record_ids": [
+    "links-0343",
+    "links-2142"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74fd26aaa5ce2fc2932d2d8056aaf796"
+    ],
+    "source_record_ids": [
+      "links-0343",
+      "links-2142"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74fd26aaa5ce2fc2932d2d8056aaf796",
+          "Plant Name": "Andrographis paniculata Nees.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Andrographis paniculata Nees.",
+        "source_record_id": "links-0343",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74fd26aaa5ce2fc2932d2d8056aaf796"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74fd26aaa5ce2fc2932d2d8056aaf796",
+          "Plant Name": "Andrographis paniculata nees.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Andrographis paniculata nees.",
+        "source_record_id": "links-2142",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74fd26aaa5ce2fc2932d2d8056aaf796"
+      }
+    ],
+    "source_xplant_id": "74fd26aaa5ce2fc2932d2d8056aaf796",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

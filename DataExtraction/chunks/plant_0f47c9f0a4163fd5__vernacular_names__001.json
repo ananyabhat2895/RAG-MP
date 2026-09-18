@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_0f47c9f0a4163fd5__vernacular_names__001",
+  "plant_id": "plant_0f47c9f0a4163fd5",
+  "plant_name": "Jasminum sambac Ait.",
+  "botanical_name": "Jasminum sambac",
+  "botanical_authority": "(L.) AIT.",
+  "family": "OLEACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): arabian jasmine, mohle flowers, zambac\nHindi (13): balphul, banmallika, bel, bela, but-mogra, chamba, moghra, mogra, mogre-ke-phul, mogro, mothia, motia, mugra\nKannada (24): aelusutthina mallige, candumallige, chandumallige, chendu mallige, dundu mallige, dundumallige, elusuttinamallige, eravanthige, eruvantig, gundu mallige, gundumallige, iravantige, iruvantige, kadurumallige, kolu mallige, kolumallige, malle, malli, mallige, mallige-huvvu, malligedai, sancimallige, yelusutthina mallige, yelusuttina mallige\nMalayalam (23): cerupiccakam, cherupiccakam, cherupichakam, cherupichhakam, chirakamulla, cirakamulla, kudda-mulla, kuddamulla, kutamulla, mallika, mulla, mullach-cha-pu, mullappu, nalla-mulla, nallamalli, nallamulla, nallmulli, piccakam, piccakamulla, pichakam, pichakamulla, tsjiregam-mulla, tsjiregamulla\nMarathi (8): bat-mogri, batmogri, bela, mogara, mogaraa, mogra, mograa, vis-mogri\nSanskrit (51): Sanskrit CommentsX ananga, ashtapadi, asphota, atigandha, bhadravalli, bhupadi, dalakoshaka, dantapatra, devalata, gandharaja, gandhasara, gauri, gavakshi, ja, janeshta, kamabana, kausika, madayanti, madugara, malalika, malla, malli, mallika, mrigeshta, mudgara, mudgaraka, muktabandhana, narishta, navamalika, navamallika, pramodini, priya, rajaputri, saptala, saptapatra, saumya, shatapada, shatpadananda, shitabhiru, shripadi, sita, sitabhiru, trinasakhya, trinashunya, vaarshiki, vanachandrika, vanamallika, varshiki, varsika, vartula, vitapriya\nTamil (78): anaimalli, anangam, anankam, atittacenam, atukkumallikai, cakurtti, calparani, cataviru, caturtti, celakam, celukam, centumallikai, ciriparani2, cumati, curanaci, curanuva, iruvachi, iruvadi, iruvatchi, iruvatci, iruvatshi, kalici, karumugai, kenta2, kodimalli, koguttam, kotikkacini, kotikkacinippu, kudamalligai, kumarakam, kundumalligai, kuntumallikai, kutaimallikai, kutamallikai, kuvaku, madurai, makakocari, maladi, malli, malli 2, malli 3, malligai, malligaip-pu, malligam, mallikaippu, mallikamotini#, mallip-pu, matumalli 2, mayilai, mukuram, naipali, naipalikacceti, naipalikam, nalmallikai, narittam, navamalikam, nilamallikai, paruttavacceti, paruttavalakai, paruttavam, pavala malli, peramalli, peramallikai, perumallikai, piramotani, pitari, tevalatai, tiraciravam, tirikartta, tirikattaceti, tirikattam, tucakataticceti, tucakatatikam, tunkamalli, tunkamallicceti, vananti, viruttamallikai, visamaccuranacani",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1bdc4942b0b3c49e17f20da87a4ec52a"
+  ],
+  "source_record_ids": [
+    "links-1239",
+    "links-1240"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1bdc4942b0b3c49e17f20da87a4ec52a"
+    ],
+    "source_record_ids": [
+      "links-1239",
+      "links-1240"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1bdc4942b0b3c49e17f20da87a4ec52a",
+          "Plant Name": "Jasminum sambac Ait.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Jasminum sambac Ait.",
+        "source_record_id": "links-1239",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1bdc4942b0b3c49e17f20da87a4ec52a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1bdc4942b0b3c49e17f20da87a4ec52a",
+          "Plant Name": "Jasminum sambac Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Jasminum sambac Linn.",
+        "source_record_id": "links-1240",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1bdc4942b0b3c49e17f20da87a4ec52a"
+      }
+    ],
+    "source_xplant_id": "1bdc4942b0b3c49e17f20da87a4ec52a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

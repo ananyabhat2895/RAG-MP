@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_94d22d5bb648b137__identification__001",
+  "plant_id": "plant_94d22d5bb648b137",
+  "plant_name": "Stereospermum chelonoides",
+  "botanical_name": "Stereospermum chelonoides",
+  "botanical_authority": "(L.F.) DC.",
+  "family": "BIGNONIACEAE",
+  "section": "identification",
+  "content": "Plant name: Stereospermum chelonoides Botanical name: Stereospermum chelonoides Botanical authority: (L.F.) DC. Family: BIGNONIACEAE Source xplant ID: 81a7142da6d3e9316c713044dd02140d",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d/xclkon/d0cb50c09044ca93fc581652ab7273db"
+  ],
+  "source_record_ids": [
+    "links-1492",
+    "links-1493",
+    "links-1494"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d/xclkon/d0cb50c09044ca93fc581652ab7273db"
+    ],
+    "source_record_ids": [
+      "links-1492",
+      "links-1493",
+      "links-1494"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d",
+          "Plant Name": "Stereospermum chelonoides",
+          "Status": "Found"
+        },
+        "source_plant_name": "Stereospermum chelonoides",
+        "source_record_id": "links-1492",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d/xclkon/d0cb50c09044ca93fc581652ab7273db",
+          "Plant Name": "Stereospermum suaveolens DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Stereospermum suaveolens DC.",
+        "source_record_id": "links-1493",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d/xclkon/d0cb50c09044ca93fc581652ab7273db"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d/xclkon/d0cb50c09044ca93fc581652ab7273db",
+          "Plant Name": "Stereospermum Suaveolens DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Stereospermum Suaveolens DC.",
+        "source_record_id": "links-1494",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d/xclkon/d0cb50c09044ca93fc581652ab7273db"
+      }
+    ],
+    "source_xplant_id": "81a7142da6d3e9316c713044dd02140d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

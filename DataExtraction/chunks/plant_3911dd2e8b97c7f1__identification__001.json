@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_3911dd2e8b97c7f1__identification__001",
+  "plant_id": "plant_3911dd2e8b97c7f1",
+  "plant_name": "Pavonia odorata Willd.",
+  "botanical_name": "Pavonia odorata",
+  "botanical_authority": "WILLD.",
+  "family": "MALVACEAE",
+  "section": "identification",
+  "content": "Plant name: Pavonia odorata Willd. Botanical name: Pavonia odorata Botanical authority: WILLD. Family: MALVACEAE Source xplant ID: d55a05ca48b7334d7a1601cbef693833",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d55a05ca48b7334d7a1601cbef693833"
+  ],
+  "source_record_ids": [
+    "links-0725"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d55a05ca48b7334d7a1601cbef693833"
+    ],
+    "source_record_ids": [
+      "links-0725"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d55a05ca48b7334d7a1601cbef693833",
+          "Plant Name": "Pavonia odorata Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pavonia odorata Willd.",
+        "source_record_id": "links-0725",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d55a05ca48b7334d7a1601cbef693833"
+      }
+    ],
+    "source_xplant_id": "d55a05ca48b7334d7a1601cbef693833",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_db9d9382c322c83f__systems_of_medicine__001",
+  "plant_id": "plant_db9d9382c322c83f",
+  "plant_name": "erythraea roxburghii G. Don.",
+  "botanical_name": "Centaurium roxburghii",
+  "botanical_authority": "(G.DON) DRUCE",
+  "family": "GENTIANACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Folk Botanical Synonyms (2) - Centaurium centaurioides (ROXB.) ROLLA RAO Erythraea roxburghii G.DON X Full Botanical citation - Erythraea roxburghii D.Don in Lond. & Edinb. Phill. Mag. & J.Sci. 8:77. 1836; N.P.Singh & al.\nSystem of medicine: Fl. Maharashtra State Dicotyledones\nSystem of medicine: 2: Fl. India Ser 2: 405. 2001.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45ee92f9353217d7b2f65d20ff42ed68/xclkon/21ae8e6aae44d0fa4bd84b818cd833ec"
+  ],
+  "source_record_ids": [
+    "links-2143"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45ee92f9353217d7b2f65d20ff42ed68/xclkon/21ae8e6aae44d0fa4bd84b818cd833ec"
+    ],
+    "source_record_ids": [
+      "links-2143"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45ee92f9353217d7b2f65d20ff42ed68/xclkon/21ae8e6aae44d0fa4bd84b818cd833ec",
+          "Plant Name": "erythraea roxburghii G. Don.",
+          "Status": "Found"
+        },
+        "source_plant_name": "erythraea roxburghii G. Don.",
+        "source_record_id": "links-2143",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45ee92f9353217d7b2f65d20ff42ed68/xclkon/21ae8e6aae44d0fa4bd84b818cd833ec"
+      }
+    ],
+    "source_xplant_id": "45ee92f9353217d7b2f65d20ff42ed68",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

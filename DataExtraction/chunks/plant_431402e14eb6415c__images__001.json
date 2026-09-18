@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_431402e14eb6415c__images__001",
+  "plant_id": "plant_431402e14eb6415c",
+  "plant_name": "Mucuna prurita Hook.",
+  "botanical_name": "Mucuna pruriens",
+  "botanical_authority": "(L.) DC.",
+  "family": "FABACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/571cbf77cc7d7792510bafead68d18c4",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544"
+  ],
+  "source_record_ids": [
+    "links-0927",
+    "links-1886"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/571cbf77cc7d7792510bafead68d18c4",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544"
+    ],
+    "source_record_ids": [
+      "links-0927",
+      "links-1886"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/571cbf77cc7d7792510bafead68d18c4",
+          "Plant Name": "Mucuna prurita Hook.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mucuna prurita Hook.",
+        "source_record_id": "links-0927",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/571cbf77cc7d7792510bafead68d18c4"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544",
+          "Plant Name": "Mucuna pruriens DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mucuna pruriens DC.",
+        "source_record_id": "links-1886",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544"
+      }
+    ],
+    "source_xplant_id": "8b22b64302e1857bf8ef9d889912e544",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

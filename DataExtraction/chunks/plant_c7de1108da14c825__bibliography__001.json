@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_c7de1108da14c825__bibliography__001",
+  "plant_id": "plant_c7de1108da14c825",
+  "plant_name": "Cassia angustifolia Vabl.",
+  "botanical_name": "Cassia senna",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - DR.P.N.V.KURUP, DR.V.N.K.RAMADAS & JOSHI,P; title: Title - A HANDBOOK OF MEDICINAL PLANTS\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - MUKERJI,B; title: Title - INDIAN PHARMACEUTICAL CODEX VOL.I\nBibliography entry: author: Author - WHITELAW AINSLIE; title: Title - MATERIA INDICA\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: author: Author - ANONYMOUS; title: Title - THE AYURVEDIC PHARMACOPOEIA OF INDIA PART 1. VOL.1\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/4ebfdfa8bb171da203128b0e8add0ace"
+  ],
+  "source_record_ids": [
+    "links-1250",
+    "links-1887"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/4ebfdfa8bb171da203128b0e8add0ace"
+    ],
+    "source_record_ids": [
+      "links-1250",
+      "links-1887"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/4ebfdfa8bb171da203128b0e8add0ace",
+          "Plant Name": "Cassia angustifolia Vabl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cassia angustifolia Vabl.",
+        "source_record_id": "links-1250",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/4ebfdfa8bb171da203128b0e8add0ace"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/4ebfdfa8bb171da203128b0e8add0ace",
+          "Plant Name": "Cassia angustifolia Vahl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cassia angustifolia Vahl.",
+        "source_record_id": "links-1887",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/4ebfdfa8bb171da203128b0e8add0ace"
+      }
+    ],
+    "source_xplant_id": "43935e8d2aede8d6f69b22a7e157eba1",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

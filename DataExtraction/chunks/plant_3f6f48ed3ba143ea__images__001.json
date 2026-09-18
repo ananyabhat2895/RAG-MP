@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_3f6f48ed3ba143ea__images__001",
+  "plant_id": "plant_3f6f48ed3ba143ea",
+  "plant_name": "Tephrosia purpurea (Linn.) Pers.",
+  "botanical_name": "Tephrosia purpurea",
+  "botanical_authority": "PERS.",
+  "family": "FABACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c"
+  ],
+  "source_record_ids": [
+    "links-1738",
+    "links-1739"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c"
+    ],
+    "source_record_ids": [
+      "links-1738",
+      "links-1739"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c",
+          "Plant Name": "Tephrosia purpurea (Linn.) Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tephrosia purpurea (Linn.) Pers.",
+        "source_record_id": "links-1738",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c",
+          "Plant Name": "Tephrosia purpurea Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tephrosia purpurea Pers.",
+        "source_record_id": "links-1739",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c"
+      }
+    ],
+    "source_xplant_id": "c8ed3ad40516a2873cf00155bc39949c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

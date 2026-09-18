@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_17a122fc90b5c173__distribution__001",
+  "plant_id": "plant_17a122fc90b5c173",
+  "plant_name": "Ailanthus malabarica DC.",
+  "botanical_name": "Ailanthus triphysa",
+  "botanical_authority": "(DENNST.) ALSTON",
+  "family": "SIMAROUBACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Ed. P. Daniel; distribution: Distribution; title: Title - The Flora of Kerala Vol I\nDistribution entry: author: Author - C.J SALDHANA; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-2\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f075267567d9f08a94830469ee35d1e/xclkon/5058dc3d282dfffed8a318c4edc27810"
+  ],
+  "source_record_ids": [
+    "links-0142"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f075267567d9f08a94830469ee35d1e/xclkon/5058dc3d282dfffed8a318c4edc27810"
+    ],
+    "source_record_ids": [
+      "links-0142"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f075267567d9f08a94830469ee35d1e/xclkon/5058dc3d282dfffed8a318c4edc27810",
+          "Plant Name": "Ailanthus malabarica DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ailanthus malabarica DC.",
+        "source_record_id": "links-0142",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f075267567d9f08a94830469ee35d1e/xclkon/5058dc3d282dfffed8a318c4edc27810"
+      }
+    ],
+    "source_xplant_id": "3f075267567d9f08a94830469ee35d1e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

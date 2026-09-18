@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_3cd2227ddeeaa77d__identification__001",
+  "plant_id": "plant_3cd2227ddeeaa77d",
+  "plant_name": "Adiantum lunulatum Burm.",
+  "botanical_name": "Adiantum lunulatum",
+  "botanical_authority": "L.",
+  "family": "ADIANTACEAE",
+  "section": "identification",
+  "content": "Plant name: Adiantum lunulatum Burm. Botanical name: Adiantum lunulatum Botanical authority: L. Family: ADIANTACEAE Source xplant ID: 24eea74e50c84fcb55c65b6f48d5efe7",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/24eea74e50c84fcb55c65b6f48d5efe7"
+  ],
+  "source_record_ids": [
+    "links-0681"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/24eea74e50c84fcb55c65b6f48d5efe7"
+    ],
+    "source_record_ids": [
+      "links-0681"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/24eea74e50c84fcb55c65b6f48d5efe7",
+          "Plant Name": "Adiantum lunulatum Burm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Adiantum lunulatum Burm.",
+        "source_record_id": "links-0681",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/24eea74e50c84fcb55c65b6f48d5efe7"
+      }
+    ],
+    "source_xplant_id": "24eea74e50c84fcb55c65b6f48d5efe7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

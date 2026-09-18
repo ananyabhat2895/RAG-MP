@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8fa5228462850ce6__systems_of_medicine__001",
+  "plant_id": "plant_8fa5228462850ce6",
+  "plant_name": "Zanthoxylum budrunga Wall.",
+  "botanical_name": "Zanthoxylum rhetsa",
+  "botanical_authority": "(ROXB.) DC.",
+  "family": "RUTACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk Botanical Synonyms (2) - Zanthoxylum budrunga (ROXB.) DC. X Full Botanical citation - Zanthoxylum budranga (Roxb.) DC.\nSystem of medicine: Prodr. 1: 728. 1824; K.N. Nair & M.P. Nayar in Hajra & al.\nSystem of medicine: Fl. India 4: 387. 1997. Zanthoxylum limonella (DENNST.) ALSTON X Full Botanical citation - Zanthoxylum limonella (Dennst.) Alston in Trimen\nSystem of medicine: Handb. Fl. Ceylon Suppl. 6: 37. 1931\nSystem of medicine: nom. illegit; K.N. Nair & M.P. Nayar in Hajra & al.\nSystem of medicine: Fl. India 4: 387. 1997.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb7e054d1a2c7e1506b75ef28d3a5c74/xclkon/5a8737f8d71f77fe33c5cd4f8c550611"
+  ],
+  "source_record_ids": [
+    "links-1938"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb7e054d1a2c7e1506b75ef28d3a5c74/xclkon/5a8737f8d71f77fe33c5cd4f8c550611"
+    ],
+    "source_record_ids": [
+      "links-1938"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb7e054d1a2c7e1506b75ef28d3a5c74/xclkon/5a8737f8d71f77fe33c5cd4f8c550611",
+          "Plant Name": "Zanthoxylum budrunga Wall.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Zanthoxylum budrunga Wall.",
+        "source_record_id": "links-1938",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb7e054d1a2c7e1506b75ef28d3a5c74/xclkon/5a8737f8d71f77fe33c5cd4f8c550611"
+      }
+    ],
+    "source_xplant_id": "fb7e054d1a2c7e1506b75ef28d3a5c74",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

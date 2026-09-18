@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b35c46e6ae9fdccb__distribution__001",
+  "plant_id": "plant_b35c46e6ae9fdccb",
+  "plant_name": "Carica papaya Linn.",
+  "botanical_name": "Carica papaya",
+  "botanical_authority": "L.",
+  "family": "PASSIFLORACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff77f8fbcaf19f4a3e2298cdd823512a"
+  ],
+  "source_record_ids": [
+    "links-0566"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff77f8fbcaf19f4a3e2298cdd823512a"
+    ],
+    "source_record_ids": [
+      "links-0566"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff77f8fbcaf19f4a3e2298cdd823512a",
+          "Plant Name": "Carica papaya Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Carica papaya Linn.",
+        "source_record_id": "links-0566",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff77f8fbcaf19f4a3e2298cdd823512a"
+      }
+    ],
+    "source_xplant_id": "ff77f8fbcaf19f4a3e2298cdd823512a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

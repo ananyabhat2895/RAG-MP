@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c946829568c4d411__images__001",
+  "plant_id": "plant_c946829568c4d411",
+  "plant_name": "Ficus carica Linn.",
+  "botanical_name": "Ficus carica",
+  "botanical_authority": "L.",
+  "family": "MORACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6789105993e26a315cae8a69d6d516a1"
+  ],
+  "source_record_ids": [
+    "links-1509"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6789105993e26a315cae8a69d6d516a1"
+    ],
+    "source_record_ids": [
+      "links-1509"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6789105993e26a315cae8a69d6d516a1",
+          "Plant Name": "Ficus carica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus carica Linn.",
+        "source_record_id": "links-1509",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6789105993e26a315cae8a69d6d516a1"
+      }
+    ],
+    "source_xplant_id": "6789105993e26a315cae8a69d6d516a1",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

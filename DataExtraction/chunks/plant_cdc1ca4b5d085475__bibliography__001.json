@@ -1,0 +1,108 @@
+{
+  "chunk_id": "plant_cdc1ca4b5d085475__bibliography__001",
+  "plant_id": "plant_cdc1ca4b5d085475",
+  "plant_name": "Celosia argentea Linn.",
+  "botanical_name": "Celosia cristata",
+  "botanical_authority": "L.",
+  "family": "AMARANTHACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - V.V. SIVARAJAN AND INDIRA BALACHANDRAN; title: Title - AYURVEDIC DRUGS AND THEIR PLANT SOURCES\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: author: Author - VAIDYA D.K. KAMAT; title: Title - STUDIES ON MEDICINAL PLANTS IN DHANVANTARIYA NIGHANTU VOL.1\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol. II\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e/xclkon/848e8c8237d8eee63d638995a9a77fa0",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e"
+  ],
+  "source_record_ids": [
+    "links-0292",
+    "links-0735",
+    "links-1271",
+    "links-1272",
+    "links-1273",
+    "links-1507"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e/xclkon/848e8c8237d8eee63d638995a9a77fa0",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e"
+    ],
+    "source_record_ids": [
+      "links-0292",
+      "links-0735",
+      "links-1271",
+      "links-1272",
+      "links-1273",
+      "links-1507"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e/xclkon/848e8c8237d8eee63d638995a9a77fa0",
+          "Plant Name": "Celosia argentea Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Celosia argentea Linn.",
+        "source_record_id": "links-0292",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e/xclkon/848e8c8237d8eee63d638995a9a77fa0"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e/xclkon/848e8c8237d8eee63d638995a9a77fa0",
+          "Plant Name": "Celosia argentea var. cristata Vors.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Celosia argentea var. cristata Vors.",
+        "source_record_id": "links-0735",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e/xclkon/848e8c8237d8eee63d638995a9a77fa0"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e/xclkon/848e8c8237d8eee63d638995a9a77fa0",
+          "Plant Name": "Celosia argentea",
+          "Status": "Found"
+        },
+        "source_plant_name": "Celosia argentea",
+        "source_record_id": "links-1271",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e/xclkon/848e8c8237d8eee63d638995a9a77fa0"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e/xclkon/848e8c8237d8eee63d638995a9a77fa0",
+          "Plant Name": "Celosia argentea Linn. var. cristata.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Celosia argentea Linn. var. cristata.",
+        "source_record_id": "links-1272",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e/xclkon/848e8c8237d8eee63d638995a9a77fa0"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e",
+          "Plant Name": "Celosia cristata Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Celosia cristata Linn.",
+        "source_record_id": "links-1273",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e/xclkon/848e8c8237d8eee63d638995a9a77fa0",
+          "Plant Name": "Celosia argentea var. cristata Voss.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Celosia argentea var. cristata Voss.",
+        "source_record_id": "links-1507",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e/xclkon/848e8c8237d8eee63d638995a9a77fa0"
+      }
+    ],
+    "source_xplant_id": "e9685512bf1908889701b8896bc9df7e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

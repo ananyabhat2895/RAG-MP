@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_69e46a49fb7f6dfd__identification__001",
+  "plant_id": "plant_69e46a49fb7f6dfd",
+  "plant_name": "Digitalis purpurea Linn.",
+  "botanical_name": "Digitalis purpurea",
+  "botanical_authority": "L.",
+  "family": "SCROPHULARIACEAE",
+  "section": "identification",
+  "content": "Plant name: Digitalis purpurea Linn. Botanical name: Digitalis purpurea Botanical authority: L. Family: SCROPHULARIACEAE Source xplant ID: c440cae0856e418009246cef80594df1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c440cae0856e418009246cef80594df1"
+  ],
+  "source_record_ids": [
+    "links-0726"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c440cae0856e418009246cef80594df1"
+    ],
+    "source_record_ids": [
+      "links-0726"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c440cae0856e418009246cef80594df1",
+          "Plant Name": "Digitalis purpurea Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Digitalis purpurea Linn.",
+        "source_record_id": "links-0726",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c440cae0856e418009246cef80594df1"
+      }
+    ],
+    "source_xplant_id": "c440cae0856e418009246cef80594df1",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

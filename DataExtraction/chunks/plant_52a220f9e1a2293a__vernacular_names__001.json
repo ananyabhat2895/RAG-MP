@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_52a220f9e1a2293a__vernacular_names__001",
+  "plant_id": "plant_52a220f9e1a2293a",
+  "plant_name": "Rhinacanthus nasuta Kurz.",
+  "botanical_name": "Rhinacanthus nasuta",
+  "botanical_authority": "(L.) KURZ.",
+  "family": "ACANTHACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (7): joi-pani, juipani, juyipani, palak-johi, palak-juhi, palakjuhi, palikjuhia\nKannada (8): dodda patika, dodda pettika gida, doddapatike, naaga mallige, naga-mallige, nagamallige, nagamulli, negamuli\nMalayalam (12): nagamallich-cheta, nagamulla, peelcolue, pul-colli, pulcolli, pulukkolli, purukolli, pushpa-kedal, pushpakedal, pushpaketal, puzhuk-kolli, puzhukkolli\nMarathi (3): dadmari, gajakarni, kaboothar-ka-baand\nSanskrit (4): Sanskrit CommentsX juthikapurni, yuthikaparni, yuthikapurni, yuthiparni\nTamil (64): anicanacam, aniccai#, aniccai@, anicci, anichai, ara, atimotam, caliparani, caranacakam#, caranacikam, caranacikamaram, carpikamikam, carpikamikamaram, catturunuvam, culli1, curana, curanam, curanamanankam, curonitam, kakanacattuvam, kaligai, kalikai#, kalikai@, kalikaicceti, kayattenukacceti, kayattenukam, kuruntai, kutacakari, malli 1, naagamalli, naga malli, naga-mali, naga-malli, nagamalli, nagamalli nagamalligai, nagamalligai, nakamalli, nakamullai, nakamutti1, nakapala, nakapalai, naravam3, naravika, niyacati, palaccavam, palvati, piramatalayacceti, piramatalayam, pulukkolli 1, tevam1, tevamaram1, tevappiranki, ukavalli, ukavallicceti, uragamalli, urakakanni, urakam, urakamalli#, urakamalli@, urakannicceti, vainakamalli, visamallika, visamallikacceti, vitamallikai\nTelugu (10): naaga mulli, naagamalle, naegamooli, nagamalle, nagamalli, nagamallige, nagamulli, nargamollay, nargamolle, negamuli",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fed9b52bb4c1275b5366616ad17b2f6"
+  ],
+  "source_record_ids": [
+    "links-2146"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fed9b52bb4c1275b5366616ad17b2f6"
+    ],
+    "source_record_ids": [
+      "links-2146"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fed9b52bb4c1275b5366616ad17b2f6",
+          "Plant Name": "Rhinacanthus nasuta Kurz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rhinacanthus nasuta Kurz.",
+        "source_record_id": "links-2146",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fed9b52bb4c1275b5366616ad17b2f6"
+      }
+    ],
+    "source_xplant_id": "8fed9b52bb4c1275b5366616ad17b2f6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

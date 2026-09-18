@@ -1,0 +1,97 @@
+{
+  "chunk_id": "plant_9fc88c276c479083__botanical_synonyms__001",
+  "plant_id": "plant_9fc88c276c479083",
+  "plant_name": "Daemia extensa",
+  "botanical_name": "Pergularia daemia",
+  "botanical_authority": "(FORSK.) CHOIV.",
+  "family": "ASCLEPIADACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Cynanchum extensum JACQ. X Full Botanical citation - Cynanchum extensum Jacq., Misc. austriac. 2: 353. 1781; S. Karthikeyan & al., Flowering Plants of India - Dicots. 1: 178. 2009. Daemia extensa R.BR. X Full Botanical citation - Daemia extensa (Jacq.) R.Br. ex Schult., Syst. veg. 6: 112. 1820; S. Karthikeyan & al., Flowering Plants of India - Dicots. 1: 178. 2009. Pergularia aktensa - Pergularia extensa N.E.BR. X Full Botanical citation - Pergularia extensa (Jacq.) R.Br. ex Schult., Syst. veg. 6: 112. 1820; S. Karthikeyan & al., Flowering Plants of India - Dicots. 1: 178. 2009.\nSynonym: Cynanchum extensum JACQ.\nSynonym: Daemia extensa R.BR.\nSynonym: Pergularia aktensa -\nSynonym: Pergularia extensa N.E.BR.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/24cf9340e9a5e255b7d82856f6d14c7c",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/7d4db5872a4e19347d0f36a01d4b40f4",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9"
+  ],
+  "source_record_ids": [
+    "links-0540",
+    "links-0736",
+    "links-2032",
+    "links-2112",
+    "links-2113"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/24cf9340e9a5e255b7d82856f6d14c7c",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/7d4db5872a4e19347d0f36a01d4b40f4",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9"
+    ],
+    "source_record_ids": [
+      "links-0540",
+      "links-0736",
+      "links-2032",
+      "links-2112",
+      "links-2113"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/24cf9340e9a5e255b7d82856f6d14c7c",
+          "Plant Name": "Daemia extensa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Daemia extensa",
+        "source_record_id": "links-0540",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/24cf9340e9a5e255b7d82856f6d14c7c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/7d4db5872a4e19347d0f36a01d4b40f4",
+          "Plant Name": "Pergularia extensa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pergularia extensa",
+        "source_record_id": "links-0736",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/7d4db5872a4e19347d0f36a01d4b40f4"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/7d4db5872a4e19347d0f36a01d4b40f4",
+          "Plant Name": "Pergularia extensa N. E. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pergularia extensa N. E. Br.",
+        "source_record_id": "links-2032",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/7d4db5872a4e19347d0f36a01d4b40f4"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9",
+          "Plant Name": "Pergularia daemia (Forsk.) Chiov.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pergularia daemia (Forsk.) Chiov.",
+        "source_record_id": "links-2112",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/7d4db5872a4e19347d0f36a01d4b40f4",
+          "Plant Name": "Pergularia extensa N.E. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pergularia extensa N.E. Br.",
+        "source_record_id": "links-2113",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/7d4db5872a4e19347d0f36a01d4b40f4"
+      }
+    ],
+    "source_xplant_id": "3b65c96aefba323b04e893b2f48c8bd9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

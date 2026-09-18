@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_395d4a37e4d8185e__distribution__001",
+  "plant_id": "plant_395d4a37e4d8185e",
+  "plant_name": "Oxalis acetosella Linn.",
+  "botanical_name": "Oxalis acetosella",
+  "botanical_authority": "L.",
+  "family": "OXALIDACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - BSI Scientist; distribution: Distribution; title: Title - Flora of West Bengal Vol 1\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol I\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7896558b58b3f1c2797dd9aa72ed8b84"
+  ],
+  "source_record_ids": [
+    "links-0422"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7896558b58b3f1c2797dd9aa72ed8b84"
+    ],
+    "source_record_ids": [
+      "links-0422"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7896558b58b3f1c2797dd9aa72ed8b84",
+          "Plant Name": "Oxalis acetosella Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Oxalis acetosella Linn.",
+        "source_record_id": "links-0422",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7896558b58b3f1c2797dd9aa72ed8b84"
+      }
+    ],
+    "source_xplant_id": "7896558b58b3f1c2797dd9aa72ed8b84",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

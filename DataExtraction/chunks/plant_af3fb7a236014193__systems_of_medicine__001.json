@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_af3fb7a236014193__systems_of_medicine__001",
+  "plant_id": "plant_af3fb7a236014193",
+  "plant_name": "Nymphaea alba Linn.",
+  "botanical_name": "Nymphaea alba",
+  "botanical_authority": "L.",
+  "family": "NYMPHAEACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Sowa-Rigpa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df390e69fd59e26c8d68780d1bf5dc19"
+  ],
+  "source_record_ids": [
+    "links-1115"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df390e69fd59e26c8d68780d1bf5dc19"
+    ],
+    "source_record_ids": [
+      "links-1115"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df390e69fd59e26c8d68780d1bf5dc19",
+          "Plant Name": "Nymphaea alba Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Nymphaea alba Linn.",
+        "source_record_id": "links-1115",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df390e69fd59e26c8d68780d1bf5dc19"
+      }
+    ],
+    "source_xplant_id": "df390e69fd59e26c8d68780d1bf5dc19",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

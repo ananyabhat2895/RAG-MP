@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_49acc341cbde0172__vernacular_names__001",
+  "plant_id": "plant_49acc341cbde0172",
+  "plant_name": "Ananas comosus (Linn.) Merr.",
+  "botanical_name": "Ananas comosus",
+  "botanical_authority": "(L.) MERR.",
+  "family": "BROMELIACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): crowa, pineapple\nHindi (4): aaanas, aaannas, ananas, anannas\nKannada (11): anaanus, anaasu, ananaas gida, ananaas hannu, ananas gida, ananasa hannu, ananasu-hannu, ananasuhannu, ananus hannu, anasu, parangi-kayee\nMalayalam (8): ananas, annanas, kaita-chakka, kaitaccakka, kaitachakka, kapa-tsjakka, kappaccakka, parangi-chakka\nMarathi (1): ananas\nSanskrit (10): Sanskrit CommentsX ama, anamnasam, ananna, anannasa, anarasam, bahunetra, bahunetraphalam, kautukasanjaka, koutukasanjnaka, paravati\nTamil (25): anaci, anashap-pazham, anashapazham, anaship-pazham, anashippazham, anasie pullum, anassappalam, annaci, annacippalam, annasi pazham, annasippalam, annatalai, centalanceti, kataiccittalai, katucittalai, natcattirakantaki, panantalai, parangithalai, parankittalai#, parankittalai@, poonthazham pazham, puntalaimaram, puntalam, puntalampalam, purappiriyai\nTelugu (5): ananas poondu, ananash, anasa-pandu, anasapandu, anasapoondu\nUrdu (2): ananas taza, anannas",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55c2d936ec6213a126e67e6e7c3ca5ba"
+  ],
+  "source_record_ids": [
+    "links-0124"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55c2d936ec6213a126e67e6e7c3ca5ba"
+    ],
+    "source_record_ids": [
+      "links-0124"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55c2d936ec6213a126e67e6e7c3ca5ba",
+          "Plant Name": "Ananas comosus (Linn.) Merr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ananas comosus (Linn.) Merr.",
+        "source_record_id": "links-0124",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55c2d936ec6213a126e67e6e7c3ca5ba"
+      }
+    ],
+    "source_xplant_id": "55c2d936ec6213a126e67e6e7c3ca5ba",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

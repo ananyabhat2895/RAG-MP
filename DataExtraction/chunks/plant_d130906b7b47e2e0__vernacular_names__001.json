@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_d130906b7b47e2e0__vernacular_names__001",
+  "plant_id": "plant_d130906b7b47e2e0",
+  "plant_name": "Embelia ribes Burm.",
+  "botanical_name": "Embelia ribes",
+  "botanical_authority": "BURM.F.",
+  "family": "MYRSINACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (6): baba-rang, baberang, bhabhiramg, karkannie, vayvidamg, wawrung\nKannada (12): amogha, hulimeese, vaayu vilanga, vaayu-vilanga, varana, vayi-vulanga, vayivilanga, vayubaliga, vayubilagu, vayuvilanga, vidanga, vilanga\nMalayalam (8): pu-valli, tiriitticanni, tiruvittikanni, vayi-valannam, vayvilankam, vilal, visalam, vishaul\nMarathi (8): ambti, baavdinga, karkannie, karkunnie, vaavadinga, vayvarang, vvavadinga, waiwarang\nSanskrit (45): Sanskrit CommentsX amodha, amogha, anthunashana, bhasmaka, bidanga, chibatandula, chitra, chitra-tandula, chitrabija, chitratandula, citratandula, gahara, gardabha, ghosha, j vidangaka, jantughna, jantunashaka, kairala, kapali, kevala, krimighna, krimiha, krimikantaka, krimiripu, krimishetru, krmighna, krmiripu, mogha, mrigagamini, pavaka, rasayana, shudratandula, suchitrabija, tandula, tundula, tunduliyaka, vara, vatari, vella, vellah, vidanga, vidangah, vidangam, vrishanashana, vrishnasana\nTamil (56): campinattati, cantu2, carukkaraikkulikam, cintamai, kairali, kaivilankam, kapuliyarici, karicunti, kattukkodi, kattukkoti2, kattukodi, keralam, kirumikkinam2, kirumiyani, kirumiyari, kitacatturu, kitappakai, mantiyattaimarukkinron, mirukakamini#, mirukakamini@, mirukakamiyam, mirukavakkini, parivilankam, pulupakai, tantulam4, tantuliyam, titcanatantu, urucakam2, vaayuvidangam, vai vilangam, vaividangam, vaivilangam, vaivitankam, varnanai, vayi-vilangam, vayivilangam, vayu vilankam, vayu-vilamga, vayu-vilamgam, vayu-vilangam, vayuilankum, vayuvilanga, vayuvilankam, vayvilankam, vayvilankam#, vayvilankam@, vayvitankam, vellai, vellal, vennoccilvirai, vicalam 2, vilalarici, vilankam 1, vitankam, vivilangam, vollai\nTelugu (9): potosul, vaividungalu, vayi-vitangamu, vayivilangamu, vayu-vilangam-chettu, vellal, vidangamu, vilangamu, vyivilangamu\nTibetan (5): bi-dan, bi-tan-ka, byi dan ga (d), byi tam ka, byi tan ga\nUrdu (3): baobadang, baobarang, baobarang (babrang)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885"
+  ],
+  "source_record_ids": [
+    "links-2087",
+    "links-2088"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885"
+    ],
+    "source_record_ids": [
+      "links-2087",
+      "links-2088"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885",
+          "Plant Name": "Embelia ribes Burm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Embelia ribes Burm.",
+        "source_record_id": "links-2087",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885",
+          "Plant Name": "Embelia ribes Burm.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Embelia ribes Burm.f.",
+        "source_record_id": "links-2088",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885"
+      }
+    ],
+    "source_xplant_id": "ef3d02489c5b96418e218dcefab7e885",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

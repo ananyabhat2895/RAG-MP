@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_125d54ed4090a78b__images__001",
+  "plant_id": "plant_125d54ed4090a78b",
+  "plant_name": "Cocos nucifera Linn.",
+  "botanical_name": "Cocos nucifera",
+  "botanical_authority": "L.",
+  "family": "ARECACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeebd0ff22ec7f2d48b7194212dcf0f7"
+  ],
+  "source_record_ids": [
+    "links-1388"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeebd0ff22ec7f2d48b7194212dcf0f7"
+    ],
+    "source_record_ids": [
+      "links-1388"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeebd0ff22ec7f2d48b7194212dcf0f7",
+          "Plant Name": "Cocos nucifera Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cocos nucifera Linn.",
+        "source_record_id": "links-1388",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeebd0ff22ec7f2d48b7194212dcf0f7"
+      }
+    ],
+    "source_xplant_id": "eeebd0ff22ec7f2d48b7194212dcf0f7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

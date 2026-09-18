@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_ad5aca1285b986e5__systems_of_medicine__001",
+  "plant_id": "plant_ad5aca1285b986e5",
+  "plant_name": "Cinnamomum tamala Nees and Eberm.",
+  "botanical_name": "Cinnamomum tamala",
+  "botanical_authority": "NEES & EBERM.",
+  "family": "LAURACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367"
+  ],
+  "source_record_ids": [
+    "links-0463",
+    "links-1373",
+    "links-2007",
+    "links-2056"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367"
+    ],
+    "source_record_ids": [
+      "links-0463",
+      "links-1373",
+      "links-2007",
+      "links-2056"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367",
+          "Plant Name": "Cinnamomum tamala Nees and Eberm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum tamala Nees and Eberm.",
+        "source_record_id": "links-0463",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367",
+          "Plant Name": "Cinnamomum tamala",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum tamala",
+        "source_record_id": "links-1373",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367",
+          "Plant Name": "Cinnamomum tamala Nees & Eberm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum tamala Nees & Eberm.",
+        "source_record_id": "links-2007",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367",
+          "Plant Name": "Cinnamomum tamala Nees.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum tamala Nees.",
+        "source_record_id": "links-2056",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367"
+      }
+    ],
+    "source_xplant_id": "a2f427bdd69c3196852735873010d367",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

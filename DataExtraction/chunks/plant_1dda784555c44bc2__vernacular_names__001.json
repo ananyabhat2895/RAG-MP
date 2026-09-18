@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_1dda784555c44bc2__vernacular_names__001",
+  "plant_id": "plant_1dda784555c44bc2",
+  "plant_name": "Garcinia morella",
+  "botanical_name": "Garcinia morella",
+  "botanical_authority": "(GAERTN.) DESR.",
+  "family": "CLUSIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (3): gotaghanba, tamal, tamel\nKannada (44): aradaala, aradala, arandaal, arandal, arasinagurge, arasinagurse, ardala, aridaala, arishina gurige, arisina gurgi, arsinagurgi, daevanahuli, devana huli, devanahuli, haralaangushta, haralam gushta, hardala, jaarige, jaarige huli, jarige, jarigehuli, jarigepuli, jarize, jirigehuli, kaanabheerunda, kaccapuli, kachampuli, kachampulli, kachhapuli, kakhote kaayi, kanabhirand, kanakakote kaayi, kanakotekayi, kankootgal, kankutagal, kankutake, kankutiga, lamal, makki, murinahuli, ponapuli, punarapuli, punarpuli, reval chinni mara\nMalayalam (20): chigiri, chingiri, cigiri, cikiri, daramba, iravi, karukampulu, karukkampuli, kurukapulli, makki, pinarppuli, pinnarpuli, ponnummattu, pulincakka, pulinchakka, pulinjakka, punnangam, punnaru, valakkanna, valogam\nMarathi (9): lokaskandha, mahabala, niladvaja, nilatala, raevaachineechashira, tama, tamala, tapichcha, tapinja\nSanskrit (18): Sanskrit CommentsX amritadruma, hiravi, kalaskandha, kalaskandhah, kalatala, kankustha, lokaskandha, mahabala, niladvaja, nilatala, svarnaksiri, tama, tamal, tamala, tapiccha, tapichcha, tapinja, tapitha\nTamil (14): colaippuli, iravalsinni, irevalsinni, irevarcinni, korakpuli, kotu-k-kaypuli, makki, makkicceti, makkimaram, makkimukkimaram, makkimukku, revalcinni, solaippuli, trevalchinippal\nTelugu (8): karukkampuli, pasupuvanne, pasupuvarne, raevalchinni, revalchinni, revalcinni, rival-chinipal, thamal\nTibetan (3): rtsad sman khrol bu (p), rtsan sman khrol bu (d), rtsi da sman khrol bu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754"
+  ],
+  "source_record_ids": [
+    "links-0916",
+    "links-0917",
+    "links-1920"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754"
+    ],
+    "source_record_ids": [
+      "links-0916",
+      "links-0917",
+      "links-1920"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754",
+          "Plant Name": "Garcinia morella",
+          "Status": "Found"
+        },
+        "source_plant_name": "Garcinia morella",
+        "source_record_id": "links-0916",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754",
+          "Plant Name": "Garcinia morella Desr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Garcinia morella Desr.",
+        "source_record_id": "links-0917",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754",
+          "Plant Name": "Garcinia morella Dsv.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Garcinia morella Dsv.",
+        "source_record_id": "links-1920",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754"
+      }
+    ],
+    "source_xplant_id": "a3e6f8691986cdca6ffe150c459f9754",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

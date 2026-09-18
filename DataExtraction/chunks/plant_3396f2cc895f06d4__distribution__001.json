@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_3396f2cc895f06d4__distribution__001",
+  "plant_id": "plant_3396f2cc895f06d4",
+  "plant_name": "Crinum defixum Kar.-Gawl.",
+  "botanical_name": "Crinum viviparum",
+  "botanical_authority": "(LAM.) HEMADRI",
+  "family": "AMARYLLIDACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 2\nDistribution entry: author: Author - Ed B D Sharma, S Karthikeyan, N P Singh; distribution: Distribution; title: Title - Flora of Maharashrta State (Monocotyledons)\nDistribution entry: author: Author - K.M. Matthew; distribution: Distribution; title: Title - The Flora of the Palni Hills Vol-3\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f98dd8e546b764d41dbf98c57619170d/xclkon/a876ff5e63a1fc44fed06ce5229cab7a"
+  ],
+  "source_record_ids": [
+    "links-0585",
+    "links-1861"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f98dd8e546b764d41dbf98c57619170d/xclkon/a876ff5e63a1fc44fed06ce5229cab7a"
+    ],
+    "source_record_ids": [
+      "links-0585",
+      "links-1861"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f98dd8e546b764d41dbf98c57619170d/xclkon/a876ff5e63a1fc44fed06ce5229cab7a",
+          "Plant Name": "Crinum defixum Kar.-Gawl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Crinum defixum Kar.-Gawl.",
+        "source_record_id": "links-0585",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f98dd8e546b764d41dbf98c57619170d/xclkon/a876ff5e63a1fc44fed06ce5229cab7a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f98dd8e546b764d41dbf98c57619170d/xclkon/a876ff5e63a1fc44fed06ce5229cab7a",
+          "Plant Name": "Crinum defixum Ker-Gawl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Crinum defixum Ker-Gawl.",
+        "source_record_id": "links-1861",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f98dd8e546b764d41dbf98c57619170d/xclkon/a876ff5e63a1fc44fed06ce5229cab7a"
+      }
+    ],
+    "source_xplant_id": "f98dd8e546b764d41dbf98c57619170d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_94f2d2f7451f86b5__distribution__001",
+  "plant_id": "plant_94f2d2f7451f86b5",
+  "plant_name": "Capparis decidua Edgew.",
+  "botanical_name": "Capparis decidua",
+  "botanical_authority": "(FORSK.) EDGEW.",
+  "family": "CAPPARACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - Botanicaly Survey of India; distribution: Distribution; title: Title - FLORA OF INDIA VOL 2\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/097e59d34e31f548d8c5d40949d1fc74"
+  ],
+  "source_record_ids": [
+    "links-0961"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/097e59d34e31f548d8c5d40949d1fc74"
+    ],
+    "source_record_ids": [
+      "links-0961"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/097e59d34e31f548d8c5d40949d1fc74",
+          "Plant Name": "Capparis decidua Edgew.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Capparis decidua Edgew.",
+        "source_record_id": "links-0961",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/097e59d34e31f548d8c5d40949d1fc74"
+      }
+    ],
+    "source_xplant_id": "097e59d34e31f548d8c5d40949d1fc74",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

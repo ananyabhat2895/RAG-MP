@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_9f6b1b410cb8441d__vernacular_names__001",
+  "plant_id": "plant_9f6b1b410cb8441d",
+  "plant_name": "Phyllanthus fraternus Webster",
+  "botanical_name": "Phyllanthus amarus",
+  "botanical_authority": "SCHUM. & THENN.",
+  "family": "EUPHORBIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): niruri\nHindi (14): bhonyaabali, bhuin-anvalah, bhuinan-valah, bhuinanvalah, gugaria, gugario, hazarmani, jamgli amli, jangli-amli, jar-amla, jaramla, kanocha, niruri, sadahazurmani\nKannada (8): bhoo nelli, jaandees gida, kiranelli gida, kiranelligida, kirinelli gida, kirinelligide, kirunelli, nela nelli\nMalayalam (7): kilanelli, kilarnelli, kilukanelli, kirganelli, kirutanelli, kizhakkayinelli, kizhanelli\nMarathi (4): bhooyiaamli, bhuiavala, bhuiavali, bhumy-avil\nSanskrit (45): Sanskrit CommentsX adhyanda, ajada, ajata, ajjhada, ajuta, amala, amlika, amrita, aphala, arjata, bahupatra, bahupatri, bahuphala, bahupushpi, bhudatra, bhudhatri, bhumyaamlaki, bhumyamalaki, bhuparva, bhuta-dhatri, boovishirum, charati, chorata, dalaparshini, dridhapadi, hilolika, ishaghni, jada, jharika, jhatamala, kshetramali, mahidhatrika, mala, nilolika, putrashronika, shiva, sukshmadala, sukshmaphala, tali, tamalaki, uchchata, vishvaparni, vitunnaka, vituntika, vrishya\nTamil (68): accatai, alakaiccuram, alakkaiccuram, amalai 2, arttapatam, avakatavay, avakkattala, cankanatticam, cimutti, cimuttikacceti, cimuttikam, civa 3, civaccakacceti, civaccakam, civappunelli, ilanciyam, kalinai 1, kamalainivartti, karunelli, keelan elli, keelkai nelli, keezh kai nelli, keezhkai nelli, khizhe nelli, khizkkay nelli, kikkaynelli, kil-kkay-nelli, kilakkainelli, kilanelli, kilanelly, kilkai nelli, kilkkay nelli, kilkkaynelli, kilvaynelli, kisha nelli, kizh kay-nelli, kizha nelli, kizha-nelli, kizhkai-nelli, kizhkay nelli, kolavatitam, malakiticam, malantu, maliniyamata, neer-poola, niruri, peruviriyaka, putattiri, puttirakenni, puttiratarapala, puttiri#, puttiri@, puttiricceti, tali, talikakkaycceti, taliyacceti, taliyam, tamalakacceti, tamalakam, tamalaki, tamalaki 1, tamaliti, tiruvampal, vakuni, vekuputtiri, vicavalli, vitvesam, yavakkal\nTelugu (6): nela usari, nela usiri, nela usirika, nelausirika, nelavusari, triphalamu\nTibetan (1): ta-ma-la",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9e9ee1b9797378a2017dccfbe718c6dc/xclkon/ab69e0b52792413f6f99ceb82a6c27af",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9e9ee1b9797378a2017dccfbe718c6dc/xclkon/c1665807fa241eb60cd019d4eae5d121"
+  ],
+  "source_record_ids": [
+    "links-0340",
+    "links-1921"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9e9ee1b9797378a2017dccfbe718c6dc/xclkon/ab69e0b52792413f6f99ceb82a6c27af",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9e9ee1b9797378a2017dccfbe718c6dc/xclkon/c1665807fa241eb60cd019d4eae5d121"
+    ],
+    "source_record_ids": [
+      "links-0340",
+      "links-1921"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9e9ee1b9797378a2017dccfbe718c6dc/xclkon/ab69e0b52792413f6f99ceb82a6c27af",
+          "Plant Name": "Phyllanthus fraternus Webster",
+          "Status": "Found"
+        },
+        "source_plant_name": "Phyllanthus fraternus Webster",
+        "source_record_id": "links-0340",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9e9ee1b9797378a2017dccfbe718c6dc/xclkon/ab69e0b52792413f6f99ceb82a6c27af"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9e9ee1b9797378a2017dccfbe718c6dc/xclkon/c1665807fa241eb60cd019d4eae5d121",
+          "Plant Name": "Phyllanthus niruri Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Phyllanthus niruri Linn.",
+        "source_record_id": "links-1921",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9e9ee1b9797378a2017dccfbe718c6dc/xclkon/c1665807fa241eb60cd019d4eae5d121"
+      }
+    ],
+    "source_xplant_id": "9e9ee1b9797378a2017dccfbe718c6dc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

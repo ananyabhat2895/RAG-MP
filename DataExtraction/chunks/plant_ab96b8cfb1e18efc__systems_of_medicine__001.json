@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_ab96b8cfb1e18efc__systems_of_medicine__001",
+  "plant_id": "plant_ab96b8cfb1e18efc",
+  "plant_name": "Bacopa monnieri (Linn.) Pennell.",
+  "botanical_name": "Bacopa monnieri",
+  "botanical_authority": "(L.) PENNELL",
+  "family": "SCROPHULARIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Homeopathy\nSystem of medicine: Folk Botanical Synonyms (4) - Gratiola monnieria L. X Full Botanical citation - Gratiola monnieria L.\nSystem of medicine: Amoen. Acad. 4: 306. 1759; R.D.Gaur\nSystem of medicine: Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes)\nSystem of medicine: TransMedia\nSystem of medicine: Srinagar (Garhwal)\nSystem of medicine: India\nSystem of medicine: 487. 1999. Herpestis monniera (L.) H.B. & K. X Full Botanical citation - Herpestris monnieria (L.) Kunth in Humb.\nSystem of medicine: Bonpl. & Kunth\nSystem of medicine: Nov. Gen. Sp. 2: 566. 1818; R.D.Gaur\nSystem of medicine: 487. 1999. Moniera cuneate - Moniera cuneifolia MICHX.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b"
+  ],
+  "source_record_ids": [
+    "links-0033",
+    "links-0384"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b"
+    ],
+    "source_record_ids": [
+      "links-0033",
+      "links-0384"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b",
+          "Plant Name": "Bacopa monnieri (Linn.) Pennell.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bacopa monnieri (Linn.) Pennell.",
+        "source_record_id": "links-0033",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b",
+          "Plant Name": "Bacopa monnieri (Linn.) Pennell",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bacopa monnieri (Linn.) Pennell",
+        "source_record_id": "links-0384",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b"
+      }
+    ],
+    "source_xplant_id": "297fcf5c215cc8b1a93d83ac1763b38b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

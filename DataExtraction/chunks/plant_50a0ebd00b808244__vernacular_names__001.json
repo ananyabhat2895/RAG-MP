@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_50a0ebd00b808244__vernacular_names__001",
+  "plant_id": "plant_50a0ebd00b808244",
+  "plant_name": "Allium sativum Linn.",
+  "botanical_name": "Allium sativum",
+  "botanical_authority": "L.",
+  "family": "LILIACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): garlic, poor-mans-treacle\nHindi (7): lahasun, lahsan, lahsun, lasan, lassun, lasun, lehann\nKannada (3): belluli, bellulli, jawari gadde\nMalayalam (1): vellulli\nMarathi (3): lasoon, lasun, lasunas\nSanskrit (29): Sanskrit CommentsX arishtha, bhutabhna, bhutagna, dirghapatraka, grinjana, grnjana, hana, katukanda, lashuna, lasuna, lasunah, maha-ushadha, mahakanda, mahausa, mahusudha, mlecchakanda, mlecha-gandha, rahuchhishta, rahutsrishta, rasona, rasonah, rasonaka, rasonam, ugragandha, ulli, vatari, yavanasta, yavaneshta, yavanesta\nTamil (110): acanam 1, acanapanni 2, acanapputu, accanam, acunam@, acunan, acunapputu, acuram2, amirtai5, araconam, araipavanati, arakacam, arakacappuntu, arital, arittam2, arittampokki, arittampokkipputu, attankal, cavukkiriya, cavukkiriyacceti, cocanam, cocanapputu, corutca1, cunakam, cunakapputu, cunam, cunam2, eripuntu, ilacunam, ilacunam@, iletitacceti, iletitam, iracanai, iracanam, iracanappuntu, iraconakam, iraconam, iraconopi, iracunam, irecan, irecani, irecapputu, kalinkam, kantakam2, kantam7, katukantam, kautatam, kayam, kirancam, kirancanam2, kulamarccam, kutiraippallan, lacunam, makorakattam, malacanati, matalam@, matamatu 1, matamatupputu, matukiyakentam, mileccakantakam, mileccakantam 1, nattotarici, nicciyam2, paccainirulli, palantu 2, poondu, pundu, puntu, raconakam, raconam, racunam, racunapputu, tellulli, temekavitayam, tiri, tiripuravanitacceti2, tiripuravanitam, uccatai2, ukkirakantam4, ulli, ulli-poondu, ulli2, ulliccuvetam1, ullipoondu, ullippuntu, ullipputu, umiyarpuntu, umiyarputu, vacikaram 3, vacikarapputu, vacu, vallaipundu, vellai-p-puntu, vellai-poondu, vellaippundu, vellaippuntu, vellaipputu, vellaipundu, vellaipuntu, vellaivenkayam#, vellaivenkayam@, vellapundu, vellulli, velvankayam, velvenkayam, venkavali, venkaveli, vetpuntu, virutalam, vullay poondoo\nTelugu (7): tellagadda, thellagaddalu, thellavayalu, vellipayalu, velluli, vellulli, vellullitellagadda\nTibetan (3): sgog gcig, sgog skya, sgog-skyam\nUrdu (7): aghlees, awqariyo saqardeen, lahasan, lahsan, lehsan, lehsun, seer (lahsan)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ba63dffa8d6ef008723ec357591e4ff"
+  ],
+  "source_record_ids": [
+    "links-1175"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ba63dffa8d6ef008723ec357591e4ff"
+    ],
+    "source_record_ids": [
+      "links-1175"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ba63dffa8d6ef008723ec357591e4ff",
+          "Plant Name": "Allium sativum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Allium sativum Linn.",
+        "source_record_id": "links-1175",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ba63dffa8d6ef008723ec357591e4ff"
+      }
+    ],
+    "source_xplant_id": "9ba63dffa8d6ef008723ec357591e4ff",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

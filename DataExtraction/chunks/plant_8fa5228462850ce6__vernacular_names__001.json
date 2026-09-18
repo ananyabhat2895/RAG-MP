@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8fa5228462850ce6__vernacular_names__001",
+  "plant_id": "plant_8fa5228462850ce6",
+  "plant_name": "Zanthoxylum budrunga Wall.",
+  "botanical_name": "Zanthoxylum rhetsa",
+  "botanical_authority": "(ROXB.) DC.",
+  "family": "RUTACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (4): badrang, budrung, jaladhari, pepuli\nKannada (23): aramadala, aremaadalu, aremaapala, aremadalu, aremapala, arempala, jimmi, jimmi mara, jisumi-mara, juminam, jummana kaayi mara, jummi, jummi mara, jummina, jummina mara, kadumenasu, karvad, kavate, melsoro, mullumastige, sesele, seshele, sessal\nMalayalam (14): karimurikku, karimuriku, kattamurakku, kattumurikku, kothumurikku, kuyitti, mooleela, moult-tla, mulakila, mulilam, mulillam, mullila, mullilam, mullillam\nMarathi (15): chiphal, chirphala, kokli, sessal, tejabala, thaejabala, thirpani, thirphal, thisal, thisul, tirpani, tirphal, tisal, tisul, triphal\nSanskrit (17): Sanskrit CommentsX ashvaghra, atitejani, bidalaghni, laghuvalkala, mahanjasi, parijata, shita, sutejasi, suvarnanakuli, tejanya, tejasvini, tejavati, tejovati, tejovha, tikta, tinaburu, valkali\nTamil (8): iraccai, iraccaimaram, iratchai, karuncurai, karuppuk kaliyana murunkai, kattumurukku, mullilam, retsamaram\nTelugu (13): morapu, raccamanu, racha, rachamam, rachchamanu, rattsamanu, rhesta mansu, rhetsa, rhetsa-man, rhetsa-maram, rhetsaman, rhetsamaum, rhetsamaun",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb7e054d1a2c7e1506b75ef28d3a5c74/xclkon/5a8737f8d71f77fe33c5cd4f8c550611"
+  ],
+  "source_record_ids": [
+    "links-1938"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb7e054d1a2c7e1506b75ef28d3a5c74/xclkon/5a8737f8d71f77fe33c5cd4f8c550611"
+    ],
+    "source_record_ids": [
+      "links-1938"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb7e054d1a2c7e1506b75ef28d3a5c74/xclkon/5a8737f8d71f77fe33c5cd4f8c550611",
+          "Plant Name": "Zanthoxylum budrunga Wall.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Zanthoxylum budrunga Wall.",
+        "source_record_id": "links-1938",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb7e054d1a2c7e1506b75ef28d3a5c74/xclkon/5a8737f8d71f77fe33c5cd4f8c550611"
+      }
+    ],
+    "source_xplant_id": "fb7e054d1a2c7e1506b75ef28d3a5c74",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

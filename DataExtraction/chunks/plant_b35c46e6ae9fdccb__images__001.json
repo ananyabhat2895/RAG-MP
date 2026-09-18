@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b35c46e6ae9fdccb__images__001",
+  "plant_id": "plant_b35c46e6ae9fdccb",
+  "plant_name": "Carica papaya Linn.",
+  "botanical_name": "Carica papaya",
+  "botanical_authority": "L.",
+  "family": "PASSIFLORACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff77f8fbcaf19f4a3e2298cdd823512a"
+  ],
+  "source_record_ids": [
+    "links-0566"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff77f8fbcaf19f4a3e2298cdd823512a"
+    ],
+    "source_record_ids": [
+      "links-0566"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff77f8fbcaf19f4a3e2298cdd823512a",
+          "Plant Name": "Carica papaya Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Carica papaya Linn.",
+        "source_record_id": "links-0566",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff77f8fbcaf19f4a3e2298cdd823512a"
+      }
+    ],
+    "source_xplant_id": "ff77f8fbcaf19f4a3e2298cdd823512a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_43edf625a4c9c5bc__vernacular_names__001",
+  "plant_id": "plant_43edf625a4c9c5bc",
+  "plant_name": "Allium cepa Linn.",
+  "botanical_name": "Allium cepa",
+  "botanical_authority": "L.",
+  "family": "LILIACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): common onion, onion\nHindi (7): kanda, kando, piaz, piyaj, piyaz, pyaj, pyaz\nKannada (7): eerulli, irulli, kunbali, neerulli, nirulli, ullagaddi, vengayam\nMalayalam (5): bawang, ceriyaulli, cuvannulli, eerulli, ira-vengayam\nMarathi (4): kamdo, kanda, kandaa, piyav\nSanskrit (22): Sanskrit CommentsX dirghapatra, durgandha, latarka, madhujam, mahakanda, mukhadusaka, nripakanda, nripapriya, nripavhaya, nripeshtha, palandu, palanduh, palanduhu, rajapalandu, rajapriya, rajeshtha, raktakanda, rochaka, siktha, sukandaka, yavaneshtha, yavanesta\nTamil (102): acam2, aleriyam2, aritarapasakam, cukantam#, cukantam@, cukantanam, cukantaram, cukantarapputu, cukarantam, cukkirantam, cumirtam2, eeravengayam, eerulli, enkalapputu, enkanapputu, etcam, ira-vengayam, irakayam, irakkacciyam, irakucci, irakuccipputu, irakuccittam, irakucittam, irankayam, iratam2, iravengayam, iravenkayam, iravenkayam#, iravenkayam@, iravulli, irulli, kaccanakayam, kaccankayam, kantaculikam, kantam, kapalakini, kapalakinipputu, karam3, katikaropi, kayam, kayam3, kayatari, kayattiri, kecaram5, kuranacam, kutam2, kutamakayam, mannai 2, matukkamam, mesakaputpam, mukantakam, mukattusanam, mukatusikam, mullittalati, muttuppuvali, naimamicam, naimamicappuntu, nattirulli, niccayam, nicciyam1, nirulli, palan@, palankayam, palantu, palantu 1, palantukam, pantu, pantu@, perullattali, racakam, racakam#, recanam, tati, tirkkapattira2, tirkkapattirakam3, tirkkapattiram2, titcanakantakam, titcanakantakam@, titcanakantam, titcanakantam@, titcanakkantakayam, titcanakkantam, travenkayam, travulli, turturumam, ukkiranamam, ullegaddi, ulli, vallimatarai, vekuracakam, vekuracakappuntu, vella-vengayam, vellai venkayam, vellavengayam, vengayam, venggayum, venkaayam, venkan, venkayam, venkayam 1, venkayappuntu, yiravenkayam\nTelugu (10): erra ulligadda, erragaddalu, neermulli, neerulli, nirulli, ulli gaddalu, vuligaddalu, vulligaddalu, vullipayalu, yerragadda\nTibetan (3): ba la nda (p), pa la na da (d), pa la nda\nUrdu (6): piyaz, piyaz safaid, piyaz taza, pyaz, tukhm piyaz, tukhm-i-piyaz",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d328e032eb232543e49a5288d340e70b"
+  ],
+  "source_record_ids": [
+    "links-1417"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d328e032eb232543e49a5288d340e70b"
+    ],
+    "source_record_ids": [
+      "links-1417"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d328e032eb232543e49a5288d340e70b",
+          "Plant Name": "Allium cepa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Allium cepa Linn.",
+        "source_record_id": "links-1417",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d328e032eb232543e49a5288d340e70b"
+      }
+    ],
+    "source_xplant_id": "d328e032eb232543e49a5288d340e70b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

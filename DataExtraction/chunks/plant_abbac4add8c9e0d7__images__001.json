@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_abbac4add8c9e0d7__images__001",
+  "plant_id": "plant_abbac4add8c9e0d7",
+  "plant_name": "Vanda roxburghii R. Br.",
+  "botanical_name": "Vanda tessellata",
+  "botanical_authority": "(ROXB.) DON",
+  "family": "ORCHIDACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4a68ee7faf972769d84e5807bcc987a/xclkon/6580f6265ff0441d7228d3aca933d27f",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4a68ee7faf972769d84e5807bcc987a"
+  ],
+  "source_record_ids": [
+    "links-1616",
+    "links-1617"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4a68ee7faf972769d84e5807bcc987a/xclkon/6580f6265ff0441d7228d3aca933d27f",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4a68ee7faf972769d84e5807bcc987a"
+    ],
+    "source_record_ids": [
+      "links-1616",
+      "links-1617"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4a68ee7faf972769d84e5807bcc987a/xclkon/6580f6265ff0441d7228d3aca933d27f",
+          "Plant Name": "Vanda roxburghii R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vanda roxburghii R. Br.",
+        "source_record_id": "links-1616",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4a68ee7faf972769d84e5807bcc987a/xclkon/6580f6265ff0441d7228d3aca933d27f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4a68ee7faf972769d84e5807bcc987a",
+          "Plant Name": "Vanda tessellata Hook ex G.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vanda tessellata Hook ex G.",
+        "source_record_id": "links-1617",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4a68ee7faf972769d84e5807bcc987a"
+      }
+    ],
+    "source_xplant_id": "b4a68ee7faf972769d84e5807bcc987a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

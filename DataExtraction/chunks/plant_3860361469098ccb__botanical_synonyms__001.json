@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_3860361469098ccb__botanical_synonyms__001",
+  "plant_id": "plant_3860361469098ccb",
+  "plant_name": "Plumbago capensis",
+  "botanical_name": "Plumbago auriculata",
+  "botanical_authority": "LAM.",
+  "family": "PLUMBAGINACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Plumbago capensis THUNB. X Full Botanical citation - Plumbago capensis Thunb. Prodr. Fl. Cap. 33. 1794; N.P.Singh & al., Fl. Maharashtra State Dicotyledones, 2: Fl. India Ser 2: 282. 2001.\nSynonym: Plumbago capensis THUNB.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2170b3c5bc674471fe4d42f5b13f4855/xclkon/92eadf0b2b53171a8757322853dfbeb1",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2170b3c5bc674471fe4d42f5b13f4855"
+  ],
+  "source_record_ids": [
+    "links-0454",
+    "links-0455",
+    "links-0456"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2170b3c5bc674471fe4d42f5b13f4855/xclkon/92eadf0b2b53171a8757322853dfbeb1",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2170b3c5bc674471fe4d42f5b13f4855"
+    ],
+    "source_record_ids": [
+      "links-0454",
+      "links-0455",
+      "links-0456"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2170b3c5bc674471fe4d42f5b13f4855/xclkon/92eadf0b2b53171a8757322853dfbeb1",
+          "Plant Name": "Plumbago capensis",
+          "Status": "Found"
+        },
+        "source_plant_name": "Plumbago capensis",
+        "source_record_id": "links-0454",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2170b3c5bc674471fe4d42f5b13f4855/xclkon/92eadf0b2b53171a8757322853dfbeb1"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2170b3c5bc674471fe4d42f5b13f4855/xclkon/92eadf0b2b53171a8757322853dfbeb1",
+          "Plant Name": "Plumbago capensis Thunb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Plumbago capensis Thunb.",
+        "source_record_id": "links-0455",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2170b3c5bc674471fe4d42f5b13f4855/xclkon/92eadf0b2b53171a8757322853dfbeb1"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2170b3c5bc674471fe4d42f5b13f4855",
+          "Plant Name": "Plumbago auriculata Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Plumbago auriculata Lam.",
+        "source_record_id": "links-0456",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2170b3c5bc674471fe4d42f5b13f4855"
+      }
+    ],
+    "source_xplant_id": "2170b3c5bc674471fe4d42f5b13f4855",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

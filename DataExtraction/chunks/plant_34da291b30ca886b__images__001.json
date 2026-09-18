@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_34da291b30ca886b__images__001",
+  "plant_id": "plant_34da291b30ca886b",
+  "plant_name": "Eulophia herbacea Lindl.",
+  "botanical_name": "Eulophia herbacea",
+  "botanical_authority": "LINDL.",
+  "family": "ORCHIDACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2ae590bf349b449c4be0661dbeefb93"
+  ],
+  "source_record_ids": [
+    "links-1308"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2ae590bf349b449c4be0661dbeefb93"
+    ],
+    "source_record_ids": [
+      "links-1308"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2ae590bf349b449c4be0661dbeefb93",
+          "Plant Name": "Eulophia herbacea Lindl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Eulophia herbacea Lindl.",
+        "source_record_id": "links-1308",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2ae590bf349b449c4be0661dbeefb93"
+      }
+    ],
+    "source_xplant_id": "e2ae590bf349b449c4be0661dbeefb93",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

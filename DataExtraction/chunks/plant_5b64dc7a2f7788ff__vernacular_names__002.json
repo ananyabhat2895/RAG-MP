@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_5b64dc7a2f7788ff__vernacular_names__002",
+  "plant_id": "plant_5b64dc7a2f7788ff",
+  "plant_name": "Aristolochia indica",
+  "botanical_name": "Aristolochia indica",
+  "botanical_authority": "L.",
+  "family": "ARISTOLOCHIACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (138): aadutheendapalai, adagam, amutakkoti, arumaruntu, arumaruntukkoti, atakakkoti, atakam, cakati2, cakatikkoti, calamiyakkoti, calamiyam, cankaimuli, cantanakarani, cantanaparani, cantanaparanikkoti, caracurati, carakati, carankateci, carcukati, carcuvatikkoti, carucukati, cavakkilanku, cemparuntu, cemparuntukkoti, cilaimeluku, cilantikkoti, cinappa2, citanakakkoti, citanakam#, civamuli, corikanti, curuli4, cutuvalli, easwaramuli, ech-chura-muli, icatecatti, iccuramuli, iccuraver, ich-churamuli, ichchuramula, ichura, icuracuruli, icuracurulikkoti, icurakkovai, icuramaruntu, icuramuli, icuraver, icuvara muli, ikali, ikkuramulli, isadesatti, isura, isuramuli, isuraver, isvaramuli, itavam, itikam, iyavari, kakapati, kakapatikkoti, karrukitakkoti, karrukitam, karudakkodi, karuta-k-koti, karutacopitakkoti, karutakacopitam, karutakkoti, karutakkoticci, karutankilanku, kerutakkoti, kirttikkodi, kopakkari, koracanti, koticcinkeri, kovakkari, kunnam, kuppalai#, kuppalai@, kutanayakakkoti, kutanayakam, malaiccevikam, malaiccevitakkoti, mucurumuli, nakakeli, nakatamaniyam2, nakateni, nakkeni, nakkeni#, nalla yisvari, natanakkarumuli, navanitapani, neya, neya2, palvarrippaluttan, palvattippaluttan, paravaiventankoti, pasanameluku, pelivalamuli, periyanitam, periyatitakkoti, peru-kizhangu, peru-marindu, perumarindu, perumarundoo, perumarundu, perumaruntu, perumuli, perunkilanku, perunkotimuli, pokkalam, pokkalankoti, pokkanam, pokkinattuppi, tacimantapputu, talaccuruli, talai curuli-p-puntu, talai-c-curuli, talaiccurul2, talaiccuruli2, talaiccurulivalli, talaiccurulvalli#, talaiccuruni2, talaiccutuvalli, talaicutuvalli, talaicutuvallikkoti, taparavakoti, taparavam, taracikakkoti, taracikam, taracu-k-koti, taracukkoti, taratikkoti, tccuvaramuli, uruttirapuntu, utirakkutori, vallikkoti, vallimoti, yicuramulikkoti\nTelugu (17): doolaagovela, doolagovila, dula govela, dulagovela, eeswaramoolli, errakalabanda, eshwari, eswaramulli, ettakalabanda, govila, ishveraveru, isvara, isvara ven, isvaravaeru, isvaraveru, nalla eshwari, nella eeshvari\nTibetan (1): na ku li dri z im po",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a96b90285b25db221e6727e2fffd19a"
+  ],
+  "source_record_ids": [
+    "links-0581",
+    "links-0582"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a96b90285b25db221e6727e2fffd19a"
+    ],
+    "source_record_ids": [
+      "links-0581",
+      "links-0582"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a96b90285b25db221e6727e2fffd19a",
+          "Plant Name": "Aristolochia indica",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aristolochia indica",
+        "source_record_id": "links-0581",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a96b90285b25db221e6727e2fffd19a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a96b90285b25db221e6727e2fffd19a",
+          "Plant Name": "Aristolochia indica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aristolochia indica Linn.",
+        "source_record_id": "links-0582",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a96b90285b25db221e6727e2fffd19a"
+      }
+    ],
+    "source_xplant_id": "7a96b90285b25db221e6727e2fffd19a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

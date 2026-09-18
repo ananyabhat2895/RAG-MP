@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_63c5e1319b4cc39b__images__001",
+  "plant_id": "plant_63c5e1319b4cc39b",
+  "plant_name": "Euphorbia thomsoniana",
+  "botanical_name": "Euphorbia thomsoniana",
+  "botanical_authority": "BOISS.",
+  "family": "EUPHORBIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6247acf4b9c1a98718e17c0a49d09be"
+  ],
+  "source_record_ids": [
+    "links-0915",
+    "links-1882"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6247acf4b9c1a98718e17c0a49d09be"
+    ],
+    "source_record_ids": [
+      "links-0915",
+      "links-1882"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6247acf4b9c1a98718e17c0a49d09be",
+          "Plant Name": "Euphorbia thomsoniana",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia thomsoniana",
+        "source_record_id": "links-0915",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6247acf4b9c1a98718e17c0a49d09be"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6247acf4b9c1a98718e17c0a49d09be",
+          "Plant Name": "Euphorbia thomsoniana Boiss.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia thomsoniana Boiss.",
+        "source_record_id": "links-1882",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6247acf4b9c1a98718e17c0a49d09be"
+      }
+    ],
+    "source_xplant_id": "f6247acf4b9c1a98718e17c0a49d09be",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

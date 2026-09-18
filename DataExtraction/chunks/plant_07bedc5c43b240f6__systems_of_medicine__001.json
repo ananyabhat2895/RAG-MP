@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_07bedc5c43b240f6__systems_of_medicine__001",
+  "plant_id": "plant_07bedc5c43b240f6",
+  "plant_name": "Sida acuta Burm.",
+  "botanical_name": "Sida acuta",
+  "botanical_authority": "BURM. F.",
+  "family": "MALVACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk Botanical Synonyms (2) - Sida carpinifolia L. X Full Botanical citation - Sida carpinifolia sensu Mast. in Hook.f.\nSystem of medicine: Fl. Brit. India 1: 323. 1874\nSystem of medicine: non L.f. 1782; M.Mohanan & A.V.N. Rao in in P. Daniel\nSystem of medicine: Fl. Kerala 1: 387. 2005. Sida lanceolata ROXB. X Full Botanical citation - Sida lanceolata Retz.\nSystem of medicine: Obs. Bot. 4: 119. 1786; T.K.Paul in B.D.Sharma & Sanjappa\nSystem of medicine: Fl. India 3: 281. 1993.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4af721d8784614f3c53d06bd68f96fbb"
+  ],
+  "source_record_ids": [
+    "links-0267",
+    "links-0271"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4af721d8784614f3c53d06bd68f96fbb"
+    ],
+    "source_record_ids": [
+      "links-0267",
+      "links-0271"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4af721d8784614f3c53d06bd68f96fbb",
+          "Plant Name": "Sida acuta Burm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida acuta Burm.",
+        "source_record_id": "links-0267",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4af721d8784614f3c53d06bd68f96fbb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4af721d8784614f3c53d06bd68f96fbb",
+          "Plant Name": "Sida acuta Burm. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida acuta Burm. f.",
+        "source_record_id": "links-0271",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4af721d8784614f3c53d06bd68f96fbb"
+      }
+    ],
+    "source_xplant_id": "4af721d8784614f3c53d06bd68f96fbb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

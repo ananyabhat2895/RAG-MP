@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_069f5de44e40324a__distribution__001",
+  "plant_id": "plant_069f5de44e40324a",
+  "plant_name": "Hygrophila salicifolia Nees.",
+  "botanical_name": "Hygrophila ringens",
+  "botanical_authority": "(L.) R.BR. EX STEUDEL",
+  "family": "ACANTHACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - A S Chauhan, K P Singh, D K Singh; distribution: Distribution; title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7ef210270ba2b0f343db6b76da14da1/xclkon/24d4507be20e1c8e15c19289287ce619"
+  ],
+  "source_record_ids": [
+    "links-0750"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7ef210270ba2b0f343db6b76da14da1/xclkon/24d4507be20e1c8e15c19289287ce619"
+    ],
+    "source_record_ids": [
+      "links-0750"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7ef210270ba2b0f343db6b76da14da1/xclkon/24d4507be20e1c8e15c19289287ce619",
+          "Plant Name": "Hygrophila salicifolia Nees.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hygrophila salicifolia Nees.",
+        "source_record_id": "links-0750",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7ef210270ba2b0f343db6b76da14da1/xclkon/24d4507be20e1c8e15c19289287ce619"
+      }
+    ],
+    "source_xplant_id": "f7ef210270ba2b0f343db6b76da14da1",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

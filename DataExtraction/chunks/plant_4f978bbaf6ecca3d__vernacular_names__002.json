@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4f978bbaf6ecca3d__vernacular_names__002",
+  "plant_id": "plant_4f978bbaf6ecca3d",
+  "plant_name": "Abrus precatorius Linn.",
+  "botanical_name": "Abrus precatorius",
+  "botanical_authority": "L.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (122): adimaduram, adingam, adisamiyai, ali, aru, atimaturam, atinkam 2, atti, avu 2, cinkili 2, cinni 2, cinnicanni, ciritakam, ciritam, ciritam#, ciritam@, cirrilaimanikkoti, citakkanni, citikam, citikamanikkoti, cittilaicceti, civappakatitakkoti, civappakatitam, coondumunnie vayr, cutamanikkoti, edalagam, egunru, ekunru, etalakam 2, gundu-mani, gundumani, kakacincai, kakacinci, kakananti, kakanantirai, kakatiktam, kakavallari, kalluraynci, kalmuraki, kalmurakikkoti, kamapoki, kamperu, kampocam 4, kampoki, kampokikam, kandam, karunkunri, karuttaniramalacci, katukali, katukalikkoti, katuku 2, kindumuthan, koccimancati, koccimancatimani, kollikam, koticci 3, kotipenam, kotiyenacceti, kuccam, kunacam, kunakkari, kunapacakkoti, kunca, kuncakam, kuncalakkoti, kuncalam, kuncaram 3, kunci, kuncikam, kuncuram, kundrimani, kundumani, kundumuthan, kuni, kunjam, kunjuram, kunni, kunni#, kunni@, kunri, kunri-mani, kunricceti, kunrimani, kunrivittu, kunthamani, kuntri, kuntumani, kuruvi, kuruvikakkoti, kuruvikam, kuruvintakkoti, malaikkuruvi, maniccikai, maturakam 5, mukkirakariyar, mukkirkariyar, nakaciritam#, nakaciritam@, nancaruttanputu 2, nanci, nancicci, naykattankoti, naykkarantai, naykkattan, nilakkunti, nilakkuntikkoti, nirattakankari, pacalai, palaccaki, palaccakikkoti, palaccaritam, tamirakam, tamirikai, tittaparuvan, uccatam, uma, umatakiyakkoti, umatakiyam, uyar, uyarvukkoti, venkunri, venkunrivittu\nTelugu (16): atimadhuramu, guri-ginja, guriginja, gurija, gurivenda, gurivinda, guru-venda, guruginia, guruginja, gurugonji, gurunenda, kukkutam, kukkutamu, mukkutamu, raktika, sinnaguruginja\nTibetan (4): ma ru rtse, o la mase dmarpo, ol ma se dkar po, ol ma sedmar po(d)\nUrdu (5): ghunchchi surkh, ghunchi, ghungchi safaid, maghz tukhm kunch, tukhm kunch",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a92edd6d0b42cdb2a91f3b6cd4b0624"
+  ],
+  "source_record_ids": [
+    "links-0669"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a92edd6d0b42cdb2a91f3b6cd4b0624"
+    ],
+    "source_record_ids": [
+      "links-0669"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a92edd6d0b42cdb2a91f3b6cd4b0624",
+          "Plant Name": "Abrus precatorius Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Abrus precatorius Linn.",
+        "source_record_id": "links-0669",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a92edd6d0b42cdb2a91f3b6cd4b0624"
+      }
+    ],
+    "source_xplant_id": "3a92edd6d0b42cdb2a91f3b6cd4b0624",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

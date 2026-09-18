@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_4f5b20d1a56051e6__botanical_synonyms__001",
+  "plant_id": "plant_4f5b20d1a56051e6",
+  "plant_name": "Sarcostemma acidum Voigt.",
+  "botanical_name": "Sarcostemma acidum",
+  "botanical_authority": "VOIGT",
+  "family": "ASCLEPIADACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Sarcostemma acidium (ROXB.) VOIGT X Full Botanical citation - Sarcostemma acidum (Roxb.) Voigt, Hort. suburb. Calcutt. (Ed. Griff.) 542. 1845; S. Karthikeyan & al., Flowering Plants of India - Dicots. 1: 179. 2009. Sarcostemma brevistigma WIGHT X Full Botanical citation - Sarcostemma brevistigma Wight & Arn. in Wight, Contr. bot. India 59. 1834; S. Karthikeyan & al., Flowering Plants of India - Dicots. 1: 179. 2009.\nSynonym: Sarcostemma acidium (ROXB.) VOIGT\nSynonym: Sarcostemma brevistigma WIGHT",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855/xclkon/b401eba3bb6e9d125adf1db079e27366"
+  ],
+  "source_record_ids": [
+    "links-1836",
+    "links-1838"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855/xclkon/b401eba3bb6e9d125adf1db079e27366"
+    ],
+    "source_record_ids": [
+      "links-1836",
+      "links-1838"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855",
+          "Plant Name": "Sarcostemma acidum Voigt.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sarcostemma acidum Voigt.",
+        "source_record_id": "links-1836",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855/xclkon/b401eba3bb6e9d125adf1db079e27366",
+          "Plant Name": "Sarcostemma Brevistigma W. & A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sarcostemma Brevistigma W. & A.",
+        "source_record_id": "links-1838",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855/xclkon/b401eba3bb6e9d125adf1db079e27366"
+      }
+    ],
+    "source_xplant_id": "d9f128d8706fee68abedcdb44f709855",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_fcb738a3ea9d7436__vernacular_names__001",
+  "plant_id": "plant_fcb738a3ea9d7436",
+  "plant_name": "Plantago arenaria",
+  "botanical_name": "Plantago arenaria",
+  "botanical_authority": "DECNE.",
+  "family": "PLANTAGINACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): fleaseed, fleawort, plantain, psyllium\nHindi (1): kala isabgol\nSanskrit (1): Sanskrit CommentsX asvagola",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6bb2a156595d4fbe4fb28e9598c13c8"
+  ],
+  "source_record_ids": [
+    "links-0217"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6bb2a156595d4fbe4fb28e9598c13c8"
+    ],
+    "source_record_ids": [
+      "links-0217"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6bb2a156595d4fbe4fb28e9598c13c8",
+          "Plant Name": "Plantago arenaria",
+          "Status": "Found"
+        },
+        "source_plant_name": "Plantago arenaria",
+        "source_record_id": "links-0217",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6bb2a156595d4fbe4fb28e9598c13c8"
+      }
+    ],
+    "source_xplant_id": "d6bb2a156595d4fbe4fb28e9598c13c8",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

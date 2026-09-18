@@ -1,0 +1,93 @@
+{
+  "chunk_id": "plant_1cc502dd86a44696__botanical_synonyms__001",
+  "plant_id": "plant_1cc502dd86a44696",
+  "plant_name": "Sesbania sesban (Linn.) Merr.",
+  "botanical_name": "Sesbania sesban",
+  "botanical_authority": "(L.) MERR.",
+  "family": "FABACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Sesbania aegyptiaca POIR. X Full Botanical citation - Sesbania aegyptiacus Poir. in Lam., Encycl. 7: 128. 1806; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 292. 1999. Sesbania sesban (L.) MERR. subsp. sesban var. sesban\nSynonym: Sesbania aegyptiaca POIR.\nSynonym: Sesbania sesban (L.) MERR. subsp. sesban var. sesban",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16"
+  ],
+  "source_record_ids": [
+    "links-0783",
+    "links-0784",
+    "links-0785",
+    "links-0786",
+    "links-0787"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16"
+    ],
+    "source_record_ids": [
+      "links-0783",
+      "links-0784",
+      "links-0785",
+      "links-0786",
+      "links-0787"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16",
+          "Plant Name": "Sesbania sesban (Linn.) Merr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesbania sesban (Linn.) Merr.",
+        "source_record_id": "links-0783",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16",
+          "Plant Name": "Sesbania sesban Merrill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesbania sesban Merrill.",
+        "source_record_id": "links-0784",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16",
+          "Plant Name": "Sesbania sesban Merrill. Var. Bicolor W. & A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesbania sesban Merrill. Var. Bicolor W. & A.",
+        "source_record_id": "links-0785",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16",
+          "Plant Name": "Sesbania sesban Merrill. Var. Picta Prain",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesbania sesban Merrill. Var. Picta Prain",
+        "source_record_id": "links-0786",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16",
+          "Plant Name": "Sesbania sesban Merrill. Var. Typica Prain",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesbania sesban Merrill. Var. Typica Prain",
+        "source_record_id": "links-0787",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16"
+      }
+    ],
+    "source_xplant_id": "84f35349cc3375441fa3f0ee125fee16",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

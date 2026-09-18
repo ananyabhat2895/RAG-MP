@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ebdc477c7e392d84__bibliography__001",
+  "plant_id": "plant_ebdc477c7e392d84",
+  "plant_name": "Piper guineense DC.",
+  "botanical_name": "Piper guineense",
+  "botanical_authority": "SCHUM & THONN.",
+  "family": "PIPERACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d1cc8f0d692548b872770222ea9fca6"
+  ],
+  "source_record_ids": [
+    "links-0910"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d1cc8f0d692548b872770222ea9fca6"
+    ],
+    "source_record_ids": [
+      "links-0910"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d1cc8f0d692548b872770222ea9fca6",
+          "Plant Name": "Piper guineense DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper guineense DC.",
+        "source_record_id": "links-0910",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d1cc8f0d692548b872770222ea9fca6"
+      }
+    ],
+    "source_xplant_id": "9d1cc8f0d692548b872770222ea9fca6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

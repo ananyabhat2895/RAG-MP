@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e3b97cab14ba3991__vernacular_names__001",
+  "plant_id": "plant_e3b97cab14ba3991",
+  "plant_name": "Anacyclus pyrethrum DC.",
+  "botanical_name": "Anacyclus pyrethrum",
+  "botanical_authority": "DC.",
+  "family": "ASTERACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (2): akarkara, akorkaro\nKannada (5): aakala kaare, aakala kari, akkala kara, akkalkara, akrakara\nMalayalam (2): akkikkaruka, akkravu\nMarathi (2): akkalkaaraa, akkirakaram\nSanskrit (6): Sanskrit CommentsX agragrahi, akallaka, akarakalabha, akarakarabha, akarakarabhah, akarakarava\nTamil (19): akirakaram, akkalkara, akkara karam, akkara#, akkara@, akkarakaram, akkarakaram#, akkarakaram@, akkarakarum, akkaram, akkimakaram, akkirakaaram, akkirakaram, akkirakkaram, akra, akrakaram, tosattiraviyam, vannikaram, vannikkaracceti\nTelugu (3): akarakaram, akkalakara, akkarakaram\nUrdu (6): aaqarqarha, agarq arha, aqar karha, aqar qarha, aqarqara, aqarqarha",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29bd74b20f0de681f842ae11ae181b2f"
+  ],
+  "source_record_ids": [
+    "links-0055"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29bd74b20f0de681f842ae11ae181b2f"
+    ],
+    "source_record_ids": [
+      "links-0055"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29bd74b20f0de681f842ae11ae181b2f",
+          "Plant Name": "Anacyclus pyrethrum DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Anacyclus pyrethrum DC.",
+        "source_record_id": "links-0055",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29bd74b20f0de681f842ae11ae181b2f"
+      }
+    ],
+    "source_xplant_id": "29bd74b20f0de681f842ae11ae181b2f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

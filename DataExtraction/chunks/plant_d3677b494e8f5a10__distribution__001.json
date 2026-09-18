@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d3677b494e8f5a10__distribution__001",
+  "plant_id": "plant_d3677b494e8f5a10",
+  "plant_name": "Eleusine aegyptiaca Desf.",
+  "botanical_name": "Dactyloctenium aegyptium",
+  "botanical_authority": "BEAUV.",
+  "family": "POACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - KANJILAL & BOR; distribution: Distribution; title: Title - FLORA OF ASSAM\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol III\nDistribution entry: author: Author - Ed B D Sharma, S Karthikeyan, N P Singh; distribution: Distribution; title: Title - Flora of Maharashrta State (Monocotyledons)\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - K.M. Matthew; distribution: Distribution; title: Title - The Flora of the Palni Hills Vol-3\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol IV\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 2\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d561019cdc3054d595e12e34b7a47d3/xclkon/b7bad29b0bc55298b8138ceddd23b8ef"
+  ],
+  "source_record_ids": [
+    "links-1405"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d561019cdc3054d595e12e34b7a47d3/xclkon/b7bad29b0bc55298b8138ceddd23b8ef"
+    ],
+    "source_record_ids": [
+      "links-1405"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d561019cdc3054d595e12e34b7a47d3/xclkon/b7bad29b0bc55298b8138ceddd23b8ef",
+          "Plant Name": "Eleusine aegyptiaca Desf.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Eleusine aegyptiaca Desf.",
+        "source_record_id": "links-1405",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d561019cdc3054d595e12e34b7a47d3/xclkon/b7bad29b0bc55298b8138ceddd23b8ef"
+      }
+    ],
+    "source_xplant_id": "2d561019cdc3054d595e12e34b7a47d3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

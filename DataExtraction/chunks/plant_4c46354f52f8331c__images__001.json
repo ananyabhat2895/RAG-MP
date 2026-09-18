@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4c46354f52f8331c__images__001",
+  "plant_id": "plant_4c46354f52f8331c",
+  "plant_name": "Carissa carandas Linn.",
+  "botanical_name": "Carissa carandas",
+  "botanical_authority": "L.",
+  "family": "APOCYNACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d7a36f5544883df67f5288d43948d0b"
+  ],
+  "source_record_ids": [
+    "links-0937"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d7a36f5544883df67f5288d43948d0b"
+    ],
+    "source_record_ids": [
+      "links-0937"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d7a36f5544883df67f5288d43948d0b",
+          "Plant Name": "Carissa carandas Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Carissa carandas Linn.",
+        "source_record_id": "links-0937",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d7a36f5544883df67f5288d43948d0b"
+      }
+    ],
+    "source_xplant_id": "6d7a36f5544883df67f5288d43948d0b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

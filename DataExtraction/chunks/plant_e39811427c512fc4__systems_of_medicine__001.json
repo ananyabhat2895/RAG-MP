@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_e39811427c512fc4__systems_of_medicine__001",
+  "plant_id": "plant_e39811427c512fc4",
+  "plant_name": "Tribulus terrestris",
+  "botanical_name": "Tribulus terrestris",
+  "botanical_authority": "L.",
+  "family": "ZYGOPHYLLACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Homeopathy\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c36ef2db0f80f2189c83977da274cbc"
+  ],
+  "source_record_ids": [
+    "links-0629",
+    "links-0630"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c36ef2db0f80f2189c83977da274cbc"
+    ],
+    "source_record_ids": [
+      "links-0629",
+      "links-0630"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c36ef2db0f80f2189c83977da274cbc",
+          "Plant Name": "Tribulus terrestris",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tribulus terrestris",
+        "source_record_id": "links-0629",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c36ef2db0f80f2189c83977da274cbc"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c36ef2db0f80f2189c83977da274cbc",
+          "Plant Name": "Tribulus terrestris Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tribulus terrestris Linn.",
+        "source_record_id": "links-0630",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c36ef2db0f80f2189c83977da274cbc"
+      }
+    ],
+    "source_xplant_id": "2c36ef2db0f80f2189c83977da274cbc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

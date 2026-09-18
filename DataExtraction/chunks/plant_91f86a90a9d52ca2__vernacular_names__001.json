@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_91f86a90a9d52ca2__vernacular_names__001",
+  "plant_id": "plant_91f86a90a9d52ca2",
+  "plant_name": "Wrightia tinctoria R. Br.",
+  "botanical_name": "Wrightia tinctoria",
+  "botanical_authority": "R.BR.",
+  "family": "APOCYNACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (18): bhakar aak, dudhi, gode indrajava, indarjou, kalainderjau, karu, keerni, khanni, kheer, kherni, khirni, kod, kor, mitaindrajau, mitha indarjou, mitha indrajava, mithaindarjou, summa\nKannada (38): alamara, aligili, bepalli, beppaale, beppala mara, beppalam, beppale, dudiro, haale, halagali, hale, hallu novu maddu, hallunove mara, hallunoveu, hallunovu, halugale, halugali, kaadu neeli, kadnili, kaduneeli, kadunili, kaykoli beppaale, kirekodsa, kiri kodasige, kirikodasige, kirrikodasige, kodamurki, kodasige, kodmurki, kodsige, kodumurka, koduraka, kuda, naikuli, paale mara, vepala, vepale, veppale\nMalayalam (22): ayyapala, ayyappala, dantappala, dhantappala, eeccha, eecha, icca, ichchha, irampala, irumbalai, irumpala, kambippala, kotakappala, kotakappala-vitta, kutakappala, nilapala, pala, thondapala, thondapalai, tinnampala, tondapale, tontapala\nMarathi (14): godaindrajav, gode indrajava, godeindrojav, indrajou, kaalakuda, kaalakura, kaalikudayi, kala-kuda, kala-kura, kalakuda, kalakudi, kalakura, kalo-kudo, mitha indrajava\nSanskrit (10): Sanskrit CommentsX asita-kutanja, hayamaraka, hyamaraka, kutaja, kutajah, madhuindrayava, shweta kutaja, strikutaja, svetakutaja, svetakutajah\nTamil (24): erukkalam ver, irum palai, irumbalai, irumpaalai, kumbambalai, nila palai, nilambalai, nilapalai, palai, palainilam, thantha-palai, thanthapalai, tondambalai, tontampalai, vapaalai, veppalai, vet palai, vetpa-larishi, vetpaalai, vetpala-verai, vetpala-virai, vetpalai, vetpalarisi, vilavarici\nTelugu (51): aku pala, akupala, amkudu, ankid-kodisha, ankudu, arkudu, chitaamulu, chitankudu, chiteancaloo, chiti-anikudu, chittankudu, chitteancaloo, chittiankudu, chittiyankudu, cittankudu, cittiyankudu, dodda paala chettu, doddi pala, jeddapaala, jeddapala, jeddepaala, kalinga-vittulu, kodisha-vittulu, kolamukhi, paala baranki, paalavareni, paalaveri, paalumili, pala, pala-kordsha, palabaranki, palabarunki, palamuki, palaparki, palavareni, palavari, palavereni, palaveri, palumili, palunili, pullavari, repala, reppala, reppala chettu, tedlapal, tedlapala, tedlopal, tella, tellapala, teppala, thedlapaala\nUrdu (7): indarjao shirin, inder jao shirin, inderajao shirin, inderjao sheerin, inderjao shireen, inderjao shirin, inderjawshireen",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d438c664779b95c696936e5d6d52365"
+  ],
+  "source_record_ids": [
+    "links-1148"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d438c664779b95c696936e5d6d52365"
+    ],
+    "source_record_ids": [
+      "links-1148"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d438c664779b95c696936e5d6d52365",
+          "Plant Name": "Wrightia tinctoria R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Wrightia tinctoria R. Br.",
+        "source_record_id": "links-1148",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d438c664779b95c696936e5d6d52365"
+      }
+    ],
+    "source_xplant_id": "8d438c664779b95c696936e5d6d52365",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d28dad5cf9788162__systems_of_medicine__001",
+  "plant_id": "plant_d28dad5cf9788162",
+  "plant_name": "Dillenia indica Linn.",
+  "botanical_name": "Dillenia indica",
+  "botanical_authority": "L.",
+  "family": "DILLENIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/92478f184b06729a77ad133894a6ebb9"
+  ],
+  "source_record_ids": [
+    "links-0321"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/92478f184b06729a77ad133894a6ebb9"
+    ],
+    "source_record_ids": [
+      "links-0321"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/92478f184b06729a77ad133894a6ebb9",
+          "Plant Name": "Dillenia indica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dillenia indica Linn.",
+        "source_record_id": "links-0321",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/92478f184b06729a77ad133894a6ebb9"
+      }
+    ],
+    "source_xplant_id": "92478f184b06729a77ad133894a6ebb9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

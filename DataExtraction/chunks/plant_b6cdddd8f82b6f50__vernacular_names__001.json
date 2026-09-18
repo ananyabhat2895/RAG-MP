@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_b6cdddd8f82b6f50__vernacular_names__001",
+  "plant_id": "plant_b6cdddd8f82b6f50",
+  "plant_name": "Picrorhiza kurroa",
+  "botanical_name": "Picrorhiza kurroa",
+  "botanical_authority": "ROYLE EX BENTH.",
+  "family": "SCROPHULARIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): kutki\nHindi (9): kardi, karoi, karu, karwi, katki, kaur, kuru, kutaki, kutki\nMalayalam (1): katukhurohani\nSanskrit (42): Sanskrit CommentsX a, anjani, arishta, ashoka, ashokarohini, asokarahini, asokarohini, cakrangi, chakrangi, chitrangi, dhanvantarigrantha, dvijangi, janani, kandaruhkulasadani, kanderuha, katamvara, katavi, katuka, katukarohini, katuki, katumbhara, katurohani, katurohini, katvi, kedarakatuka, krishna, krishnabheda, kutaki, mahaushadhi, malabhedini, matsyapitta, matsyasakala, matsyashakala, rohini, sataparva, shakuladani, shataparva, tikta, tiktakarohini, tiktarohanika, vamaghni, vantida\nTamil (122): acokarokini, akutam, akutarokini, amakkini, amalai, amalaippuntu, ankutakini, arippiriyam 2, arippuntu, aritam, aritam 2, aritarokani, arittai, arittam, arittam 1, aruttakam, aruttam, atankam, atankarokini, cakkaravankam, cakkiranki#, cakkirankirokani, cakulati, cakulatini, cakulatirokani, cankapunki, cankarokani, cankiparuti, canku 1, cankupacam, cirakarokani, cokarokani, iccirokini, iccirokinicceti, icciyal, icciyam, inturokani, intuvekani, kaccam, kaccamaram, kadugu rogini, kadugu-rohini, kadugurogini, kanaruttam, kankayam, karunkatukurokani, karuppotam, karuppukkatukurokani, karuppukkatukurokini, kata ka rokini, katakarokini, katu 3, katucaram, katukai, katukam 2, katukaram, katukarogani, katuku rokini, katuku-rogani, katukurogani, katukurohani, katukurokani, katukurokini, katumparai 2, katurokani, katurokini, katuroni, katuvili, katuvilirokini, katuvitittam, kavittam, kirusnapetam, kirusnapeti, kiruttinapenam, kiruttinapetam, kiruttinapeti, kiruttinapuvikam, kisnapetam, kisnapetarokini, kittinapetam, kittipetam, kukala, kukalarokini, kukkula, kukkularokani, kukula, kulatani, kulatanikam, kulatini, kumakki, kumakkirokani, kuttala, kuttalakam 1, kuttalam 1, kuttalarokini, kuvatirai, maccipam, macciyarokani, narannati, nattukkatukurokani, patumatam, pittakkini, pittaracarokani, pittarokani, pocarokani, rokani#, rokani@, roni, rotani, teni 1, tenika, tenikarokani, ulama, urokani, urokini 2, uroni, uvakali, vinna#, vinna@, vinnakam, vinnakarokani, vinnarokani\nTelugu (5): katuka-rogani, katukarogani, katukkurohini, katuku-roni, katukuroni\nTibetan (3): hon len, hon-len, pu tse sel\nUrdu (2): katki, kutki",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ddfaf61bf4ae28a0eae6a0c86c12fca"
+  ],
+  "source_record_ids": [
+    "links-0575",
+    "links-1018",
+    "links-1019",
+    "links-1020"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ddfaf61bf4ae28a0eae6a0c86c12fca"
+    ],
+    "source_record_ids": [
+      "links-0575",
+      "links-1018",
+      "links-1019",
+      "links-1020"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ddfaf61bf4ae28a0eae6a0c86c12fca",
+          "Plant Name": "Picrorhiza kurroa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Picrorhiza kurroa",
+        "source_record_id": "links-0575",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ddfaf61bf4ae28a0eae6a0c86c12fca"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ddfaf61bf4ae28a0eae6a0c86c12fca",
+          "Plant Name": "Picrorhiza kurroa Royle ex Benth",
+          "Status": "Found"
+        },
+        "source_plant_name": "Picrorhiza kurroa Royle ex Benth",
+        "source_record_id": "links-1018",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ddfaf61bf4ae28a0eae6a0c86c12fca"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ddfaf61bf4ae28a0eae6a0c86c12fca",
+          "Plant Name": "Picrorhiza kurroa Royle ex Benth.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Picrorhiza kurroa Royle ex Benth.",
+        "source_record_id": "links-1019",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ddfaf61bf4ae28a0eae6a0c86c12fca"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ddfaf61bf4ae28a0eae6a0c86c12fca",
+          "Plant Name": "Picrorhiza kurroa Ryole ex Benth.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Picrorhiza kurroa Ryole ex Benth.",
+        "source_record_id": "links-1020",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ddfaf61bf4ae28a0eae6a0c86c12fca"
+      }
+    ],
+    "source_xplant_id": "3ddfaf61bf4ae28a0eae6a0c86c12fca",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

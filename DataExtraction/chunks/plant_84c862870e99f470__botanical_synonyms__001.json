@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_84c862870e99f470__botanical_synonyms__001",
+  "plant_id": "plant_84c862870e99f470",
+  "plant_name": "Barringtonia racemosa Roxb.",
+  "botanical_name": "Barringtonia racemosa",
+  "botanical_authority": "(L.) K.SPRENG.",
+  "family": "BARINGTONIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Eugenia racemosa L. X Full Botanical citation - Eugenia racemosa L. Sp. Pl. 471. 1753; N.P.Singh & al., Fl. Maharashtra State Dicotyledones, 2: Fl. India Ser 2: 24. 2001.\nSynonym: Eugenia racemosa L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b14490a3c7c4c893d2ba90b25a5c499e"
+  ],
+  "source_record_ids": [
+    "links-1390"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b14490a3c7c4c893d2ba90b25a5c499e"
+    ],
+    "source_record_ids": [
+      "links-1390"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b14490a3c7c4c893d2ba90b25a5c499e",
+          "Plant Name": "Barringtonia racemosa Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Barringtonia racemosa Roxb.",
+        "source_record_id": "links-1390",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b14490a3c7c4c893d2ba90b25a5c499e"
+      }
+    ],
+    "source_xplant_id": "b14490a3c7c4c893d2ba90b25a5c499e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

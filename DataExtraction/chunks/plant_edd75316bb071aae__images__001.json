@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_edd75316bb071aae__images__001",
+  "plant_id": "plant_edd75316bb071aae",
+  "plant_name": "Tamarix ericoides Rottl.",
+  "botanical_name": "Tamarix ericoides",
+  "botanical_authority": "ROTTL.",
+  "family": "TAMARICACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9e22ae8840541dd323dddc2366b7c51"
+  ],
+  "source_record_ids": [
+    "links-0793"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9e22ae8840541dd323dddc2366b7c51"
+    ],
+    "source_record_ids": [
+      "links-0793"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9e22ae8840541dd323dddc2366b7c51",
+          "Plant Name": "Tamarix ericoides Rottl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tamarix ericoides Rottl.",
+        "source_record_id": "links-0793",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9e22ae8840541dd323dddc2366b7c51"
+      }
+    ],
+    "source_xplant_id": "c9e22ae8840541dd323dddc2366b7c51",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

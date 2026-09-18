@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_1690d741b860c5a1__distribution__001",
+  "plant_id": "plant_1690d741b860c5a1",
+  "plant_name": "Capparis mooni",
+  "botanical_name": "Capparis moonii",
+  "botanical_authority": "WIGHT",
+  "family": "CAPPARACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Ed. P. Daniel; distribution: Distribution; title: Title - The Flora of Kerala Vol I\nDistribution entry: author: Author - Botanicaly Survey of India; distribution: Distribution; title: Title - FLORA OF INDIA VOL 2\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e6d4df9c68f58a339901846ff2ed17f"
+  ],
+  "source_record_ids": [
+    "links-1666",
+    "links-1667"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e6d4df9c68f58a339901846ff2ed17f"
+    ],
+    "source_record_ids": [
+      "links-1666",
+      "links-1667"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e6d4df9c68f58a339901846ff2ed17f",
+          "Plant Name": "Capparis mooni",
+          "Status": "Found"
+        },
+        "source_plant_name": "Capparis mooni",
+        "source_record_id": "links-1666",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e6d4df9c68f58a339901846ff2ed17f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e6d4df9c68f58a339901846ff2ed17f",
+          "Plant Name": "Capparis moonii Wight.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Capparis moonii Wight.",
+        "source_record_id": "links-1667",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e6d4df9c68f58a339901846ff2ed17f"
+      }
+    ],
+    "source_xplant_id": "8e6d4df9c68f58a339901846ff2ed17f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

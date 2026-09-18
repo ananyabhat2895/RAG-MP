@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_13e58f4c5feea270__vernacular_names__002",
+  "plant_id": "plant_13e58f4c5feea270",
+  "plant_name": "Tamarindus indica Linn.",
+  "botanical_name": "Tamarindus indica",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (120): alaiyaticcan, alikaraittan, amalakam2, amalapalam, amalavirutcam, ambilam, ambiram, amilam, amiligai, amilikai, amiram1, amiratam1, ammalikai, ammilam, ammilam1, ammilavirutcam, ammmilavirukkam, ampalam, ampili, ampiram1, anippu, anucutaimaram, attivancam, cacukkilam, cancivakarani, cancivaki, cancivakimaram, cancivi2, cantan, carittirai, carittiri, cincakam, cincam1, cincari, cincarikam#, cincarikam@, cincati, cinciram, cincuram, cinnilucati, cintam, cintikam, cintu2, cinturam, cinturamaram, ciri2, ciri@, cirivirukkam, cirivirutcam, ciriyam#, cirukam2, cukkarikai, cukkilai, cukkilaimaram, cukkilam1, cukkirai, cukkiraimaram, egin, eginam, ekin, etala#, etala@, etalari, etalarimaram, etilai, ilatakam, ilatakamaram, ilatam#, ilatam@, indam, intam, intu, ittam, iyacaviyam, iyacaviyamaram, iyavacam, kincam1, kinjam, kunkumavarni, kunkumavarnimaram, kurupattiram, kutarati, malai @, mayamam, mugini, mukini, nattuppuli, odimam, otimam, pacavviyam2, poollie, poollium verei, puli, puli amailam, pulia maram, pulimaram#, puliyam-pazham, puliyamaram, putavirutcam 2, sanjivagarani, tintilikam, tintiri, tintitam2, tintiti, tintitikai, tintitikam@, tintitikamaram, tinturuni, tinturunimaram, tintutikam, ukilati, uranki, urankimaram, vacunarai, vaicani, valanti, vatamatu, virutcamalam, yukini, yukinimaram\nTelugu (22): aamlika, amlaki, amlika, chewka, chincha, chinta, chinta-pandu, chintha, chintha chettu, chintha pendu, cinca, cinta, cintacettu, cintapandu, shenta, sinja, sinta, sintha, thintrini, thintrinikamu, tintrini, tintrinikamu\nTibetan (2): bse yab, bse-yab\nUrdu (5): imli, imli muqqashar, maghz tukhm imli, maghz tukhm tamar hindi, tamar hindi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01649c8cebf19249351228352a1554c0"
+  ],
+  "source_record_ids": [
+    "links-0116"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01649c8cebf19249351228352a1554c0"
+    ],
+    "source_record_ids": [
+      "links-0116"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01649c8cebf19249351228352a1554c0",
+          "Plant Name": "Tamarindus indica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tamarindus indica Linn.",
+        "source_record_id": "links-0116",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01649c8cebf19249351228352a1554c0"
+      }
+    ],
+    "source_xplant_id": "01649c8cebf19249351228352a1554c0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

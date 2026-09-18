@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_17c50a22cd755dd6__distribution__001",
+  "plant_id": "plant_17c50a22cd755dd6",
+  "plant_name": "Eruca sativa Mill.",
+  "botanical_name": "Eruca sativa",
+  "botanical_authority": "GARS.",
+  "family": "BRASSICACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol I\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - BSI Scientist; distribution: Distribution; title: Title - Flora of West Bengal Vol 1\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b849a4aa2deed808558ec37cedae016"
+  ],
+  "source_record_ids": [
+    "links-2005"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b849a4aa2deed808558ec37cedae016"
+    ],
+    "source_record_ids": [
+      "links-2005"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b849a4aa2deed808558ec37cedae016",
+          "Plant Name": "Eruca sativa Mill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Eruca sativa Mill.",
+        "source_record_id": "links-2005",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b849a4aa2deed808558ec37cedae016"
+      }
+    ],
+    "source_xplant_id": "3b849a4aa2deed808558ec37cedae016",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

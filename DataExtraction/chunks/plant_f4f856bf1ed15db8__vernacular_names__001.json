@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_f4f856bf1ed15db8__vernacular_names__001",
+  "plant_id": "plant_f4f856bf1ed15db8",
+  "plant_name": "Phoenix acaulis Buch.-Ham.",
+  "botanical_name": "Phoenix acaulis",
+  "botanical_authority": "ROXB.",
+  "family": "ARECACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (7): chamror, jangli khajur, kajre, khajur, khajuri, sindhi, thakal\nKannada (6): kaadu kharjoora, sannaichal, sannaichala, sannaichi, sannicalu, sannichai\nMalayalam (8): etha, inta, intal, ithal, itta, katinda, sannaichal, sannintal\nSanskrit (1): Sanskrit CommentsX bhukharjuri\nTamil (2): ichampul, sittugichu\nTelugu (7): chinnita, chiriita, konda ita, kondaita, samuta, sanna ita, sannayita",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8dcedc198f3e7da66ecaf45e38223830"
+  ],
+  "source_record_ids": [
+    "links-1039",
+    "links-1043"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8dcedc198f3e7da66ecaf45e38223830"
+    ],
+    "source_record_ids": [
+      "links-1039",
+      "links-1043"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8dcedc198f3e7da66ecaf45e38223830",
+          "Plant Name": "Phoenix acaulis Buch.-Ham.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Phoenix acaulis Buch.-Ham.",
+        "source_record_id": "links-1039",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8dcedc198f3e7da66ecaf45e38223830"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8dcedc198f3e7da66ecaf45e38223830",
+          "Plant Name": "Phoenix acaulis Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Phoenix acaulis Roxb.",
+        "source_record_id": "links-1043",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8dcedc198f3e7da66ecaf45e38223830"
+      }
+    ],
+    "source_xplant_id": "8dcedc198f3e7da66ecaf45e38223830",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

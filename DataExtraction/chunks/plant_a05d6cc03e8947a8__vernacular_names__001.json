@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a05d6cc03e8947a8__vernacular_names__001",
+  "plant_id": "plant_a05d6cc03e8947a8",
+  "plant_name": "Dolichos lablab Linn.",
+  "botanical_name": "Dolichos lablab",
+  "botanical_authority": "L.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (11): bhatavasu, bhetarasu, borboti, lobia, lobiya, makhansim, rajashimbi, sem, sim, valm, wall\nKannada (4): alsande, avare, avare balli, chapparada avare\nMarathi (13): amvri, anvare, chardari, chavdari ghevda, ghevda, ghevdo, kadavevala, pandharepavate, paote, pawta, tambadepavade, val, wal papri\nSanskrit (11): Sanskrit CommentsX nespava, nishpava, nispava, nispavah, rajashimbi, shimbi, shvetashimbika, simbi, valla, vallah, vallaka\nTamil (34): akanami#, akanami@, akanamikkoti, avarai, avarai#, avarai-k-koti, avarai@, cattirakkil, cikkatti, cikkiti, cimpikam 1, kattu moccai, kotiyaracu, kotiyavarai, maccai, mankuvittam, mati 3, moccai, mochai, motchai, mutirakkoti, mutiram, mutiri, mutirikkoti, muvilaiminni, muvilaiminnikkoti, nakaravarai, nakuli, nattavarai, nispavam, nitpavam, pancari, pancarikkoti, vellai avarai\nTelugu (10): adavichikkudu, alsanda, alsande, anapachikkudu, annapa, anumulu, boberlu, chikkudu, tellachikkudu, tellachikurkai\nTibetan (3): ni mba ba, ni spa ba (p), nis pa ba (d)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7a273327201ad5dcb276075872c4604"
+  ],
+  "source_record_ids": [
+    "links-1403"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7a273327201ad5dcb276075872c4604"
+    ],
+    "source_record_ids": [
+      "links-1403"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7a273327201ad5dcb276075872c4604",
+          "Plant Name": "Dolichos lablab Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dolichos lablab Linn.",
+        "source_record_id": "links-1403",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7a273327201ad5dcb276075872c4604"
+      }
+    ],
+    "source_xplant_id": "d7a273327201ad5dcb276075872c4604",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

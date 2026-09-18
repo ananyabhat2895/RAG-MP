@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_efbb6e3875b9d3f0__vernacular_names__001",
+  "plant_id": "plant_efbb6e3875b9d3f0",
+  "plant_name": "Amomum subulatum Roxb.",
+  "botanical_name": "Amomum subulatum",
+  "botanical_authority": "ROXB.",
+  "family": "ZINGIBERACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (4): badi ilayaci, bari ilachi, bari ilayaci, bari-elachi\nKannada (6): dodda aelakki, dodda yaalakki, dodda yelakki, dodda-yalakki, doddayalakki, doddayelaki\nMalayalam (5): candrabala, chandrabala, perelam, peri-elav, periya-elattari\nMarathi (3): moteveldode, moto-eldori, thorveldoda\nSanskrit (34): Sanskrit CommentsX aindri, bahula, bala, balavati, bhadra, bhadraila, brhadaela, brhadela, brihadaela, brihat-upa-kunchika, brihat-upakun-chika, divyagandha, ela, garbhasambhava, ghritachi, ghrtachi, goputa, harenuka, indrani, kanta, kanyakumari, kayastha, ksudraila, mahila, maleya, nishkuti, prithvi, sambhava, sthulaela, sthulaila, surabhitvaka, tadaphala, tridivodbhava, triputa\nTamil (34): arivalukam1, arugasani, arukacani, arukecani, cantirikai2, cukanticaparanam, curppitakam, ela, elavalukai#, elavalukai@, elavalukam1, iravati, iravatikacceti, iravatikam, kattelam, kattu elam, kattu-yelak-kay, kumari, kuntikacceti, kuntikam, maccakuttam, malaiyelam, malukam 1, mayileyam, perelam, periya elam, periyaelakkay, periyaelam, periyayelakay, periyayelam, sandirigai, tivviyakantam, verppelakacceti, verppelakam\nTelugu (4): adavi-ellakkay, pedda-elakkay, peddayelaki, thengu yalakkulu\nTibetan (1): pa tra e la\nUrdu (9): bari elaichi, elaichi badi, heel kalan, ilacihi kalan, ilaichi kalan, ilaichi kalan kofta, ilaichi kalan nim kofta, ilayachikallan, poast ilaichi sokhta-kalan",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9d4015c990cc5f8b85ce17dc9245952"
+  ],
+  "source_record_ids": [
+    "links-0388",
+    "links-0561"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9d4015c990cc5f8b85ce17dc9245952"
+    ],
+    "source_record_ids": [
+      "links-0388",
+      "links-0561"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9d4015c990cc5f8b85ce17dc9245952",
+          "Plant Name": "Amomum subulatum Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Amomum subulatum Roxb.",
+        "source_record_id": "links-0388",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9d4015c990cc5f8b85ce17dc9245952"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9d4015c990cc5f8b85ce17dc9245952",
+          "Plant Name": "Amomum Subulatum Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Amomum Subulatum Roxb.",
+        "source_record_id": "links-0561",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9d4015c990cc5f8b85ce17dc9245952"
+      }
+    ],
+    "source_xplant_id": "d9d4015c990cc5f8b85ce17dc9245952",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

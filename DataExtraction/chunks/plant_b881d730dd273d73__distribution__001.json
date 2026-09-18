@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b881d730dd273d73__distribution__001",
+  "plant_id": "plant_b881d730dd273d73",
+  "plant_name": "Premna barbata Wall.",
+  "botanical_name": "Premna barbata",
+  "botanical_authority": "WALL.",
+  "family": "VERBENACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - A.E. Osmaston; distribution: Distribution; title: Title - A Forest Flora for Kumaon\nDistribution entry: author: Author - HARIDASAN K & RAO R R; distribution: Distribution; title: Title - FOREST FLORA OF MEGHALAYA VOL 2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e718dfa73689e820c75289c52d1bce2e"
+  ],
+  "source_record_ids": [
+    "links-2067"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e718dfa73689e820c75289c52d1bce2e"
+    ],
+    "source_record_ids": [
+      "links-2067"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e718dfa73689e820c75289c52d1bce2e",
+          "Plant Name": "Premna barbata Wall.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Premna barbata Wall.",
+        "source_record_id": "links-2067",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e718dfa73689e820c75289c52d1bce2e"
+      }
+    ],
+    "source_xplant_id": "e718dfa73689e820c75289c52d1bce2e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

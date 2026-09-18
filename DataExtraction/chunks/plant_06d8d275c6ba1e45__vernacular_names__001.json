@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_06d8d275c6ba1e45__vernacular_names__001",
+  "plant_id": "plant_06d8d275c6ba1e45",
+  "plant_name": "Maerua arenaria Hook. f. & Th.",
+  "botanical_name": "Maerua oblongifolia",
+  "botanical_authority": "(FORSK.) A.RICH",
+  "family": "CAPPARACEAE",
+  "section": "vernacular_names",
+  "content": "Kannada (2): bhoochakra gedde, nela sakre gedde\nMarathi (3): hemakand, kaatigolo, vikat\nSanskrit (8): Sanskrit CommentsX madhusrava, madhuvalli, morata, murahari, murva, piluparni, piluparnika, pipluparni\nTamil (20): carukkaraikkilanku2, cerankilanku, kattuccarukkarai, kattuccarukkaraik kilanku, kurutikkakitakkilanku, kurutikkakitam, kutalakkilanku, kutali2, mulmurantai, munmurantai, nilaccarukkarai, pucakam, pumi carkkarai kilantu, pumicarkkarai-k-kilanku, pumicarkkaraik kilanku, pumicarkkaraimulam, pumicarkkaraivallikkilanku, pumiccarkkaraikkilanku, puvincarukkarai, tauritakkilanku\nTelugu (20): bhoochakra gadda, bhoochakramu, bhucakramu, bhuchakra, bhuchakram, bhusarkara, bocchekra, maakametanithige, maenikathige, mekamettanitige, menikatige, merupu theega, morinika, pattathige, pattatiga, pattatige, pattuthige, pattutige, putta tige, puttatige\nTibetan (1): ro ma ha",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899"
+  ],
+  "source_record_ids": [
+    "links-1221",
+    "links-1222",
+    "links-1295",
+    "links-1322"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899"
+    ],
+    "source_record_ids": [
+      "links-1221",
+      "links-1222",
+      "links-1295",
+      "links-1322"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899",
+          "Plant Name": "Maerua arenaria Hook. f. & Th.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Maerua arenaria Hook. f. & Th.",
+        "source_record_id": "links-1221",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899",
+          "Plant Name": "Maerua arenaria Hook.f. and Thoms.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Maerua arenaria Hook.f. and Thoms.",
+        "source_record_id": "links-1222",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899",
+          "Plant Name": "Maerua arenaria Hook.f. and Th.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Maerua arenaria Hook.f. and Th.",
+        "source_record_id": "links-1295",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899",
+          "Plant Name": "Maerua arenaria",
+          "Status": "Found"
+        },
+        "source_plant_name": "Maerua arenaria",
+        "source_record_id": "links-1322",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899"
+      }
+    ],
+    "source_xplant_id": "bc77c2aa87e1ff114f907d3113143778",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

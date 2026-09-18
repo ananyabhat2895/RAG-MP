@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_07bedc5c43b240f6__vernacular_names__001",
+  "plant_id": "plant_07bedc5c43b240f6",
+  "plant_name": "Sida acuta Burm.",
+  "botanical_name": "Sida acuta",
+  "botanical_authority": "BURM. F.",
+  "family": "MALVACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): blue okra\nHindi (6): bal, bariacakareta, bariara, kareta, kharenti, paharibariara\nKannada (9): bheemana kaddi, bheemana kaddi gida, bhimanakaddi, bhimankaddi, dodda bindige gida, visha boddhi, visha hetthutthi, vishakaddi, vishakhaddi\nMalayalam (8): ceruparuva, cheruparuva, kuruntotti, malatani, malatanni, shiruparuva, tsjeru-parua, tsjeruparua\nMarathi (5): bala, chikana, pata, tukati, tupkaria\nSanskrit (8): Sanskrit CommentsX bala, bala phanijivika, brihannagabala, pata, pila, pitberela, pranijivika, rajbala\nTamil (32): appatta, ariva-mooku keerai, arivalmanaippundu, arivalmukkan, karuncaranai, kayappundu, kurunthotti, malai tanki, malai thangi, malai-tangi, malaidangi, malaikkurundali, malaitangi, malaitanki, malaytanghie, mallaidangi, mayirmanikkam, pankampalai, patai, pon mucuttai, pon-mushattai, ponmusuttai, ponmusutti, varikam, vathathiruppi, vatta thiruppi, vatta-tirippi, vattatirippi, vattatiruppi, vattatisuppi, vattattiruppi, verpenti\nTelugu (20): chitimuti, chittemu, chittimu, chittimuti, cittimuti, gaayapaaku, gayapaku, muttava pulagam chettu, muttavapulagam, muttavapulagamu, mutthavapulagamu, nela benda, nelabenda, sahadevi, thella antina, visaboddi, visha boddi, vishaboddee, vishaboddi, vishabodui",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4af721d8784614f3c53d06bd68f96fbb"
+  ],
+  "source_record_ids": [
+    "links-0267",
+    "links-0271"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4af721d8784614f3c53d06bd68f96fbb"
+    ],
+    "source_record_ids": [
+      "links-0267",
+      "links-0271"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4af721d8784614f3c53d06bd68f96fbb",
+          "Plant Name": "Sida acuta Burm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida acuta Burm.",
+        "source_record_id": "links-0267",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4af721d8784614f3c53d06bd68f96fbb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4af721d8784614f3c53d06bd68f96fbb",
+          "Plant Name": "Sida acuta Burm. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida acuta Burm. f.",
+        "source_record_id": "links-0271",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4af721d8784614f3c53d06bd68f96fbb"
+      }
+    ],
+    "source_xplant_id": "4af721d8784614f3c53d06bd68f96fbb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

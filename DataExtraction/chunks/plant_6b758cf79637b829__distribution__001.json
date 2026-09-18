@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_6b758cf79637b829__distribution__001",
+  "plant_id": "plant_6b758cf79637b829",
+  "plant_name": "Bauhinia tomentosa Linn.",
+  "botanical_name": "Bauhinia tomentosa",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aec7323fe050ef19bbba0d307154dbce"
+  ],
+  "source_record_ids": [
+    "links-0181",
+    "links-1312"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aec7323fe050ef19bbba0d307154dbce"
+    ],
+    "source_record_ids": [
+      "links-0181",
+      "links-1312"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aec7323fe050ef19bbba0d307154dbce",
+          "Plant Name": "Bauhinia tomentosa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bauhinia tomentosa Linn.",
+        "source_record_id": "links-0181",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aec7323fe050ef19bbba0d307154dbce"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aec7323fe050ef19bbba0d307154dbce",
+          "Plant Name": "Bauhinia tomentosa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bauhinia tomentosa",
+        "source_record_id": "links-1312",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aec7323fe050ef19bbba0d307154dbce"
+      }
+    ],
+    "source_xplant_id": "aec7323fe050ef19bbba0d307154dbce",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

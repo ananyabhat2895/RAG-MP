@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_9d3ed55327ec862c__identification__001",
+  "plant_id": "plant_9d3ed55327ec862c",
+  "plant_name": "Tamarix dioica Roxb.",
+  "botanical_name": "Tamarix dioica",
+  "botanical_authority": "ROXB. EX. ROTH",
+  "family": "TAMARICACEAE",
+  "section": "identification",
+  "content": "Plant name: Tamarix dioica Roxb. Botanical name: Tamarix dioica Botanical authority: ROXB. EX. ROTH Family: TAMARICACEAE Source xplant ID: 568de93ec016020b4d23423056fc0759",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/568de93ec016020b4d23423056fc0759"
+  ],
+  "source_record_ids": [
+    "links-0792"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/568de93ec016020b4d23423056fc0759"
+    ],
+    "source_record_ids": [
+      "links-0792"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/568de93ec016020b4d23423056fc0759",
+          "Plant Name": "Tamarix dioica Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tamarix dioica Roxb.",
+        "source_record_id": "links-0792",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/568de93ec016020b4d23423056fc0759"
+      }
+    ],
+    "source_xplant_id": "568de93ec016020b4d23423056fc0759",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

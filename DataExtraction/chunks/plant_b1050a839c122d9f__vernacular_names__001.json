@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b1050a839c122d9f__vernacular_names__001",
+  "plant_id": "plant_b1050a839c122d9f",
+  "plant_name": "Jacobini tinctoria Henol.",
+  "botanical_name": "Jacobinia tinctoria",
+  "botanical_authority": "HEMSL.",
+  "family": "ACANTHACEAE",
+  "section": "vernacular_names",
+  "content": "Sanskrit (1): Sanskrit CommentsX raktavasa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7edbc25b9828e58bd093978857c6e254"
+  ],
+  "source_record_ids": [
+    "links-1595"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7edbc25b9828e58bd093978857c6e254"
+    ],
+    "source_record_ids": [
+      "links-1595"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7edbc25b9828e58bd093978857c6e254",
+          "Plant Name": "Jacobini tinctoria Henol.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Jacobini tinctoria Henol.",
+        "source_record_id": "links-1595",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7edbc25b9828e58bd093978857c6e254"
+      }
+    ],
+    "source_xplant_id": "7edbc25b9828e58bd093978857c6e254",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

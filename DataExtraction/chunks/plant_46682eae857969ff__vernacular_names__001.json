@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_46682eae857969ff__vernacular_names__001",
+  "plant_id": "plant_46682eae857969ff",
+  "plant_name": "Cedrela toona",
+  "botanical_name": "Cedrela toona",
+  "botanical_authority": "ROXB.",
+  "family": "MELIACEAE",
+  "section": "vernacular_names",
+  "content": "English (5): australian red cedar, burma cedar, moulmein cedar, red cedar, toon\nHindi (13): duri, lim, lud, mahalimbu, mahanim, toon, tooni, tun, tun-ka-har, tun-ka-jhar, tuna, tuni, tunkajhar\nKannada (38): belandi, biligandhagiri, daevadaari, devadari, devdari, gandagarige, gandha garige, gandhagarige, garge, garige, iyali, kaduge, kalingi, kalkilingi, kalklinji, kallu kalingi, kallukalingi, kallukkalingi, kandagarige, kempu gandhgari, kempugandagheri, kempugandgheri, kempugandhagari, kempugandhagarige, kempughandagheri, kempugundagiri, klinji, kuruvaka, kuuvaka, mandurike, nandivriksha, nandurike, noga, noge, nogga, suli, suolamura, tundu\nMalayalam (22): akil, arana, arana-maram, chonagilu, choonagil, chuvannagil, conakil, devabaram, devadaram, devadarum, devataram, kacham, kuberakam, madagirivembu, malaveppa, malaveppu, mallarveppu, mathagirivembu, sanakil, thavataram, tunnam, vedivembu\nMarathi (3): deodari, kurak, kuruk\nSanskrit (25): Sanskrit CommentsX apina, apita, kachha, kachhaka, kachla, kanta, kantalaka, kuberaka, kubheraka, mahanim, nanda, nandaka, nandi, nandi-vriksha, nandivriksha, nandivrksa, nandivrksah, patuka, pitaka, tooni, tunah, tunika, tunna, tunna-kuberaka, tunnaka\nTamil (71): acupattiram, acupattiramaram, akacculi, ayil, ayil1, cankiyattam, cataputpi2@, cataputpimaram, cevvakai, cevvakil, ciruculli, civappucculi, civappucculimaram, culi2, culimaram, curuli2, cuyaci, italai2, italaivirutcam, kakatittam, kakavalli, kakkini, kalkalinci1, kanmatar, kanmatarmaram, karansuli, karukkutukanni, karukkutukannimaram, kotamatitam, kotamatitamaram, kuperakam, kuruncul, madagirvembu, malaicculi, malaicculimaram, malavembu, malayaputtunnamaram, mali, marutculi, marutculimaram, matakarivempu, matakirivempu 1#, naipputikam, naipputikamaram, nannal1, nanti2, nantivirutcam2, pakaracikam, pakaracikamaram, parancoli, perunculi, perunculimaram, perunculini, pirayaccetanam, pirayaccetanamaram, sandanavembu, santhana-vembu, santhanavembu, sevvagil, shevagil, suli, tevadaram, toon marum, tunamaram, tunmaram, tunu, tunu-maram, tunumaram, uttantacika, variyam, variyamaram\nTelugu (7): gaali, gali, gali manu, galimanu, mahalimo, nandi, nandi-chettu\nUrdu (1): tun",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52c82345cac6d02ebb5565290d2a1171"
+  ],
+  "source_record_ids": [
+    "links-1377"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52c82345cac6d02ebb5565290d2a1171"
+    ],
+    "source_record_ids": [
+      "links-1377"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52c82345cac6d02ebb5565290d2a1171",
+          "Plant Name": "Cedrela toona",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cedrela toona",
+        "source_record_id": "links-1377",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52c82345cac6d02ebb5565290d2a1171"
+      }
+    ],
+    "source_xplant_id": "52c82345cac6d02ebb5565290d2a1171",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

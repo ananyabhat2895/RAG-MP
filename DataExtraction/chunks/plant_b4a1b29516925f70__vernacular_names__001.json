@@ -1,0 +1,93 @@
+{
+  "chunk_id": "plant_b4a1b29516925f70__vernacular_names__001",
+  "plant_id": "plant_b4a1b29516925f70",
+  "plant_name": "Solanum melongena Linn.",
+  "botanical_name": "Solanum melongena",
+  "botanical_authority": "L.",
+  "family": "SOLANACEAE",
+  "section": "vernacular_names",
+  "content": "English (6): badinjan, brinjal, egg fruit, egg plant, jew s apple, thai egg plant\nHindi (13): aubergine, badanjan, baigun, baingan, bangan, begun, bengan, bhanta, bhatta, bhintak, brinjal, rangna, ringna\nKannada (14): badane, badane kaayi, badane kayi, badanekaya, badanekayi, bhandaaki, bhandaki, bhantaki, doddabadane, gulla, kaachi, kaachi badane, kachi, kaci\nMalayalam (12): hinguli, kattiri, mulakutakkali, mulukutakali, nila-barudena, nilabarudena, nilavalutina, nilavazhutina, schunda, valoothala, valutina, vazhutina\nMarathi (5): baange, dorli-vangi, vangi, vayinge, wangi\nSanskrit (52): Sanskrit CommentsX angana, bartaku, bera, bhanaaki, bhantaki, brhati, chitraphala, citraphala, dirghavartaki, dushpradharshini, hindirataka, hingoli, hinguli, jukutam, kantakini, kantalu, kantapatrika, kantavartaki, katphala, kuli, mahabrhati, mahahrihati, mahati, mahotika, mansalaphala, mishravarnaphala, nidralu, nilakantaka, nilaphala, nilavriksha, nripapriyaphala, peetaphala, pitaphala, rajakushmanda, raktphala, shakabilva, shakabilvaka, shakashreshtha, sinhi, vangana, vardaku, varta, vartaka, vartakah, vartaki, vartaku, varttaki, varttaku, vatigama, vrintaki, vrittaphala, vrntaki\nTamil (63): accatti, accattiri, achatti, cakapilavakacceti, cakapilavankam, cakapillakam, catilikicceti, ilakucam, kaarkkattari, kaliliyam, kalini 2, kaliniyam 2, karkkattari, kath-thari, kathari, kaththiri, kattari, kattari-k-kay, kattarinayakam, katterikayi, katthiri-chedi, kattiri-k-kay, kattiricceti, kattirikkai, koyambattai, makurakka, matini, milaguttakkali, mullankattari, mullukkattari, murukanikkaram, muttaikkattari, muttikkattiri, namai, natapattirakam, nattukkattari, nilakkattiri, nirkkattiri, pandagi, pantaki 1, piratti 2, piritiki, piru, pirukati, pirukucceti, pirutati, tatuvalutalai, tirappucam, tirappuki, tirappukicceti, tirippucam, tirivacceti, valitunai, vallatimuli, valudunai, valutalai, valutalaicceti, vangam, vanikakkaykaripputu, varttapakacceti, varttapakam, vekupattiri 2, vilutalai\nTelugu (22): chirivanga, chiruvanga, ciruvanga, eruvanga, hingudi, mettavanga, mettavanke, mulaka, muluka, neerwangkai, nidupavanga, nidupuvanga, nirettuvanga, niruvanga, vanga, vanga chettu, vangamu, vankaaya, vankaya, vankayi, wangkai, wankai\nUrdu (1): kateli kalan",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a688dcbdec0758a9bc0ed6b2f1ec52fd"
+  ],
+  "source_record_ids": [
+    "links-2058",
+    "links-2124",
+    "links-2125",
+    "links-2126",
+    "links-2127"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a688dcbdec0758a9bc0ed6b2f1ec52fd"
+    ],
+    "source_record_ids": [
+      "links-2058",
+      "links-2124",
+      "links-2125",
+      "links-2126",
+      "links-2127"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a688dcbdec0758a9bc0ed6b2f1ec52fd",
+          "Plant Name": "Solanum melongena Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum melongena Linn.",
+        "source_record_id": "links-2058",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a688dcbdec0758a9bc0ed6b2f1ec52fd"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a688dcbdec0758a9bc0ed6b2f1ec52fd",
+          "Plant Name": "Solanum melongena Linn. Var. depressum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum melongena Linn. Var. depressum",
+        "source_record_id": "links-2124",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a688dcbdec0758a9bc0ed6b2f1ec52fd"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a688dcbdec0758a9bc0ed6b2f1ec52fd",
+          "Plant Name": "Solanum melongena Linn. Var. incanum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum melongena Linn. Var. incanum",
+        "source_record_id": "links-2125",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a688dcbdec0758a9bc0ed6b2f1ec52fd"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a688dcbdec0758a9bc0ed6b2f1ec52fd",
+          "Plant Name": "Solanum melongena Linn. Var. melongena",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum melongena Linn. Var. melongena",
+        "source_record_id": "links-2126",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a688dcbdec0758a9bc0ed6b2f1ec52fd"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a688dcbdec0758a9bc0ed6b2f1ec52fd",
+          "Plant Name": "Solanum melongena Linn. Var. serpentinum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum melongena Linn. Var. serpentinum",
+        "source_record_id": "links-2127",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a688dcbdec0758a9bc0ed6b2f1ec52fd"
+      }
+    ],
+    "source_xplant_id": "a688dcbdec0758a9bc0ed6b2f1ec52fd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

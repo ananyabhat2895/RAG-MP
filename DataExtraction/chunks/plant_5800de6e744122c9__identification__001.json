@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5800de6e744122c9__identification__001",
+  "plant_id": "plant_5800de6e744122c9",
+  "plant_name": "Styrax officinalis Linn.",
+  "botanical_name": "Styrax officinalis",
+  "botanical_authority": "L.",
+  "family": "STYRACACEAE",
+  "section": "identification",
+  "content": "Plant name: Styrax officinalis Linn. Botanical name: Styrax officinalis Botanical authority: L. Family: STYRACACEAE Source xplant ID: fafc502b1c8908fa9c00e1e91da76370",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fafc502b1c8908fa9c00e1e91da76370"
+  ],
+  "source_record_ids": [
+    "links-1997"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fafc502b1c8908fa9c00e1e91da76370"
+    ],
+    "source_record_ids": [
+      "links-1997"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fafc502b1c8908fa9c00e1e91da76370",
+          "Plant Name": "Styrax officinalis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Styrax officinalis Linn.",
+        "source_record_id": "links-1997",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fafc502b1c8908fa9c00e1e91da76370"
+      }
+    ],
+    "source_xplant_id": "fafc502b1c8908fa9c00e1e91da76370",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

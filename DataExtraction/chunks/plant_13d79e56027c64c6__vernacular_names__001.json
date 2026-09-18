@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_13d79e56027c64c6__vernacular_names__001",
+  "plant_id": "plant_13d79e56027c64c6",
+  "plant_name": "Luffa cylindrica (Linn.) M. Roem.",
+  "botanical_name": "Luffa cylindrica",
+  "botanical_authority": "(L.) M.J. ROEM.",
+  "family": "CUCURBITACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): loofah, vegetable sponge\nHindi (11): dhodka, dhodka ghiya turai, ghia-torai, ghia-tori, ghiatarui, ghiatarul, ghiaturai, ghiya tori, khiya tori, nenua, purula\nKannada (7): araheere, bolaheere, thipri kaayi, thuppada heere, thuppeere kayi, tiprikayi, tuppahire\nMalayalam (7): cattu-picinna, kattupiccil, kattupiram, perumpiram, piccinna, puttalpiram, puttilpiram\nMarathi (6): ghadaghosali, ghosaalen, ghosali, marti-gomasali, paarose, paroshi\nSanskrit (28): Sanskrit CommentsX aibhi, brihatkoshataki, dhamargava, dhamargavah, dhamargawah, dirgha-patola, dirghapatolika, enua, ghiyatarvi, ghoshaka, hastighosha, hastikoshataki, hastiparna, kosaphala, kosataki, kosathaphala, kothaphalah, mahajalini, mahakosataki, mahakoshataki, mahaphala, mahapushpa, raja-koshataki, rajakausataki, rajakosataki, rajakoshataki, sapitaka, sodhani\nTamil (19): guttibira, meluku pirk, melukupirkku, melukuppeyppirkku, mozhukupirkankai, mulukkupperakkai, nuraippirkku, parpirkku, pichukku, pikku, pirkku, pontukapirkku, tirkkapatolikam, vattuka, vattuvakkoti, vatukikakkoti, vatukikam, virutukacakkoti, virutukacam\nTelugu (8): gutti beera, guttibira, nethi beera, neti beera, netibira, netibirakaya, nunebira, nunibeera\nTibetan (1): ra dza ko sa ta ki",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f"
+  ],
+  "source_record_ids": [
+    "links-0508",
+    "links-0509"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f"
+    ],
+    "source_record_ids": [
+      "links-0508",
+      "links-0509"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f",
+          "Plant Name": "Luffa cylindrica (Linn.) M. Roem.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Luffa cylindrica (Linn.) M. Roem.",
+        "source_record_id": "links-0508",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f",
+          "Plant Name": "Luffa cylindrica (Linn.) M.J. Roem.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Luffa cylindrica (Linn.) M.J. Roem.",
+        "source_record_id": "links-0509",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f"
+      }
+    ],
+    "source_xplant_id": "42a309fa9378a8bdc2426fa5e4ddf16f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

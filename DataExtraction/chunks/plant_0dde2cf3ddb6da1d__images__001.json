@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_0dde2cf3ddb6da1d__images__001",
+  "plant_id": "plant_0dde2cf3ddb6da1d",
+  "plant_name": "Amorphophallus bulbifer Blume.",
+  "botanical_name": "Amorphophallus bulbifer",
+  "botanical_authority": "BLUME",
+  "family": "ARACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb2679ef2da3c86bd49d7589178a9c24"
+  ],
+  "source_record_ids": [
+    "links-0098"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb2679ef2da3c86bd49d7589178a9c24"
+    ],
+    "source_record_ids": [
+      "links-0098"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb2679ef2da3c86bd49d7589178a9c24",
+          "Plant Name": "Amorphophallus bulbifer Blume.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Amorphophallus bulbifer Blume.",
+        "source_record_id": "links-0098",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb2679ef2da3c86bd49d7589178a9c24"
+      }
+    ],
+    "source_xplant_id": "fb2679ef2da3c86bd49d7589178a9c24",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

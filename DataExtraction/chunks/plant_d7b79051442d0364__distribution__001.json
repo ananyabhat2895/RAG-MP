@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_d7b79051442d0364__distribution__001",
+  "plant_id": "plant_d7b79051442d0364",
+  "plant_name": "Martynia diandra",
+  "botanical_name": "Martynia annua",
+  "botanical_authority": "L.",
+  "family": "PEDALIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08/xclkon/953967b7d49d297b9d071b53c6b3620e",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08"
+  ],
+  "source_record_ids": [
+    "links-0627",
+    "links-0845"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08/xclkon/953967b7d49d297b9d071b53c6b3620e",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08"
+    ],
+    "source_record_ids": [
+      "links-0627",
+      "links-0845"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08/xclkon/953967b7d49d297b9d071b53c6b3620e",
+          "Plant Name": "Martynia diandra",
+          "Status": "Found"
+        },
+        "source_plant_name": "Martynia diandra",
+        "source_record_id": "links-0627",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08/xclkon/953967b7d49d297b9d071b53c6b3620e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08",
+          "Plant Name": "Martynia annua Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Martynia annua Linn.",
+        "source_record_id": "links-0845",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08"
+      }
+    ],
+    "source_xplant_id": "95a099dc5b93175361cf6464f11c1c08",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

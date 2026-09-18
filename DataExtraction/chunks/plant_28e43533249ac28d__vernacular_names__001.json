@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_28e43533249ac28d__vernacular_names__001",
+  "plant_id": "plant_28e43533249ac28d",
+  "plant_name": "Aphanamixis polystachya (Wall.) Parker",
+  "botanical_name": "Aphanamixis polystachya",
+  "botanical_authority": "(WALL.) PARKER",
+  "family": "MELIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): tasua\nHindi (3): harin-hara, harinhara, harinkhana\nKannada (17): hottenola, mukhya mutthage, mukhyamuttage, mukhyamuttuge, mulen, mullamuttala, mullu mutthala, mullu-muttaga, mulluhitthalu, mullumuttaga, roheethaka, rohitaka, shina, thaktaroheethaka, tittilakayi, tottilakayi, tottile\nMalayalam (6): cem, cemmaram, chem, chemmaram, karagil, sem\nMarathi (2): raktharohida, rohitak\nSanskrit (18): Sanskrit CommentsX janavallabha, ksharayogya, lakshmi, lakshmivana, lohita, rakta, raktavrksa, rohitaka, rohitakah, rohitakalata, rohituka, saptavha, sarvajanapriya, shuklarohita, shvetarohitaka, sitanga, sitapushpa, sitavhaya\nTamil (24): cemmaram, cennaraki, cennarakimaram, civappavi, civappavirmaram, curailaccuvaram, curaiyilaiccuvaram, cuvaiyilacuvaram, kokitam, kottaputpakam, kutacanmali1, malampuluvan, nalinaveti, orumaram, panturokapiramecani, pilikacatturu, pilikakkinam, sem, semmaram, surailachumaram, tikuccam, urokitam, vellakongu, vengul\nTelugu (4): chevamanu, rohitaka, rohithaka, sevamanu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5df9f100e88b8d13c3436eb38e1c3ccf"
+  ],
+  "source_record_ids": [
+    "links-1649"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5df9f100e88b8d13c3436eb38e1c3ccf"
+    ],
+    "source_record_ids": [
+      "links-1649"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5df9f100e88b8d13c3436eb38e1c3ccf",
+          "Plant Name": "Aphanamixis polystachya (Wall.) Parker",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aphanamixis polystachya (Wall.) Parker",
+        "source_record_id": "links-1649",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5df9f100e88b8d13c3436eb38e1c3ccf"
+      }
+    ],
+    "source_xplant_id": "5df9f100e88b8d13c3436eb38e1c3ccf",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

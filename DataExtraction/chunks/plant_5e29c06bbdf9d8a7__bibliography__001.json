@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5e29c06bbdf9d8a7__bibliography__001",
+  "plant_id": "plant_5e29c06bbdf9d8a7",
+  "plant_name": "Cassia auriculata Linn.",
+  "botanical_name": "Cassia auriculata",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - WHITELAW AINSLIE; title: Title - MATERIA INDICA\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: title: Title - Flora of Rajasthan Vol. 1\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I\nBibliography entry: title: Title - The Flora of Orissa Volume 1\nBibliography entry: title: Title - Flora of the Indian Desert\nBibliography entry: title: Title - The Flora of the Gulf of Mannar\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-1\nBibliography entry: title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - Flora of Gujarat State Vol 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6508eac4f485855d8583f31fc94a2c57"
+  ],
+  "source_record_ids": [
+    "links-0006"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6508eac4f485855d8583f31fc94a2c57"
+    ],
+    "source_record_ids": [
+      "links-0006"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6508eac4f485855d8583f31fc94a2c57",
+          "Plant Name": "Cassia auriculata Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cassia auriculata Linn.",
+        "source_record_id": "links-0006",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6508eac4f485855d8583f31fc94a2c57"
+      }
+    ],
+    "source_xplant_id": "6508eac4f485855d8583f31fc94a2c57",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

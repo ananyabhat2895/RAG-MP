@@ -1,0 +1,82 @@
+{
+  "chunk_id": "plant_1677bac2a4c6a191__vernacular_names__001",
+  "plant_id": "plant_1677bac2a4c6a191",
+  "plant_name": "Solanum surattense Burm. f.",
+  "botanical_name": "Solanum virginianum",
+  "botanical_authority": "L.",
+  "family": "SOLANACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (23): adkuntali, bhatkatai, bhatkatya, bhuiakhanderi, bhumiringani, bhur hingani, bhuringni, bhutkatya, choto-baigan, dhaturi, dorlika-phal, gulari, jangli-baigan, katai, kataikhuadda, kateli, kattay, kutia, raingani, remgani, rengni, ringni, satyanasi\nKannada (20): bilinelagulla, chikchunde, chikchundi, chikka sonde, chikkasonde, cikkasonde, gulla, kaateringini, kallante, kallatte, kantakaari, kantakari, kante, kirigulla, kuntakaari, nelagulla, nelagulle, nellagulla, raamagulla, ramagulla\nMalayalam (9): kantakari valutina, kantakariccunta, kantakarichunta, kantakarivalutana, kantamkattiri, kantankattiri, puttachunda, puttachunta, velvottuvalutina\nMarathi (9): bhiringani, bhonyaringani, bhuiringani, bhuyiringanee, kaateringni, kanteringani, kate-ringni, kate-vayangini, udaravani\nSanskrit (41): Sanskrit CommentsX anakranta, bahukanta, bahukantaka, bahuphala, bhantaki, brhati, brihati, chitraphala, chudra, dartaki, dhavani, dhavanika, duhsparsa, dushpradharshini, dusparsa, ha, kantakari, kantakarika, kantakini, kantalika, kantashreni, kasaghni, kshetraja, kshudra, kshudrakantika, kshudravyagri, kshurika, ksudra, kuli, nidigdha, nidigdhika, pitatandula, prachodini, putrapada, rashtrika, sarpatanu, sinhi, sprihi, sudra, vrahali, vyaghri",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/849c0de64b7c66638ac1af96bf578c1f",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2"
+  ],
+  "source_record_ids": [
+    "links-0921",
+    "links-0922",
+    "links-0923",
+    "links-0924"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/849c0de64b7c66638ac1af96bf578c1f",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2"
+    ],
+    "source_record_ids": [
+      "links-0921",
+      "links-0922",
+      "links-0923",
+      "links-0924"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/849c0de64b7c66638ac1af96bf578c1f",
+          "Plant Name": "Solanum surattense Burm. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum surattense Burm. f.",
+        "source_record_id": "links-0921",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/849c0de64b7c66638ac1af96bf578c1f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2",
+          "Plant Name": "Solanum xanthocarpum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum xanthocarpum",
+        "source_record_id": "links-0922",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2",
+          "Plant Name": "Solanum xanthocarpum Schrad & Wendle.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum xanthocarpum Schrad & Wendle.",
+        "source_record_id": "links-0923",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2",
+          "Plant Name": "Solanum xanthocarpum Schrad. & Wendle.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum xanthocarpum Schrad. & Wendle.",
+        "source_record_id": "links-0924",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2"
+      }
+    ],
+    "source_xplant_id": "2cb1e3bf00b5de22d891cdf07eeec4b7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

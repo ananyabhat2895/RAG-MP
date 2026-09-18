@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d2bd7b81b23acd85__vernacular_names__001",
+  "plant_id": "plant_d2bd7b81b23acd85",
+  "plant_name": "Justicia gendarussa Linn. f.",
+  "botanical_name": "Justicia gendarussa",
+  "botanical_authority": "BURM.",
+  "family": "ACANTHACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (12): jagat-madon, kalabashimb, mili-nargandi, nili-naragandhi, nili-nargandi, nili-nirgandi, nilinargandi, nilinirgundi, oodi-shambalu, udi-sanbhalu, udisambhalu, udisanbhalu\nKannada (22): aaduuthoda gida, adasaalada gida, aduthodagidda, kaara lakki gida, karalakkigidde, karee lakki, karelakki, kari nekki, karinekki, karinekkigida, karinene akki moola, karuknekki, krelakki-gida, naachu gaddi, naccukaddi, nachukaddi, natchukaddi, necchukaddi gida, patavaasaka, simhaasya, simhi, vaidya moothra\nMalayalam (17): karinoccil, karinochil, karun-noch-chi, karunochchi, kurunocci, kurunochil, vada-kodi, vadakodi, vatak-koti, vatakkoti, vatamkolli, vatan-golli, vatankolli, vatankurri, vatankurunnu, vatankutti, wathakuranji\nMarathi (5): bakas, kalaadulsa, kalo-adaso, tao, tev\nSanskrit (26): Sanskrit CommentsX bhutakeshi, gandharasa, indrani, irgandi, kapika, krishnanirgunda, krishnanirgundi, krishnasurasu, krishtna-surasa, krishtnasurasa, krsnavasa, marupatni, nila-ndrani, nila-nirgundi, nilamanjari, nilanirgundi, nilasinduka, nilasinduvar, nilika, nirgundi, pitasaha, shitabhiru, shophalika, sinduka, vanaja, vataghni\nTamil (52): anainocci, attimamati, cakkiramamuli, caroo nochie, cattaikakki, cattainikki, cepalikai 1, cevalikam, cevikam, cevikanoccicceti, cintuvaram, cintuvari, ilainocci, ilainoccicceti, kalainocci, kalainoccicceti, karnocci, karu nocci, karu-noch-chi, karu-notchi, karunacci, karunocci, karunoccil, karunochchi, karunochi, karuppi, karuppu-noch-chi, karuppunocci, karuvinci 1, katappuvicci, kavi 4, kayattaiveticci, kittinacuracceti, kittinacuram, kopi 1, kuppitarotti, kurainaton, macatti, moca, nilanirkkunti, nilanocci, nocci 1, noccil, utupitikacceti, vadaikkutti, valaimantali, vataikkurri, vataikkutti, vatakkoti#, vatakkoti@, vatankolli 2, viruntaputpam\nTelugu (18): addasaram, addasaramu, gandha rasamu, gandharasamu, gandhasarammu, nalla vavili, nalla-noch-chili, nalla-vavili, nallanoccili, nallanochili, nallavaavili, nallavavili, nallavili, nela vavili, nela-vavili, nelavavili, nullavavili, nullavavilie",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebe9cdee8d3de7da772f0fad90dede9d"
+  ],
+  "source_record_ids": [
+    "links-2063"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebe9cdee8d3de7da772f0fad90dede9d"
+    ],
+    "source_record_ids": [
+      "links-2063"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebe9cdee8d3de7da772f0fad90dede9d",
+          "Plant Name": "Justicia gendarussa Linn. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Justicia gendarussa Linn. f.",
+        "source_record_id": "links-2063",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebe9cdee8d3de7da772f0fad90dede9d"
+      }
+    ],
+    "source_xplant_id": "ebe9cdee8d3de7da772f0fad90dede9d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

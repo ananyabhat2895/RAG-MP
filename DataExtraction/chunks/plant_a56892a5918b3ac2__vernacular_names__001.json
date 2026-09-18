@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a56892a5918b3ac2__vernacular_names__001",
+  "plant_id": "plant_a56892a5918b3ac2",
+  "plant_name": "Allium wallichii Kunth.",
+  "botanical_name": "Allium wallichii",
+  "botanical_authority": "KUNTH",
+  "family": "LILIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (4): doona, gobka, laddu, ladu\nSanskrit (1): Sanskrit CommentsX ksirapalandu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7bbec7f3c832058e85e575ab836c84e1"
+  ],
+  "source_record_ids": [
+    "links-1085"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7bbec7f3c832058e85e575ab836c84e1"
+    ],
+    "source_record_ids": [
+      "links-1085"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7bbec7f3c832058e85e575ab836c84e1",
+          "Plant Name": "Allium wallichii Kunth.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Allium wallichii Kunth.",
+        "source_record_id": "links-1085",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7bbec7f3c832058e85e575ab836c84e1"
+      }
+    ],
+    "source_xplant_id": "7bbec7f3c832058e85e575ab836c84e1",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

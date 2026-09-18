@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_86ccb146dc3ca740__vernacular_names__001",
+  "plant_id": "plant_86ccb146dc3ca740",
+  "plant_name": "Tinospora cordifolia (Willd) Miers ex Hook.f. & Th",
+  "botanical_name": "Tinospora cordifolia",
+  "botanical_authority": "(WILLD.) HOOK.F. & THOMS.",
+  "family": "MENISPERMACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (20): adharvela, amrta, gilai, giloe, giloy, gul-bel, gulanca, gulancha, gulbel, gulj-gloe, guluncha, gurach, gurch, gurcha, gurja, neem gilol, neem-giloi, neem-gilol, nim giloy, ushwa\nKannada (24): agniballi, amara, amarada balli, amaradaballi, amratavalli, amrita balli, amritaballi, amritaburu, amritha, amrithaballi, amrtaballi, amrutha balli, amruthaballi, amrytaballi, amrytaburu, gudoochi, kaadu haaku kaare, madhu parni, madhuparka, madhuparne, madhuparni, phalani, uganiballi, yuganiballi\nMalayalam (17): amrita, amritu, amrtu, amrytu, chittamratam, chittamritu, cirramrytu, cit-amerdu, citamardoo, citamerdu, cittamrtu, cittamrytam, jivanti, paiyamratam, peyamrytam, peyyamritam, sittamrytu\nMarathi (14): ambarvel, amruvel, garudbael, gharol, giroli, gudambael, gul-bel, gul-vel, gul-wail, gula-veli, gulavela, gulaveli, guloe, gulvel\nSanskrit (65): Sanskrit CommentsX amara, amrita, amritalata, amritavallari, amritavalli, amrta, amrtahva, amrtavalli, amurta, apriya, bhishak tantrika, bhishakpriya, caksalaksanika, chakralaksana, chakrangi, chandrahasa, chandrapasa, chchinna, chchinnaruha, chchinnodbava, chchinnodhana, chikralakshana, chinnaroha, chinnaruha, chinnodbhava, cittamrt, dhira, gaduchi, goraksha, guduchi, guduci, guducika, guloochee, guluchi, guluci, jivanthika, jivanti, jivantiha, jivantika, jwaranashini, jwarari, kaphadani, ksandraparni, kundalini, kundalli, madhuparni, madhuparnika, nagakumarika, nirjara, pamrodhara, pittaghni, pittagni, rasayani, shyama, soma-valli, somalatika, somavalli, surakrita, tantri, uddhara, vara, vataraktari, vatsadani, vayastha, vishalya",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a227d75a9ed29dd6632ef3de7bb0289"
+  ],
+  "source_record_ids": [
+    "links-0659",
+    "links-0660"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a227d75a9ed29dd6632ef3de7bb0289"
+    ],
+    "source_record_ids": [
+      "links-0659",
+      "links-0660"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a227d75a9ed29dd6632ef3de7bb0289",
+          "Plant Name": "Tinospora cordifolia (Willd) Miers ex Hook.f. & Th",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tinospora cordifolia (Willd) Miers ex Hook.f. & Th",
+        "source_record_id": "links-0659",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a227d75a9ed29dd6632ef3de7bb0289"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a227d75a9ed29dd6632ef3de7bb0289",
+          "Plant Name": "Tinospora cordifolia (Willd.) Miers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tinospora cordifolia (Willd.) Miers.",
+        "source_record_id": "links-0660",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a227d75a9ed29dd6632ef3de7bb0289"
+      }
+    ],
+    "source_xplant_id": "3a227d75a9ed29dd6632ef3de7bb0289",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

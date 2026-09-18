@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_28e43533249ac28d__images__001",
+  "plant_id": "plant_28e43533249ac28d",
+  "plant_name": "Aphanamixis polystachya (Wall.) Parker",
+  "botanical_name": "Aphanamixis polystachya",
+  "botanical_authority": "(WALL.) PARKER",
+  "family": "MELIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5df9f100e88b8d13c3436eb38e1c3ccf"
+  ],
+  "source_record_ids": [
+    "links-1649"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5df9f100e88b8d13c3436eb38e1c3ccf"
+    ],
+    "source_record_ids": [
+      "links-1649"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5df9f100e88b8d13c3436eb38e1c3ccf",
+          "Plant Name": "Aphanamixis polystachya (Wall.) Parker",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aphanamixis polystachya (Wall.) Parker",
+        "source_record_id": "links-1649",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5df9f100e88b8d13c3436eb38e1c3ccf"
+      }
+    ],
+    "source_xplant_id": "5df9f100e88b8d13c3436eb38e1c3ccf",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

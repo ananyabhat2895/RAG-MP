@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_4721a8183948e505__vernacular_names__001",
+  "plant_id": "plant_4721a8183948e505",
+  "plant_name": "Citrus medica",
+  "botanical_name": "Citrus medica",
+  "botanical_authority": "L. var. medica",
+  "family": "RUTACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): citron\nHindi (1): nimbu\nKannada (6): cherunaranga, limbay, mahaphala, mapala, mauling, rucaka\nMalayalam (12): cherunarakam, cholangam, dantahashkam, dantasanam, ddantasatham, eroomitcheenaracum, erumicchinarakam, gilam, madalanarakam, matalanarakam, narakam, rucakam\nMarathi (1): limbu\nSanskrit (2): Sanskrit CommentsX madhukarkatika, madhukukutika\nTamil (4): elumiccai, elumiccampalam, elumichchei, elumichhai\nTelugu (2): lungamu, nimmapandu\nUrdu (1): limunshirin",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edc66f84c9453b06304c7525a493c644"
+  ],
+  "source_record_ids": [
+    "links-0356",
+    "links-0357"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edc66f84c9453b06304c7525a493c644"
+    ],
+    "source_record_ids": [
+      "links-0356",
+      "links-0357"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edc66f84c9453b06304c7525a493c644",
+          "Plant Name": "Citrus medica",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrus medica",
+        "source_record_id": "links-0356",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edc66f84c9453b06304c7525a493c644"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edc66f84c9453b06304c7525a493c644",
+          "Plant Name": "Citrus medica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrus medica Linn.",
+        "source_record_id": "links-0357",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edc66f84c9453b06304c7525a493c644"
+      }
+    ],
+    "source_xplant_id": "edc66f84c9453b06304c7525a493c644",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

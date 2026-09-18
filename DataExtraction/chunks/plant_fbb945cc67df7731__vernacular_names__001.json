@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_fbb945cc67df7731__vernacular_names__001",
+  "plant_id": "plant_fbb945cc67df7731",
+  "plant_name": "Ailanthus excelsa",
+  "botanical_name": "Ailanthus excelsa",
+  "botanical_authority": "ROXB.",
+  "family": "SIMAROUBACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (17): aldua bhootjhad, aldua-bhoot-jhad, arar, arru, arua, churan, limbado, mahanimb, maharukh, maharukha, maruf, marukh, motio aduso, paba aldua, paba-aldua, papari, vilayti-neem\nKannada (21): bende, dodabevu, dodda, dodda baevu, dodda bevu, dodda hebmani, dodda mara, doddabevu, doddamani, doddamara, hebbevu, hebmani, hem, hemmara, hire, hire mara, hiremara, mahaa nimba, mateslimbiru, peethari, peetherai\nMalayalam (6): mattipongilyam, peemaram, peenari, peru, perumaram, peruppi\nMarathi (9): adulsa, adusa, mahaanimb, mahaaruksha, mahanimb, maharuka, mahrukh, marook, marukh\nSanskrit (12): Sanskrit CommentsX aralu, araluka, araluvrksa, atarusha, dirghavrnta, katvanga, madala, mahanimba, maharakha, pisasha, putivrksah, syonaka\nTamil (27): agal, akal 1, arulavam, aruluvam, kankam, makanimpam 3, makatimpam@, makatimpamaram, naru, narumaram, periamaram, peru, perumaram, perumaruntu, perumaruttoo puttay, perumaruttu, perumuttai, perupinari, peruppai, peruppi, pi, piamaram, pimaram, pinari, pinari 3, pinnari, pulattavirutcam\nTelugu (11): gauli vaepa, pedda, pedda manu, pedda vaepamnu, pedda vepa, peddamaandu, peddamaanu, peddamandu, peddamanu, peyyavaepa, peyyavepa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e4521218e11cf72cabb8fb1be26a8ee8"
+  ],
+  "source_record_ids": [
+    "links-0140",
+    "links-0141"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e4521218e11cf72cabb8fb1be26a8ee8"
+    ],
+    "source_record_ids": [
+      "links-0140",
+      "links-0141"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e4521218e11cf72cabb8fb1be26a8ee8",
+          "Plant Name": "Ailanthus excelsa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ailanthus excelsa",
+        "source_record_id": "links-0140",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e4521218e11cf72cabb8fb1be26a8ee8"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e4521218e11cf72cabb8fb1be26a8ee8",
+          "Plant Name": "Ailanthus excelsa Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ailanthus excelsa Roxb.",
+        "source_record_id": "links-0141",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e4521218e11cf72cabb8fb1be26a8ee8"
+      }
+    ],
+    "source_xplant_id": "e4521218e11cf72cabb8fb1be26a8ee8",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c371090f0157c214__identification__001",
+  "plant_id": "plant_c371090f0157c214",
+  "plant_name": "Feronia limonia (Linn.) Swingle",
+  "botanical_name": "Limonia acidissima",
+  "botanical_authority": "L.",
+  "family": "RUTACEAE",
+  "section": "identification",
+  "content": "Plant name: Feronia limonia (Linn.) Swingle Botanical name: Limonia acidissima Botanical authority: L. Family: RUTACEAE Source xplant ID: 11190a784a6fa132fd4ad578e337bcea",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11190a784a6fa132fd4ad578e337bcea/xclkon/73478502c2de2f9303690dcb5367b40d"
+  ],
+  "source_record_ids": [
+    "links-0932"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11190a784a6fa132fd4ad578e337bcea/xclkon/73478502c2de2f9303690dcb5367b40d"
+    ],
+    "source_record_ids": [
+      "links-0932"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11190a784a6fa132fd4ad578e337bcea/xclkon/73478502c2de2f9303690dcb5367b40d",
+          "Plant Name": "Feronia limonia (Linn.) Swingle",
+          "Status": "Found"
+        },
+        "source_plant_name": "Feronia limonia (Linn.) Swingle",
+        "source_record_id": "links-0932",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11190a784a6fa132fd4ad578e337bcea/xclkon/73478502c2de2f9303690dcb5367b40d"
+      }
+    ],
+    "source_xplant_id": "11190a784a6fa132fd4ad578e337bcea",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

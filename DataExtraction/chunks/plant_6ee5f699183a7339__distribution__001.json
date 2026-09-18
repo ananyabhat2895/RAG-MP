@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_6ee5f699183a7339__distribution__001",
+  "plant_id": "plant_6ee5f699183a7339",
+  "plant_name": "Curculigo orchioides",
+  "botanical_name": "Curculigo orchioides",
+  "botanical_authority": "GAERTN.",
+  "family": "HYPOXIDACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol III\nDistribution entry: author: Author - Ed B D Sharma, S Karthikeyan, N P Singh; distribution: Distribution; title: Title - Flora of Maharashrta State (Monocotyledons)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III\nDistribution entry: author: Author - K.M. Matthew; distribution: Distribution; title: Title - The Flora of the Palni Hills Vol-3\nDistribution entry: author: Author - Dr. Narain Singh Chauhan; distribution: Distribution; title: Title - Medicinal and Aromatic Plants of Himachal Pradesh\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 2\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03"
+  ],
+  "source_record_ids": [
+    "links-1283",
+    "links-1908",
+    "links-1909"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03"
+    ],
+    "source_record_ids": [
+      "links-1283",
+      "links-1908",
+      "links-1909"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03",
+          "Plant Name": "Curculigo orchioides",
+          "Status": "Found"
+        },
+        "source_plant_name": "Curculigo orchioides",
+        "source_record_id": "links-1283",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03",
+          "Plant Name": "Curculigo orchioides Gaertn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Curculigo orchioides Gaertn.",
+        "source_record_id": "links-1908",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03",
+          "Plant Name": "Curculigo orchioides Geartn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Curculigo orchioides Geartn.",
+        "source_record_id": "links-1909",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03"
+      }
+    ],
+    "source_xplant_id": "9b3b2f091fce646055ab4609bbd38b03",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

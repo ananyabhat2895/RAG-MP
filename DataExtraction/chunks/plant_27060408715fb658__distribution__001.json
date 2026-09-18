@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_27060408715fb658__distribution__001",
+  "plant_id": "plant_27060408715fb658",
+  "plant_name": "Flacourtia sepiaria Roxb.",
+  "botanical_name": "Flacourtia indica",
+  "botanical_authority": "(BURM.F.)",
+  "family": "FLACOURTIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - KANJILAL & BOR; distribution: Distribution; title: Title - FLORA OF ASSAM\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - Ed. P. Daniel; distribution: Distribution; title: Title - The Flora of Kerala Vol I\nDistribution entry: author: Author - BSI Scientist; distribution: Distribution; title: Title - Flora of West Bengal Vol 1\nDistribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - Botanicaly Survey of India; distribution: Distribution; title: Title - FLORA OF INDIA VOL 2\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol I\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2/xclkon/dd7d4036a32c36b7fc7182560be7f1c2",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2"
+  ],
+  "source_record_ids": [
+    "links-1050",
+    "links-2101"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2/xclkon/dd7d4036a32c36b7fc7182560be7f1c2",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2"
+    ],
+    "source_record_ids": [
+      "links-1050",
+      "links-2101"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2/xclkon/dd7d4036a32c36b7fc7182560be7f1c2",
+          "Plant Name": "Flacourtia sepiaria Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Flacourtia sepiaria Roxb.",
+        "source_record_id": "links-1050",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2/xclkon/dd7d4036a32c36b7fc7182560be7f1c2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2",
+          "Plant Name": "Flacourtia indica Merr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Flacourtia indica Merr.",
+        "source_record_id": "links-2101",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a51b919c7926844e164c464ec8d28e2"
+      }
+    ],
+    "source_xplant_id": "0a51b919c7926844e164c464ec8d28e2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

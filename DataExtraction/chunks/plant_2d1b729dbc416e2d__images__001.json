@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2d1b729dbc416e2d__images__001",
+  "plant_id": "plant_2d1b729dbc416e2d",
+  "plant_name": "Corchorus trilocularis Linn.",
+  "botanical_name": "Corchorus trilocularis",
+  "botanical_authority": "L.",
+  "family": "TILIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bfbbfa00b3ae842bb12575e6e6214f34"
+  ],
+  "source_record_ids": [
+    "links-0411"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bfbbfa00b3ae842bb12575e6e6214f34"
+    ],
+    "source_record_ids": [
+      "links-0411"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bfbbfa00b3ae842bb12575e6e6214f34",
+          "Plant Name": "Corchorus trilocularis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Corchorus trilocularis Linn.",
+        "source_record_id": "links-0411",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bfbbfa00b3ae842bb12575e6e6214f34"
+      }
+    ],
+    "source_xplant_id": "bfbbfa00b3ae842bb12575e6e6214f34",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

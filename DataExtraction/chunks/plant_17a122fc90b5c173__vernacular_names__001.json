@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_17a122fc90b5c173__vernacular_names__001",
+  "plant_id": "plant_17a122fc90b5c173",
+  "plant_name": "Ailanthus malabarica DC.",
+  "botanical_name": "Ailanthus triphysa",
+  "botanical_authority": "(DENNST.) ALSTON",
+  "family": "SIMAROUBACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): mattipaul\nHindi (1): guggula-dhup\nKannada (37): baaga dhoopa, bagadhup, bagadhupa, bagadoop, baggada dhoopa, baggadadhupa, baggadadupta, bhaaga dhoopa, daeva dhoopa, devadaru, dhoop, dhup, dhupa, dupa, goguldhup, googuldhoop, guggaladupa, guggula dhoopa, gugguladhoopa, gugguldhup, gugguldhupa, guguldhupa, guguludhupa, gujjaladhupa, haalmaddi, hem, hemmara, maddi, maddi dhoopa, maddi dhoppa, maddidhupa, maddidhupada, maddidupa, manda dhoopa, mandadupa, mudde dhoopa, uguludupa\nMalayalam (24): matippalam, matippomaliyam, matipponnalyam, matti, mattipal, mattipalam, mattipongilyam, padatthavetti, paddathavetti, patattavetti, payan, payana, perru, peru, peru-marat-toli, perumaram, pongelion, pongiliam, pongilium, pongiliyam, ponnaliyam, ponnalyam, thuma, tumam\nMarathi (4): guagguladhoop, guagguladhup, gugguladhup, ud\nSanskrit (9): Sanskrit CommentsX aralu, atisarahita, gugguladhupa, katvanga-phalam, katvangah, mahanimba, mahanimbu, pisasha, pishachavraksa\nTamil (13): erumai-p-pinari, matti-p-pal, mattipal, mattipalai, mattippal, mattippalai, peru, peru-marattup-pattai, perumaram, perumaruntuppal, pongiliyam, ponkiliyam, velicci-p-picin\nTelugu (4): maddipaalu, maddipalu, pedda-manu-patta, peddamanu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f075267567d9f08a94830469ee35d1e/xclkon/5058dc3d282dfffed8a318c4edc27810"
+  ],
+  "source_record_ids": [
+    "links-0142"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f075267567d9f08a94830469ee35d1e/xclkon/5058dc3d282dfffed8a318c4edc27810"
+    ],
+    "source_record_ids": [
+      "links-0142"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f075267567d9f08a94830469ee35d1e/xclkon/5058dc3d282dfffed8a318c4edc27810",
+          "Plant Name": "Ailanthus malabarica DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ailanthus malabarica DC.",
+        "source_record_id": "links-0142",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f075267567d9f08a94830469ee35d1e/xclkon/5058dc3d282dfffed8a318c4edc27810"
+      }
+    ],
+    "source_xplant_id": "3f075267567d9f08a94830469ee35d1e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

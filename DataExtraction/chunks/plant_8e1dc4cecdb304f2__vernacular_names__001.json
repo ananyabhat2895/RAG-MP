@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_8e1dc4cecdb304f2__vernacular_names__001",
+  "plant_id": "plant_8e1dc4cecdb304f2",
+  "plant_name": "Pentatropis microphylla W & A.",
+  "botanical_name": "Pentatropis capensis",
+  "botanical_authority": "(L.F.) BULLOCK",
+  "family": "ASCLEPIADACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (1): ambarvel\nKannada (2): kaaka anaashi, uppili balli\nMalayalam (2): paparam, parpparam\nMarathi (1): shingrota\nSanskrit (7): Sanskrit CommentsX kakanasa, kakanasika, kakatundaphala, shringariti, sringiritti, sunasika, suryavalli\nTamil (12): inkai 2, irkkolikkopi, irkkolli, irkolli 1, irukolli, parparam, uppilan koti, uppili, uppilikkoti, uppiliver, vellaiuppi, vellaiuppillankoti\nTelugu (10): cekurtitivva, chekruti-teeg, chekurthithivva, chekurtitivva, chekurtitivya, poda paala, poola pala, poolapaala, poolapalla, pulapala\nTibetan (1): ka ka na sa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9/xclkon/32748a2358caf9f87d98f7af702c1890",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9"
+  ],
+  "source_record_ids": [
+    "links-0846",
+    "links-0847",
+    "links-0850"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9/xclkon/32748a2358caf9f87d98f7af702c1890",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9"
+    ],
+    "source_record_ids": [
+      "links-0846",
+      "links-0847",
+      "links-0850"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9/xclkon/32748a2358caf9f87d98f7af702c1890",
+          "Plant Name": "Pentatropis microphylla W & A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pentatropis microphylla W & A.",
+        "source_record_id": "links-0846",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9/xclkon/32748a2358caf9f87d98f7af702c1890"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9/xclkon/32748a2358caf9f87d98f7af702c1890",
+          "Plant Name": "Pentatropis microphylla W. & A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pentatropis microphylla W. & A.",
+        "source_record_id": "links-0847",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9/xclkon/32748a2358caf9f87d98f7af702c1890"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9",
+          "Plant Name": "Pentatropis capensis (Linn.f.) Bullock",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pentatropis capensis (Linn.f.) Bullock",
+        "source_record_id": "links-0850",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9"
+      }
+    ],
+    "source_xplant_id": "7800a267dc3815c7d887b8a14ed39fa9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_502992f618f2e887__systems_of_medicine__001",
+  "plant_id": "plant_502992f618f2e887",
+  "plant_name": "Costus speciosus (Koeing Sm.)",
+  "botanical_name": "Costus speciosus",
+  "botanical_authority": "(KOEN. EX RETZ.) SM.",
+  "family": "COSTACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4a366236a46dad574e5d484d9f83852"
+  ],
+  "source_record_ids": [
+    "links-1025",
+    "links-1026"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4a366236a46dad574e5d484d9f83852"
+    ],
+    "source_record_ids": [
+      "links-1025",
+      "links-1026"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4a366236a46dad574e5d484d9f83852",
+          "Plant Name": "Costus speciosus (Koeing Sm.)",
+          "Status": "Found"
+        },
+        "source_plant_name": "Costus speciosus (Koeing Sm.)",
+        "source_record_id": "links-1025",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4a366236a46dad574e5d484d9f83852"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4a366236a46dad574e5d484d9f83852",
+          "Plant Name": "Costus speciosus (Koen.) Sm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Costus speciosus (Koen.) Sm.",
+        "source_record_id": "links-1026",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4a366236a46dad574e5d484d9f83852"
+      }
+    ],
+    "source_xplant_id": "f4a366236a46dad574e5d484d9f83852",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

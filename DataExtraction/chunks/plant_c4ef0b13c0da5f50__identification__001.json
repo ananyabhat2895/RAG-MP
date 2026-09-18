@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c4ef0b13c0da5f50__identification__001",
+  "plant_id": "plant_c4ef0b13c0da5f50",
+  "plant_name": "Punica granatum Linn.",
+  "botanical_name": "Punica granatum",
+  "botanical_authority": "L.",
+  "family": "PUNICACEAE",
+  "section": "identification",
+  "content": "Plant name: Punica granatum Linn. Botanical name: Punica granatum Botanical authority: L. Family: PUNICACEAE Source xplant ID: b10eb7ab305c42634ac64419f6ed0f43",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b10eb7ab305c42634ac64419f6ed0f43"
+  ],
+  "source_record_ids": [
+    "links-0478"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b10eb7ab305c42634ac64419f6ed0f43"
+    ],
+    "source_record_ids": [
+      "links-0478"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b10eb7ab305c42634ac64419f6ed0f43",
+          "Plant Name": "Punica granatum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Punica granatum Linn.",
+        "source_record_id": "links-0478",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b10eb7ab305c42634ac64419f6ed0f43"
+      }
+    ],
+    "source_xplant_id": "b10eb7ab305c42634ac64419f6ed0f43",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

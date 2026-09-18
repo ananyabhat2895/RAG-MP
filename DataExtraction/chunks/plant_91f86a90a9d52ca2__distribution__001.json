@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_91f86a90a9d52ca2__distribution__001",
+  "plant_id": "plant_91f86a90a9d52ca2",
+  "plant_name": "Wrightia tinctoria R. Br.",
+  "botanical_name": "Wrightia tinctoria",
+  "botanical_authority": "R.BR.",
+  "family": "APOCYNACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d438c664779b95c696936e5d6d52365"
+  ],
+  "source_record_ids": [
+    "links-1148"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d438c664779b95c696936e5d6d52365"
+    ],
+    "source_record_ids": [
+      "links-1148"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d438c664779b95c696936e5d6d52365",
+          "Plant Name": "Wrightia tinctoria R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Wrightia tinctoria R. Br.",
+        "source_record_id": "links-1148",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d438c664779b95c696936e5d6d52365"
+      }
+    ],
+    "source_xplant_id": "8d438c664779b95c696936e5d6d52365",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

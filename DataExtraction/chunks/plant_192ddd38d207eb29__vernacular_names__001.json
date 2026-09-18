@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_192ddd38d207eb29__vernacular_names__001",
+  "plant_id": "plant_192ddd38d207eb29",
+  "plant_name": "Sesbania grandiflora (Linn.) Pers.",
+  "botanical_name": "Sesbania grandiflora",
+  "botanical_authority": "(L.) POIRET",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): bakphul\nHindi (16): agast, agasti, agastoya, agust, agusta, bak, balmota, basna, hadaga, hadga, hathia, hathya, hatiya, jalt, jayanti, jhijan\nKannada (11): agace, agache, agaci, agase, agasemara, agashi, agasi, bakapushpa, chinna daare, chogache, kempagase\nMalayalam (8): agati, agatti, agaty, akatti, argati, argatti, athi, atti\nMarathi (16): agasta, agastha, agasthi, agasthiya, agasti, agastiya, agathi, agati, agosto, chopchini, haadga, hadaga, jainti, shevari, shewari, sirimonta\nSanskrit (34): Sanskrit CommentsX agasthya, agasti, agastih, agastivaka, agastya, agastyah, agati, buka, dirghaphalaka, dirghashimbi, kanali, kharadhvansi, kumbhayoni, kumbhayonih, kusuma, muni, munidruma, munidrumah, munipriya, munipushpa, munitaru, pavitra, raktapushpa, shighrapushpa, sthulapushpa, surapriya, vaka, vakrapushpa, vakrapuspa, vakrapuspah, vangasena, vangasenah, vranapaha, vranari\nTamil (123): acaiyam, accam, acci, acham, acokam, acokam 1, acotakatti, agathi, agathi keerai, agaththi, agati, agatti, akacam, akacam 1, akaci, akaddi, akatti, akattikkirai, alakiyal, alakucivappi, alakucivappimaram, ampalacai, ampalakaimaram, anali, aracamiyam, argati, arokkiyamatar, arpakaimaram, arrokkiyamatar, athi, attikkirai, avappittaniti, avappittanti, cakanpanni, cantirantankacci, cayanti, cayanti 1, cenkutamaram, cevvakatti, cevvakattimaram, chittakathi, civappakatti, civappi1, iyaktam, kacikavakatti, kakanaman, karikam, karikamaram, kariram, karunchempa, kilimukkumaram, kilimukkumram, kiraiyakattimaram, kopavairini, kotikkalmaram, kunali1, kunkumapperikamaram, malaiyinmunimaram, malaiyinmunivam, malaiyinmunivanmara, malaiyinmunivanmaram, mayilmunimaram, mayilmunivam, mayilmunivan, mulakariyam, mulakiyam, muni, munipattiri, munippuntu, munitalam, munittorumam, munitturumam, mutanki, nattakatti, paluppuccarruccattukkati, pantukam, pantukam@, pantukamaram, pattiyamuriccan, pavalaakatti, pavalavakatti, pavalavakattimaram, peragatti, pintaputpam 1, piraimalar, pocaki, pocakimaram, pocam, pocam 1, pukal, pukal@, pukalmaram, sevvagatti, tanavakamaram, tetcanamuli, tetcanamurtti, tirakkappalakam, tirkkappalakam, turucu, tuvatacipattiri, tuvatecipattiri, ullulattitam, uppi, utumparam, utumparam1, vaka, vakai, vakai 1, vanitam, vankacenakam, vankacenakam#, vankacenakam@, vellakatti, vinpakam, vinpakavakatti, vintai, vittari, vittaru, vitteri, vittineruppu, vittutti, vittuttimaram, yatakam",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69094b6f1ba1d0b9964388ec214b1e16"
+  ],
+  "source_record_ids": [
+    "links-0016",
+    "links-0017"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69094b6f1ba1d0b9964388ec214b1e16"
+    ],
+    "source_record_ids": [
+      "links-0016",
+      "links-0017"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69094b6f1ba1d0b9964388ec214b1e16",
+          "Plant Name": "Sesbania grandiflora (Linn.) Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesbania grandiflora (Linn.) Pers.",
+        "source_record_id": "links-0016",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69094b6f1ba1d0b9964388ec214b1e16"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69094b6f1ba1d0b9964388ec214b1e16",
+          "Plant Name": "Sesbania grandiflora Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesbania grandiflora Pers.",
+        "source_record_id": "links-0017",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69094b6f1ba1d0b9964388ec214b1e16"
+      }
+    ],
+    "source_xplant_id": "69094b6f1ba1d0b9964388ec214b1e16",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

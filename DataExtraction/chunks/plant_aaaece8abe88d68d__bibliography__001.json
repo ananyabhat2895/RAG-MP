@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_aaaece8abe88d68d__bibliography__001",
+  "plant_id": "plant_aaaece8abe88d68d",
+  "plant_name": "Acacia pennata Willd.",
+  "botanical_name": "Acacia pennata",
+  "botanical_authority": "(L.) WILLD.",
+  "family": "MIMOSACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - WHITELAW AINSLIE; title: Title - MATERIA INDICA\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I\nBibliography entry: title: Title - Flora of Rajasthan Vol. 1\nBibliography entry: title: Title - Flora of Jowai Vol.I\nBibliography entry: title: Title - Flora of Gujarat State Vol 1\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nBibliography entry: title: Title - FOREST FLORA OF MEGHALAYA VOL 1\nBibliography entry: title: Title - A Forest Flora for Kumaon\nBibliography entry: title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nBibliography entry: title: Title - Flora of the Indian Desert\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-1\nBibliography entry: title: Title - The Flora of Orissa Volume 1\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7"
+  ],
+  "source_record_ids": [
+    "links-0005",
+    "links-1032"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7"
+    ],
+    "source_record_ids": [
+      "links-0005",
+      "links-1032"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7",
+          "Plant Name": "Acacia pennata Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Acacia pennata Willd.",
+        "source_record_id": "links-0005",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7",
+          "Plant Name": "Acacia pennata",
+          "Status": "Found"
+        },
+        "source_plant_name": "Acacia pennata",
+        "source_record_id": "links-1032",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7"
+      }
+    ],
+    "source_xplant_id": "0bb1c32b6a6a2631466a0bdf9fb07fb7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

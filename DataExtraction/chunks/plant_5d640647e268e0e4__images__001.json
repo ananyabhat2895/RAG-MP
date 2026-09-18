@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5d640647e268e0e4__images__001",
+  "plant_id": "plant_5d640647e268e0e4",
+  "plant_name": "Jasminum grandiflorum Linn.",
+  "botanical_name": "Jasminum grandiflorum",
+  "botanical_authority": "L.",
+  "family": "OLEACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff311478b3d5af8dacbbe6a4b3de3b54"
+  ],
+  "source_record_ids": [
+    "links-0773"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff311478b3d5af8dacbbe6a4b3de3b54"
+    ],
+    "source_record_ids": [
+      "links-0773"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff311478b3d5af8dacbbe6a4b3de3b54",
+          "Plant Name": "Jasminum grandiflorum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Jasminum grandiflorum Linn.",
+        "source_record_id": "links-0773",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff311478b3d5af8dacbbe6a4b3de3b54"
+      }
+    ],
+    "source_xplant_id": "ff311478b3d5af8dacbbe6a4b3de3b54",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

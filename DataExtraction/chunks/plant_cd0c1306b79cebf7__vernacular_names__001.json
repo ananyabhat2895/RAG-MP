@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_cd0c1306b79cebf7__vernacular_names__001",
+  "plant_id": "plant_cd0c1306b79cebf7",
+  "plant_name": "Trichosanthes dioica Roxb.",
+  "botanical_name": "Trichosanthes dioica",
+  "botanical_authority": "ROXB.",
+  "family": "CUCURBITACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (4): palval, palwal, parvar, parwal\nKannada (1): kahi-padavala\nMalayalam (2): kattu-potolam, patolam\nMarathi (3): kadu-padvala, palwal, parwar\nSanskrit (19): Sanskrit CommentsX bijagarbha, karkasa, karkasacchada, kulaka, meki, pallava, parvagi, parvara, patola, patolah, patolam, patoli, piluparnika, putulika, rajanama, rajapatola, rajiphala, supathya, vrittabija\nTamil (12): amirtapalai 2, kacamarttakam, karkkacatalam, kocatakam, kombu-pudalai, kombuppudalai, kompupputal, kuttakantam, musu musukai, peypputalai, peyu-padal, putalai\nTelugu (5): adavi-patola, kambupotala, kommu potla, kommu-potla, kommupotla\nTibetan (1): pa-to-la",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41cf9dd964d4c6534572145645ac9589"
+  ],
+  "source_record_ids": [
+    "links-1106"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41cf9dd964d4c6534572145645ac9589"
+    ],
+    "source_record_ids": [
+      "links-1106"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41cf9dd964d4c6534572145645ac9589",
+          "Plant Name": "Trichosanthes dioica Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Trichosanthes dioica Roxb.",
+        "source_record_id": "links-1106",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41cf9dd964d4c6534572145645ac9589"
+      }
+    ],
+    "source_xplant_id": "41cf9dd964d4c6534572145645ac9589",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

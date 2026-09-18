@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_60fdfd55e1bd2673__systems_of_medicine__001",
+  "plant_id": "plant_60fdfd55e1bd2673",
+  "plant_name": "Commiphora roxburghii (Arn.) Engl.",
+  "botanical_name": "Commiphora agallocha",
+  "botanical_authority": "ENGL.",
+  "family": "BURSERACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Folk Botanical Synonyms (2) - Balsamodendron agallocha WIGHT & ARN. Commiphora roxburghii ENGL.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25b83113b6fab0ab1732d7d7e153df7a/xclkon/ce996220e8cac4254dd54fbf9d183eab"
+  ],
+  "source_record_ids": [
+    "links-0667"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25b83113b6fab0ab1732d7d7e153df7a/xclkon/ce996220e8cac4254dd54fbf9d183eab"
+    ],
+    "source_record_ids": [
+      "links-0667"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25b83113b6fab0ab1732d7d7e153df7a/xclkon/ce996220e8cac4254dd54fbf9d183eab",
+          "Plant Name": "Commiphora roxburghii (Arn.) Engl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Commiphora roxburghii (Arn.) Engl.",
+        "source_record_id": "links-0667",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25b83113b6fab0ab1732d7d7e153df7a/xclkon/ce996220e8cac4254dd54fbf9d183eab"
+      }
+    ],
+    "source_xplant_id": "25b83113b6fab0ab1732d7d7e153df7a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

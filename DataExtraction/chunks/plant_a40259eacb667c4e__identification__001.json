@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a40259eacb667c4e__identification__001",
+  "plant_id": "plant_a40259eacb667c4e",
+  "plant_name": "Crinum asiaticum Linn.",
+  "botanical_name": "Crinum asiaticum",
+  "botanical_authority": "L.",
+  "family": "AMARYLLIDACEAE",
+  "section": "identification",
+  "content": "Plant name: Crinum asiaticum Linn. Botanical name: Crinum asiaticum Botanical authority: L. Family: AMARYLLIDACEAE Source xplant ID: 8b2274b1e1269ea7ad2a8edda77c821d",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b2274b1e1269ea7ad2a8edda77c821d"
+  ],
+  "source_record_ids": [
+    "links-1860"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b2274b1e1269ea7ad2a8edda77c821d"
+    ],
+    "source_record_ids": [
+      "links-1860"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b2274b1e1269ea7ad2a8edda77c821d",
+          "Plant Name": "Crinum asiaticum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Crinum asiaticum Linn.",
+        "source_record_id": "links-1860",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b2274b1e1269ea7ad2a8edda77c821d"
+      }
+    ],
+    "source_xplant_id": "8b2274b1e1269ea7ad2a8edda77c821d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

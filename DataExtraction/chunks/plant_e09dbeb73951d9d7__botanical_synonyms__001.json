@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_e09dbeb73951d9d7__botanical_synonyms__001",
+  "plant_id": "plant_e09dbeb73951d9d7",
+  "plant_name": "Carum copticum Benth. Hook.f.",
+  "botanical_name": "Trachyspermum ammi",
+  "botanical_authority": "(L.) SPRAGUE",
+  "family": "APIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Carum copticum BENTH. X Full Botanical citation - Carum copticum (L.) Hiern in Oliv., Fl. trop. Afr. 3: 12. 1871; S. Karthikeyan & al., Flowering Plants of India - Dicots. 1: 126. 2009. Ptychotis ajowan DC. X Full Botanical citation - Ptychotis ajowan (Roxb.) DC., Mem Soc. Phys. Hist. Nat. Geneve 4: 497. 1829; Prasanta Kumar Mukherjee and Lincoln constance, Umbelliferae (Apiaceae) of India, American Institute of Indian Studies, 162. 1993. Sison ammi HERB. MADR. EX WALL. X Full Botanical citation - Sison ammi L., Sp. pl. 252. 1753; S. Karthikeyan & al., Flowering Plants of India - Dicots. 1: 125. 2009.\nSynonym: Carum copticum BENTH.\nSynonym: Ptychotis ajowan DC.\nSynonym: Sison ammi HERB. MADR. EX WALL.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c/xclkon/b9563e0efa57c18349269948ab02c075",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c"
+  ],
+  "source_record_ids": [
+    "links-2138",
+    "links-2139"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c/xclkon/b9563e0efa57c18349269948ab02c075",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c"
+    ],
+    "source_record_ids": [
+      "links-2138",
+      "links-2139"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c/xclkon/b9563e0efa57c18349269948ab02c075",
+          "Plant Name": "Carum copticum Benth. Hook.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Carum copticum Benth. Hook.f.",
+        "source_record_id": "links-2138",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c/xclkon/b9563e0efa57c18349269948ab02c075"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c",
+          "Plant Name": "Trachyspermum ammi (Linn.) Sprague",
+          "Status": "Found"
+        },
+        "source_plant_name": "Trachyspermum ammi (Linn.) Sprague",
+        "source_record_id": "links-2139",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c"
+      }
+    ],
+    "source_xplant_id": "30456577a3723bdb91e400b8b7993f8c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

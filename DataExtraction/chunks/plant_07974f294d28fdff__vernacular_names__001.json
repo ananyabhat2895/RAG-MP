@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_07974f294d28fdff__vernacular_names__001",
+  "plant_id": "plant_07974f294d28fdff",
+  "plant_name": "Prunus persica Batsch.",
+  "botanical_name": "Prunus persica",
+  "botanical_authority": "BATSCH",
+  "family": "ROSACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): peach\nHindi (8): aaroo, aaru, aru, aru (peach), aru (peach0, aruka, baimi, reg\nKannada (3): piccesu, pichchisuhanne, pichesu\nSanskrit (5): Sanskrit CommentsX adu, alukah, arakah, aruka, virarukah\nTelugu (2): piccesu, pichesu\nTibetan (1): kham bu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2bf56a0d5e41aedc5b6c3540f9851c05"
+  ],
+  "source_record_ids": [
+    "links-0169",
+    "links-1392"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2bf56a0d5e41aedc5b6c3540f9851c05"
+    ],
+    "source_record_ids": [
+      "links-0169",
+      "links-1392"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2bf56a0d5e41aedc5b6c3540f9851c05",
+          "Plant Name": "Prunus persica Batsch.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Prunus persica Batsch.",
+        "source_record_id": "links-0169",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2bf56a0d5e41aedc5b6c3540f9851c05"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2bf56a0d5e41aedc5b6c3540f9851c05",
+          "Plant Name": "Prunus persica Batsch",
+          "Status": "Found"
+        },
+        "source_plant_name": "Prunus persica Batsch",
+        "source_record_id": "links-1392",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2bf56a0d5e41aedc5b6c3540f9851c05"
+      }
+    ],
+    "source_xplant_id": "2bf56a0d5e41aedc5b6c3540f9851c05",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

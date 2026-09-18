@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ed49ce82a376a972__vernacular_names__001",
+  "plant_id": "plant_ed49ce82a376a972",
+  "plant_name": "Trichosanthes cucumerina Linn.",
+  "botanical_name": "Trichosanthes cucumerina",
+  "botanical_authority": "L.",
+  "family": "CUCURBITACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): snake gourd\nHindi (8): caccinda, jangli chachinda, jangli chichonda, jangli-chi-chonda, janglichachinda, janglichichonda, paraval, rambel\nKannada (17): adla balli, adla kaayi, bettada padavala, bettada-padavala, bettadapadavala, hadla kaayi, kaadaadlu balli, kaadupadavala, kahai padavala, kahi padaval, kahi padavala, kahi podla, kahipadavala, kiri padavala, kiri podla, kiripodla, sanna padava\nMalayalam (10): kaippam-patolam, kaippampatolam, kaippanpatavalam, kattupatavalam, katupatolam, neipadavalam, padavalam, patavalam, patavalanna, pepatolam\nMarathi (14): jangli padavala, janglipadavala, jangliparela, kaadu padavala, kadupadavala, padaaval, padual, pauli, perula, ranachapadavali, ranpadavala, ranpadavali, ranparull, tarakaankadee\nSanskrit (43): Sanskrit CommentsX a, amritaphala, bijagarbha, cicindah, jvaranashana, jyotsna, kachhughni, kachhura, kadupatola, karkasacchadah, karkashachhada, karkashadala, kasabhanjanpatola, kasamaradana, katuka, katupatola, katuphala, kulaja, kulaka, kulakah, kushtari, kushthaha, lataphala, nagaphala, pancharajiphala, panduka, panduphala, panjura, patola, patolah, patolam, patri, pratika, rajapatola, rajimana, rajiphala, svadupatolah, tiktabhadraka, tiktaka, tiktottama, uttundiki, vajimana, varatikta\nTamil (88): alakaipputal, alakaipputol, amurtapalam, amurtatalakkoti, ankurattai, cikkacca, cikkaram, cikkarapputol, ciromanimatu, cirupala, cirupalapputar, cotuparipuntu, curekakkoti, curekam, icimalakkoti, icipalam, iracapalai, iracapalam, iracavarnam, itupalam, ituputal, karapputal, karapputol, kattup peipudal, kattup-pepudal, kattup-peyp-putal, kattuppeyppudal, kattuppeypputal, kattuppeypputalai, kattupputal, kattupputalankoti, katu peypputal, katutittakam, katutittam, kelucicantanam, kulaka, kulakam2, kulakapputol, kulakayam2, kulakkayakkoti, mirutapali, mituputalai, nattumatarai, nattuppeypputal, naypputal, naypputel, naypputol, pai-pudal, patailokam, patolakakkoti, patolakam, patolam1, patolanki, patolraci, pay pudal, paypudal, peai pudal, peipudal, pepadal, pepputal, perumputal, perumputarkoti, pey-pudal, peyppudal, peypputal, peypputalankoti, peypputol, peyputal, peyucitakkoti, pirottapantu, pudal, pudel, putal, putalattilakkam, putaval, takapittacamani, tilartatturuti2, tinnakkay2, tittacam, titticapputarkoti, tittikam2, utkaru, ututtiyankai, vatanali, vatarokari, venkompupputal, visaaveni, yalaranalaku",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8f2570e1527708ce5a2b15f50a8da412"
+  ],
+  "source_record_ids": [
+    "links-0848"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8f2570e1527708ce5a2b15f50a8da412"
+    ],
+    "source_record_ids": [
+      "links-0848"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8f2570e1527708ce5a2b15f50a8da412",
+          "Plant Name": "Trichosanthes cucumerina Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Trichosanthes cucumerina Linn.",
+        "source_record_id": "links-0848",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8f2570e1527708ce5a2b15f50a8da412"
+      }
+    ],
+    "source_xplant_id": "8f2570e1527708ce5a2b15f50a8da412",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

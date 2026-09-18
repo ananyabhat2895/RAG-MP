@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_34842fb0476ae771__images__001",
+  "plant_id": "plant_34842fb0476ae771",
+  "plant_name": "Justicia procumbens Linn.",
+  "botanical_name": "Justicia procumbens",
+  "botanical_authority": "L.",
+  "family": "ACANTHACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/482ec2e8fa12c967dd3f7f2df646a992"
+  ],
+  "source_record_ids": [
+    "links-1455"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/482ec2e8fa12c967dd3f7f2df646a992"
+    ],
+    "source_record_ids": [
+      "links-1455"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/482ec2e8fa12c967dd3f7f2df646a992",
+          "Plant Name": "Justicia procumbens Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Justicia procumbens Linn.",
+        "source_record_id": "links-1455",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/482ec2e8fa12c967dd3f7f2df646a992"
+      }
+    ],
+    "source_xplant_id": "482ec2e8fa12c967dd3f7f2df646a992",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

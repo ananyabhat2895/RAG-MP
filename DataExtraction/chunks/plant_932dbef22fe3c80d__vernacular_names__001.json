@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_932dbef22fe3c80d__vernacular_names__001",
+  "plant_id": "plant_932dbef22fe3c80d",
+  "plant_name": "Cayratia pedata (Wall.) Gagnep.",
+  "botanical_name": "Cayratia pedata",
+  "botanical_authority": "(LAM.) JUSS. EX GAGNEP. var. glabra GAMBLE",
+  "family": "VITACEAE",
+  "section": "vernacular_names",
+  "content": "Kannada (2): kaama pathige balli, kaamapatige balli\nMalayalam (2): amarccakkoti, corivalli\nMarathi (1): ghotapadvela\nSanskrit (1): Sanskrit CommentsX godhapadi\nTamil (2): kattup pirantai, kattuperandai\nTelugu (3): edakula mandulamari, gummadi tiga, gummaditige",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b692f957b4e6ff4f43b3fe5b717583d"
+  ],
+  "source_record_ids": [
+    "links-1004"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b692f957b4e6ff4f43b3fe5b717583d"
+    ],
+    "source_record_ids": [
+      "links-1004"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b692f957b4e6ff4f43b3fe5b717583d",
+          "Plant Name": "Cayratia pedata (Wall.) Gagnep.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cayratia pedata (Wall.) Gagnep.",
+        "source_record_id": "links-1004",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b692f957b4e6ff4f43b3fe5b717583d"
+      }
+    ],
+    "source_xplant_id": "7b692f957b4e6ff4f43b3fe5b717583d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

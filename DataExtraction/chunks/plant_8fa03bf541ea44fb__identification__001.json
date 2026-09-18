@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8fa03bf541ea44fb__identification__001",
+  "plant_id": "plant_8fa03bf541ea44fb",
+  "plant_name": "Terminalia chebula Retz.",
+  "botanical_name": "Terminalia chebula",
+  "botanical_authority": "RETZ. & WILLD.",
+  "family": "COMBRETACEAE",
+  "section": "identification",
+  "content": "Plant name: Terminalia chebula Retz. Botanical name: Terminalia chebula Botanical authority: RETZ. & WILLD. Family: COMBRETACEAE Source xplant ID: 1c090b5873f7cf6d85f730f4e934ce43",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c090b5873f7cf6d85f730f4e934ce43"
+  ],
+  "source_record_ids": [
+    "links-0694"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c090b5873f7cf6d85f730f4e934ce43"
+    ],
+    "source_record_ids": [
+      "links-0694"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c090b5873f7cf6d85f730f4e934ce43",
+          "Plant Name": "Terminalia chebula Retz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Terminalia chebula Retz.",
+        "source_record_id": "links-0694",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c090b5873f7cf6d85f730f4e934ce43"
+      }
+    ],
+    "source_xplant_id": "1c090b5873f7cf6d85f730f4e934ce43",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

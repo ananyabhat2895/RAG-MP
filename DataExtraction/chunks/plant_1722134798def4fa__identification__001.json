@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_1722134798def4fa__identification__001",
+  "plant_id": "plant_1722134798def4fa",
+  "plant_name": "Quercus infectoria Oliv.",
+  "botanical_name": "Quercus infectoria",
+  "botanical_authority": "OLIV.",
+  "family": "FAGACEAE",
+  "section": "identification",
+  "content": "Plant name: Quercus infectoria Oliv. Botanical name: Quercus infectoria Botanical authority: OLIV. Family: FAGACEAE Source xplant ID: 6d449075122ad5431210243c5b0409b7",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d449075122ad5431210243c5b0409b7"
+  ],
+  "source_record_ids": [
+    "links-0095"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d449075122ad5431210243c5b0409b7"
+    ],
+    "source_record_ids": [
+      "links-0095"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d449075122ad5431210243c5b0409b7",
+          "Plant Name": "Quercus infectoria Oliv.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Quercus infectoria Oliv.",
+        "source_record_id": "links-0095",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d449075122ad5431210243c5b0409b7"
+      }
+    ],
+    "source_xplant_id": "6d449075122ad5431210243c5b0409b7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

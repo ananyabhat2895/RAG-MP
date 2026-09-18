@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_0f5085043b5ac726__vernacular_names__001",
+  "plant_id": "plant_0f5085043b5ac726",
+  "plant_name": "Capparis zeylanica Linn.",
+  "botanical_name": "Capparis zeylanica",
+  "botanical_authority": "L.",
+  "family": "CAPPARACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (11): aradanda, ardanda, bauri, gitoran, govindaphal, hins, hinsa, his, jhiris, kalhins, khalis\nKannada (19): aathundi kaayi, anthundi kaayi, anthundikaayi, athendri, govinda phala, govindha phala, loothi kaayi, mullu kaarthi, mullukarti, mullukattari, mullukatthari, muthukallari, mutthu kallaari, thotte balli, totla, totli, totte, tottula, tottulla\nMarathi (7): ardandi, govindi, taramati, vaagati, vaganti, wag, wagati\nSanskrit (15): Sanskrit CommentsX govindi, granthila, grdhranakhi, hankaru, kantakalata, karambha, katukandari, kinkani, krishangi, tapasapriya, vartala, vyaghraghanti, vyaghranakhi, vyaghrapada, vyagranakhi\nTamil (101): aathondai, adhandai, adondai, alanday, alavirukkam, alavirutcam 1, antai 2, anthundi-kai, atandai, atandam, atanday, atantai, atantam, atontai, avavirutcam, cakacopai, cakacopam, cakacopeku, cala, calavirutcam 2, carkkalam, cikkolikkulal, cilesmavinacini, cisnam, cuvacutittam, cuvatutittapalatai, igudi, ikuti, indu, intai 1, intu 1, ka-thotti, kaguturatti, kakanturatti 1, kakanturatti 2, kakatturatti 1, kakatturatti 2, kakaya, kalatturatti, kalturatti, kapaccar, karrotti 1, karrotti 2, karumoli, karumolikkoti, katatti, katotti, kattatti, kattotti, kattotti#, kattotti@, kayttotti, kutantakam, makakalankam, marukam, migupalattam, mikupalavantam, mikupattiri, mikupattirikkoti, mikuppalattam 1, mikuppalattam 2, morandan, murrontai, murruratti, ontipparappan, oritamiyakkoti, oritamiyam, orumulaimatar, ottuppalati, paltaittuvam, patam, tantai, tondai, tontai 1, tontakai, toratti 1, tulambikkiri, tulampi, tulampikkiri, tulampikkoti, turatti, turatticceti, turattimaram, tuspirataru, ukkiracakkoti, ukkiracam, ukkiracatam, ukkiracava, ukkiracavaki, ukkiracavakikoti, ukkiracca, ukkiracukirantam, ukkiracurakkoti, ukkiracuravar, ukkirakattotti, ukkiratotticceti, ulolarcisnam, vaciyakkani, viyanicham, viyanniccam, yalavarutam\nTelugu (26): aadonda, adavinima, adonda, adondathivva, adontha, aradonda, aradoonda, arhonda, ari donda, aridonda, arthondah, arudonda, atonda, chilli gara, chittigara, cittigara, doddi, paalaki, palaki, palikee, palleke, pallike, sabbi, todaku, uppi, vaminta",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58291bd7c778fcf41269749eb9425e36",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58291bd7c778fcf41269749eb9425e36/xclkon/fe8d7c17a19192cf997ca8ec6288231e"
+  ],
+  "source_record_ids": [
+    "links-0537",
+    "links-0713"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58291bd7c778fcf41269749eb9425e36",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58291bd7c778fcf41269749eb9425e36/xclkon/fe8d7c17a19192cf997ca8ec6288231e"
+    ],
+    "source_record_ids": [
+      "links-0537",
+      "links-0713"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58291bd7c778fcf41269749eb9425e36",
+          "Plant Name": "Capparis zeylanica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Capparis zeylanica Linn.",
+        "source_record_id": "links-0537",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58291bd7c778fcf41269749eb9425e36"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58291bd7c778fcf41269749eb9425e36/xclkon/fe8d7c17a19192cf997ca8ec6288231e",
+          "Plant Name": "Capparis horrida Linn. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Capparis horrida Linn. f.",
+        "source_record_id": "links-0713",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58291bd7c778fcf41269749eb9425e36/xclkon/fe8d7c17a19192cf997ca8ec6288231e"
+      }
+    ],
+    "source_xplant_id": "58291bd7c778fcf41269749eb9425e36",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

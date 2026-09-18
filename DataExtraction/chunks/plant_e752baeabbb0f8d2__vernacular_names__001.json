@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_e752baeabbb0f8d2__vernacular_names__001",
+  "plant_id": "plant_e752baeabbb0f8d2",
+  "plant_name": "Bauhinia variegata Linn.",
+  "botanical_name": "Bauhinia variegata",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): orchid tree\nHindi (19): barial, dhak, goriyal, gurial, gwiar, kachnar, kancanar, kandan, kaniar, karal, karial, khairwal, khwairaal, khwairai, koliar, kural, padrian, papri, plah\nKannada (42): arishina thaega, arisinantige, arjuna, arsantega, ayata, ayisha, bilikanchavala, bilikanchivala, bilikancivala, bilikanjivala, irkubalitu, irkumbalithu, irkumbalitu, jhinjero, kaanchanaara, kanchivala, kanchivalado, kanchiyalapada, kanchvaala, kancivala, kanjivala, karalabhogi, karalbogi, kempu kanchivaala, kempu mandara, kempukancivala, kempukancivalada, kempukanjivala, kempumandar, kempumandara, kogilepukka, kondaalka, kondalka, kovindaara, mandaara, mandara, pulikogelapukka, seyadla, ulipa, ulipe, ulpe, utipa\nMalayalam (17): chommandara, chovanna-mandaru, chovannamandaree, chovannamandaru, chuvanna-mandaram, chuvannamandaram, chuvannamandari, chuvannamundiri, cuvannamandaram, konnu, konnumandaram, kovidaram, malayakatti, mandaram, suvannamandaram, unna, unnu\nMarathi (7): kanaraj, kanchan, kavidara, rakta-kanchan, raktakanchan, rakthakanchan, thaur\nSanskrit (45): Sanskrit CommentsX ashmantaka, asphota, camarika, chamari, chamarika, champavidala, gandari, girija, kacanara, kanakaprabha, kancanara, kancanarah, kancanaraka, kanchana, kanchanala, kanchanar, kanchanara, kanchanarah, kanchanaraka, kantar, karaka, karbudara, kovidar, kovidara, kovidarah, kuddala, kuddalah, kuddara, kuli, kundali, mahapushpa, murva, pakari, raktakanchana, raktapushpa, shonapushpaka, suvarnara, svalpakesari, tamrapushpa, uddalaka, yamalachhada, yamalapatrakah, yugapatraka, yugmapatra, yugmapatrah\nTamil (45): akatuti, aranpucaikkerramaram1, aranpucaimaram, calacacankati, cekappumantarai, cemmantarai, cempuvatti, cevappumantarai, cevvarattinam, civappumantarai, irattakancanam, kammukari, kammukarimaram, kancanakam, kantaputpam, kuni, kunkumaccemmantarai, kunkumamantari, kuntalam, malaiyatti, mandarai, mandharai, mantarai, maramantarai, nattumantarai, palukam 1, palukamaram, palupam 1, pattumantarai, periyavatti, perumantarai, potattam, segappumanchori, segappumandarai, segappumandrai, segapu manchori, segapu-munthari, semmandarai, shemmandarai, sigappu-mandarai, tamiram, tampiraputpi, vataraci, vellaippuvatti, vennatti",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48f469edb3ed892b684c9dcf655e843e"
+  ],
+  "source_record_ids": [
+    "links-0889",
+    "links-1070",
+    "links-2018"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48f469edb3ed892b684c9dcf655e843e"
+    ],
+    "source_record_ids": [
+      "links-0889",
+      "links-1070",
+      "links-2018"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48f469edb3ed892b684c9dcf655e843e",
+          "Plant Name": "Bauhinia variegata Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bauhinia variegata Linn.",
+        "source_record_id": "links-0889",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48f469edb3ed892b684c9dcf655e843e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48f469edb3ed892b684c9dcf655e843e",
+          "Plant Name": "Bauhinia variegata",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bauhinia variegata",
+        "source_record_id": "links-1070",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48f469edb3ed892b684c9dcf655e843e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48f469edb3ed892b684c9dcf655e843e",
+          "Plant Name": "Bauhinia variegata (A variety)",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bauhinia variegata (A variety)",
+        "source_record_id": "links-2018",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48f469edb3ed892b684c9dcf655e843e"
+      }
+    ],
+    "source_xplant_id": "48f469edb3ed892b684c9dcf655e843e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

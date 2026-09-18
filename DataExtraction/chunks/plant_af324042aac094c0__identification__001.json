@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_af324042aac094c0__identification__001",
+  "plant_id": "plant_af324042aac094c0",
+  "plant_name": "Sida spinosa Linn.",
+  "botanical_name": "Sida alba",
+  "botanical_authority": "L.",
+  "family": "MALVACEAE",
+  "section": "identification",
+  "content": "Plant name: Sida spinosa Linn. Botanical name: Sida alba Botanical authority: L. Family: MALVACEAE Source xplant ID: 7621992d08641c0676e7761e5775f25f",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7621992d08641c0676e7761e5775f25f/xclkon/5e97d527ce4dc1d2979d24bec30ac556"
+  ],
+  "source_record_ids": [
+    "links-0272"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7621992d08641c0676e7761e5775f25f/xclkon/5e97d527ce4dc1d2979d24bec30ac556"
+    ],
+    "source_record_ids": [
+      "links-0272"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7621992d08641c0676e7761e5775f25f/xclkon/5e97d527ce4dc1d2979d24bec30ac556",
+          "Plant Name": "Sida spinosa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida spinosa Linn.",
+        "source_record_id": "links-0272",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7621992d08641c0676e7761e5775f25f/xclkon/5e97d527ce4dc1d2979d24bec30ac556"
+      }
+    ],
+    "source_xplant_id": "7621992d08641c0676e7761e5775f25f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

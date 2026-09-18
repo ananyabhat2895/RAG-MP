@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_bce94f4e224ce9a4__images__001",
+  "plant_id": "plant_bce94f4e224ce9a4",
+  "plant_name": "Smilax glabra Roxb.",
+  "botanical_name": "Smilax glabra",
+  "botanical_authority": "ROXB.",
+  "family": "SMILACACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/752adf6fd39d666b4c30eae580e40873"
+  ],
+  "source_record_ids": [
+    "links-0465"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/752adf6fd39d666b4c30eae580e40873"
+    ],
+    "source_record_ids": [
+      "links-0465"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/752adf6fd39d666b4c30eae580e40873",
+          "Plant Name": "Smilax glabra Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Smilax glabra Roxb.",
+        "source_record_id": "links-0465",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/752adf6fd39d666b4c30eae580e40873"
+      }
+    ],
+    "source_xplant_id": "752adf6fd39d666b4c30eae580e40873",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_f546cd7a5552914f__vernacular_names__002",
+  "plant_id": "plant_f546cd7a5552914f",
+  "plant_name": "Saccharum spontaneum Linn.",
+  "botanical_name": "Saccharum spontaneum",
+  "botanical_authority": "L.",
+  "family": "POACEAE",
+  "section": "vernacular_names",
+  "content": "Telugu (24): billu gaddi, billugaddi, kaaki veduru, kaakicheruku, kaavi veduru, kaki ceruku, kaki gaddi, kaki-cheraku, kakiceraku, kakicheraku, kakiveduru, koregadi, naga saramu, raellugaddi, rallu, rasaalamu, rasalamu, rellu, rellu gaddi, rellugaddi, verri cheraku, verriceraku, verricheruku, vetticheraku\nTibetan (1): ka se ksu ka\nUrdu (1): bikh kans",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb6ad1ac54a01c1ffaeddace467aa144"
+  ],
+  "source_record_ids": [
+    "links-0731"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb6ad1ac54a01c1ffaeddace467aa144"
+    ],
+    "source_record_ids": [
+      "links-0731"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb6ad1ac54a01c1ffaeddace467aa144",
+          "Plant Name": "Saccharum spontaneum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Saccharum spontaneum Linn.",
+        "source_record_id": "links-0731",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb6ad1ac54a01c1ffaeddace467aa144"
+      }
+    ],
+    "source_xplant_id": "eb6ad1ac54a01c1ffaeddace467aa144",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

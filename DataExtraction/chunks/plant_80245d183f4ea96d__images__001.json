@@ -1,0 +1,84 @@
+{
+  "chunk_id": "plant_80245d183f4ea96d__images__001",
+  "plant_id": "plant_80245d183f4ea96d",
+  "plant_name": "Cyclea burmanni Miers.",
+  "botanical_name": "Cyclea arnotii",
+  "botanical_authority": "MIERS.",
+  "family": "MENISPERMACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/276e74a55544bd9c69f8907a3dbf71a7/xclkon/b8daf3cbe6469cbb17c2ea883d858255",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/276e74a55544bd9c69f8907a3dbf71a7/xclkon/e34e0bb0cccedf7c994ee4a9480da21b",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/276e74a55544bd9c69f8907a3dbf71a7"
+  ],
+  "source_record_ids": [
+    "links-1498",
+    "links-1499",
+    "links-1501",
+    "links-1504"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/276e74a55544bd9c69f8907a3dbf71a7/xclkon/b8daf3cbe6469cbb17c2ea883d858255",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/276e74a55544bd9c69f8907a3dbf71a7/xclkon/e34e0bb0cccedf7c994ee4a9480da21b",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/276e74a55544bd9c69f8907a3dbf71a7"
+    ],
+    "source_record_ids": [
+      "links-1498",
+      "links-1499",
+      "links-1501",
+      "links-1504"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/276e74a55544bd9c69f8907a3dbf71a7/xclkon/b8daf3cbe6469cbb17c2ea883d858255",
+          "Plant Name": "Cyclea burmanni Miers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cyclea burmanni Miers.",
+        "source_record_id": "links-1498",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/276e74a55544bd9c69f8907a3dbf71a7/xclkon/b8daf3cbe6469cbb17c2ea883d858255"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/276e74a55544bd9c69f8907a3dbf71a7/xclkon/e34e0bb0cccedf7c994ee4a9480da21b",
+          "Plant Name": "Cyclea peltata H.f.& T.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cyclea peltata H.f.& T.",
+        "source_record_id": "links-1499",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/276e74a55544bd9c69f8907a3dbf71a7/xclkon/e34e0bb0cccedf7c994ee4a9480da21b"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/276e74a55544bd9c69f8907a3dbf71a7",
+          "Plant Name": "Cyclea arnotii Miers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cyclea arnotii Miers.",
+        "source_record_id": "links-1501",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/276e74a55544bd9c69f8907a3dbf71a7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/276e74a55544bd9c69f8907a3dbf71a7/xclkon/e34e0bb0cccedf7c994ee4a9480da21b",
+          "Plant Name": "Cyclea peltata",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cyclea peltata",
+        "source_record_id": "links-1504",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/276e74a55544bd9c69f8907a3dbf71a7/xclkon/e34e0bb0cccedf7c994ee4a9480da21b"
+      }
+    ],
+    "source_xplant_id": "276e74a55544bd9c69f8907a3dbf71a7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

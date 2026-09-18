@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_703d248a3fc85ec0__systems_of_medicine__001",
+  "plant_id": "plant_703d248a3fc85ec0",
+  "plant_name": "Lagenaria siceraria (Mol.) Standl.",
+  "botanical_name": "Lagenaria siceraria",
+  "botanical_authority": "(MOLINA) STANDLEY",
+  "family": "CUCURBITACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (4) - Cucumis lagenarius DUM. Cucurbita lagenaria L. X Full Botanical citation - Cucurbita lagenaria L.\nSystem of medicine: Sp. Pl. 1010. 1753; R.D.Gaur\nSystem of medicine: Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes)\nSystem of medicine: TransMedia\nSystem of medicine: Srinagar (Garhwal)\nSystem of medicine: India\nSystem of medicine: 178. 1999. Lagenaria leucantha RUSBY. Lagenaria vulgaris SER. X Full Botanical citation - Lagenaria vulgaris Ser. in Mem. Soc. Phys. Hist. Nat. Geneve 3(1): 25. 1825; H.L. Chakravarty\nSystem of medicine: Fascicles of Flora of India\nSystem of medicine: Fasicle II\nSystem of medicine: Cucurbitaceae\nSystem of medicine: BSI\nSystem of medicine: Howrah\nSystem of medicine: 65. 1982",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408"
+  ],
+  "source_record_ids": [
+    "links-0078",
+    "links-0079"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408"
+    ],
+    "source_record_ids": [
+      "links-0078",
+      "links-0079"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408",
+          "Plant Name": "Lagenaria siceraria (Mol.) Standl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lagenaria siceraria (Mol.) Standl.",
+        "source_record_id": "links-0078",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408",
+          "Plant Name": "Lagenaria siceraria Standl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lagenaria siceraria Standl.",
+        "source_record_id": "links-0079",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408"
+      }
+    ],
+    "source_xplant_id": "5e94437cadafc8b817a3bd21f1e4b408",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}
