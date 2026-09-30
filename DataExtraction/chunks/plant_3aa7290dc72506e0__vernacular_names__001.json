@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_3aa7290dc72506e0__vernacular_names__001",
+  "plant_id": "plant_3aa7290dc72506e0",
+  "plant_name": "Heliotropium indicum",
+  "botanical_name": "Heliotropium indicum",
+  "botanical_authority": "L.",
+  "family": "BORAGINACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (7): hathi-shura, hatisura, hatta-juri, hattajurie, hattasura, siriari, siriyari\nKannada (14): bhoorundi, celubaladagidha, chaelu baalada gida, chaelu kondi gida, chaelu mani, chaelubaala, chaeluvaali, chalukondee, chelu baalada gida, chelu kade, chelukondi gida, chelumani, gurugalu gida, hanni gida\nMalayalam (7): bena-patsja, tekkata, tekkita, teliyenni, telkata, telkkata, terkkata\nMarathi (3): ajeru, bhurundi, burundi\nSanskrit (9): Sanskrit CommentsX bhurundi, duralabha, hastishundi, hastisunda, hatisunada, nagadanti, srihastini, suryavarta, vrscikali\nTamil (110): alavancimuli, amarataru, anai vanaki, anaivanakki, anaivanakki1, anaiyatuvalanki, callaki1, callakika, callakikacceti, callakikam, carucivappi, cetaipputu, ciru tel kotukki, ciru tel kotukku, ciruntotti, cirutel kotukku, cirutetkotukku, civappuccaru, coratu, curapi4, curapika, curapikacceti, intirakali, ipatantam, kacapatciyai, kakkali, kakkalicceti, kakoli, kakolika, kamatutikam, karkkoli1, karkkolikam, karkolicacceti, karkoni, karkonicceti, katiyavisatti, katutti, kotukku, kotuvisam, kulicam1, macakoli, mammataki, mammatakicceti, mankaiyanatam, nakari1, nakarikauli, nakatanti1, nakir, nakiracceti, nakkaricceti, nakkipoo, nakkippu, narakanati, narakanaticceti, neyacitacceti, neyacitam, otamar, parppatanti, perun tel kotukki, purunti 1, tamiraputpikam, tayaikkonran1, tayl-kodugoo, tekatai1, tekutti, tekuttikai, tel kotukki, tel-kodukki, telkodduki, telkodukkai, telkotukki1, telkotukku, telkotukkucceti, telmani, telukkotti, tenkitacceti, tenkitam, tenkittam, tenkitti, tet kodukki, tetkataippun, tetkotukki, tetkotukku, tetkotukkucceti, tevatittara, thael kodukkupoondu, theikodikkupoondu, thel-kodukku, thel-koduku, thelkodukku, turamam@, turmam, utti, utticceti, uttimaram, uttiram#, uttiram$, uttiram1, uttiram@, vanaccetanki, venirpaccai, verirru, viruccika 1, viruccikakarani, viruccikapputu, viruccikayuttatu, viruccikkarani, viruccikotukkucceti, virutcikapputu, yanaivananki 1\nTelugu (3): kodikki, naga danti, nagadanti\nUrdu (1): hathisundi buti ka pani",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171"
+  ],
+  "source_record_ids": [
+    "links-0412",
+    "links-0413"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171"
+    ],
+    "source_record_ids": [
+      "links-0412",
+      "links-0413"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171",
+          "Plant Name": "Heliotropium indicum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Heliotropium indicum",
+        "source_record_id": "links-0412",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171",
+          "Plant Name": "Heliotropium indicum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Heliotropium indicum Linn.",
+        "source_record_id": "links-0413",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171"
+      }
+    ],
+    "source_xplant_id": "c9fb71a0860e0d8a65c8c53554b10171",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

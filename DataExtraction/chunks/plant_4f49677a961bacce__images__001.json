@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4f49677a961bacce__images__001",
+  "plant_id": "plant_4f49677a961bacce",
+  "plant_name": "Malva rotundifolia Linn.",
+  "botanical_name": "Malva rotundifolia",
+  "botanical_authority": "L.",
+  "family": "MALVACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01a432273760799f30363f6cbe9c261a"
+  ],
+  "source_record_ids": [
+    "links-1880"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01a432273760799f30363f6cbe9c261a"
+    ],
+    "source_record_ids": [
+      "links-1880"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01a432273760799f30363f6cbe9c261a",
+          "Plant Name": "Malva rotundifolia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Malva rotundifolia Linn.",
+        "source_record_id": "links-1880",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01a432273760799f30363f6cbe9c261a"
+      }
+    ],
+    "source_xplant_id": "01a432273760799f30363f6cbe9c261a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

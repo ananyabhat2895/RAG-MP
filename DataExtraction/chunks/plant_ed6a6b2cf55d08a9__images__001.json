@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ed6a6b2cf55d08a9__images__001",
+  "plant_id": "plant_ed6a6b2cf55d08a9",
+  "plant_name": "Annona squamosa Linn.",
+  "botanical_name": "Annona squamosa",
+  "botanical_authority": "L.",
+  "family": "ANNONACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f44b0ac0cb0b9c0866aa5712899d702d"
+  ],
+  "source_record_ids": [
+    "links-1804"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f44b0ac0cb0b9c0866aa5712899d702d"
+    ],
+    "source_record_ids": [
+      "links-1804"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f44b0ac0cb0b9c0866aa5712899d702d",
+          "Plant Name": "Annona squamosa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Annona squamosa Linn.",
+        "source_record_id": "links-1804",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f44b0ac0cb0b9c0866aa5712899d702d"
+      }
+    ],
+    "source_xplant_id": "f44b0ac0cb0b9c0866aa5712899d702d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ca8a9a81fe36c8d4__vernacular_names__001",
+  "plant_id": "plant_ca8a9a81fe36c8d4",
+  "plant_name": "Eucalyptus globulus Labill.",
+  "botanical_name": "Eucalyptus globulus",
+  "botanical_authority": "LABILL",
+  "family": "MYRTACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): blue gum, eucalyptus, fever tree\nHindi (2): safeda, yukeliptas\nKannada (6): karpoora thaila vriksha, neelagiri thailada mara, neelgiri mara, nilagiri mara, taila, teilada\nMalayalam (1): yukkalimaram\nSanskrit (5): Sanskrit CommentsX haritaparna, nilaniryasa, sugandhapatra, tailaparnah, tailaparni\nTamil (5): kapura maram, karpuramaram, karupuramaram, nilappicin, yukkalimaram",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeb0f6081ccf54f31818fe441d374ff7"
+  ],
+  "source_record_ids": [
+    "links-1904"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeb0f6081ccf54f31818fe441d374ff7"
+    ],
+    "source_record_ids": [
+      "links-1904"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeb0f6081ccf54f31818fe441d374ff7",
+          "Plant Name": "Eucalyptus globulus Labill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Eucalyptus globulus Labill.",
+        "source_record_id": "links-1904",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeb0f6081ccf54f31818fe441d374ff7"
+      }
+    ],
+    "source_xplant_id": "eeb0f6081ccf54f31818fe441d374ff7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

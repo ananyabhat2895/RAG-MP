@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_baa87f359612e27e__distribution__001",
+  "plant_id": "plant_baa87f359612e27e",
+  "plant_name": "Vetiveria zizanioides (Linn.) Nash",
+  "botanical_name": "Vetiveria zizanioides",
+  "botanical_authority": "(L.) NASH",
+  "family": "POACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 3\nDistribution entry: author: Author - KANJILAL & BOR; distribution: Distribution; title: Title - FLORA OF ASSAM\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)\nDistribution entry: author: Author - Ed B D Sharma, S Karthikeyan, N P Singh; distribution: Distribution; title: Title - Flora of Maharashrta State (Monocotyledons)\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - Dr. Narain Singh Chauhan; distribution: Distribution; title: Title - Medicinal and Aromatic Plants of Himachal Pradesh\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 2\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd"
+  ],
+  "source_record_ids": [
+    "links-2027",
+    "links-2028"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd"
+    ],
+    "source_record_ids": [
+      "links-2027",
+      "links-2028"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd",
+          "Plant Name": "Vetiveria zizanioides (Linn.) Nash",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vetiveria zizanioides (Linn.) Nash",
+        "source_record_id": "links-2027",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd",
+          "Plant Name": "Vetiveria zizanioides (Linn.) Wash.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vetiveria zizanioides (Linn.) Wash.",
+        "source_record_id": "links-2028",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd"
+      }
+    ],
+    "source_xplant_id": "217b180c053684eecb846d14db4ddebd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

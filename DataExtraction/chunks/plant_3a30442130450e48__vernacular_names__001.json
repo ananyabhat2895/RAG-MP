@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_3a30442130450e48__vernacular_names__001",
+  "plant_id": "plant_3a30442130450e48",
+  "plant_name": "Eupatorium triplinerve Vahl.",
+  "botanical_name": "Eupatorium triplinerve",
+  "botanical_authority": "VAHL",
+  "family": "ASTERACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (1): ayapana\nKannada (1): aayaa paana\nMalayalam (3): ayyampana, ayyappana, visappacca\nMarathi (2): ayapana, ayapanum\nSanskrit (4): Sanskrit CommentsX ajaparna, ajaparnah, ayapana, ayaparnah\nTamil (4): ayapani, ayapanie, ayappanai, ayappani",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5b59b1be20119e838a4aa24944e75e04"
+  ],
+  "source_record_ids": [
+    "links-0250"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5b59b1be20119e838a4aa24944e75e04"
+    ],
+    "source_record_ids": [
+      "links-0250"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5b59b1be20119e838a4aa24944e75e04",
+          "Plant Name": "Eupatorium triplinerve Vahl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Eupatorium triplinerve Vahl.",
+        "source_record_id": "links-0250",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5b59b1be20119e838a4aa24944e75e04"
+      }
+    ],
+    "source_xplant_id": "5b59b1be20119e838a4aa24944e75e04",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_89ab3fa0d8479093__systems_of_medicine__001",
+  "plant_id": "plant_89ab3fa0d8479093",
+  "plant_name": "Lawsonia inermis Linn.",
+  "botanical_name": "Lawsonia inermis",
+  "botanical_authority": "L.",
+  "family": "LYTHRACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (2) - Lawsonia alba LAM. X Full Botanical citation - Lawsonia alba Lam. Encycl. 3: 106. 1789; N.P.Singh & al.\nSystem of medicine: Fl. Maharashtra State Dicotyledones\nSystem of medicine: 2: Fl. India Ser 2: 40. 2001. Lawsonia spinosa L..",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5"
+  ],
+  "source_record_ids": [
+    "links-0687"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5"
+    ],
+    "source_record_ids": [
+      "links-0687"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5",
+          "Plant Name": "Lawsonia inermis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lawsonia inermis Linn.",
+        "source_record_id": "links-0687",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5"
+      }
+    ],
+    "source_xplant_id": "87ff7185526f449e897125584c3d7fe5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

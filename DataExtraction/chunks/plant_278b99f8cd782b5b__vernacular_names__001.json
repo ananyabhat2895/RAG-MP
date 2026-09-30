@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_278b99f8cd782b5b__vernacular_names__001",
+  "plant_id": "plant_278b99f8cd782b5b",
+  "plant_name": "Mimosa pudica Linn.",
+  "botanical_name": "Mimosa pudica",
+  "botanical_authority": "L.",
+  "family": "MIMOSACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): sensitive plant, touch-shy plant\nHindi (10): chui mui, lajalu, lajawanti, lajjavanti, lajjavati, lajvanti, lajwanti, najuk, sharminda, sharmpate\nKannada (27): ganda kaali, hadergitte, lajja, lajjaavathi, lajjavat, lajjavathy, lajje, muchha muri, mudugudavara, mudugudavare, muduguthaavare, mudurelegida, muthamurike, mutlamurike, muttalu muduru, muttalu muruka, muttidare muni, muttidaremuniva, naachike gida, naachike mullu, nachikay-gida, nacike, nacikegida, nacikimullu, nasike, thotuthe-ramum, thotutheramum\nMalayalam (9): thendarmani, thotavadi, thottamvati, thottavadi, tindarmani, tintarmani, tottalvati, tottamvati, tottavati\nMarathi (4): laajari, lajaalu, lajalu, lajri\nSanskrit (34): Sanskrit CommentsX ajalikalika, alambusa, anjalikaraka, anjalikarika, asrarodhani, gandamalika, kandiri, khadiraka, khadirpatrika, lajja, lajjalu, lajjaluh, lajjika, mahabhita, mahaushadhi, mamaskari, namaskari, prasarini, raktamula, raktapadi, samanga, samangga, samipatra, saptaparni, shamipatra, sparshalajja, sprikha, svagupta, tamra, tamramula, varaha-kranta, varahakranta, varakranta, vashini\nTamil (68): al, alavananki1, alcunanki, alcunankicceti, arcalakacceti, arcalakam, camankai, camanki, caminnai, cayanti2, cillam3, cinunki, cunti1, cuntil, cuntiyilai, curukki2, cuvetamuli, cuvetamulinicceti, cuvetavati, ilaccaki, intiriyakkoti, intu1, iracalakacceti, iracalakam, kacankukanni, kacankukannicceti, kacirorttam, kasirottam, laccaru, milananceti, namakkari, nilaccurunki, palakamoti, palakamoticceti, samangai, tamiramulam1, tantakkari, thotalpadi, thotalvadi, thottai-surungi, thottal shurungi, thottal-surungi, thottalsurungi, thottalvadi, thottar chunnungi, thottar-chunungi, thottasiningi, total vadie, totalvadi, tottachurungi, tottakkalvati, tottalcinunki, tottalcurunki, tottalvadi, tottalvati, tottalvaviricceti, tottalvayiri, tottar cinunki, tottar cunanki, tottar curunki, tottarcinunki1, tottarcunanki, tottarcurunki1, urumarmulicceti, urumarumuli, vaku, varakakkiranti, vati\nTelugu (14): atthapatthi, lajjavanthi, manugumaramu, mudatha damara, munuguda, munuguda-maramu, muttavapulagamu-chettu, muttavapulagamucettu, nidrakanti, peda nidrakanti, pedda nidrakanti, peddanidrakanti, siggaku, thottalasingi\nTibetan (2): btsod rigs gcig pa, sa mam ga",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b"
+  ],
+  "source_record_ids": [
+    "links-1153",
+    "links-1154",
+    "links-1155",
+    "links-1156"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b"
+    ],
+    "source_record_ids": [
+      "links-1153",
+      "links-1154",
+      "links-1155",
+      "links-1156"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b",
+          "Plant Name": "Mimosa pudica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mimosa pudica Linn.",
+        "source_record_id": "links-1153",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b",
+          "Plant Name": "Mimosa pudica Linn. Var. hispida Brenan.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mimosa pudica Linn. Var. hispida Brenan.",
+        "source_record_id": "links-1154",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b",
+          "Plant Name": "Mimosa pudica Linn. Var. tetranda DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mimosa pudica Linn. Var. tetranda DC.",
+        "source_record_id": "links-1155",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b",
+          "Plant Name": "Mimosa pudica Linn. Var. unijuga Griseb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mimosa pudica Linn. Var. unijuga Griseb.",
+        "source_record_id": "links-1156",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b"
+      }
+    ],
+    "source_xplant_id": "3127a1ac87d4540d9e298e05642e0c0b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

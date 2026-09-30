@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_a4e7f7791e8bafb0__botanical_synonyms__001",
+  "plant_id": "plant_a4e7f7791e8bafb0",
+  "plant_name": "Argyreia speciosa Sweet",
+  "botanical_name": "Argyreia nervosa",
+  "botanical_authority": "(BURM.F.) BOJ.",
+  "family": "CONVOLVULACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Argyreia speciosa SWEET X Full Botanical citation - Argyreia speciosa (L.f.) Sweet, Hort. Brit. 289. 1827; N.P.Singh & al., Fl. Maharashtra State Dicotyledones, 2: Fl. India Ser 2: 445. 2001. Convolvulus speciosus L. Lettsomia nervosa ROXB.\nSynonym: Argyreia speciosa SWEET\nSynonym: Convolvulus speciosus L.\nSynonym: Lettsomia nervosa ROXB.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/fac1e9b33fbd53a0ab7b58344984a5b7"
+  ],
+  "source_record_ids": [
+    "links-1232",
+    "links-1981",
+    "links-2118"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/fac1e9b33fbd53a0ab7b58344984a5b7"
+    ],
+    "source_record_ids": [
+      "links-1232",
+      "links-1981",
+      "links-2118"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/fac1e9b33fbd53a0ab7b58344984a5b7",
+          "Plant Name": "Argyreia speciosa Sweet",
+          "Status": "Found"
+        },
+        "source_plant_name": "Argyreia speciosa Sweet",
+        "source_record_id": "links-1232",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/fac1e9b33fbd53a0ab7b58344984a5b7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/fac1e9b33fbd53a0ab7b58344984a5b7",
+          "Plant Name": "Argyreia speciosa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Argyreia speciosa",
+        "source_record_id": "links-1981",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/fac1e9b33fbd53a0ab7b58344984a5b7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/fac1e9b33fbd53a0ab7b58344984a5b7",
+          "Plant Name": "Argyreia speciosa Sweet.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Argyreia speciosa Sweet.",
+        "source_record_id": "links-2118",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/fac1e9b33fbd53a0ab7b58344984a5b7"
+      }
+    ],
+    "source_xplant_id": "607d1f5c66e7f3b95ed1190ae2e627e0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

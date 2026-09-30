@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_24fed4fc06c091dc__vernacular_names__001",
+  "plant_id": "plant_24fed4fc06c091dc",
+  "plant_name": "Diospyros embryopteris Pers.",
+  "botanical_name": "Diospyros peregrina",
+  "botanical_authority": "(GAERTN.) GURKE.",
+  "family": "EBENACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): gaub tree\nHindi (11): gab, gabh, gaub, kala tendu, kala-tendu, kalatendu, make-tendu, makurkendi, taindu, tedu, tendu\nKannada (50): antena, antina, antina mara, banda, bandada, bandada mara, bandadamara, bantha, bhanda, buntha, gavandu, guvandu, hagna, haine, higa, hige, hige bandha, higebanda, higebantha, higebuntha, hole thumri, holehoopare, holethumri, holetupare, holetupra, holletupara, holletupra, hulitumri, jagala mara, jole thumri, kaaka thoopra, kakadhupada, kakutupare, kasure, kusha ratha, kusharada, kusharta, kusthure, kusure, olle thumpare, olletupra, tapasi, tappasi, thinduka, thumaaree, thumuki, tubare, tumaki, tumburu, tupare\nMalayalam (15): panacca, panacci, panachi, pananci, paniccha, panicci, panich-chi, panicha, panichi, panitsjika, panitsjika-maram, vananchi, vananchik-ka-maram, vananci, vananji\nMarathi (8): maakada kaendi, tembiri, temburani, themburni, thimburi, thimbwini, timar, timbursi\nSanskrit (34): Sanskrit CommentsX anilsara, asitakaraka, asitasaraka, atimuktaka, dantasatha, kalaskanda, kalaskandha, kendu, krishnasara, krishnatvaka, nilasara, rava, ravana, saphurjak, sheetisarak, shitisaraka, sindica, sindika, sphurjaka, sphurjana, spurjaka, srishta, susara, svaryaka, syandana, syandanavhaya, tinduka, tindukah, tindukaha, tinduki, tindula, tuvara, virala, virupaka\nTamil (35): karuntali, kattatti, kavikattai, panaicai, panaiccai, paniccai, paniccaikkay, paniccaimaram, paniccakay, paniccakkay, paniccankay, paniccikkay, panichai, panichekai, panichi, panicika, panickcki, pattuppalam#, pattuppalam@, pattuppallam, thumbilikkai, thumblik kay, tumbi, tumbika, tumbilik-kay, tumika, tumpi, tumpi 3, tumpi maram, tumpika, tumpikarumpu, tumpikkay, tumpilikkay, tumpimaram, tuvarai\nTelugu (32): elosu, erutumiki, etithummika, etitummika, gaabu, gabu, muttiatumiki, neelithumiki, nilitumiki, nirutumiki, nititumiki, nititunika, nitta tumiki, nittatummi, nitutumilka, racha-tumiki, thinduki, thubiki, thumiki chettu, thummika, thunduki, thuniki, thunki, tinduki, tubiki, tubuki, tumika, tumiki, tumikichettu, tumil, tummi, tummika",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52/xclkon/c8677d946f3b5713622cbf021911108b",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52"
+  ],
+  "source_record_ids": [
+    "links-1958",
+    "links-1960",
+    "links-1961"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52/xclkon/c8677d946f3b5713622cbf021911108b",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52"
+    ],
+    "source_record_ids": [
+      "links-1958",
+      "links-1960",
+      "links-1961"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52/xclkon/c8677d946f3b5713622cbf021911108b",
+          "Plant Name": "Diospyros embryopteris Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Diospyros embryopteris Pers.",
+        "source_record_id": "links-1958",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52/xclkon/c8677d946f3b5713622cbf021911108b"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52",
+          "Plant Name": "Diospyros Peregrina (Gaertn) Gurke.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Diospyros Peregrina (Gaertn) Gurke.",
+        "source_record_id": "links-1960",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52",
+          "Plant Name": "Diospyros peregrina (Gaertn.) Guerke.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Diospyros peregrina (Gaertn.) Guerke.",
+        "source_record_id": "links-1961",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52"
+      }
+    ],
+    "source_xplant_id": "d3941028b6c5eefb0cce88aa2b672d52",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

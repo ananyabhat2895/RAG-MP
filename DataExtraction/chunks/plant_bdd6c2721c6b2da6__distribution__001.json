@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_bdd6c2721c6b2da6__distribution__001",
+  "plant_id": "plant_bdd6c2721c6b2da6",
+  "plant_name": "Euphorbia hypericifolia Linn.",
+  "botanical_name": "Euphorbia hypericifolia",
+  "botanical_authority": "L.",
+  "family": "EUPHORBIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - C.J SALDHANA; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-2\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82f13c7c2f496be68410a6f54dd5b901"
+  ],
+  "source_record_ids": [
+    "links-0542"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82f13c7c2f496be68410a6f54dd5b901"
+    ],
+    "source_record_ids": [
+      "links-0542"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82f13c7c2f496be68410a6f54dd5b901",
+          "Plant Name": "Euphorbia hypericifolia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia hypericifolia Linn.",
+        "source_record_id": "links-0542",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82f13c7c2f496be68410a6f54dd5b901"
+      }
+    ],
+    "source_xplant_id": "82f13c7c2f496be68410a6f54dd5b901",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

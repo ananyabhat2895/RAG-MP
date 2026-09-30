@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d28dad5cf9788162__bibliography__001",
+  "plant_id": "plant_d28dad5cf9788162",
+  "plant_name": "Dillenia indica Linn.",
+  "botanical_name": "Dillenia indica",
+  "botanical_authority": "L.",
+  "family": "DILLENIACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - ANONYMOUS; title: Title - ASTANGA HRIDAYA KOSHA\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: title: Title - Flora of West Bengal Vol 1\nBibliography entry: title: Title - The Flora of Orissa Volume 1\nBibliography entry: title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nBibliography entry: title: Title - The Flora of Kerala Vol I\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-1\nBibliography entry: title: Title - Flora of Jowai Vol.I\nBibliography entry: title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nBibliography entry: title: Title - Flora of Majuli\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL1\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - FOREST FLORA OF MEGHALAYA VOL 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/92478f184b06729a77ad133894a6ebb9"
+  ],
+  "source_record_ids": [
+    "links-0321"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/92478f184b06729a77ad133894a6ebb9"
+    ],
+    "source_record_ids": [
+      "links-0321"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/92478f184b06729a77ad133894a6ebb9",
+          "Plant Name": "Dillenia indica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dillenia indica Linn.",
+        "source_record_id": "links-0321",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/92478f184b06729a77ad133894a6ebb9"
+      }
+    ],
+    "source_xplant_id": "92478f184b06729a77ad133894a6ebb9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

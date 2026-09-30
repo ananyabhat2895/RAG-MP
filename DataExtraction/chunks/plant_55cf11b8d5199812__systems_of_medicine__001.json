@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_55cf11b8d5199812__systems_of_medicine__001",
+  "plant_id": "plant_55cf11b8d5199812",
+  "plant_name": "Capparis sepiaria Linn.",
+  "botanical_name": "Capparis sepiaria",
+  "botanical_authority": "L.",
+  "family": "CAPPARACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9bebfeaceff48a4d6608e484686b38d"
+  ],
+  "source_record_ids": [
+    "links-0711"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9bebfeaceff48a4d6608e484686b38d"
+    ],
+    "source_record_ids": [
+      "links-0711"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9bebfeaceff48a4d6608e484686b38d",
+          "Plant Name": "Capparis sepiaria Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Capparis sepiaria Linn.",
+        "source_record_id": "links-0711",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9bebfeaceff48a4d6608e484686b38d"
+      }
+    ],
+    "source_xplant_id": "b9bebfeaceff48a4d6608e484686b38d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

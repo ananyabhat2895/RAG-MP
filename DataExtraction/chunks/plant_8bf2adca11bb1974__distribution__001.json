@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_8bf2adca11bb1974__distribution__001",
+  "plant_id": "plant_8bf2adca11bb1974",
+  "plant_name": "Centratherum anthelminticum Kuntze.",
+  "botanical_name": "Centratherum anthelminticum",
+  "botanical_authority": "(L.) KUNTZE",
+  "family": "ASTERACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - ED. B.D. SHARMA & M.SANJAPPA , N.P. BALAKRISHNAN; distribution: Distribution; title: Title - FLORA OF INDIA VOL 13\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - KUNDAN K SHARMA & SHIVA SHARMA; distribution: Distribution; title: Title - FLORA OF RAJASTHAN\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722/xclkon/fcf45865a19d02817ced62a814450260"
+  ],
+  "source_record_ids": [
+    "links-0143",
+    "links-1840"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722/xclkon/fcf45865a19d02817ced62a814450260"
+    ],
+    "source_record_ids": [
+      "links-0143",
+      "links-1840"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722",
+          "Plant Name": "Centratherum anthelminticum Kuntze.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Centratherum anthelminticum Kuntze.",
+        "source_record_id": "links-0143",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722/xclkon/fcf45865a19d02817ced62a814450260",
+          "Plant Name": "Vernonia anthelmintica Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vernonia anthelmintica Willd.",
+        "source_record_id": "links-1840",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722/xclkon/fcf45865a19d02817ced62a814450260"
+      }
+    ],
+    "source_xplant_id": "21e566ad80c6135f91fb60ec06d72722",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8ac2710fafe5f2b1__vernacular_names__001",
+  "plant_id": "plant_8ac2710fafe5f2b1",
+  "plant_name": "Ipomoea batatas (Linn.) Lam.",
+  "botanical_name": "Ipomoea batatas",
+  "botanical_authority": "(L.) LAM.",
+  "family": "CONVOLVULACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): brazilian arrowroot, kumara, sweet potato, yam\nHindi (10): hakkar kand, mitaalu, mitha alu, mitha-alu, ratalu, sakharkand, sakkarkand, shakar-kand, shakardand, shakarkand\nKannada (6): bellagenasu, genasu, genasu gedde, genasugadde, see gensasu, sihigenasu\nMalayalam (4): kapakalenga, kappa-kelengu, madhurakkilannu, sarkkarakkilannu\nMarathi (5): kanamgi, ratali, ratalu, rathaal, rathali\nSanskrit (9): Sanskrit CommentsX kandagranthi, pichhila, pindalu, pindaluh, pinditaka, raktaluh, romashakandaka, sthulakanda, svadukandaka\nTamil (48): amirtavalli#, atapamirutakkoti, attakattati, attakattatikkilanku, cakkaravallikkilanku, carkkarai valli, carkkaraikkilanku, carkkaraivalli, carkkaraivallikkilanku, carukkaraikkilanku1, carukkaraivalli, carukkaraivallikkilanku, charukkarai valli, cinikkilanku, cinkarakkilanku, civappuccarukkaraivalli, irattapintakam, kantakalukam, kayvalli1, kilankukkoti1, kumarakanpentir, kumarakanpentirkoti, kumaranmanaivimulam, kumaranutamanaivimulan, matumulam, maturavalli 1#, maturavalli 1@, maturavallikkilanku, mirutavalli, mirutavallikkilanku, nattuccarkkaraivalli, nattuvalli, otikilanku, otikkilanku, palivikkilanku, pavalaccarkkaraivalli, pavili, pitacaratakkilanku, pitacaratam, sakkaraivallik-kizhangu, sakkareivelleikilangu, sakkeri-vellei-kelangu, sarkarai valli, sarkaraivalli-kilangu, valli 1, vallikilangu, vattalaikkoti, vattalankilanku\nTelugu (10): chelagada, chilagadadumpa, chilagadam, chilakada dumpa, genasu, genasu gadda, genusu, kanda gadda, mohanamu, thella dumpa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba3c07ea37f43abafe116c5de420a02c"
+  ],
+  "source_record_ids": [
+    "links-1803"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba3c07ea37f43abafe116c5de420a02c"
+    ],
+    "source_record_ids": [
+      "links-1803"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba3c07ea37f43abafe116c5de420a02c",
+          "Plant Name": "Ipomoea batatas (Linn.) Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ipomoea batatas (Linn.) Lam.",
+        "source_record_id": "links-1803",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba3c07ea37f43abafe116c5de420a02c"
+      }
+    ],
+    "source_xplant_id": "ba3c07ea37f43abafe116c5de420a02c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

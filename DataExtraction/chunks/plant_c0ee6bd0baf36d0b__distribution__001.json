@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_c0ee6bd0baf36d0b__distribution__001",
+  "plant_id": "plant_c0ee6bd0baf36d0b",
+  "plant_name": "Boswellia serrata Roxb.",
+  "botanical_name": "Boswellia serrata",
+  "botanical_authority": "ROXB.",
+  "family": "BURSERACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - BSI Scientist; distribution: Distribution; title: Title - Flora of West Bengal Vol 1\nDistribution entry: author: Author - C.J SALDHANA; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-2\nDistribution entry: author: Author - Ed. P. Daniel; distribution: Distribution; title: Title - The Flora of Kerala Vol I\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/4657546057a7a522681239099a690c16"
+  ],
+  "source_record_ids": [
+    "links-1126",
+    "links-1702"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/4657546057a7a522681239099a690c16"
+    ],
+    "source_record_ids": [
+      "links-1126",
+      "links-1702"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/4657546057a7a522681239099a690c16",
+          "Plant Name": "Boswellia serrata Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Boswellia serrata Roxb.",
+        "source_record_id": "links-1126",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/4657546057a7a522681239099a690c16"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/4657546057a7a522681239099a690c16",
+          "Plant Name": "Boswellia serrata Roxb. Var. glabra",
+          "Status": "Found"
+        },
+        "source_plant_name": "Boswellia serrata Roxb. Var. glabra",
+        "source_record_id": "links-1702",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/4657546057a7a522681239099a690c16"
+      }
+    ],
+    "source_xplant_id": "178cc9ad03d6f4d8fd4257d486c60e22",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

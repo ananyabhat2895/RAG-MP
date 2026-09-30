@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_903261dde308686c__images__001",
+  "plant_id": "plant_903261dde308686c",
+  "plant_name": "Grewia optiva Drummon.",
+  "botanical_name": "Grewia optiva",
+  "botanical_authority": "DRUMMOND",
+  "family": "TILIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a9ba5f60d638c3123d46f9fbfd01169"
+  ],
+  "source_record_ids": [
+    "links-0511",
+    "links-1969"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a9ba5f60d638c3123d46f9fbfd01169"
+    ],
+    "source_record_ids": [
+      "links-0511",
+      "links-1969"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a9ba5f60d638c3123d46f9fbfd01169",
+          "Plant Name": "Grewia optiva Drummon.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Grewia optiva Drummon.",
+        "source_record_id": "links-0511",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a9ba5f60d638c3123d46f9fbfd01169"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a9ba5f60d638c3123d46f9fbfd01169",
+          "Plant Name": "Grewia optiva Drummond.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Grewia optiva Drummond.",
+        "source_record_id": "links-1969",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a9ba5f60d638c3123d46f9fbfd01169"
+      }
+    ],
+    "source_xplant_id": "6a9ba5f60d638c3123d46f9fbfd01169",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

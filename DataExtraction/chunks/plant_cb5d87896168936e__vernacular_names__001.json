@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_cb5d87896168936e__vernacular_names__001",
+  "plant_id": "plant_cb5d87896168936e",
+  "plant_name": "Sesamum indicum Linn.",
+  "botanical_name": "Sesamum indicum",
+  "botanical_authority": "L.",
+  "family": "PEDALIACEAE",
+  "section": "vernacular_names",
+  "content": "English (5): gingelly, sesame, sesamum, simsim, tahini\nHindi (13): barik-tel, bariktel, gingli, krishnatel, mitha-tel, mithatel, tal, talna, til, til-ka-tel, tilia, tilkatel, tir\nKannada (10): achchellu, achhellu, dora yellu, ellu, kari ellu, olle yellu, uruellu, wollelu, yallu, yellu\nMalayalam (6): car-elu, chitrallu, ellu, karellu, karuellu, schit-elu\nMarathi (8): dhavotil, kharotil, thil, thila, til, tila, zilechathil, zilechatil\nSanskrit (16): Sanskrit CommentsX asitatila, homadhanya, jatila, papaghna, pavitra, pitratarpana, puraphala, putadhanya, snehapahla, snehaphala, tailaphala, tila, tilah, tilaha, tilataila, vanodbhava\nTamil (65): caralam#, caralam@, carali, caralicceti, cinekapalacceti, cinekapalam#, cinekapalam@, eellu-cceti, el, ell, ellu, ikucakikam, ikucakiyacceti, kakarukam 2, kakutam, karel, karellu, karucakam, karucam 1, karuppellu, katalelakacceti, katalelakam, kattu ellu, kirucaram, kirusnapali, kiruttinatilam, kulakacceti, kulakam, kulam#, kulam@, kumikai, kuparam, kupikai, kuru, kurukacceti, kurukam, kutam, nallennai, nallennay, nu, null unnay, nuvvulu, pacikari, palakam 1, panipputu, papakkinam, pasanamaiyini, pasanamayini, putataniyam, tailapalam, tattiyam, tayittiram, tilakam 1, tilam, tilati, timata, timataki, timatakicceti, vacikari, vacikaricceti, vakucam 1, yellu, yellu cheddi, yellu-cheddie, yelluchedi\nTelugu (7): gubbulu, guvvulu, nung, nuv, nuvvu, nuvvulu, pollanuvvulu\nTibetan (2): ti-la, til bras\nUrdu (16): kunjad, kunjad muqashshar, kunjad safaid, kunjad siyah (til), roghan kunjad, til, til afaid muqashshar, til ke phool, til safaid muqashshar, til safaid muqqashar, till, tiloa ka tael, tilon ka tael, tilon ka tel, tilon ke beej, tiloun ka tail",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/705add10c81b2324e15906c748d395db"
+  ],
+  "source_record_ids": [
+    "links-1941"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/705add10c81b2324e15906c748d395db"
+    ],
+    "source_record_ids": [
+      "links-1941"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/705add10c81b2324e15906c748d395db",
+          "Plant Name": "Sesamum indicum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesamum indicum Linn.",
+        "source_record_id": "links-1941",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/705add10c81b2324e15906c748d395db"
+      }
+    ],
+    "source_xplant_id": "705add10c81b2324e15906c748d395db",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

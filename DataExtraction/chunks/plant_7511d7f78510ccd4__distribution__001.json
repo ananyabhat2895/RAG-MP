@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_7511d7f78510ccd4__distribution__001",
+  "plant_id": "plant_7511d7f78510ccd4",
+  "plant_name": "Tectona grandis Linn. f.",
+  "botanical_name": "Tectona grandis",
+  "botanical_authority": "L.F.",
+  "family": "VERBENACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - HARIDASAN K & RAO R R; distribution: Distribution; title: Title - FOREST FLORA OF MEGHALAYA VOL 2\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9c2d547fb6e13de08f4c2496e77b596"
+  ],
+  "source_record_ids": [
+    "links-1692"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9c2d547fb6e13de08f4c2496e77b596"
+    ],
+    "source_record_ids": [
+      "links-1692"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9c2d547fb6e13de08f4c2496e77b596",
+          "Plant Name": "Tectona grandis Linn. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tectona grandis Linn. f.",
+        "source_record_id": "links-1692",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9c2d547fb6e13de08f4c2496e77b596"
+      }
+    ],
+    "source_xplant_id": "c9c2d547fb6e13de08f4c2496e77b596",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

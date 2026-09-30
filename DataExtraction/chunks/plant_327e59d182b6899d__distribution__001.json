@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_327e59d182b6899d__distribution__001",
+  "plant_id": "plant_327e59d182b6899d",
+  "plant_name": "Caesalpinia sappan Linn.",
+  "botanical_name": "Caesalpinia sappan",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - M.R.Almeida; distribution: Distribution; title: Title - Flora of Maharashtra Vol.2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/caf9a50e01a48f330e490c53febf3b0f"
+  ],
+  "source_record_ids": [
+    "links-1093"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/caf9a50e01a48f330e490c53febf3b0f"
+    ],
+    "source_record_ids": [
+      "links-1093"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/caf9a50e01a48f330e490c53febf3b0f",
+          "Plant Name": "Caesalpinia sappan Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Caesalpinia sappan Linn.",
+        "source_record_id": "links-1093",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/caf9a50e01a48f330e490c53febf3b0f"
+      }
+    ],
+    "source_xplant_id": "caf9a50e01a48f330e490c53febf3b0f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_1d09b1130e289560__systems_of_medicine__001",
+  "plant_id": "plant_1d09b1130e289560",
+  "plant_name": "Paris polyphylla sm.",
+  "botanical_name": "Paris polyphylla",
+  "botanical_authority": "SMITH",
+  "family": "LILIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51708232e57f53fb4580f867a845bc58"
+  ],
+  "source_record_ids": [
+    "links-0677",
+    "links-2036",
+    "links-2037"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51708232e57f53fb4580f867a845bc58"
+    ],
+    "source_record_ids": [
+      "links-0677",
+      "links-2036",
+      "links-2037"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51708232e57f53fb4580f867a845bc58",
+          "Plant Name": "Paris polyphylla sm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Paris polyphylla sm.",
+        "source_record_id": "links-0677",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51708232e57f53fb4580f867a845bc58"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51708232e57f53fb4580f867a845bc58",
+          "Plant Name": "Paris polyphylla",
+          "Status": "Found"
+        },
+        "source_plant_name": "Paris polyphylla",
+        "source_record_id": "links-2036",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51708232e57f53fb4580f867a845bc58"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51708232e57f53fb4580f867a845bc58",
+          "Plant Name": "Paris polyphylla Sm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Paris polyphylla Sm.",
+        "source_record_id": "links-2037",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51708232e57f53fb4580f867a845bc58"
+      }
+    ],
+    "source_xplant_id": "51708232e57f53fb4580f867a845bc58",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

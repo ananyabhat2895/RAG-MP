@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_fc37270eef2c04b4__identification__001",
+  "plant_id": "plant_fc37270eef2c04b4",
+  "plant_name": "Alangium salvifolium (Linn.f.) Wang.",
+  "botanical_name": "Alangium salvifolium",
+  "botanical_authority": "(L.F.) WANG.",
+  "family": "ALANGIACEAE",
+  "section": "identification",
+  "content": "Plant name: Alangium salvifolium (Linn.f.) Wang. Botanical name: Alangium salvifolium Botanical authority: (L.F.) WANG. Family: ALANGIACEAE Source xplant ID: 2ed95f3d53b344394870ef34c7d83b4d",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d"
+  ],
+  "source_record_ids": [
+    "links-0129"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d"
+    ],
+    "source_record_ids": [
+      "links-0129"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d",
+          "Plant Name": "Alangium salvifolium (Linn.f.) Wang.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alangium salvifolium (Linn.f.) Wang.",
+        "source_record_id": "links-0129",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d"
+      }
+    ],
+    "source_xplant_id": "2ed95f3d53b344394870ef34c7d83b4d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

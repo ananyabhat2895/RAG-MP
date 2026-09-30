@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4cc6b42b03d7bdee__vernacular_names__001",
+  "plant_id": "plant_4cc6b42b03d7bdee",
+  "plant_name": "Barleria prionitis Linn.",
+  "botanical_name": "Barleria prionitis",
+  "botanical_authority": "L.",
+  "family": "ACANTHACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (7): bajradanti, catserina, jinti, kat-sareya, katsareya, peela bansa, vajradanti\nKannada (21): gorante, gorantedai, gorata, gorate, gorati, goratige, gotle hoo, kuranta, kurantaka, kurantika, kurantike, mullu goranta, mullu goranti, mullu gorate, mullu jaali, mullu madarangi, mullugoranta, mullugorante, mullugorantta, mullugorate, mullumadarangi\nMalayalam (14): cemmulli, chemmulli, chemulli, coletta-veetla, colettaveetla, karimkurunni, kolattevettila, kollattuvettila, kurrivetila, kuttivetila, shemmulli, vetilakkutti, vetilakurri, vettilamatippu\nMarathi (10): kalsunda, kholeta, koranti, koreta, koti, pivaalakoranta, pivaalakoreta, pivalakoranta, pivalakoreta, pivia-koranta\nSanskrit (49): Sanskrit CommentsX a, ananta, artagala, bana, bhindi, dasi, dasikurantaka, jhinti, jhintika, kakubha, kanaka, kantakuranta, karuntaka, katasarika, kinkirata, kinkiratah, koranda, korandaka, koranta, kurabaka, kuranta, kurantah, kurantaka, kurantakah, kuravaka, mahasaha, mridukanta, pitahkurantakah, pitamlana, pitapushpaka, pitasaireyaka, pura, rujakara, saha, sahaacara, sahacara, sahacarah, sahachara, saireya, saireyaka, saireyakah-pitah, sairiyaka, sairyaka, sairyakah, sauriyaka, shvetapushpa, udyanapaki, vajradanti, vira\nTamil (56): araniyaccokicceti, araniyacoki, atotitacceti, atotitam, cakacam1, cayiriyakam, cayiriyam, cemmulli, cemmullikirai, chemmulli, cinti@, civatamulli, civatamullicceti, kattu kanakambaram, kattukanakambaram, kodippachalai, kollakikacceti, kollakikam, korannam1, korantam1, kotippacalai2, kotivayalai, kovindam, kovintacceti, kovintam, kudan, kuranci, kurinchi, kurinji, kutan, kutanacacceti, kutanacam, mancatcemmulli 1, manja chemmulli, manjachemulli, mirutam 1, mituri 1, muli, mulli, mulliver, pitakantakacceti, pitakantakam, pitani@, potanavakki, semmulli, sengudan, shemmoollie elley, shemmuli, shemmulli, vajjiratanti, varalmulli, varamuli, varamulli 1, varamulli@, vatarokacamani, vettargutti\nTelugu (17): gobbi, gobbi gorinta, konda gobbi, kondagobbi, mulla gorinta, mullu gorinta, mullugoranata, mullugoranta, mullugorinta, mullugunta, mulugorata, mundla gobbi, mundlagobbi, pachagoranta, pachhagoranta, pachhamulu goranta, thellamulla aaku",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/359e4e4e55e6a9a1d18301597f89eea0"
+  ],
+  "source_record_ids": [
+    "links-1684"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/359e4e4e55e6a9a1d18301597f89eea0"
+    ],
+    "source_record_ids": [
+      "links-1684"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/359e4e4e55e6a9a1d18301597f89eea0",
+          "Plant Name": "Barleria prionitis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Barleria prionitis Linn.",
+        "source_record_id": "links-1684",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/359e4e4e55e6a9a1d18301597f89eea0"
+      }
+    ],
+    "source_xplant_id": "359e4e4e55e6a9a1d18301597f89eea0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

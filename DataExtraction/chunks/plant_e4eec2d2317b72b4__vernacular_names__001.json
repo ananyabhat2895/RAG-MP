@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_e4eec2d2317b72b4__vernacular_names__001",
+  "plant_id": "plant_e4eec2d2317b72b4",
+  "plant_name": "Gymnema sylvestre R. Br.",
+  "botanical_name": "Gymnema sylvestre",
+  "botanical_authority": "R.BR.",
+  "family": "ASCLEPIADACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (11): chhota-dudhilata, chhotadudhilata, gudmar, gurmar, jangli urad, jangli-urad, kavali, medhashingi, merasimgi, merasingi, meshasingi\nKannada (12): hiriya kaage donde, kadasige, kadhasige, madhunaasha, madhunaashini, sanna garase humbu, sannagera, sannagera sehambu, sannagerasehambu, sannagersehambu, sennagerse, uriyamare\nMalayalam (2): cakkarakkolli, madhunasini\nMarathi (15): bedaki, bedakuli, kaabalee, kaalikaradodi, kalikardori, kaoli, karadodee, kavali, kavli, madphali, meshashringi, parapatraha, vakandi, vakhande, vakundi\nSanskrit (43): Sanskrit CommentsX ajaballi, ajaghandini, ajashrangi, ajashringi, ajashringika, ajasringi, ajasrngi, akshibheshaja, anyada, avartini, bahalchakshu, bisharni, chakrashreni, chakshu, chakshurbahala, chakshushya, grihadruma, karnika, kshinavartta, madhunasini, maurvi, medashrangi, medhasingi, medhrashingi, meghaballi, mendhasingi, mesasrngi, mesharingi, meshashrangi, meshashringi, meshasringi, meshavalli, meshavishanika, meshshringi, netraushadhi, putrashringi, sarpadanshtrika, sarpadarushtrika, tiktadughdha, vartika, vishani, vishanika, vrikshikali\nTamil (82): aadigam, adigam, aliyakam, amudupudbam, amudupushpam, amutaccevitam, amutacevitam, amutapuram, amutapuspacceti, amutaputpam, amutupuram, anantam1, ariyakam, atavankani, atikam, attikkolikacceti, attikolikam, ayagam, ayakam1, cakaca, cakacacceti, cakkan, calakacceti, calakam, carakam1, carankam1, carkkarai kolli, chiru-kurinchan, ciru kurincan, ciru kurincan ver, cirukurinca, cirukurincacceti, cirukurincan, citcuciyam, cittiram, cittiratam, cornavatiyatimatukam, kalaviluti1, kali1, kannu minnayam kodi, katuvalli, kavali, kitcuciyam, kogilam, kokila, kokilacceti, kokilam, kokilam1, kokulam, kotikkurinca, kulalitaccam, kurintai, kuriyaparani, maccirunki, mesacirunki, muttupparappi, natayantanancari, nocitacceti, nocitam, panatantiri, passaam, patavirutcam, puliyam, pulliyacceti, pulliyam 1, purkurinci, purukurincicceti, sakkaraikkolli, shagasharam, shiru kurunja, shiru-kurunja, shirukurinja, sirroo coorinja vayr, siru-kurinjan, sirukurincha, sirukurinjan, sirukurumkay, sirukurunja, tetcanavirutci, tiruparani, unmantaki, unmattaki\nTelugu (12): bodaapathri, bodaparta, poda patri, podapathri, podapatra, podapatri, putla-podra, putlapodara, putlapodra, putta podara, puttapodara, puttapodra\nTibetan (2): sa si nga, sa sri ngi (p)\nUrdu (3): gurmar, gurmar booti, gurmar patta",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b"
+  ],
+  "source_record_ids": [
+    "links-0054",
+    "links-1281"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b"
+    ],
+    "source_record_ids": [
+      "links-0054",
+      "links-1281"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b",
+          "Plant Name": "Gymnema sylvestre R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gymnema sylvestre R. Br.",
+        "source_record_id": "links-0054",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b",
+          "Plant Name": "Gymnema sylvestre",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gymnema sylvestre",
+        "source_record_id": "links-1281",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b"
+      }
+    ],
+    "source_xplant_id": "59a883322a70a566044a436da0136c5b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

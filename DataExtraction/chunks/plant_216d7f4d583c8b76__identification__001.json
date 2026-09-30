@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_216d7f4d583c8b76__identification__001",
+  "plant_id": "plant_216d7f4d583c8b76",
+  "plant_name": "Boerhavia diffusa Linn.",
+  "botanical_name": "Boerhavia diffusa",
+  "botanical_authority": "L.",
+  "family": "NYCTAGINACEAE",
+  "section": "identification",
+  "content": "Plant name: Boerhavia diffusa Linn. Botanical name: Boerhavia diffusa Botanical authority: L. Family: NYCTAGINACEAE Source xplant ID: 75868742d47c459a0bbef44b988ead65",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/75868742d47c459a0bbef44b988ead65"
+  ],
+  "source_record_ids": [
+    "links-1557"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/75868742d47c459a0bbef44b988ead65"
+    ],
+    "source_record_ids": [
+      "links-1557"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/75868742d47c459a0bbef44b988ead65",
+          "Plant Name": "Boerhavia diffusa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Boerhavia diffusa Linn.",
+        "source_record_id": "links-1557",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/75868742d47c459a0bbef44b988ead65"
+      }
+    ],
+    "source_xplant_id": "75868742d47c459a0bbef44b988ead65",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

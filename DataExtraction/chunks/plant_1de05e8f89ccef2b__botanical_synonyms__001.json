@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_1de05e8f89ccef2b__botanical_synonyms__001",
+  "plant_id": "plant_1de05e8f89ccef2b",
+  "plant_name": "Ocimum sanctum Linn. var.",
+  "botanical_name": "Ocimum tenuiflorum",
+  "botanical_authority": "L.",
+  "family": "LAMIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Geniosporum tenuiflorum (L.) MERRILL Ocimum sanctum L. X Full Botanical citation - Ocimum sanctum L., Mant. Pl. 1: 85. 1767; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 471. 1999.\nSynonym: Geniosporum tenuiflorum (L.) MERRILL\nSynonym: Ocimum sanctum L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3faedcb64cd0f9a51be4c9d54acaf69/xclkon/70fe8f0f9c2b14cf8f0862e6637ffe50"
+  ],
+  "source_record_ids": [
+    "links-0844",
+    "links-1446",
+    "links-1879"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3faedcb64cd0f9a51be4c9d54acaf69/xclkon/70fe8f0f9c2b14cf8f0862e6637ffe50"
+    ],
+    "source_record_ids": [
+      "links-0844",
+      "links-1446",
+      "links-1879"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3faedcb64cd0f9a51be4c9d54acaf69/xclkon/70fe8f0f9c2b14cf8f0862e6637ffe50",
+          "Plant Name": "Ocimum sanctum Linn. var.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ocimum sanctum Linn. var.",
+        "source_record_id": "links-0844",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3faedcb64cd0f9a51be4c9d54acaf69/xclkon/70fe8f0f9c2b14cf8f0862e6637ffe50"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3faedcb64cd0f9a51be4c9d54acaf69/xclkon/70fe8f0f9c2b14cf8f0862e6637ffe50",
+          "Plant Name": "Ocimum sanctum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ocimum sanctum Linn.",
+        "source_record_id": "links-1446",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3faedcb64cd0f9a51be4c9d54acaf69/xclkon/70fe8f0f9c2b14cf8f0862e6637ffe50"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3faedcb64cd0f9a51be4c9d54acaf69/xclkon/70fe8f0f9c2b14cf8f0862e6637ffe50",
+          "Plant Name": "Ocimum sanctum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ocimum sanctum",
+        "source_record_id": "links-1879",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3faedcb64cd0f9a51be4c9d54acaf69/xclkon/70fe8f0f9c2b14cf8f0862e6637ffe50"
+      }
+    ],
+    "source_xplant_id": "b3faedcb64cd0f9a51be4c9d54acaf69",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

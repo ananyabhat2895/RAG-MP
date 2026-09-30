@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_471d6e339da1f4fb__vernacular_names__001",
+  "plant_id": "plant_471d6e339da1f4fb",
+  "plant_name": "Cardiospermum halicacabum Linn.",
+  "botanical_name": "Cardiospermum halicacabum",
+  "botanical_authority": "L.",
+  "family": "SAPINDACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): balloon vine\nHindi (11): bari-chirmi, chirphuta, kakadni, kanphata, kanphote, kanphuta, kanphuti, kanputi, kapal phori, kapalphore-bel, kapalphoti\nKannada (31): agniballi, batte kaayi balli, bekkina budde gida, bekkina thoraduballi, bekkina toddina balli, bekkinatoddinaballi, budda kaarana theege, buddakakaratige, chitaki hambu, eramballi, erumballi, eruvaballi, irumballi, jothishmathi, kaadatheege, kakaralata, kanakaaya, kanakaia, kanakaiah, kangu, kangu balli, kangunge, kangunne, karkaralatha, minaju balli, minchina balli, minchuballi, mincuballi, minijuballi, urundeburu, yeruva balli\nMalayalam (9): jyotishmati, katabhi, lata, palloolavum, paluruvam, ulina, ulinja, ulinna, uzhinna\nMarathi (6): kaanphodi, kakumardanika, kanfuti, kanphuti, kapalaphodi, shibjal\nSanskrit (23): Sanskrit CommentsX bunu-uchchhe, indravalli, jyautishmati, jyotir, jyotishmati, jyotismati, kaka-mardanika, kakadola, kakatikta, kapolavalli, karavi, karnasphota, karnaspota, lataphatki, modikkotan, nagna, paravata-padi, paravatanghi, sakralata, satakratulata, sita, tejavati, tejovati",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35bcc71906513792d99454dd5b22073"
+  ],
+  "source_record_ids": [
+    "links-0671",
+    "links-0818"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35bcc71906513792d99454dd5b22073"
+    ],
+    "source_record_ids": [
+      "links-0671",
+      "links-0818"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35bcc71906513792d99454dd5b22073",
+          "Plant Name": "Cardiospermum halicacabum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cardiospermum halicacabum Linn.",
+        "source_record_id": "links-0671",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35bcc71906513792d99454dd5b22073"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35bcc71906513792d99454dd5b22073",
+          "Plant Name": "Cardiospermum halicacabum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cardiospermum halicacabum",
+        "source_record_id": "links-0818",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35bcc71906513792d99454dd5b22073"
+      }
+    ],
+    "source_xplant_id": "d35bcc71906513792d99454dd5b22073",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

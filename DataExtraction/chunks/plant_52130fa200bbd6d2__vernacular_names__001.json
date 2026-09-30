@@ -1,0 +1,93 @@
+{
+  "chunk_id": "plant_52130fa200bbd6d2__vernacular_names__001",
+  "plant_id": "plant_52130fa200bbd6d2",
+  "plant_name": "Acacia catechu Willd.",
+  "botanical_name": "Acacia catechu",
+  "botanical_authority": "(L.F.) WILLD.",
+  "family": "MIMOSACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): catechu, cutch, khair gum, khayer\nHindi (8): kath, kattha, khair, khaira, khdira, kheera, kher, khir\nKannada (25): cachu, cateku, kaachu, kaachu mara, kachu, kaggali mara, kagli, kalariro, kanti, kashu, kempu khairapa jaali, kempukayiru, kempukhair, kempukhairada, kempukhairadajali, khadira, khaira, kuglee, kugli, seredu, tara, tare, tareda, tere, thareddu\nMalayalam (12): cengarinali, cenkarinnali, kadaram, karigoli, karimgali, karinali, karinnali, karukoli, karungali, karungnyali, khadiram, khapuram\nMarathi (7): kaderi, khaderi, khair, khaira, khairkatha, khera, laalkhair\nSanskrit (1): Sanskrit CommentsX khadira\nTamil (2): karunkaali, karunkali\nTelugu (8): kaachu, khadiramu, mallasandra, pdalamaanu, pogamu, sandra, sundra, thellathumma\nUrdu (2): katha safaid, supari chikni",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b11f74ab4862b22d3456bc47dcb8142"
+  ],
+  "source_record_ids": [
+    "links-1031",
+    "links-1033",
+    "links-1034",
+    "links-1035",
+    "links-1036"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b11f74ab4862b22d3456bc47dcb8142"
+    ],
+    "source_record_ids": [
+      "links-1031",
+      "links-1033",
+      "links-1034",
+      "links-1035",
+      "links-1036"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b11f74ab4862b22d3456bc47dcb8142",
+          "Plant Name": "Acacia catechu Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Acacia catechu Willd.",
+        "source_record_id": "links-1031",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b11f74ab4862b22d3456bc47dcb8142"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b11f74ab4862b22d3456bc47dcb8142",
+          "Plant Name": "Acacia catechu Willd. Var. Catechu proper",
+          "Status": "Found"
+        },
+        "source_plant_name": "Acacia catechu Willd. Var. Catechu proper",
+        "source_record_id": "links-1033",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b11f74ab4862b22d3456bc47dcb8142"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b11f74ab4862b22d3456bc47dcb8142",
+          "Plant Name": "Acacia catechu Willd. Var. Catechuoides",
+          "Status": "Found"
+        },
+        "source_plant_name": "Acacia catechu Willd. Var. Catechuoides",
+        "source_record_id": "links-1034",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b11f74ab4862b22d3456bc47dcb8142"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b11f74ab4862b22d3456bc47dcb8142",
+          "Plant Name": "Acacia catechu Willd. Var. suma Buch. Ham.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Acacia catechu Willd. Var. suma Buch. Ham.",
+        "source_record_id": "links-1035",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b11f74ab4862b22d3456bc47dcb8142"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b11f74ab4862b22d3456bc47dcb8142",
+          "Plant Name": "Acacia catechu Willd. Var. sundra.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Acacia catechu Willd. Var. sundra.",
+        "source_record_id": "links-1036",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b11f74ab4862b22d3456bc47dcb8142"
+      }
+    ],
+    "source_xplant_id": "9b11f74ab4862b22d3456bc47dcb8142",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

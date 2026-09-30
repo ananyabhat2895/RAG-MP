@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d0d872886927c3e0__vernacular_names__001",
+  "plant_id": "plant_d0d872886927c3e0",
+  "plant_name": "Oroxylum indicum Vent.",
+  "botanical_name": "Oroxylum indicum",
+  "botanical_authority": "(L.) VENT.",
+  "family": "BIGNONIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (24): arlu, assarsauna, fari, kharkath, pharkhat, pharrai, pharri, sauma, sauna, sauno, shyona, snapatha, sonapatha, sora, syona, tantia, tantia pharhar, tat palanga, tat-palanga, tatplanga, tentu, tetu, ullu, urru\nKannada (44): aane mungu, aanemungu, alanda, alangi, anemunga, anemungu, arantala, baagi, baagimara, bagi, buna paale, bunepale, dinchalamara, dudunmkara mara, dundu karra, dundukara, heggo gate, heggudatimara, hegguggate, hemmara, hoare mara, hone, hore, konanakombina mara, marasouthe mara, mokka, mokkaa mara, mokkada, nala, nata, patagani mara, salaa mara, shonatha, shukanaasa, sonepatta, sonepatte, sonepatte mara, tattuna, teta, tetu, tetutigadi, thigudi mara, tigadu, tigda\nMalayalam (19): aralu, arantal, chorikonnam, corikkonna, palagapaiyani, palagapayani, palagappayani, palakapaiyana, palakapayani, palakappayana, palakappayyana, palakappayyani, palega-pajaneli, palegapajoneli, payyalanta, peiam, valpathiri, vellapadiri, veluttapatiri\nMarathi (11): davamdak, dhavandaka, dinda, kkharasinga, taitu, tetu, thaentu, thaitu, thetu, titu, ulu\nSanskrit (54): Sanskrit CommentsX adhvantashatrava, arala, aralu, araluka, aratu, bhalluka, bhallukah, bhantuka, bhutapushpa, bhutataka, dirghavrintaka, dirghavrnta, dirghavrukah, dundukah, kandarpa, katambhara, katanga, katvanga, kurkata, kutannata, mandukaparna, mandukaparnah, mayurajangha, munduka-purna, nata, nihsarah, ntakah, padavriksha, paripadapa, patrorna, pitangah, prathusimbhi, prithushimba, priyajiva, priyajivi, prthusimba, prthusimbi, putivriksha, ruksha, shallaka, shona, shoshana, shukanasa, shyonaka, sonaka, sukanasa, svarnavalkala, syonaka, syonakah, tintuka, tintukah, tuntuka, vatu, vishanut\nTamil (31): achi, arandai, aratu, arulandai, arulantai, conam, conam#, corikkonrai#, corikkonrai@, corikonnai, paiyaralantai, palagai-payani, palagaipayani, palaiyudaichi, palaiyudaycci, palaiyutaicci, pana, panamaram, peiarlankei, perum vakai, peruvaagai, peyarulandai, peyarulantai, pudabudham, putapuspam, tirkkaviruttam, tuvakkucaram1, tuvantacattiravam, vangam, vangamaram, veluttapatiri\nTelugu (22): aaku maanu, dondlup, dundilamu, dundillamu, dundillum, dundilum, kaligottu, mandookaparnamu, mandukaparnamu, mokka vepa, mokkavaepa, mokkavepa, nemali chettu, pamania, pamini, pampana, pampena, pampina, pampini, peddakatti, sukanaasamu, sukanasamu\nTibetan (1): so na ka\nUrdu (1): sona patha",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f41aa7d1c905dc82c023d554c64884a9"
+  ],
+  "source_record_ids": [
+    "links-1896"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f41aa7d1c905dc82c023d554c64884a9"
+    ],
+    "source_record_ids": [
+      "links-1896"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f41aa7d1c905dc82c023d554c64884a9",
+          "Plant Name": "Oroxylum indicum Vent.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Oroxylum indicum Vent.",
+        "source_record_id": "links-1896",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f41aa7d1c905dc82c023d554c64884a9"
+      }
+    ],
+    "source_xplant_id": "f41aa7d1c905dc82c023d554c64884a9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

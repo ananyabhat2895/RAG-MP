@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_25b3613073e2baa7__identification__001",
+  "plant_id": "plant_25b3613073e2baa7",
+  "plant_name": "Argyreia fulgens Choisy",
+  "botanical_name": "Argyreia fulgens",
+  "botanical_authority": "CHOISY",
+  "family": "CONVOLVULACEAE",
+  "section": "identification",
+  "content": "Plant name: Argyreia fulgens Choisy Botanical name: Argyreia fulgens Botanical authority: CHOISY Family: CONVOLVULACEAE Source xplant ID: b808a7d1ab15006bdf349463cee877e5",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b808a7d1ab15006bdf349463cee877e5"
+  ],
+  "source_record_ids": [
+    "links-2121"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b808a7d1ab15006bdf349463cee877e5"
+    ],
+    "source_record_ids": [
+      "links-2121"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b808a7d1ab15006bdf349463cee877e5",
+          "Plant Name": "Argyreia fulgens Choisy",
+          "Status": "Found"
+        },
+        "source_plant_name": "Argyreia fulgens Choisy",
+        "source_record_id": "links-2121",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b808a7d1ab15006bdf349463cee877e5"
+      }
+    ],
+    "source_xplant_id": "b808a7d1ab15006bdf349463cee877e5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_1fb8a269d6cba0e9__bibliography__001",
+  "plant_id": "plant_1fb8a269d6cba0e9",
+  "plant_name": "Panicum psilopodium Trin. var. coloratum Hook.f.",
+  "botanical_name": "Panicum psilopodium",
+  "botanical_authority": "TRIN.",
+  "family": "POACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: title: Title - FLORA OF ASSAM\nBibliography entry: title: Title - Flora of Rajasthan Vol. 3\nBibliography entry: title: Title - Flora of Chamba District (Himachal Pradesh)\nBibliography entry: title: Title - The Flora of Orissa Vol IV\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol III\nBibliography entry: title: Title - Flora of Maharashrta State (Monocotyledons)\nBibliography entry: title: Title - Flora of Gujarat State Vol 2\nBibliography entry: title: Title - The Flora of the Palni Hills Vol-3\nBibliography entry: title: Title - Flora of Tons Valley (Uttaranchal)\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864f83f261520afa8e2011d02228a1f3"
+  ],
+  "source_record_ids": [
+    "links-1133",
+    "links-1134"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864f83f261520afa8e2011d02228a1f3"
+    ],
+    "source_record_ids": [
+      "links-1133",
+      "links-1134"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864f83f261520afa8e2011d02228a1f3",
+          "Plant Name": "Panicum psilopodium Trin. var. coloratum Hook.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Panicum psilopodium Trin. var. coloratum Hook.f.",
+        "source_record_id": "links-1133",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864f83f261520afa8e2011d02228a1f3"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864f83f261520afa8e2011d02228a1f3",
+          "Plant Name": "Panicum psilopodium Trin. var. Psilopodium.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Panicum psilopodium Trin. var. Psilopodium.",
+        "source_record_id": "links-1134",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864f83f261520afa8e2011d02228a1f3"
+      }
+    ],
+    "source_xplant_id": "864f83f261520afa8e2011d02228a1f3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

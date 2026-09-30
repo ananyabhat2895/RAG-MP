@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a29ca361568d4002__botanical_synonyms__001",
+  "plant_id": "plant_a29ca361568d4002",
+  "plant_name": "Mangifera indica Linn.",
+  "botanical_name": "Mangifera indica",
+  "botanical_authority": "L.",
+  "family": "ANACARDIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Mangifera domestica GAERTN.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8a83ef9a6450c46b4347fb66fd4858d4"
+  ],
+  "source_record_ids": [
+    "links-0117"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8a83ef9a6450c46b4347fb66fd4858d4"
+    ],
+    "source_record_ids": [
+      "links-0117"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8a83ef9a6450c46b4347fb66fd4858d4",
+          "Plant Name": "Mangifera indica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mangifera indica Linn.",
+        "source_record_id": "links-0117",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8a83ef9a6450c46b4347fb66fd4858d4"
+      }
+    ],
+    "source_xplant_id": "8a83ef9a6450c46b4347fb66fd4858d4",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8b832d15603a41ce__images__001",
+  "plant_id": "plant_8b832d15603a41ce",
+  "plant_name": "Woodfordia fruticosa Kurz.",
+  "botanical_name": "Woodfordia fruticosa",
+  "botanical_authority": "(L.) KURZ",
+  "family": "LYTHRACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe4e9d9a910ad9264ff9819d1c103904"
+  ],
+  "source_record_ids": [
+    "links-0515"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe4e9d9a910ad9264ff9819d1c103904"
+    ],
+    "source_record_ids": [
+      "links-0515"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe4e9d9a910ad9264ff9819d1c103904",
+          "Plant Name": "Woodfordia fruticosa Kurz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Woodfordia fruticosa Kurz.",
+        "source_record_id": "links-0515",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe4e9d9a910ad9264ff9819d1c103904"
+      }
+    ],
+    "source_xplant_id": "fe4e9d9a910ad9264ff9819d1c103904",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

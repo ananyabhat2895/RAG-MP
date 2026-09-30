@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_4397ca125d07424e__systems_of_medicine__001",
+  "plant_id": "plant_4397ca125d07424e",
+  "plant_name": "Aglaia roxburghiana Miq.",
+  "botanical_name": "Aglaia elaeagoidea",
+  "botanical_authority": "(JUSS.) BENTH.",
+  "family": "MELIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk Botanical Synonyms (2) - Aglaia odoratissima BLUME X Full Botanical citation - Aglaia odoratissima auct. non Blume 1825: T. Cooke\nSystem of medicine: Fl. Pres. Bombay 1: 209. 1902; S.S. Jain & Bennet in Hajra & al.\nSystem of medicine: Fl. India 4: 461. 1997. Aglaia roxburghiana MIQ. X Full Botanical citation - Aglaia roxburghiana (Wight & Arn.) Miq. in Ann. Mus. Bot. Lugduno- Batavum 4: 41. 1868; S.S. Jain & Bennet in Hajra & al.\nSystem of medicine: Fl. India 4: 461. 1997.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1196702c506e590161ca11e568e45e9/xclkon/ab4eafbc77fae2da372824c74f244474"
+  ],
+  "source_record_ids": [
+    "links-1540",
+    "links-1542"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1196702c506e590161ca11e568e45e9/xclkon/ab4eafbc77fae2da372824c74f244474"
+    ],
+    "source_record_ids": [
+      "links-1540",
+      "links-1542"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1196702c506e590161ca11e568e45e9/xclkon/ab4eafbc77fae2da372824c74f244474",
+          "Plant Name": "Aglaia roxburghiana Miq.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aglaia roxburghiana Miq.",
+        "source_record_id": "links-1540",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1196702c506e590161ca11e568e45e9/xclkon/ab4eafbc77fae2da372824c74f244474"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1196702c506e590161ca11e568e45e9/xclkon/ab4eafbc77fae2da372824c74f244474",
+          "Plant Name": "Aglaia roxburghiana",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aglaia roxburghiana",
+        "source_record_id": "links-1542",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1196702c506e590161ca11e568e45e9/xclkon/ab4eafbc77fae2da372824c74f244474"
+      }
+    ],
+    "source_xplant_id": "a1196702c506e590161ca11e568e45e9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

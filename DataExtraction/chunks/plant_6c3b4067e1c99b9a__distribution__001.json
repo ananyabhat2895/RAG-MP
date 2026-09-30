@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_6c3b4067e1c99b9a__distribution__001",
+  "plant_id": "plant_6c3b4067e1c99b9a",
+  "plant_name": "Wendlandia exerta DC.",
+  "botanical_name": "Wendlandia heynei",
+  "botanical_authority": "(R. & S.) SANTAPAU",
+  "family": "RUBIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - A.E. Osmaston; distribution: Distribution; title: Title - A Forest Flora for Kumaon\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c78e333205c61da25c0102a4df3de47/xclkon/54eece8cca7f92cef8d47bb014f174bb"
+  ],
+  "source_record_ids": [
+    "links-1945"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c78e333205c61da25c0102a4df3de47/xclkon/54eece8cca7f92cef8d47bb014f174bb"
+    ],
+    "source_record_ids": [
+      "links-1945"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c78e333205c61da25c0102a4df3de47/xclkon/54eece8cca7f92cef8d47bb014f174bb",
+          "Plant Name": "Wendlandia exerta DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Wendlandia exerta DC.",
+        "source_record_id": "links-1945",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c78e333205c61da25c0102a4df3de47/xclkon/54eece8cca7f92cef8d47bb014f174bb"
+      }
+    ],
+    "source_xplant_id": "9c78e333205c61da25c0102a4df3de47",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

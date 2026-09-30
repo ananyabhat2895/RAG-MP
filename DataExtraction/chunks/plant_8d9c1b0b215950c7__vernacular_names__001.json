@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8d9c1b0b215950c7__vernacular_names__001",
+  "plant_id": "plant_8d9c1b0b215950c7",
+  "plant_name": "Aerva lanata Juss.",
+  "botanical_name": "Aerva lanata",
+  "botanical_authority": "(L.) JUSS. EX SCHULT.",
+  "family": "AMARANTHACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (7): chaya, choti-bui, gorakh-boonti, gorakhganja, gorkhabundi, kapurijadi, konda\nKannada (8): bilee sooli gida, bili hindee soppu, bili hooli, bili sooli, bilihindee soppu, bilihindi, bilihooli, hittina donne soppu\nMalayalam (4): cerula, cerupula, ceruvula, scheru-bula\nMarathi (9): kapoor madhura, kapoorimadhuri, kapoorphuli, kapurimadhuri, kapurmadhura, kapurphuti, kumarapindi, kumrapindi, tandlo\nSanskrit (7): Sanskrit CommentsX asmabhedah, astmabayda, bhadra, goraksaganja, pasanabheda, pashanabheda, pattura\nTamil (56): acuvamanaku, antipilai, antipilaiceti, calinilappu, canunkuvukai, cerupulai, chiru peelai, cirukanpilai, cirupilai, cirupulai, cokkali, cokkali#, cokkali$, cokkalicceti, cunnampukkirai1, cuttiraciritam, kanpilai, kanpulai, karpeti, malacu, malacucceti, mukkili 2, panru, pantu#, pantukacceti, pantukam$, pantumalar, pasanapeti, pasanapeti 1, pilai, pilai 1, pincatam, pincetam, poolai, pulai 1, pulaiver, pulikacceti, pulikam, serupeelai, sirroo poolay vayr, siru-peelai, sirupaulai, sirupeelai, sirupulai, tevimulacceti, tevimulam, tunkumuturam, umika, umikacceti, umil, uninam, uninputu, unkanimuli, uratam, uttuparamuli, uyinai\nTelugu (12): guanabana, kondapindi, pindi kunda, pindi kura, pindichettu, pindidonda, pindikoora, pindikumda, pindikunda, pindipoolu, thelaga pindi konda, thelaga pindikunda",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd17f379b080d5226a4174ddbd477a84"
+  ],
+  "source_record_ids": [
+    "links-0637"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd17f379b080d5226a4174ddbd477a84"
+    ],
+    "source_record_ids": [
+      "links-0637"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd17f379b080d5226a4174ddbd477a84",
+          "Plant Name": "Aerva lanata Juss.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aerva lanata Juss.",
+        "source_record_id": "links-0637",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd17f379b080d5226a4174ddbd477a84"
+      }
+    ],
+    "source_xplant_id": "dd17f379b080d5226a4174ddbd477a84",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

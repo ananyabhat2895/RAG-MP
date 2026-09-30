@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_91bffa5ec3536924__bibliography__001",
+  "plant_id": "plant_91bffa5ec3536924",
+  "plant_name": "Ferula narthex Boiss.",
+  "botanical_name": "Ferula narthex",
+  "botanical_authority": "BOISS.",
+  "family": "APIACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - ANONYMOUS; title: Title - ASTANGA HRIDAYA KOSHA\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - MUKERJI,B; title: Title - INDIAN PHARMACEUTICAL CODEX VOL.I\nBibliography entry: author: Author - ANONYMOUS; title: Title - THE AYURVEDIC PHARMACOPOEIA OF INDIA PART 1. VOL.1\nBibliography entry: title: Title - Umbelliferae (Apiaceae) of India",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d26c4f62fa0e1101cbda3fc2a349ff6"
+  ],
+  "source_record_ids": [
+    "links-0717"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d26c4f62fa0e1101cbda3fc2a349ff6"
+    ],
+    "source_record_ids": [
+      "links-0717"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d26c4f62fa0e1101cbda3fc2a349ff6",
+          "Plant Name": "Ferula narthex Boiss.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ferula narthex Boiss.",
+        "source_record_id": "links-0717",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d26c4f62fa0e1101cbda3fc2a349ff6"
+      }
+    ],
+    "source_xplant_id": "4d26c4f62fa0e1101cbda3fc2a349ff6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

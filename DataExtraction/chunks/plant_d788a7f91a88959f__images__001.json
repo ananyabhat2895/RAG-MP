@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d788a7f91a88959f__images__001",
+  "plant_id": "plant_d788a7f91a88959f",
+  "plant_name": "Averrhoa carambola Linn.",
+  "botanical_name": "Averrhoa carambola",
+  "botanical_authority": "L.",
+  "family": "OXALIDACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/70f29ae5502f8433970fc679ecedd77b"
+  ],
+  "source_record_ids": [
+    "links-0480"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/70f29ae5502f8433970fc679ecedd77b"
+    ],
+    "source_record_ids": [
+      "links-0480"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/70f29ae5502f8433970fc679ecedd77b",
+          "Plant Name": "Averrhoa carambola Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Averrhoa carambola Linn.",
+        "source_record_id": "links-0480",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/70f29ae5502f8433970fc679ecedd77b"
+      }
+    ],
+    "source_xplant_id": "70f29ae5502f8433970fc679ecedd77b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

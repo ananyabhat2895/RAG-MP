@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2ed9915e1c2042c2__identification__001",
+  "plant_id": "plant_2ed9915e1c2042c2",
+  "plant_name": "Garcinia cowa Roxb.",
+  "botanical_name": "Garcinia cowa",
+  "botanical_authority": "ROXB. EX DC.",
+  "family": "CLUSIACEAE",
+  "section": "identification",
+  "content": "Plant name: Garcinia cowa Roxb. Botanical name: Garcinia cowa Botanical authority: ROXB. EX DC. Family: CLUSIACEAE Source xplant ID: 15f0724866331d238de92cbc096eb7fd",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15f0724866331d238de92cbc096eb7fd"
+  ],
+  "source_record_ids": [
+    "links-1064"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15f0724866331d238de92cbc096eb7fd"
+    ],
+    "source_record_ids": [
+      "links-1064"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15f0724866331d238de92cbc096eb7fd",
+          "Plant Name": "Garcinia cowa Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Garcinia cowa Roxb.",
+        "source_record_id": "links-1064",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15f0724866331d238de92cbc096eb7fd"
+      }
+    ],
+    "source_xplant_id": "15f0724866331d238de92cbc096eb7fd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

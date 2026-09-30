@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_2a820f88c6c2a21f__vernacular_names__001",
+  "plant_id": "plant_2a820f88c6c2a21f",
+  "plant_name": "Canscora decussata Schult",
+  "botanical_name": "Canscora decussata",
+  "botanical_authority": "SCHULTES & SCHULTES.F.",
+  "family": "GENTIANACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (6): kalameg, samkhaphuli, sankhahuli, sankhaphuli, shankhahuli, shankhini\nKannada (2): shankapushpa, shankha pushpa\nMalayalam (3): kancankora, samkhapuspi, sankhupuspam\nMarathi (2): titavi, yavotchi\nSanskrit (24): Sanskrit CommentsX akshapida, danakuni, dandotpala, dridhapada, kambumalinee, kambupushpi, mahatikta, maheshvari, nakuli, netramila, patratanduli, sanhkapuspi, sankhapuspi, sankhini, shankhapushpi, shankhini, sukshmapushpi, tikta, tiktayava, tunduli, visarpini, yashasvini, yavatikta, yavi\nTamil (1): tantorpalam\nTelugu (1): chitti akchinata\nUrdu (2): sankha holi, sankhaphuli",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f376dc7bb61f9e88cb933a2e374fc1d"
+  ],
+  "source_record_ids": [
+    "links-1716",
+    "links-1717"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f376dc7bb61f9e88cb933a2e374fc1d"
+    ],
+    "source_record_ids": [
+      "links-1716",
+      "links-1717"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f376dc7bb61f9e88cb933a2e374fc1d",
+          "Plant Name": "Canscora decussata Schult",
+          "Status": "Found"
+        },
+        "source_plant_name": "Canscora decussata Schult",
+        "source_record_id": "links-1716",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f376dc7bb61f9e88cb933a2e374fc1d"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f376dc7bb61f9e88cb933a2e374fc1d",
+          "Plant Name": "Canscora decussata Schult.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Canscora decussata Schult.",
+        "source_record_id": "links-1717",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f376dc7bb61f9e88cb933a2e374fc1d"
+      }
+    ],
+    "source_xplant_id": "2f376dc7bb61f9e88cb933a2e374fc1d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

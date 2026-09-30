@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_61aed7a409b11b6e__distribution__001",
+  "plant_id": "plant_61aed7a409b11b6e",
+  "plant_name": "Musa paradisiaca Linn.",
+  "botanical_name": "Musa paradisiaca",
+  "botanical_authority": "L.",
+  "family": "MUSACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III\nDistribution entry: author: Author - K.M. Matthew; distribution: Distribution; title: Title - The Flora of the Palni Hills Vol-3\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 2\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36fd1eaaa9cc232c37fc32f777ae27e9"
+  ],
+  "source_record_ids": [
+    "links-0822"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36fd1eaaa9cc232c37fc32f777ae27e9"
+    ],
+    "source_record_ids": [
+      "links-0822"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36fd1eaaa9cc232c37fc32f777ae27e9",
+          "Plant Name": "Musa paradisiaca Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Musa paradisiaca Linn.",
+        "source_record_id": "links-0822",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36fd1eaaa9cc232c37fc32f777ae27e9"
+      }
+    ],
+    "source_xplant_id": "36fd1eaaa9cc232c37fc32f777ae27e9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

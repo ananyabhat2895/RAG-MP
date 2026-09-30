@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_af3fb7a236014193__bibliography__001",
+  "plant_id": "plant_af3fb7a236014193",
+  "plant_name": "Nymphaea alba Linn.",
+  "botanical_name": "Nymphaea alba",
+  "botanical_authority": "L.",
+  "family": "NYMPHAEACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: title: Title - FLORA OF INDIA VOL 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df390e69fd59e26c8d68780d1bf5dc19"
+  ],
+  "source_record_ids": [
+    "links-1115"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df390e69fd59e26c8d68780d1bf5dc19"
+    ],
+    "source_record_ids": [
+      "links-1115"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df390e69fd59e26c8d68780d1bf5dc19",
+          "Plant Name": "Nymphaea alba Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Nymphaea alba Linn.",
+        "source_record_id": "links-1115",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df390e69fd59e26c8d68780d1bf5dc19"
+      }
+    ],
+    "source_xplant_id": "df390e69fd59e26c8d68780d1bf5dc19",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

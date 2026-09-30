@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_42c5517f0e997ffc__systems_of_medicine__001",
+  "plant_id": "plant_42c5517f0e997ffc",
+  "plant_name": "Vitex Trifolia Linn. F.",
+  "botanical_name": "Vitex trifolia",
+  "botanical_authority": "L. F.",
+  "family": "VERBENACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd8e4afac03c74f8418e456476456161"
+  ],
+  "source_record_ids": [
+    "links-1400",
+    "links-1796"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd8e4afac03c74f8418e456476456161"
+    ],
+    "source_record_ids": [
+      "links-1400",
+      "links-1796"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd8e4afac03c74f8418e456476456161",
+          "Plant Name": "Vitex Trifolia Linn. F.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vitex Trifolia Linn. F.",
+        "source_record_id": "links-1400",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd8e4afac03c74f8418e456476456161"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd8e4afac03c74f8418e456476456161",
+          "Plant Name": "Vitex trifolia Linn.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vitex trifolia Linn.f.",
+        "source_record_id": "links-1796",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd8e4afac03c74f8418e456476456161"
+      }
+    ],
+    "source_xplant_id": "bd8e4afac03c74f8418e456476456161",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

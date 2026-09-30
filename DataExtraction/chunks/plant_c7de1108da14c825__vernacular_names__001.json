@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_c7de1108da14c825__vernacular_names__001",
+  "plant_id": "plant_c7de1108da14c825",
+  "plant_name": "Cassia angustifolia Vabl.",
+  "botanical_name": "Cassia senna",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): senna\nHindi (9): bhi-khakhosa, bhuikhakhasa, hindi-sana, hindi-sena, hindisana, sana ka patt, sanay, sena, sonamukhi\nKannada (7): nelaavare, nelaavarike, nelavare, nelavarike, nilavirai, soanaa mukhi, sonamukhi\nMalayalam (3): connamukki, nilavaka, sunnamukki\nMarathi (7): bhitarvada, bhitharvada, bhuh tharvad, mulkacha, shonamakhi, sonaamukhi, sonamukhi\nSanskrit (23): Sanskrit CommentsX amshunattydivandiva, bhumiari, bhumichari, bhumivalli, bhupadma, bootallapotaka, hemapatri, hemapatrika, jalatika, kalyani, mahaushadhi, malaharini, markandi, markandika, mridurechani, pitapushpi, rechani, sanamaki, stholotpala, svarnamukhi, svarnapatri, svarnapatrika, svarnini\nTamil (72): alakalam, alakalampokki, alakalampokkicceti, avakai, avarai#, avarai@, cantavari, cantavaricceti, cena, cimainilavakai, cimainilavirai, curaddu nilavarai, curattavarai, curattavirai, curattunilavakai, curattunilavarai, curattunilavirai, cuvarnamuki, kattunilavirai, kiruminaci, kuttuvakai, kuyattinalakai, maralakam, maralavakai, nattunilavakai, nattunilavirai, nauvuki, nauvukicceti, neeravarai, nelavakai, nelavar, nerivila, nila vagai, nila-varai, nilaavaarai, nilakavarai, nilava kai, nilavagai, nilavaghei, nilavakai, nilavarai, nilavarai#, nilavarai@, nilavavirai, nilaverei, nilavirai, nilavirai1, nilayavarai, nilini, nilinicceti, niliyavarai, oyamilacceti, oyamilam, patalavakai, pataruparacci, pulukkutori, putalamankai, putalamankaicceti, puvantam, puvantam#, puvantavam, talini2, tennevelly senna, tintukini, tirunelvelicenna, vanculikacceti, vanculikam, vatukai, vatukaicceti, vayucankaran, venmalampokki, vetalakkanni\nTelugu (5): naelaponna, nelaponna, nelatangedu, nelathangedu, nelatunghadoo\nUrdu (5): sana, sana -i- makki, sana-i-makki, sana-imakki, sena",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/4ebfdfa8bb171da203128b0e8add0ace"
+  ],
+  "source_record_ids": [
+    "links-1250",
+    "links-1887"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/4ebfdfa8bb171da203128b0e8add0ace"
+    ],
+    "source_record_ids": [
+      "links-1250",
+      "links-1887"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/4ebfdfa8bb171da203128b0e8add0ace",
+          "Plant Name": "Cassia angustifolia Vabl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cassia angustifolia Vabl.",
+        "source_record_id": "links-1250",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/4ebfdfa8bb171da203128b0e8add0ace"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/4ebfdfa8bb171da203128b0e8add0ace",
+          "Plant Name": "Cassia angustifolia Vahl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cassia angustifolia Vahl.",
+        "source_record_id": "links-1887",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/4ebfdfa8bb171da203128b0e8add0ace"
+      }
+    ],
+    "source_xplant_id": "43935e8d2aede8d6f69b22a7e157eba1",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

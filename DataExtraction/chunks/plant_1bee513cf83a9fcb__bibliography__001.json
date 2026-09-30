@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_1bee513cf83a9fcb__bibliography__001",
+  "plant_id": "plant_1bee513cf83a9fcb",
+  "plant_name": "Saussurea lappa C. B. Clarke",
+  "botanical_name": "Saussurea costus",
+  "botanical_authority": "(FALC.) LIPSCH.",
+  "family": "ASTERACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - DR.P.N.V.KURUP, DR.V.N.K.RAMADAS & JOSHI,P; title: Title - A HANDBOOK OF MEDICINAL PLANTS\nBibliography entry: author: Author - ANONYMOUS; title: Title - ASTANGA HRIDAYA KOSHA\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - N.S. MOOSS; title: Title - GANAS OF VAHATA\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - MUKERJI,B; title: Title - INDIAN PHARMACEUTICAL CODEX VOL.I\nBibliography entry: author: Author - ALIX RAISON; title: Title - LA-HARITA SAMHITA\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: author: Author - ANONYMOUS; title: Title - THE AYURVEDIC PHARMACOPOEIA OF INDIA PART 1. VOL.1\nBibliography entry: title: Title - FLORA OF INDIA VOL 12\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol II\nBibliography entry: title: Title - Medicinal and Aromatic Plants of Himachal Pradesh",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31/xclkon/325db44755404ee6df808902bab3d6d2"
+  ],
+  "source_record_ids": [
+    "links-1141",
+    "links-1142",
+    "links-1143"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31/xclkon/325db44755404ee6df808902bab3d6d2"
+    ],
+    "source_record_ids": [
+      "links-1141",
+      "links-1142",
+      "links-1143"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31/xclkon/325db44755404ee6df808902bab3d6d2",
+          "Plant Name": "Saussurea lappa C. B. Clarke",
+          "Status": "Found"
+        },
+        "source_plant_name": "Saussurea lappa C. B. Clarke",
+        "source_record_id": "links-1141",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31/xclkon/325db44755404ee6df808902bab3d6d2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31/xclkon/325db44755404ee6df808902bab3d6d2",
+          "Plant Name": "Saussurea lappa C. B. Clarke.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Saussurea lappa C. B. Clarke.",
+        "source_record_id": "links-1142",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31/xclkon/325db44755404ee6df808902bab3d6d2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31/xclkon/325db44755404ee6df808902bab3d6d2",
+          "Plant Name": "Saussurea lappa C.B. Clarke.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Saussurea lappa C.B. Clarke.",
+        "source_record_id": "links-1143",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31/xclkon/325db44755404ee6df808902bab3d6d2"
+      }
+    ],
+    "source_xplant_id": "a2699e66d5be442119735e8eff969a31",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

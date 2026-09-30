@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2ed9915e1c2042c2__botanical_synonyms__001",
+  "plant_id": "plant_2ed9915e1c2042c2",
+  "plant_name": "Garcinia cowa Roxb.",
+  "botanical_name": "Garcinia cowa",
+  "botanical_authority": "ROXB. EX DC.",
+  "family": "CLUSIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Garcinia kydia ROXB. X Full Botanical citation - Garcinia kydia Roxb., Fl. Ind. 2: 623. 1832; N.P.Singh in B.D.Sharma & Sanjappa, Fl India 3: 115. 1993.\nSynonym: Garcinia kydia ROXB.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15f0724866331d238de92cbc096eb7fd"
+  ],
+  "source_record_ids": [
+    "links-1064"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15f0724866331d238de92cbc096eb7fd"
+    ],
+    "source_record_ids": [
+      "links-1064"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15f0724866331d238de92cbc096eb7fd",
+          "Plant Name": "Garcinia cowa Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Garcinia cowa Roxb.",
+        "source_record_id": "links-1064",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15f0724866331d238de92cbc096eb7fd"
+      }
+    ],
+    "source_xplant_id": "15f0724866331d238de92cbc096eb7fd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

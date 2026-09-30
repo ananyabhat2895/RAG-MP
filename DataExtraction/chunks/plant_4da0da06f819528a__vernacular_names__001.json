@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_4da0da06f819528a__vernacular_names__001",
+  "plant_id": "plant_4da0da06f819528a",
+  "plant_name": "Piper betel",
+  "botanical_name": "Piper betle",
+  "botanical_authority": "L.",
+  "family": "PIPERACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): betel pepper\nHindi (6): nagar-bel, nagarbeldo, pan, pan tamboli, pantamboli, tambuli\nKannada (30): ambaadi yele, ambaadiyaele, ambadiyele, baccire, chigurele, cigurele, ele, ele balli, eleballi, elevalli, naaga valli, nagavali, nagavalli, nagawalli, paanu, panu, pattivilye, tambula, veelayada yele gida, veelyadele, vile, vileya, villayadelay, villayadele, villedele, vilya, vilyadaballi, vilye, vite, yele balli\nMalayalam (14): beetla, beetla-codi, gnyhasaya, gryashya, kotinnali, nagavalli, tambulam, verrila, verrilamatippu, vetta, vettila, vettilakkoti, vettilamatippu, vitika\nMarathi (10): khavayache-pan, naagavaela, nagvel, paan, paanvel, pan, videchapana, vidyache paan, vidyache-pan, vidyachi pan\nSanskrit (24): Sanskrit CommentsX ahivalli, bhakshyapatra, bhujangalata, bhujangavalli, divabhishta, kalaskanda, nagavallari, nagavalli, nagavallika, nagini, parna, parnaguhashaya, parnalata, phanivalli, saptalata, saptashira, saptasira, tambul, tambula, tambulah, tambulavallari, tambulavalli, tambulivalli, vitika\nTamil (121): akilatam, arpositakkoti, arppositam, caruku, catakalatcumi, cilanatini, cinakini, citankani, cittirappen, civanacini, civanakini, civanakini#, civanakini@, civanakiniyilai, civanakkini, civattanam, cukkuli, cukkuliyilai, culi, culilai, culini, culiniyilai, cuntaramatu, ikali, ikani, ilaikkodi, ilaiyamutu, illi3, irakani, irakkani, kamacanani, kamatenu2, kammaru verrilai, kanicci, kanicciyilai, karamattam, karavali, karavalli3, karavallikkoti2, karunkoti, kenitam, kontinni2, kotikkal, kotikkarkoti, mannilaventan 2, mannilaventanilai, mannilventan 2, matikkuruvi, mellataku, mellilai, nakai3, nakanavalli, nakattaiccuranamakki, nakavallari, nakavalli, nakavallittalam, nakavalliyilai, nakini2, navilai, nilakantanilai, niravalli, nirvalli, nirvalli2, nirvalli2@, nirvatan2, nitakam, ompulakkanni, pacaki, pacakikkoti, pacatam, paccai3, pachadam, pallalaki2, pallukkalaku, panal@, pannalakai, pannalatai, pannalataikkoti, pannavalli, patam 2, petrilai, pitikuruvi, sivanagini, sivangagini, sukkuli, sulini, tambulam, tampulakkamalam, tampulakkanni, tampulam, tampulamata, tampulapalam, tampulavalli, tampulikkoti, tampuliyilai, tekalatcumi, tevapetcaiyilai, tevappetcai, tevappittai, tirai, tiraiyal, tiraiyalali, tiraiyalalikkoti, uraikkumilai, urakavalli, utari, vativalaki, vellilai, verrilai, verrilaikkoti, verrilaivalli, vethilai, vetrilai, vettilai, vettilaichurul, vettilaikodi, vettilei, vicayam, virakkoti, virarkoti, vitikai",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470/xclkon/32d85bf12297cd316a17c10ff9bdbc80",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470"
+  ],
+  "source_record_ids": [
+    "links-0431",
+    "links-0432"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470/xclkon/32d85bf12297cd316a17c10ff9bdbc80",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470"
+    ],
+    "source_record_ids": [
+      "links-0431",
+      "links-0432"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470/xclkon/32d85bf12297cd316a17c10ff9bdbc80",
+          "Plant Name": "Piper betel",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper betel",
+        "source_record_id": "links-0431",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470/xclkon/32d85bf12297cd316a17c10ff9bdbc80"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470",
+          "Plant Name": "Piper betle Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper betle Linn.",
+        "source_record_id": "links-0432",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470"
+      }
+    ],
+    "source_xplant_id": "9f461c5fc4028cb583868fc315c34470",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

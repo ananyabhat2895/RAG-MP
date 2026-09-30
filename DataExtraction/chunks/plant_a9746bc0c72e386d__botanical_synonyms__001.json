@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_a9746bc0c72e386d__botanical_synonyms__001",
+  "plant_id": "plant_a9746bc0c72e386d",
+  "plant_name": "Commiphora mukul (Hook ex Stocks) Engl.",
+  "botanical_name": "Commiphora wightii",
+  "botanical_authority": "(A.) BHANDARI",
+  "family": "BURSERACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Balsamodendron mukul HOOK. EX STOCKS. X Full Botanical citation - Balsamodendron mukul Hook. ex Stocks in Hooker's J. Bot. Kew Gard. Misc. 1: 259. t. 8. 1849; Chithra & A.N. Henry in Hajra & al., Fl. India 4: 441. 1997. Commiphora mukul (HOOK. EX. STOCKS) ENGL. X Full Botanical citation - Commiphora mukul (Hook. ex Stocks) Engl. in A. & C. DC., Monogr. Phan. 4: 12. 1883; Chithra & A.N. Henry in Hajra & al., Fl. India 4: 445. 1997.\nSynonym: Balsamodendron mukul HOOK. EX STOCKS.\nSynonym: Commiphora mukul (HOOK. EX. STOCKS) ENGL.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be/xclkon/2849f8d9923be4d8c111b8b26de96f7c"
+  ],
+  "source_record_ids": [
+    "links-0664",
+    "links-0665"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be/xclkon/2849f8d9923be4d8c111b8b26de96f7c"
+    ],
+    "source_record_ids": [
+      "links-0664",
+      "links-0665"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be/xclkon/2849f8d9923be4d8c111b8b26de96f7c",
+          "Plant Name": "Commiphora mukul (Hook ex Stocks) Engl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Commiphora mukul (Hook ex Stocks) Engl.",
+        "source_record_id": "links-0664",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be/xclkon/2849f8d9923be4d8c111b8b26de96f7c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be/xclkon/2849f8d9923be4d8c111b8b26de96f7c",
+          "Plant Name": "Commiphora mukul (Hook. ex Stocks) Engl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Commiphora mukul (Hook. ex Stocks) Engl.",
+        "source_record_id": "links-0665",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be/xclkon/2849f8d9923be4d8c111b8b26de96f7c"
+      }
+    ],
+    "source_xplant_id": "8fdf276e71da0de9d2b47bd1003259be",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

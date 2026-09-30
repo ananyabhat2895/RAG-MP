@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_1362a7b6a9737986__distribution__001",
+  "plant_id": "plant_1362a7b6a9737986",
+  "plant_name": "Alternanthera sessilis",
+  "botanical_name": "Alternanthera sessilis",
+  "botanical_authority": "(L.) R.BR.EX DC.",
+  "family": "AMARANTHACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - A S Chauhan, K P Singh, D K Singh; distribution: Distribution; title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a"
+  ],
+  "source_record_ids": [
+    "links-0379",
+    "links-0380",
+    "links-0381",
+    "links-1701"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a"
+    ],
+    "source_record_ids": [
+      "links-0379",
+      "links-0380",
+      "links-0381",
+      "links-1701"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a",
+          "Plant Name": "Alternanthera sessilis",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alternanthera sessilis",
+        "source_record_id": "links-0379",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a",
+          "Plant Name": "Alternanthera sessilis (Linn.) R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alternanthera sessilis (Linn.) R. Br.",
+        "source_record_id": "links-0380",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a",
+          "Plant Name": "Alternanthera sessilis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alternanthera sessilis Linn.",
+        "source_record_id": "links-0381",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a",
+          "Plant Name": "Alternanthera sessilis Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alternanthera sessilis Br.",
+        "source_record_id": "links-1701",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f3091dde540ab224f51a6d7eded07a"
+      }
+    ],
+    "source_xplant_id": "b1f3091dde540ab224f51a6d7eded07a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

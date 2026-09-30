@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_86ccb146dc3ca740__vernacular_names__002",
+  "plant_id": "plant_86ccb146dc3ca740",
+  "plant_name": "Tinospora cordifolia (Willd) Miers ex Hook.f. & Th",
+  "botanical_name": "Tinospora cordifolia",
+  "botanical_authority": "(WILLD.) HOOK.F. & THOMS.",
+  "family": "MENISPERMACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (200): acaci#, acaci@, aiyam1, akacavalli, akacavallikkoti, akaci, akayavalli, akkinicikam, amarai, amarutavalli, amiltakkoti, amirta, amirtai, amirtai1, amirtak koti, amirtakkoti, amirtakoti, amirtam2, amirtamalakam, amirtatalaicci, amirtavalli, amirtavalli@, amradvalli, amridavalli, amudam, amukam1, amurtavalli, amutai1, amutam1, amutavi1, arucam, arukacikkoti, arukam, arukanci, arukkucali, asasi, avalli, avicali, cakamuli#, cakatamuli1, cakatuntam@, cakkaralatcanam, cancivi1, cankacakkoti, cankacam, cantira, cantiraputpam1, chintil, cilaki, cilakikkoti, cilam, cilanti#, cilantikakkoti, cilantikam, cindil, cinnaruka, cinnarukai, cinnarukam, cinnarutam, cintil, cintil kilanku, cintil koti, cintilikkoti, cintukkoti, civakamuli1, civan, civanti1@, civantikam#, civantil, civantiri, civantirikkoti, civetai2, civvanti, comavalakam1, comavalli, cucitakkoti, cucitam, cukkumacintikkoti, cukkumacintil, cukkumam, curamatil, cuvetakantam1, ettikakkoti, ettikam, ettikkoti, irecaki, irecakikkoti, kacci2, kaippuccintil, kaippuchindil, kaluci#, kaluci@, kaluki, kanam 1, kantakakkoti, kantakam, kantam, karimukavaci, katavam, kecaramutaiyan, kelikam1, kenci, kentakarani2, kotiyavisakari, kulappacimatu, kunali, kunali2, kuntali, kuntali3, kuntaliya, kuticci1, kutuci, makapapattalaki, maruntati, maruntatikkoti, mativamiyakkoti, mativamiyam, mativampal, mativampalkoti, matiyampal, matuparan, matuparinikai, matuparnikai, matuparunikai, motiraikenkai, mulakampakaittan, mutantakkoti, narcintil, narsindil, nateyam1, niraidarudian, niraitaruturu#, niraitaruturu@, nitaitaruturu, nocikakkoti, nocikam, ocitakkoti, ocitam#, padalamulan, paganrai, parivai 1#, parivai 1@, parivaikkoti, paruni 1, parunikai, parunikaikkoti, patalamulam 2, patalamuli 1, pattinimatu, ponnavalli, ponravalli, porcintil, reraki, seendil, seenthil, sheendi codie, shindil kodi, shindil-kodi, shindil-shakkarai, sindal, sindhil, sindil, sindilkodi, talaiccurul1, talaiccuruli1, talaiccuruni1, tantirakam, tantiram, tevaniram, timirakkatavi, tittamirtam, tittaparuvan, tulavai, turupulappam, turuputkarakkoti, turuputkaram, turuputpam, upavam, upavari, upavarikkoti, vaccakani, vaccatani#, vaccatani@, vaccatanikkoti, vacikaram 1, vallika, vallikakkoti, vallikkantam, vanci 1, vapamatu, vayamatu, vayatikakkoti, vellaiccintil, vencintil, vencintirkoti, venkaipatukani, verarku, vetiyati, vicalikkoti, virutalatanam",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a227d75a9ed29dd6632ef3de7bb0289"
+  ],
+  "source_record_ids": [
+    "links-0659",
+    "links-0660"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a227d75a9ed29dd6632ef3de7bb0289"
+    ],
+    "source_record_ids": [
+      "links-0659",
+      "links-0660"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a227d75a9ed29dd6632ef3de7bb0289",
+          "Plant Name": "Tinospora cordifolia (Willd) Miers ex Hook.f. & Th",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tinospora cordifolia (Willd) Miers ex Hook.f. & Th",
+        "source_record_id": "links-0659",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a227d75a9ed29dd6632ef3de7bb0289"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a227d75a9ed29dd6632ef3de7bb0289",
+          "Plant Name": "Tinospora cordifolia (Willd.) Miers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tinospora cordifolia (Willd.) Miers.",
+        "source_record_id": "links-0660",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a227d75a9ed29dd6632ef3de7bb0289"
+      }
+    ],
+    "source_xplant_id": "3a227d75a9ed29dd6632ef3de7bb0289",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

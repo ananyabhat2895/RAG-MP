@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_a4e7f7791e8bafb0__vernacular_names__001",
+  "plant_id": "plant_a4e7f7791e8bafb0",
+  "plant_name": "Argyreia speciosa Sweet",
+  "botanical_name": "Argyreia nervosa",
+  "botanical_authority": "(BURM.F.) BOJ.",
+  "family": "CONVOLVULACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): elephant climber, wood(en) rose\nHindi (11): ghabel, ghav bel, samandar-ka-pat, samandar-saf, samandar-sof, samandar-sokh, samandarka-pat, samandarsokh, samander-bel, samandrasokh, samudrasos\nKannada (15): bodathara, chandra paada, chandrapada, junga, kadalli, samudra balli, samudra haale, samudra soage, samudraballi, samudrahalaballi, samudrapaala, samudrapala, samudrapala balli, samudrasoge, samudrepalaballi\nMalayalam (15): marikkunni, marututari, perumkurumba, samudra-pach-cha, samudra-tsjogam, samudra-yogam, samudrap-pala, samudrapacca, samudrapachcha, samudrapala, samudrappacca, samudrappala, samudrastokam, samudratsjogam, samudrayogam\nMarathi (9): guli, samandarshoka, samandarshokh, samudasok, samudrashoka, samudrashokha, samudrasok, samudrasoka, samudrasokh\nSanskrit (25): Sanskrit CommentsX ajantri, antakotarapushpi, bastantri, basthantri, chhagala, chhagaladi, chhagalanghhri, chhagantri, dirgha, driddhadaraka, driddhadaru, hastivallia-daraka, murva, rykshagandhha, samudrapalaka, samudrapatra, samudrasosha, vrddhadaraka, vrddhadaru, vrddhadaruka, vrddhadarukah, vrdhadaraka, vriddhadaraka, vriddhadaru, vryddhadaraka\nTamil (47): ambagar, anpakar, anpar, cakarappaci, camuttira coki, camuttira coli, camuttira paccai, camuttiracceti#, camuttiracceti@, camuttiracoki, camuttiracovi, camuttirappaccai, camuttirappaccai#, camuttirappaccai@, camuttirappalai, camuttirappullani, camuttirayokam, kadal palai, kadal-palai, kadaspalai, kakkatan, katal palai, katalpaccai, katalpalai, katarcoki, katarpaccai, katarpalai, mirutu#, mirutu@, mirutupaccai, peymucuttai, peymunnai, peymunnai 1, sadarbalai, samtrappachai, samutra cheddie, samutrachogi, samutrappachai, samuttirappaccai, samuttirappalai, samuttrappalai, shamuddirap-pach-ch-ai, shamuddirapachchai, tokki, vakul, vakulappaccai, vakutpaccai\nTelugu (21): chandra podi, chandra-poda, chandrapaada, chandrapada, chandrapala, chandrapoda, kakkita, kakkitha, kokkili, kokkita, kokkiti, paalasamudra, pala-samudra, palasamudra, palasamudratiga, samudra pachha, samudra-pala, samudrapala, samudrappaala, samuttrappalai, thivvakkokkita\nTibetan (2): bhi tta dha ru, bhra ddha dha ru (d)\nUrdu (2): budhara, samandar sokh",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/fac1e9b33fbd53a0ab7b58344984a5b7"
+  ],
+  "source_record_ids": [
+    "links-1232",
+    "links-1981",
+    "links-2118"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/fac1e9b33fbd53a0ab7b58344984a5b7"
+    ],
+    "source_record_ids": [
+      "links-1232",
+      "links-1981",
+      "links-2118"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/fac1e9b33fbd53a0ab7b58344984a5b7",
+          "Plant Name": "Argyreia speciosa Sweet",
+          "Status": "Found"
+        },
+        "source_plant_name": "Argyreia speciosa Sweet",
+        "source_record_id": "links-1232",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/fac1e9b33fbd53a0ab7b58344984a5b7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/fac1e9b33fbd53a0ab7b58344984a5b7",
+          "Plant Name": "Argyreia speciosa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Argyreia speciosa",
+        "source_record_id": "links-1981",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/fac1e9b33fbd53a0ab7b58344984a5b7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/fac1e9b33fbd53a0ab7b58344984a5b7",
+          "Plant Name": "Argyreia speciosa Sweet.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Argyreia speciosa Sweet.",
+        "source_record_id": "links-2118",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/fac1e9b33fbd53a0ab7b58344984a5b7"
+      }
+    ],
+    "source_xplant_id": "607d1f5c66e7f3b95ed1190ae2e627e0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

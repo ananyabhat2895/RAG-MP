@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_26a8ebbb4b970a7b__bibliography__001",
+  "plant_id": "plant_26a8ebbb4b970a7b",
+  "plant_name": "Madhuca butyracea (Roxb.) Macbride",
+  "botanical_name": "Aisandra butyracea",
+  "botanical_authority": "(ROXB.) BAEHNI",
+  "family": "SAPOTACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: author: Author - MUKERJI,B; title: Title - INDIAN PHARMACEUTICAL CODEX VOL.I\nBibliography entry: title: Title - A Forest Flora for Kumaon",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13abc384d83346dcb2ce617d255f4e77/xclkon/3ff4adb60ccba96c944ebff4d146d791"
+  ],
+  "source_record_ids": [
+    "links-1213"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13abc384d83346dcb2ce617d255f4e77/xclkon/3ff4adb60ccba96c944ebff4d146d791"
+    ],
+    "source_record_ids": [
+      "links-1213"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13abc384d83346dcb2ce617d255f4e77/xclkon/3ff4adb60ccba96c944ebff4d146d791",
+          "Plant Name": "Madhuca butyracea (Roxb.) Macbride",
+          "Status": "Found"
+        },
+        "source_plant_name": "Madhuca butyracea (Roxb.) Macbride",
+        "source_record_id": "links-1213",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13abc384d83346dcb2ce617d255f4e77/xclkon/3ff4adb60ccba96c944ebff4d146d791"
+      }
+    ],
+    "source_xplant_id": "13abc384d83346dcb2ce617d255f4e77",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

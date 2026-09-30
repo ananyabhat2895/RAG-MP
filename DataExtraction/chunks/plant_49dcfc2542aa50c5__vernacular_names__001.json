@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_49dcfc2542aa50c5__vernacular_names__001",
+  "plant_id": "plant_49dcfc2542aa50c5",
+  "plant_name": "Mimusops elengi Linn.",
+  "botanical_name": "Mimusops elengi",
+  "botanical_authority": "L.",
+  "family": "SAPOTACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (11): bakul, bolsari, maulsarau, maulsari, maulser, maulsiri, molsari, molsiri, morsali, mulsari, tendu\nKannada (46): baagala mara, backhul, bagada, bagala, bakkula, bakul, bakula, bhagal, bogada, bokal, boklu, buckhul, bukul, halmadhu, kaalaale, kaesara, kalhaale, kalhale, kallaala, kanja, kesara, minjulu, mugali, mugula, mugule, mulasari, najalu mara, nanja, okula, pagade, pagade mara, pagade-mara, pagademara, pogade, pokkalathu, pokkalthu, ranja, ranjal, ranjalu, ranje, renge, renje, renji, renjil, renjyamboro, vakula\nMalayalam (14): bakulam, elangi, elani, elanni, elengi, elengii, elenjee, erini, ilanni, iranni, makira, makura, makuram, mukura\nMarathi (13): bakhor, bakul, bakula, barsoli, bkhor, omval, ovalli, owli, raini, ranjanasal, vavoli, wovali, wowli\nSanskrit (33): Sanskrit CommentsX anangaka, bakul, bakula, bakulah, chirapushpa, cirapuspa, dhanvi, dohala, gudhapushpaka, h, kantha, karuka, kesara, kesarapa, keshara, madhugandha, madhupanjara, madhupushpa, mukula, padyamoda, sharadika, sidhugandha, simhakesara, sindhugandha, sinhakesara, sthirakusuma, strimukhagandha, strimukhamadhu, surabhi, tailanga, vakula, varalahdha, visharada\nTamil (25): alagu, ilanci, ilanji, kecaram, kesaram, kosaram, magadam, maghizham, magil, magilam, magish, magizh, magizham, mahila, makilam, makilam maram, makilam vittu, makilampu, makizampu, makulampu, mogadam, mogidam, vagulam, vakulam, vakulampu\nTelugu (19): bogada, bogoda, kaesara, kasara, kesara, nemmi, nunni, paarijaathamu, pagada, pagade chettu, pal, parijatamu, pogada, pogada manu, pogada-manu, pogadoo, poghada, vakula, vakulamu\nTibetan (2): ba gu la, ba ku la (d)\nUrdu (2): maulsari, mulsari",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246aaeb04e3f6bef0fa0e1a5e1dc1412"
+  ],
+  "source_record_ids": [
+    "links-0264"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246aaeb04e3f6bef0fa0e1a5e1dc1412"
+    ],
+    "source_record_ids": [
+      "links-0264"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246aaeb04e3f6bef0fa0e1a5e1dc1412",
+          "Plant Name": "Mimusops elengi Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mimusops elengi Linn.",
+        "source_record_id": "links-0264",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246aaeb04e3f6bef0fa0e1a5e1dc1412"
+      }
+    ],
+    "source_xplant_id": "246aaeb04e3f6bef0fa0e1a5e1dc1412",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

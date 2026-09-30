@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c9e0725cd0600d94__images__001",
+  "plant_id": "plant_c9e0725cd0600d94",
+  "plant_name": "Diospyros tomentosa Roxb.",
+  "botanical_name": "Diospyros exsculpta",
+  "botanical_authority": "BUCH.-HAM.",
+  "family": "EBENACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2102c41baf782c0ba6d4e7576c8a6f05/xclkon/cc728dfa4dceec727a9d6a0784ccef4a"
+  ],
+  "source_record_ids": [
+    "links-1962"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2102c41baf782c0ba6d4e7576c8a6f05/xclkon/cc728dfa4dceec727a9d6a0784ccef4a"
+    ],
+    "source_record_ids": [
+      "links-1962"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2102c41baf782c0ba6d4e7576c8a6f05/xclkon/cc728dfa4dceec727a9d6a0784ccef4a",
+          "Plant Name": "Diospyros tomentosa Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Diospyros tomentosa Roxb.",
+        "source_record_id": "links-1962",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2102c41baf782c0ba6d4e7576c8a6f05/xclkon/cc728dfa4dceec727a9d6a0784ccef4a"
+      }
+    ],
+    "source_xplant_id": "2102c41baf782c0ba6d4e7576c8a6f05",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

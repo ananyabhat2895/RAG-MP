@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_7c7fcda56385e596__vernacular_names__001",
+  "plant_id": "plant_7c7fcda56385e596",
+  "plant_name": "Cyperus scariosus R. Br.",
+  "botanical_name": "Cyperus scariosus",
+  "botanical_authority": "R.BR.",
+  "family": "CYPERACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (1): nagarmotha\nKannada (2): konnarigadda, nagarmusthe\nMalayalam (1): korakizhanna\nMarathi (1): lawala\nSanskrit (13): Sanskrit CommentsX chakranksha, charukesara, chudalapindamusta, kachharuha, kalapini, nadeyi, nagar-mustaka, nagarmusta, nagarotha, payoda, shishira, uchchta, vrishadhmankshi\nTamil (2): koraikkilangu, nakamuttakkacu\nTelugu (4): kolathungamste, kolatungamuste, thungagaddaaveru, tungagaddalaveru\nUrdu (10): nagar motha, nagaramotha, nagarmontha, nagarmotha, nagarmotha sadkofi, sa d kofi, sad kofi, sad kofi nim kofta, sad koft, sadkofi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7ffdfc896e068bed55aa1a3391b5455"
+  ],
+  "source_record_ids": [
+    "links-0297"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7ffdfc896e068bed55aa1a3391b5455"
+    ],
+    "source_record_ids": [
+      "links-0297"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7ffdfc896e068bed55aa1a3391b5455",
+          "Plant Name": "Cyperus scariosus R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cyperus scariosus R. Br.",
+        "source_record_id": "links-0297",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7ffdfc896e068bed55aa1a3391b5455"
+      }
+    ],
+    "source_xplant_id": "c7ffdfc896e068bed55aa1a3391b5455",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

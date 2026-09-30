@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d74361a1b8a01711__bibliography__001",
+  "plant_id": "plant_d74361a1b8a01711",
+  "plant_name": "Bridelia retusa Spreng.",
+  "botanical_name": "Bridelia retusa",
+  "botanical_authority": "SPR.",
+  "family": "EUPHORBIACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: title: Title - Flora of Rajasthan Vol.2\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol. II\nBibliography entry: title: Title - Flora of Bankura District(West Bengal)\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol II\nBibliography entry: title: Title - FOREST FLORA OF MEGHALAYA VOL 2\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-2\nBibliography entry: title: Title - A Forest Flora for Kumaon\nBibliography entry: title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - Flora of Gujarat State Vol 2\nBibliography entry: title: Title - The Flora of Orissa Vol III\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246c1bfc9664c5c7264b7f7e78bdaada"
+  ],
+  "source_record_ids": [
+    "links-0552"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246c1bfc9664c5c7264b7f7e78bdaada"
+    ],
+    "source_record_ids": [
+      "links-0552"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246c1bfc9664c5c7264b7f7e78bdaada",
+          "Plant Name": "Bridelia retusa Spreng.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bridelia retusa Spreng.",
+        "source_record_id": "links-0552",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246c1bfc9664c5c7264b7f7e78bdaada"
+      }
+    ],
+    "source_xplant_id": "246c1bfc9664c5c7264b7f7e78bdaada",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

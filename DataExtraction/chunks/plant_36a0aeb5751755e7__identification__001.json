@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_36a0aeb5751755e7__identification__001",
+  "plant_id": "plant_36a0aeb5751755e7",
+  "plant_name": "Andropogon schoenanthus var. caesius Hack.",
+  "botanical_name": "Cymbopogon jwarancusa",
+  "botanical_authority": "(JONES) SCHULT. subsp. olivieri (BOISS.) SOENARKO.",
+  "family": "POACEAE",
+  "section": "identification",
+  "content": "Plant name: Andropogon schoenanthus var. caesius Hack. Botanical name: Cymbopogon jwarancusa Botanical authority: (JONES) SCHULT. subsp. olivieri (BOISS.) SOENARKO. Family: POACEAE Source xplant ID: 6832715067741f6e9677f7944949e196",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6832715067741f6e9677f7944949e196/xclkon/b78ab2d7aa23228dcdc0c2721a3926ad"
+  ],
+  "source_record_ids": [
+    "links-1640",
+    "links-1641"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6832715067741f6e9677f7944949e196/xclkon/b78ab2d7aa23228dcdc0c2721a3926ad"
+    ],
+    "source_record_ids": [
+      "links-1640",
+      "links-1641"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6832715067741f6e9677f7944949e196/xclkon/b78ab2d7aa23228dcdc0c2721a3926ad",
+          "Plant Name": "Andropogon schoenanthus var. caesius Hack.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Andropogon schoenanthus var. caesius Hack.",
+        "source_record_id": "links-1640",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6832715067741f6e9677f7944949e196/xclkon/b78ab2d7aa23228dcdc0c2721a3926ad"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6832715067741f6e9677f7944949e196/xclkon/b78ab2d7aa23228dcdc0c2721a3926ad",
+          "Plant Name": "Andropogon schoenanthus var. martini Hook.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Andropogon schoenanthus var. martini Hook.f.",
+        "source_record_id": "links-1641",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6832715067741f6e9677f7944949e196/xclkon/b78ab2d7aa23228dcdc0c2721a3926ad"
+      }
+    ],
+    "source_xplant_id": "6832715067741f6e9677f7944949e196",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

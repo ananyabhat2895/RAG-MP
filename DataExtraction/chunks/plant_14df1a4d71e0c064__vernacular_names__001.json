@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_14df1a4d71e0c064__vernacular_names__001",
+  "plant_id": "plant_14df1a4d71e0c064",
+  "plant_name": "Dalbergia latifolia Roxb.",
+  "botanical_name": "Dalbergia latifolia",
+  "botanical_authority": "ROXB.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): bombay blackwood or rosewood, indian rosewood, malabar rosewood\nHindi (7): kala-shisham, pai, safed-sisum, shisham, shisu, sishal, walayti shisham\nKannada (27): agaru beete, beete, beete mara, beetee, beetee rooku, belbiti, bete, bide, bidi, bite, biti, bude, budi, ibadi, ibbadi, ibidi, ibri, kareevyaadhi, karevyadi, karimbeetti, karimbetti, kariya ibbadi, kodegatti, shisham, shushmaru, thodagatti, todagatti\nMalayalam (22): beety, biti, cholaibiti, cholavitti, colavitti, eettee, eetti, eettie, itti, kareetti, karibiti, karitti, kariveeti, karuvitti, karvitti, ulmalavitti, ulmaleiveetti, ulnalavitti, veeti, veetti, viti, vitti\nMarathi (13): bhotheula, kalarukh, kalasinsapa, sheesham, sheesu, shisham, shisu, sisam, siso, sissu, sissui, sisu, sisva\nSanskrit (3): Sanskrit CommentsX krishna-sinsapa, shishapa, simsapa\nTamil (12): eetti, eravadi, irupottu, iruppottu, itti, karundorviral, nukku, tawadi, thodagathi, thothagatthi, todagatti, totakatti\nTelugu (28): chava, chittage, chittegi, cittegi, cittengi, gitegi, gittagee, iraguduchava, iridi, iruduchava, irugudi, irugudu, iruguduceva, iruguduchava, iruvudu, ittigi, jitangi, jitregi, jittegi, nalla yarugudu chettu, viroogoodoocharva, virugadu, virugaducheva, virugudi-cheva, virugudu, viruguduceva, yerugudu, zitregi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/65729cfec46ebfbd5adf66058b28f6a4"
+  ],
+  "source_record_ids": [
+    "links-1794"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/65729cfec46ebfbd5adf66058b28f6a4"
+    ],
+    "source_record_ids": [
+      "links-1794"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/65729cfec46ebfbd5adf66058b28f6a4",
+          "Plant Name": "Dalbergia latifolia Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dalbergia latifolia Roxb.",
+        "source_record_id": "links-1794",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/65729cfec46ebfbd5adf66058b28f6a4"
+      }
+    ],
+    "source_xplant_id": "65729cfec46ebfbd5adf66058b28f6a4",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_a1e7dad460c4b4d7__identification__001",
+  "plant_id": "plant_a1e7dad460c4b4d7",
+  "plant_name": "Pinus longifolia Roxb.",
+  "botanical_name": "Pinus roxburghii",
+  "botanical_authority": "SARG.",
+  "family": "PINACEAE",
+  "section": "identification",
+  "content": "Plant name: Pinus longifolia Roxb. Botanical name: Pinus roxburghii Botanical authority: SARG. Family: PINACEAE Source xplant ID: 5c592c064b9567277c71857fa99918e3",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3/xclkon/8dd249de9bd0e593c326f7af795248a8",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3"
+  ],
+  "source_record_ids": [
+    "links-1047",
+    "links-1737"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3/xclkon/8dd249de9bd0e593c326f7af795248a8",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3"
+    ],
+    "source_record_ids": [
+      "links-1047",
+      "links-1737"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3/xclkon/8dd249de9bd0e593c326f7af795248a8",
+          "Plant Name": "Pinus longifolia Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pinus longifolia Roxb.",
+        "source_record_id": "links-1047",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3/xclkon/8dd249de9bd0e593c326f7af795248a8"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3",
+          "Plant Name": "Pinus roxburghii Sargent.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pinus roxburghii Sargent.",
+        "source_record_id": "links-1737",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3"
+      }
+    ],
+    "source_xplant_id": "5c592c064b9567277c71857fa99918e3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4dc87afd3fc3f07b__vernacular_names__001",
+  "plant_id": "plant_4dc87afd3fc3f07b",
+  "plant_name": "Origanum vulgare Linn.",
+  "botanical_name": "Origanum vulgare",
+  "botanical_authority": "L.",
+  "family": "LAMIACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): common marjoram, marjoram, oregano, wild marjoram\nHindi (5): ban tulsi, jonkjari, mirzanjosh, mridu-maru-vama, sathra\nKannada (2): bilee maruga patre, maruga\nMarathi (1): mijirikamy\nSanskrit (1): Sanskrit CommentsX marubakah\nTelugu (2): mridu maruvamu, mridumaruvamu\nUrdu (2): satar, satar farsi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c0232afcae9216a8b8e6ca71dadbee1"
+  ],
+  "source_record_ids": [
+    "links-1257"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c0232afcae9216a8b8e6ca71dadbee1"
+    ],
+    "source_record_ids": [
+      "links-1257"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c0232afcae9216a8b8e6ca71dadbee1",
+          "Plant Name": "Origanum vulgare Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Origanum vulgare Linn.",
+        "source_record_id": "links-1257",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c0232afcae9216a8b8e6ca71dadbee1"
+      }
+    ],
+    "source_xplant_id": "6c0232afcae9216a8b8e6ca71dadbee1",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

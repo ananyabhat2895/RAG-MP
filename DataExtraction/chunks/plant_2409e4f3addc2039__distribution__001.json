@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_2409e4f3addc2039__distribution__001",
+  "plant_id": "plant_2409e4f3addc2039",
+  "plant_name": "Moringa concanensis Nimmo.",
+  "botanical_name": "Moringa concanensis",
+  "botanical_authority": "NIMMO EX DALZ. & GIBSON",
+  "family": "MORINGACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/786351fdbb2de896617a4b2c7624b1ad"
+  ],
+  "source_record_ids": [
+    "links-1220",
+    "links-1790"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/786351fdbb2de896617a4b2c7624b1ad"
+    ],
+    "source_record_ids": [
+      "links-1220",
+      "links-1790"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/786351fdbb2de896617a4b2c7624b1ad",
+          "Plant Name": "Moringa concanensis Nimmo.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Moringa concanensis Nimmo.",
+        "source_record_id": "links-1220",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/786351fdbb2de896617a4b2c7624b1ad"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/786351fdbb2de896617a4b2c7624b1ad",
+          "Plant Name": "Moringa concanensis Nimmo",
+          "Status": "Found"
+        },
+        "source_plant_name": "Moringa concanensis Nimmo",
+        "source_record_id": "links-1790",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/786351fdbb2de896617a4b2c7624b1ad"
+      }
+    ],
+    "source_xplant_id": "786351fdbb2de896617a4b2c7624b1ad",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

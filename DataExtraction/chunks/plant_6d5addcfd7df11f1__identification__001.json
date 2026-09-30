@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_6d5addcfd7df11f1__identification__001",
+  "plant_id": "plant_6d5addcfd7df11f1",
+  "plant_name": "Polygonatum verticillatum Allioni",
+  "botanical_name": "Polygonatum verticillatum",
+  "botanical_authority": "(L.) ALL.",
+  "family": "LILIACEAE",
+  "section": "identification",
+  "content": "Plant name: Polygonatum verticillatum Allioni Botanical name: Polygonatum verticillatum Botanical authority: (L.) ALL. Family: LILIACEAE Source xplant ID: e9533607221db30df824b83bbba23b46",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9533607221db30df824b83bbba23b46"
+  ],
+  "source_record_ids": [
+    "links-1228"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9533607221db30df824b83bbba23b46"
+    ],
+    "source_record_ids": [
+      "links-1228"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9533607221db30df824b83bbba23b46",
+          "Plant Name": "Polygonatum verticillatum Allioni",
+          "Status": "Found"
+        },
+        "source_plant_name": "Polygonatum verticillatum Allioni",
+        "source_record_id": "links-1228",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9533607221db30df824b83bbba23b46"
+      }
+    ],
+    "source_xplant_id": "e9533607221db30df824b83bbba23b46",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

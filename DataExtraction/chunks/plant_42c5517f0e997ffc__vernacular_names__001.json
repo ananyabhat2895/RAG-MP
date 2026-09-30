@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_42c5517f0e997ffc__vernacular_names__001",
+  "plant_id": "plant_42c5517f0e997ffc",
+  "plant_name": "Vitex Trifolia Linn. F.",
+  "botanical_name": "Vitex trifolia",
+  "botanical_authority": "L. F.",
+  "family": "VERBENACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (10): nichinda, nirgunda, nishinda, pani-ke-sanbhalu, pani-ki-samhalu, pani-ki-shambalu, panikisanbhalu, saphed-samhalu, sufed-sanbhalu, sufedsanbhalu\nKannada (27): karanuchi, karinekki, karinocci, karinochi, karinoochi, karnucci, lakki, lakkili, lakkli, leckee, lingura, maralu lakki, neer ghunga, neer lakki, neergundi, neerlakki, nekki, nekki nochi, nekkinocci, nira-lakki-gida, nirlakki, nirulakki, nocci, nochhi, nochi, sakki, samudra lakki\nMalayalam (17): cara-nosi, caranoochie, caranosi, karinocci, karinochi, karunocchi, karunocci, lagondi, neerinochi, neerinochil, nir-noch-chi, nirnocci, nirnochi, nirnoschi, nocci, nochi, vennocci\nMarathi (3): indrani, lingur, nirgundi\nSanskrit (22): Sanskrit CommentsX hakrani, indranika, indrasurasa, jalanirgundi, kashanashini, krishnanirgundi, nilanirgundi, nilika, nirgundi, sephalika, shuklaprishthaka, sindhuka, sindhukara, sindukara, sinduvara, sinduvarah, surasa, surasa-vrikshaha, svetapushpa, svetasurasa, visugandhaka, vrikshaha\nTamil (27): cepalikai 2, cirunocci, erikuliran, karunocci, karunochi, kotiyanarkuni, kotiyanirakkunni, narcitti, neer nochi, neer-nochie, nili 2, nir-noch-chi, nir-nochi, nirkkunti, nirnocci, nirnocci 1, nirnoccicceti, nirnochchi, nirnochi, nocci 2, nochi, shiru-noch-chi, shirunoch-chi, sirunocci, sirunochi, ukkiram, ulokaveticci\nTelugu (22): chiru vavili, chiruvaavili, chiruvavili, ciruvavili, neelavaavili, neelavayalie, neeruvaavili, nelavavili, nilavavili, nilivavili, niru-vavili, niruvavili, noccili, nochali, nochili, shiru-vavili, shiruvavili, tellavavili, thellavaalli, vavili, vavili chettu, veyala\nTibetan (1): si ndu ba ra",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd8e4afac03c74f8418e456476456161"
+  ],
+  "source_record_ids": [
+    "links-1400",
+    "links-1796"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd8e4afac03c74f8418e456476456161"
+    ],
+    "source_record_ids": [
+      "links-1400",
+      "links-1796"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd8e4afac03c74f8418e456476456161",
+          "Plant Name": "Vitex Trifolia Linn. F.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vitex Trifolia Linn. F.",
+        "source_record_id": "links-1400",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd8e4afac03c74f8418e456476456161"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd8e4afac03c74f8418e456476456161",
+          "Plant Name": "Vitex trifolia Linn.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vitex trifolia Linn.f.",
+        "source_record_id": "links-1796",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd8e4afac03c74f8418e456476456161"
+      }
+    ],
+    "source_xplant_id": "bd8e4afac03c74f8418e456476456161",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

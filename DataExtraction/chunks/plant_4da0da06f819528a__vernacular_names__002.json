@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_4da0da06f819528a__vernacular_names__002",
+  "plant_id": "plant_4da0da06f819528a",
+  "plant_name": "Piper betel",
+  "botanical_name": "Piper betle",
+  "botanical_authority": "L.",
+  "family": "PIPERACEAE",
+  "section": "vernacular_names",
+  "content": "Telugu (18): aakumadupa, akumadhupa, akumadupa, akumadupu, kameraku, kammeaaku, kammeraku, naagavali, naagavalli, naga-valli, nagavali, nagavalli, phanirajavalli, tamalapaku, tamalapakutamulapataku, thamaalapaaku, thamulapat aaku, vitika\nTibetan (1): na-ga\nUrdu (6): burg pan taza, burg tambul, khushk pan, pan desi, pan ke patton ka pani, tambol (paan)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470/xclkon/32d85bf12297cd316a17c10ff9bdbc80",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470"
+  ],
+  "source_record_ids": [
+    "links-0431",
+    "links-0432"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470/xclkon/32d85bf12297cd316a17c10ff9bdbc80",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470"
+    ],
+    "source_record_ids": [
+      "links-0431",
+      "links-0432"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470/xclkon/32d85bf12297cd316a17c10ff9bdbc80",
+          "Plant Name": "Piper betel",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper betel",
+        "source_record_id": "links-0431",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470/xclkon/32d85bf12297cd316a17c10ff9bdbc80"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470",
+          "Plant Name": "Piper betle Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper betle Linn.",
+        "source_record_id": "links-0432",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470"
+      }
+    ],
+    "source_xplant_id": "9f461c5fc4028cb583868fc315c34470",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

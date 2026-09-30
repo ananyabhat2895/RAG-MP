@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_cdf8015f1a2d38e4__images__001",
+  "plant_id": "plant_cdf8015f1a2d38e4",
+  "plant_name": "Triumfetta rotundifolia Lam.",
+  "botanical_name": "Triumfetta rotundifolia",
+  "botanical_authority": "LAM.",
+  "family": "TILIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/427434d878d5f9cdf9926ed3d54ebfab"
+  ],
+  "source_record_ids": [
+    "links-0609"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/427434d878d5f9cdf9926ed3d54ebfab"
+    ],
+    "source_record_ids": [
+      "links-0609"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/427434d878d5f9cdf9926ed3d54ebfab",
+          "Plant Name": "Triumfetta rotundifolia Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Triumfetta rotundifolia Lam.",
+        "source_record_id": "links-0609",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/427434d878d5f9cdf9926ed3d54ebfab"
+      }
+    ],
+    "source_xplant_id": "427434d878d5f9cdf9926ed3d54ebfab",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e69361abd7679171__distribution__001",
+  "plant_id": "plant_e69361abd7679171",
+  "plant_name": "Nardostachys jatamansi DC.",
+  "botanical_name": "Nardostachys grandiflora",
+  "botanical_authority": "DC.",
+  "family": "VALERIANACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Dr. Narain Singh Chauhan; distribution: Distribution; title: Title - Medicinal and Aromatic Plants of Himachal Pradesh\nDistribution entry: author: Author - G.S.Rawat; distribution: Distribution; title: Title - Alpine meadows of Uttaranchal",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a61ff660a6025d0e7740a7b7553fc537/xclkon/8e51c170f7947f9e380b1062cc0d0a9f"
+  ],
+  "source_record_ids": [
+    "links-0771"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a61ff660a6025d0e7740a7b7553fc537/xclkon/8e51c170f7947f9e380b1062cc0d0a9f"
+    ],
+    "source_record_ids": [
+      "links-0771"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a61ff660a6025d0e7740a7b7553fc537/xclkon/8e51c170f7947f9e380b1062cc0d0a9f",
+          "Plant Name": "Nardostachys jatamansi DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Nardostachys jatamansi DC.",
+        "source_record_id": "links-0771",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a61ff660a6025d0e7740a7b7553fc537/xclkon/8e51c170f7947f9e380b1062cc0d0a9f"
+      }
+    ],
+    "source_xplant_id": "a61ff660a6025d0e7740a7b7553fc537",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

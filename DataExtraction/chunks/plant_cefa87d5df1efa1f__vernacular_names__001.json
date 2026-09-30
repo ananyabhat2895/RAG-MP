@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_cefa87d5df1efa1f__vernacular_names__001",
+  "plant_id": "plant_cefa87d5df1efa1f",
+  "plant_name": "Acacia concinna D. C.",
+  "botanical_name": "Acacia sinuata",
+  "botanical_authority": "(LOUR.) MERR.",
+  "family": "MIMOSACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (6): allah, kochi, koci, ritha, satala, shikakai\nKannada (25): cige, manda seege, mandashige, mandasige, mandsige, mugali, mugli, ollesige, sage, seegay, seege, seegiballi, sheegae, shige, shige kayi, shigekayi, shiyakai, sige, sige balli, sigeballi, sigekai, sikiaro, wallasige, wolleshige, wollesige\nMalayalam (18): carmalanta, carmantala, cheenikai, cheenikka, cheeyakayi, chinik, chinik-kaya, chinikkaya, chinnikayi, cikakayi, cikkakka, cinikka, cinikkaya, civikka, ciyakayi, inna, shikai, shinikkaya\nMarathi (7): reetah, shikakaayi, shikakai, sikakai, sikekaayi, sikekai, sikekay\nSanskrit (19): Sanskrit CommentsX amala, bahuphenarasa, bhuriphena, carmakansa, carmakasa, carmasahva, charmakasha, dipta, patraghana, phena, phenila, saptala, sara, sarmakasa, satala, svarnapushpi, vidula, vimala, vishanika\nTamil (42): ceyakkay, ceyakkaycceti, cheek-kai, cika, cikaikkai, cikaikkay, cikaikkay#, cikaikkay@, cikamaram, cikaram$, cikkai, cikkay, cinkay1, civappuvaci, civappuvacikkay, ciyakkai, ciyakkay, ciyakkay@, enneyppokki, icciyami, icciyamikkay, kantavalli, kappukkay, kappukkaycceti, nakuracikacceti, nakuracikam, nallachiyakkay, nallaciyakkay, nattucciyakkay, neyccikkupokki, seekai, sheeakai, sheekay, sheeyakay, shika, shivakai, sigaikai, sigakai, siyakayi, siyakkai, siyakkay, tuyyai\nTelugu (12): cheekaya, chika-kai, chikaya, chikayi, gogu, manjisikaya, seege, seekaya, shikaya, shikayi, sikai, sikaya\nTibetan (1): sa la\nUrdu (1): shikakai",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/a5a87d4f4fba45600d69867dfb39d481"
+  ],
+  "source_record_ids": [
+    "links-1731",
+    "links-1732"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/a5a87d4f4fba45600d69867dfb39d481"
+    ],
+    "source_record_ids": [
+      "links-1731",
+      "links-1732"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/a5a87d4f4fba45600d69867dfb39d481",
+          "Plant Name": "Acacia concinna D. C.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Acacia concinna D. C.",
+        "source_record_id": "links-1731",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/a5a87d4f4fba45600d69867dfb39d481"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/a5a87d4f4fba45600d69867dfb39d481",
+          "Plant Name": "Acacia concinna DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Acacia concinna DC.",
+        "source_record_id": "links-1732",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/a5a87d4f4fba45600d69867dfb39d481"
+      }
+    ],
+    "source_xplant_id": "f07e3b8351810aafdef5ffd5c917230f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

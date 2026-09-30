@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_1de05e8f89ccef2b__vernacular_names__002",
+  "plant_id": "plant_1de05e8f89ccef2b",
+  "plant_name": "Ocimum sanctum Linn. var.",
+  "botanical_name": "Ocimum tenuiflorum",
+  "botanical_authority": "L.",
+  "family": "LAMIACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (228): alakai2, alangai, alankai, amirtai3, amirutai2, ankaiyapputu, apanati, arappatumam, ari, ari2, arippiriyai, arpattiram, cakkiraparani, cananki, canikappuri1, canikkappuri1, cantari, cantuki, cantukicceti, carakatiracceti, carankatiram, catippattiram1, ceccai, cempirakkam, cenkamalai, cenkamalaicceti, centiruvu, centiruvucceti, cinkapperumal1, cinkattulaci, cinkattulacicceti, cirattulay, cirttulay, cirttulaycceti, cittiraparanati, cocankini, cocankinicceti, cumancari, curaca, curacam2, curanca, curapi3, curapu1, curapuki, curapukicceti, curati1, curecciyaicceti, curiyakarantai, curocciyai, cutankamuli, cuvatukanti, cuvi, inpai, iraincatippu, iramatulaci, irantulitacceti, irantulitam, iratcaci, kakotaracceti, kakotaram, kalacakam, kalaimalai, kalamallikai, kamanrati, kanam 2, kancam2, kannanitamuli, kapattacceti, kapattam, karalakam, kariyamal@, kariyamaltulaci, karparam, karttulaci, karundulaci, karunkancankorai, karunthulasi, karuntoti, karuntulaasi, karuntulaci, karuntulapam, karuntulay, karuttulaci, karuttulasi, katakanati, katillakam, katincaram, kattuttulaci, kauri1, kayastam1, kayattam, keliccaru, kentaputpapattiri, kevura, kevuracikacceti, kevuracikam, kincakapurunicceti, kincukaparani, kirusna, kirusnamatu, kirusnatcakkala, kirusnatulaci, kirutanmuli, kiruttinamallikam, kiruttinamuli1, kolaivintu, kulimittan, kullai, kumali, kumili, kumuli, kumuli2, kuruntulay, kuteram, kutirakam, kuvalai@, malalankal, malarccunaiyal, malgodai, malkarai, malkotai, malkotaittulaci, malmurugu, malmuruku, maltotai, mamukilai, marumatikkoluntu, matavarotti, matulanatacceti, matulanatam, matulantacam, mayanmalai, mayavanmuli, mayirttulaci, mudi, nakamata, nakamati, nakamatikacceti, nakamatikam, nalacicumancari, nallathulasi, nallatulaci, naltulaci, naracinkitam, narrulaci, nattuttulaci, nazel-nagai, nediyon, netiyon1, netiyonceti, nilalnaval, nilattulaci, nilattulay, nirancattimuli, pal, pancam, pannaci, pannakacceti, pannakam, patali, patali@, pavani, pavanicceti, piretaratcaci, pirundam, piruntakacceti, piruntam, punniyai, putakkini, putappiriyanakam, ramatulaci, tampiravayaccattumuli, tantu2, thulasi, tiricamancari, tirikonamancari, tirilekitam, tiritacamancari, tirkkalekitam, tirumalmulikai, tirunati, tiruttula, tiruttulacicceti, tiruttulay, tiruttulay#, tiruttulay@, tiruvanam, titturuni, titturunicceti, tivirakantam2, toolasee vayr, tulaci, tulai, tulantu, tulashi, tulasi, tulavu, tulay@, tulaycceti, tulayvanam, tulsi, turentam, tuvai, tuvaici, tuvaicicceti, ulaikkuruntu, ulaikkuruttu, utamancari, utiri2, vaikuntam, vanam, vanam#, vanam@, vavayam, vellaittulaci, vintupattiram, viruntai, viruntam, viruntavanam, viruttam 1, visnumatai, visnupattiram, visnutulaci, visnuvetai, visnuvetaicceti, vittunupariyam, vittunuppiriyam, yantutanati",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3faedcb64cd0f9a51be4c9d54acaf69/xclkon/70fe8f0f9c2b14cf8f0862e6637ffe50"
+  ],
+  "source_record_ids": [
+    "links-0844",
+    "links-1446",
+    "links-1879"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3faedcb64cd0f9a51be4c9d54acaf69/xclkon/70fe8f0f9c2b14cf8f0862e6637ffe50"
+    ],
+    "source_record_ids": [
+      "links-0844",
+      "links-1446",
+      "links-1879"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3faedcb64cd0f9a51be4c9d54acaf69/xclkon/70fe8f0f9c2b14cf8f0862e6637ffe50",
+          "Plant Name": "Ocimum sanctum Linn. var.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ocimum sanctum Linn. var.",
+        "source_record_id": "links-0844",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3faedcb64cd0f9a51be4c9d54acaf69/xclkon/70fe8f0f9c2b14cf8f0862e6637ffe50"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3faedcb64cd0f9a51be4c9d54acaf69/xclkon/70fe8f0f9c2b14cf8f0862e6637ffe50",
+          "Plant Name": "Ocimum sanctum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ocimum sanctum Linn.",
+        "source_record_id": "links-1446",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3faedcb64cd0f9a51be4c9d54acaf69/xclkon/70fe8f0f9c2b14cf8f0862e6637ffe50"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3faedcb64cd0f9a51be4c9d54acaf69/xclkon/70fe8f0f9c2b14cf8f0862e6637ffe50",
+          "Plant Name": "Ocimum sanctum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ocimum sanctum",
+        "source_record_id": "links-1879",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3faedcb64cd0f9a51be4c9d54acaf69/xclkon/70fe8f0f9c2b14cf8f0862e6637ffe50"
+      }
+    ],
+    "source_xplant_id": "b3faedcb64cd0f9a51be4c9d54acaf69",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_784d0837e9da60c9__distribution__001",
+  "plant_id": "plant_784d0837e9da60c9",
+  "plant_name": "Erythrina indica Lam.",
+  "botanical_name": "Erythrina variegata",
+  "botanical_authority": "L.",
+  "family": "FABACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d/xclkon/ffef96b012fd8b5ae25a48a954e3c5df",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d"
+  ],
+  "source_record_ids": [
+    "links-1436",
+    "links-1438",
+    "links-1440"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d/xclkon/ffef96b012fd8b5ae25a48a954e3c5df",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d"
+    ],
+    "source_record_ids": [
+      "links-1436",
+      "links-1438",
+      "links-1440"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d/xclkon/ffef96b012fd8b5ae25a48a954e3c5df",
+          "Plant Name": "Erythrina indica Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Erythrina indica Lam.",
+        "source_record_id": "links-1436",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d/xclkon/ffef96b012fd8b5ae25a48a954e3c5df"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d",
+          "Plant Name": "Erythrina variegata Linn. Var. orientalis (Linn.)",
+          "Status": "Found"
+        },
+        "source_plant_name": "Erythrina variegata Linn. Var. orientalis (Linn.)",
+        "source_record_id": "links-1438",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d",
+          "Plant Name": "Erythrina variegata Linn. var. orientalis (Linn.)",
+          "Status": "Found"
+        },
+        "source_plant_name": "Erythrina variegata Linn. var. orientalis (Linn.)",
+        "source_record_id": "links-1440",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d"
+      }
+    ],
+    "source_xplant_id": "9da4a2d302421acdaade99983bef319d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

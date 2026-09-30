@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a93e506b7590ee40__systems_of_medicine__001",
+  "plant_id": "plant_a93e506b7590ee40",
+  "plant_name": "Litsea glutinosa (Lour.) C.B. Robins.",
+  "botanical_name": "Litsea glutinosa",
+  "botanical_authority": "(LOUR.) ROBINSON",
+  "family": "LAURACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk Botanical Synonyms (3) - Litsea chinensis LAM. X Full Botanical citation - Litsea chinensis Lam.\nSystem of medicine: Encycl. 3: 574. 1791; R.D.Gaur\nSystem of medicine: Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes)\nSystem of medicine: TransMedia\nSystem of medicine: Srinagar (Garhwal)\nSystem of medicine: India\nSystem of medicine: 57. 1999. Litsea glutimosa (LOUR.) C.B. ROBINSON Litsea sebifera PERS.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77"
+  ],
+  "source_record_ids": [
+    "links-1275"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77"
+    ],
+    "source_record_ids": [
+      "links-1275"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77",
+          "Plant Name": "Litsea glutinosa (Lour.) C.B. Robins.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Litsea glutinosa (Lour.) C.B. Robins.",
+        "source_record_id": "links-1275",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77"
+      }
+    ],
+    "source_xplant_id": "0637eb3e4addf2dee845ceecd804ae77",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

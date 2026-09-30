@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4ab7864c8415a799__vernacular_names__001",
+  "plant_id": "plant_4ab7864c8415a799",
+  "plant_name": "Smilax zeylanica Linn.",
+  "botanical_name": "Smilax zeylanica",
+  "botanical_authority": "L.",
+  "family": "SMILACACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (7): bhitura, chobchini, jangli aushbah, jangliaushbah, kamurika, ram-dataun, ramdatun\nKannada (2): kaadu hambu, kaadu hambu thaavare\nMalayalam (5): can-villandi, chiruchakayagaoolli, cirucakayagavalli, kaltamara, karivilanti\nMarathi (8): ghet-vel, gholyel, ghotbel, ghottee, ghotvel, guti, gutwel, kaval-kamti\nSanskrit (1): Sanskrit CommentsX vanamadhusnahi\nTamil (40): arakkam1, arakkam2, arakkappalai, arakkappilappi, aritinpalai, aritinvayacci, arkam1, arkappilappu, arucinavayaci, aruninam1, ayadi, ayati, ayatippalai, cirankati, civakam1, civakamuli2, civakappalai, civatacu, curanacini, irucu1, irucuppalai, kal tamarai, kamalaiyatticuranacini, kattu-kodi, kattukodi, kottarkulavi, kucciratam, malai-t-tamarai, malaittamarai, maturova, pakuttirarokacamani, payacam, payaci, payacu, payaruti, payatuti, periyakanni, peruntamarai, tirunamappalai, varkkaputpam\nTelugu (17): konda dantena, konda garbha-tige, konda gurivatheega, kondadantena, kondagarbhathige, kondagarbhatige, kondaguruva-tige, kondatamara, kondathaamara, kummarabaddu, kummarabeddu, kummeritheega, kushtapu tamara, kushtaputamara, phirangi mokka, sitapa, sithapa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8c507db66708c7e8fc120d10205596c"
+  ],
+  "source_record_ids": [
+    "links-1885"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8c507db66708c7e8fc120d10205596c"
+    ],
+    "source_record_ids": [
+      "links-1885"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8c507db66708c7e8fc120d10205596c",
+          "Plant Name": "Smilax zeylanica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Smilax zeylanica Linn.",
+        "source_record_id": "links-1885",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8c507db66708c7e8fc120d10205596c"
+      }
+    ],
+    "source_xplant_id": "f8c507db66708c7e8fc120d10205596c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

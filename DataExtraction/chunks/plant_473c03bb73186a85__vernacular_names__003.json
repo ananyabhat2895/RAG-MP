@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_473c03bb73186a85__vernacular_names__003",
+  "plant_id": "plant_473c03bb73186a85",
+  "plant_name": "Santalum album Linn.",
+  "botanical_name": "Santalum album",
+  "botanical_authority": "L.",
+  "family": "SANTALACEAE",
+  "section": "vernacular_names",
+  "content": "Telugu (51): bhadrasri, candanamu, chandanam, chandanamu, chandanapu, chandanum, chundanum, gandhamu, gandhapu, gandhapu-chekka, gandhapucekka, gandhasaramu, gandhataruvu, gandhatharuvu, ganthama, gendam, gosirshamu, haricandanamu, harichandamu, harichandanam, harichandanaum, kalaka, krishnachanadanamu, krishnachandanamu, malaaka, malaka, malayajamu, malayamu, manchigandhamu, pathiramu, patiramu, peethachandanamu, pitachandanam, piticandanamu, raktakrishnachandanam, raktakryshnacandanamu, rakthakrishnachandanamu, shreegandhamu, sirigandamu, sreechandanamu, srigandam, srigandapu-manu, srigandapumanu, srigandham, srigandhamu, tella chandanam, tellacandanamu, tellachandanam, tellachandanamu, tellagandhapucettu, thella chandanamu\nTibetan (4): dkar-po tsan-dan, tsa nda na dkar po, tsa-ndan, tsan dan\nUrdu (5): burada safaid, burada sandal safaid, burada sandal sufaid, sandal safaid, turada sandal surkh",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/02a1bdae809d3173d78a248d4e65c0fe"
+  ],
+  "source_record_ids": [
+    "links-0415",
+    "links-1573"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/02a1bdae809d3173d78a248d4e65c0fe"
+    ],
+    "source_record_ids": [
+      "links-0415",
+      "links-1573"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/02a1bdae809d3173d78a248d4e65c0fe",
+          "Plant Name": "Santalum album Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Santalum album Linn.",
+        "source_record_id": "links-0415",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/02a1bdae809d3173d78a248d4e65c0fe"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/02a1bdae809d3173d78a248d4e65c0fe",
+          "Plant Name": "Santalum album",
+          "Status": "Found"
+        },
+        "source_plant_name": "Santalum album",
+        "source_record_id": "links-1573",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/02a1bdae809d3173d78a248d4e65c0fe"
+      }
+    ],
+    "source_xplant_id": "02a1bdae809d3173d78a248d4e65c0fe",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_ab96b8cfb1e18efc__vernacular_names__001",
+  "plant_id": "plant_ab96b8cfb1e18efc",
+  "plant_name": "Bacopa monnieri (Linn.) Pennell.",
+  "botanical_name": "Bacopa monnieri",
+  "botanical_authority": "(L.) PENNELL",
+  "family": "SCROPHULARIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): water hyssop\nHindi (14): baam, barambhi, barami, brahmi, brambhi, jalbuti, jalneem, jalnim, nirbraini, pan brahmi, safedchamni, safedkammi, sufed-chemni, svetchamni\nKannada (9): brahmi, jalabrahmi, kiri braahmi, kiru brahmi, neer brahmi, neerbrahmi, neeru braahmi, neeru brahmi, neeruppi gida\nMalayalam (5): brahmi, brami, neerbrahmi, nirbrahmi, nirubrahmi\nMarathi (1): brahmi\nSanskrit (44): Sanskrit CommentsX aindri, arameshthini, bharati, brahmi, brmhacharini, brmhakanyaka, divya, divyateja, gundala, indravalli, jala-brahmi, jalabrimmi, jalaprimmi, jalasaya, kapotavanka, kapotavega, mahaushadhi, mandukamata, manduki, matsyakshi, matsyaksi, medhya, nirabrahmi, p vayastha, sarasvati, saraswati, saumyalata, sharada, soma, somavalli, somya, surasa, surashreshtha, sureshta, survarchala, svetakamini, swayambhuvi, tiktalonika, toyavalli, vaidhatri, vallari, vami, vara, vira\nTamil (101): akantapuntu, aramiyacceti, aramiyam2, arapiyam, aritalocanam, attapirami, attapiramicceti, avapulippi, avarukacceti, avarukam, avavulappicceti, brami, campirani, campirani3, campiranippuntu, campiranipuntu, captalai, caracuti, carmakaca, carumam, catala, catcara, cemanavacceti, cemanavam, cempirami, cerrilvalarntamatacci, cerutanilcirukki, cinkamamuli, curapi6, irattappirami, kavaliyacceti, kavaliyam, malanacini, maturatipputu, mulaiccarumuli, muntantakanni 2, mutirntan, nakacattumuli, narivalukkai, narivalukkaicceti, neer brahmi, neer-brahmi, neerbrahmi, neerpirimie, nikava#, nikava@, nikavapputavi, nikavari, nikavaricceti, nilappirami, nir brahmi, nir-brahmi, nir-brami, nirbrahmi, nirbrami, nircconam, nircconappirami, nirpirami, nirpirammi, nirpirimi, nirppirami, nirppiramiyam, noytukacceti, noytukam, pakupeta, pattalakacceti, pattalakam, peravacceti, peravam, peruncampirani, pirakonti, piramamuli, pirami, pirami vazhukkai, pirami vazukkai, piramicceti, piramiya valukkai, piramiya vazhukkai, piramiyam, piramiyapundu, piramiyavalukkai, pirammiya valukkai, punalvalukkai, tirapatti, tirayanti, tutarkkacceti, tutarkkam, utiramalanacani, vakkupalam, vakkupavam, valukkai, vanamali, vankamuli, varalam, varali @, varavi, varayam, vatikam, vimala, virumamuli@, vivitam\nTelugu (7): neeri sambraani mokka, sambraanichettu, sambrani chettu, sambrani-aku, sambrani-chettu, sambranichettu, sambrareni aaku\nUrdu (1): brahmi buti",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b"
+  ],
+  "source_record_ids": [
+    "links-0033",
+    "links-0384"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b"
+    ],
+    "source_record_ids": [
+      "links-0033",
+      "links-0384"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b",
+          "Plant Name": "Bacopa monnieri (Linn.) Pennell.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bacopa monnieri (Linn.) Pennell.",
+        "source_record_id": "links-0033",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b",
+          "Plant Name": "Bacopa monnieri (Linn.) Pennell",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bacopa monnieri (Linn.) Pennell",
+        "source_record_id": "links-0384",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b"
+      }
+    ],
+    "source_xplant_id": "297fcf5c215cc8b1a93d83ac1763b38b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

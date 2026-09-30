@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a075c9ac51e670bc__identification__001",
+  "plant_id": "plant_a075c9ac51e670bc",
+  "plant_name": "Asparagus racemosus Willd.",
+  "botanical_name": "Asparagus racemosus",
+  "botanical_authority": "WILLD.",
+  "family": "LILIACEAE",
+  "section": "identification",
+  "content": "Plant name: Asparagus racemosus Willd. Botanical name: Asparagus racemosus Botanical authority: WILLD. Family: LILIACEAE Source xplant ID: 739a42451fb9c14fd1f382b72baf507d",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/739a42451fb9c14fd1f382b72baf507d"
+  ],
+  "source_record_ids": [
+    "links-1767"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/739a42451fb9c14fd1f382b72baf507d"
+    ],
+    "source_record_ids": [
+      "links-1767"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/739a42451fb9c14fd1f382b72baf507d",
+          "Plant Name": "Asparagus racemosus Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Asparagus racemosus Willd.",
+        "source_record_id": "links-1767",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/739a42451fb9c14fd1f382b72baf507d"
+      }
+    ],
+    "source_xplant_id": "739a42451fb9c14fd1f382b72baf507d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

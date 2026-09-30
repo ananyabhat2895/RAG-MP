@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_2a820f88c6c2a21f__identification__001",
+  "plant_id": "plant_2a820f88c6c2a21f",
+  "plant_name": "Canscora decussata Schult",
+  "botanical_name": "Canscora decussata",
+  "botanical_authority": "SCHULTES & SCHULTES.F.",
+  "family": "GENTIANACEAE",
+  "section": "identification",
+  "content": "Plant name: Canscora decussata Schult Botanical name: Canscora decussata Botanical authority: SCHULTES & SCHULTES.F. Family: GENTIANACEAE Source xplant ID: 2f376dc7bb61f9e88cb933a2e374fc1d",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f376dc7bb61f9e88cb933a2e374fc1d"
+  ],
+  "source_record_ids": [
+    "links-1716",
+    "links-1717"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f376dc7bb61f9e88cb933a2e374fc1d"
+    ],
+    "source_record_ids": [
+      "links-1716",
+      "links-1717"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f376dc7bb61f9e88cb933a2e374fc1d",
+          "Plant Name": "Canscora decussata Schult",
+          "Status": "Found"
+        },
+        "source_plant_name": "Canscora decussata Schult",
+        "source_record_id": "links-1716",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f376dc7bb61f9e88cb933a2e374fc1d"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f376dc7bb61f9e88cb933a2e374fc1d",
+          "Plant Name": "Canscora decussata Schult.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Canscora decussata Schult.",
+        "source_record_id": "links-1717",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f376dc7bb61f9e88cb933a2e374fc1d"
+      }
+    ],
+    "source_xplant_id": "2f376dc7bb61f9e88cb933a2e374fc1d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

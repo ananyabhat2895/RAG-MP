@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_7c2fe634214c8ebd__vernacular_names__002",
+  "plant_id": "plant_7c2fe634214c8ebd",
+  "plant_name": "Mesua ferrea",
+  "botanical_name": "Mesua nagassarium",
+  "botanical_authority": "(BURM.F.) KOSTERM.",
+  "family": "CLUSIACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (111): aicilam, aicilanakappu, akiputam, alincepamaram, amantacikam1, aruli, atakam, atakam1, campeyakam, campeyapem, camuttirarttam, camuttirarttappu, canku2, catai1, catainankil, cattiyutakuru, cheru-nagapu, chiru-nagappu, cintakam1, cintakappu, ciru nakappu, cirunakam, cirunakappu, cirunankil, cirunaval, citanakamam, citanakamappu, cittiraka, cittirakamaram, ciurkecaram, cukkilakentam, curuli1, cuttiracanpakam, emam, ilankacikai, ilankocikai, ipakecaram, ipakkiyam, iracayukam1, irul, irulmaram, irumpakam, irumpakamaram, kanakam, kanakam@, kancanam1, karunangu, karunanku, kecaram, kecaram1, malainanku, malainanu, malaittuvikam, malaittuvikamaram, mampalirul, mannainangu, mannainanku, mattikappu, matuttam, naganchambagam, nagapppu, nagappu, nagashap-pu, nagesuram, nageswaram, nakacampanki, nakacappu, nakacenpakam, nakacuram, nakacurappu, nakakecam, nakakecappu, nakakecaram, nakakuyam, nakam1, nakancanpakam, nakappu, nakaputpam, nakecar, nakecaram, nakecarappu, nakecuram, nakecurappu, nangil, nangu, nangul, nankal, nankilmaram, nanku, nirnangu, nirnankal, omakancanam, palai1, patai, peri, perunankil, perunankilmaram, perunankulikam, perunankulikamaram, pitakecaram, putpi, siru-nagapoo, sirunagapoo, sirunagappoo, sirunagappu, sjiru-nagap-pu, suruli, tatinanku, veillutta-champakam, yokacankappu, yuvappu\nTelugu (22): chikatimanu, cikatimanu, gajapushpamu, gajapuspam, geja-pushpam, kaesaramu, kesaramu, kinjalkamu, naagachampakamu, naga kesara, naga-kesaram, nagacampakamu, nagachampakamu, nagakaesaramu, nagakesara, nagakesaramu, nagakesari, nagakesawaramu, nagashap-pu, sikatimanu, suvarnam, suvarnamu\nTibetan (2): na ga ge sar, na-ga-ge-sar\nUrdu (5): nag kesar, nagesar, nagkesar, narmishka, narmushk (nagkesar)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6d6c1d42d9f0e734974f13a160553b0/xclkon/186a824bd1fbae66409ba12aab6593be"
+  ],
+  "source_record_ids": [
+    "links-1359",
+    "links-1360"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6d6c1d42d9f0e734974f13a160553b0/xclkon/186a824bd1fbae66409ba12aab6593be"
+    ],
+    "source_record_ids": [
+      "links-1359",
+      "links-1360"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6d6c1d42d9f0e734974f13a160553b0/xclkon/186a824bd1fbae66409ba12aab6593be",
+          "Plant Name": "Mesua ferrea",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mesua ferrea",
+        "source_record_id": "links-1359",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6d6c1d42d9f0e734974f13a160553b0/xclkon/186a824bd1fbae66409ba12aab6593be"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6d6c1d42d9f0e734974f13a160553b0/xclkon/186a824bd1fbae66409ba12aab6593be",
+          "Plant Name": "Mesua ferrea Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mesua ferrea Linn.",
+        "source_record_id": "links-1360",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6d6c1d42d9f0e734974f13a160553b0/xclkon/186a824bd1fbae66409ba12aab6593be"
+      }
+    ],
+    "source_xplant_id": "b6d6c1d42d9f0e734974f13a160553b0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

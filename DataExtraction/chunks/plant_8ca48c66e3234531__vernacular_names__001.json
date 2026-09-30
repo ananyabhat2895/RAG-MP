@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8ca48c66e3234531__vernacular_names__001",
+  "plant_id": "plant_8ca48c66e3234531",
+  "plant_name": "Capsicum frutescens Linn.",
+  "botanical_name": "Capsicum frutescens",
+  "botanical_authority": "L.",
+  "family": "SOLANACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): tabasco\nHindi (10): gach-mirch, gachmarich, gachmirich, jhal, lal-mirch, lalmircha, lalmirich, lankamirchi, mirch, mirchi\nKannada (13): holada menasina gida, holada menasina kaayi, holadamenasina kaayi, kempumenasu, menashina-kayi, menashinakayi, menasinakayi, menasu, parangimenasinakayi, parengimenasinakayi, parengimunchi, parengimunci, pharengimenasinakayee\nMalayalam (18): capoomologoo, chabai, chabelombok, kantari, kappalmelaka, kappalmulaku, kappamulaku, kollamulaku, ladamera, ladamerachina, ladumira, lodachina, mulaku, parangimulaku, parankimulaku, shalie, valiyakappalmulaku, vallia-capo-molago\nMarathi (6): lavungi mirchi, mirchi, mirisang, mirsamg, portugali, tambhudamirchingay\nSanskrit (15): Sanskrit CommentsX ajadakumaricha, brahu, brahumaricha, cilli, cillika, katuvira, lanka, maricha, maricham, marichi-phalam, marichiphala, raktamaricha, tikshna, tivrashakti, ujjvala\nTamil (54): arukanam, arunamilakay, cataiccikiri, cataiccikiricceti, cimai milakay, cimaippaccaimilakay, cinimilakay, cirukoccimilakay, cullakkay#, cullakkay@, cullituvan1, eri, irumpulikacitacceti, iruppulikacitam, kanalmilakay, kantari, kappalmilaku, kaupalakkay, kaupalam, kilappuriyacceti, kocci, koccikkay, koccimilakay, kocumilakay, kollamilaku, macuki, macukicceti, man, milagai, milagay, milakai, milakay, milakaycceti, mollaghai, mulagai, mulakay, mullagay, nattumilakay, orupanankai, paccaimilakay, peymilagay, peymilakay, pocanakkurata, pocanakkuratacceti, sinaippachaimilagay, tirankam, tirankamilakay, ucimilakay, ucimilakaycceti, usimilagay, vainacikacceti, vayakketanacceti, vayakketanam, veki\nTelugu (26): aggi mirapa, golakanda miraph, golakonda, golakondamirapa, golkondamirapa, konda mirapa, kondamirapa, merapukai, mirapa, mirapa-kaya, mirapakaaya, mirapakaiya, mirapakaya, miraph, mirchi, mirepakaaya, mirepakaya, miriyapukaaya, miriyapukaya, seemamirapakaaya, simamirapakaiya, sudimirapa, sudimirapakaaya, sudimirapakaiya, sudimirapakaya, sudimirepakaya",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/79ac12fefc96c8aed2998db0a7cbef54"
+  ],
+  "source_record_ids": [
+    "links-1174"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/79ac12fefc96c8aed2998db0a7cbef54"
+    ],
+    "source_record_ids": [
+      "links-1174"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/79ac12fefc96c8aed2998db0a7cbef54",
+          "Plant Name": "Capsicum frutescens Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Capsicum frutescens Linn.",
+        "source_record_id": "links-1174",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/79ac12fefc96c8aed2998db0a7cbef54"
+      }
+    ],
+    "source_xplant_id": "79ac12fefc96c8aed2998db0a7cbef54",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

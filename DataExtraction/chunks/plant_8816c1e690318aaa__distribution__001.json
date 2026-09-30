@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8816c1e690318aaa__distribution__001",
+  "plant_id": "plant_8816c1e690318aaa",
+  "plant_name": "Artemisia maritima Linn.",
+  "botanical_name": "Artemisia maritima",
+  "botanical_authority": "L.",
+  "family": "ASTERACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Dr. Narain Singh Chauhan; distribution: Distribution; title: Title - Medicinal and Aromatic Plants of Himachal Pradesh\nDistribution entry: author: Author - ED. B.D. SHARMA & M.SANJAPPA , N.P. BALAKRISHNAN; distribution: Distribution; title: Title - FLORA OF INDIA VOL 12\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - A.E. Osmaston; distribution: Distribution; title: Title - A Forest Flora for Kumaon",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125f618790fe26adac71053fc6318dbc"
+  ],
+  "source_record_ids": [
+    "links-0428"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125f618790fe26adac71053fc6318dbc"
+    ],
+    "source_record_ids": [
+      "links-0428"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125f618790fe26adac71053fc6318dbc",
+          "Plant Name": "Artemisia maritima Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Artemisia maritima Linn.",
+        "source_record_id": "links-0428",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125f618790fe26adac71053fc6318dbc"
+      }
+    ],
+    "source_xplant_id": "125f618790fe26adac71053fc6318dbc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b2e249a0810af6e3__vernacular_names__002",
+  "plant_id": "plant_b2e249a0810af6e3",
+  "plant_name": "Pterocarpus marsupium Roxb.",
+  "botanical_name": "Pterocarpus marsupium",
+  "botanical_authority": "ROXB.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (147): acamai, acanapanni 4, anaitteri, anaitterimaram, asanam, atimuttakam, cakkiravan, cantanati#, cantanati$, carutacam, carutakam, carutakamaram, caruvacatakam, carvacaram, carvacatakam1, carvavetikam, carvavetikamaram, cenkira, cenkiravirutcam, cevvenkai, cevvenkaimaram, cikaivenkai, cikaivenkaimaram, cipantanalam, citalaippalam, citalaippulavu, citalappalam, citalappulavu, cittaromacan, civakam2, civakamaram, civikatitam, civikatitamaram, iraticuttakam, irattakura, irattatturu, irattavenkai, kalakantam@, kanavutiram, kanavutiravirutcam, kandamiruga-mirattan, kani, kani2, kanivenkai, kanivenkaimaram, karuvenkai, katuppekikam, katuppekikamaram, kayatapumaram, kirusnavirutcam, kuntalvirikam, kuntalvirikamaram, kurinji, natcattirakkatci, nattuvenkai, necicantana, nemicantana#, nemicantana@, nemicantanamaram, neyccarikam, neyccarikamaram, ooderie vaynghie, pankal, peppikanam, peyartanam, peyartanam#, peyartanam@, peyatanam@, pidagaragam, pidasaralam, piracantan, piracaram, pirakaram@, pirasaram, piriyakam 3, piriyakam 3@, pitacalam 2, pitacaram 4, pitacarati, pitacaratimaram, pitakarakam, pitakaram, pontai 2, pontu 2, potaki 3, potakimaram, puli 2, pulimaram, pulimaram@, putpantakam, putpaviccakam, rekam, romavenkai, romavenkaimaram, sarudagam, sarvasadagam, talini3, tamam, tamaraivaki, tamarkkavaki, tamarkkavam2, tamarkkavamaram, tamira, tamiravirutcam, tamisu, tannani#, tannani@, tannini, tanninu, timicam, timicu, timili, tintacam, tipicu, ukiram2, ukiramaram, umparomavenkai, uroman, uromavenkai, uromavenkaimaram, uruttiravenkai, utarakirimaram, utirakiri, utiraromavenkai, utiravenkai, utirvenkai, uyirvi, uyirvikam, uyirvikamaram, uyirvimaram, vacantaputpam, vanculam 2, vanculamaram, vantunamaram, vattuvenkai, vellai 3, vengai, vengai-maram, venkai, venkai-c-ciray, venkaimaram, vetavenkai, vicuvaci, vicuvacimaram, viram 3, viramaram 2, virutcacam\nTelugu (35): aine, asana, beddagi, beeja saramu, egi, egisa, egisi, peddagi, peddavegisa, peddavesiga, peddayegi, peddegi, pedega, pedegu, pedei, vegi, vegisa, vengisa, vengisi, vengsha, yagisa, yeanga, yeangesha, yega, yegeshi, yeggi, yeggie, yegi, yegisa, yegise, yegisha, yegishi, yegishie, yegisi, yerra yegisa\nTibetan (2): a sa na (p), sa ma na\nUrdu (6): bijasar, dam al akhwain, dam-ul-akhwain, damul-akhwain, damulakhvain, gond china ar dhak",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cde24b212ae1e7d501b49de188e18766"
+  ],
+  "source_record_ids": [
+    "links-0172"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cde24b212ae1e7d501b49de188e18766"
+    ],
+    "source_record_ids": [
+      "links-0172"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cde24b212ae1e7d501b49de188e18766",
+          "Plant Name": "Pterocarpus marsupium Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pterocarpus marsupium Roxb.",
+        "source_record_id": "links-0172",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cde24b212ae1e7d501b49de188e18766"
+      }
+    ],
+    "source_xplant_id": "cde24b212ae1e7d501b49de188e18766",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

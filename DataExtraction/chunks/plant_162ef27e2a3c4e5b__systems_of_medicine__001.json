@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_162ef27e2a3c4e5b__systems_of_medicine__001",
+  "plant_id": "plant_162ef27e2a3c4e5b",
+  "plant_name": "Butea monosperma",
+  "botanical_name": "Butea monosperma",
+  "botanical_authority": "(LAM.) TAUB.",
+  "family": "FABACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (2) - Butea frondosa ROXB. ET KOEN. X Full Botanical citation - Butea frondosa Koenig ex Roxb. in Asiat. Res. 3: 469. 1792 et Pl. Corom. 1: 21. 1795; R.D.Gaur\nSystem of medicine: Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes)\nSystem of medicine: TransMedia\nSystem of medicine: Srinagar (Garhwal)\nSystem of medicine: India\nSystem of medicine: 257. 1999. Butea monosperma (LAM.) TAUB. var. monosperma X Full Botanical citation - Butea monosperma (Lam.) Taub. in Engl. & Prantl. Pflanzenfam. 3(3): 335. 1894; var. monosperma; N.P.Singh &al.\nSystem of medicine: Fl.Maharashtra state\nSystem of medicine: Dicotyledones\nSystem of medicine: 1: Fl.India Ser. 2: 610. 2000.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea"
+  ],
+  "source_record_ids": [
+    "links-0700",
+    "links-1420",
+    "links-1421"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea"
+    ],
+    "source_record_ids": [
+      "links-0700",
+      "links-1420",
+      "links-1421"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea",
+          "Plant Name": "Butea monosperma",
+          "Status": "Found"
+        },
+        "source_plant_name": "Butea monosperma",
+        "source_record_id": "links-0700",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea",
+          "Plant Name": "Butea monosperma (Lam.) Kuntze.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Butea monosperma (Lam.) Kuntze.",
+        "source_record_id": "links-1420",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea",
+          "Plant Name": "Butea monosperma (Linn.) Kuntze.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Butea monosperma (Linn.) Kuntze.",
+        "source_record_id": "links-1421",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea"
+      }
+    ],
+    "source_xplant_id": "cb8c6123872fb49d5b8ffb3be64cabea",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

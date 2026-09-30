@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_baa87f359612e27e__identification__001",
+  "plant_id": "plant_baa87f359612e27e",
+  "plant_name": "Vetiveria zizanioides (Linn.) Nash",
+  "botanical_name": "Vetiveria zizanioides",
+  "botanical_authority": "(L.) NASH",
+  "family": "POACEAE",
+  "section": "identification",
+  "content": "Plant name: Vetiveria zizanioides (Linn.) Nash Botanical name: Vetiveria zizanioides Botanical authority: (L.) NASH Family: POACEAE Source xplant ID: 217b180c053684eecb846d14db4ddebd",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd"
+  ],
+  "source_record_ids": [
+    "links-2027",
+    "links-2028"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd"
+    ],
+    "source_record_ids": [
+      "links-2027",
+      "links-2028"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd",
+          "Plant Name": "Vetiveria zizanioides (Linn.) Nash",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vetiveria zizanioides (Linn.) Nash",
+        "source_record_id": "links-2027",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd",
+          "Plant Name": "Vetiveria zizanioides (Linn.) Wash.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vetiveria zizanioides (Linn.) Wash.",
+        "source_record_id": "links-2028",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd"
+      }
+    ],
+    "source_xplant_id": "217b180c053684eecb846d14db4ddebd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

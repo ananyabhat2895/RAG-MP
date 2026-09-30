@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_c154097a30f72cf2__distribution__001",
+  "plant_id": "plant_c154097a30f72cf2",
+  "plant_name": "Marsilea quadrifolia",
+  "botanical_name": "Marsilea quadrifolia",
+  "botanical_authority": "L.",
+  "family": "MARSILEACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol IV",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9945fc62f09276aad3562d367dab6d6"
+  ],
+  "source_record_ids": [
+    "links-1867",
+    "links-1869"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9945fc62f09276aad3562d367dab6d6"
+    ],
+    "source_record_ids": [
+      "links-1867",
+      "links-1869"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9945fc62f09276aad3562d367dab6d6",
+          "Plant Name": "Marsilea quadrifolia",
+          "Status": "Found"
+        },
+        "source_plant_name": "Marsilea quadrifolia",
+        "source_record_id": "links-1867",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9945fc62f09276aad3562d367dab6d6"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9945fc62f09276aad3562d367dab6d6",
+          "Plant Name": "Marsilea quadrifolia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Marsilea quadrifolia Linn.",
+        "source_record_id": "links-1869",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9945fc62f09276aad3562d367dab6d6"
+      }
+    ],
+    "source_xplant_id": "c9945fc62f09276aad3562d367dab6d6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

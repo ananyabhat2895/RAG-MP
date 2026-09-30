@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_3911dd2e8b97c7f1__vernacular_names__001",
+  "plant_id": "plant_3911dd2e8b97c7f1",
+  "plant_name": "Pavonia odorata Willd.",
+  "botanical_name": "Pavonia odorata",
+  "botanical_authority": "WILLD.",
+  "family": "MALVACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (3): bala, sugandha-bala, sugandhabala\nKannada (13): bala raakshasi, bala rakkasi, bala-rakkasi-gida, balaraakshi gida, balarakkasi, balarakkasi gida, balarakkasigida, balarakshasi, kareebaalada beru, madivaala, mudivaala, mudivala, peramuti beru\nMalayalam (2): iruveli, kuruntotti\nMarathi (6): kaalaavaala, kala-vala, kalavala, randodaki, sugandhabala, sughandabala\nSanskrit (27): Sanskrit CommentsX ambu, ambunamaka, bala, balaka, barhishtha, harivera, hribera, hrivela, hrivera, kachamoda, keshanama, keshanamaka, keshya, kuntala, kuntaloshira, lalanapriya, toya, udichya, vajra, vala, valaka, valakah, valakam, varapinga, vari, varida, varinamaka\nTamil (77): anantai, anantavariti#, anantavariti@, anantavariticceti, antai, antaiyitan, arttavacceti, arttavam, ataiyalavan, avibattam, avipatam, avipattam, cakapita, carapantini, centotti, cukantapala, cunkattintakampokki, curiyamantiram, curiyarkkam, cutcayekavalli, cuvacakam2, cuvaccalam, cuvacitam, cuvacitamutti, cuveccam1, erunti, irutupala, karapattini, kayotalankam, kontulankam, kuruvicci2, kuruvinci2, makapala 3, makapalam 3, makapela 2, makavil, makavinitacceti, makavinitam, malaiccentotti, malaittarikacceti, malaittarikam, mirutturoki, nattukkantam, pala, palututainetti, paramutti, paramutty, paratakam, pataippariyan, pattakam, pera muttiver, peraamutti, peramootie vayr, peramutiver, peramutti, peramutti#, perunkuruntotti, pitaputpi 2, pitaputpi@, rutupala, suvesagam, taramutti, tavarattiyali, totikam, totikamutticceti, totipela, totippari, totipparicceti, tuvaratini, vantiracceti, vantiyam#, vantiyam@, varantiyam, vataiyavalan, vattiracuram, vilivilanki, yokavalli\nTelugu (19): chirubenda, chitlebunda, chitti benda, chittibenda, cittibenda, erra-kuti, errakooti, errakuti, ettakuti, muthupalaagamu, muttavapulagam, muttavapulagamu, mutthava pulagam chettu, muttupalagamu, pudubodapu, theegabenda, thigebenda, tiga benda, tigebenda\nTibetan (1): ba-la-ka",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d55a05ca48b7334d7a1601cbef693833"
+  ],
+  "source_record_ids": [
+    "links-0725"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d55a05ca48b7334d7a1601cbef693833"
+    ],
+    "source_record_ids": [
+      "links-0725"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d55a05ca48b7334d7a1601cbef693833",
+          "Plant Name": "Pavonia odorata Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pavonia odorata Willd.",
+        "source_record_id": "links-0725",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d55a05ca48b7334d7a1601cbef693833"
+      }
+    ],
+    "source_xplant_id": "d55a05ca48b7334d7a1601cbef693833",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

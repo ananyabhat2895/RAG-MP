@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_6920e65c98c0d35d__identification__001",
+  "plant_id": "plant_6920e65c98c0d35d",
+  "plant_name": "Blumea balsamifera DC.",
+  "botanical_name": "Blumea balsamifera",
+  "botanical_authority": "DC.",
+  "family": "ASTERACEAE",
+  "section": "identification",
+  "content": "Plant name: Blumea balsamifera DC. Botanical name: Blumea balsamifera Botanical authority: DC. Family: ASTERACEAE Source xplant ID: fcb757b557d5ef2a3f9a86f1adffe2bd",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fcb757b557d5ef2a3f9a86f1adffe2bd",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fcb757b557d5ef2a3f9a86f1adffe2bd/xclkon/37aceafb032bcffaeec0c7495496397c"
+  ],
+  "source_record_ids": [
+    "links-1100",
+    "links-1101"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fcb757b557d5ef2a3f9a86f1adffe2bd",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fcb757b557d5ef2a3f9a86f1adffe2bd/xclkon/37aceafb032bcffaeec0c7495496397c"
+    ],
+    "source_record_ids": [
+      "links-1100",
+      "links-1101"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fcb757b557d5ef2a3f9a86f1adffe2bd",
+          "Plant Name": "Blumea balsamifera DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Blumea balsamifera DC.",
+        "source_record_id": "links-1100",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fcb757b557d5ef2a3f9a86f1adffe2bd"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fcb757b557d5ef2a3f9a86f1adffe2bd/xclkon/37aceafb032bcffaeec0c7495496397c",
+          "Plant Name": "Blumea densiflora DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Blumea densiflora DC.",
+        "source_record_id": "links-1101",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fcb757b557d5ef2a3f9a86f1adffe2bd/xclkon/37aceafb032bcffaeec0c7495496397c"
+      }
+    ],
+    "source_xplant_id": "fcb757b557d5ef2a3f9a86f1adffe2bd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

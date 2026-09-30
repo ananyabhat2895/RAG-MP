@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_534b408bf617bb42__vernacular_names__001",
+  "plant_id": "plant_534b408bf617bb42",
+  "plant_name": "Coriandrum sativum Linn.",
+  "botanical_name": "Coriandrum sativum",
+  "botanical_authority": "L.",
+  "family": "APIACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): coriander, dhani\nHindi (6): dhania, dhaniya, dhaniyam, dhanya, kotmir, kottmir\nKannada (14): dhaniya, dhanya, dhanya beeja, haveeja, havija, kotambari, kotambri-beeja, kothambari, kothambri, kothimari, kothimbri, kothumbari, kottamari-bija, kotthumbari soppu\nMalayalam (6): kotta-malli, kottam-palari, kottamalli, kottampala, kottampalari, malli\nMarathi (7): dhane, dhanya, khotbir, khotmir, kothimbir, kothmir, kotmir\nSanskrit (33): Sanskrit CommentsX ababika, allaka, cchatra, chhatra, dhana, dhanaka, dhaneyaka, dhanika, dhanikataila, dhaniyaka, dhanna, dhanya, dhanyabija, dhanyaka, dhanyakam, dhennika, hridyagandha, janapriya, kunati, kustumbari, kustumbaru, kustumbura, kustumburi, nisara, shakayogya, sugandhi, sukshmapatra, titumkam, titunnakam, tumbaru, vedhaka, veshana, vitunnaka\nTamil (63): arainili, aritaravanci, avarika, cottamillie, cukkumapattiram 2, cuvacakkini, irutayakantam, kacukati, kacukatimalli, karuncenkai, koddumalli, kotamalli, kothamalli, koththamalli, koththumalli, kothumalli, kottamalli, kottamallicceti, kottumalli, kulirmati, malli 4, muti, natamatirai, navu, takkaniyam, tanakacceti, tanakam#, tanakam$, tanakam@, tanakamalli, tanakam~, tanattaniyam, tanica, tanika, tanikai, tanikakki, tanikam#, tanikam@, tanikamalli, tanittalikam, taniya, taniyakam#, taniyam, taniyan, teni 2, tenikai, tenukam, thania, titcanakalkam, titcanapalai 2, titcanapattiram 2, tumpuru, tuvicam, uraiyiculi, uri#, uri@, urini, urinicceti, urularici, uttamapari, uttampari, vacantiram, vacantiramalli\nTelugu (8): daniyalu, danyaalu, danyalu, dhaniyaalu, dhanyalu, kothamiri, kothimiri, kotimiri\nTibetan (1): u su\nUrdu (25): danya kushk bariyan, dhania, dhaniya, dhanya, dhanya khushk, dhanya khushk bariyan, dhanya khusk, dhanyay ka maghz bhoona hua, hara dhanya, kishm iz khushk, kishmeez khusk, kishmiz khushk, kishmiz khusk, kishneex khusk, kishneez khushk, kishneez khusk, kishniz, kishniz khushk, kishniz khushk nim kofta, kishniz khusk, kishniz sabz, kothmir, kouthmir, magh-i-kishniz biryan, maghz kishniz nim kofta",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c96edea366b4ee01686906b45fa4ebe5"
+  ],
+  "source_record_ids": [
+    "links-0506"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c96edea366b4ee01686906b45fa4ebe5"
+    ],
+    "source_record_ids": [
+      "links-0506"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c96edea366b4ee01686906b45fa4ebe5",
+          "Plant Name": "Coriandrum sativum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Coriandrum sativum Linn.",
+        "source_record_id": "links-0506",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c96edea366b4ee01686906b45fa4ebe5"
+      }
+    ],
+    "source_xplant_id": "c96edea366b4ee01686906b45fa4ebe5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

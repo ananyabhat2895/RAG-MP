@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_55244e1645b5adcb__identification__001",
+  "plant_id": "plant_55244e1645b5adcb",
+  "plant_name": "Canthium umbellatum Wight.",
+  "botanical_name": "Canthium dicoccum",
+  "botanical_authority": "(GAERTN.) TEIJSM. & BINN. var. dicoccum",
+  "family": "RUBIACEAE",
+  "section": "identification",
+  "content": "Plant name: Canthium umbellatum Wight. Botanical name: Canthium dicoccum Botanical authority: (GAERTN.) TEIJSM. & BINN. var. dicoccum Family: RUBIACEAE Source xplant ID: 94a7684c982f9fb37566ada354e0c1e9",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/94a7684c982f9fb37566ada354e0c1e9/xclkon/2b949f59f19caa0b5c557232806d9041"
+  ],
+  "source_record_ids": [
+    "links-0960"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/94a7684c982f9fb37566ada354e0c1e9/xclkon/2b949f59f19caa0b5c557232806d9041"
+    ],
+    "source_record_ids": [
+      "links-0960"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/94a7684c982f9fb37566ada354e0c1e9/xclkon/2b949f59f19caa0b5c557232806d9041",
+          "Plant Name": "Canthium umbellatum Wight.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Canthium umbellatum Wight.",
+        "source_record_id": "links-0960",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/94a7684c982f9fb37566ada354e0c1e9/xclkon/2b949f59f19caa0b5c557232806d9041"
+      }
+    ],
+    "source_xplant_id": "94a7684c982f9fb37566ada354e0c1e9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

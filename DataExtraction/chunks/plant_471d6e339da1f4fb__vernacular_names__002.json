@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_471d6e339da1f4fb__vernacular_names__002",
+  "plant_id": "plant_471d6e339da1f4fb",
+  "plant_name": "Cardiospermum halicacabum Linn.",
+  "botanical_name": "Cardiospermum halicacabum",
+  "botanical_authority": "L.",
+  "family": "SAPINDACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (111): alappukkorrran, alappukku, analappirapam, ankapati, arattai, ataralappu, atinayanan, attankoti, camuttira2, camuttiratoyam1, camuttirotayam, cancivimeti, cancivimetikkoti, cempam, cevikkotiyal, ciliyakkai, ciliyakkaikkoti, ciliyanai, coliyan, cotismati, cukattam2, cukattan2#, cukattan2@, cutcumavalli, cutukatumittan2, cutukaturaiyan, erikkoti, intiravalli2, intiyavalli, irattapati, kanakappirapai, kirivattiyam, korran, korrankoti, korravan, kotikkottan, kottavan, kuppaimulikai, kuppaimulikaikkoti, lottan, lottankoti, makotaracurupi, mantalakarakam, matappalippuntu, melliyakottan, melliyakottankoti, modakhethan, moddacoatan, modikkottan, mooda cottan, mooda-cottan, mudakattan, mudakithan, mudakkaruthan, mudakkaruththaan, mudakkatran, mudakkattran, mudakkothan, mudakothan, mudakottan, mudukkottan, mudukottam, mukamottaimuli, mutakarran, mutakkarran, mutakkaruttan, mutakkaruttan 1, mutakkaruttankoti, mutakkattan, mutakkattankoti, mutakkorran, mutakkoruttan, mutakkottan, mutakkottan 1, mutakkurran 1, mutarkurran, mutkkattan, muttaittukki, muttaittukkikkoti, nakanam, nakanam@, nantai2, nimpatecam, nimpateci, nimpatecikkoti, nipalam, patantiravalli, payiravi1, periyavilai, periyayilaimudakottan, pirotta, pokkanapantukkikkoti, pokkanappicci, samuttiradoyan, samuttiram, siliyanai, tecovam, tekamataraci, tiptam, tirakamulakakkoti, tirakamulakam, tirakamulam, tiramulam, tirkkamulam2, tirukumulam, varutakakkoti, varutakam, vatanaci, vicuvakenti, visaantaravatanaci, yintiriyavallikoti\nTelugu (36): allena, booddakankaraakkoo, budda boosara, budda gudichi, budda kakara, buddakaakara, buddakakara, buddakakkira, buddakankarakoo, budduva, ekkkuduthige, ekkudutige, jyothishmathige, jyotishmatitige, kaasarithige, kasaritige, kash, nalla goolesenda, nallagolisyanda, nallagolisyandu, nallagoolisienda, nallagulisinda, nallagulivinda, nellagoolisienda, nellagulisetenda, paatalithivva, patali tivva, patalitivva, thella gurivinda, ullenathige, ullenatige, upparintha, vekkuditege, vekkuduthige, vekkudutige, vullingatheega\nTibetan (1): ka ke da",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35bcc71906513792d99454dd5b22073"
+  ],
+  "source_record_ids": [
+    "links-0671",
+    "links-0818"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35bcc71906513792d99454dd5b22073"
+    ],
+    "source_record_ids": [
+      "links-0671",
+      "links-0818"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35bcc71906513792d99454dd5b22073",
+          "Plant Name": "Cardiospermum halicacabum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cardiospermum halicacabum Linn.",
+        "source_record_id": "links-0671",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35bcc71906513792d99454dd5b22073"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35bcc71906513792d99454dd5b22073",
+          "Plant Name": "Cardiospermum halicacabum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cardiospermum halicacabum",
+        "source_record_id": "links-0818",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35bcc71906513792d99454dd5b22073"
+      }
+    ],
+    "source_xplant_id": "d35bcc71906513792d99454dd5b22073",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

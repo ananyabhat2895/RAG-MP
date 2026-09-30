@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_1abfae594033d6b6__identification__001",
+  "plant_id": "plant_1abfae594033d6b6",
+  "plant_name": "Tecoma grandiflora Loisel",
+  "botanical_name": "Campsis grandiflora",
+  "botanical_authority": "(THUNB.)SCHUM.",
+  "family": "BIGNONIACEAE",
+  "section": "identification",
+  "content": "Plant name: Tecoma grandiflora Loisel Botanical name: Campsis grandiflora Botanical authority: (THUNB.)SCHUM. Family: BIGNONIACEAE Source xplant ID: f466bf653e4f8e96ab85828b892facc3",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f466bf653e4f8e96ab85828b892facc3/xclkon/53cccff00eded096ad7b1ccec6fe6f9e"
+  ],
+  "source_record_ids": [
+    "links-1662"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f466bf653e4f8e96ab85828b892facc3/xclkon/53cccff00eded096ad7b1ccec6fe6f9e"
+    ],
+    "source_record_ids": [
+      "links-1662"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f466bf653e4f8e96ab85828b892facc3/xclkon/53cccff00eded096ad7b1ccec6fe6f9e",
+          "Plant Name": "Tecoma grandiflora Loisel",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tecoma grandiflora Loisel",
+        "source_record_id": "links-1662",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f466bf653e4f8e96ab85828b892facc3/xclkon/53cccff00eded096ad7b1ccec6fe6f9e"
+      }
+    ],
+    "source_xplant_id": "f466bf653e4f8e96ab85828b892facc3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_edc9c815669ed69a__vernacular_names__002",
+  "plant_id": "plant_edc9c815669ed69a",
+  "plant_name": "Myristica fragrans Houtt.",
+  "botanical_name": "Myristica fragrans",
+  "botanical_authority": "HOUTT.",
+  "family": "MYRISTICACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (162): adipalam, ainnilam, alankaram1, astam, atimalam, atipalam, atiparakkay, atiparam, atirotayam, attakkay, attam@, attigam, attikakkay, attikam, cadikkay, cadippaddiri, cakularppam, cakularppamaram, cakulatakam, cakulatakamaram, calukam#, calukam1, calukamaram, caluram, camuttirakantakakkay, camuttirakantakam, camuttirantam1, catakam1, catakaram, catakaramaram, catalam@, cati pattiri, cati1, caticam, catikamaram, catikkai, catikkay, catikkaymaram, catikocakkay, catikocam, catimaram, catipalai, catipalaimaram, catipalakkay, catipalam, catipattiri, catippattiri, cattikkay, cavuntakam1, cavuntam1, chathi-paththiri, cholai vengai, cilakam, cilikkayam, cimaikkalli, cimaikkallimaram, cinatakku, cinecam#, cinecam@, cinecatarikkay, cinecataru, cinekam#, cinekam@, cinekapotai, cinekapotaikkay, cinekataru, cinokaram, cirukaritakkay, cirukaritam#, cirukaritam@, cirukay, citam, citam2@, civacci, civacikitam, civakam1@, civakarakkay, civaram, civika, civikakkay, collacitam, cukatipalam, curapi2, cutevanakitam, ilakiri, ilavam1, iratcani, jaathikkai, jadicai, jadikkay, jadiputrie, jathikai, jathikkai, jati, jati pattiri, jatikkai, jatikkay, jatimaram, jatipattiri, kalli4, kapparruraicci, katjathika, kattuchadi, katunkay, katunkayalakari, kay1, kirakkanipittan, kiriccaritakkay, kiriccaritam#, kiriccaritam@, kiriccarittam, kiriccirittam, kocakkay, kocam1, kocapalam1, komalam, kosam, kuccatti, kulakkay, kulipputaram, kulipputaramaram, kupanikamaram, malatipalam, maltipalam, matacavuntam, mattam@, minai, minaimaram, nattuccatikkay, palam@, pallalaki1, palluracci, pavalakkuntu, payccukanti, payccuntimaram, periyagattuchadi, putikam 1, putikkay, saadippaththiri, saathikkai, sadi, sadikkay, salugam, samuttirandam, sathikai, sathikkai, sidam, sinevam, sirugaridam, sivigaram, tevatavi, tevatavikkay, tirukam, turvam, turvamaram, tuvikattumakam, tuvitattumakam, vacivaci, vacuvaci, vacuvaci 1, vacuvacimaram, varutiyorakkuticci\nTelugu (18): dzajikaya, jaaikaaya, jaaji, jaatheephalamu, jaathipathri, jaati, jaji, jajikaya, jajipattiri, jajipattri, jathikaya, jati, jati-phalamu, jatipatri jatiphalamu, jatiphalamu, lavanga, lavangam, lavangamu\nTibetan (4): dza ta pha la, dza ti, dza ti pa tra, dza ti pha la (d)\nUrdu (8): bisbasa (javetri), jaipahal, jaiphal, jauzbua, jauzbuwa, javatri, javitri, jozbua",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6123efdc0a6955373bfc88ea0729d1e3"
+  ],
+  "source_record_ids": [
+    "links-0777"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6123efdc0a6955373bfc88ea0729d1e3"
+    ],
+    "source_record_ids": [
+      "links-0777"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6123efdc0a6955373bfc88ea0729d1e3",
+          "Plant Name": "Myristica fragrans Houtt.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Myristica fragrans Houtt.",
+        "source_record_id": "links-0777",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6123efdc0a6955373bfc88ea0729d1e3"
+      }
+    ],
+    "source_xplant_id": "6123efdc0a6955373bfc88ea0729d1e3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

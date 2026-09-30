@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_de07c08b9bf5986f__vernacular_names__001",
+  "plant_id": "plant_de07c08b9bf5986f",
+  "plant_name": "Zingiber officinale Rosc.",
+  "botanical_name": "Zingiber officinale",
+  "botanical_authority": "ROSC.",
+  "family": "ZINGIBERACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): ginger\nHindi (6): aadu, ada, adarak, adrak, adrakh, soonth\nKannada (16): aardraka, alla, ardraka, hasi shunti, hasishunthi, hasisunthi, khaara genasu, pali, shunthi, shunti, sonte, sonti, sundi, sunthi, sunti, vanasunthi\nMalayalam (12): ardrakam, cincatakam, cinciver, cukku, inchi, inci, injee, inschi, inschikua, ischi, sryngiveram, tikshnottham\nMarathi (3): alem, alen, sunte\nSanskrit (1): Sanskrit CommentsX ardraka\nTamil (27): allam, artrakam, arttarakam, arukkan, atakam, attirakam, caupannam, cauvarnam, chukku, conti, cukku, cunti, ilakkottai, inci, inji, injie, katu pattiram, moruhalasatam, nakaram, navacuru, sookkoo, sukku, ularnta inci, upakullam, verkkompu, vicvapesajam, vitamutiya amirtan\nTelugu (13): aardrakamu, allam, allamu, allumu, ardrakamu, mahaushadamu, mahaushadhamu, shunthi, sonthi, sonti, sringabaeramu, sryngaberamu, sunthi\nUrdu (15): ab adrak taza, abe-e-adrak, adrak bayraisha, murraba-i-zanjibil, sonth, sonth nim kofta, tirkuta, zanjabil, zanjibil, zanjibil nim kofta, zanjibil saida, zanjibil sayida, zanjilbil, zinjibil, zufa-i-khushk",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eea249cc0c04f6bb9bcc35a8ab92f"
+  ],
+  "source_record_ids": [
+    "links-1870",
+    "links-1871"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eea249cc0c04f6bb9bcc35a8ab92f"
+    ],
+    "source_record_ids": [
+      "links-1870",
+      "links-1871"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eea249cc0c04f6bb9bcc35a8ab92f",
+          "Plant Name": "Zingiber officinale Rosc.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Zingiber officinale Rosc.",
+        "source_record_id": "links-1870",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eea249cc0c04f6bb9bcc35a8ab92f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eea249cc0c04f6bb9bcc35a8ab92f",
+          "Plant Name": "Zingiber officinale Roscoe",
+          "Status": "Found"
+        },
+        "source_plant_name": "Zingiber officinale Roscoe",
+        "source_record_id": "links-1871",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eea249cc0c04f6bb9bcc35a8ab92f"
+      }
+    ],
+    "source_xplant_id": "694eea249cc0c04f6bb9bcc35a8ab92f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

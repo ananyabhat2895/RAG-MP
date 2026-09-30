@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_489213737bbe3fa7__vernacular_names__001",
+  "plant_id": "plant_489213737bbe3fa7",
+  "plant_name": "Viola odorata Linn.",
+  "botanical_name": "Viola odorata",
+  "botanical_authority": "L.",
+  "family": "VIOLACEAE",
+  "section": "vernacular_names",
+  "content": "English (7): blue violet, devon violet, english violet, parma violet, parma violets, sweet violet, sweet-scented violet\nHindi (5): bag-banosa, banafsa, banafsha, banafshah, banaphsa\nMarathi (1): bagabanosa\nSanskrit (4): Sanskrit CommentsX banafsha, banapsa, vanaphsa, vanspika\nTamil (6): curiyakan ti, orital-t-tamarai, ratna purus, ratnapurucu, vayilethe, vayilettu\nUrdu (6): abroo, banafsha, banafshah, gul banafsha, gul banafshah, gul-e-banafsha",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/524b0a286fb3c9f2f9d9bd1222dc8459"
+  ],
+  "source_record_ids": [
+    "links-1618"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/524b0a286fb3c9f2f9d9bd1222dc8459"
+    ],
+    "source_record_ids": [
+      "links-1618"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/524b0a286fb3c9f2f9d9bd1222dc8459",
+          "Plant Name": "Viola odorata Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Viola odorata Linn.",
+        "source_record_id": "links-1618",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/524b0a286fb3c9f2f9d9bd1222dc8459"
+      }
+    ],
+    "source_xplant_id": "524b0a286fb3c9f2f9d9bd1222dc8459",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_3f4f3fd2f314b29b__identification__001",
+  "plant_id": "plant_3f4f3fd2f314b29b",
+  "plant_name": "Ficus lacor Buch-Ham.",
+  "botanical_name": "Ficus lacor",
+  "botanical_authority": "BUCH.- HAM",
+  "family": "MORACEAE",
+  "section": "identification",
+  "content": "Plant name: Ficus lacor Buch-Ham. Botanical name: Ficus lacor Botanical authority: BUCH.- HAM Family: MORACEAE Source xplant ID: d735665e53d34c0b612c79b7aebcb3e0",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d735665e53d34c0b612c79b7aebcb3e0"
+  ],
+  "source_record_ids": [
+    "links-1530",
+    "links-1531"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d735665e53d34c0b612c79b7aebcb3e0"
+    ],
+    "source_record_ids": [
+      "links-1530",
+      "links-1531"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d735665e53d34c0b612c79b7aebcb3e0",
+          "Plant Name": "Ficus lacor Buch-Ham.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus lacor Buch-Ham.",
+        "source_record_id": "links-1530",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d735665e53d34c0b612c79b7aebcb3e0"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d735665e53d34c0b612c79b7aebcb3e0",
+          "Plant Name": "Ficus lacor Buch.-Ham.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus lacor Buch.-Ham.",
+        "source_record_id": "links-1531",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d735665e53d34c0b612c79b7aebcb3e0"
+      }
+    ],
+    "source_xplant_id": "d735665e53d34c0b612c79b7aebcb3e0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

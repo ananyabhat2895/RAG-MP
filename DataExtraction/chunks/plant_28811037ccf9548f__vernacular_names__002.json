@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_28811037ccf9548f__vernacular_names__002",
+  "plant_id": "plant_28811037ccf9548f",
+  "plant_name": "Ficus religiosa",
+  "botanical_name": "Ficus religiosa",
+  "botanical_authority": "L.",
+  "family": "MORACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (238): acakam, accuvari, accuvattam, achuvattam, acunam, acunam 2, acuvartto, acuvattam, acuvattam 2, akacukam, akacukamaram, al, alvallari, alvallari#, alvallari@, alvananki, alvariti, alvaritimaram, antalai, araca maram, araca marappattai, aracam, aracam pattai, aracamaram, aracanam, aracanam 1#, aracanam 1@, aracantol, aracu, arai, arakariyam, arakavariyam, arakayyam, arakkiyam, arasa, arasa maram, arasan, arasani, arasha-maram, arasu, arasum verei, aravairam, aravariyam, aravavairam, arayal, arayaral, asuvattam, asvattam, aswarthan, atalai, atalai 2@, attira, attiru, attugamani, attukamani, attukamani#, attukamani@, attumani, attumani#, attumani$, attumani@, attumanimaram, ayamaranam, caciya, calapattirakam, calapattiram, calatalam, calatalam#, calatalam@, capalapattirakam, caracanam, caracanam#, caracanam@, caranal, caranam, caripattiram, cayikka, cayikkar, cayikkay, cayitti, cekarajan, ciravanervam, ciravanervam#, ciravanervam@, cirpattira varacu, cirpattiram, cirpattiravaracu, cittirarekai, cotinikaram, cucithurumam, cucitturumam, cuntara nankai, cuntarankai, cupatam, cuvalai, cuvalai#, cuvalai@, ilanai, ilani, jalapattiram, jalatalam, kacacanai, kacacanam, kacanai, kacanam, kakoli, kanavam, karipam, karipum, karmacam, karumacam, karumaram, kecacanai, kecacanaimaram, keccam, kelacanaimaram, kentumuriyam, kiruttinavacam, kuncaracanam, kunjarasanam, kuruvirutcam, lanai, magadurumam, makaliyam, makaraturumam, makathuruman, makaturumam, makaturumam#, makaturumam@, makotayam, malicam, mankaliyam, mannan maram, mannanmaram, mannil ventan, mannila ventan, mannilaventan, mannilaventanmaram, mara, mara 1, maramaram, maruticcinki, mokotayam, mulakkirakam, nakapantu, nantiyavartam, nantiyavarttam, narayanam, narayanam 1, narayani, narayani maram, narayanimaram, panacayitti, panacayittimaram, panai, panai$, panaicati, panapanan, panattai, panattanatti, pani, paramanukuli, patacatturavam, patacattuva maram, patacattuvamaram, patacattuvaram, patakattuvaram, patarokanam, patarokanamaram, pavittirakam, pavittirakam 2, peri, peti, pipalikai, pippalam, pippalikai, pippilam, pippili, pippilikai, piramantam, piramantamaram, piramantamram, pirpalam, pittalam, poti, poti 1, potimam, potimamaram, potiram, potitaru, punniyavaracu, punniyavaracu maram, punniyavaracumaram, racavirutcam, rauka 1, raukavaracu, tanavam, tanivirutcam, tanuvirutcam 1, tarayanam, tervacam, tervalem, tevapavanam, tevarvacam#, tevarvacam@, tevarvasam, tevattuma, tevavacam, tinti, tintimaram, tintiramaram, tirumaram, tutai, valmaki, valmakiyaracu, vanakanti, vanakatti, vanakattimaram, varacavirukkam, vatankam#, vatankam@, vatankimaram, vatarankikam, ventan, ventanmaram, vilutaracamaram, vilutaracu, virucaracam, virukkanatan, virukkapakam, virukkaracan, virutcanatam, virutcantan 1, virutcapakam, virutcapakan 1, virutcaracan, virutcatanam, yantiramatu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9206123b72aebbce3bfd5030761c172"
+  ],
+  "source_record_ids": [
+    "links-0184",
+    "links-0228"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9206123b72aebbce3bfd5030761c172"
+    ],
+    "source_record_ids": [
+      "links-0184",
+      "links-0228"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9206123b72aebbce3bfd5030761c172",
+          "Plant Name": "Ficus religiosa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus religiosa",
+        "source_record_id": "links-0184",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9206123b72aebbce3bfd5030761c172"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9206123b72aebbce3bfd5030761c172",
+          "Plant Name": "Ficus religiosa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus religiosa Linn.",
+        "source_record_id": "links-0228",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9206123b72aebbce3bfd5030761c172"
+      }
+    ],
+    "source_xplant_id": "c9206123b72aebbce3bfd5030761c172",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

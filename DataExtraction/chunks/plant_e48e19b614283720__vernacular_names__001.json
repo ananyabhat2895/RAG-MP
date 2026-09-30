@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e48e19b614283720__vernacular_names__001",
+  "plant_id": "plant_e48e19b614283720",
+  "plant_name": "Zea mays Linn.",
+  "botanical_name": "Zea mays",
+  "botanical_authority": "L.",
+  "family": "POACEAE",
+  "section": "vernacular_names",
+  "content": "English (12): baby blue eyes corn, blue corn, bourbon, corn flakes, corn flour, corn on the cob, hominy, indian corn, maize, mealies, polenta, pop corn\nHindi (14): bara jauvar, barajuar, bhutta, jawdra, junri, kukri, makai, makka, makkah-bhuttah, makkah-javar, makki, makya, mukka-jauri, mungri\nKannada (16): bottah, dodda jola, gocinajola, goinjol, govina jola, hallina jola, hidi jola, kundige jola, makkai-jola, makkejola, mekke jola, mekkejola, meksikan jola, musukina jola, musukojola, musukujola\nMalayalam (4): cholam, colam, jagung, makkaccolam\nMarathi (6): buti, maka, makaibonda, makayi, makka, mako\nSanskrit (9): Sanskrit CommentsX kandaja, mahakaya, mahakayah, makaya, makayah, samputantastha, shikhalu, yavanala, yugandhara\nTamil (7): macca cholam, makka colam, makka-cholam, makkac-colam, makkaccolam, makkasholam, turka-cholam\nTelugu (11): jonnapothu, makka-zonnalu, makkazonnalu, mokka, mokka jonna, mokka-jonna, mokkajanna, mokkajonna, mokkajonnalu, mosanam, zonaloo\nUrdu (1): makai",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f3476338732e6aaa3552b0e693c87cf5"
+  ],
+  "source_record_ids": [
+    "links-1227"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f3476338732e6aaa3552b0e693c87cf5"
+    ],
+    "source_record_ids": [
+      "links-1227"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f3476338732e6aaa3552b0e693c87cf5",
+          "Plant Name": "Zea mays Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Zea mays Linn.",
+        "source_record_id": "links-1227",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f3476338732e6aaa3552b0e693c87cf5"
+      }
+    ],
+    "source_xplant_id": "f3476338732e6aaa3552b0e693c87cf5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

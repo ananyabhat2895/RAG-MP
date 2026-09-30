@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d2619e1a8ba5e987__vernacular_names__001",
+  "plant_id": "plant_d2619e1a8ba5e987",
+  "plant_name": "Vitis latifolia Roxb.",
+  "botanical_name": "Ampelocissus latifolia",
+  "botanical_authority": "(ROXB.) PLANCH.",
+  "family": "VITACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (15): bechuti, bhimna, bhinura, bhiranya, gida dakh, giddar dakh, guddar dakh, katti-bel, musal, nadanvela, nandanvela, pani bel, pani-bel, panibel, panivela\nKannada (4): bilee hambu, bili hambu, kaadu draakshi, kaadu drakshi\nMalayalam (8): karantavalli, narantavalli, naranthavalli, valiyaparppatakam, valiyapirappitikha, valiyapirappitikka, valliapirapitica, vllia-pira-pitica\nMarathi (4): golinda, katulam, nadena, nandena\nSanskrit (7): Sanskrit CommentsX amlavetasah, amrtasrava, ghanavalli, paniyavalli, sitalata, toyavalli, vrksaruha\nTamil (6): bedisativa, cunnampuvalli, kattukkodimundirigai, kattukkoti muntirikai, kattukodimindri, kattumuntirikai\nTelugu (10): adavi draaksha, adavi draksha, adavi teega draksha, athukula boddu, bedasa tivva, bedasathivva, bedasativva, doba-tiga, pani-bel, pula-tiga",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb3faba27082ce4d413aa8a31cc8c48/xclkon/819c4bafbc6e3d93682042e058d5ef7f"
+  ],
+  "source_record_ids": [
+    "links-0121"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb3faba27082ce4d413aa8a31cc8c48/xclkon/819c4bafbc6e3d93682042e058d5ef7f"
+    ],
+    "source_record_ids": [
+      "links-0121"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb3faba27082ce4d413aa8a31cc8c48/xclkon/819c4bafbc6e3d93682042e058d5ef7f",
+          "Plant Name": "Vitis latifolia Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vitis latifolia Roxb.",
+        "source_record_id": "links-0121",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb3faba27082ce4d413aa8a31cc8c48/xclkon/819c4bafbc6e3d93682042e058d5ef7f"
+      }
+    ],
+    "source_xplant_id": "beb3faba27082ce4d413aa8a31cc8c48",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_599a9255d4264630__vernacular_names__001",
+  "plant_id": "plant_599a9255d4264630",
+  "plant_name": "Juglans regia Linn.",
+  "botanical_name": "Juglans regia",
+  "botanical_authority": "L.",
+  "family": "JUGLANDACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): black sea walnut, carpathian walnut, european walnut, persian walnut\nHindi (9): akhor, akhroot, akhror, akhrot, akrot, akshota, ka, khor, than\nKannada (4): akrodu, akrotu, akrotu beeja, akshota\nMarathi (2): akaroda, akroda\nSanskrit (17): Sanskrit CommentsX akhoda, akhota, akschoda, akschota, akshota, akshota-akschoda, akshotaka, aksoda, aksodah, aksota, aksotah, karparala, madanabhaphala, parvatiya, phalasnehah, rekhaphala, svadu majja\nTamil (7): akarottu, akkarottu, akkurottu, akkurottu#, akkurottu@, akrottu, cimai akrottu\nTelugu (2): akrottu, akrotu\nTibetan (1): star ga\nUrdu (4): akhrot, kaslees, maghz akhrot, maghz badam shirin",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11e4cbea9f5182fa889b1fcadffdc016"
+  ],
+  "source_record_ids": [
+    "links-0073"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11e4cbea9f5182fa889b1fcadffdc016"
+    ],
+    "source_record_ids": [
+      "links-0073"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11e4cbea9f5182fa889b1fcadffdc016",
+          "Plant Name": "Juglans regia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Juglans regia Linn.",
+        "source_record_id": "links-0073",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11e4cbea9f5182fa889b1fcadffdc016"
+      }
+    ],
+    "source_xplant_id": "11e4cbea9f5182fa889b1fcadffdc016",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_18e8548e8d40e532__vernacular_names__001",
+  "plant_id": "plant_18e8548e8d40e532",
+  "plant_name": "Melia azedarach Linn.",
+  "botanical_name": "Melia azedarach",
+  "botanical_authority": "L.",
+  "family": "MELIACEAE",
+  "section": "vernacular_names",
+  "content": "English (9): bakain, cape lilac, ceylon cedar, ceylon mahogany, chinese berry, chinese tree, indian or persian lilac, lunumidella, white cedar\nHindi (17): bakai, bakain, bakain.drek, bakarja, bakayan, betain, daikan, darek, deikna, dek, derk, desi-neem, drek, gowd-neem, maha-ninb, mahanimb, pakaraja\nKannada (33): arabaevu, arebaevu, arebevu, baevu, bettada-bevina, bettada-bevu, bettadabevu, bevu, bhikka bevu, chikbevu, chikka baevu, chikkabevu, cikkabevu, garadavedu, garuda baevu, garudabevu, garudabevu juchubevu, huccabevu, hucchu baevu, huccubevu, huchha bevu, huchhu bevu, hutchubevu, issapuri, kaadu baevu, kad-bevu, kadbevu, sikkabevu, turaka-bevu, turakabevu, turkalimma, visabevu, vishabevu\nMalayalam (12): aryaveppu, chonagil, conakil, kattuveppu, malaivaimboo, malaivembu, malavembu, malaveppu, maleivembu, mullayvaempoo, valiyaveppu, veppu\nMarathi (9): bakaanaa nim, bakananimb, firangi-nimb, kadabaya nim, limbara, senji, vilaaythinimb, vilayatinimb, vvilayati-nim\nSanskrit (39): Sanskrit CommentsX akshadru, arista, brihannimba, dreka, drekah, dreki, gairika, giripatra, himadruma, kaidarya, kaitarya, kakanda, karmuka, kshira, mahadroksha, mahanimba, mahanimbah, mahapichumanda, mahatikta, nimba, nimbah, nimbaka, parvata, parvata-nimba-vrikshaha, parvatanimba, parvatanimbah, parvatanimbavraksha, pavaneshta, pichumanthah, pitchumanda, prabhadra, ramyaka, ramyakah, ravipriya, sakaleyaka, vembaka, vishamushtika, vranashodhakari, vrishahai\nTamil (14): malai vembu, malai vempu, malai-vembu, malai-veppam, malaivembu, malaivempu, malaiveppam, malay vembu, manatakali, pejri, pisidam, sigarinimbam, tittam, turuka vembu padrai\nTelugu (17): bhurak vepa, kali-yapa, karandvepa, koda-vepa, konda-vepa, kondavepa, tarukvepa, thoorakavaypay, thurakavaepa, thurakavepa, turaka-vepu, turakavepa, turka vepa, turukavepa, verrivepa, verriveppa, vettiveppa\nTibetan (1): ni mba chen po\nUrdu (7): bakayana, bakayin, burge bakain, maghz tukhm bakayan, maghz tukhum-i-bakain, poast bakayan, poast bakayen",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7329b8a791768adea566d3281881f4fe"
+  ],
+  "source_record_ids": [
+    "links-1229"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7329b8a791768adea566d3281881f4fe"
+    ],
+    "source_record_ids": [
+      "links-1229"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7329b8a791768adea566d3281881f4fe",
+          "Plant Name": "Melia azedarach Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Melia azedarach Linn.",
+        "source_record_id": "links-1229",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7329b8a791768adea566d3281881f4fe"
+      }
+    ],
+    "source_xplant_id": "7329b8a791768adea566d3281881f4fe",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

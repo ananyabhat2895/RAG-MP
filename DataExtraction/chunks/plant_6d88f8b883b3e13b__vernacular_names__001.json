@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_6d88f8b883b3e13b__vernacular_names__001",
+  "plant_id": "plant_6d88f8b883b3e13b",
+  "plant_name": "Uraria hamosa Wall.",
+  "botanical_name": "Uraria rufescens",
+  "botanical_authority": "(DC.) SCHINDL.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "Sanskrit (1): Sanskrit CommentsX salaparni",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a51729911963f4064aefbef2dd454a7/xclkon/06e274c6c293a5a52b1f3885c379e3ef"
+  ],
+  "source_record_ids": [
+    "links-1699"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a51729911963f4064aefbef2dd454a7/xclkon/06e274c6c293a5a52b1f3885c379e3ef"
+    ],
+    "source_record_ids": [
+      "links-1699"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a51729911963f4064aefbef2dd454a7/xclkon/06e274c6c293a5a52b1f3885c379e3ef",
+          "Plant Name": "Uraria hamosa Wall.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Uraria hamosa Wall.",
+        "source_record_id": "links-1699",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a51729911963f4064aefbef2dd454a7/xclkon/06e274c6c293a5a52b1f3885c379e3ef"
+      }
+    ],
+    "source_xplant_id": "6a51729911963f4064aefbef2dd454a7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

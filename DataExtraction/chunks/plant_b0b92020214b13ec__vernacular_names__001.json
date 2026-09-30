@@ -1,0 +1,93 @@
+{
+  "chunk_id": "plant_b0b92020214b13ec__vernacular_names__001",
+  "plant_id": "plant_b0b92020214b13ec",
+  "plant_name": "Citrullus vulgaris Schrad. Var. fistulosus (Stocks",
+  "botanical_name": "Citrullus lanatus",
+  "botanical_authority": "(THUNB.) MATSUMARA & NAKAI",
+  "family": "CUCURBITACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): water melon\nHindi (13): halinda, hindwana, jamuka, karbuj, matira, matiro, samanka, tarbooj, tarbooz, tarbuz, tarbuza, terbuz, turmuz\nKannada (11): bachchangaayi, bachhangaayi, dasamekke, kaalenga hannu, kaalengu, kaalingana balli, kallangaday, kallangadi, kallangadi balli, kallangadi hannu, kallangare\nMalayalam (1): mandeki-patak\nMarathi (5): kalingad, kalingada, kalingin, tarbuj, tharbooj\nSanskrit (31): Sanskrit CommentsX a, alpapramanaka, brihadgold, chaya-pula, chayaphula, chelana, chitra, chitraphala, chitravallika, ghrinaphala, godumba, kalinda, kalinga, krishnabijartula, kuttoowombi, latapanasa, madhuraphala, mansala, mansaphala, meta, mutrala, natamra, rajatinisha, raktabija, seta, shirnavrinta, sukhasha, sukhavasa, tarambuja, tindisa, vrittaphala\nTamil (47): anincepakkoti, anincepam, camakam, carkkaraikkommatti, carukkaraikkommatti, carukkaraikkumitti, carukkaraippucini1, cikappukkommatti, cinkiruki, cirattavikkoti, civaninankai, civaninankaikkoti, dharbusini, karukkummatti, ketavaikkoti1, kommatti1, kotimpam, kumatti1, mamicapala, maturapalam, mulam, piccai1, piccaikkay#, piccapalam#, piccapalam@, piccappalam@, picci1, pitcha, pitcha pullum, pitchaphalam, pullum, takanacani, tappuci, tarampujam, tarppucini, tarpucani, taruppucani, tecamika, tecamikakkoti, tucikakkumitti, tucikam1, tummatti1, tummutti1, vattakai, vattakku 1, vattalai 1, vattekku 2\nTelugu (5): darbooji, darbuje, eti puchha, karubooja, putcha kaaya\nUrdu (4): ab tarbuz, maghz tukhm tarbuz, maghz tukhm tarbuz nim kofta, tarbuz",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896"
+  ],
+  "source_record_ids": [
+    "links-0528",
+    "links-0875",
+    "links-0876",
+    "links-1955",
+    "links-1956"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896"
+    ],
+    "source_record_ids": [
+      "links-0528",
+      "links-0875",
+      "links-0876",
+      "links-1955",
+      "links-1956"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896",
+          "Plant Name": "Citrullus vulgaris Schrad. Var. fistulosus (Stocks",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrullus vulgaris Schrad. Var. fistulosus (Stocks",
+        "source_record_id": "links-0528",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896",
+          "Plant Name": "Citrullus vulgaris Schard.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrullus vulgaris Schard.",
+        "source_record_id": "links-0875",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896",
+          "Plant Name": "Citrullus vulgaris Schrad.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrullus vulgaris Schrad.",
+        "source_record_id": "links-0876",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896",
+          "Plant Name": "Citrullus vulgaris var. fistulosus (Stocks) D F",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrullus vulgaris var. fistulosus (Stocks) D F",
+        "source_record_id": "links-1955",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896",
+          "Plant Name": "Citrullus vulgaris var. fistulosus (Stocks)Duthie",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrullus vulgaris var. fistulosus (Stocks)Duthie",
+        "source_record_id": "links-1956",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896"
+      }
+    ],
+    "source_xplant_id": "fedcd0fee4b5331cc829d963e3211312",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

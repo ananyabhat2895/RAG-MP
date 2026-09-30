@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_ba4c455c62459165__vernacular_names__001",
+  "plant_id": "plant_ba4c455c62459165",
+  "plant_name": "Momordica dioica Roxb.",
+  "botanical_name": "Momordica dioica",
+  "botanical_authority": "ROXB. EX WILLD.",
+  "family": "CUCURBITACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (12): beksa, dhar-karela, ghosalphal, golkandra, golkankra, jangli karela, jangli-karela, kakda jangli-karela, kakoda, kankero, kinkoda, murela\nKannada (16): ghatta haagalu, gida haagala, gidda haagala, gidhagalu, kaakontini, kaali kaayi, kaarchi balli, kaarthee kaayi, karchi-balli, kartikai, mada haagala, mada haagalu, madahagala-kayi, maduvaagala, maduvaagalu, midi haagala\nMalayalam (4): ben-pavel, erima-pavel, erimapasel, vempavalerimapase\nMarathi (6): banzakartholi, banzakartoli, kartholi, kartoli, kertoli, phagulni\nSanskrit (43): Sanskrit CommentsX avandhya, bhaktadamani, bhutapaha, bodhanajali, devi, diva, ishwari, kandashalini, kandavalli, kanta, karkasam, karkota, karkotah, karkotaka, karkotakee, karkotaki, mahajali, mahajalinika, mahayogeshwari, manasvini, manodna, nagahantri, nagarati, nagari, nakradamani, pathya, pitapushpi, putrada, sakanda, sarpadamani, sarvanshadhi, srikanda, sugandha, vahassa, vahisa, vahisee, vahisi, vandhya, vandhyakarkotaki, vishakandakini, vishakantakini, vishamohaprashamani, yogeswari\nTamil (64): aegarvalli, akacatankucakkoti, akacattankucam, ankitam#, apotakam, cilekakkoti, cilekam, ekaram2, ekaravalli2, erumaippakal, kaattu pagal, kacalini, kalampi, karkalavanki, karkalavankikkoti, kattu pakal, kattuppakal, kattuppakkal, kattuppalupakal, kattuppalupakarkoti, kotippacalai, kotivacalai, kotivacalaikkirai, kotivayalai, kottavi2, kottuppacalai#, kottuppacalai@, kottuvacalai, kupotaki, kuram1, kuttu pacalai, kuttuppacalai, malaippakal, melukupakal, nakatamaniyam1, nakattukkuruvani, nay-p-pakal, netuviral1, netuvirkoti, ocika, ocikakkoti, pacalai 2, pacalaikkilanku, pallephagil, paloopaghel kalung, palu-pagal, palupaghel-kalung, palupakal, palupakarkoti, palupalagakalungai, paluppakal, paluppakkay, pazhu pagal, peyppakal 2, picanamakkoti, picanamam, pinkam, putuppacalai, tholoopavai, tumbai, vicatam, vicatappacalaikkoti, virukkatini, virutcatini\nTelugu (14): aagaakara, agakara, anga kakara, angaakara, karkotaki, pomu donda, potu kakara, potuaagaakara, potuagakara, potukaakara, potukandulu, puagaakara, puagakara, theepi kakara",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7e1fad86b641084f389683f5160e659"
+  ],
+  "source_record_ids": [
+    "links-0974",
+    "links-0977"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7e1fad86b641084f389683f5160e659"
+    ],
+    "source_record_ids": [
+      "links-0974",
+      "links-0977"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7e1fad86b641084f389683f5160e659",
+          "Plant Name": "Momordica dioica Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Momordica dioica Roxb.",
+        "source_record_id": "links-0974",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7e1fad86b641084f389683f5160e659"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7e1fad86b641084f389683f5160e659",
+          "Plant Name": "Momordica dioica Roxb. ex Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Momordica dioica Roxb. ex Willd.",
+        "source_record_id": "links-0977",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7e1fad86b641084f389683f5160e659"
+      }
+    ],
+    "source_xplant_id": "d7e1fad86b641084f389683f5160e659",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2cdd0f734659b050__vernacular_names__001",
+  "plant_id": "plant_2cdd0f734659b050",
+  "plant_name": "Vitex negundo Linn.",
+  "botanical_name": "Vitex negundo",
+  "botanical_authority": "L.",
+  "family": "VERBENACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (34): bana, banana, banha, banna, bannah, kali-nirgundi, mewri, negad, nengar, newri, ningori, nirgandi, nirgud, nirgunda, nirgundi, nisinda, panikisambhalu, sambhal, sambhalu, samhalu, sanbhalu, sanghalu, saubhalu, sawbhalu, shawalu, shimalu, shiwali, shriwari, siwain, siwali, tarvan, veeru, veeru dhayad, wana\nKannada (31): bile-nekki, bilee lakki, bilee nekki, bilenekki, karilakki, karinekkilu, karlakki, karlekki, lakkagida, lakki, lakki gida, lakki-gida, lakkili, lakkli, leckee, lekki, lekkigidda, lokki, nakkilu, neckila, neera gundi, nekka, nekki, nekkilu, niragundi, nirgundi, nocci, nochi, nukki, shiruboli, shurnboli\nMalayalam (19): bem-nosi, bemnosi, bennochi, bennochie, indrani, karunocci, nocchi, nocci, noch-chi, nochi, nuchil, pennochi, vallanochi, vella-noch-chi, vellanocci, vellanochi, velnocci, vennocci, vennochi\nMarathi (8): limgud, lingur, negumd, nengar, nirguda, nirgunda, nirgundi, nirgur\nSanskrit (20): Sanskrit CommentsX indrani, nilanirgundi, nilapushpa, nirgundi, nirgundika, renuka, sephalika, shephali, shvetasurasa, sindhooka, sindhuvaram, sinduka, sinduvara, sinduvarah, sinduya, sugandhika, surasa, suvaha, svetasurasa, vrikshaha\nTamil (105): aintilainocci, anincil, arttacittikam, cantiracuracam, caturappirantai, cavurecuram, centuvaracceti, centuvaram, chinduvaram, cinkirukacceti, cinkirukam, cinkorikam, cinkorikamaram, cintu, cintu1, cintukacceti, cintukam, cintukam@, cintuvaracceti, cintuvaram, cintuvari, cintuvarimaram, cirantukam, citacuracam, citaracakoli, copalikai, cumirtam1, cuntai1, curacam3, curaci, cuvetacuracam, intira curiyam, intiracuracam, intiranam, intirani1, intiranikai, itanacikam, kotaikkiricam, kunti, kurupatam, kurupatamaram, makicani, makicanicceti, malainoccimaram, mancitalikam, montika, montikanocci, nacci, nallanocci, nallanochi, natikantam2, nattunocci, nekkunti, nerkkunti, nerkunti, nilakantakacceti, nilakantikam, nilaputpam, nilaputpikai, nilaputpikaicceti, nirakulli, nirkkundi, nirkkunti, nirkkunticceti, nirkundi, nirkunti, nirnochchi, nittal, nittil, nittirakacacceti, nittirakacam, nocci, noccicceti, noccili, noch-chi, nochchi, nochhi, nochi, noochie, notchi, nuvanai1, paccalai, paccalaimaram, pampeyam, pampeyamaram, paurakam, pavurakam, peratam, purtti, putakeci, putateki, putaveci@, sinduvaaram, sinduvaram, tiriburamerittan, tiripuramerittan2, vellai nocci, vellai nochi, vellai-noch-chi, vellainocci, vellainochi, vennocci, vennocci#, vennocci@, vennochi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3c83d263cafe0c7e0656f366178bed2"
+  ],
+  "source_record_ids": [
+    "links-0690"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3c83d263cafe0c7e0656f366178bed2"
+    ],
+    "source_record_ids": [
+      "links-0690"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3c83d263cafe0c7e0656f366178bed2",
+          "Plant Name": "Vitex negundo Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vitex negundo Linn.",
+        "source_record_id": "links-0690",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3c83d263cafe0c7e0656f366178bed2"
+      }
+    ],
+    "source_xplant_id": "b3c83d263cafe0c7e0656f366178bed2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

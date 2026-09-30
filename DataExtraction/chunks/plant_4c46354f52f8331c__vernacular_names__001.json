@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4c46354f52f8331c__vernacular_names__001",
+  "plant_id": "plant_4c46354f52f8331c",
+  "plant_name": "Carissa carandas Linn.",
+  "botanical_name": "Carissa carandas",
+  "botanical_authority": "L.",
+  "family": "APOCYNACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): christ s thorn, karanda\nHindi (16): garinga, gotho, kantakregi, karando, karaunda, karaunta, karonda, karondi, karonti, karrona, karumcha, karunda, karwando, korada, timukha, timukhia\nKannada (44): dodda kalaa, dodda kavali, doddakavale, doddakavali, garacha, garaja, garchinakai, garji, harikalivi, heggarichige, heggaricige, heggarjige, hirikalavi, hirikavali, kalaagida, kalavige, kalivi, kalla, kamarika, kamrdepuli, karanda, karande, karande pli, karavadi, karekai, karekayi, kareki, karevati, kari, karice, kariche, karichi, karichina kaayi, karichinakayi, karicinakayi, karinda, karndepuli, kauligida, kavale, kavali, kavali gida, kawliballi, korinda, malekalaavu\nMalayalam (9): kalavu, karakka, karanta, karekai, keelay, kilai, klavu, kulay, perumklavu\nMarathi (10): boranda, boronda, haradundi, karanda, karandi, karaunda, karavanad, karavanda, karavandi, karwand-karanja\nSanskrit (34): Sanskrit CommentsX avighna, avighnah, avinga, bahudala, bolekarambuka, dimdima, dridhakantaka, guchhi, jalipushpa, kanachuka, kantaki, karamarda, karamardaka, karamla, karamlaka, karinkara, karmoha, krishna-pakphula, krishna-phala, krishnapakaphala, krishnaphala, krisnapakaphala, kshiraphala, kshiri, ksiraphala, pakakrishna, pakaphala, panimarda, phalakrishna, supushpa, susena, vanalaya, vanekshudra, vasha\nTamil (37): aintarikam, aintarikamaram, alarukam, alarukamaram, cenkala, cirapalam, cirukala, kala, kalaaha, kalaka, kalakka, kalakkay, kalar, kalarva 2, karavintai, kila, kilakkai, kilakki, kilamaram, kilatti, kilay, kirusnapakapalam, kirusnapalai, kiruttinapakapalam, perinkalakphalam, periyakala, perukala, perumkla, perungala, perungila-maram, perungkala, perunikila, perunkala, perunkala ver, perunkila, yokatumacceti, yokatumam\nTelugu (34): kalay, kali, kali-kai, kalikai, kaliva, kalive, kalivi, kalli, kallia, kalumi, kaluva, kavila, oka, okalive, pedda kalive, peddakalavi, peddakalive, peddakalivi, peddakalivipandu, peddavaaka kaaya, peddavaka, peddavakakaya, vaaka chettu, vaaklive, vaka, vakalive, vakalivi, vakalvi, vakudu, waaka, waka, wakay, wyaka, yaakudu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d7a36f5544883df67f5288d43948d0b"
+  ],
+  "source_record_ids": [
+    "links-0937"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d7a36f5544883df67f5288d43948d0b"
+    ],
+    "source_record_ids": [
+      "links-0937"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d7a36f5544883df67f5288d43948d0b",
+          "Plant Name": "Carissa carandas Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Carissa carandas Linn.",
+        "source_record_id": "links-0937",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d7a36f5544883df67f5288d43948d0b"
+      }
+    ],
+    "source_xplant_id": "6d7a36f5544883df67f5288d43948d0b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

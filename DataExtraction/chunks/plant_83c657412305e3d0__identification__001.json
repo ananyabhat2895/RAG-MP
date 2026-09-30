@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_83c657412305e3d0__identification__001",
+  "plant_id": "plant_83c657412305e3d0",
+  "plant_name": "Juniperus communis Linn.",
+  "botanical_name": "Juniperus communis",
+  "botanical_authority": "L.",
+  "family": "CONIFERAE",
+  "section": "identification",
+  "content": "Plant name: Juniperus communis Linn. Botanical name: Juniperus communis Botanical authority: L. Family: CONIFERAE Source xplant ID: 852f94675efabe6fc78c8fd86448db56",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/852f94675efabe6fc78c8fd86448db56"
+  ],
+  "source_record_ids": [
+    "links-0685"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/852f94675efabe6fc78c8fd86448db56"
+    ],
+    "source_record_ids": [
+      "links-0685"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/852f94675efabe6fc78c8fd86448db56",
+          "Plant Name": "Juniperus communis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Juniperus communis Linn.",
+        "source_record_id": "links-0685",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/852f94675efabe6fc78c8fd86448db56"
+      }
+    ],
+    "source_xplant_id": "852f94675efabe6fc78c8fd86448db56",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

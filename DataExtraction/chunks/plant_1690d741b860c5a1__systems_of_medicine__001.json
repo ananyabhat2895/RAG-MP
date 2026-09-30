@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_1690d741b860c5a1__systems_of_medicine__001",
+  "plant_id": "plant_1690d741b860c5a1",
+  "plant_name": "Capparis mooni",
+  "botanical_name": "Capparis moonii",
+  "botanical_authority": "WIGHT",
+  "family": "CAPPARACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e6d4df9c68f58a339901846ff2ed17f"
+  ],
+  "source_record_ids": [
+    "links-1666",
+    "links-1667"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e6d4df9c68f58a339901846ff2ed17f"
+    ],
+    "source_record_ids": [
+      "links-1666",
+      "links-1667"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e6d4df9c68f58a339901846ff2ed17f",
+          "Plant Name": "Capparis mooni",
+          "Status": "Found"
+        },
+        "source_plant_name": "Capparis mooni",
+        "source_record_id": "links-1666",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e6d4df9c68f58a339901846ff2ed17f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e6d4df9c68f58a339901846ff2ed17f",
+          "Plant Name": "Capparis moonii Wight.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Capparis moonii Wight.",
+        "source_record_id": "links-1667",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e6d4df9c68f58a339901846ff2ed17f"
+      }
+    ],
+    "source_xplant_id": "8e6d4df9c68f58a339901846ff2ed17f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

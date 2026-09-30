@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a34df6ff83467ef4__vernacular_names__001",
+  "plant_id": "plant_a34df6ff83467ef4",
+  "plant_name": "Agaricus campestris Linn.",
+  "botanical_name": "Agaricus campestris",
+  "botanical_authority": "L. EX FR.",
+  "family": "AGARICACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (7): chhata, chhatona, kumbi, kumi, phenchhatar, sampakichatri, sanpakichhatri\nKannada (2): anabe, naayi kode\nMalayalam (1): kun\nMarathi (3): alambi, bhuiphoda, satri\nSanskrit (18): Sanskrit CommentsX bhuchatra, bhuchhatra, bhukandah, bhumichhanna, bhumichhattra, bhumisphota, bhusuta, cchatraka, channa, chatrakah, chattrak, chhatra, dharankusa, kavacha, prithavikanda, sansvedajashaka, shilinghraka, uchhilindhra\nTamil (20): amam 2, ampi, ampirakam, ampiram, aticattirakam, aticcattirakam, aticcattirakapputu, aticcattiram, kaalan, kakkalatitam, kalan, karakam, naikkodai, naikkotai, naykkutai, naykkutaik kalan, pumikantakam, purrirpu, tirakalatikam, tirakalatitam\nTelugu (2): kukkagodugu, putta kokka\nUrdu (1): kakamitha",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf287e196320e52c1b7acb05d65234fb"
+  ],
+  "source_record_ids": [
+    "links-0441"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf287e196320e52c1b7acb05d65234fb"
+    ],
+    "source_record_ids": [
+      "links-0441"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf287e196320e52c1b7acb05d65234fb",
+          "Plant Name": "Agaricus campestris Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Agaricus campestris Linn.",
+        "source_record_id": "links-0441",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf287e196320e52c1b7acb05d65234fb"
+      }
+    ],
+    "source_xplant_id": "cf287e196320e52c1b7acb05d65234fb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

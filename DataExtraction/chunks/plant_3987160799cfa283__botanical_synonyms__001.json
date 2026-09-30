@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_3987160799cfa283__botanical_synonyms__001",
+  "plant_id": "plant_3987160799cfa283",
+  "plant_name": "Euphorbia microphylla Heyne.",
+  "botanical_name": "Euphorbia microphylla",
+  "botanical_authority": "HEYNE",
+  "family": "EUPHORBIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Euphorbia onicrophylla L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59ea8037b22d6815fe304a212a39cd8a",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59ea8037b22d6815fe304a212a39cd8a/xclkon/d5f842064d5932ab4adbe8916e7a84ab"
+  ],
+  "source_record_ids": [
+    "links-0544",
+    "links-0545"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59ea8037b22d6815fe304a212a39cd8a",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59ea8037b22d6815fe304a212a39cd8a/xclkon/d5f842064d5932ab4adbe8916e7a84ab"
+    ],
+    "source_record_ids": [
+      "links-0544",
+      "links-0545"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59ea8037b22d6815fe304a212a39cd8a",
+          "Plant Name": "Euphorbia microphylla Heyne.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia microphylla Heyne.",
+        "source_record_id": "links-0544",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59ea8037b22d6815fe304a212a39cd8a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59ea8037b22d6815fe304a212a39cd8a/xclkon/d5f842064d5932ab4adbe8916e7a84ab",
+          "Plant Name": "Euphorbia Onicrophylla",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia Onicrophylla",
+        "source_record_id": "links-0545",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59ea8037b22d6815fe304a212a39cd8a/xclkon/d5f842064d5932ab4adbe8916e7a84ab"
+      }
+    ],
+    "source_xplant_id": "59ea8037b22d6815fe304a212a39cd8a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

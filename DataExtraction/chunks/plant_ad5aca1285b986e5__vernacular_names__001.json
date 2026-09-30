@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_ad5aca1285b986e5__vernacular_names__001",
+  "plant_id": "plant_ad5aca1285b986e5",
+  "plant_name": "Cinnamomum tamala Nees and Eberm.",
+  "botanical_name": "Cinnamomum tamala",
+  "botanical_authority": "NEES & EBERM.",
+  "family": "LAURACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (20): barahmi, dalchini, dalchunu, darchini, khikhelu, kikoa, kirkiria, silkanti, sinkami, tajkalam, tajkalmi, tajpat, talispatar, talispatri, tamal pattar, tej patra, tejpat, tejpatt, tezpat, tomal pattar\nKannada (6): dalchini, lavangadapatti, lavangapathri, lavangapatri, lavangapatte, patraka\nMalayalam (2): ilavannam, paccila\nMarathi (6): daalchinitiki, dalchinitiki, ranachadal, sambharapana, tamalapatra, tejpat\nSanskrit (41): Sanskrit CommentsX ankusha, chhadana, coca, dala, dalavhaya, gandhajata, gomeda, gopana, ishtagandha, kalaskandah, lasha, nagakesaram, nalika, naluka, pakranjana, patra, patraka, patrakhya, patram, roma, romasha, shitarasa, sukumaraka, suranirgandha, surasa, tamal, tamala, tamalaka, tamalapatra, tamalapatram, tapasa, tapiccha, tejapatra, tespatra, tvak, tvakapatra, tvakpatra, twak, vasa, vasanavhaya, vastra\nTamil (42): alametam, alametamaram, alati2, cattulavam, cirunakappu, cummokam, cummokappattai, cuvetam4, elavangapattiri, ilavankappattaimaram, ilavankappattiri, ilinku, kattumurunkai3, kumarakam, kuvilam1, lavangapathri, lavangappattri, maluram 1, mavili, mavilimaram, mavilinkai, mavilinkam@, mikuttiyal 1, mitira, mitirappattai, mottulavankappattai, nirumaliyam, nirvila1, periyailavankappattai, periyalavankap pattai, perulavankappattai, talicapattiri, talisha-pattiri, talishappattiri, tamalapattiri, tamalapattiri#, tamalapattiri@, tipani1, tipini2, tuvakkupattiri, ulimiti, vilvam#\nTelugu (3): talisha-patri, tallishapatri, thaallishapathri\nTibetan (1): dri zim boi lo ma and ga ndha\nUrdu (2): sazaj hindi, zarnab (telispattar)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367"
+  ],
+  "source_record_ids": [
+    "links-0463",
+    "links-1373",
+    "links-2007",
+    "links-2056"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367"
+    ],
+    "source_record_ids": [
+      "links-0463",
+      "links-1373",
+      "links-2007",
+      "links-2056"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367",
+          "Plant Name": "Cinnamomum tamala Nees and Eberm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum tamala Nees and Eberm.",
+        "source_record_id": "links-0463",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367",
+          "Plant Name": "Cinnamomum tamala",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum tamala",
+        "source_record_id": "links-1373",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367",
+          "Plant Name": "Cinnamomum tamala Nees & Eberm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum tamala Nees & Eberm.",
+        "source_record_id": "links-2007",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367",
+          "Plant Name": "Cinnamomum tamala Nees.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum tamala Nees.",
+        "source_record_id": "links-2056",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367"
+      }
+    ],
+    "source_xplant_id": "a2f427bdd69c3196852735873010d367",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e7df86197c5c851a__vernacular_names__001",
+  "plant_id": "plant_e7df86197c5c851a",
+  "plant_name": "Portulaca quadrifida Linn.",
+  "botanical_name": "Portulaca quadrifida",
+  "botanical_authority": "L.",
+  "family": "PORTULACACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (9): baralunia, chaunlayi, chota luniya, chotaluniya, khatechawal, lonia, lonika, loniya, nunisak\nKannada (10): bachhale soppu, goni soppu, gonisoppu, haali dajjili, haalu bachhale, haalu bachhali, hali bachchele, halibachcheli, lonika, sanna goni\nMalayalam (1): nelatsjira\nMarathi (5): bhumy gol, bhuyigola, kathe chanval, kathechanval, ranghol\nSanskrit (8): Sanskrit CommentsX kshudragholika, laghughonika, laghulonika, loni, lonika, loonia, oopadykee, upadyki\nTamil (37): antaratecarikkoti, antarattecari, cirupacalai, cokkali2#, cokkali2@, ilaippacalai, ilaippacali, kotippacalai1, mantotayakkaratimuli, maraimuli 1, mukkili 1, mukkuli, nilicam, otunkani, otunkanikkirai, pacalai, pacalai1, pacarai1, pasalai, pasalai keerai, pasarai, pasarai keerai, passalaikkirai, passelie keeray, passelikkirai, passraikeeray, pavanatamatu, payviri, payvirikkoti, pikan, sinnaparpukkirai, sinnaparupukkirai, siruppassaraikkirai, soin-pappu-kirai, taraippacali, uram, vacalai\nTelugu (14): goddupaavili koora, goddupavili, kura, pavili, payalaaku, payalaku, peddapaavili, peddapavili, sannapappu, sannapayal aaku, saunapailkoora, saunapappu, saunapavili, sunapailkura",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db24e0e78aef3a7e6e0d10c4f97f5779"
+  ],
+  "source_record_ids": [
+    "links-1199"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db24e0e78aef3a7e6e0d10c4f97f5779"
+    ],
+    "source_record_ids": [
+      "links-1199"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db24e0e78aef3a7e6e0d10c4f97f5779",
+          "Plant Name": "Portulaca quadrifida Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Portulaca quadrifida Linn.",
+        "source_record_id": "links-1199",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db24e0e78aef3a7e6e0d10c4f97f5779"
+      }
+    ],
+    "source_xplant_id": "db24e0e78aef3a7e6e0d10c4f97f5779",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_90297d0c4270238f__images__001",
+  "plant_id": "plant_90297d0c4270238f",
+  "plant_name": "Saccharum sinense Roxb.",
+  "botanical_name": "Saccharum sinense",
+  "botanical_authority": "ROXB.",
+  "family": "POACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/22e4d4e89777df7b3155cd7e09a75409"
+  ],
+  "source_record_ids": [
+    "links-0728"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/22e4d4e89777df7b3155cd7e09a75409"
+    ],
+    "source_record_ids": [
+      "links-0728"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/22e4d4e89777df7b3155cd7e09a75409",
+          "Plant Name": "Saccharum sinense Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Saccharum sinense Roxb.",
+        "source_record_id": "links-0728",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/22e4d4e89777df7b3155cd7e09a75409"
+      }
+    ],
+    "source_xplant_id": "22e4d4e89777df7b3155cd7e09a75409",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

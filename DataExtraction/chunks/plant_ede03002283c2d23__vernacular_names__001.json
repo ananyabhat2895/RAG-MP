@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_ede03002283c2d23__vernacular_names__001",
+  "plant_id": "plant_ede03002283c2d23",
+  "plant_name": "Ipomoea pes-caprae (Linn.) Sw.",
+  "botanical_name": "Ipomoea pes-caprae",
+  "botanical_authority": "(L,) R.BR.",
+  "family": "CONVOLVULACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (2): dopateluta, dopatilata\nKannada (14): aadambu, aadu balli, aaduballi, adambuballi, adumbaballi, adumbu balli, adumbuburu, bangada balli, bangadaballi, bangadivalli, kempu bangada balli, kempubangadaballi, kempubangaduballi, maralu balli\nMalayalam (10): aatambu, atampa, atampu, atampuvalli, chuvannatambu, chuvannatampu, cukannaatampu, cuvannatampu, schovanna-adambu, schovannaadamboe\nMarathi (8): bamgdvel, bangadivalli, marjaad bael, marjadvel, maryadvel, maryadvelo, samudraphen, sumudraphen\nSanskrit (16): Sanskrit CommentsX chagalanghri, chagalantri, ghavapatta, manmatha, maravalli, maryada, maryadavalli, maryadvalli, masuravidala, raktapushpa, sagara, sagaramekhala, syama, vrddhadaraka, vridhadarak, yugmapatra\nTamil (46): adambu, adappangodi, adapukodi, atampu, atappan koti, atappankoti, attukkal, attukkalatampu, attula, atumpu, capatakitakkoti, capatakitam, chevulapilli, copalikai, kudhirai kulambu, kutiraikkulampati, kutiraikulampu, mankulampu, mucakkattukirai, mucalkatilai, mucalkatukkirai, mucarralai, mucarralai#, mucarralai@, musalkadhukkirai, musattalai, mutavattukkal, muyaikathilai, muyalkatilai, nittukkal, nittukkarceti, palikai, paliru, pancunalakakkoti, pancunalakam, pirampukkoti, vekam, vekikakkoti, vekikam, veram, vicatturu, vicatturukakkoti, vicatturukam, vikatturu, vilattaru, vilattarukkoti\nTelugu (12): baalabandithige, baedathige, bala banthi-tige, balabandatige, balabanditige, balabantatige, bedateega, bedatige, cevullapillitige, chevulapillithige, chevulapillitige, chivulapillitige\nTibetan (1): sra bras",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd17d767c8804c44d255f80bc72e82a7"
+  ],
+  "source_record_ids": [
+    "links-0439",
+    "links-0440",
+    "links-2119"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd17d767c8804c44d255f80bc72e82a7"
+    ],
+    "source_record_ids": [
+      "links-0439",
+      "links-0440",
+      "links-2119"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd17d767c8804c44d255f80bc72e82a7",
+          "Plant Name": "Ipomoea pes-caprae (Linn.) Sw.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ipomoea pes-caprae (Linn.) Sw.",
+        "source_record_id": "links-0439",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd17d767c8804c44d255f80bc72e82a7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd17d767c8804c44d255f80bc72e82a7",
+          "Plant Name": "Ipomoea pes-caprae Sw.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ipomoea pes-caprae Sw.",
+        "source_record_id": "links-0440",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd17d767c8804c44d255f80bc72e82a7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd17d767c8804c44d255f80bc72e82a7",
+          "Plant Name": "Ipomoea pes-caprae",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ipomoea pes-caprae",
+        "source_record_id": "links-2119",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd17d767c8804c44d255f80bc72e82a7"
+      }
+    ],
+    "source_xplant_id": "cd17d767c8804c44d255f80bc72e82a7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_73a069fabaeaff3d__botanical_synonyms__001",
+  "plant_id": "plant_73a069fabaeaff3d",
+  "plant_name": "Adhatoda beddomei Clarke",
+  "botanical_name": "Justicia beddomei",
+  "botanical_authority": "(CL.) BENNET",
+  "family": "ACANTHACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Adhatoda beddomei C.B.CLARKE X Full Botanical citation - Adhatoda beddomei C.B. Clarke in Hook.f., Fl. Brit. India 4: 540. 1885; S. Karthikeyan & al., Flowering Plants of India - Dicot. 1: 25. 2009.\nSynonym: Adhatoda beddomei C.B.CLARKE",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/408b4c4d43c5287670c593e0d995740c/xclkon/96313eaaec773d80c82da98b79c30bb5"
+  ],
+  "source_record_ids": [
+    "links-2062"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/408b4c4d43c5287670c593e0d995740c/xclkon/96313eaaec773d80c82da98b79c30bb5"
+    ],
+    "source_record_ids": [
+      "links-2062"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/408b4c4d43c5287670c593e0d995740c/xclkon/96313eaaec773d80c82da98b79c30bb5",
+          "Plant Name": "Adhatoda beddomei Clarke",
+          "Status": "Found"
+        },
+        "source_plant_name": "Adhatoda beddomei Clarke",
+        "source_record_id": "links-2062",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/408b4c4d43c5287670c593e0d995740c/xclkon/96313eaaec773d80c82da98b79c30bb5"
+      }
+    ],
+    "source_xplant_id": "408b4c4d43c5287670c593e0d995740c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

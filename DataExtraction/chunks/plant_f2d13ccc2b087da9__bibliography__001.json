@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_f2d13ccc2b087da9__bibliography__001",
+  "plant_id": "plant_f2d13ccc2b087da9",
+  "plant_name": "Angelica glauca Edgew",
+  "botanical_name": "Angelica glauca",
+  "botanical_authority": "EDGEW.",
+  "family": "APIACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol I\nBibliography entry: title: Title - Alpine meadows of Uttaranchal\nBibliography entry: title: Title - Medicinal and Aromatic Plants of Himachal Pradesh",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe3a748f48ebb5be177ca76bd959f6e6"
+  ],
+  "source_record_ids": [
+    "links-0469",
+    "links-0470",
+    "links-0471",
+    "links-0642"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe3a748f48ebb5be177ca76bd959f6e6"
+    ],
+    "source_record_ids": [
+      "links-0469",
+      "links-0470",
+      "links-0471",
+      "links-0642"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe3a748f48ebb5be177ca76bd959f6e6",
+          "Plant Name": "Angelica glauca Edgew",
+          "Status": "Found"
+        },
+        "source_plant_name": "Angelica glauca Edgew",
+        "source_record_id": "links-0469",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe3a748f48ebb5be177ca76bd959f6e6"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe3a748f48ebb5be177ca76bd959f6e6",
+          "Plant Name": "Angelica glauca Edgew.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Angelica glauca Edgew.",
+        "source_record_id": "links-0470",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe3a748f48ebb5be177ca76bd959f6e6"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe3a748f48ebb5be177ca76bd959f6e6",
+          "Plant Name": "Angelica glauca Edgw.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Angelica glauca Edgw.",
+        "source_record_id": "links-0471",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe3a748f48ebb5be177ca76bd959f6e6"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe3a748f48ebb5be177ca76bd959f6e6",
+          "Plant Name": "Angelica glauca",
+          "Status": "Found"
+        },
+        "source_plant_name": "Angelica glauca",
+        "source_record_id": "links-0642",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe3a748f48ebb5be177ca76bd959f6e6"
+      }
+    ],
+    "source_xplant_id": "fe3a748f48ebb5be177ca76bd959f6e6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

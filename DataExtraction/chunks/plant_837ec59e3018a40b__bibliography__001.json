@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_837ec59e3018a40b__bibliography__001",
+  "plant_id": "plant_837ec59e3018a40b",
+  "plant_name": "Rungia repens",
+  "botanical_name": "Rungia repens",
+  "botanical_authority": "(L.) NEES",
+  "family": "ACANTHACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol. II\nBibliography entry: title: Title - Flora of Rajasthan Vol.2\nBibliography entry: title: Title - The Flora of the Gulf of Mannar\nBibliography entry: title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nBibliography entry: title: Title - Flora of Majuli\nBibliography entry: title: Title - Flora of Gujarat State Vol 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac1ae5531797f88862a32cc8b7698504"
+  ],
+  "source_record_ids": [
+    "links-1466",
+    "links-1467"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac1ae5531797f88862a32cc8b7698504"
+    ],
+    "source_record_ids": [
+      "links-1466",
+      "links-1467"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac1ae5531797f88862a32cc8b7698504",
+          "Plant Name": "Rungia repens",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rungia repens",
+        "source_record_id": "links-1466",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac1ae5531797f88862a32cc8b7698504"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac1ae5531797f88862a32cc8b7698504",
+          "Plant Name": "Rungia repens Nees.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rungia repens Nees.",
+        "source_record_id": "links-1467",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac1ae5531797f88862a32cc8b7698504"
+      }
+    ],
+    "source_xplant_id": "ac1ae5531797f88862a32cc8b7698504",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

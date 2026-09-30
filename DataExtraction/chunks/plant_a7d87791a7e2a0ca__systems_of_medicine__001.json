@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_a7d87791a7e2a0ca__systems_of_medicine__001",
+  "plant_id": "plant_a7d87791a7e2a0ca",
+  "plant_name": "Ochrocarpus longifolius Benth. & Hook.f.",
+  "botanical_name": "Mammea suriga",
+  "botanical_authority": "(BUCH.-HAM. EX ROXB.)",
+  "family": "CLUSIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk Botanical Synonyms (2) - Mammea longifolia PLANCH. & TRIANA. X Full Botanical citation - Mammea longifolia (Wight) Planch. & Triana in Ann. Sci. Nat. ser. 4\nSystem of medicine: 15: 240. 1861; N.P.Singh in B.D. Sharma & Sanjappa\nSystem of medicine: Fl. India 3: 132. 1993. Ochrocarpus longifolius (WIGHT) T.ANDERSON X Full Botanical citation - Ochrocarpus longifolium (Wight) T.Anderson in Fl. Brit. India 1: 270. 1874; N.P.Singh in B.D. Sharma & Sanjappa\nSystem of medicine: Fl. India 3: 133. 1993.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/a8275aef309c1fb7902d725be4896afb",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/0cba081211e98101038748f166dc0838"
+  ],
+  "source_record_ids": [
+    "links-1362",
+    "links-1876",
+    "links-1877"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/a8275aef309c1fb7902d725be4896afb",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/0cba081211e98101038748f166dc0838"
+    ],
+    "source_record_ids": [
+      "links-1362",
+      "links-1876",
+      "links-1877"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/a8275aef309c1fb7902d725be4896afb",
+          "Plant Name": "Ochrocarpus longifolius Benth. & Hook.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ochrocarpus longifolius Benth. & Hook.f.",
+        "source_record_id": "links-1362",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/a8275aef309c1fb7902d725be4896afb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/0cba081211e98101038748f166dc0838",
+          "Plant Name": "Mammea longifolia Planch & Triana.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mammea longifolia Planch & Triana.",
+        "source_record_id": "links-1876",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/0cba081211e98101038748f166dc0838"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/0cba081211e98101038748f166dc0838",
+          "Plant Name": "Mammea longifolia planch. & Triana.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mammea longifolia planch. & Triana.",
+        "source_record_id": "links-1877",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/0cba081211e98101038748f166dc0838"
+      }
+    ],
+    "source_xplant_id": "20538932dc67840fe5313c4b4b3d8bb9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

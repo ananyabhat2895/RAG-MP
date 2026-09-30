@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2902f2e98142779f__identification__001",
+  "plant_id": "plant_2902f2e98142779f",
+  "plant_name": "Leucas cephalotes Spreng.",
+  "botanical_name": "Leucas cephalotes",
+  "botanical_authority": "(ROTH.) SPR.",
+  "family": "LAMIACEAE",
+  "section": "identification",
+  "content": "Plant name: Leucas cephalotes Spreng. Botanical name: Leucas cephalotes Botanical authority: (ROTH.) SPR. Family: LAMIACEAE Source xplant ID: f7a4c676664865e9c0c3e257933d566e",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7a4c676664865e9c0c3e257933d566e"
+  ],
+  "source_record_ids": [
+    "links-0536"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7a4c676664865e9c0c3e257933d566e"
+    ],
+    "source_record_ids": [
+      "links-0536"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7a4c676664865e9c0c3e257933d566e",
+          "Plant Name": "Leucas cephalotes Spreng.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Leucas cephalotes Spreng.",
+        "source_record_id": "links-0536",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7a4c676664865e9c0c3e257933d566e"
+      }
+    ],
+    "source_xplant_id": "f7a4c676664865e9c0c3e257933d566e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

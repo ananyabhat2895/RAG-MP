@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_12c46cb9863ec860__distribution__001",
+  "plant_id": "plant_12c46cb9863ec860",
+  "plant_name": "Crinum latifolium Linn.",
+  "botanical_name": "Crinum latifolium",
+  "botanical_authority": "L.",
+  "family": "AMARYLLIDACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 2\nDistribution entry: author: Author - Ed B D Sharma, S Karthikeyan, N P Singh; distribution: Distribution; title: Title - Flora of Maharashrta State (Monocotyledons)\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - K.M. Matthew; distribution: Distribution; title: Title - The Flora of the Palni Hills Vol-3\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f0d167a2258d973b51d5a01bf9bf7e9d"
+  ],
+  "source_record_ids": [
+    "links-1859"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f0d167a2258d973b51d5a01bf9bf7e9d"
+    ],
+    "source_record_ids": [
+      "links-1859"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f0d167a2258d973b51d5a01bf9bf7e9d",
+          "Plant Name": "Crinum latifolium Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Crinum latifolium Linn.",
+        "source_record_id": "links-1859",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f0d167a2258d973b51d5a01bf9bf7e9d"
+      }
+    ],
+    "source_xplant_id": "f0d167a2258d973b51d5a01bf9bf7e9d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

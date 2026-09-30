@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_71acad74faea4dba__botanical_synonyms__001",
+  "plant_id": "plant_71acad74faea4dba",
+  "plant_name": "Plantago major",
+  "botanical_name": "Plantago major",
+  "botanical_authority": "L.",
+  "family": "PLANTAGINACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Plantago erosa WALL. IN ROXB. X Full Botanical citation - Plantago erosa Wallich in Roxb., Fl. Indica 1: 423. 1820; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 480. 1999 Plantago media L.\nSynonym: Plantago erosa WALL. IN ROXB.\nSynonym: Plantago media L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb8ef6385927a7c8d1a7cc599169f808"
+  ],
+  "source_record_ids": [
+    "links-0219"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb8ef6385927a7c8d1a7cc599169f808"
+    ],
+    "source_record_ids": [
+      "links-0219"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb8ef6385927a7c8d1a7cc599169f808",
+          "Plant Name": "Plantago major",
+          "Status": "Found"
+        },
+        "source_plant_name": "Plantago major",
+        "source_record_id": "links-0219",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb8ef6385927a7c8d1a7cc599169f808"
+      }
+    ],
+    "source_xplant_id": "eb8ef6385927a7c8d1a7cc599169f808",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

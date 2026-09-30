@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_380e40b70c84cb33__vernacular_names__001",
+  "plant_id": "plant_380e40b70c84cb33",
+  "plant_name": "Dolichos biflorus Linn.",
+  "botanical_name": "Macrotyloma uniflorum",
+  "botanical_authority": "(LAM.) VERDC.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): horse gram\nHindi (9): gahat, gaheth, koolthee, kulat, kulath, kulatha, kulthi, kulti, kultthi\nKannada (4): hulge, hurali, huruli, jurli\nMalayalam (4): kollu, kullu, muthera, mutira\nMarathi (3): hulga, kulith, kulthi\nSanskrit (23): Sanskrit CommentsX kalavrinta, khalakula, khalva, kolutha, kulastha, kulasthah, kulatha, kulathika, kulattah, kulattha, kulatthah, kulatthaka, kulatthi, kulattika, kulitha, simbi, sitetara, svetabija, tamabija, tamrabijah, tamravriksha, tamravrinta, vardhipataka\nTamil (50): akkamini, amalaikkanni, ampuppiracikacceti, ampuppiracikam, ankucapicari, ankucapikari, ankucavi, cakkarakam, cakkirikam, cattikkalpam, catturuvacam, cenkollu, cikkalinnam, ciruvittucceti, ciruvitu, kaanam, kacarakam, kaccakacceti, kaccakam, kaccakar, kalinai 2, kalinaicceti, kallu, kanacceti, kanam, kanappayaru#, kanappayaru@, kau, kol, kollan, kollu, kolluppayarrinkoti, kolluppuntu, kulantam, kuluttam, napilam, pancittam, paruni 3, peruvitukkolu, peruvitukol, porkacikacceti, porkacikam, porkacu, tamirapalakam, tamirapicam, tamiraviruntam, terru, tirakkitappayaru, uruvullu, vayuvutal\nTelugu (4): ulavalu, uluva, wulavalli, wulavulu\nTibetan (1): rgya sran\nUrdu (3): kulathi, kulthi, kulti",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16e1d08182cf90b7c5f7cc027e6ccbfd/xclkon/96ebc8330fbca94a4980f9ce670fb4bd"
+  ],
+  "source_record_ids": [
+    "links-1108"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16e1d08182cf90b7c5f7cc027e6ccbfd/xclkon/96ebc8330fbca94a4980f9ce670fb4bd"
+    ],
+    "source_record_ids": [
+      "links-1108"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16e1d08182cf90b7c5f7cc027e6ccbfd/xclkon/96ebc8330fbca94a4980f9ce670fb4bd",
+          "Plant Name": "Dolichos biflorus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dolichos biflorus Linn.",
+        "source_record_id": "links-1108",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16e1d08182cf90b7c5f7cc027e6ccbfd/xclkon/96ebc8330fbca94a4980f9ce670fb4bd"
+      }
+    ],
+    "source_xplant_id": "16e1d08182cf90b7c5f7cc027e6ccbfd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

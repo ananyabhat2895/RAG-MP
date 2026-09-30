@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e1fe1d1a10771612__systems_of_medicine__001",
+  "plant_id": "plant_e1fe1d1a10771612",
+  "plant_name": "Pogostemon cablin Benth.",
+  "botanical_name": "Pogostemon cablin",
+  "botanical_authority": "(BLANCO) BENTH.",
+  "family": "LAMIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Folk Botanical Synonyms (1) - Pogostemon patchouli PELLET.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9aacb504af9f247f5e0d91d23027211c"
+  ],
+  "source_record_ids": [
+    "links-1411"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9aacb504af9f247f5e0d91d23027211c"
+    ],
+    "source_record_ids": [
+      "links-1411"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9aacb504af9f247f5e0d91d23027211c",
+          "Plant Name": "Pogostemon cablin Benth.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pogostemon cablin Benth.",
+        "source_record_id": "links-1411",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9aacb504af9f247f5e0d91d23027211c"
+      }
+    ],
+    "source_xplant_id": "9aacb504af9f247f5e0d91d23027211c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

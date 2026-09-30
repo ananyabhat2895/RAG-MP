@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_1e6a4531317a948f__images__001",
+  "plant_id": "plant_1e6a4531317a948f",
+  "plant_name": "Evolvulus nummularius Linn.",
+  "botanical_name": "Evolvulus nummularius",
+  "botanical_authority": "L.",
+  "family": "CONVOLVULACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/72c50cf4194abca091300b0bdc9ec335"
+  ],
+  "source_record_ids": [
+    "links-0059"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/72c50cf4194abca091300b0bdc9ec335"
+    ],
+    "source_record_ids": [
+      "links-0059"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/72c50cf4194abca091300b0bdc9ec335",
+          "Plant Name": "Evolvulus nummularius Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Evolvulus nummularius Linn.",
+        "source_record_id": "links-0059",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/72c50cf4194abca091300b0bdc9ec335"
+      }
+    ],
+    "source_xplant_id": "72c50cf4194abca091300b0bdc9ec335",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

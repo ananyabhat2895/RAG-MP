@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_a02b4e120e33f766__vernacular_names__001",
+  "plant_id": "plant_a02b4e120e33f766",
+  "plant_name": "Portulaca oleracea Linn.",
+  "botanical_name": "Portulaca oleracea",
+  "botanical_authority": "L.",
+  "family": "PORTULACACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): common purslane, money plant\nHindi (20): badi noni, bara laniya, baralaniya, baralunia, chhotalunia, khurfa, khurfekasag, khursa, kulfa, kulfo, lonia, lunia, luniakulfah, luniya, lunkha, lunuk, muncha, munya, nonkha, ram jata\nKannada (11): bachale soppu, budagora, dodda goni soppu, dodda gonisoppu, doddagoni soppu, duda-gorai, dudagorai, golisoppu, gonikasa, kirigoli, nuchhu goli palya\nMalayalam (5): kara-tsjira, kariccira, koluppa, koluppaccira, koricchira\nMarathi (7): bhuigholi, ghoi, gholbhaji, ghole, gol.golchi-bhaji, mhotighol, motighol\nSanskrit (11): Sanskrit CommentsX brhallonika, brhatloni, brihalloni, gholika, ghotika, kozuppa, lona, loni, lonika, lunia, upodika\nTamil (31): irattarputakkirai, karikkirai, karpakantakkirai, karpakantam, kolikkirai, kolikkurumpan, kolikkurumpankirai, koshi keerai, kotakam 2, kuravaki, kuravakikkirai, loni, nicakarakkirai, nicakaram, pacalai 3, parpukire, parukire, paruppu keerai, paruppu kirai, paruppu-k-kirai, paruppukeerai, paruppukkirai, paruppuukkirai, parupukkirai, passalakkirai, pulikkirai, punnacakkirai, punnakam 2, talvari, talvarikkirai, vayalai kodi\nTelugu (13): boddupavilikoora, boddupavilikura, ganga paavilikoora, gangapavilikura, pappu kura, pappukoor aaku, pappukoora, pappukura, pedda pavali kura, pedda pavilikoora, peddapavila kura, peddapavilikura, peddapuvilakura\nUrdu (14): ab khurfa siyah murrawaq, boondaqi, boondqi, fafees, khurfa, khurfah, qalfaa, siyah, tukhm khurfa, tukhm khurfa siyah, tukhm khurja siyah, tukhm-i-khurfa, tukhm-i-khurfa-i-siyah, tulkhm-i-khurfa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3cc2bca5b45aedfda571996b3573cccf"
+  ],
+  "source_record_ids": [
+    "links-1198",
+    "links-1200",
+    "links-1201"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3cc2bca5b45aedfda571996b3573cccf"
+    ],
+    "source_record_ids": [
+      "links-1198",
+      "links-1200",
+      "links-1201"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3cc2bca5b45aedfda571996b3573cccf",
+          "Plant Name": "Portulaca oleracea Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Portulaca oleracea Linn.",
+        "source_record_id": "links-1198",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3cc2bca5b45aedfda571996b3573cccf"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3cc2bca5b45aedfda571996b3573cccf",
+          "Plant Name": "Portulaca oleracea Linn. Var oleracea",
+          "Status": "Found"
+        },
+        "source_plant_name": "Portulaca oleracea Linn. Var oleracea",
+        "source_record_id": "links-1200",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3cc2bca5b45aedfda571996b3573cccf"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3cc2bca5b45aedfda571996b3573cccf",
+          "Plant Name": "Portulaca oleracea Linn. Var sativa DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Portulaca oleracea Linn. Var sativa DC.",
+        "source_record_id": "links-1201",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3cc2bca5b45aedfda571996b3573cccf"
+      }
+    ],
+    "source_xplant_id": "3cc2bca5b45aedfda571996b3573cccf",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4a966f7274e2835a__images__001",
+  "plant_id": "plant_4a966f7274e2835a",
+  "plant_name": "Carissa spinarum Linn.",
+  "botanical_name": "Carissa spinarum",
+  "botanical_authority": "L.",
+  "family": "APOCYNACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf53da16c116eac5da081db0e481896b"
+  ],
+  "source_record_ids": [
+    "links-0939"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf53da16c116eac5da081db0e481896b"
+    ],
+    "source_record_ids": [
+      "links-0939"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf53da16c116eac5da081db0e481896b",
+          "Plant Name": "Carissa spinarum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Carissa spinarum Linn.",
+        "source_record_id": "links-0939",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf53da16c116eac5da081db0e481896b"
+      }
+    ],
+    "source_xplant_id": "cf53da16c116eac5da081db0e481896b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

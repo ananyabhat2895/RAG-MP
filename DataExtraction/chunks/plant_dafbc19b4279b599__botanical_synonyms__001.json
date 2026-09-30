@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_dafbc19b4279b599__botanical_synonyms__001",
+  "plant_id": "plant_dafbc19b4279b599",
+  "plant_name": "Zanthoxylum alatum Roxb.",
+  "botanical_name": "Zanthoxylum armatum",
+  "botanical_authority": "DC.",
+  "family": "RUTACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Zanthoxylum alatum ROXB. X Full Botanical citation - Zanthoxylum alatum Roxb. (Hort. Bengal. 72. 1814, nom. nud.) Fl. Ind. ed. 2 (Carey) 3: 768. 1832; K.N. Nair & M.P. Nayar in Hajra & al., Fl. India 4: 379. 1997.\nSynonym: Zanthoxylum alatum ROXB.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba6ce0418fd6ced2f262cc685713d229/xclkon/de237eed7c21d544ea2271d6bda89af9"
+  ],
+  "source_record_ids": [
+    "links-1994"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba6ce0418fd6ced2f262cc685713d229/xclkon/de237eed7c21d544ea2271d6bda89af9"
+    ],
+    "source_record_ids": [
+      "links-1994"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba6ce0418fd6ced2f262cc685713d229/xclkon/de237eed7c21d544ea2271d6bda89af9",
+          "Plant Name": "Zanthoxylum alatum Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Zanthoxylum alatum Roxb.",
+        "source_record_id": "links-1994",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba6ce0418fd6ced2f262cc685713d229/xclkon/de237eed7c21d544ea2271d6bda89af9"
+      }
+    ],
+    "source_xplant_id": "ba6ce0418fd6ced2f262cc685713d229",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4a55d50a2ec4f1f8__identification__001",
+  "plant_id": "plant_4a55d50a2ec4f1f8",
+  "plant_name": "Diospyros montana Roxb.",
+  "botanical_name": "Diospyros montana",
+  "botanical_authority": "ROXB.",
+  "family": "EBENACEAE",
+  "section": "identification",
+  "content": "Plant name: Diospyros montana Roxb. Botanical name: Diospyros montana Botanical authority: ROXB. Family: EBENACEAE Source xplant ID: 450ebf885767a349d62389fdb0161406",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/450ebf885767a349d62389fdb0161406"
+  ],
+  "source_record_ids": [
+    "links-0852"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/450ebf885767a349d62389fdb0161406"
+    ],
+    "source_record_ids": [
+      "links-0852"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/450ebf885767a349d62389fdb0161406",
+          "Plant Name": "Diospyros montana Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Diospyros montana Roxb.",
+        "source_record_id": "links-0852",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/450ebf885767a349d62389fdb0161406"
+      }
+    ],
+    "source_xplant_id": "450ebf885767a349d62389fdb0161406",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_adcd14d0154001d4__images__001",
+  "plant_id": "plant_adcd14d0154001d4",
+  "plant_name": "Amaranthus viridis Linn.",
+  "botanical_name": "Amaranthus viridis",
+  "botanical_authority": "L.",
+  "family": "AMARANTHACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f34c13599e6ad5f1122627fb7b83d65"
+  ],
+  "source_record_ids": [
+    "links-0594"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f34c13599e6ad5f1122627fb7b83d65"
+    ],
+    "source_record_ids": [
+      "links-0594"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f34c13599e6ad5f1122627fb7b83d65",
+          "Plant Name": "Amaranthus viridis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Amaranthus viridis Linn.",
+        "source_record_id": "links-0594",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f34c13599e6ad5f1122627fb7b83d65"
+      }
+    ],
+    "source_xplant_id": "7f34c13599e6ad5f1122627fb7b83d65",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

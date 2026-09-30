@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_445c16167c2f1420__vernacular_names__001",
+  "plant_id": "plant_445c16167c2f1420",
+  "plant_name": "Dioscorea bulbifera Linn.",
+  "botanical_name": "Dioscorea bulbifera",
+  "botanical_authority": "L.",
+  "family": "DIOSCOREACEAE",
+  "section": "vernacular_names",
+  "content": "English (5): acom, aerial yam, air potato, otaheite potato, otaheite yam\nHindi (13): bhirvolikanda, gaithi, genth, genthi, gethi, karawakand, karu kanda, karukanda, khildri, modi, ratalu, zamin-kand, zaminkand\nKannada (6): hansi gedde, heggenasu, kaikaraande, kaimoode gedde, kunta genasu, kuntagenasu\nMalayalam (9): kattukaccil, kattukachil, kattuvalli, katu-katsjil, katu-kelengu, katukatsjil, mukkizhannu, peruvallikkilannu, peruvallikkizhannu\nMarathi (13): dukarakanda, dukarkkanda, gathalu, kadoo karaandaa, kadu-kamdo, kadu-kand, karamdo, konaphala, konfa goradu, kukarkand, mataru, mibaelikand, varaahi\nSanskrit (30): Sanskrit CommentsX amrita, badarakachha, balya, bilvamula, brahmaputri, brahmikanda, charmakaraluka, ghrishti, grsti, kandaka, kanya, kaumari, krodakanya, krodi, kushthanashaka, madhaveshtagrishtika, magadhi, mahaushadha, mahavirya, saukari, shambarakanda, shukari, sukandaka, trinetra, vanavasi, varahi, varahikanda, vishvaksenapriya, vridhida, vyadhihanta\nTamil (26): cirakavalli 1, cirakavalli 2, goradu, ilavali, iyamkilanku, kai vallikkodi, kaivalli kodi, karu-karinda, kattuc cirakavalli, kattuccirakavalli, kattuk kayvalli, kattukkilangu, kattunaruvalli, kattuvalli, kattuvalli 2, kayvalli, kayvalli-koti, kotikkal, kotikkalvalli, pannu kilangu, pannukilangu, peruvalli, ulakkaivalli, verrilai valli, yamicukilanku, yamicukkilanku\nTelugu (15): adavi dumpa, atagatige, cedubaddudumpa, chedubaddudumpa, chedupaddudumpa, karu kanda, kayapendalam, kayapendalamu, malaakaakaayapendalamu, malakadayapendalamu, malakakayapendalam, malakakayapendalamu, rudrakshapendalam, rudrakshapendalamugu, sasibuddadumpa\nTibetan (1): su ka ri\nUrdu (1): zaminekand",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dfd4a6b00896920d5ef8dab3477cf1f0"
+  ],
+  "source_record_ids": [
+    "links-0083"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dfd4a6b00896920d5ef8dab3477cf1f0"
+    ],
+    "source_record_ids": [
+      "links-0083"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dfd4a6b00896920d5ef8dab3477cf1f0",
+          "Plant Name": "Dioscorea bulbifera Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dioscorea bulbifera Linn.",
+        "source_record_id": "links-0083",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dfd4a6b00896920d5ef8dab3477cf1f0"
+      }
+    ],
+    "source_xplant_id": "dfd4a6b00896920d5ef8dab3477cf1f0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

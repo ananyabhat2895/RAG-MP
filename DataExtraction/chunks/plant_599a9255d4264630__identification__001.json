@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_599a9255d4264630__identification__001",
+  "plant_id": "plant_599a9255d4264630",
+  "plant_name": "Juglans regia Linn.",
+  "botanical_name": "Juglans regia",
+  "botanical_authority": "L.",
+  "family": "JUGLANDACEAE",
+  "section": "identification",
+  "content": "Plant name: Juglans regia Linn. Botanical name: Juglans regia Botanical authority: L. Family: JUGLANDACEAE Source xplant ID: 11e4cbea9f5182fa889b1fcadffdc016",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11e4cbea9f5182fa889b1fcadffdc016"
+  ],
+  "source_record_ids": [
+    "links-0073"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11e4cbea9f5182fa889b1fcadffdc016"
+    ],
+    "source_record_ids": [
+      "links-0073"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11e4cbea9f5182fa889b1fcadffdc016",
+          "Plant Name": "Juglans regia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Juglans regia Linn.",
+        "source_record_id": "links-0073",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11e4cbea9f5182fa889b1fcadffdc016"
+      }
+    ],
+    "source_xplant_id": "11e4cbea9f5182fa889b1fcadffdc016",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

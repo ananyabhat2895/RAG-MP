@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_3711417dd3f18dd6__systems_of_medicine__001",
+  "plant_id": "plant_3711417dd3f18dd6",
+  "plant_name": "Ichnocarpus frutescens R. Br.",
+  "botanical_name": "Ichnocarpus frutescens",
+  "botanical_authority": "R.BR.",
+  "family": "APOCYNACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1cddcd30fb0baf1a8330adbd833350f4"
+  ],
+  "source_record_ids": [
+    "links-0635"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1cddcd30fb0baf1a8330adbd833350f4"
+    ],
+    "source_record_ids": [
+      "links-0635"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1cddcd30fb0baf1a8330adbd833350f4",
+          "Plant Name": "Ichnocarpus frutescens R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ichnocarpus frutescens R. Br.",
+        "source_record_id": "links-0635",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1cddcd30fb0baf1a8330adbd833350f4"
+      }
+    ],
+    "source_xplant_id": "1cddcd30fb0baf1a8330adbd833350f4",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

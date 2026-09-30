@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_2dbf39fea157c092__systems_of_medicine__001",
+  "plant_id": "plant_2dbf39fea157c092",
+  "plant_name": "Trapa bispinosa Roxb.",
+  "botanical_name": "Trapa natans",
+  "botanical_authority": "L.",
+  "family": "TRAPACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk Botanical Synonyms (3) - Trapa bicornis L. F. Trapa bispinosa ROXB. X Full Botanical citation - Trapa bispinosa Roxb.\nSystem of medicine: Fl. Indica 1: 449. 1820; R.D.Gaur\nSystem of medicine: Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes)\nSystem of medicine: TransMedia\nSystem of medicine: Srinagar (Garhwal)\nSystem of medicine: India\nSystem of medicine: 310. 1999. Trapa natans L. var. bispinosa (ROXB.) NAKIN X Full Botanical citation - Trapa natans L.\nSystem of medicine: Sp. Pl. 120. 1753 var. bispinosa (Roxb.) Makino in linuma\nSystem of medicine: Somoku-Dzusetsu ed. 3.1: 137. 1907; 387: R.D.Gaur\nSystem of medicine: 310. 1999.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88/xclkon/6cd791fd69e9053cf6cbcb60d3adf819",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88"
+  ],
+  "source_record_ids": [
+    "links-1849",
+    "links-1850",
+    "links-1851"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88/xclkon/6cd791fd69e9053cf6cbcb60d3adf819",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88"
+    ],
+    "source_record_ids": [
+      "links-1849",
+      "links-1850",
+      "links-1851"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88/xclkon/6cd791fd69e9053cf6cbcb60d3adf819",
+          "Plant Name": "Trapa bispinosa Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Trapa bispinosa Roxb.",
+        "source_record_id": "links-1849",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88/xclkon/6cd791fd69e9053cf6cbcb60d3adf819"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88",
+          "Plant Name": "Trapa natans Linn. Var. bispinosa (Roxb.) Makino.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Trapa natans Linn. Var. bispinosa (Roxb.) Makino.",
+        "source_record_id": "links-1850",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88",
+          "Plant Name": "Trapa natans Linn. Var.bispinosa (Roxb.) Makino.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Trapa natans Linn. Var.bispinosa (Roxb.) Makino.",
+        "source_record_id": "links-1851",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88"
+      }
+    ],
+    "source_xplant_id": "799e694af67e27103923c13b96c17c88",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

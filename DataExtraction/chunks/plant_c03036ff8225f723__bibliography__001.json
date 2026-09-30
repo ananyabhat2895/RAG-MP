@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_c03036ff8225f723__bibliography__001",
+  "plant_id": "plant_c03036ff8225f723",
+  "plant_name": "Phragmites maxima Blatter & McCann.",
+  "botanical_name": "Phragmites karka",
+  "botanical_authority": "TRIN. EX STEUD.",
+  "family": "POACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - ANONYMOUS; title: Title - ASTANGA HRIDAYA KOSHA\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - N.S. MOOSS; title: Title - GANAS OF VAHATA\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - ALIX RAISON; title: Title - LA-HARITA SAMHITA\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: title: Title - Flora of Rajasthan Vol. 3\nBibliography entry: title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nBibliography entry: title: Title - Flora of Chamba District (Himachal Pradesh)\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol III\nBibliography entry: title: Title - Flora of Maharashrta State (Monocotyledons)\nBibliography entry: title: Title - Flora of Majuli\nBibliography entry: title: Title - The Flora of the Palni Hills Vol-3\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - The Flora of Orissa Vol IV\nBibliography entry: title: Title - Flora of Gujarat State Vol 2\nBibliography entry: title: Title - Flora of Tons Valley (Uttaranchal)\nBibliography entry: title: Title - Flora of the Indian Desert\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL2\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)\nBibliography entry: title: Title - FLORA OF ASSAM",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32/xclkon/88e1880a90e63e7e12391cd7dee811a0",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32"
+  ],
+  "source_record_ids": [
+    "links-1371",
+    "links-1372"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32/xclkon/88e1880a90e63e7e12391cd7dee811a0",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32"
+    ],
+    "source_record_ids": [
+      "links-1371",
+      "links-1372"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32/xclkon/88e1880a90e63e7e12391cd7dee811a0",
+          "Plant Name": "Phragmites maxima Blatter & McCann.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Phragmites maxima Blatter & McCann.",
+        "source_record_id": "links-1371",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32/xclkon/88e1880a90e63e7e12391cd7dee811a0"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32",
+          "Plant Name": "Phragmites karka Trin. Ex. Steud.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Phragmites karka Trin. Ex. Steud.",
+        "source_record_id": "links-1372",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32"
+      }
+    ],
+    "source_xplant_id": "130721dc95f6a7e5434c31359fc34c32",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

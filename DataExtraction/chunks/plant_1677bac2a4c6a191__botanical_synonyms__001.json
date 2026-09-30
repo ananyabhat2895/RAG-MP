@@ -1,0 +1,82 @@
+{
+  "chunk_id": "plant_1677bac2a4c6a191__botanical_synonyms__001",
+  "plant_id": "plant_1677bac2a4c6a191",
+  "plant_name": "Solanum surattense Burm. f.",
+  "botanical_name": "Solanum virginianum",
+  "botanical_authority": "L.",
+  "family": "SOLANACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Solanum jacquini WILLD. Solanum sarmentosum NEES Solanum surattense BURM. F. X Full Botanical citation - Solanum surattense Burm.f., Fl. Indica 57. 1768; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 435. 1999. Solanum xanthocarpum SCHRAD & WENDL X Full Botanical citation - Solanum xanthocarpum Schrad. & H.L.Wendl., in sert. Hannov. 1: 8. t. 2. 1795; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 435. 1999.\nSynonym: Solanum jacquini WILLD.\nSynonym: Solanum sarmentosum NEES\nSynonym: Solanum surattense BURM. F.\nSynonym: Solanum xanthocarpum SCHRAD & WENDL",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/849c0de64b7c66638ac1af96bf578c1f",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2"
+  ],
+  "source_record_ids": [
+    "links-0921",
+    "links-0922",
+    "links-0923",
+    "links-0924"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/849c0de64b7c66638ac1af96bf578c1f",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2"
+    ],
+    "source_record_ids": [
+      "links-0921",
+      "links-0922",
+      "links-0923",
+      "links-0924"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/849c0de64b7c66638ac1af96bf578c1f",
+          "Plant Name": "Solanum surattense Burm. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum surattense Burm. f.",
+        "source_record_id": "links-0921",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/849c0de64b7c66638ac1af96bf578c1f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2",
+          "Plant Name": "Solanum xanthocarpum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum xanthocarpum",
+        "source_record_id": "links-0922",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2",
+          "Plant Name": "Solanum xanthocarpum Schrad & Wendle.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum xanthocarpum Schrad & Wendle.",
+        "source_record_id": "links-0923",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2",
+          "Plant Name": "Solanum xanthocarpum Schrad. & Wendle.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum xanthocarpum Schrad. & Wendle.",
+        "source_record_id": "links-0924",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2"
+      }
+    ],
+    "source_xplant_id": "2cb1e3bf00b5de22d891cdf07eeec4b7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

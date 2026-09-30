@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e9a376fd14395ebe__distribution__002",
+  "plant_id": "plant_e9a376fd14395ebe",
+  "plant_name": "Sida cordifolia Linn.",
+  "botanical_name": "Sida cordifolia",
+  "botanical_authority": "L.",
+  "family": "MALVACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34446040e9133df970adbe916df9ce16"
+  ],
+  "source_record_ids": [
+    "links-0268"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34446040e9133df970adbe916df9ce16"
+    ],
+    "source_record_ids": [
+      "links-0268"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34446040e9133df970adbe916df9ce16",
+          "Plant Name": "Sida cordifolia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida cordifolia Linn.",
+        "source_record_id": "links-0268",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34446040e9133df970adbe916df9ce16"
+      }
+    ],
+    "source_xplant_id": "34446040e9133df970adbe916df9ce16",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

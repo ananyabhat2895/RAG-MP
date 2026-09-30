@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_bb74060f41da4c30__bibliography__001",
+  "plant_id": "plant_bb74060f41da4c30",
+  "plant_name": "Sansevieria hyacinthoides (Linn.) Druce.",
+  "botanical_name": "Sansevieria hyacinthoides",
+  "botanical_authority": "(L.) DRUCE",
+  "family": "AGAVACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - ANONYMOUS; title: Title - ASTANGA HRIDAYA KOSHA\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - ALIX RAISON; title: Title - LA-HARITA SAMHITA\nBibliography entry: author: Author - WHITELAW AINSLIE; title: Title - MATERIA INDICA\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: title: Title - The Flora of the Palni Hills Vol-3",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2321b658c4473068df3516f2836eabe4"
+  ],
+  "source_record_ids": [
+    "links-1349"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2321b658c4473068df3516f2836eabe4"
+    ],
+    "source_record_ids": [
+      "links-1349"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2321b658c4473068df3516f2836eabe4",
+          "Plant Name": "Sansevieria hyacinthoides (Linn.) Druce.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sansevieria hyacinthoides (Linn.) Druce.",
+        "source_record_id": "links-1349",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2321b658c4473068df3516f2836eabe4"
+      }
+    ],
+    "source_xplant_id": "2321b658c4473068df3516f2836eabe4",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

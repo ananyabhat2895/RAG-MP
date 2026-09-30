@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_c076bb15d8c75b39__vernacular_names__001",
+  "plant_id": "plant_c076bb15d8c75b39",
+  "plant_name": "Madhuca indica J. F. Gmel.",
+  "botanical_name": "Madhuca indica",
+  "botanical_authority": "GMEL.",
+  "family": "SAPOTACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (12): mahua (introduced), mahuro, mahuva, mahuwa, mauo, mauro, mawda, mohua, mowa, muali, muwa, muwal\nKannada (8): doddippe, goodupushpa, haalippe, hunige, hunipe, kaadu hippe, lodhrapushpa, sonerdarakale\nMarathi (1): moha\nSanskrit (2): Sanskrit CommentsX gudapuspa, madhuka\nTamil (20): arkara, ieluppai, irucuvam, iruttiyacam, kattiluppai 1, kattiruppai, kucumam 1, kurumam, kutaputpam, malaiyiluppai, mantalatti, palantaciyam, palantaciyamaram, petatikam, petatikamaram, peyiluppai, pirankini, puvana, tirkkapattirakam 2, tirkkapattiram\nTibetan (2): sin tog ma dhu ka, sin tog ma du ka",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e3fcc9689d388df7e1e5be34ebefce8d"
+  ],
+  "source_record_ids": [
+    "links-1210",
+    "links-1211"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e3fcc9689d388df7e1e5be34ebefce8d"
+    ],
+    "source_record_ids": [
+      "links-1210",
+      "links-1211"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e3fcc9689d388df7e1e5be34ebefce8d",
+          "Plant Name": "Madhuca indica J. F. Gmel.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Madhuca indica J. F. Gmel.",
+        "source_record_id": "links-1210",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e3fcc9689d388df7e1e5be34ebefce8d"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e3fcc9689d388df7e1e5be34ebefce8d",
+          "Plant Name": "Madhuca indica J.F. Gmel.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Madhuca indica J.F. Gmel.",
+        "source_record_id": "links-1211",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e3fcc9689d388df7e1e5be34ebefce8d"
+      }
+    ],
+    "source_xplant_id": "e3fcc9689d388df7e1e5be34ebefce8d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

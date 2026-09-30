@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_522b67b50d0550ea__vernacular_names__001",
+  "plant_id": "plant_522b67b50d0550ea",
+  "plant_name": "Ceropegia bulbosa Roxb.",
+  "botanical_name": "Ceropegia bulbosa",
+  "botanical_authority": "ROXB.",
+  "family": "ASCLEPIADACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (3): hedulo, khadula, khapparkadu\nKannada (5): bittiruka, halike, hallike, halluka, hulluka\nMarathi (10): ankalodya, gayala, gayli, gilodayam, gilodya, kaapar kaddha, kalodayam, khaparkaru, khapparkadu, patalathumbi\nSanskrit (5): Sanskrit CommentsX ankalodya, gilodayam, gilodya, kalodayam, patalatumbi\nTelugu (16): batchali dumpa, langatai, manchi mande, manchimanda, manchimande, manchimandu, mancimande, mande, manjimande, nimmataayi, nimmatayi, paalathige, palatige, thiyyamande, tiyyamanda, tiyyamande",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db5270316f2791db0f918ec444f1dcbb"
+  ],
+  "source_record_ids": [
+    "links-0127",
+    "links-0878"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db5270316f2791db0f918ec444f1dcbb"
+    ],
+    "source_record_ids": [
+      "links-0127",
+      "links-0878"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db5270316f2791db0f918ec444f1dcbb",
+          "Plant Name": "Ceropegia bulbosa Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ceropegia bulbosa Roxb.",
+        "source_record_id": "links-0127",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db5270316f2791db0f918ec444f1dcbb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db5270316f2791db0f918ec444f1dcbb",
+          "Plant Name": "Ceropegia bulbosa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ceropegia bulbosa",
+        "source_record_id": "links-0878",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db5270316f2791db0f918ec444f1dcbb"
+      }
+    ],
+    "source_xplant_id": "db5270316f2791db0f918ec444f1dcbb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

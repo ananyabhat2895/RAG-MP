@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_abcc536e25a42d30__botanical_synonyms__001",
+  "plant_id": "plant_abcc536e25a42d30",
+  "plant_name": "Oldenlandia corymbosa Linn.",
+  "botanical_name": "Hedyotis corymbosa",
+  "botanical_authority": "(L.) LAM.",
+  "family": "RUBIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Oldenlandia corymbosa L. X Full Botanical citation - Oldenlandia corymbosa L.Sp. Pl. 119, 1753; Ratna Dutta and D.B. Deb, Taxonomic Revision of Hedyotis L. (Rubiaceae) In Indian Sub-continent, BSI, 147. 2004.\nSynonym: Oldenlandia corymbosa L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0f9d83e517e44168951d5f8cf8b92163/xclkon/a95d13d7b4812eea65dbfb6f0f93fb64"
+  ],
+  "source_record_ids": [
+    "links-1462"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0f9d83e517e44168951d5f8cf8b92163/xclkon/a95d13d7b4812eea65dbfb6f0f93fb64"
+    ],
+    "source_record_ids": [
+      "links-1462"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0f9d83e517e44168951d5f8cf8b92163/xclkon/a95d13d7b4812eea65dbfb6f0f93fb64",
+          "Plant Name": "Oldenlandia corymbosa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Oldenlandia corymbosa Linn.",
+        "source_record_id": "links-1462",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0f9d83e517e44168951d5f8cf8b92163/xclkon/a95d13d7b4812eea65dbfb6f0f93fb64"
+      }
+    ],
+    "source_xplant_id": "0f9d83e517e44168951d5f8cf8b92163",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

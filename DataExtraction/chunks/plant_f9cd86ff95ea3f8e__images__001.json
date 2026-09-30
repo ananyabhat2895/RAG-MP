@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_f9cd86ff95ea3f8e__images__001",
+  "plant_id": "plant_f9cd86ff95ea3f8e",
+  "plant_name": "Indigofera oblongifolia Fosk.",
+  "botanical_name": "Indigofera oblongifolia",
+  "botanical_authority": "FORSK.",
+  "family": "FABACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf7163ea7caa26db04597f038c2e5165"
+  ],
+  "source_record_ids": [
+    "links-0527"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf7163ea7caa26db04597f038c2e5165"
+    ],
+    "source_record_ids": [
+      "links-0527"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf7163ea7caa26db04597f038c2e5165",
+          "Plant Name": "Indigofera oblongifolia Fosk.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Indigofera oblongifolia Fosk.",
+        "source_record_id": "links-0527",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf7163ea7caa26db04597f038c2e5165"
+      }
+    ],
+    "source_xplant_id": "bf7163ea7caa26db04597f038c2e5165",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

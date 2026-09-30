@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_0acc30b935490d77__vernacular_names__001",
+  "plant_id": "plant_0acc30b935490d77",
+  "plant_name": "Prunus domestica Linn.",
+  "botanical_name": "Prunus domestica",
+  "botanical_authority": "L.",
+  "family": "ROSACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): prune\nHindi (6): aloocha, alu, alubhokhara, alubukhara, alucha, shanalu\nKannada (5): aaloobokara, albogaara hannu, albogade, albokhala, alubokara\nMalayalam (2): arukam, plums\nMarathi (4): aaaloobukhaara, amenamchem, jhad, veeraruruka\nSanskrit (7): Sanskrit CommentsX alabukhara, aruka, arukam, loni, lonika, viraruka, virasena\nTamil (5): alpagoda-pazham, alpakora, alpakotappalam, alpogadapazam, aluppukkarappalam\nTelugu (4): alpagaadaa pondlu, alpagodapandu, alpagodapndu, alpogade\nUrdu (4): ajaas, alu bokhara, alu bukhara, alubokhara",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d16ba6afd98028ff082f01e8c97fd18",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d16ba6afd98028ff082f01e8c97fd18/xclkon/28ccf23205ffc54965024f78f318d039"
+  ],
+  "source_record_ids": [
+    "links-0168",
+    "links-2106"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d16ba6afd98028ff082f01e8c97fd18",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d16ba6afd98028ff082f01e8c97fd18/xclkon/28ccf23205ffc54965024f78f318d039"
+    ],
+    "source_record_ids": [
+      "links-0168",
+      "links-2106"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d16ba6afd98028ff082f01e8c97fd18",
+          "Plant Name": "Prunus domestica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Prunus domestica Linn.",
+        "source_record_id": "links-0168",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d16ba6afd98028ff082f01e8c97fd18"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d16ba6afd98028ff082f01e8c97fd18/xclkon/28ccf23205ffc54965024f78f318d039",
+          "Plant Name": "Prunus communis",
+          "Status": "Found"
+        },
+        "source_plant_name": "Prunus communis",
+        "source_record_id": "links-2106",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d16ba6afd98028ff082f01e8c97fd18/xclkon/28ccf23205ffc54965024f78f318d039"
+      }
+    ],
+    "source_xplant_id": "7d16ba6afd98028ff082f01e8c97fd18",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

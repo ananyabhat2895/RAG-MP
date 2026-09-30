@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_678adbc5b516c7d5__identification__001",
+  "plant_id": "plant_678adbc5b516c7d5",
+  "plant_name": "Berberis lycium Royle",
+  "botanical_name": "Berberis lycium",
+  "botanical_authority": "ROYLE",
+  "family": "BERBERIDACEAE",
+  "section": "identification",
+  "content": "Plant name: Berberis lycium Royle Botanical name: Berberis lycium Botanical authority: ROYLE Family: BERBERIDACEAE Source xplant ID: c2d76975c2ef9328f9aadea0ba188492",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c2d76975c2ef9328f9aadea0ba188492"
+  ],
+  "source_record_ids": [
+    "links-0494",
+    "links-0495"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c2d76975c2ef9328f9aadea0ba188492"
+    ],
+    "source_record_ids": [
+      "links-0494",
+      "links-0495"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c2d76975c2ef9328f9aadea0ba188492",
+          "Plant Name": "Berberis lycium Royle",
+          "Status": "Found"
+        },
+        "source_plant_name": "Berberis lycium Royle",
+        "source_record_id": "links-0494",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c2d76975c2ef9328f9aadea0ba188492"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c2d76975c2ef9328f9aadea0ba188492",
+          "Plant Name": "Berberis lycium Royle.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Berberis lycium Royle.",
+        "source_record_id": "links-0495",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c2d76975c2ef9328f9aadea0ba188492"
+      }
+    ],
+    "source_xplant_id": "c2d76975c2ef9328f9aadea0ba188492",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5933dbec33baf94b__identification__001",
+  "plant_id": "plant_5933dbec33baf94b",
+  "plant_name": "Elaeocarpus ganitrus Roxb.",
+  "botanical_name": "Elaeocarpus sphaericus",
+  "botanical_authority": "(GAERTN.) K.SCHUM.",
+  "family": "ELAEOCARPACEAE",
+  "section": "identification",
+  "content": "Plant name: Elaeocarpus ganitrus Roxb. Botanical name: Elaeocarpus sphaericus Botanical authority: (GAERTN.) K.SCHUM. Family: ELAEOCARPACEAE Source xplant ID: db00a5be8316e8113e129c02292d72e9",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db00a5be8316e8113e129c02292d72e9/xclkon/bf20b7ae2571f24bbbd8e72f8aca685d"
+  ],
+  "source_record_ids": [
+    "links-1672"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db00a5be8316e8113e129c02292d72e9/xclkon/bf20b7ae2571f24bbbd8e72f8aca685d"
+    ],
+    "source_record_ids": [
+      "links-1672"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db00a5be8316e8113e129c02292d72e9/xclkon/bf20b7ae2571f24bbbd8e72f8aca685d",
+          "Plant Name": "Elaeocarpus ganitrus Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Elaeocarpus ganitrus Roxb.",
+        "source_record_id": "links-1672",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db00a5be8316e8113e129c02292d72e9/xclkon/bf20b7ae2571f24bbbd8e72f8aca685d"
+      }
+    ],
+    "source_xplant_id": "db00a5be8316e8113e129c02292d72e9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

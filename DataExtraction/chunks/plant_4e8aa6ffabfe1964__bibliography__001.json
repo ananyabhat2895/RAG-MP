@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4e8aa6ffabfe1964__bibliography__001",
+  "plant_id": "plant_4e8aa6ffabfe1964",
+  "plant_name": "Coleus vettiveroides K. C. Jacob",
+  "botanical_name": "Plectranthus vettiveroides",
+  "botanical_authority": "(JACOB) SINGH & SHARMA",
+  "family": "LAMIACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - V.V. SIVARAJAN AND INDIRA BALACHANDRAN; title: Title - AYURVEDIC DRUGS AND THEIR PLANT SOURCES\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - N.S. MOOSS; title: Title - GANAS OF VAHATA\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6007c870591a343a9b7fd10100c6a673/xclkon/5a4d727005f2daa46088539165de4ef2"
+  ],
+  "source_record_ids": [
+    "links-0274"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6007c870591a343a9b7fd10100c6a673/xclkon/5a4d727005f2daa46088539165de4ef2"
+    ],
+    "source_record_ids": [
+      "links-0274"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6007c870591a343a9b7fd10100c6a673/xclkon/5a4d727005f2daa46088539165de4ef2",
+          "Plant Name": "Coleus vettiveroides K. C. Jacob",
+          "Status": "Found"
+        },
+        "source_plant_name": "Coleus vettiveroides K. C. Jacob",
+        "source_record_id": "links-0274",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6007c870591a343a9b7fd10100c6a673/xclkon/5a4d727005f2daa46088539165de4ef2"
+      }
+    ],
+    "source_xplant_id": "6007c870591a343a9b7fd10100c6a673",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

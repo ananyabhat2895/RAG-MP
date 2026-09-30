@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_fc37270eef2c04b4__vernacular_names__001",
+  "plant_id": "plant_fc37270eef2c04b4",
+  "plant_name": "Alangium salvifolium (Linn.f.) Wang.",
+  "botanical_name": "Alangium salvifolium",
+  "botanical_authority": "(L.F.) WANG.",
+  "family": "ALANGIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (14): aankol, akhaul, akol, akola, akola or akolah, anedhera, angol, ankera, ankora, dhela, dhera, ghaul, kweli, thailaankul\nKannada (27): amkole, ankalige, ankili, ankoelaemara, ankola, ankolare, ankole, ankole mara, ankoleda, ankolo, ankolu, ankota, ankotha, anosroli, anroli, ansroli, asroli, guddada doani, guddadagoni, guddaga goni, kallu maavina mara, kallu maavu, kallu-maavu, kallumavina, kallumavu, kare ankole gida, lucki\nMalayalam (21): alanci, alangi, alinnil, amkolam-chettu, angolam, ankolam, arinil, arinjil, ayan-golam, cem, chem, chemmaram, kara-angolam, karaangolam, karangolam, karankolam, kimri, vallithondi, velittondi, vlittonti, vvallittonti\nMarathi (8): akel, akola, amgolum, amkolam, ankol, ankoli, ankool, ankul\nSanskrit (49): Sanskrit CommentsX ankodah, ankola, ankolah, ankolaka, ankolla, ankollah, ankollakah, ankota, ankotah, ankotaka, ankotha, bhushita, dheergha, dirghakila, dirghakilaka, dirghakilakah, dridhakantaka, gandhapyshpa, ghalanta, gudhamallika, gudhapatra, gudhavallika, gunadhyaka, guptasneha, itikolam, kankarola, kanthora, kolaka, kothara, lambakarna, madana, morata, nedishta, nikochaka, nikothaka, pita, pitasara, pitasarah, ramatha, rechi, rochana, shoedhanam, sodana, talokota, tamraphala, tamraphalah, vamaka, vishaghna, vishalatailagarbha\nTamil (105): accan, acchan-chedi, adigolam, ainkolam, ainkolavirutcam, al 1, alancai, alanci, alangi, alanji, alinci vittu, alinci@, alincil, alincil vitai, alincilver, alincilver-p-pattai, alincu, alingi, alinjil, an, angolam, angolavayirravan, animulai, anincil 1, ankolam, ankolavairavamaram, ankolavairavan, ankolavam, ankolum, ankotakam, ankukalam, anmaram 1, antai 1, apakolam, arulavam, aruluvam, ashunji, atikoevam, atikolam, atikovam, attigolam, attikolam, attu, avakolam, azhingil, azhinjal, azhinji maram, azhinji-maram, azhinjil, azihcil, cemmaram 1, cemmaratti, cenamaram, cenamarappattai, cey, civi, civini 1, eginam, ekin, ekinam, eralineil, eralinjil, erashunji, intiracali#, intiracali@, irangashunji, jivi, kallalincil, kantaputpam 2, karikkolam#, karikkolam@, karikkolamaram, karikolam, kariyanaccan, karumuli, kolakam, koliniram, kolumaram, kotakam, kunatiyakam, kuyyamallikam, malaimamikam, mantukapanni, murunkai, nallankolam, nettilangi, nisto, oru, pallam, pallatiki, pili, pittacattu, tamirapalam, tanakku, tericini, tirkkamulakam, ulincil 1, unnati, unnatimaram, unni 1, ventotikam, viracaki, viracakimaram, vittuni, yankolam",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d"
+  ],
+  "source_record_ids": [
+    "links-0129"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d"
+    ],
+    "source_record_ids": [
+      "links-0129"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d",
+          "Plant Name": "Alangium salvifolium (Linn.f.) Wang.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alangium salvifolium (Linn.f.) Wang.",
+        "source_record_id": "links-0129",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d"
+      }
+    ],
+    "source_xplant_id": "2ed95f3d53b344394870ef34c7d83b4d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

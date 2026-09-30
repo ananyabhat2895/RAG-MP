@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_0510ea9ab0d49fec__images__001",
+  "plant_id": "plant_0510ea9ab0d49fec",
+  "plant_name": "Onosma bracteatum",
+  "botanical_name": "Onosma bracteatum",
+  "botanical_authority": "WALL.",
+  "family": "BORAGINACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae4f268a86839c883fea3508b4da1ad8"
+  ],
+  "source_record_ids": [
+    "links-0624",
+    "links-0625"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae4f268a86839c883fea3508b4da1ad8"
+    ],
+    "source_record_ids": [
+      "links-0624",
+      "links-0625"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae4f268a86839c883fea3508b4da1ad8",
+          "Plant Name": "Onosma bracteatum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Onosma bracteatum",
+        "source_record_id": "links-0624",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae4f268a86839c883fea3508b4da1ad8"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae4f268a86839c883fea3508b4da1ad8",
+          "Plant Name": "Onosma bracteatum Wall.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Onosma bracteatum Wall.",
+        "source_record_id": "links-0625",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae4f268a86839c883fea3508b4da1ad8"
+      }
+    ],
+    "source_xplant_id": "ae4f268a86839c883fea3508b4da1ad8",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

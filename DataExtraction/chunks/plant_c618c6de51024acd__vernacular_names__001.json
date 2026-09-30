@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c618c6de51024acd__vernacular_names__001",
+  "plant_id": "plant_c618c6de51024acd",
+  "plant_name": "Solanum nigrum Linn.",
+  "botanical_name": "Solanum nigrum",
+  "botanical_authority": "L.",
+  "family": "SOLANACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): black nightshade\nHindi (13): chirpoti, gurkamai, gurkkamai, kabaiya, kala-mako, kali-papotan, kamuni, mako, makoi, makoy, mukko, palpotan, uda-mako\nKannada (21): ganike, kaagehannina gida, kaaka maachae, kaaka munchee, kaake hannu, kaaki gida, kaaki hannu, kakamachi gida, kakarundi, kakmunchi, kanchi, kanka pitle, kare-ganike, kare-kanchi, karee kaachi, kari kaachi, kari kaachi gida, karikaachi gida, kempu kaachi, kempu kaachi gida, sunde kaachi\nMalayalam (9): karimtakkali, karintakali, karuppu-manattakali, manatakkali, manattakali, manattakkali, manattan-kanni, nelen-tsjunda, tudavalam\nMarathi (9): ghati, kaamoni, kamchi, kamoni, kangani, laghukavali, lalgooka batooli, meko, nakmachi\nSanskrit (24): Sanskrit CommentsX bahuphala, bahutikta, dhvankshamachi, ghanaghana, guchhaphala, jaghenephala, kaka, kakahva, kakamachi, kakamaci, kakamata, kakini, kakmachi, kamatta, katuphala, kovidaraha, krishnakovidaraha, kushthaghni, rasayani, sarvatikta, sundari, svadupaka, vayasavha, vayasi\nTamil (92): cerunti2, ceruntika2, ceruntikacceti, cirutakkali2, icuvaranaci, irekulicacceti, irekulicam, kakaci, kakam, kakamaci, kakamaral, kakamaram#, kakamaram@, kakateri, kali3, kalika, kalikacceti, kalikam2, kaliram, kamaratam, kamatacceti, kamatam#, kanikam, kankaicarri, kannikacceti, kannikakalicceti, kannikam#, kannikam@, karceni, karmanakkali, karmanittakkali, karumanattakkali, karuppu-manattakkali, karuppumanattakkali, karuppumanittakkali#, karuppumanittakkali@, katteni, katuracatti, kutapalai, kuttattakkali, kuttikatakkali, kuttittakkali, kuvacavam, leccukacceti, manat takkali, manatakkali, manathakali, manathakkali, manattak-kali, manattakkali, mancara, mancarakkalicceti, mani thakkaali, manikkali, manithakkali, manittakkali, milagu-takkali, milagutakkali, milakutakkali, milakuttakkali, munna-takali-pullum, nacival, nakatemani, nalvarotayam, narumanattakkali2, narumanattakkalicceti, nateni, natenikacceti, natenikam, niramanapalatti, palakanaikkattal, palakanaikkattan, pillaittakkali, pokitturitacceti, pokitturittam, pucitam, sukitti, tanalarri, ukkiram, ulakamata, ulakamata2, vatatukali, vatatukalicceti, vayacam, veci, venmilakutakkali, venmilakuttakkali, vennalarri, vitaikkantam, vitaikkantam 2, yamai, yampalkantan\nTelugu (19): gajjucettu, gajuchettu, kaachi, kaakamaachi, kaamanchi, kacci, kaccipandu, kachi, kakamachi, kamanchi, kamanchi-chettu, kamanci, kanchi-chettu, kanchi-pandu, kanchi-pundu, kanchipoondu, kanchipundu, kasaka, nalla-kamanchi-chettu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8919b637dac8e5c0dee7284b93974959"
+  ],
+  "source_record_ids": [
+    "links-0843"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8919b637dac8e5c0dee7284b93974959"
+    ],
+    "source_record_ids": [
+      "links-0843"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8919b637dac8e5c0dee7284b93974959",
+          "Plant Name": "Solanum nigrum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum nigrum Linn.",
+        "source_record_id": "links-0843",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8919b637dac8e5c0dee7284b93974959"
+      }
+    ],
+    "source_xplant_id": "8919b637dac8e5c0dee7284b93974959",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

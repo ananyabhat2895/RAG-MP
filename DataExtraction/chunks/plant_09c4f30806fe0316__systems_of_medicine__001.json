@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_09c4f30806fe0316__systems_of_medicine__001",
+  "plant_id": "plant_09c4f30806fe0316",
+  "plant_name": "Premna integrifolia Linn.",
+  "botanical_name": "Premna serratifolia",
+  "botanical_authority": "L.",
+  "family": "VERBENACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk Botanical Synonyms (3) - Premna integrifolia L. X Full Botanical citation - Premna integrifolia L.\nSystem of medicine: Mant. Pl. 252\nSystem of medicine: 1771; A Rajendran & P.Daniel\nSystem of medicine: The Indian Verbenaceae ( A Taxonomic Revision) 285. 2002. Premna obtusifolia R. BR. X Full Botanical citation - Premna obtusifolia R.Br.\nSystem of medicine: Prodr. 512. 1810; A. Rajendran & P. Daniel\nSystem of medicine: The Indian Verbenaceae (A Taxonomic Revision) 285. 2002. Premna spinosa ROXB. X Full Botanical citation - Premna spinosa Roxb.\nSystem of medicine: Fl. Ind. 3: 77. 1832; A Rajendran & P.Daniel\nSystem of medicine: The Indian Verbenaceae ( A Taxonomic Revision) 285. 2002.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf/xclkon/909b06e753c2bd0afc7083883e1e057b"
+  ],
+  "source_record_ids": [
+    "links-0024",
+    "links-0030"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf/xclkon/909b06e753c2bd0afc7083883e1e057b"
+    ],
+    "source_record_ids": [
+      "links-0024",
+      "links-0030"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf/xclkon/909b06e753c2bd0afc7083883e1e057b",
+          "Plant Name": "Premna integrifolia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Premna integrifolia Linn.",
+        "source_record_id": "links-0024",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf/xclkon/909b06e753c2bd0afc7083883e1e057b"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf/xclkon/909b06e753c2bd0afc7083883e1e057b",
+          "Plant Name": "Premna integrifolia",
+          "Status": "Found"
+        },
+        "source_plant_name": "Premna integrifolia",
+        "source_record_id": "links-0030",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf/xclkon/909b06e753c2bd0afc7083883e1e057b"
+      }
+    ],
+    "source_xplant_id": "8fc11e5625b0f5fed76e2cf94077badf",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

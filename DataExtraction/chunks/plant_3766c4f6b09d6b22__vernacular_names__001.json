@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_3766c4f6b09d6b22__vernacular_names__001",
+  "plant_id": "plant_3766c4f6b09d6b22",
+  "plant_name": "Shorea robusta",
+  "botanical_name": "Shorea robusta",
+  "botanical_authority": "GAERTN. F.",
+  "family": "DIPTEROCARPACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): sal\nHindi (14): damar, dhonah, dhuna, kandar, ral, sakher, sakhu, sakhua, sakhuya, sakoh, sal, sala, salwa, shal\nKannada (23): aseena, aseena mara, ashina, ashvakarna, asina, asu, asvakarna, bile-bhogimara, bile-bovu, bilibodige, daamaru banke, daambara mara, guggala, guggula, jal, jalada, kaabbu, kabba, kabbu, sala, sarja, thalli, vamsa\nMalayalam (6): karimaruthu, kungiliyam, kunkiliyam, maramaram, mulappumarutu, salavrksam\nMarathi (7): guggilu, raala, raala dhoopa, rala, sajara, sal, saraja\nSanskrit (55): Sanskrit CommentsX agnivallabha, ashvakarna, ashvakarnika, asoka, asvakarna, asvakarnah, chiraparna, devadhupah, dhanya, dhupavrksa, dirghaparna, dirghashakha, divyana, guggilam, jaladashara, jaranadruma, kala, kalalajodhbhava, karshya, kashayi, kaushika, kaushikahva, koushi-kaha, koushikaha, kushika, lalana, latashankha, latataru, rala, ralakarya, sal, sala, salah, salaniryas, salasara, salaveshta, sara, sarja, sarjah, sarjakarya, sarjarasa, sarjjaka, sasyasambara, sayasamvera, shala, shankataru, shankurriksha, shasyasambara, shura, sidhaka, sureshtaka, tarkshyaprasava, vallivriksha, vansha, yakshadhupa\nTamil (64): acca, acuvakarnakam, acuvakarnam, attam, attam 2, calacakam, calorcam, caruvaracam, cavarkkam, cayokam, cinacika, cinika, cinikamaram, comapannimaram, curnaparatam, in 1, jalari, kalaniriyacam, kantamulam 2, kantapalai, kantavirutcam, kaucikam, kaucikatari 1, kaucikatarimaram, kopitaram 1, kopitaramaram, kucikam 1, kukkil, kukkiliyam, kukkulukkil, kungiliam, kungiliyam, kunkiliyam, kunkiliyam 1, kunkiliyamaram, kunkulikam, kuntirikam, kutiraiccevi 1, luccippicinmaram, mara 2, may1, niriyacam, nitiyopam, pantitturumam, pantitturumaram, salam, saluvaimaram sai, shalam, talari, taloora, talura, tanavana 1, tanivirukkam, tanuvirukkam, tanuvirutcam 2, tenakam, tevakentam, tippirakacimaram, tirkkacalam 1, ulukacamaram, ulukalam 1, ulukam, venkungiliyam, venkunkiliyam\nTelugu (18): googul, gugal, guggilam, guggilamu, guggilapu, guggulu, himsra, inumaddi, jalari, jalari-chettu, saala, saaluva, sal, sala, saluva, sarjakamu, sarjamu, vegina\nTibetan (5): pra tsi bog, sa la i sin, sa lai sin, spos (d) kar, sra rtsi pog\nUrdu (3): ral, ral safaid, safed dammar",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/879ad1938f289a2bb39cd62cc8db3081"
+  ],
+  "source_record_ids": [
+    "links-0196",
+    "links-1695"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/879ad1938f289a2bb39cd62cc8db3081"
+    ],
+    "source_record_ids": [
+      "links-0196",
+      "links-1695"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/879ad1938f289a2bb39cd62cc8db3081",
+          "Plant Name": "Shorea robusta",
+          "Status": "Found"
+        },
+        "source_plant_name": "Shorea robusta",
+        "source_record_id": "links-0196",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/879ad1938f289a2bb39cd62cc8db3081"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/879ad1938f289a2bb39cd62cc8db3081",
+          "Plant Name": "Shorea robusta Gaertn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Shorea robusta Gaertn.",
+        "source_record_id": "links-1695",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/879ad1938f289a2bb39cd62cc8db3081"
+      }
+    ],
+    "source_xplant_id": "879ad1938f289a2bb39cd62cc8db3081",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

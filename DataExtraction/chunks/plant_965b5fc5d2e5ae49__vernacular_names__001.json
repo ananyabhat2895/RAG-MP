@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_965b5fc5d2e5ae49__vernacular_names__001",
+  "plant_id": "plant_965b5fc5d2e5ae49",
+  "plant_name": "Cynodon dactylon (Linn.) Pers.",
+  "botanical_name": "Cynodon dactylon",
+  "botanical_authority": "(L.) PERS.",
+  "family": "POACEAE",
+  "section": "vernacular_names",
+  "content": "English (7): bahama or kweek grass, bermuda grass, couch, dhop or dhub, doob grass, kweek grass, star grass\nHindi (14): dhob, dhoboghas, dhub, dobri, drub, dub, dubala, dubla, dubra, durba, kabbar, kalighas, khabbal, romghas\nKannada (19): ambate, ambate hullu, balli garike, doorve, garike, garike hullu, garike-hullu, garikehullu, garke, hasi garuke, kaadu garike, kareeke, karike hullu, karkeri hullu, karkeri-hullu, kudi garikai, kudigarike, ruche, shathaparvike\nMalayalam (3): beli-caraga, karuka, karukappullu\nMarathi (11): dhoorva, dhurva, doorva, durva, hariaaly, hariali, harialy, haryali, karala, neelidhoorva, paadaridhoorva\nSanskrit (54): Sanskrit CommentsX amari, amrita, ananta, anuvallika, asitalata, bahucirya, bhargavi, bharguvee, bhutahantri, dhurta, dhurva, doorva, doorwa, doorwal, durmara, durva, funa, gouri, granthi, harasalika, harita, haritali, jaya, kachharuha, mahaushadi, mahavari, mangala, nanda, niladurva, pratanika, ruha, saddala, sahsravirya, sataparva, saumya, sehastravirya, shadvala, shambhavi, shanta, shashpa, shatagranthi, shataparva, shatavalli, shatmula, shita, shitakumbhi, shitala, shiva, shiveshta, shyama, sveta, tiktaparva, vamini, vijaya\nTamil (97): akatticararuku, akatticurappul, akattisavarappul, akattiyecararuku, akattiyicararuku, alai, alai aruku, alaku 1, alakucoli, alakukoli, amarai, anantai, anantam 1, anantarappul, ankucoli, aranralaiyani, arugam pullu, arugam vayr, arugam-pillu, arugampillu, arugampul, arugampullu, arugan, arugu, aruhu, arukam pul, arukam ver, arukampillu, arukampul, arukamver, aruku, atiyamam, cakastiraviriyam, cakattiraviriyappul, cakulatcam 1, cantammiyam, cantanakarani 1, cantanakaruni, capatam, caralam, catapam, catpam, catparaci, catparacippul, cattukam, cattukappul, cattuvalam, cattuvam, cavam, cilesmamarani, cimiri, cimiru, citari, citarikam, ilamaral#, ilampul, ilampullaruku, iracalai, kacayani, kanapatiyani, kunalayam, kunalayappul, macir, mankalakarappul, manravippul, mucalmuli, mukaippul, mutantam 1, muyalpul, muyarpul, nayppul, nilavaruku, ottu, ottuvekam, ottuvekappul, pacumpitippu, pacumpitippul, pacunkoti, patakaram, patakarappul, patam, pikkali, pitti, porikketanam, porikketanappul, pullaruku, purkoti, tiyamam, turna, turva, turvai, uraruku, urukai, vaucekam, vaucekappul, vayurai, vilimpu\nTelugu (9): garika gaddi, garike, gariki-gaddi, gerichagaddi, ghericha, gherka, gurka-hariali, haraili, thella gariki",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb"
+  ],
+  "source_record_ids": [
+    "links-0549",
+    "links-0550",
+    "links-0551"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb"
+    ],
+    "source_record_ids": [
+      "links-0549",
+      "links-0550",
+      "links-0551"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb",
+          "Plant Name": "Cynodon dactylon (Linn.) Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cynodon dactylon (Linn.) Pers.",
+        "source_record_id": "links-0549",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb",
+          "Plant Name": "Cynodon dactylon Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cynodon dactylon Pers.",
+        "source_record_id": "links-0550",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb",
+          "Plant Name": "Cynodon dactylon Pers. Var. suberectum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cynodon dactylon Pers. Var. suberectum",
+        "source_record_id": "links-0551",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb"
+      }
+    ],
+    "source_xplant_id": "b4bff9ff2e61651c614600eaf8529bcb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

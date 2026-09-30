@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_95de73b48dfd9d4f__vernacular_names__001",
+  "plant_id": "plant_95de73b48dfd9d4f",
+  "plant_name": "Dalbergia sissoo Roxb.",
+  "botanical_name": "Dalbergia sissoo",
+  "botanical_authority": "ROXB.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): sheesham, shisham wood, sisso\nHindi (11): shisham, shisham tali, sisam, sisham, sishum, sissai, sissu, sisu, tahli, tali, talli\nKannada (26): agara, agaru, aguru, bindi, birade, biradi, biridi, cishmabage, gette, hambachaaru, hambadavu, ibadi, ibadi mara, iragundimaavu, iragundimara, irugundimavu, irukuntimavu, karimara, nooke mara, shishmabage, shisso, shista baage, shivanakadalu, simsape, simsupe, sishmabage\nMalayalam (6): irupul, iruvil, pivala-sesba, sisam, sissu, tali\nMarathi (4): shisham, siso, sissu, sisva\nSanskrit (20): Sanskrit CommentsX aguru, agurushinshupa, dhira, dhumrika, kalanusarya, kapila, kapila-sinsapa, krishnasara, krsnasara, mandalapatri, pichhila, pipala, shingshupa, shinshapa, shyama, simsapa, sinsapa, tivradhumaka, vira, yugapatrika\nTamil (24): cicamaram, cice, cicu#, cicu@, cicumaram, cincupam, gette, itti, kannacaram2, kiruttinacarucapam2, nakku-kattai, nukkam, nukku, nukku2, nuku-kattai, piccai2, pichai, sisham, sissoo, sisu, sisu-itti, tesimaram, vellitti 2, yette\nTelugu (9): errasisso, errasissu, ettasissu, sinsupa, sissoo, sissu, sissu-karra, sissukarrha, yerrasissu\nTibetan (2): si sa ba, sim sa pa (p)\nUrdu (4): burada shisham, burada shishan, sheesham, shisham",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b1702840a38e125a4fffeb40a34820b"
+  ],
+  "source_record_ids": [
+    "links-1793"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b1702840a38e125a4fffeb40a34820b"
+    ],
+    "source_record_ids": [
+      "links-1793"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b1702840a38e125a4fffeb40a34820b",
+          "Plant Name": "Dalbergia sissoo Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dalbergia sissoo Roxb.",
+        "source_record_id": "links-1793",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b1702840a38e125a4fffeb40a34820b"
+      }
+    ],
+    "source_xplant_id": "8b1702840a38e125a4fffeb40a34820b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

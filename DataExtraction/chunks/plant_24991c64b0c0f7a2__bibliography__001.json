@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_24991c64b0c0f7a2__bibliography__001",
+  "plant_id": "plant_24991c64b0c0f7a2",
+  "plant_name": "Abies webbiana",
+  "botanical_name": "Abies spectabilis",
+  "botanical_authority": "(D.DON) SPACH",
+  "family": "PINACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - DR.P.N.V.KURUP, DR.V.N.K.RAMADAS & JOSHI,P; title: Title - A HANDBOOK OF MEDICINAL PLANTS\nBibliography entry: author: Author - ANONYMOUS; title: Title - ASTANGA HRIDAYA KOSHA\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: title: Title - A Forest Flora for Kumaon",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/370db2f049bec54fb27849be813c4013/xclkon/d148c25ad7f691d99f422e93bdc70751"
+  ],
+  "source_record_ids": [
+    "links-1910",
+    "links-1911",
+    "links-1912",
+    "links-1913"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/370db2f049bec54fb27849be813c4013/xclkon/d148c25ad7f691d99f422e93bdc70751"
+    ],
+    "source_record_ids": [
+      "links-1910",
+      "links-1911",
+      "links-1912",
+      "links-1913"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/370db2f049bec54fb27849be813c4013/xclkon/d148c25ad7f691d99f422e93bdc70751",
+          "Plant Name": "Abies webbiana",
+          "Status": "Found"
+        },
+        "source_plant_name": "Abies webbiana",
+        "source_record_id": "links-1910",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/370db2f049bec54fb27849be813c4013/xclkon/d148c25ad7f691d99f422e93bdc70751"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/370db2f049bec54fb27849be813c4013/xclkon/d148c25ad7f691d99f422e93bdc70751",
+          "Plant Name": "Abies webbiana Lindl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Abies webbiana Lindl.",
+        "source_record_id": "links-1911",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/370db2f049bec54fb27849be813c4013/xclkon/d148c25ad7f691d99f422e93bdc70751"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/370db2f049bec54fb27849be813c4013/xclkon/d148c25ad7f691d99f422e93bdc70751",
+          "Plant Name": "Abies webbiana Lindle",
+          "Status": "Found"
+        },
+        "source_plant_name": "Abies webbiana Lindle",
+        "source_record_id": "links-1912",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/370db2f049bec54fb27849be813c4013/xclkon/d148c25ad7f691d99f422e93bdc70751"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/370db2f049bec54fb27849be813c4013/xclkon/d148c25ad7f691d99f422e93bdc70751",
+          "Plant Name": "Abies webbiana Lindle.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Abies webbiana Lindle.",
+        "source_record_id": "links-1913",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/370db2f049bec54fb27849be813c4013/xclkon/d148c25ad7f691d99f422e93bdc70751"
+      }
+    ],
+    "source_xplant_id": "370db2f049bec54fb27849be813c4013",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

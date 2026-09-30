@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_34c6bb78f1a9968c__vernacular_names__001",
+  "plant_id": "plant_34c6bb78f1a9968c",
+  "plant_name": "Hemidesmus indicus",
+  "botanical_name": "Hemidesmus indicus",
+  "botanical_authority": "(L.) SCHULT.",
+  "family": "ASCLEPIADACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (12): anandmul-kapuri, anantamul, aushba, dudhli, hindi-salsa, hindisalsa, jangli-chanbeli, janglichanbelli, kalisar, magrabu, mugrabu, salsa\nKannada (43): ananthamoola, beruballi, dhoodhaavalli, dudavali, dudavalli, gaamadevaru, gleet, haalu baeru, haalu balli, halavabilu, halberu, hale baeru balli, haleberuballi, hamada baeru, hamadaberu, kanya baeru, kanyaburu, kareebatte, karibandha, karibanta, kempu gandha, kempu gandhi, kempugandhi, kempuganhi, maadaavali, magaliveru, naamada baeru, naamadaberu, naamasogadhe, namadaballi, namadaberu, nannaari baeru, nannaari beru, nannaribayibessliberu, nannariberu, sogade, sogade beru, sugandha-palada-gida, sugandhapalada, sugandhiballi, sugandhiberu, sughanda-palada-gida, sughandhi beru\nMalayalam (11): kizhanna, nannari, nannari-kizhanna, narooneendee, naru-nindi, naru-ninti, narunari, narunenti, narunindi, naruninti, paravalli\nMarathi (12): anantamul, anantvel, dhoodmooli, dudhasali, lahankavali, makur, upalasari, uparasaala, uparasal, uparsal, uparsaree, upersari\nSanskrit (41): Sanskrit CommentsX aasphota, ananta, anantamul, anantamula, anantamulah, asphota, bhadra, bhadravalli, bhadravallika, dhavalashariva, gopa, gopakanya, gopama, gopangana, gopasuta, gopavadhu, gopavalli, gopi, gopimulam, kalanusariva, karala, kashthashariva, krishodari, krsnamuli, lata, nagajivha, pratanika, raktasariva, sanariva, sariba, saribha, sariva, sarivadvaya, sharada, shariva, sugandha, sugandhi, svetasariva, syama, utpalasariva, utpalashariva",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195"
+  ],
+  "source_record_ids": [
+    "links-0201",
+    "links-1745"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195"
+    ],
+    "source_record_ids": [
+      "links-0201",
+      "links-1745"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195",
+          "Plant Name": "Hemidesmus indicus",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hemidesmus indicus",
+        "source_record_id": "links-0201",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195",
+          "Plant Name": "Hemidesmus indicus R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hemidesmus indicus R. Br.",
+        "source_record_id": "links-1745",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195"
+      }
+    ],
+    "source_xplant_id": "e2d232e3dcd00751bdf511c1ac0d0195",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c2d95426973c18bd__identification__001",
+  "plant_id": "plant_c2d95426973c18bd",
+  "plant_name": "Acacia leucophloea Willd.",
+  "botanical_name": "Acacia leucophloea",
+  "botanical_authority": "(ROXB.) WILLD.",
+  "family": "MIMOSACEAE",
+  "section": "identification",
+  "content": "Plant name: Acacia leucophloea Willd. Botanical name: Acacia leucophloea Botanical authority: (ROXB.) WILLD. Family: MIMOSACEAE Source xplant ID: 6b2b940657b1a4bc69ae71ccd0ba533d",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6b2b940657b1a4bc69ae71ccd0ba533d"
+  ],
+  "source_record_ids": [
+    "links-0146"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6b2b940657b1a4bc69ae71ccd0ba533d"
+    ],
+    "source_record_ids": [
+      "links-0146"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6b2b940657b1a4bc69ae71ccd0ba533d",
+          "Plant Name": "Acacia leucophloea Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Acacia leucophloea Willd.",
+        "source_record_id": "links-0146",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6b2b940657b1a4bc69ae71ccd0ba533d"
+      }
+    ],
+    "source_xplant_id": "6b2b940657b1a4bc69ae71ccd0ba533d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

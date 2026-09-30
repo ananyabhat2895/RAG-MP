@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_5c0a7f38a018f120__bibliography__001",
+  "plant_id": "plant_5c0a7f38a018f120",
+  "plant_name": "Calamus tenuis",
+  "botanical_name": "Calamus tenuis",
+  "botanical_authority": "ROXB.",
+  "family": "ARECACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: title: Title - A Forest Flora for Kumaon\nBibliography entry: title: Title - Flora of Majuli\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9684265bbdd694d429df0684f1b656c3"
+  ],
+  "source_record_ids": [
+    "links-2085",
+    "links-2086"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9684265bbdd694d429df0684f1b656c3"
+    ],
+    "source_record_ids": [
+      "links-2085",
+      "links-2086"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9684265bbdd694d429df0684f1b656c3",
+          "Plant Name": "Calamus tenuis",
+          "Status": "Found"
+        },
+        "source_plant_name": "Calamus tenuis",
+        "source_record_id": "links-2085",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9684265bbdd694d429df0684f1b656c3"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9684265bbdd694d429df0684f1b656c3",
+          "Plant Name": "Calamus tenuis Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Calamus tenuis Roxb.",
+        "source_record_id": "links-2086",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9684265bbdd694d429df0684f1b656c3"
+      }
+    ],
+    "source_xplant_id": "9684265bbdd694d429df0684f1b656c3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

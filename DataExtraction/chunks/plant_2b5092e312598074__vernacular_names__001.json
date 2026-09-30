@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2b5092e312598074__vernacular_names__001",
+  "plant_id": "plant_2b5092e312598074",
+  "plant_name": "Homonoia riparia Lour.",
+  "botanical_name": "Homonoia riparia",
+  "botanical_authority": "LOUR.",
+  "family": "EUPHORBIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (2): jalbent, serni\nKannada (16): abbe koralu, hole mekki, hole nage, hole nekki, holemekki, holenage, holenekki, kiral bogi, kshudra paashaana bhedi, neela kanagilu, neerganigile, neernekki, neeru ganigale, niraganugulu, nirganagile, sannapasanabheda\nMalayalam (14): attuvanni, kallurvanci, katallari, katalluri, kattalari, kattalluree, kullur, nirnocci, nirnochil, nirvanni, pulavanni, puzhavanchi, puzhavanji, vangi\nMarathi (2): shaerani, sherni\nSanskrit (6): Sanskrit CommentsX jalavetasah, kshudrapashanabheda, pasanabheda, pasanabhedah, pashanabedaka, vetasah\nTamil (14): attuinci, captaparani 2, cheppunjeringal, kallarali, kalvisakkarantai, kat-allari, kataralli, kattalari 2, kattarali, kattaralicceti, kattuarali, ottalari, ottalaricceti, peruncuntari\nTelugu (13): adavi-ganneru, cheppunjerinjal, erra tanuku, erratanuku, errathanuku, patada, shiridamanu, siridamaanu, siridamanu, tanaku, taniki, tanuku, thaniki chettu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ca9c69c4e0805177adcfdb46e5c4c09"
+  ],
+  "source_record_ids": [
+    "links-1480"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ca9c69c4e0805177adcfdb46e5c4c09"
+    ],
+    "source_record_ids": [
+      "links-1480"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ca9c69c4e0805177adcfdb46e5c4c09",
+          "Plant Name": "Homonoia riparia Lour.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Homonoia riparia Lour.",
+        "source_record_id": "links-1480",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ca9c69c4e0805177adcfdb46e5c4c09"
+      }
+    ],
+    "source_xplant_id": "6ca9c69c4e0805177adcfdb46e5c4c09",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

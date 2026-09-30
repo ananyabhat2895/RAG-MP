@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_1f4fd610642ea48e__vernacular_names__001",
+  "plant_id": "plant_1f4fd610642ea48e",
+  "plant_name": "Altingia excelsa Noronha",
+  "botanical_name": "Altingia excelsa",
+  "botanical_authority": "NORONHA",
+  "family": "ALTINGIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): rasamala\nHindi (1): silaras\nKannada (1): silaras\nMalayalam (1): rasamala\nMarathi (3): shilaaras, shilaras, silaras\nSanskrit (39): Sanskrit CommentsX ashmapushpa, chala, chanchalatailaka, dhumra, dhumravarna, java, kalka, kapichanchala, kapinama, kapisha, kapitail, karevar, kritrima, lepana, muktimukta, pavana, pindatavara, pindita, pinyaka, pishtaka, pitasara, sainhikarasa, shaja, shalakidrava, siddha, silarasa, silhaka, silhakah, silhapindaka, silhasara, sillhaka, sugandhika, tailakhya, tailparni, turashka, turuskah, vrikadhupa, yava, yavala\nTamil (7): erikacu, erikacucceti, neriyacam, neriyaci, neriyacippal, neriyurishippal, niriyacappal\nTelugu (2): shilaarasamu, shilarasamu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4af82d565c7c2d688a4ffd18c5393d0"
+  ],
+  "source_record_ids": [
+    "links-1995"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4af82d565c7c2d688a4ffd18c5393d0"
+    ],
+    "source_record_ids": [
+      "links-1995"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4af82d565c7c2d688a4ffd18c5393d0",
+          "Plant Name": "Altingia excelsa Noronha",
+          "Status": "Found"
+        },
+        "source_plant_name": "Altingia excelsa Noronha",
+        "source_record_id": "links-1995",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4af82d565c7c2d688a4ffd18c5393d0"
+      }
+    ],
+    "source_xplant_id": "f4af82d565c7c2d688a4ffd18c5393d0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

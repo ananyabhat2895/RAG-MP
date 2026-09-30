@@ -1,0 +1,95 @@
+{
+  "chunk_id": "plant_164fdf6b22617dde__vernacular_names__001",
+  "plant_id": "plant_164fdf6b22617dde",
+  "plant_name": "Anthocephalus cadamba",
+  "botanical_name": "Neolamarckia cadamba",
+  "botanical_authority": "(ROXB.) BOSSER",
+  "family": "RUBIACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): kadam, kedam, laran\nHindi (4): haldee, kadam, kadamb, kadamba\nKannada (36): apathyada mara, arisina thaega, bale, cowdeyal, dhaaruja kaare, dharujakaur, etthakada, hellthaega, helthige, kaada balige, kada pode, kadabolige, kadaga, kadaha, kadahada, kadahada mara, kadam, kadamba, kadamba mara, kadambam, kadambole, kadava, kadaval, kadavala, kadayaala, kaddabailu, kadubale, kadubalige, kaduve, kadvala, kadwal, kodawaala, kodeyaala, kodivaala, neeronje, nirmavina\nMalayalam (18): attutek, attuttekka, atuthekku, cakka, chakka, kadambu, kadavara, katamba, katampa, katarvayura, katou-tsjaka, katousjaka, kattuccakka, kattuchakka, nipam, shakka, vellacadambe, vellakatampa\nMarathi (6): dharkalambu, kadam, kadamb, kalamb, nhiv, niv\nSanskrit (33): Sanskrit CommentsX ashokari, dasa, deva, dhara-kadambo, dharakadambah, dhulikadambah, girikadambakah, halipriya, halipriyah, haridra, haripriya, jala, kadamba, kadambah, kadambaryya, karnapuraka, kutsitangah, lalanapriya, mahadhya, nadija, nipa, nipah, pravrishenya, priya, priyaka, priyakah, rajakadambah, shatpadeshta, sidhupushpa, sisupala, surabhi, vrattapuspa, vrittapushpa\nTamil (70): acokari, aram 1, arattam, arattam 1, arippiriyam 1, atampu 1, atappan, atappi, camparam 1, camuttira, camuttirappalai, cokari, cumam, cumpul, cumpulimaram, indulam, intulam, intulamaram, intumaram, intumari, intumarimaram, intuvalam, kadambu, kadappai, kalampam, kapam, karanapurakkiyam, karnapurakam, katampacivam, katampai, katampam, katampam 1, katampamaram, katampu, katappai, katappaimaram 2, katappam, kathambu, kokalamaram, kokali, kola aiyila, kolayilal, kuccitam, kuyilenamaram, makatturumam, mara 3, maraam, marakatampam, maram, maravam 1, nipam, paratiki, pirettam, potuli, potulimaram, ruttiratcakatampu, tacavirutcam, tarakatampam, tarakatampamaram, tipam, tupam 1, vella kadambu, vella-kadamba, vellacadambu, vellai katampu, vellaikkadambu, vellaikkatampai, vellaikkatampu, vicalam, viruttaputpam\nTelugu (18): begada, kadamba, kadambakamu, kadambamu, kadambe, kadimi, magulikarimi, mogulu kadimi, mogulukadimi, neepamu, neerpaala kadambamu, nipamu, nripalakadambamu, peddakambo, prenkhanamu, priyakamu, rudraakshakamba, rudrakshkamba\nTibetan (2): ka da mba, ka da mpa (p)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/2e0bec78b33f9ea9a8a4e7a59533e763",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/4a0b43648ef2a3cc8f3c53a99b5d3539"
+  ],
+  "source_record_ids": [
+    "links-0824",
+    "links-0825",
+    "links-0826",
+    "links-0827",
+    "links-1407"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/2e0bec78b33f9ea9a8a4e7a59533e763",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/4a0b43648ef2a3cc8f3c53a99b5d3539"
+    ],
+    "source_record_ids": [
+      "links-0824",
+      "links-0825",
+      "links-0826",
+      "links-0827",
+      "links-1407"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/2e0bec78b33f9ea9a8a4e7a59533e763",
+          "Plant Name": "Anthocephalus cadamba",
+          "Status": "Found"
+        },
+        "source_plant_name": "Anthocephalus cadamba",
+        "source_record_id": "links-0824",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/2e0bec78b33f9ea9a8a4e7a59533e763"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/2e0bec78b33f9ea9a8a4e7a59533e763",
+          "Plant Name": "Anthocephalus cadamba Miq.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Anthocephalus cadamba Miq.",
+        "source_record_id": "links-0825",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/2e0bec78b33f9ea9a8a4e7a59533e763"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/4a0b43648ef2a3cc8f3c53a99b5d3539",
+          "Plant Name": "Anthocephalus indicus A. Rich.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Anthocephalus indicus A. Rich.",
+        "source_record_id": "links-0826",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/4a0b43648ef2a3cc8f3c53a99b5d3539"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/4a0b43648ef2a3cc8f3c53a99b5d3539",
+          "Plant Name": "Anthocephalus indicus Miq.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Anthocephalus indicus Miq.",
+        "source_record_id": "links-0827",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/4a0b43648ef2a3cc8f3c53a99b5d3539"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/2e0bec78b33f9ea9a8a4e7a59533e763",
+          "Plant Name": "Anthocephalus cadamb",
+          "Status": "Found"
+        },
+        "source_plant_name": "Anthocephalus cadamb",
+        "source_record_id": "links-1407",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84b3ccebf56292e28d68c311540dc57b/xclkon/2e0bec78b33f9ea9a8a4e7a59533e763"
+      }
+    ],
+    "source_xplant_id": "84b3ccebf56292e28d68c311540dc57b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

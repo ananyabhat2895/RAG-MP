@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_cff6050c2c8068d9__vernacular_names__001",
+  "plant_id": "plant_cff6050c2c8068d9",
+  "plant_name": "Tinospora sinensis (Lour.) Merill",
+  "botanical_name": "Tinospora sinensis",
+  "botanical_authority": "(LOUR.) MERR.",
+  "family": "MENISPERMACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (7): calon, gilai, giloe, giloei, gulancha, gurch, tiloe\nKannada (3): amratavalli, sudarsana balli, sudarshana balli\nMalayalam (5): amrtu, chittamratam, cittamrtu, paiyamratam, pee-amerdu\nMarathi (2): gulvel, vhadli-amrutvel\nSanskrit (4): Sanskrit CommentsX amrta, guduci, sudarsana, vatsadani\nTamil (10): amradvalli, culavarini, culavarinikkoti, por cintil, porcintil, potchindil, seendil, sindilkodi, tuparakkoti, tuparam2\nTelugu (2): thippatheega, tippatega",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6afe7a03ff6471d6d529a33af35f7db7"
+  ],
+  "source_record_ids": [
+    "links-0662",
+    "links-0663"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6afe7a03ff6471d6d529a33af35f7db7"
+    ],
+    "source_record_ids": [
+      "links-0662",
+      "links-0663"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6afe7a03ff6471d6d529a33af35f7db7",
+          "Plant Name": "Tinospora sinensis (Lour.) Merill",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tinospora sinensis (Lour.) Merill",
+        "source_record_id": "links-0662",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6afe7a03ff6471d6d529a33af35f7db7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6afe7a03ff6471d6d529a33af35f7db7",
+          "Plant Name": "Tinospora sinensis (Lour.) Merill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tinospora sinensis (Lour.) Merill.",
+        "source_record_id": "links-0663",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6afe7a03ff6471d6d529a33af35f7db7"
+      }
+    ],
+    "source_xplant_id": "6afe7a03ff6471d6d529a33af35f7db7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

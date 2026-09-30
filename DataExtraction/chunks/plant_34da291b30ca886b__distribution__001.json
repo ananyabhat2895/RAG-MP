@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_34da291b30ca886b__distribution__001",
+  "plant_id": "plant_34da291b30ca886b",
+  "plant_name": "Eulophia herbacea Lindl.",
+  "botanical_name": "Eulophia herbacea",
+  "botanical_authority": "LINDL.",
+  "family": "ORCHIDACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol III\nDistribution entry: author: Author - Ed B D Sharma, S Karthikeyan, N P Singh; distribution: Distribution; title: Title - Flora of Maharashrta State (Monocotyledons)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2ae590bf349b449c4be0661dbeefb93"
+  ],
+  "source_record_ids": [
+    "links-1308"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2ae590bf349b449c4be0661dbeefb93"
+    ],
+    "source_record_ids": [
+      "links-1308"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2ae590bf349b449c4be0661dbeefb93",
+          "Plant Name": "Eulophia herbacea Lindl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Eulophia herbacea Lindl.",
+        "source_record_id": "links-1308",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2ae590bf349b449c4be0661dbeefb93"
+      }
+    ],
+    "source_xplant_id": "e2ae590bf349b449c4be0661dbeefb93",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

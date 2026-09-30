@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_965b5fc5d2e5ae49__images__001",
+  "plant_id": "plant_965b5fc5d2e5ae49",
+  "plant_name": "Cynodon dactylon (Linn.) Pers.",
+  "botanical_name": "Cynodon dactylon",
+  "botanical_authority": "(L.) PERS.",
+  "family": "POACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb"
+  ],
+  "source_record_ids": [
+    "links-0549",
+    "links-0550",
+    "links-0551"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb"
+    ],
+    "source_record_ids": [
+      "links-0549",
+      "links-0550",
+      "links-0551"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb",
+          "Plant Name": "Cynodon dactylon (Linn.) Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cynodon dactylon (Linn.) Pers.",
+        "source_record_id": "links-0549",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb",
+          "Plant Name": "Cynodon dactylon Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cynodon dactylon Pers.",
+        "source_record_id": "links-0550",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb",
+          "Plant Name": "Cynodon dactylon Pers. Var. suberectum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cynodon dactylon Pers. Var. suberectum",
+        "source_record_id": "links-0551",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb"
+      }
+    ],
+    "source_xplant_id": "b4bff9ff2e61651c614600eaf8529bcb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

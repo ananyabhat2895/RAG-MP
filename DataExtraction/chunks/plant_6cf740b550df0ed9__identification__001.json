@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_6cf740b550df0ed9__identification__001",
+  "plant_id": "plant_6cf740b550df0ed9",
+  "plant_name": "Cassia absus Linn.",
+  "botanical_name": "Cassia absus",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "identification",
+  "content": "Plant name: Cassia absus Linn. Botanical name: Cassia absus Botanical authority: L. Family: CAESALPINIACEAE Source xplant ID: acbc05d9fef4a6e8501f55ec4323d5b8",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/acbc05d9fef4a6e8501f55ec4323d5b8"
+  ],
+  "source_record_ids": [
+    "links-0400"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/acbc05d9fef4a6e8501f55ec4323d5b8"
+    ],
+    "source_record_ids": [
+      "links-0400"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/acbc05d9fef4a6e8501f55ec4323d5b8",
+          "Plant Name": "Cassia absus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cassia absus Linn.",
+        "source_record_id": "links-0400",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/acbc05d9fef4a6e8501f55ec4323d5b8"
+      }
+    ],
+    "source_xplant_id": "acbc05d9fef4a6e8501f55ec4323d5b8",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

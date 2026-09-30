@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_2e37e75c6f9b2ee8__vernacular_names__001",
+  "plant_id": "plant_2e37e75c6f9b2ee8",
+  "plant_name": "Cinnamomum zeylanicum",
+  "botanical_name": "Cinnamomum verum",
+  "botanical_authority": "PRESL",
+  "family": "LAURACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): cinnamon\nHindi (10): dalchini, dalcini, dar-chini, darchini, daruchini, darucini, qalami-dal-chini, qalami-dar-chini, qalamidarchini, qulami-dar-chini\nKannada (28): daalchini, daalchinni chakke, dala-chinni, dalachini, dalacinni, dalchini, dalchinni, dalcini, daruchini, ijin, kaduvudalchini, kaduvudalcini, kankutla, lauanga patte, lavanga chakke, lavanga patte, lavanga-patte, lavangacakke, lavangachakke, lavangapatte, nisane, nisani, nisne, teja dalchini, tejadalachi, tejadalcini, tezdalchini, theja dalchinni\nMalayalam (31): carua, ceriyayilavannam, cheriya-ela-vanna-toli, cheriyayilavannam, cheriyilaivannam, dalcinni, edana, elavangam, elevangam, elvangam, erikkolam, eringolam, etuna, ilavangam, ilavannam, ilavannapatta, ilavannnam, karappa, karun, karuva, lavanga, lavanga-pat, lavangakaruva, lavangam, llavangam, lowangapattai, varanam, vayana, vayina, vazhana, vvarana\nMarathi (5): daalchini, daarachini, dalchini, darachini, thaj\nSanskrit (51): Sanskrit CommentsX bahugandha, balya, bhringa, bhrnga, bhrung, bijjula, chocha, chola, coca, cocam, darasita, darucini, darusila, darusita, gudatkpatra, gudatvacha, gudatvak, hridya, kamavallabha, lataparna, mukashodhana, nalada, patra, ramavallabha, rameshta, saihal, satakata, shakala, shita, sinhala, surabhivalkala, surasa, tamal taila, tamalapatra, tamalpatra, tamalpatra taila, tanutvaka, tapinchchha, tvac, tvacha, tvak, tvaka, tvakapatra, twak, utkata, vak, valkala, vanapriya, vara, varanga, varangaka\nTamil (64): ankaparainati, ariyavanati, avarcati, callaki 2, canna ilavankap pattai, cannalavangapattai, cannalavankam, catekaru, catokaru, catokuru, coracattoraci 1, elavangapattiri, elavangappattai, ilanankappaddiri, ilavangam, ilavangapattai, ilavangappattai, ilavankam 1, ilavankap pattaimaram, ilavankappattai, ilavankappattiri, ilavankattol, iriyal, karruwa, karruwa puttay, karuva, karuva 1, karuvamaram, karuvap-pattai, karuvappattai, karuvayin pattai, kontalavvam, lavangam, lavangap-pattai, lavangapatri, lavangapattai, lavangappatti, lavankappattai, llavangam, lowangapattai, mal, mitira, mitirappattai, mottulavankappattai, muttiramam@, pattai, pattirankam 1, perulavankappattai, pulambilavu, pulampilavu, puppattai, puranam, sorachattorachi, tarucini, tecapattiram, tirikonamali, tuvacam, tuvakku, ulakutam, vanappiriyam, varanam 1, varankakam, vecayappattai, veraiyattuppayir",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757"
+  ],
+  "source_record_ids": [
+    "links-2008",
+    "links-2009",
+    "links-2010",
+    "links-2057"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757"
+    ],
+    "source_record_ids": [
+      "links-2008",
+      "links-2009",
+      "links-2010",
+      "links-2057"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757",
+          "Plant Name": "Cinnamomum zeylanicum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum zeylanicum",
+        "source_record_id": "links-2008",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757",
+          "Plant Name": "Cinnamomum zeylanicum Blume",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum zeylanicum Blume",
+        "source_record_id": "links-2009",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757",
+          "Plant Name": "Cinnamomum zeylanicum Breyn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum zeylanicum Breyn.",
+        "source_record_id": "links-2010",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757",
+          "Plant Name": "Cinnamomum zeylanicum Blume.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum zeylanicum Blume.",
+        "source_record_id": "links-2057",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757"
+      }
+    ],
+    "source_xplant_id": "c28e0da32f82e38f233cc690e98d4788",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

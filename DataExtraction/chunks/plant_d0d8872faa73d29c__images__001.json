@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d0d8872faa73d29c__images__001",
+  "plant_id": "plant_d0d8872faa73d29c",
+  "plant_name": "Luffa echinata Roxb.",
+  "botanical_name": "Luffa echinata",
+  "botanical_authority": "ROXB.",
+  "family": "CUCURBITACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/517e75a67d453c30d1fb46f62bc5d87e"
+  ],
+  "source_record_ids": [
+    "links-0501"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/517e75a67d453c30d1fb46f62bc5d87e"
+    ],
+    "source_record_ids": [
+      "links-0501"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/517e75a67d453c30d1fb46f62bc5d87e",
+          "Plant Name": "Luffa echinata Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Luffa echinata Roxb.",
+        "source_record_id": "links-0501",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/517e75a67d453c30d1fb46f62bc5d87e"
+      }
+    ],
+    "source_xplant_id": "517e75a67d453c30d1fb46f62bc5d87e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

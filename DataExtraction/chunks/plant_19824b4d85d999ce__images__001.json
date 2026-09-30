@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_19824b4d85d999ce__images__001",
+  "plant_id": "plant_19824b4d85d999ce",
+  "plant_name": "Adina cordifolia Benth & Hook.f.",
+  "botanical_name": "Haldina cordifolia",
+  "botanical_authority": "(ROXB.) RIDSDALE",
+  "family": "RUBIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87d4a9ba28abca7e82c489685da8d49f/xclkon/dd8d81431e8c0a3f802bc182ecc6330d"
+  ],
+  "source_record_ids": [
+    "links-0693",
+    "links-0696",
+    "links-0823"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87d4a9ba28abca7e82c489685da8d49f/xclkon/dd8d81431e8c0a3f802bc182ecc6330d"
+    ],
+    "source_record_ids": [
+      "links-0693",
+      "links-0696",
+      "links-0823"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87d4a9ba28abca7e82c489685da8d49f/xclkon/dd8d81431e8c0a3f802bc182ecc6330d",
+          "Plant Name": "Adina cordifolia Benth & Hook.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Adina cordifolia Benth & Hook.f.",
+        "source_record_id": "links-0693",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87d4a9ba28abca7e82c489685da8d49f/xclkon/dd8d81431e8c0a3f802bc182ecc6330d"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87d4a9ba28abca7e82c489685da8d49f/xclkon/dd8d81431e8c0a3f802bc182ecc6330d",
+          "Plant Name": "Adina cordifolia Benth. and Hook.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Adina cordifolia Benth. and Hook.f.",
+        "source_record_id": "links-0696",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87d4a9ba28abca7e82c489685da8d49f/xclkon/dd8d81431e8c0a3f802bc182ecc6330d"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87d4a9ba28abca7e82c489685da8d49f/xclkon/dd8d81431e8c0a3f802bc182ecc6330d",
+          "Plant Name": "Adina cordifolia Hook.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Adina cordifolia Hook.f.",
+        "source_record_id": "links-0823",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87d4a9ba28abca7e82c489685da8d49f/xclkon/dd8d81431e8c0a3f802bc182ecc6330d"
+      }
+    ],
+    "source_xplant_id": "87d4a9ba28abca7e82c489685da8d49f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

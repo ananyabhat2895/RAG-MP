@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_18bd7b635e38a633__distribution__001",
+  "plant_id": "plant_18bd7b635e38a633",
+  "plant_name": "Pothos officinalis",
+  "botanical_name": "Scindapsus officinalis",
+  "botanical_authority": "SCHOTT.",
+  "family": "ARACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol IV",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea/xclkon/9ddf481389c7735ec761877cc27ae8de",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea"
+  ],
+  "source_record_ids": [
+    "links-0436",
+    "links-0571"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea/xclkon/9ddf481389c7735ec761877cc27ae8de",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea"
+    ],
+    "source_record_ids": [
+      "links-0436",
+      "links-0571"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea/xclkon/9ddf481389c7735ec761877cc27ae8de",
+          "Plant Name": "Pothos officinalis",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pothos officinalis",
+        "source_record_id": "links-0436",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea/xclkon/9ddf481389c7735ec761877cc27ae8de"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea",
+          "Plant Name": "Scindapsus officinalis Schott.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Scindapsus officinalis Schott.",
+        "source_record_id": "links-0571",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea"
+      }
+    ],
+    "source_xplant_id": "312284a17b66b7954b1450c51bf9f9ea",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

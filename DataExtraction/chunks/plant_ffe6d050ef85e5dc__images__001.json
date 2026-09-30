@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ffe6d050ef85e5dc__images__001",
+  "plant_id": "plant_ffe6d050ef85e5dc",
+  "plant_name": "Trichodesma indicum R. Br.",
+  "botanical_name": "Trichodesma indicum",
+  "botanical_authority": "R.BR.",
+  "family": "BORAGINACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38ac72734be9d4e7aae2448ad9d8b407"
+  ],
+  "source_record_ids": [
+    "links-0007"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38ac72734be9d4e7aae2448ad9d8b407"
+    ],
+    "source_record_ids": [
+      "links-0007"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38ac72734be9d4e7aae2448ad9d8b407",
+          "Plant Name": "Trichodesma indicum R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Trichodesma indicum R. Br.",
+        "source_record_id": "links-0007",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38ac72734be9d4e7aae2448ad9d8b407"
+      }
+    ],
+    "source_xplant_id": "38ac72734be9d4e7aae2448ad9d8b407",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

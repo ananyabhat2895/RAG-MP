@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_0888e0ace2f87810__bibliography__001",
+  "plant_id": "plant_0888e0ace2f87810",
+  "plant_name": "Smilax china Linn.",
+  "botanical_name": "Smilax china",
+  "botanical_authority": "L.",
+  "family": "SMILACACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/548e2aa378038bef7b03daf4fe911fb7"
+  ],
+  "source_record_ids": [
+    "links-0464"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/548e2aa378038bef7b03daf4fe911fb7"
+    ],
+    "source_record_ids": [
+      "links-0464"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/548e2aa378038bef7b03daf4fe911fb7",
+          "Plant Name": "Smilax china Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Smilax china Linn.",
+        "source_record_id": "links-0464",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/548e2aa378038bef7b03daf4fe911fb7"
+      }
+    ],
+    "source_xplant_id": "548e2aa378038bef7b03daf4fe911fb7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_7387f88d74528df0__vernacular_names__001",
+  "plant_id": "plant_7387f88d74528df0",
+  "plant_name": "Rosa centifolia Linn.",
+  "botanical_name": "Rosa centifolia",
+  "botanical_authority": "L.",
+  "family": "ROSACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): cabbage rose, moss rose\nHindi (4): gulab, gulab-ka-phul, gulab-phul, gulabzurdi\nKannada (4): gulabi, gulabi-huvvu, gulabihuvu, gulabu\nMalayalam (8): gulabapushpam, paninir, paninir-pushpam, paninirppu, paninirpu, pannir, pninirpushpam, rosappu\nSanskrit (20): Sanskrit CommentsX alikulasankula, atikesara, bhadrataruni, brihatpushpa, carukesari, devataruni, gandhadya, kantakodya, kharva, kubjaka, laksa, mahasaha, ramataruni, satapatra, satapatri, satapatrika, saumyagandha, taruni, varikantaka, vrittapushpa\nTamil (9): eros, goolabu-poo, gulappu, iroja-pushpam, irojap-pu, irosa, nilattamarai, paninirppu, troja\nTelugu (8): gula-puvvu, gulabi, raojapuvvu, roja, roja-pushpam, roja-puvvu, rojapushpamu, rojapuvvu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf3f76e5710f9637fdfe23382653ef77"
+  ],
+  "source_record_ids": [
+    "links-1930"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf3f76e5710f9637fdfe23382653ef77"
+    ],
+    "source_record_ids": [
+      "links-1930"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf3f76e5710f9637fdfe23382653ef77",
+          "Plant Name": "Rosa centifolia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rosa centifolia Linn.",
+        "source_record_id": "links-1930",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf3f76e5710f9637fdfe23382653ef77"
+      }
+    ],
+    "source_xplant_id": "cf3f76e5710f9637fdfe23382653ef77",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

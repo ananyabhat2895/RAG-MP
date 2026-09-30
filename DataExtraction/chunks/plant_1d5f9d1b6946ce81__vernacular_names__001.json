@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_1d5f9d1b6946ce81__vernacular_names__001",
+  "plant_id": "plant_1d5f9d1b6946ce81",
+  "plant_name": "Pedalium murex Linn.",
+  "botanical_name": "Pedalium murex",
+  "botanical_authority": "L.",
+  "family": "PEDALIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (15): bada gokhru, bara gokhru, bara-gokhru, bara-gokhrue, baragokhru, fareed-buti, faribduti, farid-buti, faridbuti, gokhru, gokhru kanti, kadvagokhru, kanti, pila-gokhru, vilayati-gokhru\nKannada (13): aane neggilu, aane nerigilu, anenegaligida, aneneggilu, anenegilu, anianeggula, anne-galu-gida, annegalugida, dodda neeranji, dodda neggilu, doddaneggili, doddaneggilu, gonkara mullu\nMalayalam (12): ana-nerinnil, ananerinnil, caca-mullu, kakka-mullu, kakkamullu, kathenerinmil, kattu-nerinjal, kattu-nerinnil, kattunerinjil, kattunerinnil, katunerinjal, nerinnil\nMarathi (13): bhar-gokharu, gokhura, hatticharatte, karanothia, karonathia, karonta, motegokharu, mothe-gokharu, mothe-gokhru, mothegokharu, moto, selusaran, ubha-gokhru\nSanskrit (14): Sanskrit CommentsX brhat-goksura, brhatgoksura, brhatgoksuram, brihatgokshura, gajadaunstree, ghejasoodumoostra, gokshura, gokshuru, goksurah, srngatika, sthulagoksurah, tiktagoksurah, tittagokshura, trikantakah\nTamil (55): anai neruncil, anai nerunji, anai-nerinji, anai-nerunji, anaikkalvananki, anaineruni2, anainerunji, anaivanakki2, ananeringie, ananeringlie, attavattinerunci, cataimullika, cataimullikacceti, cataimullipputu, irakavi, kakkaymul, kolvattuvikki, kutavukari, kutavukarikkoti, matikam, matikaneruncil, natavattakkoti, natavattam, nerunchil, parpati, parppati, peru-nerunji, perunerunci, peruneruncirceti, perunerunji, pilliyatti, pippali 2, pippilineruncil, pippiliyatti, tarakantikai, tenkattai, tirikatakacceti, tirikatakam2, tirikatam2, tottaputu, vanacirunkatam, vayirakanikkoti, vayirakarani, vettatiramuli, viramattali, virucalapakkoti, virucalapam, vitattakikacceti, yanai nerunci, yanai nerungil, yanaikkal, yanainerinci, yanaineruncil, yanainerunji, yanaivananki 3\nTelugu (11): enuga-palleru-mullu, enugapallaeru, enugapalleru, enugapalleru mullu, enugapallerumullu, pedda palleru, pedda-palleru, peddapaleru, peddapallaeru, yenugapalleru, yenugu-palleru",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/433d10cb897d470b0e460215a7c8f2cb"
+  ],
+  "source_record_ids": [
+    "links-0628",
+    "links-0631"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/433d10cb897d470b0e460215a7c8f2cb"
+    ],
+    "source_record_ids": [
+      "links-0628",
+      "links-0631"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/433d10cb897d470b0e460215a7c8f2cb",
+          "Plant Name": "Pedalium murex Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pedalium murex Linn.",
+        "source_record_id": "links-0628",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/433d10cb897d470b0e460215a7c8f2cb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/433d10cb897d470b0e460215a7c8f2cb",
+          "Plant Name": "Pedalium murex",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pedalium murex",
+        "source_record_id": "links-0631",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/433d10cb897d470b0e460215a7c8f2cb"
+      }
+    ],
+    "source_xplant_id": "433d10cb897d470b0e460215a7c8f2cb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

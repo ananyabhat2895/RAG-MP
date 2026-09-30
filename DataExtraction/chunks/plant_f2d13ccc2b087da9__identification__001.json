@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_f2d13ccc2b087da9__identification__001",
+  "plant_id": "plant_f2d13ccc2b087da9",
+  "plant_name": "Angelica glauca Edgew",
+  "botanical_name": "Angelica glauca",
+  "botanical_authority": "EDGEW.",
+  "family": "APIACEAE",
+  "section": "identification",
+  "content": "Plant name: Angelica glauca Edgew Botanical name: Angelica glauca Botanical authority: EDGEW. Family: APIACEAE Source xplant ID: fe3a748f48ebb5be177ca76bd959f6e6",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe3a748f48ebb5be177ca76bd959f6e6"
+  ],
+  "source_record_ids": [
+    "links-0469",
+    "links-0470",
+    "links-0471",
+    "links-0642"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe3a748f48ebb5be177ca76bd959f6e6"
+    ],
+    "source_record_ids": [
+      "links-0469",
+      "links-0470",
+      "links-0471",
+      "links-0642"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe3a748f48ebb5be177ca76bd959f6e6",
+          "Plant Name": "Angelica glauca Edgew",
+          "Status": "Found"
+        },
+        "source_plant_name": "Angelica glauca Edgew",
+        "source_record_id": "links-0469",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe3a748f48ebb5be177ca76bd959f6e6"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe3a748f48ebb5be177ca76bd959f6e6",
+          "Plant Name": "Angelica glauca Edgew.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Angelica glauca Edgew.",
+        "source_record_id": "links-0470",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe3a748f48ebb5be177ca76bd959f6e6"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe3a748f48ebb5be177ca76bd959f6e6",
+          "Plant Name": "Angelica glauca Edgw.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Angelica glauca Edgw.",
+        "source_record_id": "links-0471",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe3a748f48ebb5be177ca76bd959f6e6"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe3a748f48ebb5be177ca76bd959f6e6",
+          "Plant Name": "Angelica glauca",
+          "Status": "Found"
+        },
+        "source_plant_name": "Angelica glauca",
+        "source_record_id": "links-0642",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe3a748f48ebb5be177ca76bd959f6e6"
+      }
+    ],
+    "source_xplant_id": "fe3a748f48ebb5be177ca76bd959f6e6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8816c1e690318aaa__systems_of_medicine__001",
+  "plant_id": "plant_8816c1e690318aaa",
+  "plant_name": "Artemisia maritima Linn.",
+  "botanical_name": "Artemisia maritima",
+  "botanical_authority": "L.",
+  "family": "ASTERACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Homeopathy\nSystem of medicine: Folk Botanical Synonyms (1) - Artemisia brevifolia WALL. EX DC. X Full Botanical citation - Artemisia brevifolia Wall. ex DC.\nSystem of medicine: Prodr. 6: 103. (1837) 1838; S. Karthikeyan & al.\nSystem of medicine: Flowering Plants of India - Dicots. 1: 275. 2009.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125f618790fe26adac71053fc6318dbc"
+  ],
+  "source_record_ids": [
+    "links-0428"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125f618790fe26adac71053fc6318dbc"
+    ],
+    "source_record_ids": [
+      "links-0428"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125f618790fe26adac71053fc6318dbc",
+          "Plant Name": "Artemisia maritima Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Artemisia maritima Linn.",
+        "source_record_id": "links-0428",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125f618790fe26adac71053fc6318dbc"
+      }
+    ],
+    "source_xplant_id": "125f618790fe26adac71053fc6318dbc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

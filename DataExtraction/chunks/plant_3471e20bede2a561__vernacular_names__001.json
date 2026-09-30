@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_3471e20bede2a561__vernacular_names__001",
+  "plant_id": "plant_3471e20bede2a561",
+  "plant_name": "Carum carvi Linn.",
+  "botanical_name": "Carum carvi",
+  "botanical_authority": "L.",
+  "family": "APIACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): caraway, caraway seed, kummel, seedcake\nHindi (9): jangi dhania, jeerka, jeero, kalazera, kalazira, kalazird, shiajira, siya jeera, zira\nMarathi (1): shahajire\nSanskrit (28): Sanskrit CommentsX asitajiraka, bahugandha, bhedanika, bhedini, hridya, jarana, jiraka, kalajiraka, kalameshi, karavi, karunjiraka, krishna, krishnajaji, krishnajeeraka, krishnajiraka, krsnajiraka, mashmirajiraka, nila, nilakana, patu, raka, ruchya, sugandha, sushavi, syahajira, udgarashodhini, vantishodhini, varshakali\nTamil (16): appakacaccompucceti, appakacam, cimai compu, cimai peruncirakam, cimaiccirakam, cimaiccompu, cimaivitai, karuncirakam, kekku vitai, kekkuvirai, kekkuvitai, keturuvirai, malaiccompu, pilappu-chirakam, shimayi-shombu, simaishembu\nTelugu (3): seema jeeraka, seemai sompu, shimaisapu\nTibetan (1): zi ra nag po\nUrdu (4): karawiyah, syah zira, zeera siyah, zira siyah",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7e54170b49ce79afffbec43fb7d25de"
+  ],
+  "source_record_ids": [
+    "links-0799",
+    "links-0950"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7e54170b49ce79afffbec43fb7d25de"
+    ],
+    "source_record_ids": [
+      "links-0799",
+      "links-0950"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7e54170b49ce79afffbec43fb7d25de",
+          "Plant Name": "Carum carvi Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Carum carvi Linn.",
+        "source_record_id": "links-0799",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7e54170b49ce79afffbec43fb7d25de"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7e54170b49ce79afffbec43fb7d25de",
+          "Plant Name": "Carum carvi",
+          "Status": "Found"
+        },
+        "source_plant_name": "Carum carvi",
+        "source_record_id": "links-0950",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7e54170b49ce79afffbec43fb7d25de"
+      }
+    ],
+    "source_xplant_id": "c7e54170b49ce79afffbec43fb7d25de",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

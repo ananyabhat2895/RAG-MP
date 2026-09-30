@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_8d9baaf26cd030bc__vernacular_names__001",
+  "plant_id": "plant_8d9baaf26cd030bc",
+  "plant_name": "Prunus amygdalus Batsch.",
+  "botanical_name": "Prunus dulcis",
+  "botanical_authority": "(MILLER) D.A. WEBB.",
+  "family": "ROSACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): almond, almond gum\nHindi (2): badam, bandam\nKannada (5): ametlle, baadaami, badaami, badami, badamu\nMalayalam (2): badam, badamkotta\nMarathi (2): baadaam, badam\nSanskrit (14): Sanskrit CommentsX alabukhara, arook, arukam, badama, badamitte, netropamaphala, netropamaphalam, suphala, vatada, vatadah, vatama, vatamah, vatamam, vatavairi\nTamil (8): padam, parsivadumai, patam, vaadumai, vadam-kottai, vadumai, vatamkottai, vatumai\nTelugu (8): baadaamamu, baadaamu, badamamu, badami, badamu, badamvittulu, paarsibaadami, parsibadami\nUrdu (16): badam, badam (shireen-o-talkh), badam shirin, khali badam, maghz badam, maghz badam muqashshar, maghz badam muqqashar, maghz badam shireen, maghz badam shirin, maghz badam shirin muqqashar, maghz badam talkh, maghz badan shirin, maghz tukhm badam shirin, maghz-i-badam shireen, maghz-i-badam shirin, roghan badam talkh",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c/xclkon/c5908bf1970dba1886a96f815d82cfbb"
+  ],
+  "source_record_ids": [
+    "links-2070",
+    "links-2071",
+    "links-2072"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c/xclkon/c5908bf1970dba1886a96f815d82cfbb"
+    ],
+    "source_record_ids": [
+      "links-2070",
+      "links-2071",
+      "links-2072"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c/xclkon/c5908bf1970dba1886a96f815d82cfbb",
+          "Plant Name": "Prunus amygdalus Batsch.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Prunus amygdalus Batsch.",
+        "source_record_id": "links-2070",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c/xclkon/c5908bf1970dba1886a96f815d82cfbb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c/xclkon/c5908bf1970dba1886a96f815d82cfbb",
+          "Plant Name": "Prunus amygdalus Batsch. var amara",
+          "Status": "Found"
+        },
+        "source_plant_name": "Prunus amygdalus Batsch. var amara",
+        "source_record_id": "links-2071",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c/xclkon/c5908bf1970dba1886a96f815d82cfbb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c/xclkon/c5908bf1970dba1886a96f815d82cfbb",
+          "Plant Name": "Prunus amygdalus Batsch. var sativa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Prunus amygdalus Batsch. var sativa",
+        "source_record_id": "links-2072",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c/xclkon/c5908bf1970dba1886a96f815d82cfbb"
+      }
+    ],
+    "source_xplant_id": "7d57e91d4ba99981148afbcb8af8094c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

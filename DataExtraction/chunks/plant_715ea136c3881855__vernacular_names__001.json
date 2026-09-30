@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_715ea136c3881855__vernacular_names__001",
+  "plant_id": "plant_715ea136c3881855",
+  "plant_name": "Dioscorea hispida Dennst.",
+  "botanical_name": "Dioscorea hispida",
+  "botanical_authority": "DENNST.",
+  "family": "DIOSCOREACEAE",
+  "section": "vernacular_names",
+  "content": "Malayalam (1): podava-kelengu\nMarathi (1): karodi\nSanskrit (1): Sanskrit CommentsX hastyaluka\nTamil (3): kavalakodi, pei-perendai, periperendai\nTelugu (7): kolli, pedda anem, pedumpa, pulidumpa, tandrabisalatige, tellaagini-geddalu, thandrabisalathige",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d0040698f764a73e55cc595a6b119fd"
+  ],
+  "source_record_ids": [
+    "links-0087"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d0040698f764a73e55cc595a6b119fd"
+    ],
+    "source_record_ids": [
+      "links-0087"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d0040698f764a73e55cc595a6b119fd",
+          "Plant Name": "Dioscorea hispida Dennst.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dioscorea hispida Dennst.",
+        "source_record_id": "links-0087",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d0040698f764a73e55cc595a6b119fd"
+      }
+    ],
+    "source_xplant_id": "2d0040698f764a73e55cc595a6b119fd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

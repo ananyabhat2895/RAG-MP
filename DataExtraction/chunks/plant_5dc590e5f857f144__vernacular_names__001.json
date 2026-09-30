@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5dc590e5f857f144__vernacular_names__001",
+  "plant_id": "plant_5dc590e5f857f144",
+  "plant_name": "Hardwickia binata Roxb.",
+  "botanical_name": "Hardwickia binata",
+  "botanical_authority": "ROXB.",
+  "family": "CAESALPINIACEAE",
+  "section": "vernacular_names",
+  "content": "Kannada (22): aacha, acca, acha, altina, alviro, anjan, asana, asanagurgi, asina, kaaraacha, kamara, kamaru, kamla, kammar, kammara, kamra, karachi, karachu, karachya, karaci, karmara, yenne\nMalayalam (7): accha, genne, kolla, matayen, samprani, shurali, uram\nMarathi (3): anjan, jiran, kattudugi\nSanskrit (1): Sanskrit CommentsX anjana\nTamil (10): aaccha, acca 3, acha, karacha, kattutuku, kolavu, malaiathi, mataiyancampirani, ura, yalam 3\nTelugu (17): anjan, epe, kamara, karachu, naarayepe, naarepe, naiyepi, naraepe, narayepe, narayepi, narepe, narepu, naryepa, naryepi, yapa, yepi, yeppi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/65b4d66e9985b680dd52893f6e47fb5f"
+  ],
+  "source_record_ids": [
+    "links-0126"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/65b4d66e9985b680dd52893f6e47fb5f"
+    ],
+    "source_record_ids": [
+      "links-0126"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/65b4d66e9985b680dd52893f6e47fb5f",
+          "Plant Name": "Hardwickia binata Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hardwickia binata Roxb.",
+        "source_record_id": "links-0126",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/65b4d66e9985b680dd52893f6e47fb5f"
+      }
+    ],
+    "source_xplant_id": "65b4d66e9985b680dd52893f6e47fb5f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_da290ed65698aa90__vernacular_names__001",
+  "plant_id": "plant_da290ed65698aa90",
+  "plant_name": "Adansonia digitata Linn.",
+  "botanical_name": "Adansonia digitata",
+  "botanical_authority": "L.",
+  "family": "BOMBACACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): baobab, judas s bag, monkey bread\nHindi (16): gorak-amli, gorak-imli, gorakamali, gorakh amli, gorakh-imli, gorakhamli, goramlichora, hatti-kattian, kalpa dev, kalpadev, kalpviriksha, kalpvrikhsa, kasaan-aamli, lochora, mansapooran, sumpura\nKannada (10): aane hunase, aane hunise, baobaab, brahmaamlika, brahmamilika, brahmamlika, brahmamlike, maagi maavu, magimaavu, magimavu\nMarathi (6): baubab, chori chinch, gonik--chintz, gorak-chinch, gorakh-chinch, gorakhchinch\nSanskrit (19): Sanskrit CommentsX chitrala, choramli, dirghadandi, gajabala, gandhabahula, gopali, gorakh-chinch, goraksacinca, gorakshi, goraksi, kasmiramlika, pancaparni, pancaparnika, panchaparnika, ravanamlika, sarpadandi, sitaphala, sitaphalam, sudandika\nTamil (41): aanaipuliya maram, anai puliyamaram, anai-puliya-maram, anaimaram, anaippuli, anaippuliyamaram, anaipuliamaram, anaipuliyamaram, arucaka, arucakamaram, arukkankopikam, arukkankopikamaram, cimaippuli, korakkarmaram, korakkarpuli, malukikam, malukikamaram, paparapuli, pappappuli, papparapa-puli, papparappuli, papparappuli@, pappura puli, parpparappuli, pepper-appauli, perukkamaram, perukku, pontaippulimaram, pontampuli, puri, puri-maram, purimaram, purinelli, purippuli, toti, totimaram, totiyam, totiyamaram, yanaippuli, yanaippulimaram, yanaippuliyamaram\nTelugu (8): brahma malika, brahmaamlika, brahmamlika, maggimaavu, maggimavu, seemachinta, simachinta, simae-chinta",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edf4adaa930a3cae64cd48af5570c613"
+  ],
+  "source_record_ids": [
+    "links-0638"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edf4adaa930a3cae64cd48af5570c613"
+    ],
+    "source_record_ids": [
+      "links-0638"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edf4adaa930a3cae64cd48af5570c613",
+          "Plant Name": "Adansonia digitata Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Adansonia digitata Linn.",
+        "source_record_id": "links-0638",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edf4adaa930a3cae64cd48af5570c613"
+      }
+    ],
+    "source_xplant_id": "edf4adaa930a3cae64cd48af5570c613",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

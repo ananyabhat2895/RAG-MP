@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_afe852ceb9a62b26__distribution__001",
+  "plant_id": "plant_afe852ceb9a62b26",
+  "plant_name": "Ougeinia dalbergioides Benth.",
+  "botanical_name": "Ougeinia oojeinensis",
+  "botanical_authority": "(ROXB.) HOCHR.",
+  "family": "FABACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol I\nDistribution entry: author: Author - A.E. Osmaston; distribution: Distribution; title: Title - A Forest Flora for Kumaon\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7084a3daf2834d5df7afcfe80421299/xclkon/d780944b65730d491057e41d31d7106f"
+  ],
+  "source_record_ids": [
+    "links-1964"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7084a3daf2834d5df7afcfe80421299/xclkon/d780944b65730d491057e41d31d7106f"
+    ],
+    "source_record_ids": [
+      "links-1964"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7084a3daf2834d5df7afcfe80421299/xclkon/d780944b65730d491057e41d31d7106f",
+          "Plant Name": "Ougeinia dalbergioides Benth.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ougeinia dalbergioides Benth.",
+        "source_record_id": "links-1964",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7084a3daf2834d5df7afcfe80421299/xclkon/d780944b65730d491057e41d31d7106f"
+      }
+    ],
+    "source_xplant_id": "e7084a3daf2834d5df7afcfe80421299",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

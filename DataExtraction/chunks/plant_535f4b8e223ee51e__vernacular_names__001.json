@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_535f4b8e223ee51e__vernacular_names__001",
+  "plant_id": "plant_535f4b8e223ee51e",
+  "plant_name": "Psidium guajava Linn.",
+  "botanical_name": "Psidium guajava",
+  "botanical_authority": "L. var. pomiferum L.",
+  "family": "MYRTACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): common guava\nHindi (11): am, amrud, amrut, anjir, jamphal, lal saphari, lal sufrium, lal-safri-am, safedsafari, saphed saphari, sufed-safri-am\nKannada (26): anjuri, balehannu, cepe, chepe, chopakaya, gova, jama-phala, jamaphala, jamaphalada, kempu-shibe-hannu, pearlu, pera, perala, perala-hannu, peralehannu, perangai, perangayi, perla, sebe, shebe-hannu, shibe, shibi, sibe, sibi, sibihannu, sippiannu\nMalayalam (13): atakkappalam, chem-pera, chem-perakka, chovanna-malak-kappera, koyya, malacka-pela, malackapela, malakkapera, malampera, palamper, pela, pera, perakkaya\nMarathi (5): jamba, per, peru, perunjaam, tupkel\nSanskrit (19): Sanskrit CommentsX amratafalam, amruta-phalam, anjira, aprithaktvacha, bahu-bija-phalam, dridhabija, madhuramla, mansala, mrduphalam, mridu, perala, peruka, perukah, perukam, pita, raktaamrutaphalam, raktabahubijaphalam, tuvara, vastula\nTamil (36): amirtapala, ampalakkani@, anjura, avakacitam, avakacitamaram, cenkoyya, cenkoyyamaram, cikappu1, cikappukkoyya, goyya-pazham, irattakkoyyamaram, irattakoyya, irattamatappal, irattamatappalmaram, jaram, kalarkacikam, kalarkacikamaram, kalippacitam, kalippacitamaram, koyapalam, koyya, palaccaram, palaccaramaram, perunkoyya, segappugoyya, sengoyya, shimeatti, shivappu-goyyap-pazham, sirugoyya, tavitatikam, tavitatikamaram, uyyakkondan, uyyakkontan 2, uyyakontan 2, vellai-goyya pazham, vellaikoyya\nTelugu (19): coya, erra-goyya-pandu, erra-jam-pandu, errajama, ettajama, gova, goyya, goyya-pandu, goyyapandu, jaama pandu, jaamachettu, jam-pandu, jama, jampandu, kondajami, modipatu, tellajama, tene-atti, thellajaama\nUrdu (1): rub-i-amrud",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6/xclkon/975930e0996cae25e596c9af45e3c4f4"
+  ],
+  "source_record_ids": [
+    "links-0093",
+    "links-1423"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6/xclkon/975930e0996cae25e596c9af45e3c4f4"
+    ],
+    "source_record_ids": [
+      "links-0093",
+      "links-1423"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6",
+          "Plant Name": "Psidium guajava Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Psidium guajava Linn.",
+        "source_record_id": "links-0093",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6/xclkon/975930e0996cae25e596c9af45e3c4f4",
+          "Plant Name": "Psidium guyava",
+          "Status": "Found"
+        },
+        "source_plant_name": "Psidium guyava",
+        "source_record_id": "links-1423",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6/xclkon/975930e0996cae25e596c9af45e3c4f4"
+      }
+    ],
+    "source_xplant_id": "3fdda2688c27df3027657e00882c20d6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_521e05d6af288f75__botanical_synonyms__001",
+  "plant_id": "plant_521e05d6af288f75",
+  "plant_name": "Phaseolus radiatus Linn.",
+  "botanical_name": "Vigna radiata",
+  "botanical_authority": "(L.) R. WILCZEK",
+  "family": "FABACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Phaseolus aureus ROXB. Phaseolus radiatus L. X Full Botanical citation - Phaseolus radiatus L., Sp. Pl. 725. 1753; N.P.Singh &al., Fl.Maharashtra state, Dicotyledones, 1: Fl.India Ser. 2: 776. 2000. Phaseolus roxburghii WIGHT & ARN.\nSynonym: Phaseolus aureus ROXB.\nSynonym: Phaseolus radiatus L.\nSynonym: Phaseolus roxburghii WIGHT & ARN.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36/xclkon/861966854b6f061d45d7d5b7ca0eee42",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36"
+  ],
+  "source_record_ids": [
+    "links-1298",
+    "links-1299"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36/xclkon/861966854b6f061d45d7d5b7ca0eee42",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36"
+    ],
+    "source_record_ids": [
+      "links-1298",
+      "links-1299"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36/xclkon/861966854b6f061d45d7d5b7ca0eee42",
+          "Plant Name": "Phaseolus radiatus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Phaseolus radiatus Linn.",
+        "source_record_id": "links-1298",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36/xclkon/861966854b6f061d45d7d5b7ca0eee42"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36",
+          "Plant Name": "Vigna radiata (Linn) Wilczek.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vigna radiata (Linn) Wilczek.",
+        "source_record_id": "links-1299",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36"
+      }
+    ],
+    "source_xplant_id": "34e0474aa06f7828206ad2cc03c7fb36",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

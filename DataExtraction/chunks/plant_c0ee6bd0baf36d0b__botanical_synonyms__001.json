@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_c0ee6bd0baf36d0b__botanical_synonyms__001",
+  "plant_id": "plant_c0ee6bd0baf36d0b",
+  "plant_name": "Boswellia serrata Roxb.",
+  "botanical_name": "Boswellia serrata",
+  "botanical_authority": "ROXB.",
+  "family": "BURSERACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Boswellia glabra ROXB. X Full Botanical citation - Boswellia glabra Roxb., Pl. Coromandel 3: 5, t. 207. 1811; A.N. Henry & V. Chithra in P. Daniel, Fl. Kerala 1: 627. 2005. Boswellia serrata ROXB. var. glabra (ROXB.) BENNETT X Full Botanical citation - Boswellia serrata Roxb. ex Colebr. var. glabra (Roxb.) A.W. Benn. in Hook.f., Fl. Brit. India 1: 528. 1875; Chithra & A.N. Henry in Hajra & al., Fl. India 4: 432. 1997. Boswellia thurifera ROXB. Chloroxylon dupada BUCH.\nSynonym: Boswellia glabra ROXB.\nSynonym: Boswellia serrata ROXB. var. glabra (ROXB.) BENNETT\nSynonym: Boswellia thurifera ROXB.\nSynonym: Chloroxylon dupada BUCH.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/4657546057a7a522681239099a690c16"
+  ],
+  "source_record_ids": [
+    "links-1126",
+    "links-1702"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/4657546057a7a522681239099a690c16"
+    ],
+    "source_record_ids": [
+      "links-1126",
+      "links-1702"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/4657546057a7a522681239099a690c16",
+          "Plant Name": "Boswellia serrata Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Boswellia serrata Roxb.",
+        "source_record_id": "links-1126",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/4657546057a7a522681239099a690c16"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/4657546057a7a522681239099a690c16",
+          "Plant Name": "Boswellia serrata Roxb. Var. glabra",
+          "Status": "Found"
+        },
+        "source_plant_name": "Boswellia serrata Roxb. Var. glabra",
+        "source_record_id": "links-1702",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/4657546057a7a522681239099a690c16"
+      }
+    ],
+    "source_xplant_id": "178cc9ad03d6f4d8fd4257d486c60e22",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

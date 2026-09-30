@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e3bb62d799687d56__images__001",
+  "plant_id": "plant_e3bb62d799687d56",
+  "plant_name": "Rumex vesicarius Linn.",
+  "botanical_name": "Rumex vesicarius",
+  "botanical_authority": "L.",
+  "family": "POLYGONACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82ee479df7b71790d00d70335df36d1d"
+  ],
+  "source_record_ids": [
+    "links-0474"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82ee479df7b71790d00d70335df36d1d"
+    ],
+    "source_record_ids": [
+      "links-0474"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82ee479df7b71790d00d70335df36d1d",
+          "Plant Name": "Rumex vesicarius Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rumex vesicarius Linn.",
+        "source_record_id": "links-0474",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82ee479df7b71790d00d70335df36d1d"
+      }
+    ],
+    "source_xplant_id": "82ee479df7b71790d00d70335df36d1d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

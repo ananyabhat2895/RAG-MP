@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d652dda5e05e580a__botanical_synonyms__001",
+  "plant_id": "plant_d652dda5e05e580a",
+  "plant_name": "Cedrus deodara (Roxb.) Loud.",
+  "botanical_name": "Cedrus deodara",
+  "botanical_authority": "(ROXB.) LOUD.",
+  "family": "PINACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Cedrus libani BARREL var. deodara HOOK. X Full Botanical citation - Cedrus libani var. deodara (Roxb. ex D.Don) Hook.f. in Fl. Brit. India 5: 653. 1888; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 51. 1999. Pinus deodara ROXB. X Full Botanical citation - Pinus deodara Roxb. ex D.Don in Lambert, Descr. Gen. Pinus 2: 8. 1824; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 51. 1999\nSynonym: Cedrus libani BARREL var. deodara HOOK.\nSynonym: Pinus deodara ROXB.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89b7f1eb2eb5a832b7a26aa6a24e9bf0"
+  ],
+  "source_record_ids": [
+    "links-0504"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89b7f1eb2eb5a832b7a26aa6a24e9bf0"
+    ],
+    "source_record_ids": [
+      "links-0504"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89b7f1eb2eb5a832b7a26aa6a24e9bf0",
+          "Plant Name": "Cedrus deodara (Roxb.) Loud.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cedrus deodara (Roxb.) Loud.",
+        "source_record_id": "links-0504",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89b7f1eb2eb5a832b7a26aa6a24e9bf0"
+      }
+    ],
+    "source_xplant_id": "89b7f1eb2eb5a832b7a26aa6a24e9bf0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_d6d95872d4fe157f__vernacular_names__001",
+  "plant_id": "plant_d6d95872d4fe157f",
+  "plant_name": "Elettaria cardamomum Maton",
+  "botanical_name": "Elettaria cardamomum",
+  "botanical_authority": "MATON",
+  "family": "ZINGIBERACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (6): chhoti elachi, chhotielachi, chhotielaichi, chhotiilayetchi, elaci, ilayechi\nKannada (12): aelakki, ealakki, elaki, elakki, elekki, ilaachi, ilaji, karangi, korangi, yaalakki, yalakki, yelakki\nMalayalam (16): bavula, cariyasamskaravadi, charmmasambhava, cittelam, ela, elakkaya, elam, elattari, elettari, elettaria, kardvi, putika, raputagepinvar, tuti, tuttha, yalum\nMarathi (8): elachi, kardamamv, val-bi, velachi, veldode, velladhode, velloda, velu\nSanskrit (50): Sanskrit CommentsX ala, bahoola, bahula, bhadraila, bhringaparnika, candrabala, candrika, chandrabala, chandrasambhava, chandrika, chhardikaghhna, chhardikaripu, chundruvala, divodbhava, dravidhi, dravidi, ela, elaka, gandhakuti, gandhaphalika, garbhara, gaurangi, kapita, kapotakarnika, kapotavarni, karangi, korangi, kshudraila, ksudraila, kunati, nishkooti, nishkuti, prithhvika, prithweeka, putika, shoetaila, sugandhi, sukshmaila, suksmaila, suksmela, tikshnagandha, triputa, tritisukshmam, truti, trutih, tuti, tuttha, tvachisugandha, upakunchika, vayastha\nTamil (111): aileyakam, aintiram, anji, cakatevam, canitkuti, cantira 1, cantirapalai#, cantirapalai$, cantirapalai@, cantiravikam, cantuti, cirrelam, cirukantukkinam, civakam, cukkipam, cukkumaelam, cukkumam#, cukkumam@, cutacankolakki, cutcanamala, ealam, ela, elacceti, elai, elakaya, elakgai, elakkaai, elakkai, elam, elarici, elikai, ella-kay, emattiravam, eyam, ilancali, ilancalicceti, ilancili#, ilancili@, ilanji, incakicam, incilacceti, incili, iravadi, iravati, ivaravatti, kalindam, kalintam#, kalintam@, kanittam, kanmali, kariyam, kayastam 1, korangi, korankam, koranki, korankiyelam#, korankiyelam@, kulmam 1, kunattai, nallelam, narumpicin, ninrika, niraikavelam, nitiktika 1, nitintam 1, nitkuti, nuti, nutiyelam, pipilu, piriyai, pirocciyatecapattiri, pirutuvikai, piti, pittilam, sittelam, sukkumam, taduvairi, tanta, tatimam, tatuvairi 1, tiraladi, tiralati, tiravati, tiravikam, tiritiver, tiruputa, tudi, tulli, turatti, turuti, turutti#, turutti$, turutti@, turuttiram#, turuttiram@, turuva, turuvati, turuvatti, turuvavelam, tuttam 2, tutti, tuvisam, upakuncam 1, upakuncikai 1, vaccirakantaracam, vekulali, vekulati, vekulatikam, velli, veti, yaydersie\nTelugu (11): aelaki, ela, elaki, elakkaya, korangi, pakkuln, sanayallacci, sannaelaki, sannayelaki, yalakulu, yaylakooloo\nTibetan (2): su-ksme, sug smel",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc9a36679c6be366058571f5b89a9d7e"
+  ],
+  "source_record_ids": [
+    "links-0554",
+    "links-0555",
+    "links-0558",
+    "links-0559"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc9a36679c6be366058571f5b89a9d7e"
+    ],
+    "source_record_ids": [
+      "links-0554",
+      "links-0555",
+      "links-0558",
+      "links-0559"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc9a36679c6be366058571f5b89a9d7e",
+          "Plant Name": "Elettaria cardamomum Maton",
+          "Status": "Found"
+        },
+        "source_plant_name": "Elettaria cardamomum Maton",
+        "source_record_id": "links-0554",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc9a36679c6be366058571f5b89a9d7e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc9a36679c6be366058571f5b89a9d7e",
+          "Plant Name": "Elettaria cardamomum Maton.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Elettaria cardamomum Maton.",
+        "source_record_id": "links-0555",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc9a36679c6be366058571f5b89a9d7e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc9a36679c6be366058571f5b89a9d7e",
+          "Plant Name": "Elettaria cardamomum Maton. Var. major Thw.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Elettaria cardamomum Maton. Var. major Thw.",
+        "source_record_id": "links-0558",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc9a36679c6be366058571f5b89a9d7e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc9a36679c6be366058571f5b89a9d7e",
+          "Plant Name": "Elettaria cardamomum Maton. Var. minor Watt.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Elettaria cardamomum Maton. Var. minor Watt.",
+        "source_record_id": "links-0559",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc9a36679c6be366058571f5b89a9d7e"
+      }
+    ],
+    "source_xplant_id": "dc9a36679c6be366058571f5b89a9d7e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

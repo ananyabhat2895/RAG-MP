@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8d9c1b0b215950c7__systems_of_medicine__001",
+  "plant_id": "plant_8d9c1b0b215950c7",
+  "plant_name": "Aerva lanata Juss.",
+  "botanical_name": "Aerva lanata",
+  "botanical_authority": "(L.) JUSS. EX SCHULT.",
+  "family": "AMARANTHACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk Botanical Synonyms (2) - Achyranthes lanata L. X Full Botanical citation - Achyranthes lanata L.\nSystem of medicine: Sp. pl. 204. 1753; S. Karthikeyan & al.\nSystem of medicine: Flowering Plants of India - Dicots. 1: 69. 2009. Illecebrum lanatum ROXB.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd17f379b080d5226a4174ddbd477a84"
+  ],
+  "source_record_ids": [
+    "links-0637"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd17f379b080d5226a4174ddbd477a84"
+    ],
+    "source_record_ids": [
+      "links-0637"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd17f379b080d5226a4174ddbd477a84",
+          "Plant Name": "Aerva lanata Juss.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aerva lanata Juss.",
+        "source_record_id": "links-0637",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd17f379b080d5226a4174ddbd477a84"
+      }
+    ],
+    "source_xplant_id": "dd17f379b080d5226a4174ddbd477a84",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

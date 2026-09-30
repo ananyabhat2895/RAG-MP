@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d8bd365c9a68551f__botanical_synonyms__001",
+  "plant_id": "plant_d8bd365c9a68551f",
+  "plant_name": "Asteracantha longifolia Nees.",
+  "botanical_name": "Hygrophila schulli",
+  "botanical_authority": "(HAM.) M.R. & S.M. ALMEIDA",
+  "family": "ACANTHACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Asteracantha longifolia (L.) NEES X Full Botanical citation - Asteracantha longifolia (L.) Nees in Wall., Pl. asiat. rar. 3: 90. 1832; S. Karthikeyan & al., Flowering Plants of India - Dicot. 1: 23. 2009. Barleria longifolia L. X Full Botanical citation - Barleria longifolia L., Cent. Pl. II: 22. 1756; S. Karthikeyan & al., Flowering Plants of India - Dicot. 1: 23. 2009. Hygrophila auriculata (SCHUMACH.) HEINE X Full Botanical citation - Hygrophila auriculata (Schumach.) Heine in Kew Bull. 16: 172. 1962; S. Karthikeyan & al., Flowering Plants of India - Dicot. 1: 23. 2009. Hygrophila spinosa T. ANDER. X Full Botanical citation - Hygrophila spinosa T. Anderson in Thwaites, Enum. pl. zeyl. 225. 1860; S. Karthikeyan & al., Flowering Plants of India Dicotyledons 1: 23. 2009.\nSynonym: Asteracantha longifolia (L.) NEES\nSynonym: Barleria longifolia L.\nSynonym: Hygrophila auriculata (SCHUMACH.) HEINE\nSynonym: Hygrophila spinosa T. ANDER.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/da8288e06b3db16072344685f795b14d"
+  ],
+  "source_record_ids": [
+    "links-1062"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/da8288e06b3db16072344685f795b14d"
+    ],
+    "source_record_ids": [
+      "links-1062"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/da8288e06b3db16072344685f795b14d",
+          "Plant Name": "Asteracantha longifolia Nees.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Asteracantha longifolia Nees.",
+        "source_record_id": "links-1062",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/da8288e06b3db16072344685f795b14d"
+      }
+    ],
+    "source_xplant_id": "f2a716233e942c22d7165568a5a1341d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

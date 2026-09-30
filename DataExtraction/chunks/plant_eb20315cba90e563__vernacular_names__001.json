@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_eb20315cba90e563__vernacular_names__001",
+  "plant_id": "plant_eb20315cba90e563",
+  "plant_name": "Ipomoea digitata Linn.",
+  "botanical_name": "Ipomoea mauritiana",
+  "botanical_authority": "JACQ.",
+  "family": "CONVOLVULACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (5): bhilaykand, bhuyikohada, bidarikand, bilai-khand, bilaikand\nKannada (19): bhoochakra gedde, bhoomi chakra gedde, bhoomi chakragadde, bhuja gumbala, bhujagumbala, bhumicakragadde, bhumicakrigadde, bhumichakragadde, bujagumbala, guddagenasu, nadakumbala, nela-kumbala, nelagudda genasu, nelagumbala, nelagummadi, nelakumbala, nelakumbudu, vidaarigadde, vidari\nMalayalam (10): ancilattali, motalkanta, mothalkanta, mutalakkanta, mutalakkilannu, pal-modecca, palmodecca, palmodikka, palmutakku, palmutukku\nMarathi (7): bhooyikohala, bhui-kohala, bhumy-kumvali, doodhbhooyi kohada, hadandaa kaanda, pattana, vidaarikand\nSanskrit (33): Sanskrit CommentsX bhukshmandi, bhumikashmanda, bhumikushmanda, gajavajipriya, gajeshta, gandhaphala, ikshugandha, kroshtri, ksheera-kanda, kshirakhanda, kshirashukla, kshiravalli, kshiravidali, ksiravalli, ksiravidari, mahaveshta, payasvini, shreshtakanda, shrigalika, shukla, sita, svadukanda, svadulata, triparna, vajivallabha, vidali, vidari, vidarika, vrashavalli, vrikshavalli, vrishyakanda, vrishyavallika, vrishyavardhini\nTamil (41): cattivattu, elaiccakitam, itcukantam1, kantapalai1, kappalvallikkilanku, nakattayir, nelli-kumbala, nilaippucini, nilakkaliyanapucani, nilappoosani, nilappucanai, nilappucani, nilappucani@, nilappuchani, nilappucini, nilappusini, nilapusini, nompukayacceti, nompukayam, palmodha kilang, palmodikka, palmodikkay, palmotikka, palmotikkam, palmotikkay, palmudamgi, palmudangi, palmutanki1, palomatikka, phal-modecca, phalmodika, porrani, porranikkoti, puccarkkaraikkilanku, puccarukkaraikkilanku, pucharkkaraikkilangu, pumikucumantam, pumikulmantam, tampiravayaccattumuli, valli, valli 2\nTelugu (25): bhucakragadda, bhuchakragadda, boochakra gadda, chirigummudu, chirugummudu, cirugummudu, devakaanchanamu, devakancanamu, devakanchanamu, devakanjanamu, gummudu, karkaarukamu, karkarukamu, matta-paltiga, mattapaltiga, mettapaalathige, mettapalatige, nallanelagummu, nallanelagummudu, nelagummadi, nelagummudu, nelakumbudu, paalamodikku, palamodikku, palmodikku\nTibetan (2): bi da ri (d), bi tta ra",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/637fda7ad883b696da4f83dfbb28faad",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/47f5ace321b1ada6084eee82a017716f"
+  ],
+  "source_record_ids": [
+    "links-2095",
+    "links-2096"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/637fda7ad883b696da4f83dfbb28faad",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/47f5ace321b1ada6084eee82a017716f"
+    ],
+    "source_record_ids": [
+      "links-2095",
+      "links-2096"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/637fda7ad883b696da4f83dfbb28faad",
+          "Plant Name": "Ipomoea digitata Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ipomoea digitata Linn.",
+        "source_record_id": "links-2095",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/637fda7ad883b696da4f83dfbb28faad"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/47f5ace321b1ada6084eee82a017716f",
+          "Plant Name": "Ipomoea paniculata R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ipomoea paniculata R. Br.",
+        "source_record_id": "links-2096",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/47f5ace321b1ada6084eee82a017716f"
+      }
+    ],
+    "source_xplant_id": "0eea12e18ef517673797af576487de00",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_994f59e3afc8e0da__vernacular_names__001",
+  "plant_id": "plant_994f59e3afc8e0da",
+  "plant_name": "Toddalia asiatica Lam.",
+  "botanical_name": "Toddalia asiatica",
+  "botanical_authority": "(L.) LAM.",
+  "family": "RUTACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): lopez root\nHindi (9): chingatti, dahan, jangli-kali-mirch, jangli-kalimirc, jangli-kalimirch, janglikalimirch, kanc, kanchan, kanj\nKannada (30): dodda kaadu menasu, ilishingi, kaadamenasu, kaadu haaku kaare, kaadu kaake kaare, kaadu menasina gida, kada-hakukare, kadakare, kaduhakukare, kadukare, kadumaraju, kadumenasu, kaypele, kepula, maachi mullu, maacimullu, maashi mullu, machige, macimullu, magiche, mashimullu, mullu maachige, mullu mashi, mullu-mastige, mullumaacige, mullumacige, mullumashige, mullumasige, musimullu, pargiballi\nMalayalam (18): anomochi, kaka-toddali, kakatoddali, kakka-totalli, kakkatoddali, kakkattutali, kakkattuttali, kar, kara, karamullu, kattukarimilaku, kattukarimulaku, kattukurimulaku, mulaka-tani, mulakutali, mulakutanni, totali, tutali\nMarathi (9): borimti, junglikaalimirchi, junglikalimirchi, leemari, limbadi, limri, manger, menger, ranmirvel\nSanskrit (5): Sanskrit CommentsX dahana, kancana, kancanah, kanchana, tiksnaksah\nTamil (30): cankitam, cantikantam, cantiramulikai, cimaikkiccilikkilanku, kaccolam 2, kaccoram, kaccuram 2, kaiccolam, kaiccoram, kandvi, kantapalaci, karppuraver, kattu milaku, kattumilagu, kattumilaku, kentimulam, kiccili 2, kiccilik karanai, kichilikaranai, milagaranai, milagucharanai, milakaranai, milakarani, milakaranti, milaku, milakukaranai, milkaranai, molakarunnay, mulakaranai, mullukkaranai\nTelugu (31): condacashinda, errakasinda, konda kasinda, konda mirapa, konda-kashinda, konda-kasinda-chettu, kondakaasinda, kondakashinda, kondakasinda, kondakasinds, kondamirapu, kondamirepu, merapugandra, minepagandra, mirapa kandra, mirapa-kandra, mirapagandra, mirapakaandra, mirapakanda, mirapakandra, mirapakondra, mulla korinda, mullakorinda, mullamorinda, mullukorinda, vanakaasinda, vanakasinda, varagogu, varakasintha, varra gokiri, varrakashimi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96f20205aea37f5df8b167fbe9761d22"
+  ],
+  "source_record_ids": [
+    "links-0943"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96f20205aea37f5df8b167fbe9761d22"
+    ],
+    "source_record_ids": [
+      "links-0943"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96f20205aea37f5df8b167fbe9761d22",
+          "Plant Name": "Toddalia asiatica Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Toddalia asiatica Lam.",
+        "source_record_id": "links-0943",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96f20205aea37f5df8b167fbe9761d22"
+      }
+    ],
+    "source_xplant_id": "96f20205aea37f5df8b167fbe9761d22",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

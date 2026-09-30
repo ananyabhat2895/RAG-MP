@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_1bee513cf83a9fcb__systems_of_medicine__001",
+  "plant_id": "plant_1bee513cf83a9fcb",
+  "plant_name": "Saussurea lappa C. B. Clarke",
+  "botanical_name": "Saussurea costus",
+  "botanical_authority": "(FALC.) LIPSCH.",
+  "family": "ASTERACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (1) - Saussurea lappa C.B.CL. X Full Botanical citation - Saussurea lappa (Decne.) Sch.-Bip. in Linnaea 19: 331. 1846; P.K. Hajra in P.K. Hajra & al.\nSystem of medicine: Fl. India 12: 196. 1995.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31/xclkon/325db44755404ee6df808902bab3d6d2"
+  ],
+  "source_record_ids": [
+    "links-1141",
+    "links-1142",
+    "links-1143"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31/xclkon/325db44755404ee6df808902bab3d6d2"
+    ],
+    "source_record_ids": [
+      "links-1141",
+      "links-1142",
+      "links-1143"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31/xclkon/325db44755404ee6df808902bab3d6d2",
+          "Plant Name": "Saussurea lappa C. B. Clarke",
+          "Status": "Found"
+        },
+        "source_plant_name": "Saussurea lappa C. B. Clarke",
+        "source_record_id": "links-1141",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31/xclkon/325db44755404ee6df808902bab3d6d2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31/xclkon/325db44755404ee6df808902bab3d6d2",
+          "Plant Name": "Saussurea lappa C. B. Clarke.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Saussurea lappa C. B. Clarke.",
+        "source_record_id": "links-1142",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31/xclkon/325db44755404ee6df808902bab3d6d2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31/xclkon/325db44755404ee6df808902bab3d6d2",
+          "Plant Name": "Saussurea lappa C.B. Clarke.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Saussurea lappa C.B. Clarke.",
+        "source_record_id": "links-1143",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31/xclkon/325db44755404ee6df808902bab3d6d2"
+      }
+    ],
+    "source_xplant_id": "a2699e66d5be442119735e8eff969a31",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

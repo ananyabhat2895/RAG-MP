@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_192e8ddfe6e80af1__images__001",
+  "plant_id": "plant_192e8ddfe6e80af1",
+  "plant_name": "Maranta arundinacea Linn.",
+  "botanical_name": "Maranta arundinacea",
+  "botanical_authority": "L.",
+  "family": "MARANTACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ef3674b851bafc5cc4e79c5ffe69d09"
+  ],
+  "source_record_ids": [
+    "links-1932"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ef3674b851bafc5cc4e79c5ffe69d09"
+    ],
+    "source_record_ids": [
+      "links-1932"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ef3674b851bafc5cc4e79c5ffe69d09",
+          "Plant Name": "Maranta arundinacea Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Maranta arundinacea Linn.",
+        "source_record_id": "links-1932",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ef3674b851bafc5cc4e79c5ffe69d09"
+      }
+    ],
+    "source_xplant_id": "1ef3674b851bafc5cc4e79c5ffe69d09",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

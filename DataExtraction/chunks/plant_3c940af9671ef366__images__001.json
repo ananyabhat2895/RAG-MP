@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_3c940af9671ef366__images__001",
+  "plant_id": "plant_3c940af9671ef366",
+  "plant_name": "Delphinium zalil Aitch & Hensl.",
+  "botanical_name": "Delphinium semibarbatum",
+  "botanical_authority": "BLENERT EX BOISS.",
+  "family": "RANUNCULACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96595a69bde40d42e23be2e7e1c261c7/xclkon/396c50ac42b9ae625f8f9555879368a4"
+  ],
+  "source_record_ids": [
+    "links-1845",
+    "links-1846",
+    "links-1972"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96595a69bde40d42e23be2e7e1c261c7/xclkon/396c50ac42b9ae625f8f9555879368a4"
+    ],
+    "source_record_ids": [
+      "links-1845",
+      "links-1846",
+      "links-1972"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96595a69bde40d42e23be2e7e1c261c7/xclkon/396c50ac42b9ae625f8f9555879368a4",
+          "Plant Name": "Delphinium zalil Aitch & Hensl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Delphinium zalil Aitch & Hensl.",
+        "source_record_id": "links-1845",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96595a69bde40d42e23be2e7e1c261c7/xclkon/396c50ac42b9ae625f8f9555879368a4"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96595a69bde40d42e23be2e7e1c261c7/xclkon/396c50ac42b9ae625f8f9555879368a4",
+          "Plant Name": "Delphinium zalil Aitch. and Hemsl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Delphinium zalil Aitch. and Hemsl.",
+        "source_record_id": "links-1846",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96595a69bde40d42e23be2e7e1c261c7/xclkon/396c50ac42b9ae625f8f9555879368a4"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96595a69bde40d42e23be2e7e1c261c7/xclkon/396c50ac42b9ae625f8f9555879368a4",
+          "Plant Name": "Delphinium Zalil Aitch.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Delphinium Zalil Aitch.",
+        "source_record_id": "links-1972",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96595a69bde40d42e23be2e7e1c261c7/xclkon/396c50ac42b9ae625f8f9555879368a4"
+      }
+    ],
+    "source_xplant_id": "96595a69bde40d42e23be2e7e1c261c7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

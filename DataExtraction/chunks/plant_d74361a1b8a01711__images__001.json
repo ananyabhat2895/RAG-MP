@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d74361a1b8a01711__images__001",
+  "plant_id": "plant_d74361a1b8a01711",
+  "plant_name": "Bridelia retusa Spreng.",
+  "botanical_name": "Bridelia retusa",
+  "botanical_authority": "SPR.",
+  "family": "EUPHORBIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246c1bfc9664c5c7264b7f7e78bdaada"
+  ],
+  "source_record_ids": [
+    "links-0552"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246c1bfc9664c5c7264b7f7e78bdaada"
+    ],
+    "source_record_ids": [
+      "links-0552"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246c1bfc9664c5c7264b7f7e78bdaada",
+          "Plant Name": "Bridelia retusa Spreng.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bridelia retusa Spreng.",
+        "source_record_id": "links-0552",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246c1bfc9664c5c7264b7f7e78bdaada"
+      }
+    ],
+    "source_xplant_id": "246c1bfc9664c5c7264b7f7e78bdaada",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

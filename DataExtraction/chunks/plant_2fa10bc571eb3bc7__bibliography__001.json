@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2fa10bc571eb3bc7__bibliography__001",
+  "plant_id": "plant_2fa10bc571eb3bc7",
+  "plant_name": "Ceratophyllum demersum Linn.",
+  "botanical_name": "Ceratophyllum demersum",
+  "botanical_authority": "L.",
+  "family": "CERATOPHYLLACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: title: Title - Flora of Rajasthan Vol.2\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol. II\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol III\nBibliography entry: title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nBibliography entry: title: Title - Flora of Majuli\nBibliography entry: title: Title - Flora of Gujarat State Vol 2\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - The Flora of Orissa Vol III\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL2\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/882fdbde02cdc497d7a9a621b3dfa0c2"
+  ],
+  "source_record_ids": [
+    "links-1689"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/882fdbde02cdc497d7a9a621b3dfa0c2"
+    ],
+    "source_record_ids": [
+      "links-1689"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/882fdbde02cdc497d7a9a621b3dfa0c2",
+          "Plant Name": "Ceratophyllum demersum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ceratophyllum demersum Linn.",
+        "source_record_id": "links-1689",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/882fdbde02cdc497d7a9a621b3dfa0c2"
+      }
+    ],
+    "source_xplant_id": "882fdbde02cdc497d7a9a621b3dfa0c2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

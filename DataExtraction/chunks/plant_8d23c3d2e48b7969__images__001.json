@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_8d23c3d2e48b7969__images__001",
+  "plant_id": "plant_8d23c3d2e48b7969",
+  "plant_name": "Momordica charantia",
+  "botanical_name": "Momordica charantia",
+  "botanical_authority": "L.",
+  "family": "CUCURBITACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdcb3ce6b2cde8dee6f0b137f8ce0c83"
+  ],
+  "source_record_ids": [
+    "links-0900",
+    "links-0949"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdcb3ce6b2cde8dee6f0b137f8ce0c83"
+    ],
+    "source_record_ids": [
+      "links-0900",
+      "links-0949"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdcb3ce6b2cde8dee6f0b137f8ce0c83",
+          "Plant Name": "Momordica charantia",
+          "Status": "Found"
+        },
+        "source_plant_name": "Momordica charantia",
+        "source_record_id": "links-0900",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdcb3ce6b2cde8dee6f0b137f8ce0c83"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdcb3ce6b2cde8dee6f0b137f8ce0c83",
+          "Plant Name": "Momordica charantia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Momordica charantia Linn.",
+        "source_record_id": "links-0949",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdcb3ce6b2cde8dee6f0b137f8ce0c83"
+      }
+    ],
+    "source_xplant_id": "bdcb3ce6b2cde8dee6f0b137f8ce0c83",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_c41b0ba527e8d0d8__bibliography__001",
+  "plant_id": "plant_c41b0ba527e8d0d8",
+  "plant_name": "Inula racemosa Hook f.",
+  "botanical_name": "Inula racemosa",
+  "botanical_authority": "HOOK. F.",
+  "family": "ASTERACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - DR.P.N.V.KURUP, DR.V.N.K.RAMADAS & JOSHI,P; title: Title - A HANDBOOK OF MEDICINAL PLANTS\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: title: Title - Medicinal and Aromatic Plants of Himachal Pradesh\nBibliography entry: title: Title - FLORA OF INDIA VOL 13\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol II",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4595d7db5e25450b6071b36ba81e5af3"
+  ],
+  "source_record_ids": [
+    "links-1565",
+    "links-1566",
+    "links-1605"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4595d7db5e25450b6071b36ba81e5af3"
+    ],
+    "source_record_ids": [
+      "links-1565",
+      "links-1566",
+      "links-1605"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4595d7db5e25450b6071b36ba81e5af3",
+          "Plant Name": "Inula racemosa Hook f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Inula racemosa Hook f.",
+        "source_record_id": "links-1565",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4595d7db5e25450b6071b36ba81e5af3"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4595d7db5e25450b6071b36ba81e5af3",
+          "Plant Name": "Inula racemosa Hook.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Inula racemosa Hook.f.",
+        "source_record_id": "links-1566",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4595d7db5e25450b6071b36ba81e5af3"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4595d7db5e25450b6071b36ba81e5af3",
+          "Plant Name": "Inula racemosa Hook.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Inula racemosa Hook.",
+        "source_record_id": "links-1605",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4595d7db5e25450b6071b36ba81e5af3"
+      }
+    ],
+    "source_xplant_id": "4595d7db5e25450b6071b36ba81e5af3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

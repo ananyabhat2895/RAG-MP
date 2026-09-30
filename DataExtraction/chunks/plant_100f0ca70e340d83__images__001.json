@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_100f0ca70e340d83__images__001",
+  "plant_id": "plant_100f0ca70e340d83",
+  "plant_name": "Capsicum annuum Linn.",
+  "botanical_name": "Capsicum annuum",
+  "botanical_authority": "L.",
+  "family": "SOLANACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51ad80cf55dd613f3375e82a18b3d777"
+  ],
+  "source_record_ids": [
+    "links-1173"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51ad80cf55dd613f3375e82a18b3d777"
+    ],
+    "source_record_ids": [
+      "links-1173"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51ad80cf55dd613f3375e82a18b3d777",
+          "Plant Name": "Capsicum annuum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Capsicum annuum Linn.",
+        "source_record_id": "links-1173",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51ad80cf55dd613f3375e82a18b3d777"
+      }
+    ],
+    "source_xplant_id": "51ad80cf55dd613f3375e82a18b3d777",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

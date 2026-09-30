@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_50a0ebd00b808244__distribution__001",
+  "plant_id": "plant_50a0ebd00b808244",
+  "plant_name": "Allium sativum Linn.",
+  "botanical_name": "Allium sativum",
+  "botanical_authority": "L.",
+  "family": "LILIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)\nDistribution entry: author: Author - Dr. Narain Singh Chauhan; distribution: Distribution; title: Title - Medicinal and Aromatic Plants of Himachal Pradesh\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol III\nDistribution entry: author: Author - K.M. Matthew; distribution: Distribution; title: Title - The Flora of the Palni Hills Vol-3\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ba63dffa8d6ef008723ec357591e4ff"
+  ],
+  "source_record_ids": [
+    "links-1175"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ba63dffa8d6ef008723ec357591e4ff"
+    ],
+    "source_record_ids": [
+      "links-1175"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ba63dffa8d6ef008723ec357591e4ff",
+          "Plant Name": "Allium sativum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Allium sativum Linn.",
+        "source_record_id": "links-1175",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ba63dffa8d6ef008723ec357591e4ff"
+      }
+    ],
+    "source_xplant_id": "9ba63dffa8d6ef008723ec357591e4ff",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

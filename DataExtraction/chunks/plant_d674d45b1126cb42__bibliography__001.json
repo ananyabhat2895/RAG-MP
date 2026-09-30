@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d674d45b1126cb42__bibliography__001",
+  "plant_id": "plant_d674d45b1126cb42",
+  "plant_name": "Wrightia tomentosa Roem. & Schult.",
+  "botanical_name": "Wrightia arborea",
+  "botanical_authority": "(DENNST.) MABB.",
+  "family": "APOCYNACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - V.V. SIVARAJAN AND INDIRA BALACHANDRAN; title: Title - AYURVEDIC DRUGS AND THEIR PLANT SOURCES\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - ANONYMOUS; title: Title - PHARMACOGNOSY OF AYURVEDIC DRUGS NOS. 01 & 02\nBibliography entry: title: Title - Flora of Rajasthan Vol.2\nBibliography entry: title: Title - Flora of Gujarat State Vol 1\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol. II\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol II\nBibliography entry: title: Title - FOREST FLORA OF MEGHALAYA VOL 2\nBibliography entry: title: Title - A Forest Flora for Kumaon\nBibliography entry: title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - The Flora of Orissa Vol II\nBibliography entry: title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b761ad76706c434da7b7b92f8f55dc3d/xclkon/a53397a19c4b7e6679fd94bf82fb372d"
+  ],
+  "source_record_ids": [
+    "links-1149"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b761ad76706c434da7b7b92f8f55dc3d/xclkon/a53397a19c4b7e6679fd94bf82fb372d"
+    ],
+    "source_record_ids": [
+      "links-1149"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b761ad76706c434da7b7b92f8f55dc3d/xclkon/a53397a19c4b7e6679fd94bf82fb372d",
+          "Plant Name": "Wrightia tomentosa Roem. & Schult.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Wrightia tomentosa Roem. & Schult.",
+        "source_record_id": "links-1149",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b761ad76706c434da7b7b92f8f55dc3d/xclkon/a53397a19c4b7e6679fd94bf82fb372d"
+      }
+    ],
+    "source_xplant_id": "b761ad76706c434da7b7b92f8f55dc3d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

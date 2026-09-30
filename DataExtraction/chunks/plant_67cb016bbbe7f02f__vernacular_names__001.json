@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_67cb016bbbe7f02f__vernacular_names__001",
+  "plant_id": "plant_67cb016bbbe7f02f",
+  "plant_name": "Scirpus tuberosus Desf.",
+  "botanical_name": "Scirpus tuberosus",
+  "botanical_authority": "DESF.",
+  "family": "CYPERACEAE",
+  "section": "vernacular_names",
+  "content": "Sanskrit (1): Sanskrit CommentsX rajakaseruka",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d33135d20a166a3c00dffa9074c891b"
+  ],
+  "source_record_ids": [
+    "links-1002"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d33135d20a166a3c00dffa9074c891b"
+    ],
+    "source_record_ids": [
+      "links-1002"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d33135d20a166a3c00dffa9074c891b",
+          "Plant Name": "Scirpus tuberosus Desf.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Scirpus tuberosus Desf.",
+        "source_record_id": "links-1002",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d33135d20a166a3c00dffa9074c891b"
+      }
+    ],
+    "source_xplant_id": "6d33135d20a166a3c00dffa9074c891b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

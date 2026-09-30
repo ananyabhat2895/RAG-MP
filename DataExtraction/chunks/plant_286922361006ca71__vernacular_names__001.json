@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_286922361006ca71__vernacular_names__001",
+  "plant_id": "plant_286922361006ca71",
+  "plant_name": "Acorus calamus Linn.",
+  "botanical_name": "Acorus calamus",
+  "botanical_authority": "L.",
+  "family": "ARACEAE",
+  "section": "vernacular_names",
+  "content": "English (7): calamus, flagroot, sweet cane, sweet flag, sweet grass, sweet rush, sweetroot\nHindi (13): bacc, bach, baj, bajai, barian, barin, beach, ghorbach, gora-bach, gorbacc, gorbach, safed bach, vasa\nKannada (7): athibaje, baje, baje gida, dagade, kavana, naaru baeru, vasa\nMalayalam (6): vaembu, vashampa, vashanapa, vayambhu, vayambu, vayampu\nMarathi (1): vekhand\nSanskrit (33): Sanskrit CommentsX bacha, bhadra, bhutanashini, bodhaniya, galani, golomi, haimavati, haimdvati, ikshuparni, jalaja, jatila, kanga, kshudrapatri, mangalya, masha, rakshoghni, sadgrantha, schleshmaghni, shadagrantha, shadgrantha, shadgranthagolomi, shataparvika, smarani, tikshna, tikshnapatra, ugragandha, ugragandhaha, ugragranthi, vaca, vacha, vacha-ugra-gandhaha, vayambu, vijaya\nTamil (110): akaraveci, akkitam, arpakeci, arpakecu, ativacam, attakam, avatampati@, ayakam1, ayamavati, ayavaci, ayavari2, ayavariti2, cakatai, camanam, canakantakam, canakantam, canakappulitam, canattanam, cantankotan, cantatikam, capinakam, capinam#, capinam@, cataikantam, cataikkantam, cataikkentam1, catakantam, catakkotan, catakkotanam, catinam2, catiyattakam, cattukantam, cavukanti, cetilolam, cirakakkoni#, cirakakkoni@, cirakkoli#, cirakkoli@, cirakoni1, citakentam, civayoki, cukkulakantam, cutuvan, emavati, imavari, iraccollan, irusimulam, irutimulam, kantakapasanam, kantam6, kantamacceti, kantamam, kapatakkatti, kapatamitti, kayamalaki, kayamalakikam, kayamavati, kayimavati, kayiravati, kiravanattukkati, kulomicai, matali, mattiri, mattirikam, mokai, motai, mukkikam, mukkil, napittari, narattam2, narram, nattam, nattuvacampu, percollamaruntu, percollan, petiyaikkattumuli, petiyaikkattumulikai, peyarcollan, peyarcollatatu, pillaimaruntu, pillaivalarppan, puccikolli, pullai-valathi, rusimulam, ukkirakantai, ukkirakantam#, ukkirakantam3, ukkirakantam@, ukkirakanti1, ukkirakentai2, ukkirakentam2, ukkiram2, ukkiri, umiyal, uraippan, uromakkilanku, vaca, vacai, vacampu, vacar, vacavaci, vasamboo, vasambu, vasampu, vashambu, vekuvacamutaiyayoki, vekuvacamutaiyoki, veni, verkkattai, vicamattiri\nTelugu (3): vadaja, vasa, wasa\nTibetan (2): su dag, su-dag\nUrdu (4): bach, bacha, bachh, waj-e-turki",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c42343e33282874081eaac5c354dc2e"
+  ],
+  "source_record_ids": [
+    "links-2034"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c42343e33282874081eaac5c354dc2e"
+    ],
+    "source_record_ids": [
+      "links-2034"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c42343e33282874081eaac5c354dc2e",
+          "Plant Name": "Acorus calamus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Acorus calamus Linn.",
+        "source_record_id": "links-2034",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c42343e33282874081eaac5c354dc2e"
+      }
+    ],
+    "source_xplant_id": "4c42343e33282874081eaac5c354dc2e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

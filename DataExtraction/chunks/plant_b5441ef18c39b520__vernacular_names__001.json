@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_b5441ef18c39b520__vernacular_names__001",
+  "plant_id": "plant_b5441ef18c39b520",
+  "plant_name": "Desmodium gangeticum DC.",
+  "botanical_name": "Desmodium gangeticum",
+  "botanical_authority": "(L.) DC.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (9): chirpat, chuppa, salpalnu, salpan, salpani, salun, salvan, salwan, sarivan\nKannada (10): doddeta, kolaku naaru, kolakunaaru, kulakunaaru, moorelehonne, murele honne, murelehonne, muruluboane, saleparni, shalaparni\nMalayalam (2): orila, pullati\nMarathi (6): darh, ranbhal, saalparni, salparni, salvan, salwan\nSanskrit (52): Sanskrit CommentsX amsumati, anshumati, ansumati, astamati, atiguha, daye, devi, dhruva, dirghamoola, dirghamula, dirghanghni, dirghapatra, dirghapavrihiparnika, ekamula, guha, kitavinashini, kumuda, nishchala, parni, patini, pivari, prsniparni, prthakparni, salaparni, saliparni, saliparnini, sarvanukarini, saumya, shalani, shalaparni, shalidala, shaliparni, shaliparnini, shalipatri, shophaghni, shothaghni, shubhapatrika, sthira, subhagam, sudala, sudha, suparni, suparnika, supatri, surupa, tanvi, trika, triparni, vasumanti, vataghni, vidari, vidarigandha\nTamil (7): cirupullati, civamatu2, moovilai, orila, pulladi, pullati, sirupulladi\nTelugu (13): getanaramu, gitanaram, githanaram, kaul munna, kola panna, kolakuponna, kolakuporna, nalla-nelapanki, nallanelapariki, nallanelapriki, peddaantintha, peddanthrinta, peddantrinta\nTibetan (4): sa la pa rn (d), sa la pa rni (d), sa la par ni, sa la phar ni (p)\nUrdu (2): shalwan, spal parni",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/71688619ee80ca1586b852585d848fdf"
+  ],
+  "source_record_ids": [
+    "links-0122",
+    "links-1697"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/71688619ee80ca1586b852585d848fdf"
+    ],
+    "source_record_ids": [
+      "links-0122",
+      "links-1697"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/71688619ee80ca1586b852585d848fdf",
+          "Plant Name": "Desmodium gangeticum DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Desmodium gangeticum DC.",
+        "source_record_id": "links-0122",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/71688619ee80ca1586b852585d848fdf"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/71688619ee80ca1586b852585d848fdf",
+          "Plant Name": "Desmodium gangeticum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Desmodium gangeticum",
+        "source_record_id": "links-1697",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/71688619ee80ca1586b852585d848fdf"
+      }
+    ],
+    "source_xplant_id": "71688619ee80ca1586b852585d848fdf",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_03ba41f01c8c191d__identification__001",
+  "plant_id": "plant_03ba41f01c8c191d",
+  "plant_name": "Cocculus hirsutus (Linn.) Diels.",
+  "botanical_name": "Cocculus hirsutus",
+  "botanical_authority": "(L.) DIELS",
+  "family": "MENISPERMACEAE",
+  "section": "identification",
+  "content": "Plant name: Cocculus hirsutus (Linn.) Diels. Botanical name: Cocculus hirsutus Botanical authority: (L.) DIELS Family: MENISPERMACEAE Source xplant ID: b74787dcd245410c2572109ed4355418",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b74787dcd245410c2572109ed4355418"
+  ],
+  "source_record_ids": [
+    "links-0442"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b74787dcd245410c2572109ed4355418"
+    ],
+    "source_record_ids": [
+      "links-0442"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b74787dcd245410c2572109ed4355418",
+          "Plant Name": "Cocculus hirsutus (Linn.) Diels.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cocculus hirsutus (Linn.) Diels.",
+        "source_record_id": "links-0442",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b74787dcd245410c2572109ed4355418"
+      }
+    ],
+    "source_xplant_id": "b74787dcd245410c2572109ed4355418",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

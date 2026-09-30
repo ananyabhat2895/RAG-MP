@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5c42f2323c6602b9__vernacular_names__001",
+  "plant_id": "plant_5c42f2323c6602b9",
+  "plant_name": "Murraya koenigii Spreng.",
+  "botanical_name": "Murraya koenigii",
+  "botanical_authority": "(L.) SPR.",
+  "family": "RUTACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): curry leaf\nHindi (16): bursunga, gadhelu, gadhelu/gandla, gandela, gandhela, gandhla, gandla, gani, ganuhilu, harri, karaypak, kathnim, katnim, kudia-nim, mitha-nim, mithanim\nKannada (15): besoppu, gandha baevu, gandha bevu, gandhabevu, kakibevu, karabeaevu, karbaevu, karepak, kari-bevinagida, karibaevina mara, karibaevu, karibevana, karibevu, karivebu, oggarane yele mara\nMalayalam (14): kareapela, karepak, kari-bepau, karibepou, karivaepu, kariveppu, karivepu, kariyapala, karrayapela, karu-veppa, karuvepilai, karuveppu, maricangam, mirsingam\nMarathi (15): gandha, gandla, godanimb, jhirang, jirani, kadhee-nimba, kadhi-nim, kadhianimba, kadi-nimb, kadiben, karepacha, karhinimb, karipat, kudianim, puspala\nSanskrit (25): Sanskrit CommentsX alakavhaya, chhardighna, girinimba, kadarya, kaidarya, kaidaryah, kaitarya, kalasaka, kalasakah, krishnanimba, krishnapatabhinimba, kristnanimba, kristnanimbao, mahanimba, maharishta, nimba-patram, nimba-vrkshaha, nimbapatra, priyasala, ra, raman, shuklasara, surabhi, surabhi-nimbu, varatikta\nTamil (24): enneykkarai 1, karaway pillay, kari-vembu, karivembu, karivempu, kariveppilai, kariveppilaimaram, kariyanimpam, kariyapilai, kariyapilai#, kariyapilai@, karu-vembu, karu-veppilai, karupalai, karuppilai 1, karuvembu, karuvempu, karuveppilai, karuveppu, kattuveppilai, kattuveppilai 1, nattukkariveppilai, uluvavikacceti, uluvavikam\nTelugu (18): kaliama, karempaku, karepak, karepaku, karepeku, karevepa, kari-vepa-chettu, karimpaku, karivaepamu, karivapaku, karivempu, karivemu, karivepa, karivepaku, karivepamu, karrivaympakoo, karsepak, karuvepaku",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af44637aa5f0732b104e377cf264567e"
+  ],
+  "source_record_ids": [
+    "links-0832"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af44637aa5f0732b104e377cf264567e"
+    ],
+    "source_record_ids": [
+      "links-0832"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af44637aa5f0732b104e377cf264567e",
+          "Plant Name": "Murraya koenigii Spreng.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Murraya koenigii Spreng.",
+        "source_record_id": "links-0832",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af44637aa5f0732b104e377cf264567e"
+      }
+    ],
+    "source_xplant_id": "af44637aa5f0732b104e377cf264567e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

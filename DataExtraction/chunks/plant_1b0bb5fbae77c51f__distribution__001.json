@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_1b0bb5fbae77c51f__distribution__001",
+  "plant_id": "plant_1b0bb5fbae77c51f",
+  "plant_name": "Nigella sativa",
+  "botanical_name": "Nigella sativa",
+  "botanical_authority": "L.",
+  "family": "RANUNCULACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - BSI Scientist; distribution: Distribution; title: Title - Flora of West Bengal Vol 1\nDistribution entry: author: Author - ED. B.D. SHARMA & M.SANJAPPA , N.P. BALAKRISHNAN; distribution: Distribution; title: Title - FLORA OF INDIA VOL 1\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol I\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed0b15f829b92995cea577af6486bd1f"
+  ],
+  "source_record_ids": [
+    "links-0864",
+    "links-0952"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed0b15f829b92995cea577af6486bd1f"
+    ],
+    "source_record_ids": [
+      "links-0864",
+      "links-0952"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed0b15f829b92995cea577af6486bd1f",
+          "Plant Name": "Nigella sativa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Nigella sativa",
+        "source_record_id": "links-0864",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed0b15f829b92995cea577af6486bd1f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed0b15f829b92995cea577af6486bd1f",
+          "Plant Name": "Nigella sativa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Nigella sativa Linn.",
+        "source_record_id": "links-0952",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed0b15f829b92995cea577af6486bd1f"
+      }
+    ],
+    "source_xplant_id": "ed0b15f829b92995cea577af6486bd1f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

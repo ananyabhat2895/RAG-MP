@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_4f5b20d1a56051e6__vernacular_names__001",
+  "plant_id": "plant_4f5b20d1a56051e6",
+  "plant_name": "Sarcostemma acidum Voigt.",
+  "botanical_name": "Sarcostemma acidum",
+  "botanical_authority": "VOIGT",
+  "family": "ASCLEPIADACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (3): soma, somalata, somlata\nKannada (20): braahmi, brahmi, haalu kalli, hambu balli, hambu kalli, hambukalli, hambukkalli, haralu valla, jolugalli, kallihambu, konana balli, konana hambu, soma lathe, somaballi, somalata, somalate, somalatha, vasukaanthi, vasukaanti, vasukanti\nMalayalam (5): somalata, somam, somavallari, somavalli, vayastha\nMarathi (4): raanashera, ransher, ransheryel, somyel\nSanskrit (19): Sanskrit CommentsX apatravallika, chandravallari, dhanurlata, dvijapriya, gulmavalli, indulekha, mahagulma, mahisavalli, padmakashtha, soma, somakshiri, somalata, somarha, somavalli, somavallika, soumya, yajnanga, yajnashreshtha, yajnavalli\nTamil (23): comam 2, cori 2, erali, eralikkoti, inavakkiram 2, kalippukkalli, kodikalli, kodikkalli, kompukkalli, kondapala, kotikkalli, kotivirutcam, kunmavalli, palini 1, palukkulcutankatti, parpati, parpatikkoti, somam, somamum, titcani, vatanacani 2@, vatanacani@, virocani 2\nTelugu (32): aaku jemudu, aku jemudu, dustappa tiga, dustappatiga, eripulinga, jigatshumoodoo, kaadujemmudu, kada jhemudu, kadujemudu, konda pala, kondapaala, kondapala, padmakaashtamu, padmakashtam, padmakashtamu, palmakasturi, pandri jemmudu, pollatige, pula kada, pulla jemmudu, pulla jemudu, pullajemudu, pullathige, pullatige, somalata, somalatha, somamu, teega jemudu, theegajamudu, theegajemmudu, tigatshomoodoo, tigejemudu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855/xclkon/b401eba3bb6e9d125adf1db079e27366"
+  ],
+  "source_record_ids": [
+    "links-1836",
+    "links-1838"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855/xclkon/b401eba3bb6e9d125adf1db079e27366"
+    ],
+    "source_record_ids": [
+      "links-1836",
+      "links-1838"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855",
+          "Plant Name": "Sarcostemma acidum Voigt.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sarcostemma acidum Voigt.",
+        "source_record_id": "links-1836",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855/xclkon/b401eba3bb6e9d125adf1db079e27366",
+          "Plant Name": "Sarcostemma Brevistigma W. & A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sarcostemma Brevistigma W. & A.",
+        "source_record_id": "links-1838",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855/xclkon/b401eba3bb6e9d125adf1db079e27366"
+      }
+    ],
+    "source_xplant_id": "d9f128d8706fee68abedcdb44f709855",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

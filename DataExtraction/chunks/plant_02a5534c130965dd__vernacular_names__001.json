@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_02a5534c130965dd__vernacular_names__001",
+  "plant_id": "plant_02a5534c130965dd",
+  "plant_name": "Cucumis trigonus Roxb.",
+  "botanical_name": "Cucumis pseudo-colocynthi",
+  "botanical_authority": "ROYLE",
+  "family": "CUCURBITACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (12): bhakura, bishlambhi, bislambhi, bislambi, bislombi, gorakhakakadi, jangal indrayan, jangli-inda-rayan, jangli-indarayan, jangliindrayan, janglindrayan, sengha\nKannada (1): hal-mekki\nMalayalam (2): kattuvellari, pekkummatti\nMarathi (6): karit, karita, katvel, shendada, takamake, takmaki\nSanskrit (26): Sanskrit CommentsX bahuphalla, chitra, chitraphala, chitravalli, cirbhatah, devi, garakshivriksha, girmi, godumba, indravaruni, indrayan, kapilakshi, katphala, kumbhasi, laghuchirbhitta, maruja, mrgakshi, mrigachirbhitta, mrigadani, mrigakshi, mrigervaru, mrigeshana, pathya, schvetapushpa, vichitra, vishala\nTamil (16): cukkankay, hatt-ttumatti, kattu tummatti, kattu-tumatti, kattut-tumatti, kattuthumatti, kattuttumatti, kattuttummattikkay, kattutummatti, kommatti, kommattikkay, pai-surai, thummittikai, tummatti, tummattikkoti, tummuti\nTelugu (13): adavi budama, adavi-puch-cha, adavi-puchcha, adavipuchcha, kodi budama, kodibudama, kodibudinga, kodinella, nalla budama, nallabudama, nallabudinga, pambudinga, pulcha",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/282641155449618e266d50cc146a9e35/xclkon/98967d8b51a93ffa11ad42d30567fe3a"
+  ],
+  "source_record_ids": [
+    "links-0744"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/282641155449618e266d50cc146a9e35/xclkon/98967d8b51a93ffa11ad42d30567fe3a"
+    ],
+    "source_record_ids": [
+      "links-0744"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/282641155449618e266d50cc146a9e35/xclkon/98967d8b51a93ffa11ad42d30567fe3a",
+          "Plant Name": "Cucumis trigonus Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cucumis trigonus Roxb.",
+        "source_record_id": "links-0744",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/282641155449618e266d50cc146a9e35/xclkon/98967d8b51a93ffa11ad42d30567fe3a"
+      }
+    ],
+    "source_xplant_id": "282641155449618e266d50cc146a9e35",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

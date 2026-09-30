@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_6cf740b550df0ed9__vernacular_names__001",
+  "plant_id": "plant_6cf740b550df0ed9",
+  "plant_name": "Cassia absus Linn.",
+  "botanical_name": "Cassia absus",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (10): banar, bankultthi, caksu, chaaksee, chaksi, chaksu, chakut, cheaksu, chiksi, chimas\nKannada (12): adavihuli, chaksu, cheemaara, elehuri, haalu beeja, kaadu huliga, kaadu hurali, kanbelaga, kanna beeja, kannu kutukana beeja, kannu kutukina beeja, kulathanjana\nMalayalam (3): karin-kolla, karinkilla, karinkolla\nMarathi (2): chamada, kankuti\nSanskrit (17): Sanskrit CommentsX arangakulitthika, aranyakulattha, aranyakulatthika, caksusya, chakshushya, chipita, drikaprasada, kananottha, kulani, kulattha, kulatthika, kulmasha, kumbhakarini, kurubilwaka, lochanahita, vanyakulattha, vanyakulatthah\nTamil (62): atavikanam, ayantiramakam, cannita, catacciyankam, catavu, catcuki, cimpikam 3, cintatiyam, citacamiyam, civappirotta, edikkol, idi kollu, idikkol, itikkol, itikkollucceti, itukol, kaattukollu, kacakakkollu, kacakam, kacappukkol, kanam, karkkol, karkkoli 2, karkkolini, karkkolinicceti, karkoli 2, karpurattotiyam, karum, karunganam, karunkanam, karunkol, karunkollu, karuppukkol, karuppukkollu, kattu-k-kollu, kattukko, kattukkol, kattukkollu, kattukol, katuputukollu, katuputukollucceti, kulattikai, kulattikalan, kulavilo, kummatari, kuttukkol, malapaka, mulaipalyirai, mulaippal vitai, mulaippal-virai, mulaippalavirai, mulaippalvirai, mulaippalvitai, narkantaparpamakki, peykkollu, pirottattam, tekacitti, uppitanku, uppitankucceti, vaccatakacceti, vaccatakam, vanakulali\nTelugu (4): cahnupalavithulu, chanupala vittulu, chanupala-vittulu, chanupalavittulu\nTibetan (2): rgya snag nag po, rgya sran nag po (d)\nUrdu (1): chaksu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/acbc05d9fef4a6e8501f55ec4323d5b8"
+  ],
+  "source_record_ids": [
+    "links-0400"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/acbc05d9fef4a6e8501f55ec4323d5b8"
+    ],
+    "source_record_ids": [
+      "links-0400"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/acbc05d9fef4a6e8501f55ec4323d5b8",
+          "Plant Name": "Cassia absus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cassia absus Linn.",
+        "source_record_id": "links-0400",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/acbc05d9fef4a6e8501f55ec4323d5b8"
+      }
+    ],
+    "source_xplant_id": "acbc05d9fef4a6e8501f55ec4323d5b8",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

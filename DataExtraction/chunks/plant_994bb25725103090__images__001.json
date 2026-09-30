@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_994bb25725103090__images__001",
+  "plant_id": "plant_994bb25725103090",
+  "plant_name": "Nicotiana tabacum Linn.",
+  "botanical_name": "Nicotiana tabacum",
+  "botanical_authority": "L.",
+  "family": "SOLANACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/804efeea6d3ce587dd4d1428888dcca0"
+  ],
+  "source_record_ids": [
+    "links-1923"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/804efeea6d3ce587dd4d1428888dcca0"
+    ],
+    "source_record_ids": [
+      "links-1923"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/804efeea6d3ce587dd4d1428888dcca0",
+          "Plant Name": "Nicotiana tabacum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Nicotiana tabacum Linn.",
+        "source_record_id": "links-1923",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/804efeea6d3ce587dd4d1428888dcca0"
+      }
+    ],
+    "source_xplant_id": "804efeea6d3ce587dd4d1428888dcca0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

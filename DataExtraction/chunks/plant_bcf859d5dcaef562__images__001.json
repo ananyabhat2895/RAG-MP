@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_bcf859d5dcaef562__images__001",
+  "plant_id": "plant_bcf859d5dcaef562",
+  "plant_name": "Syzygium aromaticum (Linn.) Merr. & L.M.Perry.",
+  "botanical_name": "Syzygium aromaticum",
+  "botanical_authority": "(L.) MERRILL & PERRY",
+  "family": "MYRTACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bce5381d0e29d38670508eacc491b6fd"
+  ],
+  "source_record_ids": [
+    "links-0691",
+    "links-1184",
+    "links-1185"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bce5381d0e29d38670508eacc491b6fd"
+    ],
+    "source_record_ids": [
+      "links-0691",
+      "links-1184",
+      "links-1185"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bce5381d0e29d38670508eacc491b6fd",
+          "Plant Name": "Syzygium aromaticum (Linn.) Merr. & L.M.Perry.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Syzygium aromaticum (Linn.) Merr. & L.M.Perry.",
+        "source_record_id": "links-0691",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bce5381d0e29d38670508eacc491b6fd"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bce5381d0e29d38670508eacc491b6fd",
+          "Plant Name": "Syzygium aromaticum (Linn.) Merr. & L.M. Perry",
+          "Status": "Found"
+        },
+        "source_plant_name": "Syzygium aromaticum (Linn.) Merr. & L.M. Perry",
+        "source_record_id": "links-1184",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bce5381d0e29d38670508eacc491b6fd"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bce5381d0e29d38670508eacc491b6fd",
+          "Plant Name": "Syzygium aromaticum (Linn.) Merr. & Per.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Syzygium aromaticum (Linn.) Merr. & Per.",
+        "source_record_id": "links-1185",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bce5381d0e29d38670508eacc491b6fd"
+      }
+    ],
+    "source_xplant_id": "bce5381d0e29d38670508eacc491b6fd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

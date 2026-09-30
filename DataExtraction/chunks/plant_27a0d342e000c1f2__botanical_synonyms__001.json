@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_27a0d342e000c1f2__botanical_synonyms__001",
+  "plant_id": "plant_27a0d342e000c1f2",
+  "plant_name": "Selinum tenuifolium Wall.",
+  "botanical_name": "Selinum candollei",
+  "botanical_authority": "DC.",
+  "family": "APIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Selinum tenuifolium WALL. EX DC. X Full Botanical citation - Selinum tenuifolium DC., Prodr. 4: 181. 1830 non Salisb., 1796; S. Karthikeyan & al., Flowering Plants of India - Dicots. 1: 122. 2009.\nSynonym: Selinum tenuifolium WALL. EX DC.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/141928dd4d61e6e1d1544843fb482794/xclkon/ecd10a28a930f36cb01f655b0829a3b7"
+  ],
+  "source_record_ids": [
+    "links-1311"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/141928dd4d61e6e1d1544843fb482794/xclkon/ecd10a28a930f36cb01f655b0829a3b7"
+    ],
+    "source_record_ids": [
+      "links-1311"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/141928dd4d61e6e1d1544843fb482794/xclkon/ecd10a28a930f36cb01f655b0829a3b7",
+          "Plant Name": "Selinum tenuifolium Wall.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Selinum tenuifolium Wall.",
+        "source_record_id": "links-1311",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/141928dd4d61e6e1d1544843fb482794/xclkon/ecd10a28a930f36cb01f655b0829a3b7"
+      }
+    ],
+    "source_xplant_id": "141928dd4d61e6e1d1544843fb482794",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

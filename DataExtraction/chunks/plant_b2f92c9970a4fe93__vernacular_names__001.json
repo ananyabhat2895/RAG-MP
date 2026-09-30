@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b2f92c9970a4fe93__vernacular_names__001",
+  "plant_id": "plant_b2f92c9970a4fe93",
+  "plant_name": "Indigofera tinctoria Linn.",
+  "botanical_name": "Indigofera tinctoria",
+  "botanical_authority": "L.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): black henna\nHindi (7): gouli, lil, neel, nil, nil-ka-jhar, nil-ka-per, nili\nKannada (16): ajara, ajura, anjooraneeli, bangaali neeli, hennu neeli, hennuneeli, hennunili, kare neeli, mahaaneeli, neeli, neeli gida, nili, nili-gida, olle neeli, ollenili, rajani\nMalayalam (14): amari, amen, ameri, avari, dronica, dronika, gnymina, grymina, guli, madhuparnika, madhuparnnika, nilam, nili, ranjani\nMarathi (6): gulee, nali, neela, neeli, nili, nuli\nSanskrit (49): Sanskrit CommentsX akika, anjanakesika, asita, bhadra, bharavahi, charatika, dola, dronika, duli, dulika, eshi, gandhapushpa, gandhapushpi, gramina, k, kala, klitakika, kutsala, mahabala, mahaphala, mandhuparnika, meghavarna, mochakrishna, neela, neelinee, nila, nilam, nilapushpika, nilapuspa, nilavrikshaha, nili, nilika, nilini, rangapatri, rangapushpi, ranjani, ranjini, sarada, shodhini, shyamalika, sriphali, sthiraraga, sthiraranga, tuli, tuni, tuttha, vijaya, vrintika, vyanjankeshi\nTamil (115): acitai, acitam, acotaki, acotam, alampokki, alampokkicceti, alatatai, alattatai, ancanam, arrippuracatani, arrumarokamnikki, asidai, attippuracatani, attipuracatani, attipurashadam, avari, aviri, avuri, avuri ilai, avuriver, avuriver-t-tol, avuriyilai, cacayapakam, caiver, calikkanni, cantatakacceti, cantatakam, cantatam, caracam, chamundi, cimmai, cirupairikacceti, citavuri, ilancini, ilancinicceti, iracani#, iracani@, irancani, iranci, irasani, kalakacacceti, kalakacam, kalakam 1, kalakantaki, kalam 1, kannenci, kantaputpai, kantaputpam 1, karundoli, karuntoli, karuntolicceti, kasturinili, kasturinilicceti, katurakomatai, kavi 1, keci, kicapatikacceti, kicapatikam, kilocakacceti, kilocakam, kiramanai, kolli 1, kurankavacceti, kurankavam, kurcalai, madubarunigai, matupanni, matuparinikai, matuparnikai, matuparunikai, matuparunikaicceti, mekattoniyan, mekavaranai, mekavaranaicceti, mekavarnanai, mekavarunai@, mocai 1, mocaicceti, nancumuriccan 1, nancumurittan 1, neela kashunji, neeli, neelum, nil 1, nilakkali, nilam, nilamaruntu#, nilamaruntu@, nilaputpam 1, nilaputpikai 1, nili, nili avuri, nili-maram, nilicceti, niraimani, pattakari, pattirai 1, pentipekam, stirarankam, tamaraikkanni, tanmavaipatacceti, tanmavaipatam, tarutittam, toli, toli#, toli@, tolicceti, tuttam 1, ulakankattal, ulakankattan, ulakankattanceti, ulankaranai, unkaranai, vakkiyecam, vellaikkirikarni\nTelugu (11): aviri, konda nili, neel, neeli chettu, neelichettu, neelie, neli, nili, nili-chettu, syaama, syama",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b741a4f3f94c534e33af5925404fab5d"
+  ],
+  "source_record_ids": [
+    "links-1395"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b741a4f3f94c534e33af5925404fab5d"
+    ],
+    "source_record_ids": [
+      "links-1395"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b741a4f3f94c534e33af5925404fab5d",
+          "Plant Name": "Indigofera tinctoria Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Indigofera tinctoria Linn.",
+        "source_record_id": "links-1395",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b741a4f3f94c534e33af5925404fab5d"
+      }
+    ],
+    "source_xplant_id": "b741a4f3f94c534e33af5925404fab5d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

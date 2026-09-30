@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a518f098d207d4d7__vernacular_names__001",
+  "plant_id": "plant_a518f098d207d4d7",
+  "plant_name": "Solanum tuberosum Linn.",
+  "botanical_name": "Solanum tuberosum",
+  "botanical_authority": "L.",
+  "family": "SOLANACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): potato, potato crisps, vodka\nHindi (2): aalu, alu\nKannada (10): aaloo gadde, aaloo gedde, aaloogedde, alugadde, bataate, batata, batate, uralagadde, uriagadda, urulu gadde\nMalayalam (2): urulakkilannu, urulekelangu\nMarathi (1): batata\nSanskrit (1): Sanskrit CommentsX golakandah\nTamil (19): apicitamulam, arttappu, irakeyakkilanku, irakeyam, irattapucitam, palampancikkilanku, palampancu, urilaki-zhangu, urla-kalangu, uru-laikizhangu, urulai, urulai-k-kilanku, urulaik-kizhangu, urulaikizhangu, urulaikkilangu, urulaikkilanku, urulaiyati, urulakilangu, wallarai kilangoo\nTelugu (7): alu gadda, bangala dumpalu, bangaladumpa, bangaladumpalu, uralagadda, urla gadda, urlagadda\nUrdu (1): aalu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c3167d1e5b9fabac59ac7b38467287e"
+  ],
+  "source_record_ids": [
+    "links-0081"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c3167d1e5b9fabac59ac7b38467287e"
+    ],
+    "source_record_ids": [
+      "links-0081"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c3167d1e5b9fabac59ac7b38467287e",
+          "Plant Name": "Solanum tuberosum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum tuberosum Linn.",
+        "source_record_id": "links-0081",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c3167d1e5b9fabac59ac7b38467287e"
+      }
+    ],
+    "source_xplant_id": "9c3167d1e5b9fabac59ac7b38467287e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

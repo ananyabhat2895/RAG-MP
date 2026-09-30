@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_501d2a4c7dc27f9f__systems_of_medicine__001",
+  "plant_id": "plant_501d2a4c7dc27f9f",
+  "plant_name": "Swertia lawii Burkill",
+  "botanical_name": "Swertia lawii",
+  "botanical_authority": "BURKILL",
+  "family": "GENTIANACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17c1cc9bcebc02d3be4057450a678fe1"
+  ],
+  "source_record_ids": [
+    "links-1057"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17c1cc9bcebc02d3be4057450a678fe1"
+    ],
+    "source_record_ids": [
+      "links-1057"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17c1cc9bcebc02d3be4057450a678fe1",
+          "Plant Name": "Swertia lawii Burkill",
+          "Status": "Found"
+        },
+        "source_plant_name": "Swertia lawii Burkill",
+        "source_record_id": "links-1057",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17c1cc9bcebc02d3be4057450a678fe1"
+      }
+    ],
+    "source_xplant_id": "17c1cc9bcebc02d3be4057450a678fe1",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

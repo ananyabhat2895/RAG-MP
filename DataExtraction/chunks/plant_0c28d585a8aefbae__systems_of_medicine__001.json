@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_0c28d585a8aefbae__systems_of_medicine__001",
+  "plant_id": "plant_0c28d585a8aefbae",
+  "plant_name": "Eulophia nuda Lindl.",
+  "botanical_name": "Eulophia spectabilis",
+  "botanical_authority": "(DENNST.) SURESH",
+  "family": "ORCHIDACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (1) - Eulophia nuda LINDL.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/697fbfc95cc7e52a46c4a53e7ae1f1c6/xclkon/6fd057e92f78960ff47f742b759a9a10"
+  ],
+  "source_record_ids": [
+    "links-1236"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/697fbfc95cc7e52a46c4a53e7ae1f1c6/xclkon/6fd057e92f78960ff47f742b759a9a10"
+    ],
+    "source_record_ids": [
+      "links-1236"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/697fbfc95cc7e52a46c4a53e7ae1f1c6/xclkon/6fd057e92f78960ff47f742b759a9a10",
+          "Plant Name": "Eulophia nuda Lindl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Eulophia nuda Lindl.",
+        "source_record_id": "links-1236",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/697fbfc95cc7e52a46c4a53e7ae1f1c6/xclkon/6fd057e92f78960ff47f742b759a9a10"
+      }
+    ],
+    "source_xplant_id": "697fbfc95cc7e52a46c4a53e7ae1f1c6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

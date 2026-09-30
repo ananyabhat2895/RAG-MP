@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_0328236f2264dddc__vernacular_names__001",
+  "plant_id": "plant_0328236f2264dddc",
+  "plant_name": "Cassia tora Linn.",
+  "botanical_name": "Cassia tora",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): coffee cassia\nHindi (22): aelon, ailu, ailwan, cakunda, cakvat, chakavat, chakonda, chakonr, chakramarde, chakunda, chakundra, ckakond, pamaar, pamad, panevar, panvar, panwar, puadia, puaria, punwad, relu, talka\nKannada (40): cagace, chagache, chagate, chakramarda, chogache, chogata, cogace, cogate, gandha thagase, gandu thagache, gandu thagase, gandutagasi, gundutagace, gundutagache, holasangi, kasamardavu, pambadiar, sagate, sirudaggare, sonte, tagace, tagache, tagaci, tagarasi, tagarchi, tagarci, tagarisyana, tagati, tajank, tajanku, taragashee, taragasi, thaagarisyana gida, thagache, thagarchi, vanaavarikke, vanava-rike, vanavarika, vanavarike, vannaavarike\nMalayalam (7): cakramardrakam, chakramandrakam, tagara, tagera, takara, takaram, thavara\nMarathi (12): takala, takla, tankala, tankli, taranvata, tarota, taykilo, thaakala, thakla, thankli, tharanvata, tharota\nSanskrit (28): Sanskrit CommentsX adagaja, ayudham, cakramarda, cakramardah, cakramardana, chakramarda, chakramardah, chakramardaka, dadamandan, dadamardana, dadamari, dadrughna, dan, edagaja, edagajah, kharjugna, prabhoonata, prabhunatha, prabunatha, prapunnada, prapunnata, prapunnatah, praputatri, praputrata, prishnaparni, sadagaja, saidagajah, taga\nTamil (92): appulantam, cakatamatti, cakkarakacam, cakkarapati, cakkarapaticceti, cakkiram1, cakkiramatattu, cakkirami, cakkiramicceti, cakkirapati, cakkirapattirakam, cakkumati, cancavaram, cankuputpam, cenavu#, cenavu@, cenavucacceti, cepakkinam, cinavu, cirutakarai, cittiracikam, etakacam, jakatamatti, kalaparnam, karccakkinam1, kecatattu, konakkotayam, kupakkinam, kuralikkonikacceti, kuralikkonikam, kuttanacani1, makanilam@, mayakantotiyam, nakkalatakam, nali, narattarai, nativaram1, oosithagarai, oosthagarai, palavarate, pariyeritaiyati, pavattutarnatankam, perunkulikacceti, perunkulikam, pincacikacceti, pincacikam, punantam, punnatatavaram, punnita, punniyataki, punniyatakicceti, puntakarai, puntakaraicceti, senavu, sirutagarai, tagarai, tagaray-elley, takaracci, takarai, takaraivittu, takaram1, takaritam, tarunicceti, tarunikam, thagarai, thagarai-verai, thakarai, tiram@, tiritapicam, tunnamaram, tupparicimpam, tutakam, ucitakarai, ucittakarai, uranatcam, uranatciyam, ushit-tagarai, ushittagarai, usithagarai, usiththagarai, usittagarai, vanamavaram, vanappicci, vanappicicceti, vannaavaram, vincukam, vindu, vintu, vintu 1, vintu@, vintukam 1, vintutam",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e775a38d16f490fae110e80291cc8710"
+  ],
+  "source_record_ids": [
+    "links-0398"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e775a38d16f490fae110e80291cc8710"
+    ],
+    "source_record_ids": [
+      "links-0398"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e775a38d16f490fae110e80291cc8710",
+          "Plant Name": "Cassia tora Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cassia tora Linn.",
+        "source_record_id": "links-0398",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e775a38d16f490fae110e80291cc8710"
+      }
+    ],
+    "source_xplant_id": "e775a38d16f490fae110e80291cc8710",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

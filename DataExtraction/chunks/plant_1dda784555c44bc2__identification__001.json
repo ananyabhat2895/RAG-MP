@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_1dda784555c44bc2__identification__001",
+  "plant_id": "plant_1dda784555c44bc2",
+  "plant_name": "Garcinia morella",
+  "botanical_name": "Garcinia morella",
+  "botanical_authority": "(GAERTN.) DESR.",
+  "family": "CLUSIACEAE",
+  "section": "identification",
+  "content": "Plant name: Garcinia morella Botanical name: Garcinia morella Botanical authority: (GAERTN.) DESR. Family: CLUSIACEAE Source xplant ID: a3e6f8691986cdca6ffe150c459f9754",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754"
+  ],
+  "source_record_ids": [
+    "links-0916",
+    "links-0917",
+    "links-1920"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754"
+    ],
+    "source_record_ids": [
+      "links-0916",
+      "links-0917",
+      "links-1920"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754",
+          "Plant Name": "Garcinia morella",
+          "Status": "Found"
+        },
+        "source_plant_name": "Garcinia morella",
+        "source_record_id": "links-0916",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754",
+          "Plant Name": "Garcinia morella Desr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Garcinia morella Desr.",
+        "source_record_id": "links-0917",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754",
+          "Plant Name": "Garcinia morella Dsv.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Garcinia morella Dsv.",
+        "source_record_id": "links-1920",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754"
+      }
+    ],
+    "source_xplant_id": "a3e6f8691986cdca6ffe150c459f9754",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

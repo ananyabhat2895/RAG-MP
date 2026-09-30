@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_00931418d510b4e2__distribution__001",
+  "plant_id": "plant_00931418d510b4e2",
+  "plant_name": "Lochnera rosea",
+  "botanical_name": "Catharanthus roseus",
+  "botanical_authority": "(L.) G.DON",
+  "family": "APOCYNACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - HARIDASAN K & RAO R R; distribution: Distribution; title: Title - FOREST FLORA OF MEGHALAYA VOL 2\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66/xclkon/8f8b3bf29623526b943200b3d53f7464"
+  ],
+  "source_record_ids": [
+    "links-1505",
+    "links-1606",
+    "links-1675"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66/xclkon/8f8b3bf29623526b943200b3d53f7464"
+    ],
+    "source_record_ids": [
+      "links-1505",
+      "links-1606",
+      "links-1675"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66/xclkon/8f8b3bf29623526b943200b3d53f7464",
+          "Plant Name": "Lochnera rosea",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lochnera rosea",
+        "source_record_id": "links-1505",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66/xclkon/8f8b3bf29623526b943200b3d53f7464"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66/xclkon/8f8b3bf29623526b943200b3d53f7464",
+          "Plant Name": "Lochnera rosea Reichb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lochnera rosea Reichb.",
+        "source_record_id": "links-1606",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66/xclkon/8f8b3bf29623526b943200b3d53f7464"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66/xclkon/8f8b3bf29623526b943200b3d53f7464",
+          "Plant Name": "Lochnera rosea (Linn.) Reichb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lochnera rosea (Linn.) Reichb.",
+        "source_record_id": "links-1675",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66/xclkon/8f8b3bf29623526b943200b3d53f7464"
+      }
+    ],
+    "source_xplant_id": "6d9f8e9bebdec421ee02eb5709bbca66",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

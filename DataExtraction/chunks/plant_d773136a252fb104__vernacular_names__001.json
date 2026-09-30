@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_d773136a252fb104__vernacular_names__001",
+  "plant_id": "plant_d773136a252fb104",
+  "plant_name": "Basella alba Linn.",
+  "botanical_name": "Basella rubra",
+  "botanical_authority": "L.",
+  "family": "BASELLACEAE",
+  "section": "vernacular_names",
+  "content": "English (5): ceylon or indian spinach, ceylon spinach, indian spinach, malabar nightshade, malabar spinach\nHindi (1): poi\nKannada (2): baayi basale, basale\nMalayalam (3): basella, pachala, vasalaccira\nMarathi (7): maayaalachivel, mayalachivel, mayalu, velbondi, vhali, vhalichi-bhaji, wahlea\nSanskrit (7): Sanskrit CommentsX apoedika, malava, potaki, putika, upodaka, upodaki, upodika\nTamil (31): atipatati, atipatatikkoti, ayinalikam, ayinilikakkoti, cekkai, cekkaippacalikkoti, cempacalai, cempacalai@, cempucattumuli1, cevappuppacalai, ciappukkatippacalaik koti2, civappanapacalai2, civappukkati2, civappukkotippacalai2, civappukkotippacalai@, kodip-pasalai-kkirai, kotippacalai, kotippacalai-k-kirai, pacalai, pacalai2, pacarai2, pachalai, paslakkirai, perumpacalai, perumpacalaikkirai, perumpaciri, potakam 1, potaki 2, potakikkoti, putikam 2, vaslakire\nTelugu (4): bachali, bachchali-kura, karubachali, pedda bachali",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc724b30e3b50ec963273c176be1e6f5/xclkon/c14ef5ca09b567ef3d8312649dbbded8",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc724b30e3b50ec963273c176be1e6f5"
+  ],
+  "source_record_ids": [
+    "links-2023",
+    "links-2024"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc724b30e3b50ec963273c176be1e6f5/xclkon/c14ef5ca09b567ef3d8312649dbbded8",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc724b30e3b50ec963273c176be1e6f5"
+    ],
+    "source_record_ids": [
+      "links-2023",
+      "links-2024"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc724b30e3b50ec963273c176be1e6f5/xclkon/c14ef5ca09b567ef3d8312649dbbded8",
+          "Plant Name": "Basella alba Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Basella alba Linn.",
+        "source_record_id": "links-2023",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc724b30e3b50ec963273c176be1e6f5/xclkon/c14ef5ca09b567ef3d8312649dbbded8"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc724b30e3b50ec963273c176be1e6f5",
+          "Plant Name": "Basella rubra Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Basella rubra Linn.",
+        "source_record_id": "links-2024",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc724b30e3b50ec963273c176be1e6f5"
+      }
+    ],
+    "source_xplant_id": "dc724b30e3b50ec963273c176be1e6f5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

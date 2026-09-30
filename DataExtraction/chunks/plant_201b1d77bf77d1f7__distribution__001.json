@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_201b1d77bf77d1f7__distribution__001",
+  "plant_id": "plant_201b1d77bf77d1f7",
+  "plant_name": "Barringtonia acutangula",
+  "botanical_name": "Barringtonia acutangula",
+  "botanical_authority": "(L.) GAERTN.",
+  "family": "BARINGTONIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e"
+  ],
+  "source_record_ids": [
+    "links-0707",
+    "links-0708",
+    "links-1389",
+    "links-2100"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e"
+    ],
+    "source_record_ids": [
+      "links-0707",
+      "links-0708",
+      "links-1389",
+      "links-2100"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e",
+          "Plant Name": "Barringtonia acutangula",
+          "Status": "Found"
+        },
+        "source_plant_name": "Barringtonia acutangula",
+        "source_record_id": "links-0707",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e",
+          "Plant Name": "Barringtonia acutangula Gaertn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Barringtonia acutangula Gaertn.",
+        "source_record_id": "links-0708",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e",
+          "Plant Name": "Barringtonia acutangula (Linn.) Gaertn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Barringtonia acutangula (Linn.) Gaertn.",
+        "source_record_id": "links-1389",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e",
+          "Plant Name": "Barringtonia acutangula Gaertn",
+          "Status": "Found"
+        },
+        "source_plant_name": "Barringtonia acutangula Gaertn",
+        "source_record_id": "links-2100",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e"
+      }
+    ],
+    "source_xplant_id": "6e400ba7639ad39d4c014b5371b3fa8e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

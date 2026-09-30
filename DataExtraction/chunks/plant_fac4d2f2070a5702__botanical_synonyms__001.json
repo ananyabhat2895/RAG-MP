@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_fac4d2f2070a5702__botanical_synonyms__001",
+  "plant_id": "plant_fac4d2f2070a5702",
+  "plant_name": "Podophyllum hexandrum Royle.",
+  "botanical_name": "Podophyllum hexandrum",
+  "botanical_authority": "ROYLE",
+  "family": "BERBERIDACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Podophyllum emodi WALL. X Full Botanical citation - Podophyllum emodi Wallich ex Honigberger, Thirtyfive years in the East 329, t.20. 1852; Podophyllum hexandrum Royle, Illus. Bot. Himal. 64. 1834; R.R.Rao & P.K. Hajra in B.D.Sharma & al., Fl. India 1: 415. 1993.\nSynonym: Podophyllum emodi WALL.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c92bf1ce2c1338e2114f10dc835c2e6"
+  ],
+  "source_record_ids": [
+    "links-2049"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c92bf1ce2c1338e2114f10dc835c2e6"
+    ],
+    "source_record_ids": [
+      "links-2049"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c92bf1ce2c1338e2114f10dc835c2e6",
+          "Plant Name": "Podophyllum hexandrum Royle.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Podophyllum hexandrum Royle.",
+        "source_record_id": "links-2049",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c92bf1ce2c1338e2114f10dc835c2e6"
+      }
+    ],
+    "source_xplant_id": "3c92bf1ce2c1338e2114f10dc835c2e6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

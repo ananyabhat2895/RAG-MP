@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_13e58f4c5feea270__vernacular_names__001",
+  "plant_id": "plant_13e58f4c5feea270",
+  "plant_name": "Tamarindus indica Linn.",
+  "botanical_name": "Tamarindus indica",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): indian date, tamarind\nHindi (15): ambli, amili, amli, amlica, amlyaum, ampli, anbli, hunase, imali, imli, katara, nuli, sadad, tamrulhindi, teter\nKannada (33): aamla, amblairo, amla, amli, amlike, asam, gotimli hunase hannu, gotu, huli, huli hunise, hulise, hunacey, hunachi, hunasa, hunase, hunase huli, hunase mara, hunasemara, hunashe-hannu, hunasi, hunise, hunishe, hunisi, hunse, hunuse mara, imli, kamal, karangi, nerala, punke, unana, unara, unsi\nMalayalam (20): amlam, amlika, balam-pulli, balampoolie, balampulli, chinoh, chitz, cinca, cukram, kolpuli, machurapuli, madhurappuli, puli, puliyam-pazham, singa, sukram, tindudam, tintrini, valampuli, valanpuli\nMarathi (10): aambali, aamli, ambali, amli, chicha, chinch, chincha, chintz, chitz, rojiacha-phulchinch\nSanskrit (41): Sanskrit CommentsX abdika, ambia, amilam, amla, amlavraksha, amli, amlika, atyamba, bhukta, charitra, chincha, chinchika, chuk yamadutika, chukrika, chukru, cinca, cincini, dantashatha, gurupatra, panktipatra, pichhila, ra, sarvamla, shakachukrika, suchakrika, sukta, sutintidi, tentrani, tindidika, tintidi, tintidika, tintili, tintilivija, tintiri, tintrani, tintrini, tintuli, tittidi, tittidika, umblee, vrksamla",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01649c8cebf19249351228352a1554c0"
+  ],
+  "source_record_ids": [
+    "links-0116"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01649c8cebf19249351228352a1554c0"
+    ],
+    "source_record_ids": [
+      "links-0116"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01649c8cebf19249351228352a1554c0",
+          "Plant Name": "Tamarindus indica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tamarindus indica Linn.",
+        "source_record_id": "links-0116",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01649c8cebf19249351228352a1554c0"
+      }
+    ],
+    "source_xplant_id": "01649c8cebf19249351228352a1554c0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

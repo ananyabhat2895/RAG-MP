@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_f8fc1444583bf57f__vernacular_names__001",
+  "plant_id": "plant_f8fc1444583bf57f",
+  "plant_name": "Ficus hispida Linn. F.",
+  "botanical_name": "Ficus hispida",
+  "botanical_authority": "L.F.",
+  "family": "MORACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (20): dagur, debre, ghauter, ghogsha, gobla, kagsha, kalmungri, kat-gularia, katamar, katamba, katgular, katgularia, katguleriya, kathumaea, katumbri, konea-dumbar, konea-dumber, koneadumbar, malpu, totmila\nKannada (19): adavi atthi, adavi-atti, adaviatti, adaviyatti, challu, jaghunepatthi, kaadatthi, kaadu aththi, kaadu atthi, kad-atthi, kadatti, kaduatti, kallaatha, kallartthi, kallatthi, medi, olapaara, olapara, voala paatha\nMalayalam (12): atti, eruma-nakku, erumanakku, erumanaku, kattatti, paraka-pazham, parakam, parom, pe-yatti, peragam, perin-teregam, peyatti\nMarathi (16): bhokada, bhokhaada, bhuyidambar, bokeda, bokria, dherumbar, kala-umber, kalaumber, katumber, kharawat, kharoti, kharwat, kurwut, sharoti, vede umde, vhadli-kharvamt\nSanskrit (32): Sanskrit CommentsX ajaji, ajakshi, asuma, bhadrodumbarika, chitrabhashaja, dhvankshanamni, jaghanaphala, jaghanephala, kakadumbar, kakadumbura, kakahvanodumbari, kakodphalgu, kakodumbarika, karkashachaduna, kastodumbara, kharadala, kharapatrika, kshiri, kshudrodumbarika, kushthaghni, malapu, malayu, mulakarkati, phalguni, phalguvatika, phalu, rajika, udumbaraphala, ummattodumbara, ummettodumbara, ummiattodumbara, vitrabaisajya\nTamil (50): akacakarutati, akacakkarutatimaram, cattirapetcam, cemapalai, cemapalam, chona athi, chona-atthi, chona-attni, civatikam, conai, conaiyatti#, conaiyatti@, conatti, copakari, kakotumparikai, kanatti, kattatti, kattu atti, kattu-atthi, kattuva, katukattimaram, katukkatti, koti atti, kuttakantu, kuttakkinam 1, niratti 1, ottanalam, ottanali, ottannalam, palakari, palakuracam, pantu, pantunacanimaram, pe-allippayam, pe-atthi, pe-atti, pe-attip-pazham, pe-attiss, pechi, pei-atthi, peiatthi, pethi, peyatthi, peyatti, peyppacikam, peyppacikamaram, putattimaram, sonatti, utumparam 3, viranahari\nTelugu (41): adavi-atti, adaviatti, bamari, bemmadu, bemmedi, boda, bodamamadee, bodamamadi, bodamamidi, bodda marri, boddamarri, boddamatthi, boddamatti boddamedi, boddamedi, bodmaamidi, boma-medi, bommamedi, bommedu, bommudu, brahma medi, bramhmamedi, bummarri, kaakimedi, kaki medi, kakimedi, karakabodda, karasaana, karasana, korasanachettu, kukka bodda, kukka-bodda, kukkabodda, tarasu, verriatti, verriatti-pandlu, verrimedi, verriyatti, verse atti-pandhlu, vettimedi, vettiyatthi, vettiyatti\nTibetan (2): dal ku na, phal ku na (p)\nUrdu (2): anjeerdashthi, khatomarry",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb7b03016ba03863ff74fddf3e0d0d0"
+  ],
+  "source_record_ids": [
+    "links-0857",
+    "links-0858"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb7b03016ba03863ff74fddf3e0d0d0"
+    ],
+    "source_record_ids": [
+      "links-0857",
+      "links-0858"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb7b03016ba03863ff74fddf3e0d0d0",
+          "Plant Name": "Ficus hispida Linn. F.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus hispida Linn. F.",
+        "source_record_id": "links-0857",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb7b03016ba03863ff74fddf3e0d0d0"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb7b03016ba03863ff74fddf3e0d0d0",
+          "Plant Name": "Ficus hispida Linn. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus hispida Linn. f.",
+        "source_record_id": "links-0858",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb7b03016ba03863ff74fddf3e0d0d0"
+      }
+    ],
+    "source_xplant_id": "beb7b03016ba03863ff74fddf3e0d0d0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

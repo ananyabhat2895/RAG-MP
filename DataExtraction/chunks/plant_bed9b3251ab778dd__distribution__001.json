@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_bed9b3251ab778dd__distribution__001",
+  "plant_id": "plant_bed9b3251ab778dd",
+  "plant_name": "Clausena pentaphylla",
+  "botanical_name": "Clausena pentaphylla",
+  "botanical_authority": "(ROXB.) DC.",
+  "family": "RUTACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - A.E. Osmaston; distribution: Distribution; title: Title - A Forest Flora for Kumaon\nDistribution entry: author: Author - BSI Scientist; distribution: Distribution; title: Title - Flora of West Bengal Vol 1\nDistribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7793bb750cb4d5f5ee0c830777a0e03d"
+  ],
+  "source_record_ids": [
+    "links-1626",
+    "links-1627",
+    "links-1878"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7793bb750cb4d5f5ee0c830777a0e03d"
+    ],
+    "source_record_ids": [
+      "links-1626",
+      "links-1627",
+      "links-1878"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7793bb750cb4d5f5ee0c830777a0e03d",
+          "Plant Name": "Clausena pentaphylla",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clausena pentaphylla",
+        "source_record_id": "links-1626",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7793bb750cb4d5f5ee0c830777a0e03d"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7793bb750cb4d5f5ee0c830777a0e03d",
+          "Plant Name": "Clausena pentaphylla D. C.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clausena pentaphylla D. C.",
+        "source_record_id": "links-1627",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7793bb750cb4d5f5ee0c830777a0e03d"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7793bb750cb4d5f5ee0c830777a0e03d",
+          "Plant Name": "Clausena pentaphylla DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clausena pentaphylla DC.",
+        "source_record_id": "links-1878",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7793bb750cb4d5f5ee0c830777a0e03d"
+      }
+    ],
+    "source_xplant_id": "7793bb750cb4d5f5ee0c830777a0e03d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

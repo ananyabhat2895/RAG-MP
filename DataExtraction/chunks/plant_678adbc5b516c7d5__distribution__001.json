@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_678adbc5b516c7d5__distribution__001",
+  "plant_id": "plant_678adbc5b516c7d5",
+  "plant_name": "Berberis lycium Royle",
+  "botanical_name": "Berberis lycium",
+  "botanical_authority": "ROYLE",
+  "family": "BERBERIDACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol I\nDistribution entry: author: Author - A.E. Osmaston; distribution: Distribution; title: Title - A Forest Flora for Kumaon\nDistribution entry: author: Author - Dr. Narain Singh Chauhan; distribution: Distribution; title: Title - Medicinal and Aromatic Plants of Himachal Pradesh\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c2d76975c2ef9328f9aadea0ba188492"
+  ],
+  "source_record_ids": [
+    "links-0494",
+    "links-0495"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c2d76975c2ef9328f9aadea0ba188492"
+    ],
+    "source_record_ids": [
+      "links-0494",
+      "links-0495"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c2d76975c2ef9328f9aadea0ba188492",
+          "Plant Name": "Berberis lycium Royle",
+          "Status": "Found"
+        },
+        "source_plant_name": "Berberis lycium Royle",
+        "source_record_id": "links-0494",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c2d76975c2ef9328f9aadea0ba188492"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c2d76975c2ef9328f9aadea0ba188492",
+          "Plant Name": "Berberis lycium Royle.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Berberis lycium Royle.",
+        "source_record_id": "links-0495",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c2d76975c2ef9328f9aadea0ba188492"
+      }
+    ],
+    "source_xplant_id": "c2d76975c2ef9328f9aadea0ba188492",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

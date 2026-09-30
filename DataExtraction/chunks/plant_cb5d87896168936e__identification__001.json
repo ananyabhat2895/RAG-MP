@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_cb5d87896168936e__identification__001",
+  "plant_id": "plant_cb5d87896168936e",
+  "plant_name": "Sesamum indicum Linn.",
+  "botanical_name": "Sesamum indicum",
+  "botanical_authority": "L.",
+  "family": "PEDALIACEAE",
+  "section": "identification",
+  "content": "Plant name: Sesamum indicum Linn. Botanical name: Sesamum indicum Botanical authority: L. Family: PEDALIACEAE Source xplant ID: 705add10c81b2324e15906c748d395db",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/705add10c81b2324e15906c748d395db"
+  ],
+  "source_record_ids": [
+    "links-1941"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/705add10c81b2324e15906c748d395db"
+    ],
+    "source_record_ids": [
+      "links-1941"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/705add10c81b2324e15906c748d395db",
+          "Plant Name": "Sesamum indicum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesamum indicum Linn.",
+        "source_record_id": "links-1941",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/705add10c81b2324e15906c748d395db"
+      }
+    ],
+    "source_xplant_id": "705add10c81b2324e15906c748d395db",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

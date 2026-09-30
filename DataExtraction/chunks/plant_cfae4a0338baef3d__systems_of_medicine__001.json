@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_cfae4a0338baef3d__systems_of_medicine__001",
+  "plant_id": "plant_cfae4a0338baef3d",
+  "plant_name": "Ricinus communis",
+  "botanical_name": "Ricinus communis",
+  "botanical_authority": "L.",
+  "family": "EUPHORBIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Homeopathy\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab8b2a15b1ed94d74b5d9605be29a51f"
+  ],
+  "source_record_ids": [
+    "links-0486",
+    "links-0565"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab8b2a15b1ed94d74b5d9605be29a51f"
+    ],
+    "source_record_ids": [
+      "links-0486",
+      "links-0565"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab8b2a15b1ed94d74b5d9605be29a51f",
+          "Plant Name": "Ricinus communis",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ricinus communis",
+        "source_record_id": "links-0486",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab8b2a15b1ed94d74b5d9605be29a51f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab8b2a15b1ed94d74b5d9605be29a51f",
+          "Plant Name": "Ricinus communis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ricinus communis Linn.",
+        "source_record_id": "links-0565",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab8b2a15b1ed94d74b5d9605be29a51f"
+      }
+    ],
+    "source_xplant_id": "ab8b2a15b1ed94d74b5d9605be29a51f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

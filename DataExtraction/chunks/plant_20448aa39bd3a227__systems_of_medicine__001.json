@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_20448aa39bd3a227__systems_of_medicine__001",
+  "plant_id": "plant_20448aa39bd3a227",
+  "plant_name": "Prunus mahaleb Linn.",
+  "botanical_name": "Prunus mahaleb",
+  "botanical_authority": "L.",
+  "family": "ROSACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Unani",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28ef0095af12549def683fc1a04f1b5"
+  ],
+  "source_record_ids": [
+    "links-0588",
+    "links-1545"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28ef0095af12549def683fc1a04f1b5"
+    ],
+    "source_record_ids": [
+      "links-0588",
+      "links-1545"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28ef0095af12549def683fc1a04f1b5",
+          "Plant Name": "Prunus mahaleb Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Prunus mahaleb Linn.",
+        "source_record_id": "links-0588",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28ef0095af12549def683fc1a04f1b5"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28ef0095af12549def683fc1a04f1b5",
+          "Plant Name": "Prunus mahaleb",
+          "Status": "Found"
+        },
+        "source_plant_name": "Prunus mahaleb",
+        "source_record_id": "links-1545",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28ef0095af12549def683fc1a04f1b5"
+      }
+    ],
+    "source_xplant_id": "c28ef0095af12549def683fc1a04f1b5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

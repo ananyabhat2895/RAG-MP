@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b371cf428be7c07e__systems_of_medicine__001",
+  "plant_id": "plant_b371cf428be7c07e",
+  "plant_name": "Mollugo hirta Thunb.",
+  "botanical_name": "Glinus lotoides",
+  "botanical_authority": "L.",
+  "family": "AIZOACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk Botanical Synonyms (3) - Glinus dictamnoides BURM.F. Mollugo hirta THUNB. X Full Botanical citation - Mollugo hirta Thunb.\nSystem of medicine: Prodr. Fl. Cap. 1: 24. 1794; R.D.Gaur\nSystem of medicine: Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes)\nSystem of medicine: TransMedia\nSystem of medicine: Srinagar (Garhwal)\nSystem of medicine: India\nSystem of medicine: 124. 1999. Mollugo lotoides (L.) O. KUNTZE X Full Botanical citation - Mollugo lotoides (L.) Kuntze\nSystem of medicine: Rev. Gen. Pl. 214. 1891; R.D.Gaur\nSystem of medicine: 124. 1999.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/cec6d03d0e1bbe969c56f2e457d35f35"
+  ],
+  "source_record_ids": [
+    "links-1457"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/cec6d03d0e1bbe969c56f2e457d35f35"
+    ],
+    "source_record_ids": [
+      "links-1457"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/cec6d03d0e1bbe969c56f2e457d35f35",
+          "Plant Name": "Mollugo hirta Thunb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mollugo hirta Thunb.",
+        "source_record_id": "links-1457",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/cec6d03d0e1bbe969c56f2e457d35f35"
+      }
+    ],
+    "source_xplant_id": "67349d031267ee6d717be88c91b873eb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

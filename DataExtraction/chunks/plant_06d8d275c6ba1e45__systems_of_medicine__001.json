@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_06d8d275c6ba1e45__systems_of_medicine__001",
+  "plant_id": "plant_06d8d275c6ba1e45",
+  "plant_name": "Maerua arenaria Hook. f. & Th.",
+  "botanical_name": "Maerua oblongifolia",
+  "botanical_authority": "(FORSK.) A.RICH",
+  "family": "CAPPARACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (1) - Maerua arenaria HOOK X Full Botanical citation - Maerua arenaria (DC.) Hook. f. & Thomson in Fl. Brit. India 1: 171. 1872 (incl. vars. glabra & scabra); Sundararagh. in B.D.Sharma & N.P.Balakr.\nSystem of medicine: Fl. India 2: 331. 1993.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899"
+  ],
+  "source_record_ids": [
+    "links-1221",
+    "links-1222",
+    "links-1295",
+    "links-1322"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899"
+    ],
+    "source_record_ids": [
+      "links-1221",
+      "links-1222",
+      "links-1295",
+      "links-1322"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899",
+          "Plant Name": "Maerua arenaria Hook. f. & Th.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Maerua arenaria Hook. f. & Th.",
+        "source_record_id": "links-1221",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899",
+          "Plant Name": "Maerua arenaria Hook.f. and Thoms.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Maerua arenaria Hook.f. and Thoms.",
+        "source_record_id": "links-1222",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899",
+          "Plant Name": "Maerua arenaria Hook.f. and Th.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Maerua arenaria Hook.f. and Th.",
+        "source_record_id": "links-1295",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899",
+          "Plant Name": "Maerua arenaria",
+          "Status": "Found"
+        },
+        "source_plant_name": "Maerua arenaria",
+        "source_record_id": "links-1322",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899"
+      }
+    ],
+    "source_xplant_id": "bc77c2aa87e1ff114f907d3113143778",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

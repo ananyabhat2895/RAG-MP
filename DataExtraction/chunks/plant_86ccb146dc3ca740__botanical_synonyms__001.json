@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_86ccb146dc3ca740__botanical_synonyms__001",
+  "plant_id": "plant_86ccb146dc3ca740",
+  "plant_name": "Tinospora cordifolia (Willd) Miers ex Hook.f. & Th",
+  "botanical_name": "Tinospora cordifolia",
+  "botanical_authority": "(WILLD.) HOOK.F. & THOMS.",
+  "family": "MENISPERMACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Cocculus cordifolius (WILLD.) DC. Menispermum cordifolium WILLD. X Full Botanical citation - Menispermum cordifolium Willd., Sp. Pl. 4: 826. 1806; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 78. 1999.\nSynonym: Cocculus cordifolius (WILLD.) DC.\nSynonym: Menispermum cordifolium WILLD.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a227d75a9ed29dd6632ef3de7bb0289"
+  ],
+  "source_record_ids": [
+    "links-0659",
+    "links-0660"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a227d75a9ed29dd6632ef3de7bb0289"
+    ],
+    "source_record_ids": [
+      "links-0659",
+      "links-0660"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a227d75a9ed29dd6632ef3de7bb0289",
+          "Plant Name": "Tinospora cordifolia (Willd) Miers ex Hook.f. & Th",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tinospora cordifolia (Willd) Miers ex Hook.f. & Th",
+        "source_record_id": "links-0659",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a227d75a9ed29dd6632ef3de7bb0289"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a227d75a9ed29dd6632ef3de7bb0289",
+          "Plant Name": "Tinospora cordifolia (Willd.) Miers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tinospora cordifolia (Willd.) Miers.",
+        "source_record_id": "links-0660",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a227d75a9ed29dd6632ef3de7bb0289"
+      }
+    ],
+    "source_xplant_id": "3a227d75a9ed29dd6632ef3de7bb0289",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

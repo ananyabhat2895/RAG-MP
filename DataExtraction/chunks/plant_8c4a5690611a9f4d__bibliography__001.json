@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8c4a5690611a9f4d__bibliography__001",
+  "plant_id": "plant_8c4a5690611a9f4d",
+  "plant_name": "Sphaeranthus indicus Linn.",
+  "botanical_name": "Sphaeranthus hirtus",
+  "botanical_authority": "WILLD.",
+  "family": "ASTERACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - ANONYMOUS; title: Title - ASTANGA HRIDAYA KOSHA\nBibliography entry: author: Author - V.V. SIVARAJAN AND INDIRA BALACHANDRAN; title: Title - AYURVEDIC DRUGS AND THEIR PLANT SOURCES\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - N.S. MOOSS; title: Title - GANAS OF VAHATA\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - ALIX RAISON; title: Title - LA-HARITA SAMHITA\nBibliography entry: author: Author - WHITELAW AINSLIE; title: Title - MATERIA INDICA\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: author: Author - VAIDYA D.K. KAMAT; title: Title - STUDIES ON MEDICINAL PLANTS IN DHANVANTARIYA NIGHANTU VOL.1\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: title: Title - The Flora of the Gulf of Mannar\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I\nBibliography entry: title: Title - Flora of Bankura District(West Bengal)\nBibliography entry: title: Title - Flora of Rajasthan Vol. 1\nBibliography entry: title: Title - Flora of Jowai Vol.I\nBibliography entry: title: Title - FLORA OF INDIA VOL 13\nBibliography entry: title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nBibliography entry: title: Title - Flora of Majuli\nBibliography entry: title: Title - FLORA OF RAJASTHAN\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - Flora of Gujarat State Vol 1\nBibliography entry: title: Title - The Flora of Orissa Vol II",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec08cd45797746e57adca9c7e0c516d7/xclkon/85f71eab3c1210d29a3d7648f55163c1"
+  ],
+  "source_record_ids": [
+    "links-0075"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec08cd45797746e57adca9c7e0c516d7/xclkon/85f71eab3c1210d29a3d7648f55163c1"
+    ],
+    "source_record_ids": [
+      "links-0075"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec08cd45797746e57adca9c7e0c516d7/xclkon/85f71eab3c1210d29a3d7648f55163c1",
+          "Plant Name": "Sphaeranthus indicus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sphaeranthus indicus Linn.",
+        "source_record_id": "links-0075",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec08cd45797746e57adca9c7e0c516d7/xclkon/85f71eab3c1210d29a3d7648f55163c1"
+      }
+    ],
+    "source_xplant_id": "ec08cd45797746e57adca9c7e0c516d7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

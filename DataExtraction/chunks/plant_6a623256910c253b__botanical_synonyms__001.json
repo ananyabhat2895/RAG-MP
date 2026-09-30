@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_6a623256910c253b__botanical_synonyms__001",
+  "plant_id": "plant_6a623256910c253b",
+  "plant_name": "Swertia angustifolia",
+  "botanical_name": "Swertia angustifolia",
+  "botanical_authority": "HAM.",
+  "family": "GENTIANACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Ophelia angustifolia D.DON Swertia anguestifolia BUCH.-HAM. EX D. DON. var. pulchella BURKILL Swertia pulchella C.B. CLARKE\nSynonym: Ophelia angustifolia D.DON\nSynonym: Swertia anguestifolia BUCH.-HAM. EX D. DON. var. pulchella BURKILL\nSynonym: Swertia pulchella C.B. CLARKE",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c1543c8c26dc2d082d8d18a25bb166a"
+  ],
+  "source_record_ids": [
+    "links-1055"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c1543c8c26dc2d082d8d18a25bb166a"
+    ],
+    "source_record_ids": [
+      "links-1055"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c1543c8c26dc2d082d8d18a25bb166a",
+          "Plant Name": "Swertia angustifolia",
+          "Status": "Found"
+        },
+        "source_plant_name": "Swertia angustifolia",
+        "source_record_id": "links-1055",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c1543c8c26dc2d082d8d18a25bb166a"
+      }
+    ],
+    "source_xplant_id": "0c1543c8c26dc2d082d8d18a25bb166a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

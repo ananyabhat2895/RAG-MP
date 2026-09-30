@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_3471e20bede2a561__systems_of_medicine__001",
+  "plant_id": "plant_3471e20bede2a561",
+  "plant_name": "Carum carvi Linn.",
+  "botanical_name": "Carum carvi",
+  "botanical_authority": "L.",
+  "family": "APIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Homeopathy\nSystem of medicine: Sowa-Rigpa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7e54170b49ce79afffbec43fb7d25de"
+  ],
+  "source_record_ids": [
+    "links-0799",
+    "links-0950"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7e54170b49ce79afffbec43fb7d25de"
+    ],
+    "source_record_ids": [
+      "links-0799",
+      "links-0950"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7e54170b49ce79afffbec43fb7d25de",
+          "Plant Name": "Carum carvi Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Carum carvi Linn.",
+        "source_record_id": "links-0799",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7e54170b49ce79afffbec43fb7d25de"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7e54170b49ce79afffbec43fb7d25de",
+          "Plant Name": "Carum carvi",
+          "Status": "Found"
+        },
+        "source_plant_name": "Carum carvi",
+        "source_record_id": "links-0950",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7e54170b49ce79afffbec43fb7d25de"
+      }
+    ],
+    "source_xplant_id": "c7e54170b49ce79afffbec43fb7d25de",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

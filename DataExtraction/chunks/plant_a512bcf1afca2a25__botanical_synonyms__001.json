@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_a512bcf1afca2a25__botanical_synonyms__001",
+  "plant_id": "plant_a512bcf1afca2a25",
+  "plant_name": "Vitis trifolia Linn.",
+  "botanical_name": "Cayratia trifolia",
+  "botanical_authority": "(L.) DOMIN",
+  "family": "VITACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Cayratia carnosa (WALL.) GAGNEP. EX WIGHT X Full Botanical citation - Cayratia carnosa (Lam.) Gagnepain in Notul. Syst. 1: 347. 1911; B.V. Shetty & al., in N.P. Singh & al., Fl. India 5: 275. 2000. Vitis carnosa (ROXB.) WALL. X Full Botanical citation - Vitis carnosa (Lam.) Wallich ex M.A. Lawson in Fl. Brit. India 1: 654. 1875; B.V. Shetty & al., in N.P. Singh & al., Fl. India 5: 275. 2000. Vitis trifolia L. X Full Botanical citation - Vitis trifolia L., Sp. Pl. 203. 1753; B.V. Shetty & al., in N.P. Singh & al., Fl. India 5: 275. 2000.\nSynonym: Cayratia carnosa (WALL.) GAGNEP. EX WIGHT\nSynonym: Vitis carnosa (ROXB.) WALL.\nSynonym: Vitis trifolia L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25/xclkon/10b4256aff4d8d15fbf38003805312cc",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25/xclkon/3cb3893feaa9ec674602d38d0e8625b1"
+  ],
+  "source_record_ids": [
+    "links-0100",
+    "links-0244"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25/xclkon/10b4256aff4d8d15fbf38003805312cc",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25/xclkon/3cb3893feaa9ec674602d38d0e8625b1"
+    ],
+    "source_record_ids": [
+      "links-0100",
+      "links-0244"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25/xclkon/10b4256aff4d8d15fbf38003805312cc",
+          "Plant Name": "Vitis trifolia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vitis trifolia Linn.",
+        "source_record_id": "links-0100",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25/xclkon/10b4256aff4d8d15fbf38003805312cc"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25/xclkon/3cb3893feaa9ec674602d38d0e8625b1",
+          "Plant Name": "Cayratia carnosa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cayratia carnosa",
+        "source_record_id": "links-0244",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25/xclkon/3cb3893feaa9ec674602d38d0e8625b1"
+      }
+    ],
+    "source_xplant_id": "e7ea06f9bc70c074b1835c99ea418e25",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

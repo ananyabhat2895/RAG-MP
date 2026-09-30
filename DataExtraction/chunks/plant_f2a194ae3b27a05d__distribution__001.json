@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_f2a194ae3b27a05d__distribution__001",
+  "plant_id": "plant_f2a194ae3b27a05d",
+  "plant_name": "Tacca aspera Roxb",
+  "botanical_name": "Tacca integrifolia",
+  "botanical_authority": "KER-GAWL",
+  "family": "TACCACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - A S Chauhan, K P Singh, D K Singh; distribution: Distribution; title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4eae01bae77d3474410eee3844a23ae0/xclkon/219c67adddca069b4e42bb47b7d1de47"
+  ],
+  "source_record_ids": [
+    "links-2053",
+    "links-2054"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4eae01bae77d3474410eee3844a23ae0/xclkon/219c67adddca069b4e42bb47b7d1de47"
+    ],
+    "source_record_ids": [
+      "links-2053",
+      "links-2054"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4eae01bae77d3474410eee3844a23ae0/xclkon/219c67adddca069b4e42bb47b7d1de47",
+          "Plant Name": "Tacca aspera Roxb",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tacca aspera Roxb",
+        "source_record_id": "links-2053",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4eae01bae77d3474410eee3844a23ae0/xclkon/219c67adddca069b4e42bb47b7d1de47"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4eae01bae77d3474410eee3844a23ae0/xclkon/219c67adddca069b4e42bb47b7d1de47",
+          "Plant Name": "Tacca aspera Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tacca aspera Roxb.",
+        "source_record_id": "links-2054",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4eae01bae77d3474410eee3844a23ae0/xclkon/219c67adddca069b4e42bb47b7d1de47"
+      }
+    ],
+    "source_xplant_id": "4eae01bae77d3474410eee3844a23ae0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

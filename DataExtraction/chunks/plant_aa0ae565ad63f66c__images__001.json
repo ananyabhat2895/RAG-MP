@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_aa0ae565ad63f66c__images__001",
+  "plant_id": "plant_aa0ae565ad63f66c",
+  "plant_name": "Jasminum flexile Vahl.",
+  "botanical_name": "Jasminum azoricum",
+  "botanical_authority": "L. var. azoricum",
+  "family": "OLEACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/062dcaaf6200c561de37c679c4c15dcc/xclkon/63f34fc5fd3a18c17f70a6aafa222e6f"
+  ],
+  "source_record_ids": [
+    "links-1929"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/062dcaaf6200c561de37c679c4c15dcc/xclkon/63f34fc5fd3a18c17f70a6aafa222e6f"
+    ],
+    "source_record_ids": [
+      "links-1929"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/062dcaaf6200c561de37c679c4c15dcc/xclkon/63f34fc5fd3a18c17f70a6aafa222e6f",
+          "Plant Name": "Jasminum flexile Vahl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Jasminum flexile Vahl.",
+        "source_record_id": "links-1929",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/062dcaaf6200c561de37c679c4c15dcc/xclkon/63f34fc5fd3a18c17f70a6aafa222e6f"
+      }
+    ],
+    "source_xplant_id": "062dcaaf6200c561de37c679c4c15dcc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

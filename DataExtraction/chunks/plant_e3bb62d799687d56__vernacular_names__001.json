@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e3bb62d799687d56__vernacular_names__001",
+  "plant_id": "plant_e3bb62d799687d56",
+  "plant_name": "Rumex vesicarius Linn.",
+  "botanical_name": "Rumex vesicarius",
+  "botanical_authority": "L.",
+  "family": "POLYGONACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (6): ambari, chooka, chuka, chukka, palak, palan sag\nKannada (2): chukki soppu, chukra\nMarathi (5): ambat chuka, chaakavath, chuka, chukaavij, sulenimbu\nSanskrit (36): Sanskrit CommentsX amla, amlabhedaka, amlanayaka, amlankusha, amlasara, amlavastuka, amlaveta, amlavetasa, amlavetasah, bhedana, bhedi, bhima, bodhi, casahasrajita, chukra, chukrika, cukra, gulmaha, gulmaketu, kravarti, mahakshara, mansadravi, phalamla, rajamla, raktasara, rasamla, sahasravedhi, satavedhi, shankadravi, shatavedhi, shutavedhi, varabhida, varangi, vedhaka, vetasamla, viramla\nTamil (18): amalavitcam, cataveti, chukkanghkirai, cukkankirai, cukkankirai@, cukkay kirai, cukki, cukkiram, cukkukkirai, kommattikkirai, piracutakkirai, piracutam, shakkan kirai, shakkankirai, shukkan-kirai, sookan keeray, velikayakkirai, velikayam\nTelugu (4): chukka kura, chukkakoora, chukkakoora aaku, shukku-kuraku\nTibetan (1): tsu kri ka rnam gcig\nUrdu (2): hummaz, tukhm hummaz",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82ee479df7b71790d00d70335df36d1d"
+  ],
+  "source_record_ids": [
+    "links-0474"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82ee479df7b71790d00d70335df36d1d"
+    ],
+    "source_record_ids": [
+      "links-0474"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82ee479df7b71790d00d70335df36d1d",
+          "Plant Name": "Rumex vesicarius Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rumex vesicarius Linn.",
+        "source_record_id": "links-0474",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82ee479df7b71790d00d70335df36d1d"
+      }
+    ],
+    "source_xplant_id": "82ee479df7b71790d00d70335df36d1d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

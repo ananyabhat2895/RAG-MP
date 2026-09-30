@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_5f24793f383795a0__bibliography__001",
+  "plant_id": "plant_5f24793f383795a0",
+  "plant_name": "Dillenia pentagyna Roxb. .",
+  "botanical_name": "Dillenia pentagyna",
+  "botanical_authority": "ROXB.",
+  "family": "DILLENIACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: title: Title - Flora of West Bengal Vol 1\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL1\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-1\nBibliography entry: title: Title - The Flora of Orissa Volume 1\nBibliography entry: title: Title - Flora of Jowai Vol.I\nBibliography entry: title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nBibliography entry: title: Title - The Flora of Kerala Vol I\nBibliography entry: title: Title - Flora of Gujarat State Vol 1\nBibliography entry: title: Title - FLORA OF ASSAM\nBibliography entry: title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - FOREST FLORA OF MEGHALAYA VOL 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69187c98d65911f2688eb248130c3568"
+  ],
+  "source_record_ids": [
+    "links-0067",
+    "links-1358"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69187c98d65911f2688eb248130c3568"
+    ],
+    "source_record_ids": [
+      "links-0067",
+      "links-1358"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69187c98d65911f2688eb248130c3568",
+          "Plant Name": "Dillenia pentagyna Roxb. .",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dillenia pentagyna Roxb. .",
+        "source_record_id": "links-0067",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69187c98d65911f2688eb248130c3568"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69187c98d65911f2688eb248130c3568",
+          "Plant Name": "Dillenia pentagyna",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dillenia pentagyna",
+        "source_record_id": "links-1358",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69187c98d65911f2688eb248130c3568"
+      }
+    ],
+    "source_xplant_id": "69187c98d65911f2688eb248130c3568",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

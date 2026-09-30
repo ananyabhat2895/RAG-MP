@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b43c19425730689d__bibliography__001",
+  "plant_id": "plant_b43c19425730689d",
+  "plant_name": "Viscum monoicum Roxb. ex DC.",
+  "botanical_name": "Viscum monoicum",
+  "botanical_authority": "ROXB.",
+  "family": "VISCACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol. II\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL1\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-2\nBibliography entry: title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nBibliography entry: title: Title - Flora of Majuli\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ef7c2789610b44230041b523436342b"
+  ],
+  "source_record_ids": [
+    "links-1023"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ef7c2789610b44230041b523436342b"
+    ],
+    "source_record_ids": [
+      "links-1023"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ef7c2789610b44230041b523436342b",
+          "Plant Name": "Viscum monoicum Roxb. ex DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Viscum monoicum Roxb. ex DC.",
+        "source_record_id": "links-1023",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ef7c2789610b44230041b523436342b"
+      }
+    ],
+    "source_xplant_id": "3ef7c2789610b44230041b523436342b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

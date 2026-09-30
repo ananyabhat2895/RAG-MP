@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_446d8b81a0296fa1__vernacular_names__001",
+  "plant_id": "plant_446d8b81a0296fa1",
+  "plant_name": "Bixa orellana Linn.",
+  "botanical_name": "Bixa orellana",
+  "botanical_authority": "L.",
+  "family": "BIXACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): anatto, arnatto, roucou, urucu\nHindi (7): gowpurgee, latkan, latkhan, senduria, sinduria, sinduriya, vatkana\nKannada (27): aarnatu, arnattu, bangaara kaayi, bangarakayi, bhangarakai, bhangarakayi, chaayulitha, chayalitha, jaaphra, jaaphredu, japhredu, japrero, kappu mankaali, kappumankala, kesari, kesari rangu, kuppamanhale, rangamalar, rangamali, ranggida, rangoomalai, rangu maale, rangu malle, rangumale, rungamali, sannajabbale, sannajapali\nMalayalam (7): korangumunga, korungoomungal, kuppamanjal, kuppamannal, kurangamanchil, kurannamannal, kurannumannal\nMarathi (8): kaesari, kesari, keshri, kesui, kesuri, kisri, sendri, shendri\nSanskrit (10): Sanskrit CommentsX karachhada, raktabija, raktapushpa, shonapushpi, sindurapuspi, sinduri, sindurpushpi, sunomala, trivapushpi, virpushpa\nTamil (50): amudadaram, amutataram1, amuttaram, amuttiram1, aruna, avam, camankalikam, cappira, cappiran, carani, caruni, curanacanimaram, curattunacani, irakumancal, iram1, jaffra-maram, japhara, kantukam#, kantukam@, karankumankal, konkamaram, konkaram, konkaramam, konkaramaram, konkarayam, konkari, kunguman, kunkumam, kuppaimancal, kurakumancal, kurankumancal, mancatti 1, mancitti 1, manjitti, mantiravanci, nakamucikai, nakamucikaimaram, naravam1, naravu, naravucaram, punkavi, sabara, sappira virai, sappiravirai, tumpacitamaram, turumam, uragumanjai, uragumanjal, varagumanjal, vennaivirai\nTelugu (8): jaabara, jaabura, jaapharaa chettu, jabaru kaya, jabura, jaffra, jaffrachettu, jafra",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d0812dcec1feb32e6de6d3d3f45f5c5"
+  ],
+  "source_record_ids": [
+    "links-1797"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d0812dcec1feb32e6de6d3d3f45f5c5"
+    ],
+    "source_record_ids": [
+      "links-1797"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d0812dcec1feb32e6de6d3d3f45f5c5",
+          "Plant Name": "Bixa orellana Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bixa orellana Linn.",
+        "source_record_id": "links-1797",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d0812dcec1feb32e6de6d3d3f45f5c5"
+      }
+    ],
+    "source_xplant_id": "8d0812dcec1feb32e6de6d3d3f45f5c5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

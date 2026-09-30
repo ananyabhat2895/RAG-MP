@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_937ce839ad31d8ac__vernacular_names__002",
+  "plant_id": "plant_937ce839ad31d8ac",
+  "plant_name": "Ficus glomerata Roxb.",
+  "botanical_name": "Ficus racemosa",
+  "botanical_authority": "L.",
+  "family": "MORACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (160): acamarutam, acamarutam#, acamarutam@, acuvattam, acuvattam 1, adam, adavam, adavu, addi, akki, alaram, anai, anai 1, anaikkannan, anaikkanru, anaikkanru 1, anaimaram, ancirakam, anciram, anjiram, appiyakatan, appiykatan, ara, arattam, arattamaram, aro, aro@, aruvu, asamarudam, asuvattam, ata, ata@, atalai, atalai 1#, atam, atavam, atavattippili, atavi, atavu, athi, athikkai, aththi, aticayaputpi, atthi, atti, atti ilai, atti pal, atti pattai, atti-pazham, atti-t-tol, attie puttay, attikam, attimorappattai, attip pattai, attiverttol, attmukil, cakkaram, cakkaram 1, cakkirakam, cakkirakamaram, cakkiram, cakkiram#, cantakarikamaram, catakarikamaram, catapalam, catapalam 1, cirataru, ciravirutcam, citavarkam, citavarkkam, cuppiratastam, cuppiratistam, cuppirattittam, emaruttam, ematuttam, kalikai, kalikai 1, kalimokanam, karupparam, katakam, kati, kauli, kauri, kecakam, koli, kolikam, kolikamaram, koni, koni 1, koturuvakam, kuncaram, kuncaram 1, kuncaramaram, kuncari, kuncarimaram, kuvyaputpakam, kuyyaputpakam, macaki, macaki 1, malaiyinmunivan, malaiyinmunivan 2, mamali, mamalimaram, marattatti, matakuncaram, matakuncaramaram, matakuncaramram, matankai, matankai 1, matankal, moy, muttummi, muttummi 1, nallatti, narruli, param, paramam, pavittirakam, pavittirakam 1, perakatti, puspacuniyam, putakimaram, putpacuniyam, putpapala, puttovam, puvirkanni, tacanati, tanu, tarakkati, tarakkatimaram, tarumapattiram, tumbaram, tumpakam, tumpakam 1, tumparam, tuniyankamaram, tuppakar, upattapattiram, utamparam, utamparamaram, utumpai, utumpar, utumparam, utumparam 1, utumparam@, va, valuvi, vayamam, vellaiatthi, vetacannam, virapi, vitaiyatti, vitapi 1, viyacam, yakkiyayokkiyam, yamappiriyam, yamappiriyam 1, yamatuttam, yatavu, yatavumaram\nTelugu (23): athi, atthi, atthichettu, atti, attimanu, boda, bodda, brahmamedi, bramhamedi, budi, haritaksha, madi, mari, maydi, medi, medichettu, mori, moydi, moyui, paid, paidi, udambaramu, udumbaramu\nTibetan (1): u du mba ra\nUrdu (1): gular",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7/xclkon/0a6fc1518f767f06ed6e96b6fa1bb8f8",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7"
+  ],
+  "source_record_ids": [
+    "links-2021",
+    "links-2022"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7/xclkon/0a6fc1518f767f06ed6e96b6fa1bb8f8",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7"
+    ],
+    "source_record_ids": [
+      "links-2021",
+      "links-2022"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7/xclkon/0a6fc1518f767f06ed6e96b6fa1bb8f8",
+          "Plant Name": "Ficus glomerata Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus glomerata Roxb.",
+        "source_record_id": "links-2021",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7/xclkon/0a6fc1518f767f06ed6e96b6fa1bb8f8"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7",
+          "Plant Name": "Ficus racemosa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus racemosa Linn.",
+        "source_record_id": "links-2022",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7"
+      }
+    ],
+    "source_xplant_id": "b22339bd7b08169fb15e7da6dfbc9aa7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

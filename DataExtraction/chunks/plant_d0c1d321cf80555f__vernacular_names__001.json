@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d0c1d321cf80555f__vernacular_names__001",
+  "plant_id": "plant_d0c1d321cf80555f",
+  "plant_name": "Jasminum officinale Linn. forma. grandiflorum (Lin",
+  "botanical_name": "Jasminum officinale",
+  "botanical_authority": "L.",
+  "family": "OLEACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): common jasmine, white jasmine\nHindi (13): bammalti, ban chameli, banmalti, chamba, chambali, chambeli, chameli, champa, dhur malti, jai, malti, sansaoni, white jasmine\nKannada (12): aane jaaji, aane mallige, aanejaajimallige, aanemallige, ajjige, ajjuge, jaaji, jaajihoo, jaajihoovu, jaajimallige, sanna jaaji mallige, sannajajimallige\nMarathi (7): chambelee, chamelee, jaayi, jai, jayli, motiya, ran mogri\nSanskrit (28): Sanskrit CommentsX adhi, ambashtha, bahugandha, balapushpi, balapushpika, bhringananda, cetika, charumoda, gajavhaya, ganika, gunajvala, harini, hrdyagandha, jati, maguni, malati, mallika, modani, prahasanti, punyagandha, saumanasyayani, shankhayuthika, shikhandi, shikhandini, sugandhika, sumana, vasanti, yuthika\nTelugu (5): chameli, jaaji, maalathi, malli, sanna jaji\nUrdu (1): roghan chambeli",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b6b54f801cb2e72f8a5c62d7ccccb36"
+  ],
+  "source_record_ids": [
+    "links-0775"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b6b54f801cb2e72f8a5c62d7ccccb36"
+    ],
+    "source_record_ids": [
+      "links-0775"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b6b54f801cb2e72f8a5c62d7ccccb36",
+          "Plant Name": "Jasminum officinale Linn. forma. grandiflorum (Lin",
+          "Status": "Found"
+        },
+        "source_plant_name": "Jasminum officinale Linn. forma. grandiflorum (Lin",
+        "source_record_id": "links-0775",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b6b54f801cb2e72f8a5c62d7ccccb36"
+      }
+    ],
+    "source_xplant_id": "8b6b54f801cb2e72f8a5c62d7ccccb36",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

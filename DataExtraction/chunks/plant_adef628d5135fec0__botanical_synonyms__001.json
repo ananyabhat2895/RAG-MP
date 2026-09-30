@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_adef628d5135fec0__botanical_synonyms__001",
+  "plant_id": "plant_adef628d5135fec0",
+  "plant_name": "Hibiscus cancellatus Roxb.",
+  "botanical_name": "Abelmoschus crinitus",
+  "botanical_authority": "WALL.",
+  "family": "MALVACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Hibiscus cancellatus ROXB. X Full Botanical citation - Hibiscus cancellatus Roxb., Fl. Ind. 3: 201. 1832, non L.f. 1782; T.K. Paul in B.D.Sharma & Sanjappa, Fl. India 3: 302. 1993.\nSynonym: Hibiscus cancellatus ROXB.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abe65b2e409317659131e47d5b7fa402/xclkon/bbfd6a91927f3260981223b8f9a98479"
+  ],
+  "source_record_ids": [
+    "links-0987"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abe65b2e409317659131e47d5b7fa402/xclkon/bbfd6a91927f3260981223b8f9a98479"
+    ],
+    "source_record_ids": [
+      "links-0987"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abe65b2e409317659131e47d5b7fa402/xclkon/bbfd6a91927f3260981223b8f9a98479",
+          "Plant Name": "Hibiscus cancellatus Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hibiscus cancellatus Roxb.",
+        "source_record_id": "links-0987",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abe65b2e409317659131e47d5b7fa402/xclkon/bbfd6a91927f3260981223b8f9a98479"
+      }
+    ],
+    "source_xplant_id": "abe65b2e409317659131e47d5b7fa402",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

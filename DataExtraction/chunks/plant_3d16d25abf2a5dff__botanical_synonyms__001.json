@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_3d16d25abf2a5dff__botanical_synonyms__001",
+  "plant_id": "plant_3d16d25abf2a5dff",
+  "plant_name": "Enicostemma littorale Blume.",
+  "botanical_name": "Enicostemma axillare",
+  "botanical_authority": "(LAM.) RAYNAL",
+  "family": "GENTIANACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Adenema hyssopifolium G. DON Enicostemma hyssopifolium (WILLD.) VERDOORN X Full Botanical citation - Enicostema hyssopifolium (Willd.) I.C.Verdoorn in Bothalia 7: 462. 1961; N.P.Singh & al., Fl. Maharashtra State Dicotyledones, 2: Fl. India Ser 2: 405. 2001. Enicostemma littorale BLUME X Full Botanical citation - Enicostema littorale non Bl. 1826; C.B.Cl. in Hook.f. Fl. Brit. India 4: 101. 1883; N.P.Singh & al., Fl. Maharashtra State Dicotyledones, 2: Fl. India Ser 2: 405. 2001. Enicostemma verticillatum (L.) ENGL.\nSynonym: Adenema hyssopifolium G. DON\nSynonym: Enicostemma hyssopifolium (WILLD.) VERDOORN\nSynonym: Enicostemma littorale BLUME\nSynonym: Enicostemma verticillatum (L.) ENGL.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0487812b0cc32dc0742a1efb484b6759/xclkon/4616c13b6cdcf30b2790cdb511889aa6"
+  ],
+  "source_record_ids": [
+    "links-1368"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0487812b0cc32dc0742a1efb484b6759/xclkon/4616c13b6cdcf30b2790cdb511889aa6"
+    ],
+    "source_record_ids": [
+      "links-1368"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0487812b0cc32dc0742a1efb484b6759/xclkon/4616c13b6cdcf30b2790cdb511889aa6",
+          "Plant Name": "Enicostemma littorale Blume.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Enicostemma littorale Blume.",
+        "source_record_id": "links-1368",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0487812b0cc32dc0742a1efb484b6759/xclkon/4616c13b6cdcf30b2790cdb511889aa6"
+      }
+    ],
+    "source_xplant_id": "0487812b0cc32dc0742a1efb484b6759",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

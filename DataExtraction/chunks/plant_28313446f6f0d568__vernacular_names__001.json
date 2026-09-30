@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_28313446f6f0d568__vernacular_names__001",
+  "plant_id": "plant_28313446f6f0d568",
+  "plant_name": "Michelia champaca Linn.",
+  "botanical_name": "Michelia champaca",
+  "botanical_authority": "L.",
+  "family": "MAGNOLIACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): champak, sapu\nHindi (8): campa, campaka, champ, champa, champac, champaca, champaka, champe-ke-phul\nKannada (21): campaka, champa, champaka, champige, gandhaphali, kandasampige, kenda sampige, kendasampige, kolasampiga, kolasampige, kolu sampige, mara sampige, sampage, sampage-huvvu, sampaghy, sampai, sampayi, sampige, sampige mara, sampighi, sempage\nMalayalam (13): campakam, cempakam, champa, champaca, champacam, champaga, champak, champakam, chembagam, chembakam, chempacam, chempakam, chempakap-pu\nMarathi (7): chamfo, champa, kudchampa, pivalachampa, sona champa, sonachampa, sonchampa\nSanskrit (51): Sanskrit CommentsX anjana, atigandhaka, bhramaratithi, bhringmohi, campaca, campaka, campakah, campakam, campeya, chambunala, champaka, champakapushpam, champeya, deepapushpa, gandhaphali, hemanga, hemapushpa, hemapushpika, hemapuspaka, hemavha, kamabana, kancana, kanchana, katu, kumara, kusuma, kusumadhipa, kusumadhirata, nagapushpa, patichampaka, peetapushpa, pitapuspa, punyagandha, rajachampaka, shatapadatithi, shitala, shitalachchada, sthiragandha, sthirpushpa, subhaga, sukumara, surabhi, suvarna, svarnacampaka, svarnachampaka, svarnapushpa, ugragandha, vanadapika, vanadeepa, vanamalika, varalabdha",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8582ec2fd3dc3aefecd75589825be340"
+  ],
+  "source_record_ids": [
+    "links-0402"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8582ec2fd3dc3aefecd75589825be340"
+    ],
+    "source_record_ids": [
+      "links-0402"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8582ec2fd3dc3aefecd75589825be340",
+          "Plant Name": "Michelia champaca Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Michelia champaca Linn.",
+        "source_record_id": "links-0402",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8582ec2fd3dc3aefecd75589825be340"
+      }
+    ],
+    "source_xplant_id": "8582ec2fd3dc3aefecd75589825be340",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_50eb0703946120fd__identification__001",
+  "plant_id": "plant_50eb0703946120fd",
+  "plant_name": "Chonemorpha macrophylla (Roxb.) G. Don.",
+  "botanical_name": "Chonemorpha fragrans",
+  "botanical_authority": "(MOON) ALSTON",
+  "family": "APOCYNACEAE",
+  "section": "identification",
+  "content": "Plant name: Chonemorpha macrophylla (Roxb.) G. Don. Botanical name: Chonemorpha fragrans Botanical authority: (MOON) ALSTON Family: APOCYNACEAE Source xplant ID: 0e226f5253039d573103075266c8488d",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e226f5253039d573103075266c8488d/xclkon/eb0264b4d22d944eb5dd16edf5266bc7"
+  ],
+  "source_record_ids": [
+    "links-1316",
+    "links-1317"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e226f5253039d573103075266c8488d/xclkon/eb0264b4d22d944eb5dd16edf5266bc7"
+    ],
+    "source_record_ids": [
+      "links-1316",
+      "links-1317"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e226f5253039d573103075266c8488d/xclkon/eb0264b4d22d944eb5dd16edf5266bc7",
+          "Plant Name": "Chonemorpha macrophylla (Roxb.) G. Don.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Chonemorpha macrophylla (Roxb.) G. Don.",
+        "source_record_id": "links-1316",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e226f5253039d573103075266c8488d/xclkon/eb0264b4d22d944eb5dd16edf5266bc7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e226f5253039d573103075266c8488d/xclkon/eb0264b4d22d944eb5dd16edf5266bc7",
+          "Plant Name": "Chonemorpha macrophylla G. Don",
+          "Status": "Found"
+        },
+        "source_plant_name": "Chonemorpha macrophylla G. Don",
+        "source_record_id": "links-1317",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e226f5253039d573103075266c8488d/xclkon/eb0264b4d22d944eb5dd16edf5266bc7"
+      }
+    ],
+    "source_xplant_id": "0e226f5253039d573103075266c8488d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

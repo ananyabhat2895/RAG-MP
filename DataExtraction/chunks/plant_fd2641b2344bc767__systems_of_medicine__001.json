@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_fd2641b2344bc767__systems_of_medicine__001",
+  "plant_id": "plant_fd2641b2344bc767",
+  "plant_name": "Alocasia indica Schott.",
+  "botanical_name": "Alocasia macrorhiza",
+  "botanical_authority": "(L.) G.DON",
+  "family": "ARACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha Botanical Synonyms (2) - Alocasia indica (LOUR.) SPACH Arum macrorhizon L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c6a53b220ebf0e8aad02f5f07d22efe7/xclkon/152d4706dfe1370ce37176961c0ba6e7"
+  ],
+  "source_record_ids": [
+    "links-1243",
+    "links-1244",
+    "links-1245"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c6a53b220ebf0e8aad02f5f07d22efe7/xclkon/152d4706dfe1370ce37176961c0ba6e7"
+    ],
+    "source_record_ids": [
+      "links-1243",
+      "links-1244",
+      "links-1245"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c6a53b220ebf0e8aad02f5f07d22efe7/xclkon/152d4706dfe1370ce37176961c0ba6e7",
+          "Plant Name": "Alocasia indica Schott.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alocasia indica Schott.",
+        "source_record_id": "links-1243",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c6a53b220ebf0e8aad02f5f07d22efe7/xclkon/152d4706dfe1370ce37176961c0ba6e7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c6a53b220ebf0e8aad02f5f07d22efe7/xclkon/152d4706dfe1370ce37176961c0ba6e7",
+          "Plant Name": "Alocasia indica (Roxb) schott.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alocasia indica (Roxb) schott.",
+        "source_record_id": "links-1244",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c6a53b220ebf0e8aad02f5f07d22efe7/xclkon/152d4706dfe1370ce37176961c0ba6e7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c6a53b220ebf0e8aad02f5f07d22efe7/xclkon/152d4706dfe1370ce37176961c0ba6e7",
+          "Plant Name": "Alocasia indica (Roxb.) Schott.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alocasia indica (Roxb.) Schott.",
+        "source_record_id": "links-1245",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c6a53b220ebf0e8aad02f5f07d22efe7/xclkon/152d4706dfe1370ce37176961c0ba6e7"
+      }
+    ],
+    "source_xplant_id": "c6a53b220ebf0e8aad02f5f07d22efe7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_4397ca125d07424e__vernacular_names__001",
+  "plant_id": "plant_4397ca125d07424e",
+  "plant_name": "Aglaia roxburghiana Miq.",
+  "botanical_name": "Aglaia elaeagoidea",
+  "botanical_authority": "(JUSS.) BENTH.",
+  "family": "MELIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (1): priyangu\nKannada (8): aevaadu, gadagayya, kalla bendaka, kempu nola, priyangu, thottilu, tottila, tottilakayi\nMalayalam (7): cempuli, cheeralam, nyalei, punniyava, punyava, sempuli, shempuli\nSanskrit (36): Sanskrit CommentsX anganapriya, bhangura, bhedini, gandhaphala, gandhapriyangu, gauri, gaurvalli, govandini, govarna, gundra, kanguni, kanta, karambha, katu, krishnapushpi, lata, mahilavhaya, mangalya, mithavalli, narivallabha, parnabhedini, phalapriya, phalini, pita, preyasi, priyaka, priyangu, priyanguh, rishangi, shubha, shyama, subhanga, vanita, vishvaksena, visvaksenakanta, vritta\nTamil (7): chokkala, chokla, cokkalai, kannikkombu, kannikkompu, kunrapalam, sokkalai\nTelugu (5): erranduga, ettanduga, kondanduga, yarra aduga, yerra adugu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1196702c506e590161ca11e568e45e9/xclkon/ab4eafbc77fae2da372824c74f244474"
+  ],
+  "source_record_ids": [
+    "links-1540",
+    "links-1542"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1196702c506e590161ca11e568e45e9/xclkon/ab4eafbc77fae2da372824c74f244474"
+    ],
+    "source_record_ids": [
+      "links-1540",
+      "links-1542"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1196702c506e590161ca11e568e45e9/xclkon/ab4eafbc77fae2da372824c74f244474",
+          "Plant Name": "Aglaia roxburghiana Miq.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aglaia roxburghiana Miq.",
+        "source_record_id": "links-1540",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1196702c506e590161ca11e568e45e9/xclkon/ab4eafbc77fae2da372824c74f244474"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1196702c506e590161ca11e568e45e9/xclkon/ab4eafbc77fae2da372824c74f244474",
+          "Plant Name": "Aglaia roxburghiana",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aglaia roxburghiana",
+        "source_record_id": "links-1542",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1196702c506e590161ca11e568e45e9/xclkon/ab4eafbc77fae2da372824c74f244474"
+      }
+    ],
+    "source_xplant_id": "a1196702c506e590161ca11e568e45e9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

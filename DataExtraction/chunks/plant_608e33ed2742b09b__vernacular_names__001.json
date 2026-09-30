@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_608e33ed2742b09b__vernacular_names__001",
+  "plant_id": "plant_608e33ed2742b09b",
+  "plant_name": "Alpinia galanga Willd.",
+  "botanical_name": "Alpinia galanga",
+  "botanical_authority": "(L.) WILLD.",
+  "family": "ZINGIBERACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): siamese ginger\nHindi (9): bara-kalijan, bara-kulanjan, barakalijan, barakulanjan, barakulinjan, kulanajn, kulanjan, kulinjan, saphed-panaki-jhad\nKannada (18): dhumarasmi, doddadumprashme, doopparaasme, dumbaraasme, dumbarasme, dumbraashta, dumpa rasme, dumpa-rasmi, dumparaasme, dumrashta, gandhamoola, kulinjana, raasmi, rasmi, rasmini, sugandhavachi, sugandhavaci, sughandavachi\nMalayalam (6): aratta, chitta-ratta, cittaratta, pera-ratta, peraratta, perasatta\nMarathi (4): kolinjan, kosht-kulinjan, koshtkulinjan, kulimjan\nSanskrit (32): Sanskrit CommentsX aruna, dhumala, dhumparastma, dumparastma, elaparni, gandhamula, gandhavaruni, kapidruma, kemooka, koraja, kulangana, kulanja, kulanjana, kulin-jana, kulinjana, kushtam, mahabaravach, mahabharavacha, mahabhari vaca, mahabharivaca, malayavaca, nakuli, patala, purusha, raktapushpa, rasna, sthulagranthi, sugandha, sugandhamula, sugandhavacha, sugandhayoga, tikshnamula\nTamil (98): akkulati, anaivacampu, anandam, anantam 1, anantatam, ananti#, ananti@, aracanam 2#, aracanam 2@, araddai, arattai, ardubam, arppatumam, arttupam, arttuvam, artupam, atitipam, attumam, attumam#, attumam@, atumam, cakunam, canna rastakam, caramarutam, cattiratci, cattiratti, cencaram, cerukkampam, cikamatakikam, cikamatam, cirenki, citakampam, cukantam 1, curacam, curatakku, curatakkutam, elaparani, erarattai, iracana#, iracana@, iracanacikam, iracanakikam, iracina, iratanai, irattaputpam 1, irattarenu, kandanaguliyam, kantamulam 1, kantanakuliyam, katiyastakam, kattiratci, kentacamakan, kentakanarani, kostum, kottakarai, kulancam, mitintarattai, mitintu, mulatiracam, mutical, nakuli 1, narayanam, natanatam, oramrundu, ormaruntu, pavanam, pera-rattai, peraraddai, perarathai, perarathi, perarattai, perarattai#, perarattai@, perearetei, periareta, purantam, putakani, sattiradji, sugandam, thumbrashtagam, tiritosavatakacakkini, tittikam, tittipam, tittiram, tittiyam#, tittiyam@, tummarastakam, tumpakam 2, tumparastakam, tumparattakam, tumparattam, tumpurastakam, tumpurattakam, tumpurattam, tumras takam, turani, uttamam, vamanaci\nTelugu (8): dumparaashtrakamu, dumparashtrakamu, kachoramu, pedda-dhumpa, pedda-dumpa-rashtrakam, peddadumparaashtrakmu, peddadumparashtrakamu, rash-trakam\nUrdu (4): badi khulanjan, khulanjan, khulanjan nim kofta, kulanjan",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f9eeb2fe2b90d2e709e35578cfac2019"
+  ],
+  "source_record_ids": [
+    "links-0562",
+    "links-1599"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f9eeb2fe2b90d2e709e35578cfac2019"
+    ],
+    "source_record_ids": [
+      "links-0562",
+      "links-1599"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f9eeb2fe2b90d2e709e35578cfac2019",
+          "Plant Name": "Alpinia galanga Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alpinia galanga Willd.",
+        "source_record_id": "links-0562",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f9eeb2fe2b90d2e709e35578cfac2019"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f9eeb2fe2b90d2e709e35578cfac2019",
+          "Plant Name": "Alpinia galanga Swartz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alpinia galanga Swartz.",
+        "source_record_id": "links-1599",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f9eeb2fe2b90d2e709e35578cfac2019"
+      }
+    ],
+    "source_xplant_id": "f9eeb2fe2b90d2e709e35578cfac2019",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

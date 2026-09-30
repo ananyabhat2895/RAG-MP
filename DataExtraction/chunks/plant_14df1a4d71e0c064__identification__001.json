@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_14df1a4d71e0c064__identification__001",
+  "plant_id": "plant_14df1a4d71e0c064",
+  "plant_name": "Dalbergia latifolia Roxb.",
+  "botanical_name": "Dalbergia latifolia",
+  "botanical_authority": "ROXB.",
+  "family": "FABACEAE",
+  "section": "identification",
+  "content": "Plant name: Dalbergia latifolia Roxb. Botanical name: Dalbergia latifolia Botanical authority: ROXB. Family: FABACEAE Source xplant ID: 65729cfec46ebfbd5adf66058b28f6a4",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/65729cfec46ebfbd5adf66058b28f6a4"
+  ],
+  "source_record_ids": [
+    "links-1794"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/65729cfec46ebfbd5adf66058b28f6a4"
+    ],
+    "source_record_ids": [
+      "links-1794"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/65729cfec46ebfbd5adf66058b28f6a4",
+          "Plant Name": "Dalbergia latifolia Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dalbergia latifolia Roxb.",
+        "source_record_id": "links-1794",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/65729cfec46ebfbd5adf66058b28f6a4"
+      }
+    ],
+    "source_xplant_id": "65729cfec46ebfbd5adf66058b28f6a4",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

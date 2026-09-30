@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_12134a8a31a30759__bibliography__001",
+  "plant_id": "plant_12134a8a31a30759",
+  "plant_name": "Remusatia vivipara Schott.",
+  "botanical_name": "Remusatia vivipara",
+  "botanical_authority": "SCHOTT.",
+  "family": "ARACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol III\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)\nBibliography entry: title: Title - Flora of Maharashrta State (Monocotyledons)\nBibliography entry: title: Title - Flora of Rajasthan Vol. 3\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - The Flora of Orissa Vol IV\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4fad94ea04f7e7e3771258a51246161f"
+  ],
+  "source_record_ids": [
+    "links-1165"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4fad94ea04f7e7e3771258a51246161f"
+    ],
+    "source_record_ids": [
+      "links-1165"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4fad94ea04f7e7e3771258a51246161f",
+          "Plant Name": "Remusatia vivipara Schott.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Remusatia vivipara Schott.",
+        "source_record_id": "links-1165",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4fad94ea04f7e7e3771258a51246161f"
+      }
+    ],
+    "source_xplant_id": "4fad94ea04f7e7e3771258a51246161f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_29620a41a746e27b__botanical_synonyms__001",
+  "plant_id": "plant_29620a41a746e27b",
+  "plant_name": "Clerodendrum indicum (Linn.) Ktze.",
+  "botanical_name": "Clerodendrum indicum",
+  "botanical_authority": "(L.) KUNTZE",
+  "family": "VERBENACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Clerodendrum siphonanthus R.BR. X Full Botanical citation - Clerodendrum siphonanthus R.Br. in W.T. Aiton, Hort. Kew. ed. 2, 4: 65. 1812; A Rajendran & P.Daniel, The Indian Verbenaceae ( A Taxonomic Revision) 109. 2002.\nSynonym: Clerodendrum siphonanthus R.BR.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff"
+  ],
+  "source_record_ids": [
+    "links-0306",
+    "links-0310",
+    "links-0311",
+    "links-0312"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff"
+    ],
+    "source_record_ids": [
+      "links-0306",
+      "links-0310",
+      "links-0311",
+      "links-0312"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff",
+          "Plant Name": "Clerodendrum indicum (Linn.) Ktze.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clerodendrum indicum (Linn.) Ktze.",
+        "source_record_id": "links-0306",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff",
+          "Plant Name": "Clerodendrum indicum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clerodendrum indicum",
+        "source_record_id": "links-0310",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff",
+          "Plant Name": "Clerodendrum indicum (Linn.) Kuntze",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clerodendrum indicum (Linn.) Kuntze",
+        "source_record_id": "links-0311",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff",
+          "Plant Name": "Clerodendrum indicum (Linn.) Kutze.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clerodendrum indicum (Linn.) Kutze.",
+        "source_record_id": "links-0312",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff"
+      }
+    ],
+    "source_xplant_id": "11a902a8540ab674473d82c5288adfff",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

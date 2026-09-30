@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_9f97456f3b0e92ce__distribution__001",
+  "plant_id": "plant_9f97456f3b0e92ce",
+  "plant_name": "Lannea grandis (Dennst.) Engl.",
+  "botanical_name": "Lannea coromandelica",
+  "botanical_authority": "(HOUTT.) MERRILL",
+  "family": "ANACARDIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - BSI Scientist; distribution: Distribution; title: Title - Flora of West Bengal Vol 1\nDistribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - Ed. P. Daniel; distribution: Distribution; title: Title - The Flora of Kerala Vol I\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - C.J SALDHANA; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-2\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol I\nDistribution entry: author: Author - HARIDASAN K & RAO R R; distribution: Distribution; title: Title - FOREST FLORA OF MEGHALAYA VOL 1\nDistribution entry: author: Author - A.E. Osmaston; distribution: Distribution; title: Title - A Forest Flora for Kumaon\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de/xclkon/e465cb5437e4dc93479de2f06660d391"
+  ],
+  "source_record_ids": [
+    "links-0657"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de/xclkon/e465cb5437e4dc93479de2f06660d391"
+    ],
+    "source_record_ids": [
+      "links-0657"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de/xclkon/e465cb5437e4dc93479de2f06660d391",
+          "Plant Name": "Lannea grandis (Dennst.) Engl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lannea grandis (Dennst.) Engl.",
+        "source_record_id": "links-0657",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de/xclkon/e465cb5437e4dc93479de2f06660d391"
+      }
+    ],
+    "source_xplant_id": "ce649c9b00910b5bc2e1f3e8b02ca0de",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

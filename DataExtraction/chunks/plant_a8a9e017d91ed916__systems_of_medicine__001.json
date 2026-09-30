@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_a8a9e017d91ed916__systems_of_medicine__001",
+  "plant_id": "plant_a8a9e017d91ed916",
+  "plant_name": "Vallaris heynei Spreng.",
+  "botanical_name": "Vallaris solanacea",
+  "botanical_authority": "(ROTH.) KUNTZE.",
+  "family": "APOCYNACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda Botanical Synonyms (1) - Vallaris heynei SPRENG. X Full Botanical citation - Vallaris heynei Spreng.\nSystem of medicine: Syst. veg. ed. 16. 1: 635. (1824) 1825; S. Karthikeyan & al.\nSystem of medicine: Flowering Plants of India - Dicots. 1: 141. 2009.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c6b636f728d229222318d0f1987a3de/xclkon/4b0c25e59b722965755f63b289cb24c7",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c6b636f728d229222318d0f1987a3de"
+  ],
+  "source_record_ids": [
+    "links-0202",
+    "links-0203",
+    "links-1747"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c6b636f728d229222318d0f1987a3de/xclkon/4b0c25e59b722965755f63b289cb24c7",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c6b636f728d229222318d0f1987a3de"
+    ],
+    "source_record_ids": [
+      "links-0202",
+      "links-0203",
+      "links-1747"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c6b636f728d229222318d0f1987a3de/xclkon/4b0c25e59b722965755f63b289cb24c7",
+          "Plant Name": "Vallaris heynei Spreng.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vallaris heynei Spreng.",
+        "source_record_id": "links-0202",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c6b636f728d229222318d0f1987a3de/xclkon/4b0c25e59b722965755f63b289cb24c7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c6b636f728d229222318d0f1987a3de",
+          "Plant Name": "Vallaris solanacea O. Ktze.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vallaris solanacea O. Ktze.",
+        "source_record_id": "links-0203",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c6b636f728d229222318d0f1987a3de"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c6b636f728d229222318d0f1987a3de",
+          "Plant Name": "Vallaris solanacea",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vallaris solanacea",
+        "source_record_id": "links-1747",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c6b636f728d229222318d0f1987a3de"
+      }
+    ],
+    "source_xplant_id": "0c6b636f728d229222318d0f1987a3de",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

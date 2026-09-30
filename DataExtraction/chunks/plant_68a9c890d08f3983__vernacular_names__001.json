@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_68a9c890d08f3983__vernacular_names__001",
+  "plant_id": "plant_68a9c890d08f3983",
+  "plant_name": "Pogostemon heyneanus Benth.",
+  "botanical_name": "Pogostemon heyneanus",
+  "botanical_authority": "BENTH.",
+  "family": "LAMIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): indian patchouli\nKannada (1): daeva kanisha\nMarathi (2): paach paath, pat\nSanskrit (1): Sanskrit CommentsX paci\nTamil (7): kadirpachai, kannokkikyacceti, kannokkiyam, katirppaccai, katirppaccaicceti, parutippaccai, parutippaccaicceti",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a897818be825acfe7dcac7b5ed7402b2"
+  ],
+  "source_record_ids": [
+    "links-1412"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a897818be825acfe7dcac7b5ed7402b2"
+    ],
+    "source_record_ids": [
+      "links-1412"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a897818be825acfe7dcac7b5ed7402b2",
+          "Plant Name": "Pogostemon heyneanus Benth.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pogostemon heyneanus Benth.",
+        "source_record_id": "links-1412",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a897818be825acfe7dcac7b5ed7402b2"
+      }
+    ],
+    "source_xplant_id": "a897818be825acfe7dcac7b5ed7402b2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

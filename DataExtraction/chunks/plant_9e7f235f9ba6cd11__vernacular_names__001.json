@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_9e7f235f9ba6cd11__vernacular_names__001",
+  "plant_id": "plant_9e7f235f9ba6cd11",
+  "plant_name": "Hedychium spicatum Ham. ex Smith.",
+  "botanical_name": "Hedychium spicatum",
+  "botanical_authority": "BUCH.-HAM.",
+  "family": "ZINGIBERACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): abir\nHindi (9): bagldu, gandhapalashi, kachor, kafur-kachri, kapurakachari, kapurkachri, kapurkachur, selru, sitruti\nKannada (2): gandha saathi, gandhashati\nMarathi (7): kapoorakachari, kapurakachari, kapurkachur, seer, sonatakka, sutthee, vilaayithi kachhar\nSanskrit (40): Sanskrit CommentsX amlaharidra, amlanisha, durva, gandapatari, gandasati, gandha, gandhamuli, gandhamulika, gandhapalashi, gandhapalasi, gandharika, gandhasati, gandhavadhu, gandholi, haimi, haridracchadana, himaja, himodbhava, jimutamula, kachhora, karbura, karchura, karpura, karpurakachali, ndhori, prithupalashika, prthupalasika, samudra, sathi, sati, saumya, shadugrantha, shathi, shati, shedwa, sugandha, sugandhamula, sugandhasati, suvata, tuni\nTamil (5): cimai kiccilikkilanku, malai inci, shimai-kich-chilik-kishangu, shimai-kich-chilik-kizhangu, simaikkichilikkilhangu\nTelugu (1): sima-kich-chili-gaddalu\nTibetan (1): zur pa dkar po\nUrdu (1): kapurakachari",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86da902d72336fd05c674e47ca98f36c"
+  ],
+  "source_record_ids": [
+    "links-1772"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86da902d72336fd05c674e47ca98f36c"
+    ],
+    "source_record_ids": [
+      "links-1772"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86da902d72336fd05c674e47ca98f36c",
+          "Plant Name": "Hedychium spicatum Ham. ex Smith.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hedychium spicatum Ham. ex Smith.",
+        "source_record_id": "links-1772",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86da902d72336fd05c674e47ca98f36c"
+      }
+    ],
+    "source_xplant_id": "86da902d72336fd05c674e47ca98f36c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

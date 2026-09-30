@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_08a493254bf3522a__bibliography__001",
+  "plant_id": "plant_08a493254bf3522a",
+  "plant_name": "Valeriana pyrolaefolia Decne.",
+  "botanical_name": "Valeriana pyrolaefolia",
+  "botanical_authority": "DENE",
+  "family": "VALERIANACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: title: Title - Medicinal and Aromatic Plants of Himachal Pradesh\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol II",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/90ac6bb2da11ca14cdb19026e29584b0"
+  ],
+  "source_record_ids": [
+    "links-0526"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/90ac6bb2da11ca14cdb19026e29584b0"
+    ],
+    "source_record_ids": [
+      "links-0526"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/90ac6bb2da11ca14cdb19026e29584b0",
+          "Plant Name": "Valeriana pyrolaefolia Decne.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Valeriana pyrolaefolia Decne.",
+        "source_record_id": "links-0526",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/90ac6bb2da11ca14cdb19026e29584b0"
+      }
+    ],
+    "source_xplant_id": "90ac6bb2da11ca14cdb19026e29584b0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a34df6ff83467ef4__bibliography__001",
+  "plant_id": "plant_a34df6ff83467ef4",
+  "plant_name": "Agaricus campestris Linn.",
+  "botanical_name": "Agaricus campestris",
+  "botanical_authority": "L. EX FR.",
+  "family": "AGARICACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - ANONYMOUS; title: Title - ASTANGA HRIDAYA KOSHA\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf287e196320e52c1b7acb05d65234fb"
+  ],
+  "source_record_ids": [
+    "links-0441"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf287e196320e52c1b7acb05d65234fb"
+    ],
+    "source_record_ids": [
+      "links-0441"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf287e196320e52c1b7acb05d65234fb",
+          "Plant Name": "Agaricus campestris Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Agaricus campestris Linn.",
+        "source_record_id": "links-0441",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf287e196320e52c1b7acb05d65234fb"
+      }
+    ],
+    "source_xplant_id": "cf287e196320e52c1b7acb05d65234fb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

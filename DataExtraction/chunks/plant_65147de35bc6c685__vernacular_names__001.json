@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_65147de35bc6c685__vernacular_names__001",
+  "plant_id": "plant_65147de35bc6c685",
+  "plant_name": "Triumfetta rhomboidea Jack.",
+  "botanical_name": "Triumfetta rhomboidea",
+  "botanical_authority": "JACQ.",
+  "family": "TILIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (7): anduli, chikti, chiriyari, chitke, lapa, leswa kura, mandli\nKannada (7): jattoate, jottotte, kaadu bende, kaadubende, kata vaani, katavaani, vatavata\nMarathi (8): cheepate, jhinjhira, jhinjudi, kuthari, kuthrevandare, laandge, nichardi, toopkhadi\nSanskrit (2): Sanskrit CommentsX jhinjharita, jhinjhirita\nTamil (5): aadaiotti, adayotti, ataiyottippuntu, ottuppullu, puramutti\nTelugu (7): chiru sitrika, chirucithrika, cirucitrika, dekki, thuthuribenda, thutthurubenda, tuthura benda",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcce1ec86f24f6da681fb23f80151b5e"
+  ],
+  "source_record_ids": [
+    "links-0795"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcce1ec86f24f6da681fb23f80151b5e"
+    ],
+    "source_record_ids": [
+      "links-0795"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcce1ec86f24f6da681fb23f80151b5e",
+          "Plant Name": "Triumfetta rhomboidea Jack.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Triumfetta rhomboidea Jack.",
+        "source_record_id": "links-0795",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcce1ec86f24f6da681fb23f80151b5e"
+      }
+    ],
+    "source_xplant_id": "bcce1ec86f24f6da681fb23f80151b5e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

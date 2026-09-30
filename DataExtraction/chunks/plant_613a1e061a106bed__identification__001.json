@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_613a1e061a106bed__identification__001",
+  "plant_id": "plant_613a1e061a106bed",
+  "plant_name": "Swertia chirata Buch.-Ham.",
+  "botanical_name": "Swertia chirayita",
+  "botanical_authority": "ROXB. EX (FLEMING) KARST.",
+  "family": "GENTIANACEAE",
+  "section": "identification",
+  "content": "Plant name: Swertia chirata Buch.-Ham. Botanical name: Swertia chirayita Botanical authority: ROXB. EX (FLEMING) KARST. Family: GENTIANACEAE Source xplant ID: 694eb1f52999a025e8a35b35aa3d4935",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/f7d394b037ec5505be0b04ad4350411b",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935"
+  ],
+  "source_record_ids": [
+    "links-1051",
+    "links-1052"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/f7d394b037ec5505be0b04ad4350411b",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935"
+    ],
+    "source_record_ids": [
+      "links-1051",
+      "links-1052"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/f7d394b037ec5505be0b04ad4350411b",
+          "Plant Name": "Swertia chirata Buch.-Ham.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Swertia chirata Buch.-Ham.",
+        "source_record_id": "links-1051",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/f7d394b037ec5505be0b04ad4350411b"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935",
+          "Plant Name": "Swertia chirayita (Roxb. ex Flem.) Karst.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Swertia chirayita (Roxb. ex Flem.) Karst.",
+        "source_record_id": "links-1052",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935"
+      }
+    ],
+    "source_xplant_id": "694eb1f52999a025e8a35b35aa3d4935",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

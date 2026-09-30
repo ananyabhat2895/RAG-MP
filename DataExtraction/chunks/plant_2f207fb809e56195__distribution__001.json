@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_2f207fb809e56195__distribution__001",
+  "plant_id": "plant_2f207fb809e56195",
+  "plant_name": "Calotropis gigantea (Linn.) R.Br.ex Ait.",
+  "botanical_name": "Calotropis gigantea",
+  "botanical_authority": "(L.) R.BR.",
+  "family": "ASCLEPIADACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - A.E. Osmaston; distribution: Distribution; title: Title - A Forest Flora for Kumaon\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89"
+  ],
+  "source_record_ids": [
+    "links-0076",
+    "links-2066"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89"
+    ],
+    "source_record_ids": [
+      "links-0076",
+      "links-2066"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89",
+          "Plant Name": "Calotropis gigantea (Linn.) R.Br.ex Ait.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Calotropis gigantea (Linn.) R.Br.ex Ait.",
+        "source_record_id": "links-0076",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89",
+          "Plant Name": "Calotropis Gigantea",
+          "Status": "Found"
+        },
+        "source_plant_name": "Calotropis Gigantea",
+        "source_record_id": "links-2066",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89"
+      }
+    ],
+    "source_xplant_id": "9154e8f7b6a3cdddea2f4dd0a1076f89",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

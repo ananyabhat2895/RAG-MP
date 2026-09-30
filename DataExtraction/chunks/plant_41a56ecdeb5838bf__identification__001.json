@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_41a56ecdeb5838bf__identification__001",
+  "plant_id": "plant_41a56ecdeb5838bf",
+  "plant_name": "Corchorus acutangulus Linn.",
+  "botanical_name": "Corchorus aestuans",
+  "botanical_authority": "L.",
+  "family": "TILIACEAE",
+  "section": "identification",
+  "content": "Plant name: Corchorus acutangulus Linn. Botanical name: Corchorus aestuans Botanical authority: L. Family: TILIACEAE Source xplant ID: 08c0c96081f014ea5954247764d44fec",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08c0c96081f014ea5954247764d44fec/xclkon/548ed26baa93d20c8bd43fc0ab2cb975",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08c0c96081f014ea5954247764d44fec"
+  ],
+  "source_record_ids": [
+    "links-0406",
+    "links-0407"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08c0c96081f014ea5954247764d44fec/xclkon/548ed26baa93d20c8bd43fc0ab2cb975",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08c0c96081f014ea5954247764d44fec"
+    ],
+    "source_record_ids": [
+      "links-0406",
+      "links-0407"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08c0c96081f014ea5954247764d44fec/xclkon/548ed26baa93d20c8bd43fc0ab2cb975",
+          "Plant Name": "Corchorus acutangulus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Corchorus acutangulus Linn.",
+        "source_record_id": "links-0406",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08c0c96081f014ea5954247764d44fec/xclkon/548ed26baa93d20c8bd43fc0ab2cb975"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08c0c96081f014ea5954247764d44fec",
+          "Plant Name": "Corchorus aestuans Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Corchorus aestuans Linn.",
+        "source_record_id": "links-0407",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08c0c96081f014ea5954247764d44fec"
+      }
+    ],
+    "source_xplant_id": "08c0c96081f014ea5954247764d44fec",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

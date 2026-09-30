@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_42de6f2aad3dd886__identification__001",
+  "plant_id": "plant_42de6f2aad3dd886",
+  "plant_name": "Citrus reticulata Blanc.",
+  "botanical_name": "Citrus reticulata",
+  "botanical_authority": "BLANCO",
+  "family": "RUTACEAE",
+  "section": "identification",
+  "content": "Plant name: Citrus reticulata Blanc. Botanical name: Citrus reticulata Botanical authority: BLANCO Family: RUTACEAE Source xplant ID: 6fbc2de5b1514d4dd8191d02f72678af",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6fbc2de5b1514d4dd8191d02f72678af"
+  ],
+  "source_record_ids": [
+    "links-1383",
+    "links-1384"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6fbc2de5b1514d4dd8191d02f72678af"
+    ],
+    "source_record_ids": [
+      "links-1383",
+      "links-1384"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6fbc2de5b1514d4dd8191d02f72678af",
+          "Plant Name": "Citrus reticulata Blanc.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrus reticulata Blanc.",
+        "source_record_id": "links-1383",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6fbc2de5b1514d4dd8191d02f72678af"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6fbc2de5b1514d4dd8191d02f72678af",
+          "Plant Name": "Citrus reticulata Blanco.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrus reticulata Blanco.",
+        "source_record_id": "links-1384",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6fbc2de5b1514d4dd8191d02f72678af"
+      }
+    ],
+    "source_xplant_id": "6fbc2de5b1514d4dd8191d02f72678af",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

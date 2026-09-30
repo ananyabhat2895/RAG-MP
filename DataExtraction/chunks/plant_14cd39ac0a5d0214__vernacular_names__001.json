@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_14cd39ac0a5d0214__vernacular_names__001",
+  "plant_id": "plant_14cd39ac0a5d0214",
+  "plant_name": "Euphorbia thymifolia",
+  "botanical_name": "Euphorbia thymifolia",
+  "botanical_authority": "L.",
+  "family": "EUPHORBIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (8): chhoti-dudhi, chhotidudhi, chothadudhi, choti dudhi, choti-dudhi, duddhi, dudhiya, nigachuni\nKannada (7): bilechitra phala, bilee chitraphala, bilichihra phala, chithra ballaare, chithra paala, kempu nene hakki, naagaarjuni\nMalayalam (2): caicotten-pala, nilappala\nMarathi (5): duduni, ghakdidudhi, lahandudhi, lahannayati, mothidudhi\nSanskrit (9): Sanskrit CommentsX dugdhika, gorakshadugdhi, laghudugdhi, laghudugdhika, nagarjuni, racta-vinda-chada, raktabinducchada, raktavindachada, raktavinduchada\nTamil (10): amman pacharisi, ammanpacharisi, chin-amam patchey arisee, chinamampatchaiyausi, sinnamman-pacharisi, sithra paladai, sittirappaladi, sittrapaladai, sittrapaladi, sivappu amman pachharisi\nTelugu (7): bidurunabiyam, bidurunanabiyam, erra chittipayal aaku, peddavari, reddivaarinanubalu, reddivari nanbalu, reddivarimanubala",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e26bb85bbab718a7f8ca66e21cd10e"
+  ],
+  "source_record_ids": [
+    "links-0546",
+    "links-0547",
+    "links-1367"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e26bb85bbab718a7f8ca66e21cd10e"
+    ],
+    "source_record_ids": [
+      "links-0546",
+      "links-0547",
+      "links-1367"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e26bb85bbab718a7f8ca66e21cd10e",
+          "Plant Name": "Euphorbia thymifolia",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia thymifolia",
+        "source_record_id": "links-0546",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e26bb85bbab718a7f8ca66e21cd10e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e26bb85bbab718a7f8ca66e21cd10e",
+          "Plant Name": "Euphorbia thymifolia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia thymifolia Linn.",
+        "source_record_id": "links-0547",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e26bb85bbab718a7f8ca66e21cd10e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e26bb85bbab718a7f8ca66e21cd10e",
+          "Plant Name": "Euphorbia Thymifolia",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia Thymifolia",
+        "source_record_id": "links-1367",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e26bb85bbab718a7f8ca66e21cd10e"
+      }
+    ],
+    "source_xplant_id": "21e26bb85bbab718a7f8ca66e21cd10e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

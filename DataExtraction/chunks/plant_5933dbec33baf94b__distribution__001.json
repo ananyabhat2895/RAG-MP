@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5933dbec33baf94b__distribution__001",
+  "plant_id": "plant_5933dbec33baf94b",
+  "plant_name": "Elaeocarpus ganitrus Roxb.",
+  "botanical_name": "Elaeocarpus sphaericus",
+  "botanical_authority": "(GAERTN.) K.SCHUM.",
+  "family": "ELAEOCARPACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - KANJILAL & BOR; distribution: Distribution; title: Title - FLORA OF ASSAM\nDistribution entry: author: Author - Botanicaly Survey of India; distribution: Distribution; title: Title - FLORA OF INDIA VOL 3\nDistribution entry: author: Author - A S Chauhan, K P Singh, D K Singh; distribution: Distribution; title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nDistribution entry: author: Author - HARIDASAN K & RAO R R; distribution: Distribution; title: Title - FOREST FLORA OF MEGHALAYA VOL 1\nDistribution entry: author: Author - BSI Scientist; distribution: Distribution; title: Title - Flora of West Bengal Vol 1\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db00a5be8316e8113e129c02292d72e9/xclkon/bf20b7ae2571f24bbbd8e72f8aca685d"
+  ],
+  "source_record_ids": [
+    "links-1672"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db00a5be8316e8113e129c02292d72e9/xclkon/bf20b7ae2571f24bbbd8e72f8aca685d"
+    ],
+    "source_record_ids": [
+      "links-1672"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db00a5be8316e8113e129c02292d72e9/xclkon/bf20b7ae2571f24bbbd8e72f8aca685d",
+          "Plant Name": "Elaeocarpus ganitrus Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Elaeocarpus ganitrus Roxb.",
+        "source_record_id": "links-1672",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db00a5be8316e8113e129c02292d72e9/xclkon/bf20b7ae2571f24bbbd8e72f8aca685d"
+      }
+    ],
+    "source_xplant_id": "db00a5be8316e8113e129c02292d72e9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

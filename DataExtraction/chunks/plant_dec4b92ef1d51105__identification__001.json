@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_dec4b92ef1d51105__identification__001",
+  "plant_id": "plant_dec4b92ef1d51105",
+  "plant_name": "Croton oblongifolius",
+  "botanical_name": "Croton roxburghii",
+  "botanical_authority": "BALAK.",
+  "family": "EUPHORBIACEAE",
+  "section": "identification",
+  "content": "Plant name: Croton oblongifolius Botanical name: Croton roxburghii Botanical authority: BALAK. Family: EUPHORBIACEAE Source xplant ID: 8783a7235f3055037ecf53fdd382fc39",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39/xclkon/2ba2214c1eac5ed6152559704bdcaedb"
+  ],
+  "source_record_ids": [
+    "links-1351",
+    "links-1352"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39/xclkon/2ba2214c1eac5ed6152559704bdcaedb"
+    ],
+    "source_record_ids": [
+      "links-1351",
+      "links-1352"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39/xclkon/2ba2214c1eac5ed6152559704bdcaedb",
+          "Plant Name": "Croton oblongifolius",
+          "Status": "Found"
+        },
+        "source_plant_name": "Croton oblongifolius",
+        "source_record_id": "links-1351",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39/xclkon/2ba2214c1eac5ed6152559704bdcaedb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39/xclkon/2ba2214c1eac5ed6152559704bdcaedb",
+          "Plant Name": "Croton oblongifolius Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Croton oblongifolius Roxb.",
+        "source_record_id": "links-1352",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39/xclkon/2ba2214c1eac5ed6152559704bdcaedb"
+      }
+    ],
+    "source_xplant_id": "8783a7235f3055037ecf53fdd382fc39",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

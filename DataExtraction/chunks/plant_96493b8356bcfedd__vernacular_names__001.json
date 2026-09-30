@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_96493b8356bcfedd__vernacular_names__001",
+  "plant_id": "plant_96493b8356bcfedd",
+  "plant_name": "Alstonia scholaris R. Br.",
+  "botanical_name": "Alstonia scholaris",
+  "botanical_authority": "R.BR.",
+  "family": "APOCYNACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): dita bark\nHindi (10): chatian, chatiun, chattiyan, chhatan, chhatium, saitankajhad, saittan ka jat, satiun, satni, satwin\nKannada (38): aelele haale, bantale, doddapala, doddapale, elelebale, elelehale, elelepale, haale, haale mara, hale, jantala, jantale, janthaale mara, janthalla, janthalle, janthatthi, janthra haale, jantrahale, kaadu haale, kaadu saale, kadusaale, kadusale, kodaale, kodale, kodu haale, koduhale, koduhale madale, maddaale, maddale, madi haale, mudhol, mudihale, paale, palai, pale, palembu, saptaparni, yelelebaale mara\nMalayalam (19): daivapala, daivappala, elilampala, elilapala, elilapalei, erilampala, ezhilampala, ezhilapala, kodapala, kotapala, mangalapala, mangalappala, mokkanpala, mukampala, mukkampala, mukkan-pala, pala, shaitanwood, yaksippala\nMarathi (9): saptaparni, sapthaparni, sathuin, sathvin, sathwin, satuin, satveen, satvin, satwin\nSanskrit (48): Sanskrit CommentsX ayugmachchhada, ayugmaparna, ayukachhada, bahuparna, brihattvaka, brihatvaka, chatraparna, dalegandhi, devavriksha, gandhiparna, grahanasha, grahanashamaparna, grahashi, guchhapushpa, jivani, kshatrya, madagandha, munichhada, na, palagaruda, payasya, sapta-parna, saptacchada, saptacchadah, saptachadah, saptachhada, saptahva, saptanga, saptaparna, saptaparnah, saptaparni, sarada, shalmalipatraka, sharada, sharadipushpa, shirarujam, shuktiparna, sringiritika, suparnaka, sutipatra, vidha, vinada, vinyaka, visalatvak, visaltvak, visamacchada, vishalatvaka, vishamachhada\nTamil (19): azhilaip-palai, captaparanam, captaparani, elalaipalai, elilai-p-palai, elilai-ppalai, elilaippalai, elilappalai, ezhilai palai, ezhilai-palai, ezhilaip-palai, maranallari, mukam-palei, mukkanbalai, palai, palegaruda, palegarudu, tirunamappalai, vadirasi\nTelugu (17): daevasurippi, devasurippi, edaakulapaala, edaakulaponna, edakula-ariti, edakula-pala, edakula-ponna, edakulapala, edakulaponna, edakularati, elaaramu, elaramu, konda ganneru, paalagaruda, pala-garuda, palagaruda, yedakulapala\nTibetan (1): lo ma bdun\nUrdu (1): kashim (chatim)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ca05ad5b6726d1810b9927a421efeaad"
+  ],
+  "source_record_ids": [
+    "links-1736"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ca05ad5b6726d1810b9927a421efeaad"
+    ],
+    "source_record_ids": [
+      "links-1736"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ca05ad5b6726d1810b9927a421efeaad",
+          "Plant Name": "Alstonia scholaris R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alstonia scholaris R. Br.",
+        "source_record_id": "links-1736",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ca05ad5b6726d1810b9927a421efeaad"
+      }
+    ],
+    "source_xplant_id": "ca05ad5b6726d1810b9927a421efeaad",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

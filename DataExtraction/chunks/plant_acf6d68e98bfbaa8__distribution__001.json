@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_acf6d68e98bfbaa8__distribution__001",
+  "plant_id": "plant_acf6d68e98bfbaa8",
+  "plant_name": "Ephedra",
+  "botanical_name": "Ephedra gerardiana",
+  "botanical_authority": "WALL.",
+  "family": "EPHEDRACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Dr. Narain Singh Chauhan; distribution: Distribution; title: Title - Medicinal and Aromatic Plants of Himachal Pradesh\nDistribution entry: author: Author - A.E. Osmaston; distribution: Distribution; title: Title - A Forest Flora for Kumaon\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)\nDistribution entry: author: Author - G.S.Rawat; distribution: Distribution; title: Title - Alpine meadows of Uttaranchal",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4dc35ede014981b367c7c8982e4b4892"
+  ],
+  "source_record_ids": [
+    "links-1827",
+    "links-1828",
+    "links-1829"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4dc35ede014981b367c7c8982e4b4892"
+    ],
+    "source_record_ids": [
+      "links-1827",
+      "links-1828",
+      "links-1829"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4dc35ede014981b367c7c8982e4b4892",
+          "Plant Name": "Ephedra",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ephedra",
+        "source_record_id": "links-1827",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4dc35ede014981b367c7c8982e4b4892"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4dc35ede014981b367c7c8982e4b4892",
+          "Plant Name": "Ephedra gerardiana (Wall.) Stapf.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ephedra gerardiana (Wall.) Stapf.",
+        "source_record_id": "links-1828",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4dc35ede014981b367c7c8982e4b4892"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4dc35ede014981b367c7c8982e4b4892",
+          "Plant Name": "Ephedra gerardiana Wall.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ephedra gerardiana Wall.",
+        "source_record_id": "links-1829",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4dc35ede014981b367c7c8982e4b4892"
+      }
+    ],
+    "source_xplant_id": "4dc35ede014981b367c7c8982e4b4892",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

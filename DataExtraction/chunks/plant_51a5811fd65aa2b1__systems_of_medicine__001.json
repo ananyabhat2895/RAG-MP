@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_51a5811fd65aa2b1__systems_of_medicine__001",
+  "plant_id": "plant_51a5811fd65aa2b1",
+  "plant_name": "Salmalia insignis (Wall.) Schott. & Endl.",
+  "botanical_name": "Bombax insigne",
+  "botanical_authority": "WALL.",
+  "family": "BOMBACACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha Botanical Synonyms (1) - Salmalia insignis (WALL.) SCHOTT & ENDL. X Full Botanical citation - Salmalia insignis (Wall.) Schott & Engl. Melet. Bot. 35. 1832; N.P.Singh &al.\nSystem of medicine: Fl.Maharashtra state\nSystem of medicine: Dicotyledones\nSystem of medicine: 1: Fl.India Ser. 2: 343. 2000.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1dc01e870fe41f5c58d6ab70f240a47/xclkon/24f8445f30870d6c05957eb08be40323"
+  ],
+  "source_record_ids": [
+    "links-1705"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1dc01e870fe41f5c58d6ab70f240a47/xclkon/24f8445f30870d6c05957eb08be40323"
+    ],
+    "source_record_ids": [
+      "links-1705"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1dc01e870fe41f5c58d6ab70f240a47/xclkon/24f8445f30870d6c05957eb08be40323",
+          "Plant Name": "Salmalia insignis (Wall.) Schott. & Endl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Salmalia insignis (Wall.) Schott. & Endl.",
+        "source_record_id": "links-1705",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1dc01e870fe41f5c58d6ab70f240a47/xclkon/24f8445f30870d6c05957eb08be40323"
+      }
+    ],
+    "source_xplant_id": "b1dc01e870fe41f5c58d6ab70f240a47",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d788a7f91a88959f__vernacular_names__001",
+  "plant_id": "plant_d788a7f91a88959f",
+  "plant_name": "Averrhoa carambola Linn.",
+  "botanical_name": "Averrhoa carambola",
+  "botanical_authority": "L.",
+  "family": "OXALIDACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): caramba, carambola, star fruit\nHindi (6): kamarakh, kamaramga, kamaranga, kamrak, karmal, khamrak\nKannada (23): daare huli, darchuli, darehuli, darepuli, kamaraak mara, kamaraakshi, kamaraakshi hannu, kamarak, kamaraka mara, kamarakha, kamarakshi, kamarakshi mara, kamaranga, kamraak, kamrac, karamaadalu, karmaranga, kiranelli, kirinelli, kirinulli, kobari kaayi, komarakmara, komaree\nMalayalam (18): carambola, catarapuli, caturappuli, chatarapali, chaturappuli, irumpanpuli, kamaranga, kamarangam, pulachi, pulichi, pulinci, pulinji, saturappuli, tamara, tamarat-tuka, tamaratonga, tamaratta, thamarathamu\nMarathi (6): kamarakha, karamala, karmal, karmar, karmare, kumrak\nSanskrit (16): Sanskrit CommentsX brihaddala, dantasatha, dharaphala, dharaphalah, karmar, karmara, karmaranga, karmarangah, karuka, karukah, mudgara, pitaphala, pitaphalah, rujakara, shiral, shukapriya\nTamil (35): cakatam1, cakattai, caturappuli, ci, cicakari, cicam, cikam, cukkirakam, cukkirakamaram, kacerukam, kandasagadam, kantacatakamaram, kantacatcam, kantacatkam, nattuttamarattai, pukamatitam, pukamatitamaram, pulipputtamarattai, putakecam, putakecaramaram, sagadam, sigam, sisam, tamarakam, tamarakamaram, tamarathai, tamaraththam, tamarattai, tamarattaimaram, tamarattam, tamarattankay, tamaratti, tamarttam-kay, tantacatam1, thamaratham\nTelugu (7): karamanooga, karamonga, karomonga, tamaratamu, tamarta, tamarta-kaya, thamaratha\nUrdu (1): kamarakha",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/70f29ae5502f8433970fc679ecedd77b"
+  ],
+  "source_record_ids": [
+    "links-0480"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/70f29ae5502f8433970fc679ecedd77b"
+    ],
+    "source_record_ids": [
+      "links-0480"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/70f29ae5502f8433970fc679ecedd77b",
+          "Plant Name": "Averrhoa carambola Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Averrhoa carambola Linn.",
+        "source_record_id": "links-0480",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/70f29ae5502f8433970fc679ecedd77b"
+      }
+    ],
+    "source_xplant_id": "70f29ae5502f8433970fc679ecedd77b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

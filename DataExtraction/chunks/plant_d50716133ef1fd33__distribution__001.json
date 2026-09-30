@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d50716133ef1fd33__distribution__001",
+  "plant_id": "plant_d50716133ef1fd33",
+  "plant_name": "Hyoscyamus niger Linn.",
+  "botanical_name": "Hyoscyamus niger",
+  "botanical_authority": "L.",
+  "family": "SOLANACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - G.S.Rawat; distribution: Distribution; title: Title - Alpine meadows of Uttaranchal\nDistribution entry: author: Author - Dr. Narain Singh Chauhan; distribution: Distribution; title: Title - Medicinal and Aromatic Plants of Himachal Pradesh",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88e1d06b17b4a58028081693f16d2239"
+  ],
+  "source_record_ids": [
+    "links-1430"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88e1d06b17b4a58028081693f16d2239"
+    ],
+    "source_record_ids": [
+      "links-1430"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88e1d06b17b4a58028081693f16d2239",
+          "Plant Name": "Hyoscyamus niger Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hyoscyamus niger Linn.",
+        "source_record_id": "links-1430",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88e1d06b17b4a58028081693f16d2239"
+      }
+    ],
+    "source_xplant_id": "88e1d06b17b4a58028081693f16d2239",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

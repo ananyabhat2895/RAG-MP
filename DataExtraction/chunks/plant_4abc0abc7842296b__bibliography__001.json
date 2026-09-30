@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_4abc0abc7842296b__bibliography__001",
+  "plant_id": "plant_4abc0abc7842296b",
+  "plant_name": "Berberis asiatica Roxb. ex DC.",
+  "botanical_name": "Berberis asiatica",
+  "botanical_authority": "ROXB.",
+  "family": "BERBERIDACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - ALIX RAISON; title: Title - LA-HARITA SAMHITA\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: title: Title - Medicinal and Aromatic Plants of Himachal Pradesh\nBibliography entry: title: Title - Flora of West Bengal Vol 1\nBibliography entry: title: Title - FLORA OF INDIA VOL 1\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol I\nBibliography entry: title: Title - A Forest Flora for Kumaon\nBibliography entry: title: Title - Flora of Rajasthan Vol. 1\nBibliography entry: title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/859dd59f42ed55fa20aa69926c77a51a"
+  ],
+  "source_record_ids": [
+    "links-0492",
+    "links-0499"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/859dd59f42ed55fa20aa69926c77a51a"
+    ],
+    "source_record_ids": [
+      "links-0492",
+      "links-0499"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/859dd59f42ed55fa20aa69926c77a51a",
+          "Plant Name": "Berberis asiatica Roxb. ex DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Berberis asiatica Roxb. ex DC.",
+        "source_record_id": "links-0492",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/859dd59f42ed55fa20aa69926c77a51a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/859dd59f42ed55fa20aa69926c77a51a",
+          "Plant Name": "Berberis asiatica Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Berberis asiatica Roxb.",
+        "source_record_id": "links-0499",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/859dd59f42ed55fa20aa69926c77a51a"
+      }
+    ],
+    "source_xplant_id": "859dd59f42ed55fa20aa69926c77a51a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8ac2710fafe5f2b1__images__001",
+  "plant_id": "plant_8ac2710fafe5f2b1",
+  "plant_name": "Ipomoea batatas (Linn.) Lam.",
+  "botanical_name": "Ipomoea batatas",
+  "botanical_authority": "(L.) LAM.",
+  "family": "CONVOLVULACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba3c07ea37f43abafe116c5de420a02c"
+  ],
+  "source_record_ids": [
+    "links-1803"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba3c07ea37f43abafe116c5de420a02c"
+    ],
+    "source_record_ids": [
+      "links-1803"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba3c07ea37f43abafe116c5de420a02c",
+          "Plant Name": "Ipomoea batatas (Linn.) Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ipomoea batatas (Linn.) Lam.",
+        "source_record_id": "links-1803",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba3c07ea37f43abafe116c5de420a02c"
+      }
+    ],
+    "source_xplant_id": "ba3c07ea37f43abafe116c5de420a02c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

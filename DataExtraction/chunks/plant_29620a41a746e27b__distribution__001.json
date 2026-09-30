@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_29620a41a746e27b__distribution__001",
+  "plant_id": "plant_29620a41a746e27b",
+  "plant_name": "Clerodendrum indicum (Linn.) Ktze.",
+  "botanical_name": "Clerodendrum indicum",
+  "botanical_authority": "(L.) KUNTZE",
+  "family": "VERBENACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff"
+  ],
+  "source_record_ids": [
+    "links-0306",
+    "links-0310",
+    "links-0311",
+    "links-0312"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff"
+    ],
+    "source_record_ids": [
+      "links-0306",
+      "links-0310",
+      "links-0311",
+      "links-0312"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff",
+          "Plant Name": "Clerodendrum indicum (Linn.) Ktze.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clerodendrum indicum (Linn.) Ktze.",
+        "source_record_id": "links-0306",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff",
+          "Plant Name": "Clerodendrum indicum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clerodendrum indicum",
+        "source_record_id": "links-0310",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff",
+          "Plant Name": "Clerodendrum indicum (Linn.) Kuntze",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clerodendrum indicum (Linn.) Kuntze",
+        "source_record_id": "links-0311",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff",
+          "Plant Name": "Clerodendrum indicum (Linn.) Kutze.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clerodendrum indicum (Linn.) Kutze.",
+        "source_record_id": "links-0312",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff"
+      }
+    ],
+    "source_xplant_id": "11a902a8540ab674473d82c5288adfff",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

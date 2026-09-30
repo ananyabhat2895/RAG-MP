@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_3aa7290dc72506e0__images__001",
+  "plant_id": "plant_3aa7290dc72506e0",
+  "plant_name": "Heliotropium indicum",
+  "botanical_name": "Heliotropium indicum",
+  "botanical_authority": "L.",
+  "family": "BORAGINACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171"
+  ],
+  "source_record_ids": [
+    "links-0412",
+    "links-0413"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171"
+    ],
+    "source_record_ids": [
+      "links-0412",
+      "links-0413"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171",
+          "Plant Name": "Heliotropium indicum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Heliotropium indicum",
+        "source_record_id": "links-0412",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171",
+          "Plant Name": "Heliotropium indicum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Heliotropium indicum Linn.",
+        "source_record_id": "links-0413",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171"
+      }
+    ],
+    "source_xplant_id": "c9fb71a0860e0d8a65c8c53554b10171",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

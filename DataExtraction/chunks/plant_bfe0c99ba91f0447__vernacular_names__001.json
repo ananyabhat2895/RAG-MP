@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_bfe0c99ba91f0447__vernacular_names__001",
+  "plant_id": "plant_bfe0c99ba91f0447",
+  "plant_name": "Phoenix dactylifer Linn.",
+  "botanical_name": "Phoenix dactylifera",
+  "botanical_authority": "L.",
+  "family": "ARECACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): date palm\nHindi (4): khaji, khajur, pindakhejur, pindkhajur\nKannada (14): gajjira, gajjirahannu, gijjira-hanny, kajjuri, kajura, karika, karjora, karjura, khajjuri, kharjoora, kharjura, kurjoora, uttati, uttatti\nMalayalam (6): itta, ittappalam, ittappana, tenicca, tenich-chan-kaya, tenitta\nMarathi (5): khajur, khajuri, kharik, kharjoor, kharjur\nSanskrit (20): Sanskrit CommentsX agraja, dipya, hayabhaksha, kharjjuraha, kharjura, kharjurah, kharjuram, kharjuri, kharjurika, madhurasraoa, mudarika, phalapushpa, pindakharjura, pindakharjurika, pindi, pindiphala, rajajambu, sapinda, svadupinda, swadumastaka\nTamil (64): caki, cakituru, ciramakarivarukkam, ciravani, cirnaparnam, cuvatumattam, iccai, iccamaram, iccamaram 1, iccan koluntu, iccu, iccucceti, ichu, incu, inju, inti, kaccil, kaccuram 1, kamaracakikam, kamirani, kamiranicceti, kantukapatikam, kantukapatitamaram, karacakamata, karccur, karchuram, karcur, karcuram 1, karjjiram, kasayava, kokam, kurampai 1, kuranci, kuravam, kuravam 1#, kuravam 1@, kuravikam, kuravikamaram, makacarakkantam, malatiyam, malatiyamaram, mirutupalam, nattuiccai, pantuyavanam@, paruciyam 2, pereecham, pereecham pazham, periccan, periccankay, periccu, perich-chankay, perichchangayi, perichehu, perincu, perindu, perinju, periyaincu, purusako, titti, tummitti, tummuttikam, tummuttikamaram, vilalmurimaram, yiccamaram\nTelugu (20): gajjooramu, gajjuramu, ita, karjurakaya, karjuru-kaya, kharjooramu, kharjoorapu chettu, kharjuramu, manciyita, manjiyita, muddakarjuramu, muddakharjooram, muddakharjuramu, muddakharjurapu, peridu, perita, seemakharjooramu, simakajjura, simakharajuramu, simakharjuramu\nUrdu (4): chhuhara, khurma, khurma (khajoor), pend khajur",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/54c150a398e3ca472cc8b7ff6fd20f3d"
+  ],
+  "source_record_ids": [
+    "links-1040",
+    "links-1044"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/54c150a398e3ca472cc8b7ff6fd20f3d"
+    ],
+    "source_record_ids": [
+      "links-1040",
+      "links-1044"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/54c150a398e3ca472cc8b7ff6fd20f3d",
+          "Plant Name": "Phoenix dactylifer Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Phoenix dactylifer Linn.",
+        "source_record_id": "links-1040",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/54c150a398e3ca472cc8b7ff6fd20f3d"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/54c150a398e3ca472cc8b7ff6fd20f3d",
+          "Plant Name": "Phoenix dactylifera Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Phoenix dactylifera Linn.",
+        "source_record_id": "links-1044",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/54c150a398e3ca472cc8b7ff6fd20f3d"
+      }
+    ],
+    "source_xplant_id": "54c150a398e3ca472cc8b7ff6fd20f3d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

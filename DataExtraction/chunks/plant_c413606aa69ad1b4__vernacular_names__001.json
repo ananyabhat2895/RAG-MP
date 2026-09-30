@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_c413606aa69ad1b4__vernacular_names__001",
+  "plant_id": "plant_c413606aa69ad1b4",
+  "plant_name": "Operculina turpethum",
+  "botanical_name": "Operculina turpethum",
+  "botanical_authority": "(L.) S. MANSO",
+  "family": "CONVOLVULACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): indian jalap, turpeth root, turpethum\nHindi (13): nakpatra, nishoth, nisotar, nisoth, nisut, nukpatar, pithori, pitohri, tarbal, tarbud, tarbut, tera, trabal\nKannada (27): aalthigudu, aaluthigade, aalutigade, altigudu, aluthi gida, alutigade, bangada balli, benne bidiru, bilae naga danthi, bilenagadanti, biley naagadanthi, bili aluthigade, bili tigade, bilithigade, bilitigade, bilitigadu, devadanthi, devadanti, elavu sandi gida, naagadanthi, nagadanti, sigade, tigade, tigade beru, tigadeballi, tigadi, tigadikeputigadda\nMalayalam (12): chivaka, civaka, rocani, rochani, sarala, sivata, tigade, tigude, tribhandi, trikolpakkonna, trikolpakonna, triputa\nMarathi (6): nishotar, nishottara, nishotthara, phutkari, taed, turbeda\nSanskrit (45): Sanskrit CommentsX ardhachandra, aruna, arunatrivrt, bahurecani, hurochani, kalameshi, kalaparni, kali, kalingika, kootarana, kumbah, kumbha, kumbhadhatri, kutarana, lagivrittika, malavika, masuravidala, masuri, nandi, palindi, paripakini, recani, rechani, rochani, saha, sara, sarala, sarana, sarasa, sarata, sarvanubhuti, shyama, sukrabhandi, susheni, suvaha, syama, tribhandi, triputa, trivela, trivrit, trivrt, trivrta, trivrtta, tryirit, vidala\nTamil (86): adimbu, akarajam, arunai1, atakacceti, atakam, atimpu, atimpurukam, calakaki, calakakicceti, calam1, calapceti1, calappu, cantirakalinti, caralam, caralam1, caranam@, caruvanukam, caruvanuputi, cayamaram1, cenappal, cimai civatai, ciratai ver, civadai, civatai, civetai1, ciyamattiri, gunakandi, irattaccivatai, kalacuram, karunchivadai, karuncivatai ver, karunsivadai, kentakarani1, kolapam, kotaram, kumbam, kumbanjan, kumbham, kumpacaram, kumpacinakam, kumpam1, kumpamati, kumpancan, kunagandi, kunakanti, matura, nacakeralam, nattuccevatai, nikumpam1, nukai, paganrai, pakanrai1, pakantai, pakantai1, pakantai@, pakatai, pilikkini, pitalapam, samaram, saralam, shevadie vayr, shivadai, shivadai-ver, shivadaiver, sivadai, sivadaiver, sivatai, sivathai, sivathaiver, sivedai, tali x, tali@, talini1, tanti1, tiriputam, tiriviruta, tirivirutam, tirivirutti1, tirivitam, tiruvilam1, urpalavanatai, varanacira, vayirocanati, vayirocani, vencivatai, virocani 1\nTelugu (13): erra tegada, errategada, errathegada, ettategada, nalla tegada, nalla thegada, nallategada, tegada, tella tegada, tellatagada, tellategada, thegada, thella thegada\nTibetan (4): ba la dur brid, dur byid, ne ron, sya ma dur byid",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3"
+  ],
+  "source_record_ids": [
+    "links-1985",
+    "links-1986"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3"
+    ],
+    "source_record_ids": [
+      "links-1985",
+      "links-1986"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3",
+          "Plant Name": "Operculina turpethum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Operculina turpethum",
+        "source_record_id": "links-1985",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3",
+          "Plant Name": "Operculina turpethum (Linn.) Silva Manso",
+          "Status": "Found"
+        },
+        "source_plant_name": "Operculina turpethum (Linn.) Silva Manso",
+        "source_record_id": "links-1986",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3"
+      }
+    ],
+    "source_xplant_id": "9890fa63f0b4bfe4a0edb46f014acca3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

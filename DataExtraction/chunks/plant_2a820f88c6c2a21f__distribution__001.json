@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_2a820f88c6c2a21f__distribution__001",
+  "plant_id": "plant_2a820f88c6c2a21f",
+  "plant_name": "Canscora decussata Schult",
+  "botanical_name": "Canscora decussata",
+  "botanical_authority": "SCHULTES & SCHULTES.F.",
+  "family": "GENTIANACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f376dc7bb61f9e88cb933a2e374fc1d"
+  ],
+  "source_record_ids": [
+    "links-1716",
+    "links-1717"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f376dc7bb61f9e88cb933a2e374fc1d"
+    ],
+    "source_record_ids": [
+      "links-1716",
+      "links-1717"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f376dc7bb61f9e88cb933a2e374fc1d",
+          "Plant Name": "Canscora decussata Schult",
+          "Status": "Found"
+        },
+        "source_plant_name": "Canscora decussata Schult",
+        "source_record_id": "links-1716",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f376dc7bb61f9e88cb933a2e374fc1d"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f376dc7bb61f9e88cb933a2e374fc1d",
+          "Plant Name": "Canscora decussata Schult.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Canscora decussata Schult.",
+        "source_record_id": "links-1717",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f376dc7bb61f9e88cb933a2e374fc1d"
+      }
+    ],
+    "source_xplant_id": "2f376dc7bb61f9e88cb933a2e374fc1d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

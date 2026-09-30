@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_a7d87791a7e2a0ca__vernacular_names__001",
+  "plant_id": "plant_a7d87791a7e2a0ca",
+  "plant_name": "Ochrocarpus longifolius Benth. & Hook.f.",
+  "botanical_name": "Mammea suriga",
+  "botanical_authority": "(BUCH.-HAM. EX ROXB.)",
+  "family": "CLUSIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (5): nagkesar, nagkeshar, pulaka, punnaga, sultanachampaka\nKannada (27): gadhavunate, gardaunnatte, gardioondy, gardumbi, gardundi, ghaata paale, phatapale, ponne, poonay, poone, punay, puniye, punnaga, punye, suragi, surgi, surigi, suringa, suringal, suringi, surungi, taringi, unate, wandi, woondy, wundi, wundy\nMalayalam (3): seraa, shuram punna, surampunna\nMarathi (8): godiyundina, laal naagakeshar, punnag, surangee, surangi, suringi, tamra nagkesara, undali\nSanskrit (25): Sanskrit CommentsX aruma, devavallabha, kamboge, kesari, keshara, keshava, kumbhika, naga-kesaram-pushpam, nagakesara, nagakesaram, nagakeshara, nagapushpa, pandunaga, pataladruma, punnaga, purusha, purushakhya, raktakeshara, raktapushpa, raktarenu, raktavriksha, surangi, suraparnika, surapunnaga, tunga\nTamil (28): antikal, cintuputpakam, corapinnai, cukantaputpakam, curapinnai, curapipotam, curapipotamaram, curapunnai, curapunnakam1, kuttampokki1, makanakam, makanari, makanarimaram, nagap-pu, naggesur-pu, nakacenturi1, nameru1, narumulika, narumulikamaram, punnakam 1, raktavriksha, surabunnagam, surabunnai, surangi, surapinnai, takintam, tarinci, tunga\nTelugu (5): sarapunna, sura ponna, suraponna, surapoona, surapunnagamu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/a8275aef309c1fb7902d725be4896afb",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/0cba081211e98101038748f166dc0838"
+  ],
+  "source_record_ids": [
+    "links-1362",
+    "links-1876",
+    "links-1877"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/a8275aef309c1fb7902d725be4896afb",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/0cba081211e98101038748f166dc0838"
+    ],
+    "source_record_ids": [
+      "links-1362",
+      "links-1876",
+      "links-1877"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/a8275aef309c1fb7902d725be4896afb",
+          "Plant Name": "Ochrocarpus longifolius Benth. & Hook.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ochrocarpus longifolius Benth. & Hook.f.",
+        "source_record_id": "links-1362",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/a8275aef309c1fb7902d725be4896afb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/0cba081211e98101038748f166dc0838",
+          "Plant Name": "Mammea longifolia Planch & Triana.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mammea longifolia Planch & Triana.",
+        "source_record_id": "links-1876",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/0cba081211e98101038748f166dc0838"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/0cba081211e98101038748f166dc0838",
+          "Plant Name": "Mammea longifolia planch. & Triana.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mammea longifolia planch. & Triana.",
+        "source_record_id": "links-1877",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/0cba081211e98101038748f166dc0838"
+      }
+    ],
+    "source_xplant_id": "20538932dc67840fe5313c4b4b3d8bb9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

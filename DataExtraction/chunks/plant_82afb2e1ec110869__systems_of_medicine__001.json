@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_82afb2e1ec110869__systems_of_medicine__001",
+  "plant_id": "plant_82afb2e1ec110869",
+  "plant_name": "Desmostachya bipinnata Stapf",
+  "botanical_name": "Desmostachya bipinnata",
+  "botanical_authority": "STAPF",
+  "family": "POACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (2) - Eragrostis cynosuroides BEAUV. X Full Botanical citation - Eragrostis cynosuroides P.Beauv.\nSystem of medicine: Ess. Agrost. 71\nSystem of medicine: 162. 1812; R.D.Gaur\nSystem of medicine: Fl. Dist. Garhwal North West Himalaya (With Ethnobotanical Notes)\nSystem of medicine: TransMedia\nSystem of medicine: Srinagar (Garhwal)\nSystem of medicine: India\nSystem of medicine: 658. 1999. Poa cynosuroides RETZ.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008"
+  ],
+  "source_record_ids": [
+    "links-0488",
+    "links-1136"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008"
+    ],
+    "source_record_ids": [
+      "links-0488",
+      "links-1136"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008",
+          "Plant Name": "Desmostachya bipinnata Stapf",
+          "Status": "Found"
+        },
+        "source_plant_name": "Desmostachya bipinnata Stapf",
+        "source_record_id": "links-0488",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008",
+          "Plant Name": "Desmostachya bipinnata Stapf.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Desmostachya bipinnata Stapf.",
+        "source_record_id": "links-1136",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008"
+      }
+    ],
+    "source_xplant_id": "5d5c75320e8249891ff513bfbd3f1008",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

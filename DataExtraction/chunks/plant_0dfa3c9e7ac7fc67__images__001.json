@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_0dfa3c9e7ac7fc67__images__001",
+  "plant_id": "plant_0dfa3c9e7ac7fc67",
+  "plant_name": "Canavalia gladiata (Jacq.) DC.",
+  "botanical_name": "Canavalia gladiata",
+  "botanical_authority": "(JACQ.) DC.",
+  "family": "FABACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a/xclkon/aee4777276c6f39b05ed71d735e97f30"
+  ],
+  "source_record_ids": [
+    "links-0176",
+    "links-0855"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a/xclkon/aee4777276c6f39b05ed71d735e97f30"
+    ],
+    "source_record_ids": [
+      "links-0176",
+      "links-0855"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a",
+          "Plant Name": "Canavalia gladiata (Jacq.) DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Canavalia gladiata (Jacq.) DC.",
+        "source_record_id": "links-0176",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a/xclkon/aee4777276c6f39b05ed71d735e97f30",
+          "Plant Name": "Canavalia ensiformis (Linn.) DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Canavalia ensiformis (Linn.) DC.",
+        "source_record_id": "links-0855",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a/xclkon/aee4777276c6f39b05ed71d735e97f30"
+      }
+    ],
+    "source_xplant_id": "3b4655846cbe42dc6e7077bb62f44b4a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

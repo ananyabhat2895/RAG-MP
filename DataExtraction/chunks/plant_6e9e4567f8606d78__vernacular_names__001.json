@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_6e9e4567f8606d78__vernacular_names__001",
+  "plant_id": "plant_6e9e4567f8606d78",
+  "plant_name": "Jasminum humile Linn.",
+  "botanical_name": "Jasminum bignoniaceum",
+  "botanical_authority": "WALL. EX. G. DON",
+  "family": "OLEACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): italian jasmine, yellow jasmine\nHindi (15): ban chameli, ban malti, chambeli, chameli, kurang, malti, malto, peetmalati, pila-chambeli, pili chameli, pitmalti, shonjoi, sohzard, sune, surmarhi\nKannada (5): haladi mallige, hasarumallige, hasiru mallige, hasirumallige, swarna mallige\nMalayalam (4): kattumulla, pita, ponmallika, punmullika\nMarathi (4): jangari, jooyi, pimpalle, saayile\nSanskrit (18): Sanskrit CommentsX gandadhya, haima, hemapushpi, hemapushpika, kanakaprabha, manohara, nagapushpika, pitayuthi, pitika, raktagandha, shikhandi, sugandha, suvarnavha, suvarnayuthika, svarnajuthika, svarnayuthi, vyaktagandha, yuvatishtha\nTamil (26): cemmallikai, cemmullai, ceppumallikai, civantamalli, cuvannayuti, cuvarnacutikam, cuvarnaputi, cuvarnayuti, emaputpam2, pidayudi, pidigai, pitacaram 2, pitacuti, pitacuticceti, pitaputi, pitaputikacceti, pitati, pitayuti#, pitayuti$, pitayuti@, ponmullai, semmalligai, seppumalligai, suvannayudi, svarnayuli, talavacceti\nTelugu (7): haemapushpika, hemapushpika, paccayadavimolla, pachayadavimolla, pachchadacimolla, pachche adavimalle, pattsaadivimolla\nTibetan (1): ha ri ni",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f914c9dbff729343e157f3fc7fa035d/xclkon/de1a0f1c0bc3ce90ca65ee3be2152e4c"
+  ],
+  "source_record_ids": [
+    "links-0774"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f914c9dbff729343e157f3fc7fa035d/xclkon/de1a0f1c0bc3ce90ca65ee3be2152e4c"
+    ],
+    "source_record_ids": [
+      "links-0774"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f914c9dbff729343e157f3fc7fa035d/xclkon/de1a0f1c0bc3ce90ca65ee3be2152e4c",
+          "Plant Name": "Jasminum humile Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Jasminum humile Linn.",
+        "source_record_id": "links-0774",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f914c9dbff729343e157f3fc7fa035d/xclkon/de1a0f1c0bc3ce90ca65ee3be2152e4c"
+      }
+    ],
+    "source_xplant_id": "9f914c9dbff729343e157f3fc7fa035d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

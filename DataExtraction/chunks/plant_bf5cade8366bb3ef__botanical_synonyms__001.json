@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_bf5cade8366bb3ef__botanical_synonyms__001",
+  "plant_id": "plant_bf5cade8366bb3ef",
+  "plant_name": "Glinus oppositifolius",
+  "botanical_name": "Glinus oppositifolius",
+  "botanical_authority": "(L.) A.DC.",
+  "family": "AIZOACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Mollugo oppositifolia L. X Full Botanical citation - Mollugo oppositifolia L. Sp. Pl. 89. 1753; N.P.Singh & al., Fl. Maharashtra State Dicotyledones, 2: Fl. India Ser 2: 93. 2001. Mollugo spergula L. X Full Botanical citation - Mollugo spergula L. Syst. Nat. ed. 10, 881. 1759; N.P.Singh & al., Fl. Maharashtra State Dicotyledones, 2: Fl. India Ser 2: 93. 2001. Pharnaceum mollugo L.\nSynonym: Mollugo oppositifolia L.\nSynonym: Mollugo spergula L.\nSynonym: Pharnaceum mollugo L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28c3dc1e341a3546b10d37e26e480b04"
+  ],
+  "source_record_ids": [
+    "links-2030"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28c3dc1e341a3546b10d37e26e480b04"
+    ],
+    "source_record_ids": [
+      "links-2030"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28c3dc1e341a3546b10d37e26e480b04",
+          "Plant Name": "Glinus oppositifolius",
+          "Status": "Found"
+        },
+        "source_plant_name": "Glinus oppositifolius",
+        "source_record_id": "links-2030",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28c3dc1e341a3546b10d37e26e480b04"
+      }
+    ],
+    "source_xplant_id": "28c3dc1e341a3546b10d37e26e480b04",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

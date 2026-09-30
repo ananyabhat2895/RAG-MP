@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_3a74494e1d5bb0d3__identification__001",
+  "plant_id": "plant_3a74494e1d5bb0d3",
+  "plant_name": "Ventilago madraspatana Gaertn.",
+  "botanical_name": "Ventilago madraspatana",
+  "botanical_authority": "GAERTN.",
+  "family": "RHAMNACEAE",
+  "section": "identification",
+  "content": "Plant name: Ventilago madraspatana Gaertn. Botanical name: Ventilago madraspatana Botanical authority: GAERTN. Family: RHAMNACEAE Source xplant ID: c06cc677ccb629a0b1943f094219fae3",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c06cc677ccb629a0b1943f094219fae3"
+  ],
+  "source_record_ids": [
+    "links-1660"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c06cc677ccb629a0b1943f094219fae3"
+    ],
+    "source_record_ids": [
+      "links-1660"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c06cc677ccb629a0b1943f094219fae3",
+          "Plant Name": "Ventilago madraspatana Gaertn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ventilago madraspatana Gaertn.",
+        "source_record_id": "links-1660",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c06cc677ccb629a0b1943f094219fae3"
+      }
+    ],
+    "source_xplant_id": "c06cc677ccb629a0b1943f094219fae3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

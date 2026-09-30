@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_aff40bce926679e6__identification__001",
+  "plant_id": "plant_aff40bce926679e6",
+  "plant_name": "Phoenix humilis Royle",
+  "botanical_name": "Phoenix humilis",
+  "botanical_authority": "ROYLE",
+  "family": "ARECACEAE",
+  "section": "identification",
+  "content": "Plant name: Phoenix humilis Royle Botanical name: Phoenix humilis Botanical authority: ROYLE Family: ARECACEAE Source xplant ID: 150ad36f548084640a018005484b3d84",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/150ad36f548084640a018005484b3d84"
+  ],
+  "source_record_ids": [
+    "links-1041"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/150ad36f548084640a018005484b3d84"
+    ],
+    "source_record_ids": [
+      "links-1041"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/150ad36f548084640a018005484b3d84",
+          "Plant Name": "Phoenix humilis Royle",
+          "Status": "Found"
+        },
+        "source_plant_name": "Phoenix humilis Royle",
+        "source_record_id": "links-1041",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/150ad36f548084640a018005484b3d84"
+      }
+    ],
+    "source_xplant_id": "150ad36f548084640a018005484b3d84",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

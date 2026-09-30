@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_7d360c8bbcfbf040__systems_of_medicine__001",
+  "plant_id": "plant_7d360c8bbcfbf040",
+  "plant_name": "Desmodium polycarpum DC.",
+  "botanical_name": "Desmodium heterocarpon",
+  "botanical_authority": "- var. strigosum VAN MEEWUEN",
+  "family": "FABACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Folk Botanical Synonyms (1) - Desmodium polycarpum DC. X Full Botanical citation - Desmodium polycarpon (Poir.) DC. Prodr. DC. Prodr. 2: 334. 1825; N.P.Singh &al.\nSystem of medicine: Fl.Maharashtra state\nSystem of medicine: Dicotyledones\nSystem of medicine: 1: Fl.India Ser. 2: 670. 2000.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cfc3494f999fcfc439fbd5a799ba54c/xclkon/3d40303a6310088431d67393c0e2cc40"
+  ],
+  "source_record_ids": [
+    "links-1698"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cfc3494f999fcfc439fbd5a799ba54c/xclkon/3d40303a6310088431d67393c0e2cc40"
+    ],
+    "source_record_ids": [
+      "links-1698"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cfc3494f999fcfc439fbd5a799ba54c/xclkon/3d40303a6310088431d67393c0e2cc40",
+          "Plant Name": "Desmodium polycarpum DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Desmodium polycarpum DC.",
+        "source_record_id": "links-1698",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cfc3494f999fcfc439fbd5a799ba54c/xclkon/3d40303a6310088431d67393c0e2cc40"
+      }
+    ],
+    "source_xplant_id": "2cfc3494f999fcfc439fbd5a799ba54c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

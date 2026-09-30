@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_1f905c04996040a4__vernacular_names__002",
+  "plant_id": "plant_1f905c04996040a4",
+  "plant_name": "Achyranthes aspera Linn.",
+  "botanical_name": "Achyranthes aspera",
+  "botanical_authority": "L.",
+  "family": "AMARANTHACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (166): akatam, akatamonicceti, akatturam, akayamauni, ancanati, apamarkkam#, apamarkkam@, apamarkki, apamarutamuli, aparamarkkam, aramaravam, aramiyam1, atokantam, attuvacalliyam, caitanniyam, cakarikam, caramattiyam, cavakam, cavuntati, cekari1, cekarikam#, cekarikam@, cennayuruvi, cikari1, cikiciram, cirukatalati, cirukatalaticceti, civanta nayuruvi, culanam, cuvanam2, cuvanam@, cuvayam, iraviliyanputu, kacurantam, kalvacamati, kamankalam, kancari, karakkarati, karamantali, karapippivi, karattilkaram2, karattirkaram2, karcikacceti, karcikam, karumalaki, karumancari, karumancaricceti, karumpai, katalati, katalati@, katavakam, katumancaricceti, katumancarikai, katumancarikam, katunti, kavutam, kecaravaram, kecarikacceti, kecarikam#, kecarikam@, kicaparnam, kicaparni, kicaparnicceti, kicaparunicceti, kicavalli, kicavallicceti, kincakapanni, kincakapannicceti, kincapanni, kini, kirusnapanni, kolitakikam, kotavi, kottakacceti, kottakam, kottavi1, kottavivittirukki, kottavivittirukku, kurccakacitacceti, kurccanacitam, kurmakkerutamuli, lokkikacceti, lokkila, makatacceti, makatam#, malakantacceti, malakantam, mamuni, mamuni#, mamuni@, mamuniki, mamuri, manakimuli, manca, mancari 2, mancaricceti, manikkarutu, manikkayaru, markkatapippali, markkatappippili, markkavikam, maruttipoti#, maruttipoti@, maruttippoti@, maruttira, maruttiracceti, mayirakam, mayurakacceti, mayurakam 2, mayuram 1, munrutari, munrutarikkoti, na-yurivi, naayurivi, naayuruvi, nahiooroovie vayr, navuri, nayiranci, nayiranci2, naykkittam, naykuruvi, nayurivi, nayuruvi, nayurvi, nayuviri, nayvananki, nayvanankicceti, pataramukki#, pataramukki@, pataramukkicceti, pellaunacceti, pellaunam, pinrutari 1, pinrutaricceti, pippilicikari, pirattiyakapanni, pirattiyakapannicceti, pirattiyakpanni, pirattiyaputpam, puli 1, puratiyuram, shiru-kadaladi, sirukadaladi, tamarkkavam, tarattilkaram, tucciram, tutaivi, ulimani#, ulimani@, uruvi1, uttareni, valanatikamam, vancamuli, vantamarkkam, varakamarkkam, varkamarkkam, varkamarutacceti, vellainayuruvi, vennayuruvi, viralaneri, viralnericceti, virarkoti, visakkani 2, vittirukki, yakattam, yapamarakkam\nTelugu (11): antisa, antisha, apamaargamu, apamargamu, dubbinachettu, pratyukpushpi, utta-reni, uttaraene, uttaren, uttareni, utthareni\nTibetan (3): a pa ma rga, a pa ma rga (d), a-pa-ma-rga\nUrdu (2): charchatta, rakh chirchitta",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00476847af4ebbbd31e6dad28ea1f00f"
+  ],
+  "source_record_ids": [
+    "links-0133",
+    "links-0135"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00476847af4ebbbd31e6dad28ea1f00f"
+    ],
+    "source_record_ids": [
+      "links-0133",
+      "links-0135"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00476847af4ebbbd31e6dad28ea1f00f",
+          "Plant Name": "Achyranthes aspera Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Achyranthes aspera Linn.",
+        "source_record_id": "links-0133",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00476847af4ebbbd31e6dad28ea1f00f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00476847af4ebbbd31e6dad28ea1f00f",
+          "Plant Name": "Achyranthes aspera",
+          "Status": "Found"
+        },
+        "source_plant_name": "Achyranthes aspera",
+        "source_record_id": "links-0135",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00476847af4ebbbd31e6dad28ea1f00f"
+      }
+    ],
+    "source_xplant_id": "00476847af4ebbbd31e6dad28ea1f00f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

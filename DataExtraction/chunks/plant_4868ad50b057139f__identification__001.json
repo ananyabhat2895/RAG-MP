@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4868ad50b057139f__identification__001",
+  "plant_id": "plant_4868ad50b057139f",
+  "plant_name": "Cicer arietinum Linn.",
+  "botanical_name": "Cicer arietinum",
+  "botanical_authority": "L.",
+  "family": "FABACEAE",
+  "section": "identification",
+  "content": "Plant name: Cicer arietinum Linn. Botanical name: Cicer arietinum Botanical authority: L. Family: FABACEAE Source xplant ID: 48d2814b7156a21811cadfc158d252d5",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48d2814b7156a21811cadfc158d252d5"
+  ],
+  "source_record_ids": [
+    "links-0404"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48d2814b7156a21811cadfc158d252d5"
+    ],
+    "source_record_ids": [
+      "links-0404"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48d2814b7156a21811cadfc158d252d5",
+          "Plant Name": "Cicer arietinum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cicer arietinum Linn.",
+        "source_record_id": "links-0404",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48d2814b7156a21811cadfc158d252d5"
+      }
+    ],
+    "source_xplant_id": "48d2814b7156a21811cadfc158d252d5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

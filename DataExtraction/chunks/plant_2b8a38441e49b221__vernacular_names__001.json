@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2b8a38441e49b221__vernacular_names__001",
+  "plant_id": "plant_2b8a38441e49b221",
+  "plant_name": "Cymbopogon schoenanthus Spreng.",
+  "botanical_name": "Cymbopogon schoenanthus",
+  "botanical_authority": "(L.) SPRENG",
+  "family": "POACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): canal grass\nHindi (10): bujina, buraro, mirchiagand, musel, palakhari, rohisha, rousaghas, rusaghas, saundhiya, sugani\nKannada (2): geranium hullu, vasanchullu\nMarathi (5): rohisha, rosegavat, rosegavath, rushagavat, rushagavath\nSanskrit (24): Sanskrit CommentsX bhustrna, bhuti, bhutika, devajagdha, devjagdam, dhupagandhika, dhyama, dhyamaka, gandhatrna, katrina, katrna, katrnam, kattrnam, kutrnam, paura, putimugdala, rohisa, rohisam, rohisha, rohishatrina, saugandhika, shyamaka, sugandhatrinashita, sushitala\nTamil (13): camparappul, cukkunarippul 2, curumam, kamatcippul 1, kantaketam, karpurappul, karuppurappul, kavattampul 2, kuyyapicam, kuyyapitam, potaippul 1, tailappul, vacanaippul 1\nUrdu (1): azkhar maki",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42eb1f4dfa19373ba9487278c20f59f2"
+  ],
+  "source_record_ids": [
+    "links-1646"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42eb1f4dfa19373ba9487278c20f59f2"
+    ],
+    "source_record_ids": [
+      "links-1646"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42eb1f4dfa19373ba9487278c20f59f2",
+          "Plant Name": "Cymbopogon schoenanthus Spreng.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cymbopogon schoenanthus Spreng.",
+        "source_record_id": "links-1646",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42eb1f4dfa19373ba9487278c20f59f2"
+      }
+    ],
+    "source_xplant_id": "42eb1f4dfa19373ba9487278c20f59f2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

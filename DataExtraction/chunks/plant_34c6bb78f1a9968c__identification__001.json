@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_34c6bb78f1a9968c__identification__001",
+  "plant_id": "plant_34c6bb78f1a9968c",
+  "plant_name": "Hemidesmus indicus",
+  "botanical_name": "Hemidesmus indicus",
+  "botanical_authority": "(L.) SCHULT.",
+  "family": "ASCLEPIADACEAE",
+  "section": "identification",
+  "content": "Plant name: Hemidesmus indicus Botanical name: Hemidesmus indicus Botanical authority: (L.) SCHULT. Family: ASCLEPIADACEAE Source xplant ID: e2d232e3dcd00751bdf511c1ac0d0195",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195"
+  ],
+  "source_record_ids": [
+    "links-0201",
+    "links-1745"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195"
+    ],
+    "source_record_ids": [
+      "links-0201",
+      "links-1745"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195",
+          "Plant Name": "Hemidesmus indicus",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hemidesmus indicus",
+        "source_record_id": "links-0201",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195",
+          "Plant Name": "Hemidesmus indicus R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hemidesmus indicus R. Br.",
+        "source_record_id": "links-1745",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195"
+      }
+    ],
+    "source_xplant_id": "e2d232e3dcd00751bdf511c1ac0d0195",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

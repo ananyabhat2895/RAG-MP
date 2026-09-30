@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_c769fcc9f73a9636__vernacular_names__001",
+  "plant_id": "plant_c769fcc9f73a9636",
+  "plant_name": "Betula utilis D. Don",
+  "botanical_name": "Betula utilis",
+  "botanical_authority": "DON",
+  "family": "BETULACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (10): bhejpattra, bhiy, bhoj patra, bhoja, bhojpatra, bhuj, bhujpatar, bhujpattra, bhurj, pad\nKannada (1): bhuyapathra\nMalayalam (2): bhujapatram, bhurjjamaram\nSanskrit (36): Sanskrit CommentsX bahulavalkala, bahulavalkalah, bahupata, bahuputa, bahutvaka, bahuvalkala, bhuja, bhurja, bhurjagranthi, bhurjah, bhurjapatra, bhurjapatraka, bhurjaputra, bhutaghna, bindupatra, carmi, charmi, charmmadruma, chhadapatra, chhatrpatra, chitratvaka, dalanismoka, lekhyapatra, lekhyapatraka, mriducharmi, mridupatra, mridutvaka, padmaki, patrapushpaka, rakshapatra, shailendrastha, shitri, sthirachhada, sucharma, vichitraka, vidyadala\nTamil (3): bhurjjamaram, purccam, purccapattiram\nTelugu (2): bhujapathri, bhujapatri\nTibetan (1): stag pa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c"
+  ],
+  "source_record_ids": [
+    "links-0344",
+    "links-0345"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c"
+    ],
+    "source_record_ids": [
+      "links-0344",
+      "links-0345"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c",
+          "Plant Name": "Betula utilis D. Don",
+          "Status": "Found"
+        },
+        "source_plant_name": "Betula utilis D. Don",
+        "source_record_id": "links-0344",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c",
+          "Plant Name": "Betula utilis D. Don.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Betula utilis D. Don.",
+        "source_record_id": "links-0345",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c"
+      }
+    ],
+    "source_xplant_id": "9caf4bf1850b735cd5190dc76441947c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_8721fd9e63ec4ec1__identification__001",
+  "plant_id": "plant_8721fd9e63ec4ec1",
+  "plant_name": "Acacia arabica",
+  "botanical_name": "Acacia arabica",
+  "botanical_authority": "WILLD.",
+  "family": "MIMOSACEAE",
+  "section": "identification",
+  "content": "Plant name: Acacia arabica Botanical name: Acacia arabica Botanical authority: WILLD. Family: MIMOSACEAE Source xplant ID: 45fac918d9926161b4ce136f5658e35a",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45fac918d9926161b4ce136f5658e35a"
+  ],
+  "source_record_ids": [
+    "links-0001",
+    "links-0251",
+    "links-0252",
+    "links-0253"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45fac918d9926161b4ce136f5658e35a"
+    ],
+    "source_record_ids": [
+      "links-0001",
+      "links-0251",
+      "links-0252",
+      "links-0253"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45fac918d9926161b4ce136f5658e35a",
+          "Plant Name": "Acacia arabica",
+          "Status": "Found"
+        },
+        "source_plant_name": "Acacia arabica",
+        "source_record_id": "links-0001",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45fac918d9926161b4ce136f5658e35a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45fac918d9926161b4ce136f5658e35a",
+          "Plant Name": "Acacia arabica Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Acacia arabica Willd.",
+        "source_record_id": "links-0251",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45fac918d9926161b4ce136f5658e35a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45fac918d9926161b4ce136f5658e35a",
+          "Plant Name": "Acacia arabica Willd. var cupressiformis Stewart.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Acacia arabica Willd. var cupressiformis Stewart.",
+        "source_record_id": "links-0252",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45fac918d9926161b4ce136f5658e35a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45fac918d9926161b4ce136f5658e35a",
+          "Plant Name": "Acacia arabica Willd. var vediana Cooke",
+          "Status": "Found"
+        },
+        "source_plant_name": "Acacia arabica Willd. var vediana Cooke",
+        "source_record_id": "links-0253",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45fac918d9926161b4ce136f5658e35a"
+      }
+    ],
+    "source_xplant_id": "45fac918d9926161b4ce136f5658e35a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

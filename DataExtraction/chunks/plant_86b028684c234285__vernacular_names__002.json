@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_86b028684c234285__vernacular_names__002",
+  "plant_id": "plant_86b028684c234285",
+  "plant_name": "Pongamia pinnata (Linn.) Merr.",
+  "botanical_name": "Pongamia pinnata",
+  "botanical_authority": "(L.) PIERRE",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "Telugu (29): canaga, ganuga, kaadepathige, kaagu, kaangu, kaanuga chettu, kaggera, kagu, kamu, kanaga, kandga, kanga, kaniga, kanniga, kanoogoo, kanuga, kanuga-chettu, kanugacettu, kanugu, karnaga, karunga, kaunga, kraanuga, kranuga, krovi, pungu, viaghranakamu, vyaaghranakamu, vyaghra-ekamru\nTibetan (4): jam bras, jam-bras, ka ra ndza, sve ta ka ra nja\nUrdu (2): karanj, karanjwah",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5"
+  ],
+  "source_record_ids": [
+    "links-0940",
+    "links-0941",
+    "links-0942"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5"
+    ],
+    "source_record_ids": [
+      "links-0940",
+      "links-0941",
+      "links-0942"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5",
+          "Plant Name": "Pongamia pinnata (Linn.) Merr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pongamia pinnata (Linn.) Merr.",
+        "source_record_id": "links-0940",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5",
+          "Plant Name": "Pongamia pinnata Pierre.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pongamia pinnata Pierre.",
+        "source_record_id": "links-0941",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5",
+          "Plant Name": "Pongamia pinnata Lierra.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pongamia pinnata Lierra.",
+        "source_record_id": "links-0942",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5"
+      }
+    ],
+    "source_xplant_id": "43842c8edcd45ca1ca952945109884e5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

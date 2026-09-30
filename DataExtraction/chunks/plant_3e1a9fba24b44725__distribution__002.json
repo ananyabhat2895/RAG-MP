@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_3e1a9fba24b44725__distribution__002",
+  "plant_id": "plant_3e1a9fba24b44725",
+  "plant_name": "Urena lobata Linn.",
+  "botanical_name": "Urena lobata",
+  "botanical_authority": "L.",
+  "family": "MALVACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f01b044e964868161e27d2b032a1e6af"
+  ],
+  "source_record_ids": [
+    "links-1347"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f01b044e964868161e27d2b032a1e6af"
+    ],
+    "source_record_ids": [
+      "links-1347"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f01b044e964868161e27d2b032a1e6af",
+          "Plant Name": "Urena lobata Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Urena lobata Linn.",
+        "source_record_id": "links-1347",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f01b044e964868161e27d2b032a1e6af"
+      }
+    ],
+    "source_xplant_id": "f01b044e964868161e27d2b032a1e6af",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

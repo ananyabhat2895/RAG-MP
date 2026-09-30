@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_97210b300f33e91f__images__001",
+  "plant_id": "plant_97210b300f33e91f",
+  "plant_name": "Paederia foetida Linn.",
+  "botanical_name": "Paederia foetida",
+  "botanical_authority": "L.",
+  "family": "RUBIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd191b2256841c0623f45a5a76465bc3"
+  ],
+  "source_record_ids": [
+    "links-0586"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd191b2256841c0623f45a5a76465bc3"
+    ],
+    "source_record_ids": [
+      "links-0586"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd191b2256841c0623f45a5a76465bc3",
+          "Plant Name": "Paederia foetida Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Paederia foetida Linn.",
+        "source_record_id": "links-0586",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd191b2256841c0623f45a5a76465bc3"
+      }
+    ],
+    "source_xplant_id": "dd191b2256841c0623f45a5a76465bc3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

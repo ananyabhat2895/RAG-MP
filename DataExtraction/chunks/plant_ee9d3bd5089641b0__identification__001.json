@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ee9d3bd5089641b0__identification__001",
+  "plant_id": "plant_ee9d3bd5089641b0",
+  "plant_name": "Hibiscus esculentus Linn.",
+  "botanical_name": "Abelmoschus esculentus",
+  "botanical_authority": "(L.) MOENCH",
+  "family": "MALVACEAE",
+  "section": "identification",
+  "content": "Plant name: Hibiscus esculentus Linn. Botanical name: Abelmoschus esculentus Botanical authority: (L.) MOENCH Family: MALVACEAE Source xplant ID: 0cd0d9e6bdcca7b488e56438adea6097",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0cd0d9e6bdcca7b488e56438adea6097/xclkon/ae955e38e1388c00e213fb56667a06a7"
+  ],
+  "source_record_ids": [
+    "links-0302"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0cd0d9e6bdcca7b488e56438adea6097/xclkon/ae955e38e1388c00e213fb56667a06a7"
+    ],
+    "source_record_ids": [
+      "links-0302"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0cd0d9e6bdcca7b488e56438adea6097/xclkon/ae955e38e1388c00e213fb56667a06a7",
+          "Plant Name": "Hibiscus esculentus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hibiscus esculentus Linn.",
+        "source_record_id": "links-0302",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0cd0d9e6bdcca7b488e56438adea6097/xclkon/ae955e38e1388c00e213fb56667a06a7"
+      }
+    ],
+    "source_xplant_id": "0cd0d9e6bdcca7b488e56438adea6097",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

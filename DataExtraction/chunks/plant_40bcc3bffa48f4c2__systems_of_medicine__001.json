@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_40bcc3bffa48f4c2__systems_of_medicine__001",
+  "plant_id": "plant_40bcc3bffa48f4c2",
+  "plant_name": "Ferula foetida Regel.",
+  "botanical_name": "Ferula assa-foetida",
+  "botanical_authority": "L.",
+  "family": "APIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Homeopathy\nSystem of medicine: Folk",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00335c344635765232143e3a1763bc09"
+  ],
+  "source_record_ids": [
+    "links-0714"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00335c344635765232143e3a1763bc09"
+    ],
+    "source_record_ids": [
+      "links-0714"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00335c344635765232143e3a1763bc09",
+          "Plant Name": "Ferula foetida Regel.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ferula foetida Regel.",
+        "source_record_id": "links-0714",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00335c344635765232143e3a1763bc09"
+      }
+    ],
+    "source_xplant_id": "00335c344635765232143e3a1763bc09",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

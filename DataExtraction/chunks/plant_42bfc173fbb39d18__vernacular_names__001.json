@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_42bfc173fbb39d18__vernacular_names__001",
+  "plant_id": "plant_42bfc173fbb39d18",
+  "plant_name": "Ipomoea eriocarpa R. Br.",
+  "botanical_name": "Ipomoea eriocarpa",
+  "botanical_authority": "R. BR.",
+  "family": "CONVOLVULACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (3): boota, ghiabato, rota belari\nKannada (2): mulli balli, mullu balli\nMarathi (1): puiti-ligi\nSanskrit (2): Sanskrit CommentsX nakhari, sitavalli\nTamil (1): pulichevidu\nTelugu (3): purititeega, puritithige, purititige",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9bc92c3119ea0723a250f849c17205c1"
+  ],
+  "source_record_ids": [
+    "links-1807"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9bc92c3119ea0723a250f849c17205c1"
+    ],
+    "source_record_ids": [
+      "links-1807"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9bc92c3119ea0723a250f849c17205c1",
+          "Plant Name": "Ipomoea eriocarpa R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ipomoea eriocarpa R. Br.",
+        "source_record_id": "links-1807",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9bc92c3119ea0723a250f849c17205c1"
+      }
+    ],
+    "source_xplant_id": "9bc92c3119ea0723a250f849c17205c1",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

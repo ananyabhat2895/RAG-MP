@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_e363375e78d6af96__distribution__001",
+  "plant_id": "plant_e363375e78d6af96",
+  "plant_name": "Echinochloa frumentacea Link.",
+  "botanical_name": "Echinochloa frumentacea",
+  "botanical_authority": "LINK",
+  "family": "POACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 3\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol IV\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - Ed B D Sharma, S Karthikeyan, N P Singh; distribution: Distribution; title: Title - Flora of Maharashrta State (Monocotyledons)\nDistribution entry: author: Author - K.M. Matthew; distribution: Distribution; title: Title - The Flora of the Palni Hills Vol-3\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97f639ee183ac2a68331dc3b34623c1a"
+  ],
+  "source_record_ids": [
+    "links-1892",
+    "links-1893"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97f639ee183ac2a68331dc3b34623c1a"
+    ],
+    "source_record_ids": [
+      "links-1892",
+      "links-1893"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97f639ee183ac2a68331dc3b34623c1a",
+          "Plant Name": "Echinochloa frumentacea Link.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Echinochloa frumentacea Link.",
+        "source_record_id": "links-1892",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97f639ee183ac2a68331dc3b34623c1a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97f639ee183ac2a68331dc3b34623c1a",
+          "Plant Name": "Echinochloa frumentacea Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Echinochloa frumentacea Linn.",
+        "source_record_id": "links-1893",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97f639ee183ac2a68331dc3b34623c1a"
+      }
+    ],
+    "source_xplant_id": "97f639ee183ac2a68331dc3b34623c1a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

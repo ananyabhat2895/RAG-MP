@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_86b028684c234285__vernacular_names__001",
+  "plant_id": "plant_86b028684c234285",
+  "plant_name": "Pongamia pinnata (Linn.) Merr.",
+  "botanical_name": "Pongamia pinnata",
+  "botanical_authority": "(L.) PIERRE",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): karanja, kerong\nHindi (12): kanja, kannaji, karani, karanj, karanja, karanjaka, karanjh, karanji, kiramal, papar, papra, sukhchain\nKannada (29): batta, batti, chitaveelya, honga, hongay, honge, honge mara, honge-mara, hongemara, hongey, huligali, huligili, huligilu, huligiri, hungay, kanaga, karanga, karanja, karinje, korangi, korengi, koringe, korinta, korngu, kurundi, pong, pungei, pungu, rakta honne\nMalayalam (17): minnari, oongu, pongai, pongam, pongu, ponnam, ponnu, poonam, punga, pungammaram, punnu, punu, unga, ungha, ungu, unju, unnu\nMarathi (9): ghanerakaranj, ghanerakaranji, karamji, karanj, karanja, karanji, keedamaar, kidamar, ponnamu\nSanskrit (42): Sanskrit CommentsX angaravalli, badhaphala, chirabilva, ciravilva, dhana, gaura, ghratakaranja, ghritaparnaka, ghrtapura, gucchapuspaka, guchhapushpaka, hastija, kaidarya, kakaghni, kalimara, karabhandika, karanja, karanjah, matry, naktahva, naktamala, naktamalah, naktamalaka, prakirya, putika, putikaranja, putiparna, putipatraka, rochana, sadgrantha, shadagrantha, shamagashta, snigdhapatra, tamala-vrikshaha, tamalavrikshaha, tapasvi, udakirya, udakiryah, vahni, varuni, vishari, vrittaparna\nTamil (91): aciruntam, aciruttam, agirunanandam, akirantam, akirantamaram, akirantanam, akirunanantam, akirunantam, alam1, alamarikam, alamarikamaram, alati1, cittakikam, ilanci1, ilancu1, ilanji, intirani2, intiranikam, intiranikamaram, kakananam, kancaccam, kancatam, kanjanam, karancakam, karancam, karancamam, karancamamaram, kentikam#, kentitamaram, kolliyam, kolliyamaram, kucco, kuppucam, mancaripputpam, naguttam, nakatamalam, nakuttam, nanandam, nanantam2#, nanantam2@, nanantamaram, nankaimaram, nantam1, nantamalam, nattaka, nattakamaram, nattam, nattamalakimaram, nattamalam, nattamaram, nattmalakam, nirppungu, nirppunkan, nirppunku#, nirppunku@, palpunku, pirakacakamatu, pirakarancam, pirakari, ponga, pongan, ponka, porimalar, punga, punga maram, pungam, pungam-maram, pungammaram, pungu, punkaimaram, punkam, punkam@, punkan, punkan@, punku, punku 2, punkumaram, punkumaram 1, punti, punti 1, puntikarancakam, puvanti@, tattaippunku, tavanatcavalli, tiripilan, totakatti, ucaku, ulokatitam, utaku, vacaputpam, yayariyam",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5"
+  ],
+  "source_record_ids": [
+    "links-0940",
+    "links-0941",
+    "links-0942"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5"
+    ],
+    "source_record_ids": [
+      "links-0940",
+      "links-0941",
+      "links-0942"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5",
+          "Plant Name": "Pongamia pinnata (Linn.) Merr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pongamia pinnata (Linn.) Merr.",
+        "source_record_id": "links-0940",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5",
+          "Plant Name": "Pongamia pinnata Pierre.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pongamia pinnata Pierre.",
+        "source_record_id": "links-0941",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5",
+          "Plant Name": "Pongamia pinnata Lierra.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pongamia pinnata Lierra.",
+        "source_record_id": "links-0942",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5"
+      }
+    ],
+    "source_xplant_id": "43842c8edcd45ca1ca952945109884e5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

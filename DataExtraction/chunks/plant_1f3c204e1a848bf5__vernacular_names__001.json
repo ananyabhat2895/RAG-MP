@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_1f3c204e1a848bf5__vernacular_names__001",
+  "plant_id": "plant_1f3c204e1a848bf5",
+  "plant_name": "Cucurbita maxima Duchesne.",
+  "botanical_name": "Cucurbita maxima",
+  "botanical_authority": "DUCHESNE",
+  "family": "CUCURBITACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): pumpkin, turks cap gourd, winter squash\nHindi (9): kaddu, kadu, kashiphala, lal kolu, lal kumra, lalkumra, meetha kaddu, mithakaddu, pilakohola\nKannada (10): chini kaayi, chinikavi, govekaayi, gumbalo, kumbala, kumbala kaayi, kumbala-hannu, kumbala-kayi, kumbalakai, see gumbala\nMalayalam (3): chakkerakumpalan, mattan, mattanga\nMarathi (4): bhomphala, dudhni, lal, tambda bhopla\nSanskrit (11): Sanskrit CommentsX dadhiphala, dangari, gramya, gudayogaphala, kushmanda, peetaphala, pitakushmanda, pitakusmandah, pitaphala, pitapushpa, punyalatha\nTamil (72): akantamarican, animulai, animulaimatu, aracanikkay1, arasanikai, carkkaraipparanki, carkkaraippucani, carukkaraipparanki, carukkaraippucanai, carukkaraippucini2, cempucani, cikivarttakam, cimaippucani@, cinakkaykkoti, curiyaputattan, inippupucani, kacinikkuppantam, kakarupala, kampalam, kampu1, kanipalamulai, kantupariccunai, karkaru, kucumantakkay, kulika, kulikakkoti, kumutikai, kumutikaikkoti, kuppil, mancal pucani, matavappiriyakkoti, matavappiriyam, nalla-pusini, nallapucani, naratiya1, nompurikakkoti, nompurikam, parangi kayi, parangikayi, paranki1, paranki@, parankik kay, parankikkay, parankikkoti, parankkikai, pasanavuralpokki, patarkay1, periyakatalai, perumpantakkoti, perumpantam, pooshalni, pucanai, pucani@, pucanikkay, pucuni 1, pulaippucanikkoti, pulipalam, puliyacani, puliyacanikkoti, puliyamalam, puliyapalam, pushini, pushinik-kay, pusini, pusinikkay, putpalata, sarkarai pusunai, tecalika, tecalikappucanikkoti, tevatalikam, tiravapotakkoti, tiravapotam1\nTelugu (7): erra gummadi, gummadi, gummadi kaaya, gummadi kayi, gummadi-kaya, thiyya gummadi, tiyya gummadi\nUrdu (3): maghz tukhm kaddu, maghz tukhm-i-kaddu, maghz-i-tukhm-i-kaddu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8925d9571844bba4cdb019ddbd390779"
+  ],
+  "source_record_ids": [
+    "links-1526"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8925d9571844bba4cdb019ddbd390779"
+    ],
+    "source_record_ids": [
+      "links-1526"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8925d9571844bba4cdb019ddbd390779",
+          "Plant Name": "Cucurbita maxima Duchesne.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cucurbita maxima Duchesne.",
+        "source_record_id": "links-1526",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8925d9571844bba4cdb019ddbd390779"
+      }
+    ],
+    "source_xplant_id": "8925d9571844bba4cdb019ddbd390779",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

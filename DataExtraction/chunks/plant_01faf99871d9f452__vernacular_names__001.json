@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_01faf99871d9f452__vernacular_names__001",
+  "plant_id": "plant_01faf99871d9f452",
+  "plant_name": "Bridelia montana",
+  "botanical_name": "Bridelia montana",
+  "botanical_authority": "WILLD.",
+  "family": "EUPHORBIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (5): geia, gondni, kargnalia, khaja, kusi\nKannada (12): bandha, bantha, ganduvikke, goonjun mara, kitto, kittoe, kote, kotte, kottoe, mahaaveera, sidigulige, sidigulu\nMarathi (1): asana\nSanskrit (2): Sanskrit CommentsX asana, pasanabheda\nTamil (2): mulvengai, vengaimaram\nTelugu (32): balli, bigalu, bontavegi, gondu, gundabigula, gundu bigalu, gundubigalu, gundubigulu, guntabigulu, guntabiridi, kanchepi, paanchavoni, panchavoni, panchodakamu, panchvoni, pancuvoni, pantangi, pantegi, pantenga, panthangi, pantiga, patangam, patenga, ponthangi, sanna kodari, sannakodari, sannakotari, tella yegise, tellavegisa, tellayegi, thellavegisa, vadishi chettu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ac39a5388fb238319c53c0a748a1849"
+  ],
+  "source_record_ids": [
+    "links-0170"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ac39a5388fb238319c53c0a748a1849"
+    ],
+    "source_record_ids": [
+      "links-0170"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ac39a5388fb238319c53c0a748a1849",
+          "Plant Name": "Bridelia montana",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bridelia montana",
+        "source_record_id": "links-0170",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ac39a5388fb238319c53c0a748a1849"
+      }
+    ],
+    "source_xplant_id": "0ac39a5388fb238319c53c0a748a1849",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

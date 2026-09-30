@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_eea1b7d362647c79__identification__001",
+  "plant_id": "plant_eea1b7d362647c79",
+  "plant_name": "Porana paniculata Roxb.",
+  "botanical_name": "Porana paniculata",
+  "botanical_authority": "ROXB.",
+  "family": "CONVOLVULACEAE",
+  "section": "identification",
+  "content": "Plant name: Porana paniculata Roxb. Botanical name: Porana paniculata Botanical authority: ROXB. Family: CONVOLVULACEAE Source xplant ID: 740f5a06cc95eb3ea60f291d5e6c83ea",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/740f5a06cc95eb3ea60f291d5e6c83ea"
+  ],
+  "source_record_ids": [
+    "links-0587"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/740f5a06cc95eb3ea60f291d5e6c83ea"
+    ],
+    "source_record_ids": [
+      "links-0587"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/740f5a06cc95eb3ea60f291d5e6c83ea",
+          "Plant Name": "Porana paniculata Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Porana paniculata Roxb.",
+        "source_record_id": "links-0587",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/740f5a06cc95eb3ea60f291d5e6c83ea"
+      }
+    ],
+    "source_xplant_id": "740f5a06cc95eb3ea60f291d5e6c83ea",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "chunk_id": "plant_1677bac2a4c6a191__vernacular_names__002",
+  "plant_id": "plant_1677bac2a4c6a191",
+  "plant_name": "Solanum surattense Burm. f.",
+  "botanical_name": "Solanum virginianum",
+  "botanical_authority": "L.",
+  "family": "SOLANACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (122): akkinitamam, anakkirantam, antattaci, arrumulli 1, cinkini 2, ciruvalutalai, ciruvalutalai 1, ciruvalutunai 1, cittiravaratti, cundung-katric, cundunghatrie vayr, cuntaram, cutturam, cutturu, cutturuki, cuvacakacakkini 2, ekkattatantai, iracanicevitakkoti, iracanicevitam, iyakkini, iyakkuritam, kandamkathiri, kandan-kaththiri, kandan-kattiri, kandangatari, kandangatri, kandangattari, kandangattiri, kandanghathiri, kandangkattari, kandankathiri, kandankaththiri, kandankatri, kandankattari, kankisam, kanndankathri, kantakarakam, kantakaram 1, kantakari, kantakarikai, kantan kattiri, kantankaddiri, kantankali, kantankalicceti, kantankari, kantankathri, kantankattari, kantankattiri, kantapunkikam, kantari, kanti, kantu 1, kantucceti, kapanacacceti, kapanacam, kapanacani 1, karalikam, kari 2, karimulli, kattuvakatattan, katumul, katumutkattirikkoti, konokkam, kotivalutalai, kuccapalam, kuli, kurotaparani, malamatipputu, mulkoticci, mulkututatari, mullikkai, mullukkoticci, mutkattari, nilaputpacevitam, nirattika, nirttittam, nitiktika 2, nitinatikam, nitintakkoti, nitintam 2, nitittikam, nittikam, nittiravari, nittiravarikkoti, nittitam, paparapaluttai, papparamulli, parattinpancu, piracotani#, piracotani@, piracotini, piratti 1, ponniratti, puttukkani, siriya, siru-vazhunai, sutturam, tamanam, tantilainamatti, tatiri, tavani, tavaniyakkoti, tittika, udaravani, udavani, utakantankattari, utakkantankattiri, utaravani#, utaravani@, utaravanitakkoti, utaravanitam, utavani, uttaravani, uttavalikakkoti, uttavalikam, uttavani, valutalai 1, varattantu 1, varttakikam, velvilimatu, viyakkiri, yamarutakam\nTelugu (36): callamulaga, callamullaga, challa mulaga, challamulaga, erri vanga, jidduvusta, jidduvuste, kudaa, mulla vankaaya, nela mulaka, nela mullaaku, nela vakudu, nela-mulaka, nelamulaka, nelamullaku, nelamunga, nelavaakudu, nelavakudu, nelawakudu, nellamollunga, pinna-mulaka, pinnamulaka, raama mulaga, rammolaka, revatimunaga, tellanelamulaka, tellavakudu, thellangelamulaka, thellavaakudu, vaartaaki, vakudu, vakudu mulama, vankuda, vartaki, vauste, vuste\nTibetan (6): bya-ghri, ka-nta ka-ri, ka-nta-ka-r, ka-nta-ka-ri, kanta ka ri, ksu-tra\nUrdu (2): katai, koteli khurd",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/849c0de64b7c66638ac1af96bf578c1f",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2"
+  ],
+  "source_record_ids": [
+    "links-0921",
+    "links-0922",
+    "links-0923",
+    "links-0924"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/849c0de64b7c66638ac1af96bf578c1f",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2"
+    ],
+    "source_record_ids": [
+      "links-0921",
+      "links-0922",
+      "links-0923",
+      "links-0924"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/849c0de64b7c66638ac1af96bf578c1f",
+          "Plant Name": "Solanum surattense Burm. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum surattense Burm. f.",
+        "source_record_id": "links-0921",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/849c0de64b7c66638ac1af96bf578c1f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2",
+          "Plant Name": "Solanum xanthocarpum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum xanthocarpum",
+        "source_record_id": "links-0922",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2",
+          "Plant Name": "Solanum xanthocarpum Schrad & Wendle.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum xanthocarpum Schrad & Wendle.",
+        "source_record_id": "links-0923",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2",
+          "Plant Name": "Solanum xanthocarpum Schrad. & Wendle.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum xanthocarpum Schrad. & Wendle.",
+        "source_record_id": "links-0924",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2"
+      }
+    ],
+    "source_xplant_id": "2cb1e3bf00b5de22d891cdf07eeec4b7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

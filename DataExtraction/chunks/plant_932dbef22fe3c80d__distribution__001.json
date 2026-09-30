@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_932dbef22fe3c80d__distribution__001",
+  "plant_id": "plant_932dbef22fe3c80d",
+  "plant_name": "Cayratia pedata (Wall.) Gagnep.",
+  "botanical_name": "Cayratia pedata",
+  "botanical_authority": "(LAM.) JUSS. EX GAGNEP. var. glabra GAMBLE",
+  "family": "VITACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1\nDistribution entry: author: Author - N.P.Balakrishnan; distribution: Distribution; title: Title - Flora of Jowai Vol.I\nDistribution entry: author: Author - Ed. P. Daniel; distribution: Distribution; title: Title - The Flora of Kerala Vol I\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b692f957b4e6ff4f43b3fe5b717583d"
+  ],
+  "source_record_ids": [
+    "links-1004"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b692f957b4e6ff4f43b3fe5b717583d"
+    ],
+    "source_record_ids": [
+      "links-1004"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b692f957b4e6ff4f43b3fe5b717583d",
+          "Plant Name": "Cayratia pedata (Wall.) Gagnep.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cayratia pedata (Wall.) Gagnep.",
+        "source_record_id": "links-1004",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b692f957b4e6ff4f43b3fe5b717583d"
+      }
+    ],
+    "source_xplant_id": "7b692f957b4e6ff4f43b3fe5b717583d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

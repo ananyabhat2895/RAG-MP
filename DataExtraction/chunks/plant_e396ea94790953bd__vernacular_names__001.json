@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_e396ea94790953bd__vernacular_names__001",
+  "plant_id": "plant_e396ea94790953bd",
+  "plant_name": "Sansevieria roxburghiana Schult.",
+  "botanical_name": "Sansevieria roxburghiana",
+  "botanical_authority": "SCHULT. F.",
+  "family": "AGAVACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (3): marul, murahri, murva\nKannada (11): goddu manji, goddu mumbe, heggurantige, heggurantike, heggurutike, madhurase, manjina naaru, manjinanaru, manjinnaaru, maruga, nanjina naaru\nMalayalam (2): katukapel, sanam\nMarathi (3): ghanasaaphan, ghannasaphan, nagphan\nSanskrit (8): Sanskrit CommentsX darvikari, marura, muruva, murva, nagadamana, nagini, sarpi, taksaki\nTamil (55): canappukkuncam, cirurrapani, jankuppattai, kokarunai, kokaruni, kurumpai, malaikkuncaram 2, malaimanci, manci 3, marul, marul-k-kilanku, marul-kalang, marutkarralai, marutkizhangu, matucava, matuccava, matucironi, maturaca, maturacai, maturacakkurumpai, maturacappilu, maturacatevi, mirutupukakkurumpai, mirutupukam, morantam, mottamanji, mottamanjii, murunkicam, muruva, muruvakkurumpai, murvam, mutulapikam, palacironi, perunkurumpai 2, pettal, pettalam, pettam, pettamuruvam, pettarkurumpai, piluni, piluparni, pitikam, pitira, pitirakkurumpai, sanal, tecani2#, tecani2@, teni2, teva, tirucironi, tittavalli, vekuparani, vilupanni, vilupannivilu 1, viriyannam\nTelugu (8): chaga, chama kada nara, chamacada, ishaura-koda-udr, junappu, saga, saganara, saggai\nTibetan (5): mu rab (p), mu rba, mu rba (p), mu-rba, mur ba (d)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68a505a1dced9a8acba71c2d18d6b6b9"
+  ],
+  "source_record_ids": [
+    "links-1329",
+    "links-1348"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68a505a1dced9a8acba71c2d18d6b6b9"
+    ],
+    "source_record_ids": [
+      "links-1329",
+      "links-1348"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68a505a1dced9a8acba71c2d18d6b6b9",
+          "Plant Name": "Sansevieria roxburghiana Schult.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sansevieria roxburghiana Schult.",
+        "source_record_id": "links-1329",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68a505a1dced9a8acba71c2d18d6b6b9"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68a505a1dced9a8acba71c2d18d6b6b9",
+          "Plant Name": "Sansevieria roxburghiana Schult. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sansevieria roxburghiana Schult. f.",
+        "source_record_id": "links-1348",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68a505a1dced9a8acba71c2d18d6b6b9"
+      }
+    ],
+    "source_xplant_id": "68a505a1dced9a8acba71c2d18d6b6b9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_1d3fc8db736aa20a__vernacular_names__001",
+  "plant_id": "plant_1d3fc8db736aa20a",
+  "plant_name": "Iris nepalensis D. Don.",
+  "botanical_name": "Iris nepalensis",
+  "botanical_authority": "D.DON",
+  "family": "IRIDACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (4): brechra, chiluchi, kharera\nSanskrit (1): Sanskrit CommentsX haimavati",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c786c3f7982846b3b59721924a152991"
+  ],
+  "source_record_ids": [
+    "links-0679"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c786c3f7982846b3b59721924a152991"
+    ],
+    "source_record_ids": [
+      "links-0679"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c786c3f7982846b3b59721924a152991",
+          "Plant Name": "Iris nepalensis D. Don.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Iris nepalensis D. Don.",
+        "source_record_id": "links-0679",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c786c3f7982846b3b59721924a152991"
+      }
+    ],
+    "source_xplant_id": "c786c3f7982846b3b59721924a152991",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

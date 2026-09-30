@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_9dc0805515657876__vernacular_names__002",
+  "plant_id": "plant_9dc0805515657876",
+  "plant_name": "Vitis vinifera Linn.",
+  "botanical_name": "Vitis vinifera",
+  "botanical_authority": "L.",
+  "family": "VITACEAE",
+  "section": "vernacular_names",
+  "content": "Urdu (13): aab-e-angur, angoor, angur, angur-e-khushk, kishmish, mawaiz munaqa, mawaiz munaqqa, maweez (munaqqa), monaqqa, munaqqa, rub angur tursh, rub ghura, rub-i-ghura",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2131b89761949cb629cb1515252370cc"
+  ],
+  "source_record_ids": [
+    "links-0530"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2131b89761949cb629cb1515252370cc"
+    ],
+    "source_record_ids": [
+      "links-0530"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2131b89761949cb629cb1515252370cc",
+          "Plant Name": "Vitis vinifera Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vitis vinifera Linn.",
+        "source_record_id": "links-0530",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2131b89761949cb629cb1515252370cc"
+      }
+    ],
+    "source_xplant_id": "2131b89761949cb629cb1515252370cc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

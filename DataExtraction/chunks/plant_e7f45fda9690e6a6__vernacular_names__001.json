@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_e7f45fda9690e6a6__vernacular_names__001",
+  "plant_id": "plant_e7f45fda9690e6a6",
+  "plant_name": "Dendrophthoe falcata (Linn.f.) Ettingshaysen",
+  "botanical_name": "Dendrophthoe falcata",
+  "botanical_authority": "(L.F) ETTING.",
+  "family": "LORANTHACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (7): adharvela, bahda, banda, kang, lasan, narate, parand\nKannada (15): badanike, banda, bandanike, bandarike, kasarakabandanike, kasrakanabandanige, kesarakabandanike, madana ummatthi, mara haalugida, marabhaksha, muddapa, muddupa, siddeshwara, sigare, sigare badanike\nMalayalam (13): ethukanni, ithikanni, ithil, itti, ittikkanni, ittukanni, kannirattinmelpulluni, pullunni, pulunni, uthir, utia, valli-itti-canni, velluta-itti-canni\nMarathi (6): baandagul, banda, bandgul, betungli, kainguli, vanda\nSanskrit (12): Sanskrit CommentsX apadarohini, bandaka, vanda, vandaka, vanua, vriksha-dani, vrikshabhaksha, vrikshadani, vriksharohini, vriksharuha, vrksadani, vrksaruha\nTamil (103): accamamukam, akacavuruvi, akaimam, akaimaram, akaiyuruvi, alakamam, anakakkoti, anakam#, anakam@, antakan, antalam, antarakkon, arularocikacceti, arularocikam, avin, avinam, caittiyavacceti, caittiyavam, cakkalatti, carittutai, carittutaimuli, cekari2, cetimulaiyantakam, cikanku, cikari2, cikariyantam, civanti2@, ettukkanni, kakarukam, kakavirutcam, kalluni, kalluruni, kamalainacani, kamaricam, kamaricham, kamarikacceti, kamarikam, kamarttakaviranam pokki, kamativirutcam, kamini, kaminipokarokani, katari2, kecaramatiyam, kuruviccai, kuruvicci1, kuruviccippuntu, kuruvinci1, maccamamukam, makavirutcati, mannutaiyal, maravani, maravetti 2, maravotti, maravottippuntu, nakecikacceti, nakecikam, nakeciru, nauli, nilancoti1, ninravitamtincan, ninritamtincan, ottu, patamparo, pauluruvi, pilluli, plavithil, pokarokani, pulloli, pulluli, pulluri, pulluri !, pulluruvi, sangattanmarattubulluruvi, tatta, tayaikkolli2, tayaikkonran2, teki, tekicceti, tekikam, teli, ucci, uccicceti, uccikkoti, uccitati, uccitaticceti, uchi, ucicceti, urukai, uruvi, uruvi2, vaci, vantai, vatavi, viccataiyakkoti, viccataiyan, viranapokkini, virukkatteni, virutcacatani, virutcati, virutkarukala, viruttateni, vitantincan, yanakampu\nTelugu (14): badanika, badanike, badinika, bajinika, bajinike, bajiniki, jiddu, vadanike, vajinika, velagabadanika, wedinikai, yelinga, yelingawadinika, yellingawadinika",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c90f8a2b28b3cbebb4cd1fb3068ad5a7",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c90f8a2b28b3cbebb4cd1fb3068ad5a7/xclkon/821c2a98f003cd27fe4d9718022ac47c"
+  ],
+  "source_record_ids": [
+    "links-0286",
+    "links-2050"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c90f8a2b28b3cbebb4cd1fb3068ad5a7",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c90f8a2b28b3cbebb4cd1fb3068ad5a7/xclkon/821c2a98f003cd27fe4d9718022ac47c"
+    ],
+    "source_record_ids": [
+      "links-0286",
+      "links-2050"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c90f8a2b28b3cbebb4cd1fb3068ad5a7",
+          "Plant Name": "Dendrophthoe falcata (Linn.f.) Ettingshaysen",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dendrophthoe falcata (Linn.f.) Ettingshaysen",
+        "source_record_id": "links-0286",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c90f8a2b28b3cbebb4cd1fb3068ad5a7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c90f8a2b28b3cbebb4cd1fb3068ad5a7/xclkon/821c2a98f003cd27fe4d9718022ac47c",
+          "Plant Name": "Loranthus longiflorus Desr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Loranthus longiflorus Desr.",
+        "source_record_id": "links-2050",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c90f8a2b28b3cbebb4cd1fb3068ad5a7/xclkon/821c2a98f003cd27fe4d9718022ac47c"
+      }
+    ],
+    "source_xplant_id": "c90f8a2b28b3cbebb4cd1fb3068ad5a7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

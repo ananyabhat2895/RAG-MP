@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_5b64dc7a2f7788ff__distribution__001",
+  "plant_id": "plant_5b64dc7a2f7788ff",
+  "plant_name": "Aristolochia indica",
+  "botanical_name": "Aristolochia indica",
+  "botanical_authority": "L.",
+  "family": "ARISTOLOCHIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 2\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a96b90285b25db221e6727e2fffd19a"
+  ],
+  "source_record_ids": [
+    "links-0581",
+    "links-0582"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a96b90285b25db221e6727e2fffd19a"
+    ],
+    "source_record_ids": [
+      "links-0581",
+      "links-0582"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a96b90285b25db221e6727e2fffd19a",
+          "Plant Name": "Aristolochia indica",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aristolochia indica",
+        "source_record_id": "links-0581",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a96b90285b25db221e6727e2fffd19a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a96b90285b25db221e6727e2fffd19a",
+          "Plant Name": "Aristolochia indica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aristolochia indica Linn.",
+        "source_record_id": "links-0582",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a96b90285b25db221e6727e2fffd19a"
+      }
+    ],
+    "source_xplant_id": "7a96b90285b25db221e6727e2fffd19a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_3a30442130450e48__identification__001",
+  "plant_id": "plant_3a30442130450e48",
+  "plant_name": "Eupatorium triplinerve Vahl.",
+  "botanical_name": "Eupatorium triplinerve",
+  "botanical_authority": "VAHL",
+  "family": "ASTERACEAE",
+  "section": "identification",
+  "content": "Plant name: Eupatorium triplinerve Vahl. Botanical name: Eupatorium triplinerve Botanical authority: VAHL Family: ASTERACEAE Source xplant ID: 5b59b1be20119e838a4aa24944e75e04",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5b59b1be20119e838a4aa24944e75e04"
+  ],
+  "source_record_ids": [
+    "links-0250"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5b59b1be20119e838a4aa24944e75e04"
+    ],
+    "source_record_ids": [
+      "links-0250"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5b59b1be20119e838a4aa24944e75e04",
+          "Plant Name": "Eupatorium triplinerve Vahl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Eupatorium triplinerve Vahl.",
+        "source_record_id": "links-0250",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5b59b1be20119e838a4aa24944e75e04"
+      }
+    ],
+    "source_xplant_id": "5b59b1be20119e838a4aa24944e75e04",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

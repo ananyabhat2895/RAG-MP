@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_069f5de44e40324a__images__001",
+  "plant_id": "plant_069f5de44e40324a",
+  "plant_name": "Hygrophila salicifolia Nees.",
+  "botanical_name": "Hygrophila ringens",
+  "botanical_authority": "(L.) R.BR. EX STEUDEL",
+  "family": "ACANTHACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7ef210270ba2b0f343db6b76da14da1/xclkon/24d4507be20e1c8e15c19289287ce619"
+  ],
+  "source_record_ids": [
+    "links-0750"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7ef210270ba2b0f343db6b76da14da1/xclkon/24d4507be20e1c8e15c19289287ce619"
+    ],
+    "source_record_ids": [
+      "links-0750"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7ef210270ba2b0f343db6b76da14da1/xclkon/24d4507be20e1c8e15c19289287ce619",
+          "Plant Name": "Hygrophila salicifolia Nees.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hygrophila salicifolia Nees.",
+        "source_record_id": "links-0750",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7ef210270ba2b0f343db6b76da14da1/xclkon/24d4507be20e1c8e15c19289287ce619"
+      }
+    ],
+    "source_xplant_id": "f7ef210270ba2b0f343db6b76da14da1",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

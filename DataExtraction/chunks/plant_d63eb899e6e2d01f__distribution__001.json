@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_d63eb899e6e2d01f__distribution__001",
+  "plant_id": "plant_d63eb899e6e2d01f",
+  "plant_name": "Citrullus colocynthis Schard.",
+  "botanical_name": "Citrullus colocynthis",
+  "botanical_authority": "(L.) SCHRADER",
+  "family": "CUCURBITACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981"
+  ],
+  "source_record_ids": [
+    "links-0740",
+    "links-0741"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981"
+    ],
+    "source_record_ids": [
+      "links-0740",
+      "links-0741"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981",
+          "Plant Name": "Citrullus colocynthis Schard.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrullus colocynthis Schard.",
+        "source_record_id": "links-0740",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981",
+          "Plant Name": "Citrullus colocynthis Schrad.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrullus colocynthis Schrad.",
+        "source_record_id": "links-0741",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981"
+      }
+    ],
+    "source_xplant_id": "0dda7b33c0cc4a03b37d976f440b9981",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

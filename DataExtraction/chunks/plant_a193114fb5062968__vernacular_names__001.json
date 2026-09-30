@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a193114fb5062968__vernacular_names__001",
+  "plant_id": "plant_a193114fb5062968",
+  "plant_name": "Ammannia baccifera Linn.",
+  "botanical_name": "Ammannia baccifera",
+  "botanical_authority": "L.",
+  "family": "LYTHRACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): blistering ammania\nHindi (12): dadamari, dadmari, do-patti-ki-kanduri, jal bhangro, jal-bhangro, jangli mendi, janglimehndie, kuranda, kuranta, lal babusi, lalbabusi, mehudi\nKannada (3): agnivendrapaaku, kaadugida, kallurive\nMalayalam (4): kallarvanchi, kallur vanchi, kalluruvi, nirummelneruppu\nMarathi (4): aginbuti, agyo, bharajambhula, dadmari\nSanskrit (13): Sanskrit CommentsX agnigarba, agnigarva, brahmasoma, davagni, kshetrabhusha, kshetravashini, kurandika, kuranti, mahasyama, pasanabheda, sukaranda, vikata, vrddhadarukah\nTamil (28): cemaciya, cilapetam, cirukalluruvi, ilavankappacitacceti, ilavankappacitam, kallarivi, kallukkoti, kalluppaikkatti, kalluri, kalluricceti, kallurivi, kalluruvi, kalluruvikkoti, kalluruvipoondu, kallurvi, malaimurikacceti, malaimurikam, neermelneruppu, nirmel neruppu, nirmelneruppu, nirneruppu 2, nirumel-neruppu, nirumelneruppu, pakuputtipati, pasanapetam, pasanapeti 1, tavakkini, tipputu\nTelugu (5): aginendramu, agni vendrapaku, agnivaendrapaaku, agnivendapaku, agnivendra-paku",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c05a5a1b7e849f7ab137257ed941dead"
+  ],
+  "source_record_ids": [
+    "links-0373"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c05a5a1b7e849f7ab137257ed941dead"
+    ],
+    "source_record_ids": [
+      "links-0373"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c05a5a1b7e849f7ab137257ed941dead",
+          "Plant Name": "Ammannia baccifera Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ammannia baccifera Linn.",
+        "source_record_id": "links-0373",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c05a5a1b7e849f7ab137257ed941dead"
+      }
+    ],
+    "source_xplant_id": "c05a5a1b7e849f7ab137257ed941dead",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

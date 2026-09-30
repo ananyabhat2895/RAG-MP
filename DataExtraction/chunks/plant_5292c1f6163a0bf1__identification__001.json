@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_5292c1f6163a0bf1__identification__001",
+  "plant_id": "plant_5292c1f6163a0bf1",
+  "plant_name": "Symplocos crataegoides Buch.-Ham.",
+  "botanical_name": "Symplocos paniculata",
+  "botanical_authority": "(THUNB.) MIQ.",
+  "family": "SYMPLOCACEAE",
+  "section": "identification",
+  "content": "Plant name: Symplocos crataegoides Buch.-Ham. Botanical name: Symplocos paniculata Botanical authority: (THUNB.) MIQ. Family: SYMPLOCACEAE Source xplant ID: 2dd10c79c17ceb302f76666246d1011f",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dd10c79c17ceb302f76666246d1011f/xclkon/9f42d3acadc0985fbabc78d8acac118d",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dd10c79c17ceb302f76666246d1011f"
+  ],
+  "source_record_ids": [
+    "links-1192",
+    "links-1194"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dd10c79c17ceb302f76666246d1011f/xclkon/9f42d3acadc0985fbabc78d8acac118d",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dd10c79c17ceb302f76666246d1011f"
+    ],
+    "source_record_ids": [
+      "links-1192",
+      "links-1194"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dd10c79c17ceb302f76666246d1011f/xclkon/9f42d3acadc0985fbabc78d8acac118d",
+          "Plant Name": "Symplocos crataegoides Buch.-Ham.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Symplocos crataegoides Buch.-Ham.",
+        "source_record_id": "links-1192",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dd10c79c17ceb302f76666246d1011f/xclkon/9f42d3acadc0985fbabc78d8acac118d"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dd10c79c17ceb302f76666246d1011f",
+          "Plant Name": "Symplocos paniculata Miq.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Symplocos paniculata Miq.",
+        "source_record_id": "links-1194",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dd10c79c17ceb302f76666246d1011f"
+      }
+    ],
+    "source_xplant_id": "2dd10c79c17ceb302f76666246d1011f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

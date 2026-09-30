@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_40652cebd88df5aa__identification__001",
+  "plant_id": "plant_40652cebd88df5aa",
+  "plant_name": "Pyrus communis Linn.",
+  "botanical_name": "Pyrus communis",
+  "botanical_authority": "L.",
+  "family": "ROSACEAE",
+  "section": "identification",
+  "content": "Plant name: Pyrus communis Linn. Botanical name: Pyrus communis Botanical authority: L. Family: ROSACEAE Source xplant ID: 844e194a0f63eebbe594e253639aceff",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/844e194a0f63eebbe594e253639aceff"
+  ],
+  "source_record_ids": [
+    "links-1925"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/844e194a0f63eebbe594e253639aceff"
+    ],
+    "source_record_ids": [
+      "links-1925"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/844e194a0f63eebbe594e253639aceff",
+          "Plant Name": "Pyrus communis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pyrus communis Linn.",
+        "source_record_id": "links-1925",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/844e194a0f63eebbe594e253639aceff"
+      }
+    ],
+    "source_xplant_id": "844e194a0f63eebbe594e253639aceff",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

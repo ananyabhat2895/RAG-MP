@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_50483945ef00aa5d__systems_of_medicine__001",
+  "plant_id": "plant_50483945ef00aa5d",
+  "plant_name": "Arundo donax Linn.",
+  "botanical_name": "Arundo donax",
+  "botanical_authority": "L.",
+  "family": "POACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Homeopathy",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f2ad14ae94ece76f05a931850e180e5"
+  ],
+  "source_record_ids": [
+    "links-1370"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f2ad14ae94ece76f05a931850e180e5"
+    ],
+    "source_record_ids": [
+      "links-1370"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f2ad14ae94ece76f05a931850e180e5",
+          "Plant Name": "Arundo donax Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Arundo donax Linn.",
+        "source_record_id": "links-1370",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f2ad14ae94ece76f05a931850e180e5"
+      }
+    ],
+    "source_xplant_id": "2f2ad14ae94ece76f05a931850e180e5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

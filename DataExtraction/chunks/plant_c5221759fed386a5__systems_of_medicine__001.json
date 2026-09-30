@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c5221759fed386a5__systems_of_medicine__001",
+  "plant_id": "plant_c5221759fed386a5",
+  "plant_name": "Cichorium endivia Linn.",
+  "botanical_name": "Cichorium endivia",
+  "botanical_authority": "L.",
+  "family": "ASTERACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dcd58fffb62cf38b0122c7707220f662"
+  ],
+  "source_record_ids": [
+    "links-0995"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dcd58fffb62cf38b0122c7707220f662"
+    ],
+    "source_record_ids": [
+      "links-0995"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dcd58fffb62cf38b0122c7707220f662",
+          "Plant Name": "Cichorium endivia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cichorium endivia Linn.",
+        "source_record_id": "links-0995",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dcd58fffb62cf38b0122c7707220f662"
+      }
+    ],
+    "source_xplant_id": "dcd58fffb62cf38b0122c7707220f662",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

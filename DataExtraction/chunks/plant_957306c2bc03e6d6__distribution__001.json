@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_957306c2bc03e6d6__distribution__001",
+  "plant_id": "plant_957306c2bc03e6d6",
+  "plant_name": "Delphinium denudatum Wall.",
+  "botanical_name": "Delphinium denudatum",
+  "botanical_authority": "WALL. EX HOOK. F. & THOMS.",
+  "family": "RANUNCULACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - ED. B.D. SHARMA & M.SANJAPPA , N.P. BALAKRISHNAN; distribution: Distribution; title: Title - FLORA OF INDIA VOL 1\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol I\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e012c1a10701bb8d5b9dbc991bd5f1a3"
+  ],
+  "source_record_ids": [
+    "links-1401",
+    "links-1402"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e012c1a10701bb8d5b9dbc991bd5f1a3"
+    ],
+    "source_record_ids": [
+      "links-1401",
+      "links-1402"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e012c1a10701bb8d5b9dbc991bd5f1a3",
+          "Plant Name": "Delphinium denudatum Wall.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Delphinium denudatum Wall.",
+        "source_record_id": "links-1401",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e012c1a10701bb8d5b9dbc991bd5f1a3"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e012c1a10701bb8d5b9dbc991bd5f1a3",
+          "Plant Name": "Delphinium denudatum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Delphinium denudatum",
+        "source_record_id": "links-1402",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e012c1a10701bb8d5b9dbc991bd5f1a3"
+      }
+    ],
+    "source_xplant_id": "e012c1a10701bb8d5b9dbc991bd5f1a3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

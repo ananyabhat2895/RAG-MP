@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_49b89ae37405dc87__vernacular_names__001",
+  "plant_id": "plant_49b89ae37405dc87",
+  "plant_name": "Nerium indicum Mill.",
+  "botanical_name": "Nerium oleander",
+  "botanical_authority": "L.",
+  "family": "APOCYNACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): oleander, rose-bay\nHindi (11): chandni, ganer, ghanira, ghanira gandheela, kanel, kaner, kanir, karabera, karber, karuvira, kuruvira\nKannada (32): ashva maaraka, biligampuganagile, biliganagalu, biliganagile, biligempuganagile, bilikanigile, chandaatha, dhavekaneri, ganagalu, ganigalu, kanagalu, kanagile, kanagilu, kanigalu, kanigile, kanigile hoo, kanigilu, kanigina, kannagilu, karaveera, karavira, kasthoori jaaji patte, kasthoori patte, kempu kanigile, kempuganagalu, kempuganagile, paddale, paddale gida, paddali, paddalige, seemekanagilu, simakanagile\nMalayalam (17): alari, arali, belluta-areli, beluttaareli, ccuvannarale, chuvannalari, chuvannarali, cuvannarali, kanaviram, karaviram, raktapushpam, raktapushpan, satraprasam, tsjovanna-areli, tsjovannareli, tsojavannaaralee, veluttarali\nMarathi (6): dhavi-kaneri, kanera, kaneri, kanhaer, kanher, pandare kanhaeri\nSanskrit (21): Sanskrit CommentsX ashvamaraka, ashwamaraka, asvaghna, asvahana, asvamara, asvamaraca, asvamaraka, chandata, harapriya, hayamaraca, hayamaraka, karavira, karavirabheda, karavirah, karravira, pratihasa, pratilasa, raktapushpa, sataprasa, virahuha, vishavrykshanka\nTamil (99): aayamaram, acupaparicceti, acupari, acuparicceti, acuvalari, acuvamarakam, acuvamri, acuvapari, acuvapari#, acuvapari@, acuvarali, agam, aintiracili, aintiracili 1, alakiritai, alareievayr, alari, alarida, alarita, alaritacceti, ammaram, anantamuli, ananthamuli, arali, aralivayr, asuvabari, atirapuracatan, atirapuracattan, atukkalari, ayam, ayam 1, ayamarakam, ayamaram, ayamaram#, ayamaram@, canta, catappiracam, catcuciyam 1, centalari, centarali, cevvalari, citakumpam, eluniralari, eluniralaricceti, eluttatakacceti, eluttatakam, irattai sivapparali, irattaichegappayalari, irattaichivappalari, irulmukacceti, kaccantam, kalakunattan, kanavalar, kanaveeram, kanaviram, kanaviram#, kanaviram@, kanaviri, kantapiram, karaviram, karaviram#, karaviram@, katampalakanitam, katampalakkanitam, katturipattai, katturippattai, kaviracceti, kaviram, kaviram$, kaviram@, kayiram, kuntam 1, kuttarali, maracu, mattam, mukaiyalari, mukaiyalarimaram, nakaravam, nerutalanavi, niculam, nilampuriyal, putpapaciyam, sevvarali, taina, ticcanapattiracceti, ticcanapattiram, titcanapattiracceti, titcanapattiram 1, tivviyaputpam, ucikkanuvalam, ulikanuvalam, uttiparippuntu, uttiparipuntu, valari, vellai arali, vellaiiruvalli, vellaiyalari, yacuvapari, yacuvaparicceti",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6/xclkon/e28f90e510403149afcbe58b4d747f6e"
+  ],
+  "source_record_ids": [
+    "links-0953"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6/xclkon/e28f90e510403149afcbe58b4d747f6e"
+    ],
+    "source_record_ids": [
+      "links-0953"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6/xclkon/e28f90e510403149afcbe58b4d747f6e",
+          "Plant Name": "Nerium indicum Mill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Nerium indicum Mill.",
+        "source_record_id": "links-0953",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6/xclkon/e28f90e510403149afcbe58b4d747f6e"
+      }
+    ],
+    "source_xplant_id": "c18a72505452a7ec576c3d5ea3e43ba6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

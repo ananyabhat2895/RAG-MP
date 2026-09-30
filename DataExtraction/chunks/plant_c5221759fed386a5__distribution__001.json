@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c5221759fed386a5__distribution__001",
+  "plant_id": "plant_c5221759fed386a5",
+  "plant_name": "Cichorium endivia Linn.",
+  "botanical_name": "Cichorium endivia",
+  "botanical_authority": "L.",
+  "family": "ASTERACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - ED. B.D. SHARMA & M.SANJAPPA , N.P. BALAKRISHNAN; distribution: Distribution; title: Title - FLORA OF INDIA VOL 12\nDistribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dcd58fffb62cf38b0122c7707220f662"
+  ],
+  "source_record_ids": [
+    "links-0995"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dcd58fffb62cf38b0122c7707220f662"
+    ],
+    "source_record_ids": [
+      "links-0995"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dcd58fffb62cf38b0122c7707220f662",
+          "Plant Name": "Cichorium endivia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cichorium endivia Linn.",
+        "source_record_id": "links-0995",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dcd58fffb62cf38b0122c7707220f662"
+      }
+    ],
+    "source_xplant_id": "dcd58fffb62cf38b0122c7707220f662",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

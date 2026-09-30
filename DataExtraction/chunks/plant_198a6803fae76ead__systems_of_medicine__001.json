@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_198a6803fae76ead__systems_of_medicine__001",
+  "plant_id": "plant_198a6803fae76ead",
+  "plant_name": "Wrightia coccinea Sims.",
+  "botanical_name": "Wrightia coccinea",
+  "botanical_authority": "SIMS.",
+  "family": "APOCYNACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/193e5c4e4c1605efaf01ba36876c5c94"
+  ],
+  "source_record_ids": [
+    "links-1150"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/193e5c4e4c1605efaf01ba36876c5c94"
+    ],
+    "source_record_ids": [
+      "links-1150"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/193e5c4e4c1605efaf01ba36876c5c94",
+          "Plant Name": "Wrightia coccinea Sims.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Wrightia coccinea Sims.",
+        "source_record_id": "links-1150",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/193e5c4e4c1605efaf01ba36876c5c94"
+      }
+    ],
+    "source_xplant_id": "193e5c4e4c1605efaf01ba36876c5c94",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

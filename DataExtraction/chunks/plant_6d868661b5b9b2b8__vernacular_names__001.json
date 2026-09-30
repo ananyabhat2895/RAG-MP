@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_6d868661b5b9b2b8__vernacular_names__001",
+  "plant_id": "plant_6d868661b5b9b2b8",
+  "plant_name": "Flacourtia ramontchi L Herit.",
+  "botanical_name": "Flacourtia ramontchi",
+  "botanical_authority": "L.",
+  "family": "FLACOURTIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (16): bhanber, bilangra, bilangura, bowchi, bunj, handi, kakein, kandai, kandei, kandel, kangu, kanju, kantai, katar, kukar, kundayi\nKannada (15): gajabira, gajal, gajale, gajalike, gapra, hettarimullu, hunmunki, lotpatar, muldindu, mullatari, mullutari, mulluthotti, nayibela, shamper, yettrimullu\nMalayalam (1): talur-kara\nSanskrit (9): Sanskrit CommentsX ghana, gopakanta, sruvavrksah, srvavrksa, svadukantaka, swadukantaka, vikankata, vikankatah, vikarigata\nTamil (9): chothakilai, cottaikkala, kaka, kattukala, kolumpu kottaikkala, kolumpuppulam, kothuvela, malukkarai, sottaikala\nTelugu (21): bejjuven, bontakandregu, kaka, kanaregu, kandregu, kanragu, kanregu, kanroo, kanru, muluanam, nakkanaregu, nakkaneredu, nelli, peddakanaregu, peddakanregu, peddakanroo, peddakanru, pitamullaga, puddakanaew, puthikithada, putikatada",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13ca53d3c478a7b7ec4a2a99454f46d8"
+  ],
+  "source_record_ids": [
+    "links-2102"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13ca53d3c478a7b7ec4a2a99454f46d8"
+    ],
+    "source_record_ids": [
+      "links-2102"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13ca53d3c478a7b7ec4a2a99454f46d8",
+          "Plant Name": "Flacourtia ramontchi L Herit.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Flacourtia ramontchi L Herit.",
+        "source_record_id": "links-2102",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13ca53d3c478a7b7ec4a2a99454f46d8"
+      }
+    ],
+    "source_xplant_id": "13ca53d3c478a7b7ec4a2a99454f46d8",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

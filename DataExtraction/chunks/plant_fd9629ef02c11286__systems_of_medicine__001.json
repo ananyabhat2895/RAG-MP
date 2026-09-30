@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_fd9629ef02c11286__systems_of_medicine__001",
+  "plant_id": "plant_fd9629ef02c11286",
+  "plant_name": "Solanum insanum Roxb.",
+  "botanical_name": "Solanum melongena",
+  "botanical_authority": "L. var. incanum KUNTZE",
+  "family": "SOLANACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk Botanical Synonyms (2) - Solanum incanum L. X Full Botanical citation - Solanum incanum L.\nSystem of medicine: Sp. Pl. 188. 1753; R.D.Gaur\nSystem of medicine: Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes)\nSystem of medicine: TransMedia\nSystem of medicine: Srinagar (Garhwal)\nSystem of medicine: India\nSystem of medicine: 434. 1999. Solanum insanum L. X Full Botanical citation - Solanum insanum L.\nSystem of medicine: Mant. Pl. 46. 1767; R.D.Gaur\nSystem of medicine: 434-35. 1999.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1b4d62fca64de2eb2eeaf1e6d3c61e1/xclkon/2fd77ce1b83df13257cebf1af142564d"
+  ],
+  "source_record_ids": [
+    "links-0393"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1b4d62fca64de2eb2eeaf1e6d3c61e1/xclkon/2fd77ce1b83df13257cebf1af142564d"
+    ],
+    "source_record_ids": [
+      "links-0393"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1b4d62fca64de2eb2eeaf1e6d3c61e1/xclkon/2fd77ce1b83df13257cebf1af142564d",
+          "Plant Name": "Solanum insanum Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum insanum Roxb.",
+        "source_record_id": "links-0393",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1b4d62fca64de2eb2eeaf1e6d3c61e1/xclkon/2fd77ce1b83df13257cebf1af142564d"
+      }
+    ],
+    "source_xplant_id": "f1b4d62fca64de2eb2eeaf1e6d3c61e1",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

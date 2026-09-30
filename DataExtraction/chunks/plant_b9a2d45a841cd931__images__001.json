@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_b9a2d45a841cd931__images__001",
+  "plant_id": "plant_b9a2d45a841cd931",
+  "plant_name": "Mitragyna rotundifolia ( Roxb.) Kuntze.",
+  "botanical_name": "Mitragyna rotundifolia",
+  "botanical_authority": "KUNTZE.",
+  "family": "RUBIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d400836b80fe3d7136251c0c365716e6"
+  ],
+  "source_record_ids": [
+    "links-0523",
+    "links-0830"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d400836b80fe3d7136251c0c365716e6"
+    ],
+    "source_record_ids": [
+      "links-0523",
+      "links-0830"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d400836b80fe3d7136251c0c365716e6",
+          "Plant Name": "Mitragyna rotundifolia ( Roxb.) Kuntze.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mitragyna rotundifolia ( Roxb.) Kuntze.",
+        "source_record_id": "links-0523",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d400836b80fe3d7136251c0c365716e6"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d400836b80fe3d7136251c0c365716e6",
+          "Plant Name": "Mitragyna rotundifolia (Roxb.) kuntze",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mitragyna rotundifolia (Roxb.) kuntze",
+        "source_record_id": "links-0830",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d400836b80fe3d7136251c0c365716e6"
+      }
+    ],
+    "source_xplant_id": "d400836b80fe3d7136251c0c365716e6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

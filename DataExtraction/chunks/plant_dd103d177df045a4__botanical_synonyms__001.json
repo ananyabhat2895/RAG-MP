@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_dd103d177df045a4__botanical_synonyms__001",
+  "plant_id": "plant_dd103d177df045a4",
+  "plant_name": "Brassica rapa Linn.",
+  "botanical_name": "Brassica rapa",
+  "botanical_authority": "L. subsp. campestsris (L.) L.",
+  "family": "BRASSICACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Brassica campestris L. X Full Botanical citation - Brassica campestris L., Sp. Pl. 666. 1753; P.K.Hajira & al. in B.D. Sharma & & N.P. Balakr., Fl. India 2: 138. 1993.\nSynonym: Brassica campestris L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6ba7db9ee3cf915fbea2fa92a30a73b"
+  ],
+  "source_record_ids": [
+    "links-1700"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6ba7db9ee3cf915fbea2fa92a30a73b"
+    ],
+    "source_record_ids": [
+      "links-1700"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6ba7db9ee3cf915fbea2fa92a30a73b",
+          "Plant Name": "Brassica rapa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Brassica rapa Linn.",
+        "source_record_id": "links-1700",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6ba7db9ee3cf915fbea2fa92a30a73b"
+      }
+    ],
+    "source_xplant_id": "d6ba7db9ee3cf915fbea2fa92a30a73b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

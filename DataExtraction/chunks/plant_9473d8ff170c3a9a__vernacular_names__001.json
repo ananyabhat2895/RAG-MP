@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_9473d8ff170c3a9a__vernacular_names__001",
+  "plant_id": "plant_9473d8ff170c3a9a",
+  "plant_name": "Dioscorea alata Linn.",
+  "botanical_name": "Dioscorea alata",
+  "botanical_authority": "L.",
+  "family": "DIOSCOREACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): guyana arrow-root, water yam, white yam\nHindi (6): chipri-alu, chupri alu, kada kanda, kada-kanda, khamalu, ratalu\nKannada (10): dandaanu, dappa genasu, hennu genasu, mudigenasu, noorele genasu, shigenasu, thoona genasu, tuna genasu, tuna-genasu, tunakereng\nMalayalam (7): kaccil, kacil, katsjikelengu, katsjil-kelengu, kavattu, peruvallikkilannu, peruvallikkizhannu\nMarathi (6): chinem, chipari-aalu, goradu, khanphal, pindaalu, ratalu\nSanskrit (12): Sanskrit CommentsX alukam, dandalu, kandaka, kasthaluka, pinda, pindaka, pindalu, pindaluh, raktalu, raktaluka, tambulaparnakanda, varahakanda\nTamil (44): amalam1, aranpiracatanam, cevvalli, cevvalli-k-koti, cevvalli1, cevvallikkoti, ceyvallikkilanku, chev-vallik-kodi, cirakavalli 3, civani1, civappuvalli, gunapendalam, irattavalli, iyamkilanku, kalekavannam, kappa-kavali, kappan kaccil, kayavalli, kayvalli, mullu valli, mullu-valli, palakucantanam, perumvallikilanku, piravannam, pitacaram 3, pitavannam, pitavarnam, pittapanturu, pottukkarivalli, putuccerivalli, putuccerivallikkilanku, siru-valli, siruvalli, taurikavalli, tiriciyam1, tiritiyam#, tiritiyam@, tiritiyavallikkilanku, tiriyam, tirttamati, utukkaikkoti, valli, valliyam 1, vettilai-valli\nTelugu (17): daeshavaali pendalam, deshavalipendalamu, dukka pendalam, gadimidondapendalam, gadimidondapendalamu, gadinidonda pendalamu, guna pendalamu, gunapendalamu, kavili-gadda, naarathega, nelavupandalum, niluvapendalamu, niluvu pendalam, niluvupendalam, pendalam, pendalamu, yadduthoka dumpa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a7817c7b665e147d63907527195d6390"
+  ],
+  "source_record_ids": [
+    "links-0082"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a7817c7b665e147d63907527195d6390"
+    ],
+    "source_record_ids": [
+      "links-0082"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a7817c7b665e147d63907527195d6390",
+          "Plant Name": "Dioscorea alata Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dioscorea alata Linn.",
+        "source_record_id": "links-0082",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a7817c7b665e147d63907527195d6390"
+      }
+    ],
+    "source_xplant_id": "a7817c7b665e147d63907527195d6390",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

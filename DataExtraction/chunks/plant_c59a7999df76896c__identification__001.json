@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c59a7999df76896c__identification__001",
+  "plant_id": "plant_c59a7999df76896c",
+  "plant_name": "Ferula galbaniflua Boiss & Buhse",
+  "botanical_name": "Ferula galbaniflua",
+  "botanical_authority": "BOISS. & BUHSE.",
+  "family": "APIACEAE",
+  "section": "identification",
+  "content": "Plant name: Ferula galbaniflua Boiss & Buhse Botanical name: Ferula galbaniflua Botanical authority: BOISS. & BUHSE. Family: APIACEAE Source xplant ID: f56e5fd7114d573435eb12c0ceae5c64",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f56e5fd7114d573435eb12c0ceae5c64"
+  ],
+  "source_record_ids": [
+    "links-0715"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f56e5fd7114d573435eb12c0ceae5c64"
+    ],
+    "source_record_ids": [
+      "links-0715"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f56e5fd7114d573435eb12c0ceae5c64",
+          "Plant Name": "Ferula galbaniflua Boiss & Buhse",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ferula galbaniflua Boiss & Buhse",
+        "source_record_id": "links-0715",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f56e5fd7114d573435eb12c0ceae5c64"
+      }
+    ],
+    "source_xplant_id": "f56e5fd7114d573435eb12c0ceae5c64",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

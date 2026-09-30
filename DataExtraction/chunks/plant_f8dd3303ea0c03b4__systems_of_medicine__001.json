@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_f8dd3303ea0c03b4__systems_of_medicine__001",
+  "plant_id": "plant_f8dd3303ea0c03b4",
+  "plant_name": "Anogeissus latifolia Wall.",
+  "botanical_name": "Anogeissus latifolia",
+  "botanical_authority": "WALL. EX. GUILL. & PERR.",
+  "family": "COMBRETACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (1) - Conocarpus latifolia ROXB. EX. DC. X Full Botanical citation - Conocarpus latifolius Roxb. ex DC.\nSystem of medicine: Prodr. 3: 17. 1828; R.D.Gaur\nSystem of medicine: Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes)\nSystem of medicine: TransMedia\nSystem of medicine: Srinagar (Garhwal)\nSystem of medicine: India\nSystem of medicine: 318. 1999.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ad17ae90aa749f0433d78d7c2f35a1d"
+  ],
+  "source_record_ids": [
+    "links-0519"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ad17ae90aa749f0433d78d7c2f35a1d"
+    ],
+    "source_record_ids": [
+      "links-0519"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ad17ae90aa749f0433d78d7c2f35a1d",
+          "Plant Name": "Anogeissus latifolia Wall.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Anogeissus latifolia Wall.",
+        "source_record_id": "links-0519",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ad17ae90aa749f0433d78d7c2f35a1d"
+      }
+    ],
+    "source_xplant_id": "0ad17ae90aa749f0433d78d7c2f35a1d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

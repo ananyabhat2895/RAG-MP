@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c371090f0157c214__vernacular_names__002",
+  "plant_id": "plant_c371090f0157c214",
+  "plant_name": "Feronia limonia (Linn.) Swingle",
+  "botanical_name": "Limonia acidissima",
+  "botanical_authority": "L.",
+  "family": "RUTACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (108): aritakaracceti, atcaracamuttirappalam, camuttira3, ceru, cerukamaram, cirapattiram, cirrula, cirrulacceti, cootivella, cutamarkkam, cuvacakacakkini, cuvacakacakkinipokki2, iccapam, iyalputikacceti, iyalputikam2, kabittam, kaki, kakimam, kakimamaram, kantapalai3, kapittam, kapittam@, karancapalakam, karapavallavam, karayavallavam, karuvila, karuvila 2, karuvilam2, katantiracceti, katantiram, katippakai, katippakai1, kavittam, kina, kinaicaramaram, kirakipalam, kirantipalam, kucapalam2, kuti vilam, kuttakam, kuttakamaram, kuttittevi, kuttittevimaram, kuttivila2, kuttivilacceti, kuttvila, kuvilamatikam, kuvilamatikamaram, mattikeyam, mattikeyamaram, mayakan, narivila, narivirai, nellavilam, nila-vilam, nilavila, nilavila2, nilavoolla, niramalam, niramalu, nirvila2, norivila, paruvila, pavikayam, pavikayamaram, peruvila, pitavila, pittuvila, pulimokam 2, pumivila, purimokam 2, savarilottiram, silangam, sirittam, suppiyam, takanacani, tantacatam2, tantapalam, tantapalati, tantapalatimaram, taraivilam, tillakam1, tiruvattam, velam, velan, vellil, vellilai 1, vellilatti, vellilottiram, velliyam, vikam pazham, vila, vilaa, vilaivu, vilakpittam, vilamaram, vilampalam, vilanga, vilankam 2, vilankay maram, vilaphalam, vilatti, vilavu, virukarpatal, virukarpatali, viruttamali, viruttamalimaram, vullam pisin\nTelugu (33): elaga, elaka, kapithhamu, kapitthamu, kavit, nelavelaga, parupuvelaga, pulivelaga, pullaveraga, pushpa-phalamu, pushpaphalamu, taruvelaga, tholuvelaga, thorelaga, thorrivelaga, tolielaga, tollivelam, torelega, toriallega, toriyelaka, torravelaga, torravelagu, torrayelaka, torriyelaka, vallanga, vela, velaga, velagachettu, velagapandu, velga, yellaga, yellaka, yellanga\nTibetan (3): ka bi ta, ka pi ta, ka-pi-rtha\nUrdu (1): kaitha",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11190a784a6fa132fd4ad578e337bcea/xclkon/73478502c2de2f9303690dcb5367b40d"
+  ],
+  "source_record_ids": [
+    "links-0932"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11190a784a6fa132fd4ad578e337bcea/xclkon/73478502c2de2f9303690dcb5367b40d"
+    ],
+    "source_record_ids": [
+      "links-0932"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11190a784a6fa132fd4ad578e337bcea/xclkon/73478502c2de2f9303690dcb5367b40d",
+          "Plant Name": "Feronia limonia (Linn.) Swingle",
+          "Status": "Found"
+        },
+        "source_plant_name": "Feronia limonia (Linn.) Swingle",
+        "source_record_id": "links-0932",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11190a784a6fa132fd4ad578e337bcea/xclkon/73478502c2de2f9303690dcb5367b40d"
+      }
+    ],
+    "source_xplant_id": "11190a784a6fa132fd4ad578e337bcea",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

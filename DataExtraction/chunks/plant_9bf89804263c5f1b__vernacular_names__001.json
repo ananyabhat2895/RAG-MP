@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_9bf89804263c5f1b__vernacular_names__001",
+  "plant_id": "plant_9bf89804263c5f1b",
+  "plant_name": "Myrica nagi Thunb.",
+  "botanical_name": "Myrica nagi",
+  "botanical_authority": "THUNB.",
+  "family": "MYRICACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (4): kaephal, kaiphal, kaphal, kayaphul\nKannada (5): katphala, kattala, kirishivani, krisihivani, marudampatte\nMalayalam (3): maruta, marutamtoli, marutu\nMarathi (4): kaayaphal, kaiphal, kayaphala, kayaphul\nSanskrit (33): Sanskrit CommentsX aranya, arbha, bhadra, bhadranjaka, bhadravati, kaidarya, kaidaryama, kaitarya, kaphala, katphala, katphalah, kayaphala, krishnag somavalka, kumbhi, kumbhipaki, kumbli, kumuda, kumudika, laghukashmarya, mahakumbha, mahakumbhi, nasanu, prachetasi, purusha, rajanakah, ramasenaka, rohini, shriparnika, somavalkah, somavriksha, sriparni, tvakaphala, ugragandha\nTamil (4): kirusna karppam, marudam, marudam-pattai, marutam pattai\nTelugu (3): kaaidaryamu, kaidanyamu, kaidaryamu\nTibetan (4): ka da pha la (d), ka tva la, ka-tpha-la, katpha la (p)\nUrdu (2): kaifal, kaiphal",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d3491a161f15fefb4ea92a4c82c5381"
+  ],
+  "source_record_ids": [
+    "links-1014"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d3491a161f15fefb4ea92a4c82c5381"
+    ],
+    "source_record_ids": [
+      "links-1014"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d3491a161f15fefb4ea92a4c82c5381",
+          "Plant Name": "Myrica nagi Thunb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Myrica nagi Thunb.",
+        "source_record_id": "links-1014",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d3491a161f15fefb4ea92a4c82c5381"
+      }
+    ],
+    "source_xplant_id": "8d3491a161f15fefb4ea92a4c82c5381",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

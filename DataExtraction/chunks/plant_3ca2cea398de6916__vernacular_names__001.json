@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_3ca2cea398de6916__vernacular_names__001",
+  "plant_id": "plant_3ca2cea398de6916",
+  "plant_name": "Aerva Javanica Juss.",
+  "botanical_name": "Aerva javanica",
+  "botanical_authority": "(BURM.F.) JUSS. EX SCHULT.",
+  "family": "AMARANTHACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (2): bui, safed-bui\nSanskrit (6): Sanskrit CommentsX krishnavalli, nilkanthi, pasanabheda, pratanika, tripatra, valliyaka\nTamil (23): avalavi, avalavicceti, cimili, cimilikacceti, cimilikam, kannuppilai, kannuppilaicceti, kulirkonikacceti, kulirkonikam, pasanapeti 3, periyapulai, perum pilai, perumbulai, perumpilai#, perumpilai@, perumpilaicceti, perumpuli, pincatacceti, pulaippancu, pulaippu, tautikapilai, tautikapilaicceti, tucikai\nTelugu (3): maga beera, pedda pindi, pindi konda",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6030ad577f0745e800703f22db3cdd78"
+  ],
+  "source_record_ids": [
+    "links-1470",
+    "links-2043"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6030ad577f0745e800703f22db3cdd78"
+    ],
+    "source_record_ids": [
+      "links-1470",
+      "links-2043"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6030ad577f0745e800703f22db3cdd78",
+          "Plant Name": "Aerva Javanica Juss.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aerva Javanica Juss.",
+        "source_record_id": "links-1470",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6030ad577f0745e800703f22db3cdd78"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6030ad577f0745e800703f22db3cdd78",
+          "Plant Name": "Aerva javanica",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aerva javanica",
+        "source_record_id": "links-2043",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6030ad577f0745e800703f22db3cdd78"
+      }
+    ],
+    "source_xplant_id": "6030ad577f0745e800703f22db3cdd78",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

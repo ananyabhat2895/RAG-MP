@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_c41b0ba527e8d0d8__systems_of_medicine__001",
+  "plant_id": "plant_c41b0ba527e8d0d8",
+  "plant_name": "Inula racemosa Hook f.",
+  "botanical_name": "Inula racemosa",
+  "botanical_authority": "HOOK. F.",
+  "family": "ASTERACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4595d7db5e25450b6071b36ba81e5af3"
+  ],
+  "source_record_ids": [
+    "links-1565",
+    "links-1566",
+    "links-1605"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4595d7db5e25450b6071b36ba81e5af3"
+    ],
+    "source_record_ids": [
+      "links-1565",
+      "links-1566",
+      "links-1605"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4595d7db5e25450b6071b36ba81e5af3",
+          "Plant Name": "Inula racemosa Hook f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Inula racemosa Hook f.",
+        "source_record_id": "links-1565",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4595d7db5e25450b6071b36ba81e5af3"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4595d7db5e25450b6071b36ba81e5af3",
+          "Plant Name": "Inula racemosa Hook.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Inula racemosa Hook.f.",
+        "source_record_id": "links-1566",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4595d7db5e25450b6071b36ba81e5af3"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4595d7db5e25450b6071b36ba81e5af3",
+          "Plant Name": "Inula racemosa Hook.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Inula racemosa Hook.",
+        "source_record_id": "links-1605",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4595d7db5e25450b6071b36ba81e5af3"
+      }
+    ],
+    "source_xplant_id": "4595d7db5e25450b6071b36ba81e5af3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

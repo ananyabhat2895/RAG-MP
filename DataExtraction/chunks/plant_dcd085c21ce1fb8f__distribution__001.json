@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_dcd085c21ce1fb8f__distribution__001",
+  "plant_id": "plant_dcd085c21ce1fb8f",
+  "plant_name": "Cordia rothii Roem Schult.",
+  "botanical_name": "Cordia gharaf",
+  "botanical_authority": "(FORSK.) EHRENB.",
+  "family": "CORDIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9458ee02ee2338b609e6bfb85b94c76e/xclkon/42ef131958dfa53f2118998227589500"
+  ],
+  "source_record_ids": [
+    "links-1817"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9458ee02ee2338b609e6bfb85b94c76e/xclkon/42ef131958dfa53f2118998227589500"
+    ],
+    "source_record_ids": [
+      "links-1817"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9458ee02ee2338b609e6bfb85b94c76e/xclkon/42ef131958dfa53f2118998227589500",
+          "Plant Name": "Cordia rothii Roem Schult.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cordia rothii Roem Schult.",
+        "source_record_id": "links-1817",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9458ee02ee2338b609e6bfb85b94c76e/xclkon/42ef131958dfa53f2118998227589500"
+      }
+    ],
+    "source_xplant_id": "9458ee02ee2338b609e6bfb85b94c76e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

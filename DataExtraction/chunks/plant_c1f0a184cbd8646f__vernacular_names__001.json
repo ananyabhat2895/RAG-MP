@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_c1f0a184cbd8646f__vernacular_names__001",
+  "plant_id": "plant_c1f0a184cbd8646f",
+  "plant_name": "Cajanus cajan (Linn.) Millsp.",
+  "botanical_name": "Cajanus cajan",
+  "botanical_authority": "(L.) MILLSP.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "English (6): ambrevade, arhar, catjang, congo pea, dahl, pigeon pea\nHindi (11): arardal, arhar, arhar dal, arhardal, dhal, tor, tuar, tur, tuur, tuvar, tuvvar\nKannada (17): adhaki, athaki, baele, byale, dalu, dhaal, kari uddu, kariuddu, kariyuddu, kariyudu, thogari bele, thogarukoy, thugari bele, thurukara thogari, togari, turukutogari, tuvari\nMalayalam (9): adhaki, kakshi, thora-paerou, thoraporu, tumara, tuvara, tuvaracatjan, tuvarapparippu, tuvari\nMarathi (6): thoora, thoori, thoovar, tur, turi, tuur\nSanskrit (17): Sanskrit CommentsX adaki, adhaki, kakshi, kandu, karvirabhuja, mritana, mrittala, mrittalaka, pitapushpa, shanapushpika, soppyah, supya, surashtaja, tuberika, tuvari, tuvarika, vritabija\nTamil (59): adagam, adagi, amakam, amam2, atacai, atakam, ataki, curattam, duvarai, impurupali, irumpali, iruppappuli, iruppuli, iruppulikam, iruppulikamaram, iyavai, iyavu, iyavucceti, kacci, kaccikacceti, kaccikam, kalvayam, kalvayamaram, kanti1, karaviram@, karkai, karkaicceti, kattu-thovarai, kattuthovarai, kaycci, kecapukacceti, kecapukam, kuvalam, kuvalamaram, malaittuvarai, malikaittuvarai 2, malur, miruttalakam, miruttalakam@, miruttanam, miruttanam yarai, muluttuvarai, naiciravam, naiciravamaram, nattuttuvarai, paruppu, pataippeyan, pataippeyanmaram, thuvarai, torai, torai1, tuvarai, tuvarai-p-paruppu, tuvaraippayaru, tuvarankay1, tuvari, tuvarikam, vellaittuvarai, yarai\nTelugu (25): aadhaki, adhaki, candaloo, chinnacandi, cinnakandi, condacandaloo, errakandulu, ettakandulu, kandhi, kandi, kandul, kandulu, kondakandi, kunthaloo, peddacandi, peddakandi, peddakondakandi, peddakondakandulu, polukandi, potujandalu, potukandi, potukandulu, sinnakandi, yerracandaloo, yerrakandi\nTibetan (2): tu ba ri, tu pa ri (p)\nUrdu (1): arhar",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047"
+  ],
+  "source_record_ids": [
+    "links-0008",
+    "links-0009",
+    "links-0010",
+    "links-2004"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047"
+    ],
+    "source_record_ids": [
+      "links-0008",
+      "links-0009",
+      "links-0010",
+      "links-2004"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047",
+          "Plant Name": "Cajanus cajan (Linn.) Millsp.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cajanus cajan (Linn.) Millsp.",
+        "source_record_id": "links-0008",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047",
+          "Plant Name": "Cajanus cajan (Linn.) Millsp. var. bicolor DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cajanus cajan (Linn.) Millsp. var. bicolor DC.",
+        "source_record_id": "links-0009",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047",
+          "Plant Name": "Cajanus cajan (Linn.) Millsp. var. flavus DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cajanus cajan (Linn.) Millsp. var. flavus DC.",
+        "source_record_id": "links-0010",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047",
+          "Plant Name": "Cajanus cajan (Linn.) Mill sp.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cajanus cajan (Linn.) Mill sp.",
+        "source_record_id": "links-2004",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047"
+      }
+    ],
+    "source_xplant_id": "56cace4947d620fcfd20cee3d4fdb047",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

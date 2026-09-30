@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_17a122fc90b5c173__systems_of_medicine__001",
+  "plant_id": "plant_17a122fc90b5c173",
+  "plant_name": "Ailanthus malabarica DC.",
+  "botanical_name": "Ailanthus triphysa",
+  "botanical_authority": "(DENNST.) ALSTON",
+  "family": "SIMAROUBACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk Botanical Synonyms (1) - Ailanthus malabarica DC. X Full Botanical citation - Ailanthus malabarica DC.\nSystem of medicine: Prodr. 2: 89. 1825; R.K. Basak in Hajra & al.\nSystem of medicine: Fl. India 4: 413. 1997.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f075267567d9f08a94830469ee35d1e/xclkon/5058dc3d282dfffed8a318c4edc27810"
+  ],
+  "source_record_ids": [
+    "links-0142"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f075267567d9f08a94830469ee35d1e/xclkon/5058dc3d282dfffed8a318c4edc27810"
+    ],
+    "source_record_ids": [
+      "links-0142"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f075267567d9f08a94830469ee35d1e/xclkon/5058dc3d282dfffed8a318c4edc27810",
+          "Plant Name": "Ailanthus malabarica DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ailanthus malabarica DC.",
+        "source_record_id": "links-0142",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f075267567d9f08a94830469ee35d1e/xclkon/5058dc3d282dfffed8a318c4edc27810"
+      }
+    ],
+    "source_xplant_id": "3f075267567d9f08a94830469ee35d1e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

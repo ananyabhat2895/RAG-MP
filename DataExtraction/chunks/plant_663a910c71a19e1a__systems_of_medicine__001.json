@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_663a910c71a19e1a__systems_of_medicine__001",
+  "plant_id": "plant_663a910c71a19e1a",
+  "plant_name": "Aganosma dichotoma (Roth.) K. Schum.",
+  "botanical_name": "Aganosma dichotoma",
+  "botanical_authority": "(ROTH) K.SCHUM.",
+  "family": "APOCYNACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (2) - Aganosma caryophyllata G.DON X Full Botanical citation - Aganosma caryophyllata sensu Hook.f.\nSystem of medicine: Fl. Brit. India 3: 664. 1882 p.p. non G.Don\nSystem of medicine: 1837; S. Karthikeyan & al.\nSystem of medicine: Flowering Plants of India - Dicots 1: 128. 2009. Echites dichotoma ROTH. X Full Botanical citation - Echites dichotoma Roth\nSystem of medicine: Nov. pl. sp. 136. 1821; S. Karthikeyan & al.\nSystem of medicine: Flowering Plants of India - Dicots 1: 128. 2009.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/897f3cdce4cd7d57d2544e7ae66b0bec"
+  ],
+  "source_record_ids": [
+    "links-1237"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/897f3cdce4cd7d57d2544e7ae66b0bec"
+    ],
+    "source_record_ids": [
+      "links-1237"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/897f3cdce4cd7d57d2544e7ae66b0bec",
+          "Plant Name": "Aganosma dichotoma (Roth.) K. Schum.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aganosma dichotoma (Roth.) K. Schum.",
+        "source_record_id": "links-1237",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/897f3cdce4cd7d57d2544e7ae66b0bec"
+      }
+    ],
+    "source_xplant_id": "897f3cdce4cd7d57d2544e7ae66b0bec",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_a9746bc0c72e386d__vernacular_names__001",
+  "plant_id": "plant_a9746bc0c72e386d",
+  "plant_name": "Commiphora mukul (Hook ex Stocks) Engl.",
+  "botanical_name": "Commiphora wightii",
+  "botanical_authority": "(A.) BHANDARI",
+  "family": "BURSERACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): guggul\nHindi (5): gogil, gugal, guggul, mukul, ranghanturb\nKannada (6): antu guggula, guggala, guggula, guggulu, kaushika, mahishakshi guggula\nMalayalam (2): gulgulu, mahisaksagulgulu\nMarathi (4): gugal, guggala, gulag, mukul\nSanskrit (47): Sanskrit CommentsX ahavabhishtha, bhutahara, bolah, devadhupa, deveshta, dhurta, divya, durga, guggula, guggulu, gugguluh, gulra, guluh, jatala, jatayu, kalaniriyasa, kalaniryasa, kaushika, kausikah, kou-shikaha, koushikaha, kumbha, kumbhi, kumbholu, kumbholukhalaka, kumuda, kunti, lekkatah, mahisaksah, mahishaksha, mahishakshaka, marudishta, nishadhaka, palangkashara, palankasa, palankasha, pavandvishta, purah, puta, rakshoha, sarvasaha, shambhava, shiva, uddipta, ulukhalaka, usha, vayughna\nTamil (22): attiram 3, cutcam, erumaikan kungiliyam, gukkal, gukkulu, inkukam, iracakantam, kaucikatari 2, kukkil, kukkulu 1, kunkiliyam 2, mahisaksi, maicatci, maiccatitam, maisakukkilam, maisatchi kungiliyam, maisatchikungiliyam, maishakshi, mysakhi-guggil, mysakhi-guggul, tevakantam, tuttakomam\nTelugu (6): gugul, gukkulu, mahisaksh, mahishaksha, maisakshi, maishakshi\nTibetan (2): gu gul, gu-gu-la\nUrdu (6): guggul, gugul, moql-e-arzaq, muqhil, muqil, muqul",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be/xclkon/2849f8d9923be4d8c111b8b26de96f7c"
+  ],
+  "source_record_ids": [
+    "links-0664",
+    "links-0665"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be/xclkon/2849f8d9923be4d8c111b8b26de96f7c"
+    ],
+    "source_record_ids": [
+      "links-0664",
+      "links-0665"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be/xclkon/2849f8d9923be4d8c111b8b26de96f7c",
+          "Plant Name": "Commiphora mukul (Hook ex Stocks) Engl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Commiphora mukul (Hook ex Stocks) Engl.",
+        "source_record_id": "links-0664",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be/xclkon/2849f8d9923be4d8c111b8b26de96f7c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be/xclkon/2849f8d9923be4d8c111b8b26de96f7c",
+          "Plant Name": "Commiphora mukul (Hook. ex Stocks) Engl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Commiphora mukul (Hook. ex Stocks) Engl.",
+        "source_record_id": "links-0665",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be/xclkon/2849f8d9923be4d8c111b8b26de96f7c"
+      }
+    ],
+    "source_xplant_id": "8fdf276e71da0de9d2b47bd1003259be",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8fa03bf541ea44fb__vernacular_names__002",
+  "plant_id": "plant_8fa03bf541ea44fb",
+  "plant_name": "Terminalia chebula Retz.",
+  "botanical_name": "Terminalia chebula",
+  "botanical_authority": "RETZ. & WILLD.",
+  "family": "COMBRETACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (219): aivi, aiyam, aiyavi 2, aiyavikkay, akani, akkarattan, akkotakakkay, akkotakam, akkotam 1, akkotam 2, alantam, aliyan, amagola, amalai 1, amalaikkay, amalan, amaritam 1, amaritam 2, amirtacancivini, amirtacitti, amirtakkatukkay, amirtakkay, amirtapalai, ammai, amokai, amruta, amukam, amutai, amutakkay, amutam, amutavi 1, ankanakkay, ankanam#, ankanam@, antan, apaiyan 2, apanakkay, apanam, apaniyakkay, apaniyam, arabi, araitti, arakki, arantam, arapi 2, arapikakkay 1, arapikakkay 2, arapikkatukkay, ari 2, arici, aridabi, aridadi, arikki, aritai, aritakikay, aritakikkay, arputacaya, ataippan, ataiyan, attan, aviyatam, avviyata, cantuvaritaki, catukam, caya, cayamiruta, cenkatukkay, cetaki, cetanika, ceya, cikatti, cikattira, cikattiramaram, ciminki, ciminkimaram, cinki 2, cinturakkay, cinturam, ciraipaci, cirayasi, ciropattiyam, cirottakakkay, cirottam, cirrilai 1, cirrilaikkay 1, cirrilaikkay 2, citekikkay, civa 2, civacatti, civakakkay, civakam, civam 1, civanamirtam, civaniti, civanti 2, civappiriyam, civappiriyamaram, ciyattuttam, ciyintakakkay 1, ciyintakakkay 2, ciyintakam, ciyirutakkay 1, ciyirutakkay 2, ciyirutam#, cukkay, emavati, emavatikkay, haimavati, ikali 1, intukkatukkay, iracataki, iracatakikkay, irecaki, irecakikkay 1, irecakikkay 2, jeya, jivanika, jivanti, jivappiriya, jivya, juvanika, kadakai, kadakkai, kadookai, kadu, kaduk-kai, kaduk-kay, kaduk-kay-pinji, kadukai, kadukkaai, kadukkai, kadukkai poo, kadukkai-poo, kadukkay, kagodagasingi, karukkay, karukkaymaram, kattilai, kattilaimaram, katukar, katukkai, katukkai 1, katukkay, kayasta, kayastam 2, kulavittay, kuyamatukam, kuyamatukamaram, maiyakikam, maiyayicam, mattankay, maturpaki, mecam, mekakkay, mekam 1, nantiri, napakam, naraicaki, nattukkatukkay, neccati, necci 1, necci 2, nechi, orocani, pacani, pancacaralavanam, pantitavay 1, pantitavay 2, pariyakkay, pariyam 1, patiyam, pattiyam, pavalakkuntu, pinchu-kadukkai, piradamai, piranatatu, pirapalam, piratamai, piratanam#, piratanam@, piratanattuvari, pirateci, piratecikkay, piratemam, pisakvara, pitavarnam, pranata, prapatya, punarpokam, puranam, purunamekam, putan, putana, reraki, rokini 2, rokippantitan, tatuvairi 2, tevi 1, tipani 2, tipini 2, tiripalati, tiriyan, tivviya, tivya, ukka, untaiyam, upavanakkay, upavanam 1, vanattukkutori, vanaturkki, vanturkki, vanturukki, varikkay, varitta, vatanacani 1, vayastta, vayataram#, vetan, vijayavetan",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c090b5873f7cf6d85f730f4e934ce43"
+  ],
+  "source_record_ids": [
+    "links-0694"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c090b5873f7cf6d85f730f4e934ce43"
+    ],
+    "source_record_ids": [
+      "links-0694"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c090b5873f7cf6d85f730f4e934ce43",
+          "Plant Name": "Terminalia chebula Retz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Terminalia chebula Retz.",
+        "source_record_id": "links-0694",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c090b5873f7cf6d85f730f4e934ce43"
+      }
+    ],
+    "source_xplant_id": "1c090b5873f7cf6d85f730f4e934ce43",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

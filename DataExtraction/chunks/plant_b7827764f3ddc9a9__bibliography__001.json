@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_b7827764f3ddc9a9__bibliography__001",
+  "plant_id": "plant_b7827764f3ddc9a9",
+  "plant_name": "Coscinium fenestratum",
+  "botanical_name": "Coscinium fenestratum",
+  "botanical_authority": "(GAERTN.) COLEB.",
+  "family": "MENISPERMACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - MOODEEN SHERIFF; title: Title - A CATALOGUE OF INDIAN SYNONYMS\nBibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - ANONYMOUS; title: Title - ASTANGA HRIDAYA KOSHA\nBibliography entry: author: Author - N.S. MOOSS; title: Title - GANAS OF VAHATA\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - MUKERJI,B; title: Title - INDIAN PHARMACEUTICAL CODEX VOL.I\nBibliography entry: author: Author - ANONYMOUS; title: Title - PHARMACOGNOSY OF AYURVEDIC DRUGS NOS. 01 & 02\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: title: Title - The Flora of Kerala Vol I\nBibliography entry: title: Title - FLORA OF INDIA VOL 1\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e2189aaaa64f74a73704897a2aa88fe"
+  ],
+  "source_record_ids": [
+    "links-0498",
+    "links-0500",
+    "links-0866"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e2189aaaa64f74a73704897a2aa88fe"
+    ],
+    "source_record_ids": [
+      "links-0498",
+      "links-0500",
+      "links-0866"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e2189aaaa64f74a73704897a2aa88fe",
+          "Plant Name": "Coscinium fenestratum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Coscinium fenestratum",
+        "source_record_id": "links-0498",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e2189aaaa64f74a73704897a2aa88fe"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e2189aaaa64f74a73704897a2aa88fe",
+          "Plant Name": "Coscinium fenestratum (Gaertn.) Colebr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Coscinium fenestratum (Gaertn.) Colebr.",
+        "source_record_id": "links-0500",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e2189aaaa64f74a73704897a2aa88fe"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e2189aaaa64f74a73704897a2aa88fe",
+          "Plant Name": "Coscinium fenestratum Colebr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Coscinium fenestratum Colebr.",
+        "source_record_id": "links-0866",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e2189aaaa64f74a73704897a2aa88fe"
+      }
+    ],
+    "source_xplant_id": "7e2189aaaa64f74a73704897a2aa88fe",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

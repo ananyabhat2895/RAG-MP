@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_489213737bbe3fa7__bibliography__001",
+  "plant_id": "plant_489213737bbe3fa7",
+  "plant_name": "Viola odorata Linn.",
+  "botanical_name": "Viola odorata",
+  "botanical_authority": "L.",
+  "family": "VIOLACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - DR.P.N.V.KURUP, DR.V.N.K.RAMADAS & JOSHI,P; title: Title - A HANDBOOK OF MEDICINAL PLANTS\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: title: Title - FLORA OF INDIA VOL 2\nBibliography entry: title: Title - FLORA OF ASSAM",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/524b0a286fb3c9f2f9d9bd1222dc8459"
+  ],
+  "source_record_ids": [
+    "links-1618"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/524b0a286fb3c9f2f9d9bd1222dc8459"
+    ],
+    "source_record_ids": [
+      "links-1618"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/524b0a286fb3c9f2f9d9bd1222dc8459",
+          "Plant Name": "Viola odorata Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Viola odorata Linn.",
+        "source_record_id": "links-1618",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/524b0a286fb3c9f2f9d9bd1222dc8459"
+      }
+    ],
+    "source_xplant_id": "524b0a286fb3c9f2f9d9bd1222dc8459",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

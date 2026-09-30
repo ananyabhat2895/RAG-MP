@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_098b8afc5231b09f__vernacular_names__001",
+  "plant_id": "plant_098b8afc5231b09f",
+  "plant_name": "Ficus retusa",
+  "botanical_name": "Ficus microcarpa",
+  "botanical_authority": "L.F.",
+  "family": "MORACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): nandrak vad\nHindi (4): chilkan, kamrup, pinwal, zir\nKannada (26): adakagoli, adike goli, bhillaal, biliala, girgoli, gudde goli, heelaala, hillala, hinaala, hinala, jeevi, kirgoli, kirigoli, kirugoli, nanki pipla, nankipipri, peelaalada mara, pibalada, pilaka, pilal, pilala, pilimara, pinala, pinval, shidigoli, sidigoli\nMalayalam (7): itti, itti-arealou, ittiyal, itty-alu, ittyalu, kalatthi, kallithi\nMarathi (6): arekgol dhavidek-gol, namdruk, nandruk, oval leaved fig, thunivriksha, tunivriksha\nSanskrit (13): Sanskrit CommentsX gajapadapa, kantalaka, ksavataru, kshudra, kuberaka, kuni, kunjarapadapa, mandirriksha, nandivriksha, nandivrksa, plaksah, sthalivrksa, tunna\nTamil (12): antiyantapittan, icci, ichi, kallicchi, kallicci, kallichi, kallitti, kalluichi, malaiyicci, malaiyichi, malaiyitchi, yerrajuvi\nTelugu (31): billa juvvi, billadzuvvi, billajuvvi, emmanta, emmenta, emmoduga, erradzuvvi, errajuvvi, helodaga, hema vudaga, hemanta, hemanthu, hemanto, hemantu, hemavudaga, hemavudaya, hemodaga, konda juvvi, konda pillara, kondapillaara, kondapillara, nandireka, uttarajuvvi, verrijuvvi, vettijuvvi, yerra juvvi, yerrajeevi, yerrajivvi, yerrajoovee, yerrajuvi, yerrajuvvi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893/xclkon/0a6b22a0bd35ea31fb2c60b3431bd7be"
+  ],
+  "source_record_ids": [
+    "links-1379",
+    "links-1380"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893/xclkon/0a6b22a0bd35ea31fb2c60b3431bd7be"
+    ],
+    "source_record_ids": [
+      "links-1379",
+      "links-1380"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893/xclkon/0a6b22a0bd35ea31fb2c60b3431bd7be",
+          "Plant Name": "Ficus retusa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus retusa",
+        "source_record_id": "links-1379",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893/xclkon/0a6b22a0bd35ea31fb2c60b3431bd7be"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893/xclkon/0a6b22a0bd35ea31fb2c60b3431bd7be",
+          "Plant Name": "Ficus retusa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus retusa Linn.",
+        "source_record_id": "links-1380",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893/xclkon/0a6b22a0bd35ea31fb2c60b3431bd7be"
+      }
+    ],
+    "source_xplant_id": "3719e478e95b8cb9f9c878eca7a7e893",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_12ea39984a45923b__vernacular_names__001",
+  "plant_id": "plant_12ea39984a45923b",
+  "plant_name": "Capparis roxburghii DC.",
+  "botanical_name": "Capparis roxburghii",
+  "botanical_authority": "DC.",
+  "family": "CAPPARACEAE",
+  "section": "vernacular_names",
+  "content": "Sanskrit (1): Sanskrit CommentsX rudanti\nTelugu (5): abooba, agooba, aguba, chittigara, cittigara",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4a33b327b00a983811a8e94a3d29e78"
+  ],
+  "source_record_ids": [
+    "links-1670"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4a33b327b00a983811a8e94a3d29e78"
+    ],
+    "source_record_ids": [
+      "links-1670"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4a33b327b00a983811a8e94a3d29e78",
+          "Plant Name": "Capparis roxburghii DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Capparis roxburghii DC.",
+        "source_record_id": "links-1670",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4a33b327b00a983811a8e94a3d29e78"
+      }
+    ],
+    "source_xplant_id": "d4a33b327b00a983811a8e94a3d29e78",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

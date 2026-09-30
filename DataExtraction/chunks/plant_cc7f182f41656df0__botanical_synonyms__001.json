@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_cc7f182f41656df0__botanical_synonyms__001",
+  "plant_id": "plant_cc7f182f41656df0",
+  "plant_name": "Pentatropis spiralis Decne.",
+  "botanical_name": "Pentatropis nivalis",
+  "botanical_authority": "(GMEL.) FIELD & WOOD.",
+  "family": "ASCLEPIADACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Pentatropis spiralis DECNE. X Full Botanical citation - Pentatropis spiralis Decne. in Ann. Sci. Nat. Bot. ser. 2, 9: 327, t. 11E. 1838; S. Karthikeyan & al., Flowering Plants of India - Dicots. 1: 178. 2009.\nSynonym: Pentatropis spiralis DECNE.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47ce1706410b3043d474fb91e3cc4603/xclkon/e1b3aae883d8160746058ae8f53e48c0"
+  ],
+  "source_record_ids": [
+    "links-0851"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47ce1706410b3043d474fb91e3cc4603/xclkon/e1b3aae883d8160746058ae8f53e48c0"
+    ],
+    "source_record_ids": [
+      "links-0851"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47ce1706410b3043d474fb91e3cc4603/xclkon/e1b3aae883d8160746058ae8f53e48c0",
+          "Plant Name": "Pentatropis spiralis Decne.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pentatropis spiralis Decne.",
+        "source_record_id": "links-0851",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47ce1706410b3043d474fb91e3cc4603/xclkon/e1b3aae883d8160746058ae8f53e48c0"
+      }
+    ],
+    "source_xplant_id": "47ce1706410b3043d474fb91e3cc4603",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

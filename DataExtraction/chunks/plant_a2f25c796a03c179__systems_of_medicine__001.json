@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a2f25c796a03c179__systems_of_medicine__001",
+  "plant_id": "plant_a2f25c796a03c179",
+  "plant_name": "Ficus bengalensis Linn.",
+  "botanical_name": "Ficus bengalensis",
+  "botanical_authority": "L.",
+  "family": "MORACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Homeopathy\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86cd19a52dc5a7a46f7861db7b69d700"
+  ],
+  "source_record_ids": [
+    "links-2069"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86cd19a52dc5a7a46f7861db7b69d700"
+    ],
+    "source_record_ids": [
+      "links-2069"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86cd19a52dc5a7a46f7861db7b69d700",
+          "Plant Name": "Ficus bengalensis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus bengalensis Linn.",
+        "source_record_id": "links-2069",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86cd19a52dc5a7a46f7861db7b69d700"
+      }
+    ],
+    "source_xplant_id": "86cd19a52dc5a7a46f7861db7b69d700",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

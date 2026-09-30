@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b5f6b66e505609a7__identification__001",
+  "plant_id": "plant_b5f6b66e505609a7",
+  "plant_name": "Pistia stratiotes Linn.",
+  "botanical_name": "Pistia stratiotes",
+  "botanical_authority": "L.",
+  "family": "ARACEAE",
+  "section": "identification",
+  "content": "Plant name: Pistia stratiotes Linn. Botanical name: Pistia stratiotes Botanical authority: L. Family: ARACEAE Source xplant ID: 53073686747245295f650f8f5f359bd7",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/53073686747245295f650f8f5f359bd7"
+  ],
+  "source_record_ids": [
+    "links-0754"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/53073686747245295f650f8f5f359bd7"
+    ],
+    "source_record_ids": [
+      "links-0754"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/53073686747245295f650f8f5f359bd7",
+          "Plant Name": "Pistia stratiotes Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pistia stratiotes Linn.",
+        "source_record_id": "links-0754",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/53073686747245295f650f8f5f359bd7"
+      }
+    ],
+    "source_xplant_id": "53073686747245295f650f8f5f359bd7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

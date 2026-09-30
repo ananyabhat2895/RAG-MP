@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_7bc064ce1e7bda3b__distribution__001",
+  "plant_id": "plant_7bc064ce1e7bda3b",
+  "plant_name": "Salacia chinensis Linn.",
+  "botanical_name": "Salacia chinensis",
+  "botanical_authority": "L.",
+  "family": "CELASTRACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Ed. P. Daniel; distribution: Distribution; title: Title - The Flora of Kerala Vol I\nDistribution entry: author: Author - C.J SALDHANA; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-2\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf4333baf9e3d5b4cb931b2cc787e240"
+  ],
+  "source_record_ids": [
+    "links-1730"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf4333baf9e3d5b4cb931b2cc787e240"
+    ],
+    "source_record_ids": [
+      "links-1730"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf4333baf9e3d5b4cb931b2cc787e240",
+          "Plant Name": "Salacia chinensis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Salacia chinensis Linn.",
+        "source_record_id": "links-1730",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf4333baf9e3d5b4cb931b2cc787e240"
+      }
+    ],
+    "source_xplant_id": "cf4333baf9e3d5b4cb931b2cc787e240",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

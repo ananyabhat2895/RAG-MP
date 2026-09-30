@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b35c46e6ae9fdccb__vernacular_names__001",
+  "plant_id": "plant_b35c46e6ae9fdccb",
+  "plant_name": "Carica papaya Linn.",
+  "botanical_name": "Carica papaya",
+  "botanical_authority": "L.",
+  "family": "PASSIFLORACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): melon tree, papain, papaya, pawpaw\nHindi (13): andakharbuja, arandkharbuza, papal, papaya, papeeta, papita, papiya, pappaya, pappita, pepiya, popaiya, popaiya or popaiyah, popaiyah\nKannada (24): akka thangi hannu, bappangaayi, bappangayi, barangi, boppayi-hannu, boppe, goppe, goppe hannu, goppen, nda karbhooja, pangi, papaya, pappangaye, pappangayi, pappaya, pappayi, parangi, parangi hannu mara, parangi mara, peragi, perinji, pharangi-hannu, piranji, poppaya\nMalayalam (20): apappaya-pazham, kaplam, kappalam, karmmatti, karmmos, karmmosu, karmmusu, karmosu, karumusa, karutha, ommai, papajamaram, pappali, pappaya, pappaya-pazham, pappayam, pappayambalam, pappayampazham, poppoia, umbalay\nMarathi (4): papaaya, papay, papaya, popai\nSanskrit (8): Sanskrit CommentsX brahmairandah, chirbhita, erandachirbhata, erandachirbhita, erandakarakati, erandakarkati, madhukarkati, nalikadala\nTamil (27): cittamukkicam, cittamukkikamaram, conkarikam, conkarikamaram, kaniyamanakku, kariyamanakku, karpakkini, karpakkinimaram, maniyamanakku 1, pacalai3, pappai, pappali, pappali-pazham, pappali1, pappalikaimaram, pappalippal, pappay, pappayi, pappayi-pazham, parangi, parangiyamanakku, parankiyamanakku, parankiyamanakku 1, parankiyamanakku@, pasalai, poppayi, puppali pullum\nTelugu (20): bapaipundoo, bappayi, bappayya, bobbasi, booppamkaya, boppaayi, boppai, boppasa, boppayi, boppayi-pandu, boppayya, madana anapa chettu, madana-anapakaya, madanaanapa, madananaba, madhurnakam, madhurnakamu, parindhi, paringi, poppaya\nUrdu (3): arand kharbuza, papita desi, papitha",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff77f8fbcaf19f4a3e2298cdd823512a"
+  ],
+  "source_record_ids": [
+    "links-0566"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff77f8fbcaf19f4a3e2298cdd823512a"
+    ],
+    "source_record_ids": [
+      "links-0566"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff77f8fbcaf19f4a3e2298cdd823512a",
+          "Plant Name": "Carica papaya Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Carica papaya Linn.",
+        "source_record_id": "links-0566",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff77f8fbcaf19f4a3e2298cdd823512a"
+      }
+    ],
+    "source_xplant_id": "ff77f8fbcaf19f4a3e2298cdd823512a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

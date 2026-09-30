@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_8e1dc4cecdb304f2__images__001",
+  "plant_id": "plant_8e1dc4cecdb304f2",
+  "plant_name": "Pentatropis microphylla W & A.",
+  "botanical_name": "Pentatropis capensis",
+  "botanical_authority": "(L.F.) BULLOCK",
+  "family": "ASCLEPIADACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9/xclkon/32748a2358caf9f87d98f7af702c1890",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9"
+  ],
+  "source_record_ids": [
+    "links-0846",
+    "links-0847",
+    "links-0850"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9/xclkon/32748a2358caf9f87d98f7af702c1890",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9"
+    ],
+    "source_record_ids": [
+      "links-0846",
+      "links-0847",
+      "links-0850"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9/xclkon/32748a2358caf9f87d98f7af702c1890",
+          "Plant Name": "Pentatropis microphylla W & A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pentatropis microphylla W & A.",
+        "source_record_id": "links-0846",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9/xclkon/32748a2358caf9f87d98f7af702c1890"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9/xclkon/32748a2358caf9f87d98f7af702c1890",
+          "Plant Name": "Pentatropis microphylla W. & A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pentatropis microphylla W. & A.",
+        "source_record_id": "links-0847",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9/xclkon/32748a2358caf9f87d98f7af702c1890"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9",
+          "Plant Name": "Pentatropis capensis (Linn.f.) Bullock",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pentatropis capensis (Linn.f.) Bullock",
+        "source_record_id": "links-0850",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9"
+      }
+    ],
+    "source_xplant_id": "7800a267dc3815c7d887b8a14ed39fa9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

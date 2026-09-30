@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2e6e823a0ca269da__vernacular_names__001",
+  "plant_id": "plant_2e6e823a0ca269da",
+  "plant_name": "Euphorbia hirta Linn.",
+  "botanical_name": "Euphorbia hirta",
+  "botanical_authority": "L.",
+  "family": "EUPHORBIACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): garden spurge, semi-erect euphorbia\nHindi (6): dhedi dudheli, doodhli, dudhi, dudhile, dudhli, lal-dudhi\nKannada (15): acchacche gida, acche gida, achchegida, achhe soppu, barasagida, barasu, dodda haalu kudi, genthee kasa, haala kudi, haaluni, kempu nene akki, kempu neneakkee soppu, kempu neneyakki soppu, marri jevanige, naagaarjuni\nMalayalam (2): nelapalai, nilappala\nMarathi (10): dudhali, dudhi, dudnali, dudurli, govardhan, goverdhan, mothidudhi, motidoodhi, motinaayari, nayeti\nSanskrit (8): Sanskrit CommentsX dugadhika, dugdhaphanii, dugdhika, ksharini, ksirini, nagarjuni, pusitoa, raktavinduchada\nTamil (92): alapatikam, amampatchaiarisi, amaum patcheh arisee, ammam pachcharisi, ammampaccarici, amman paccarici, amman paccarici ver, amman paccaris, amman paccirici, amman pacharisi, amman patcharisi, amman-pach-charisi, amman-pacharisi, ammanpaccharisi, ammanpacharisi, ammatti, ammatti 1, amum-patchaiaressi, amumpatchaiyarissi, ciivitu, cilivittarici, cilvitu, cintialatcurai, cintiyalatcurai, cirrammanpaccarici, cirrilaippalatai, cirrilairpalatai, cirukalikacceti, cirukammanpaccarici, cirupalatai, citiraipalavi, cittammanpaccarici, cittirai, cittirai pal, cittirai#, cittirai@, cittiraippal 1, cittiraippalavi, cittirap-palatai, cittirapalai, cittirapalatai, cittirappalai, cittirappalatai, cittirappalatai@, cittirappalatai~, cittirappalavi, cittiravalaiya, cittiravalaya, cittiravallari, cittiravallati, cittivalai, cittivalaiyam, cittivalaiyarici, cittivalayam, cittivalayarici, civittarici, cutuculatti, cututurattam, cututuratti, cututuratti#, cututuratti$, cututuratti@, cututuratticceti, karaccam, katuturatti, nakayacceti, nalayam, nalaycceti, nallammanpaccarici, nilappalai, nilappalai 1, nilavamman paccarici, nilavammanpaccarici, nulaccukacceti, nulaccukam, pacorri, palatai, par puranti, parcorri, parcorrikkoti, parcorrikosti, parcurri, parpuranti, patchaiyarissi, peyamman paccarici, peyammanpaccarici, pulika, pulikacceti, valayamman packaric, vayalammanpaccarici, vellaiyammanpaccarici, vellayammanpaccarici\nTelugu (12): bidari, bidarie, naanabaala, naanabiyan, nanabala, nanabalu, nanabiyan, pachha bottu, pachhaku, reddinanabrolu, reddivaari nanubalu, reddivari-nanubalu\nUrdu (2): doodhiklan, dudh khurd",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e0ced1066486c34d420d287ac7cb0da"
+  ],
+  "source_record_ids": [
+    "links-0541"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e0ced1066486c34d420d287ac7cb0da"
+    ],
+    "source_record_ids": [
+      "links-0541"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e0ced1066486c34d420d287ac7cb0da",
+          "Plant Name": "Euphorbia hirta Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia hirta Linn.",
+        "source_record_id": "links-0541",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e0ced1066486c34d420d287ac7cb0da"
+      }
+    ],
+    "source_xplant_id": "2e0ced1066486c34d420d287ac7cb0da",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

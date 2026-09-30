@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_97ce1dbbf31af2fb__vernacular_names__001",
+  "plant_id": "plant_97ce1dbbf31af2fb",
+  "plant_name": "Typha angustata Bory & Chaub.",
+  "botanical_name": "Typha angustata",
+  "botanical_authority": "BORY & CHAUB",
+  "family": "TYPHACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): broad leaved cattails, indian reed-mace\nHindi (9): era, gon, paan, parocito, pata, patar, pater, patera, pota\nKannada (7): aane jondu, aanejondu, apu, jambu, jambu hullu, mungusibaala, naribaala\nMarathi (4): motitrina, pan-kanis, pun, tambana\nSanskrit (6): Sanskrit CommentsX eraka, erakasaktuh, gundra, gundramula, sari, sivi\nTamil (1): sambu\nTelugu (6): dabbu jambu, dabbujambu, jambu, jammu, jammugaddi, neeti jambu\nTibetan (1): ku ntha\nUrdu (1): bikh patera",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a558896dba24db198ba0d82f09e264f3"
+  ],
+  "source_record_ids": [
+    "links-0673"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a558896dba24db198ba0d82f09e264f3"
+    ],
+    "source_record_ids": [
+      "links-0673"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a558896dba24db198ba0d82f09e264f3",
+          "Plant Name": "Typha angustata Bory & Chaub.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Typha angustata Bory & Chaub.",
+        "source_record_id": "links-0673",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a558896dba24db198ba0d82f09e264f3"
+      }
+    ],
+    "source_xplant_id": "a558896dba24db198ba0d82f09e264f3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

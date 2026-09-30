@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_a02b4e120e33f766__systems_of_medicine__001",
+  "plant_id": "plant_a02b4e120e33f766",
+  "plant_name": "Portulaca oleracea Linn.",
+  "botanical_name": "Portulaca oleracea",
+  "botanical_authority": "L.",
+  "family": "PORTULACACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3cc2bca5b45aedfda571996b3573cccf"
+  ],
+  "source_record_ids": [
+    "links-1198",
+    "links-1200",
+    "links-1201"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3cc2bca5b45aedfda571996b3573cccf"
+    ],
+    "source_record_ids": [
+      "links-1198",
+      "links-1200",
+      "links-1201"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3cc2bca5b45aedfda571996b3573cccf",
+          "Plant Name": "Portulaca oleracea Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Portulaca oleracea Linn.",
+        "source_record_id": "links-1198",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3cc2bca5b45aedfda571996b3573cccf"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3cc2bca5b45aedfda571996b3573cccf",
+          "Plant Name": "Portulaca oleracea Linn. Var oleracea",
+          "Status": "Found"
+        },
+        "source_plant_name": "Portulaca oleracea Linn. Var oleracea",
+        "source_record_id": "links-1200",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3cc2bca5b45aedfda571996b3573cccf"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3cc2bca5b45aedfda571996b3573cccf",
+          "Plant Name": "Portulaca oleracea Linn. Var sativa DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Portulaca oleracea Linn. Var sativa DC.",
+        "source_record_id": "links-1201",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3cc2bca5b45aedfda571996b3573cccf"
+      }
+    ],
+    "source_xplant_id": "3cc2bca5b45aedfda571996b3573cccf",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_cd95a71eb0f05954__systems_of_medicine__001",
+  "plant_id": "plant_cd95a71eb0f05954",
+  "plant_name": "Amaranthus caudatus Linn.",
+  "botanical_name": "Amaranthus caudatus",
+  "botanical_authority": "L.",
+  "family": "AMARANTHACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e03c2afca3387229d74547e49bb426e7"
+  ],
+  "source_record_ids": [
+    "links-1253"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e03c2afca3387229d74547e49bb426e7"
+    ],
+    "source_record_ids": [
+      "links-1253"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e03c2afca3387229d74547e49bb426e7",
+          "Plant Name": "Amaranthus caudatus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Amaranthus caudatus Linn.",
+        "source_record_id": "links-1253",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e03c2afca3387229d74547e49bb426e7"
+      }
+    ],
+    "source_xplant_id": "e03c2afca3387229d74547e49bb426e7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

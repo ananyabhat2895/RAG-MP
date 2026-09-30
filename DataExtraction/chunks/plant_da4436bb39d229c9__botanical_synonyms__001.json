@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_da4436bb39d229c9__botanical_synonyms__001",
+  "plant_id": "plant_da4436bb39d229c9",
+  "plant_name": "Gardenia lucida Roxb.",
+  "botanical_name": "Gardenia resinifera",
+  "botanical_authority": "ROTH.",
+  "family": "RUBIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Gardenia lucida ROXB. X Full Botanical citation - Gardenia lucida Roxb. Fl. Ind. 2: 553. 1824; N.P.Singh & al., Fl. Maharashtra State Dicotyledones, 2: Fl. India Ser 2: 126. 2001.\nSynonym: Gardenia lucida ROXB.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c598ff0a6d4684d0cc75767a62ccd544/xclkon/40019bb2e2d492c9e486a1e5ed4ec811"
+  ],
+  "source_record_ids": [
+    "links-1342"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c598ff0a6d4684d0cc75767a62ccd544/xclkon/40019bb2e2d492c9e486a1e5ed4ec811"
+    ],
+    "source_record_ids": [
+      "links-1342"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c598ff0a6d4684d0cc75767a62ccd544/xclkon/40019bb2e2d492c9e486a1e5ed4ec811",
+          "Plant Name": "Gardenia lucida Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gardenia lucida Roxb.",
+        "source_record_id": "links-1342",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c598ff0a6d4684d0cc75767a62ccd544/xclkon/40019bb2e2d492c9e486a1e5ed4ec811"
+      }
+    ],
+    "source_xplant_id": "c598ff0a6d4684d0cc75767a62ccd544",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

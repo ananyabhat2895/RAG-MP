@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_cc1372c9f3b64183__distribution__001",
+  "plant_id": "plant_cc1372c9f3b64183",
+  "plant_name": "Limonia crenulata Roxb.",
+  "botanical_name": "Naringi crenulata",
+  "botanical_authority": "(ROXB.) NICOLSON",
+  "family": "RUTACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - Ed. P. Daniel; distribution: Distribution; title: Title - The Flora of Kerala Vol I\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol I\nDistribution entry: author: Author - C.J SALDHANA; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-2\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88b6416bfbb3910dc4dbcde8c2703e96/xclkon/0312fbdd9006634079d7473884dd4c7d"
+  ],
+  "source_record_ids": [
+    "links-0360"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88b6416bfbb3910dc4dbcde8c2703e96/xclkon/0312fbdd9006634079d7473884dd4c7d"
+    ],
+    "source_record_ids": [
+      "links-0360"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88b6416bfbb3910dc4dbcde8c2703e96/xclkon/0312fbdd9006634079d7473884dd4c7d",
+          "Plant Name": "Limonia crenulata Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Limonia crenulata Roxb.",
+        "source_record_id": "links-0360",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88b6416bfbb3910dc4dbcde8c2703e96/xclkon/0312fbdd9006634079d7473884dd4c7d"
+      }
+    ],
+    "source_xplant_id": "88b6416bfbb3910dc4dbcde8c2703e96",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

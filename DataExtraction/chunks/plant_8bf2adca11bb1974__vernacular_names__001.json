@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_8bf2adca11bb1974__vernacular_names__001",
+  "plant_id": "plant_8bf2adca11bb1974",
+  "plant_name": "Centratherum anthelminticum Kuntze.",
+  "botanical_name": "Centratherum anthelminticum",
+  "botanical_authority": "(L.) KUNTZE",
+  "family": "ASTERACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (15): bakchi, bakshi, baksi, buckshi, bukchi, ghora jeera, ghora-jeera, ghrajiri, jangli jeera, jangli-jeera, kalijhiri, kalijira, kaliziri, somraj, vapchi\nKannada (16): kaadu jeerige, kaadu-jirige, kaal jeerige, kaala jeerige, kadajirige, kadu-jirigay, kadujirage, kadujirige, kahi jeerige, kalajirdari, kalajirige, karchindi, karijeerigai, karijirige, krishna shadaevi, sahadevi\nMalayalam (8): cattu-schiragam, cattuseragam, kalajirakam, katseragam, kattujirakam, kattukjiragam, krmisatru, puvankuruntala\nMarathi (12): kaalijeeri, kadu jeeren, kadu karelen, kalajira, kalenjeeri, kalenjiri, kali-jiri, kalijiri, karalye, ranachajire, ranachejeere, sahadevi\nSanskrit (32): Sanskrit CommentsX agnibija, aranyajiraka, aranyajirakah, atavi-jirakaha, atavijeeraka, atavijiraka, atavijirakaha, aval, avalguja, braka, brhatpali, guja, ihanyali, kana, kanana-jeraka, kanana-jiraka, kananajiraka, krishnaphala, kshudrapatra, putiphali, rakuchi, somaraja, somaraji, somraji, tiktajirakah, vakuchi, vakuci, vakushi, vanajiraka, vanajirakah, vanya jiraka, vanyajira\nTamil (55): aintavam, akkinipicam, anantalavikam, araniyaciram, araniyakanam, attukocam, avalkucam, caat siragum, canni nayakam, cannikanayan 2, canninayakam 2, canninayan 2, cantira 2, cantirappirapai, cirrilai 2, cirrilaiccirakam, cittilai, civakam 2, comaraci 1, intucakalam, irutalaikkupacceti, irutalaikkupam, kaattu seeragam, kaattu seerakam, kampocam 2, kanti, kattacai, kattirinayakan, kattu cheeragam, kattu cirakam, kattu jeeragam, kattu shiragam, kattu-chira, kattu-shiragam, kattuc-cirakam, kattuccirakam, kattuchiragam, kattusiragam, kiruttinapalam, kuttakkinam 2, nayccirakam, neychitti, nir nochi, nirnocci 2, nirnochi, petukacceti, petukam, peyccirakam, sittilai, urakaccirakam, urakacirakam, utuverakam, utuvokacceti, vanaciram#, vanaciram@\nTelugu (14): adavi-jilakarra, adavi-jilkara, adavijilakara, adavijilakarra, adavijilakatta, adavizeelakura, adivijilakarra, garitikamma, nela vavili, nelavaavili, nelavavili, vishakantakalu, vishakantakamula, vishakantakamulu\nUrdu (1): kalyzeery",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722/xclkon/fcf45865a19d02817ced62a814450260"
+  ],
+  "source_record_ids": [
+    "links-0143",
+    "links-1840"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722/xclkon/fcf45865a19d02817ced62a814450260"
+    ],
+    "source_record_ids": [
+      "links-0143",
+      "links-1840"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722",
+          "Plant Name": "Centratherum anthelminticum Kuntze.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Centratherum anthelminticum Kuntze.",
+        "source_record_id": "links-0143",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722/xclkon/fcf45865a19d02817ced62a814450260",
+          "Plant Name": "Vernonia anthelmintica Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vernonia anthelmintica Willd.",
+        "source_record_id": "links-1840",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722/xclkon/fcf45865a19d02817ced62a814450260"
+      }
+    ],
+    "source_xplant_id": "21e566ad80c6135f91fb60ec06d72722",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

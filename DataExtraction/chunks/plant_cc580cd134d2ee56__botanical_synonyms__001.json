@@ -1,0 +1,82 @@
+{
+  "chunk_id": "plant_cc580cd134d2ee56__botanical_synonyms__001",
+  "plant_id": "plant_cc580cd134d2ee56",
+  "plant_name": "Grewia tenax (Forsk.) Aschers. & Schwf.",
+  "botanical_name": "Grewia tenax",
+  "botanical_authority": "(FORSK.) FIORI",
+  "family": "TILIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Grewia populifolia VAHL X Full Botanical citation - Grewia populifolia Vahl, Symb. Bot. 1: 33. 1790; P. Daniel & M. Chandrabose in B.D. Sharma & Sanjappa, Fl. India 3: 511. 1993.\nSynonym: Grewia populifolia VAHL",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0d55d68ad98158b6b396e904b383e423",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0d55d68ad98158b6b396e904b383e423/xclkon/66feb0515459f30cab7f7c55edb2b2a9"
+  ],
+  "source_record_ids": [
+    "links-0597",
+    "links-0598",
+    "links-1344",
+    "links-1345"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0d55d68ad98158b6b396e904b383e423",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0d55d68ad98158b6b396e904b383e423/xclkon/66feb0515459f30cab7f7c55edb2b2a9"
+    ],
+    "source_record_ids": [
+      "links-0597",
+      "links-0598",
+      "links-1344",
+      "links-1345"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0d55d68ad98158b6b396e904b383e423",
+          "Plant Name": "Grewia tenax (Forsk.) Aschers. & Schwf.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Grewia tenax (Forsk.) Aschers. & Schwf.",
+        "source_record_id": "links-0597",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0d55d68ad98158b6b396e904b383e423"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0d55d68ad98158b6b396e904b383e423",
+          "Plant Name": "Grewia tenax (Forsk.)Aschers & Schwf.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Grewia tenax (Forsk.)Aschers & Schwf.",
+        "source_record_id": "links-0598",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0d55d68ad98158b6b396e904b383e423"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0d55d68ad98158b6b396e904b383e423/xclkon/66feb0515459f30cab7f7c55edb2b2a9",
+          "Plant Name": "Grewia populifolia Vahl",
+          "Status": "Found"
+        },
+        "source_plant_name": "Grewia populifolia Vahl",
+        "source_record_id": "links-1344",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0d55d68ad98158b6b396e904b383e423/xclkon/66feb0515459f30cab7f7c55edb2b2a9"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0d55d68ad98158b6b396e904b383e423",
+          "Plant Name": "Grewia tenax fiori Bos.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Grewia tenax fiori Bos.",
+        "source_record_id": "links-1345",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0d55d68ad98158b6b396e904b383e423"
+      }
+    ],
+    "source_xplant_id": "0d55d68ad98158b6b396e904b383e423",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

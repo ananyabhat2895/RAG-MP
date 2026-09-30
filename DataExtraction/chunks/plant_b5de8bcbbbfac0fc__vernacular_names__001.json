@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b5de8bcbbbfac0fc__vernacular_names__001",
+  "plant_id": "plant_b5de8bcbbbfac0fc",
+  "plant_name": "Polyalthia longifolia Thw.",
+  "botanical_name": "Polyalthia longifolia",
+  "botanical_authority": "BENTH. & HOOK. F.",
+  "family": "ANNONACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): indian willow\nHindi (10): asapala, ashok, asok, asoka, debdari, deodar, devadar, devadaru, devdaru, devidari\nKannada (15): ashoka, asoka, assoti, ghangu, hebbe, kambada mara, kanthri kadama, kumbada mara, naadu ashoka, pandil, pungu, putharajeevi, putrajivi, puttrajivi, ubbina mara\nMalayalam (20): arana, aranamaram, aranei, aruna, arunna, ashokam, ashvattam, asokam, assotham, asvattham, choranai, chorani, choruna, chorunna, corani, hemapushpam, kolerengi, nedunar, vanculam, vanjolam\nMarathi (3): ashok, asok, dedbari\nSanskrit (7): Sanskrit CommentsX asoka, asopalava, devadaru, kastadaruh, kasthadaru, putrajiva, ulkatah\nTamil (59): acokam 1, acoku 1, acuvattai 1, asogam, asogu, asoka, asokam, assothi, atimalakamaram, cacupam, celai2, celeci, celecimaram, celokatam, celokatamaram, centu, centukam, centukamaram, cilai2, kacam2, kacupam, kakaccam, kalgoli, kalkoli, kasubam, kelikam3, kiri2, kirimaram, kolikkudi, kolikkuti, kommati, kommatimaram, nakacam, nattivetam, neettilingam, netlingi, nettilingam, nettilingu, nettilinkam, nettilinki, nettulingam, nettulinkam, nittilinkam, paymaravirutcam, pundi, ravadam, saribam, selai, sendu, suvattai, tevataru, vanamutti, vanamuttimaram, vanculam 1, vanmutti, vanmuttimaram, yukampatikam, yukampatikamaram, yukmapattirikai\nTelugu (13): ashoka, ashokamu, asodham, asoka, asokam, asokamu, asvattamu, asvatthamu, daevadaaru, devadaru, nara mamidi, naramaamidi, nettlingum",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b18658531a09aac570466283f6779739"
+  ],
+  "source_record_ids": [
+    "links-0193"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b18658531a09aac570466283f6779739"
+    ],
+    "source_record_ids": [
+      "links-0193"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b18658531a09aac570466283f6779739",
+          "Plant Name": "Polyalthia longifolia Thw.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Polyalthia longifolia Thw.",
+        "source_record_id": "links-0193",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b18658531a09aac570466283f6779739"
+      }
+    ],
+    "source_xplant_id": "b18658531a09aac570466283f6779739",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

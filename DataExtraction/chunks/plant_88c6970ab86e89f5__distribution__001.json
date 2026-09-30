@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_88c6970ab86e89f5__distribution__001",
+  "plant_id": "plant_88c6970ab86e89f5",
+  "plant_name": "Saccharum officinarum Linn.",
+  "botanical_name": "Saccharum officinarum",
+  "botanical_authority": "L.",
+  "family": "POACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - KANJILAL & BOR; distribution: Distribution; title: Title - FLORA OF ASSAM\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol IV\nDistribution entry: author: Author - K.M. Matthew; distribution: Distribution; title: Title - The Flora of the Palni Hills Vol-3\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36028586e0b75e3ae8f04a7d5ba70f81"
+  ],
+  "source_record_ids": [
+    "links-0727"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36028586e0b75e3ae8f04a7d5ba70f81"
+    ],
+    "source_record_ids": [
+      "links-0727"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36028586e0b75e3ae8f04a7d5ba70f81",
+          "Plant Name": "Saccharum officinarum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Saccharum officinarum Linn.",
+        "source_record_id": "links-0727",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36028586e0b75e3ae8f04a7d5ba70f81"
+      }
+    ],
+    "source_xplant_id": "36028586e0b75e3ae8f04a7d5ba70f81",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

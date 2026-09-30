@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_aca0c161c61b60a9__vernacular_names__001",
+  "plant_id": "plant_aca0c161c61b60a9",
+  "plant_name": "Rubia cordifolia",
+  "botanical_name": "Rubia cordifolia",
+  "botanical_authority": "L.",
+  "family": "RUBIACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): indian madder, munjeet\nHindi (7): lachkura, majit, majith, malo, mamjith, manjit, manjith\nKannada (27): chithravalli, chitravalli, citravalli, ishtamadhu, ishtamadhuka, jingi, kaadu balli, kai kuyika, kai kyuikana balli, katthee dhaare balli, majitta, manjishta, manjishtike, manjista, manjistha, manjisthta, manjitige, manjushta, manjushtha, manjusta, manjustha, siragatthi, siragatti, somalate, somalatha, tharakalu balli, yojana balli\nMalayalam (7): covvallikkoti, man-chetti, mancatti, manjatti, manjetti, poont, sivolikkoti\nMarathi (5): chitravalli, majisth, manjeshta, manjista, masai\nSanskrit (68): Sanskrit CommentsX aruna, asra, bhandi, bhandiralatika, bhandiri, bhanditaki, chhatra, chhatrini, chitra, chitralata, chitrangi, chitravalli, cowalli, gandiri, gauri, harini, hemapushpi, janani, jingi, jvarahantri, kala, kala-meshika, kalabhandika, kalameshika, kalamesi, kalameso, kandira, kandiri, kshetrini, latayashti, lohita, lohitalata, lohitayastika, lohitika, mandukaparni, manduki, manjishtha, manjista, manjistha, manjisthaka, manjisthika, manjstha, manjusha, munjistha, nagakumarika, ragadhya, ragangi, rakta, raktalata, raktanga, raktangi, raktayashti, raktayashtika, raktayastika, rasayani, rohini, samanga, tamramuli, tamravalli, tamrika, vapra, vasrabhushana, vasraranjani, vastrabhusana, vijaya, yojanaparnika, yojanavalli, yojanavallika\nTamil (47): amutacakaram, amutataram2, amuttiram2, arunai3, cakkarankam, cavalkoti, cavilaikkoti, cavilkoti, cevalkoti, cevarkoti, cevvalli, cevvalli3, cevvallik koti, chevvalli, citti2, irancani2, irattai3, kalametikai, kancini2, kokilavicam, mancatti 2, mancisti 2, mancitti, mancukam, manditta, manjishi, manjiti, manjitti, manjittie vayr, manjtittie, mantisti, mantitti, nakanokam, nakanokaram, paccaimuruli, panti 2, puncitti, sevallikodi, sevvallikkodi, sevvelli, shevelli, shevvelli, tamiramulam2, tamiravalli, tampiravalli#, tampuramalli, yocanavalli 1\nTelugu (11): chiranji, ciranji, mandastic, manderti, manjishta, manjishtathige, manjishtatige, manjistatiga, tamra-valli, tamravalli, thaamravalli\nTibetan (3): brtsod, btsod, btsod (p)\nUrdu (4): majeeth, majith, majith nim kofta, majith pisi hui",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4ec5c05469f4e92ee7f365922bee5353"
+  ],
+  "source_record_ids": [
+    "links-1053",
+    "links-1247"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4ec5c05469f4e92ee7f365922bee5353"
+    ],
+    "source_record_ids": [
+      "links-1053",
+      "links-1247"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4ec5c05469f4e92ee7f365922bee5353",
+          "Plant Name": "Rubia cordifolia",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rubia cordifolia",
+        "source_record_id": "links-1053",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4ec5c05469f4e92ee7f365922bee5353"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4ec5c05469f4e92ee7f365922bee5353",
+          "Plant Name": "Rubia cordifolia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rubia cordifolia Linn.",
+        "source_record_id": "links-1247",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4ec5c05469f4e92ee7f365922bee5353"
+      }
+    ],
+    "source_xplant_id": "4ec5c05469f4e92ee7f365922bee5353",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_2f6c5cf5a8057118__vernacular_names__001",
+  "plant_id": "plant_2f6c5cf5a8057118",
+  "plant_name": "Strychnos potatorum Linn.",
+  "botanical_name": "Strychnos potatorum",
+  "botanical_authority": "L.",
+  "family": "LOGANIACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): clearing nut, kataka\nHindi (3): neimal, nelmal, nirmali\nKannada (31): anduga, andugu, calibija, chali, chali-mara, chalibija, chili beeja, chill, chilla, chillada, chillada beeja, chillada mara, chilladamara, chillathumara, chille kaayi, chilli, chilli-bija, chillu, chithada mara, chittadamara, chitthu mara, chitthubeeja, chittu, chittubija, cilla, cilledabija, cilliya, cilu, cittubija, kataka, nulmeiro\nMalayalam (20): katakam, tattamaram, terra, terramparal, terramparalkanniram, tetan, tetan-kottai, tetran-kotta, tetran-parala, tetta, tettamaram, tettamparal, tettamparalkaniram, tettamparel, tettankottai, tettaparel, tettian, thetham, thettamparel, thettanparilkanjiram\nMarathi (8): chilbeej, chilbing, chilhaara, chilhara, gajara, nirmali, nirwali, niwalee\nSanskrit (32): Sanskrit CommentsX ambu-prasada, ambuprasad, ambuprasadah, ambuprasadana, ambuprasadanaphala, ambuprasadani, caksusya, chakshushya, chhedaniya, guchhaphala, jalada, kata, kataka, katakah, katakam, katakaphalam, katakarenu, katakatphalam, kattha, khataka, lekhanatmaka, netraprasada, nirmali, payaprasadi, ruchishya, ruchya, rushya, shlakshna, shodanatmaka, tiktamaricha, tiktaphala, toyaprasadana\nTamil (92): acolam, akkolam, ampuppiracatanam, antecalakamaram, antecalam, antecatikam, antecatim, centanamurai, cillaki, cillakimaram, cillam, cillitam, cillitamaram, citakarenu, derran, il, ilalam, ilavam2, ilavu1, illakamaram, illam, illi1, iruppukkolam, iruppukkolamaram, kadali, kantakanam, kapanacani3, katakam, katakam#, katali1, katalikam, katampari, katamparimaram, ketiyamavitai, kuccapalam2, kumakiyam, kumakiyamaram, nantai1, navatankanam, nettirarokakkini, nirmalipavanam, nirttauvi, porithetha, punniyacatti, sillam, talaimukarantalan, tannircerverakki, tannirtterri, tantaputpam, tatakamentini, tatikamamaram, tattamaram, tattan-kottai, tayilavrippiracatanam, terra, terramaram, terran, terran kottai, terran pattai, terrankottai, terranmaram, teru, teruti, terutimaram, tetan-kottai, tetran-kottai, tetta, tettamaram, tettan, tettan cottay, tettankottai, tettian, tettiyan, tettram, thertan, thethankottai, thetran vithai, thetrankottai, thettan, thettrankottai, tipantirusanamekam, tiravanam, titikama, tittamaricam, toyappiracatanam, utakacutti, utalnirmurittan, varippiracatani, variyakaracatan, vaucali, vaucalikkottai, yillavamaram",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7483e2d8671cc116f6d1cc75dfaf48c"
+  ],
+  "source_record_ids": [
+    "links-1008",
+    "links-1009"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7483e2d8671cc116f6d1cc75dfaf48c"
+    ],
+    "source_record_ids": [
+      "links-1008",
+      "links-1009"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7483e2d8671cc116f6d1cc75dfaf48c",
+          "Plant Name": "Strychnos potatorum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Strychnos potatorum Linn.",
+        "source_record_id": "links-1008",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7483e2d8671cc116f6d1cc75dfaf48c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7483e2d8671cc116f6d1cc75dfaf48c",
+          "Plant Name": "Strychnos potatorum Linn. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Strychnos potatorum Linn. f.",
+        "source_record_id": "links-1009",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7483e2d8671cc116f6d1cc75dfaf48c"
+      }
+    ],
+    "source_xplant_id": "f7483e2d8671cc116f6d1cc75dfaf48c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

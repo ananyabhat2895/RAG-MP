@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_d93259475bfefab3__vernacular_names__002",
+  "plant_id": "plant_d93259475bfefab3",
+  "plant_name": "Bambusa arundinacea Retz.",
+  "botanical_name": "Bambusa arundinacea",
+  "botanical_authority": "WILLD.",
+  "family": "BAMBUSACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (222): amai, amal1, ambal, ambu, amettiyamaram, ampal, ampal3, ari, ari5, aril, aril2, arilamaram, arttirapattirakam, bongu, canaki$, canaki@, canakimaram, cananki, canti, cantil, cantilatakam, cantilatakamaram, capakam, capakamaram, capatam, catilaki2, catilakimaram, catilam, cey, cilai, cinai, cinaimaram, cittamatitam, cittamatitamaram, cokkali3, cokkali4, cokkali4@, cokkalimaram, cupai, ikuci, ikucimaran, ikucu, iraivarai, irucu2, irulai, itcu, iyavapalam, kalai, kalai kampu, kalay2, kalikkol, kamatam@, kambul, kampuri, kan, kanai, kani1, kantaki3, kanu, kappu, karmukam, ketai, kicakam, kicatarukam, kicatarukamaram, kilai, kilaimaram, kisagam, kitam, kulaymunkil, kuluaimungil, kunippu, kunippumaram, macukkamaram, macukkaram, mangal, masukkaram, miruttiyupuspantayam, miruttucam, miruttuvicam, miruttuvikam, miruttuvikamaram, mirutuvikam, moonghil oopoo, moongil, moongilarisi, moongiluppu, mulai, mullumungil, mullumunkil, mulmunkil, mungi-luppu, mungil, mungkil, munkil, munkililai, munnul, muntul@, muntulakam, muntulamaram, mutankal, natimunkil, nattumunkil, nemi3, nemj, nettil, nettu, nettumaram, nulampannai, nulappannai, onkal, onkuvari, onkuvarimaram, paciki, pacu, pacukimaram, painkalaimaram, painkatai, palantam, palcanti, pallunkam, panai, panai@, pannai@, pannaimaram, paracu, patiram 3, patiri, patiri 2, penmunkil, periya mungil, perumungil, peruvaraimungil, pol, punai#, punai@, punaivi, punaivimaram, punmaram 2, purakkal, putpakarikam, putpakaritamaram, putpakatakam, putpakatam, putpapakatam, tanitturumam, tantu3, tantulam3, tantulamaram, tanuttirumam, tanuttirumaram, tanutturumam, tanuvirutcam2, tattai, tecaki, tecakimaram, tecanam@, tecanamaram, tecaram, tikiri, tiranattuvacam, tiritakantam, tirrunaketu, tirukantam, tirunaketumaram, tirutakantam, tirutakantam#, tirutakantam@, tirutakantamaram, tirutakkantam, tirutakkiranti, tol, tulai, tumpu, tumpuru, tumpurumaram, tunai, tupam1, tuppu, tutaikkanam, tutaikkanamaram, tutanam, tutanikam, tutanikamaram, tuttanmaram, tuvaccicaram, tuvakkucaram2, vamicam, vampal, vampalmaram, vanacam 2, vancam, vaniti, vanitimaram, vankiyam, vannikaruppam, vel, velam, velati, velatimaram, venu, veral, veralmaram, veti, vetiri, vetirkamaram, vey, veyal, veyalamaram, veyil, veymaram, vinpakal, vinpari, vinparimaram, vintil, vintu, virukattiranam, viruttiram, viruttirunam, visnutanti, vittunukiranti 1, yavapalam",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1b3bf4ab82b51c86164353d81c0b5d6"
+  ],
+  "source_record_ids": [
+    "links-0279",
+    "links-2044"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1b3bf4ab82b51c86164353d81c0b5d6"
+    ],
+    "source_record_ids": [
+      "links-0279",
+      "links-2044"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1b3bf4ab82b51c86164353d81c0b5d6",
+          "Plant Name": "Bambusa arundinacea Retz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bambusa arundinacea Retz.",
+        "source_record_id": "links-0279",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1b3bf4ab82b51c86164353d81c0b5d6"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1b3bf4ab82b51c86164353d81c0b5d6",
+          "Plant Name": "Bambusa arundinacea Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bambusa arundinacea Willd.",
+        "source_record_id": "links-2044",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1b3bf4ab82b51c86164353d81c0b5d6"
+      }
+    ],
+    "source_xplant_id": "c1b3bf4ab82b51c86164353d81c0b5d6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

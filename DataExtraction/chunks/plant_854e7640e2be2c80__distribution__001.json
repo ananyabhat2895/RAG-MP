@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_854e7640e2be2c80__distribution__001",
+  "plant_id": "plant_854e7640e2be2c80",
+  "plant_name": "Gentiana kurroo",
+  "botanical_name": "Gentiana kurroo",
+  "botanical_authority": "ROYLE.",
+  "family": "GENTIANACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - Dr. Narain Singh Chauhan; distribution: Distribution; title: Title - Medicinal and Aromatic Plants of Himachal Pradesh",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/030b802608c0a351bd4a7f2a1c716cf0"
+  ],
+  "source_record_ids": [
+    "links-1016",
+    "links-1017",
+    "links-1974",
+    "links-1975"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/030b802608c0a351bd4a7f2a1c716cf0"
+    ],
+    "source_record_ids": [
+      "links-1016",
+      "links-1017",
+      "links-1974",
+      "links-1975"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/030b802608c0a351bd4a7f2a1c716cf0",
+          "Plant Name": "Gentiana kurroo",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gentiana kurroo",
+        "source_record_id": "links-1016",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/030b802608c0a351bd4a7f2a1c716cf0"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/030b802608c0a351bd4a7f2a1c716cf0",
+          "Plant Name": "Gentiana kurroo Royle",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gentiana kurroo Royle",
+        "source_record_id": "links-1017",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/030b802608c0a351bd4a7f2a1c716cf0"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/030b802608c0a351bd4a7f2a1c716cf0",
+          "Plant Name": "Gentiana Kurroo Royle",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gentiana Kurroo Royle",
+        "source_record_id": "links-1974",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/030b802608c0a351bd4a7f2a1c716cf0"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/030b802608c0a351bd4a7f2a1c716cf0",
+          "Plant Name": "Gentiana kurroo Royle.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gentiana kurroo Royle.",
+        "source_record_id": "links-1975",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/030b802608c0a351bd4a7f2a1c716cf0"
+      }
+    ],
+    "source_xplant_id": "030b802608c0a351bd4a7f2a1c716cf0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

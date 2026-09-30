@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_3ca2cea398de6916__bibliography__001",
+  "plant_id": "plant_3ca2cea398de6916",
+  "plant_name": "Aerva Javanica Juss.",
+  "botanical_name": "Aerva javanica",
+  "botanical_authority": "(BURM.F.) JUSS. EX SCHULT.",
+  "family": "AMARANTHACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: author: Author - ED. SHRI S.P. AMBASTA; title: Title - THE USEFUL PLANTS OF INDIA\nBibliography entry: title: Title - The Flora of the Gulf of Mannar\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol. II\nBibliography entry: title: Title - Flora of the Indian Desert\nBibliography entry: title: Title - Flora of Rajasthan Vol.2\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol II\nBibliography entry: title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nBibliography entry: title: Title - Flora of Gujarat State Vol 1\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-1\nBibliography entry: title: Title - The Flora of Orissa Vol III",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6030ad577f0745e800703f22db3cdd78"
+  ],
+  "source_record_ids": [
+    "links-1470",
+    "links-2043"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6030ad577f0745e800703f22db3cdd78"
+    ],
+    "source_record_ids": [
+      "links-1470",
+      "links-2043"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6030ad577f0745e800703f22db3cdd78",
+          "Plant Name": "Aerva Javanica Juss.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aerva Javanica Juss.",
+        "source_record_id": "links-1470",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6030ad577f0745e800703f22db3cdd78"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6030ad577f0745e800703f22db3cdd78",
+          "Plant Name": "Aerva javanica",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aerva javanica",
+        "source_record_id": "links-2043",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6030ad577f0745e800703f22db3cdd78"
+      }
+    ],
+    "source_xplant_id": "6030ad577f0745e800703f22db3cdd78",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

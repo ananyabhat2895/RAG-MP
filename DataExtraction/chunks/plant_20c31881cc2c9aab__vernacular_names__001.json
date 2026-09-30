@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_20c31881cc2c9aab__vernacular_names__001",
+  "plant_id": "plant_20c31881cc2c9aab",
+  "plant_name": "Cichorium intybus Linn.",
+  "botanical_name": "Cichorium intybus",
+  "botanical_authority": "L.",
+  "family": "ASTERACEAE",
+  "section": "vernacular_names",
+  "content": "English (8): blue sailor, blue-sailors, chicory, coffeeweed, radicchio, radiccio, succory, witloof\nHindi (2): hinduba, kasni\nKannada (1): chikory\nMalayalam (1): cikkari\nMarathi (1): kachani\nSanskrit (1): Sanskrit CommentsX kasani\nTamil (14): cikkari, civattamullanki, erumakitakkirai, erumakitam, kacikikirai, kacini, kacinikkirai 2, kacinivirai, kacinivittu, kashini, kasini, kasini-virai, panaviyakkirai, panaviyam\nTelugu (3): kaasni, kasini, kasini-vittulu\nUrdu (13): ab kasni sabz, barg-e-kasni, beikh-e-kasni, bikh kasmi nim kofta, bikh kasni, bikh kasni nim kofta, kasni, kasni sabz, nim kofta, tukh kasni, tukhm kasni, tukhm-i-kasni, tukme-e-kasni",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebe06d889ffbfca666ff76ff0f6cd419"
+  ],
+  "source_record_ids": [
+    "links-0996"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebe06d889ffbfca666ff76ff0f6cd419"
+    ],
+    "source_record_ids": [
+      "links-0996"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebe06d889ffbfca666ff76ff0f6cd419",
+          "Plant Name": "Cichorium intybus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cichorium intybus Linn.",
+        "source_record_id": "links-0996",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebe06d889ffbfca666ff76ff0f6cd419"
+      }
+    ],
+    "source_xplant_id": "ebe06d889ffbfca666ff76ff0f6cd419",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

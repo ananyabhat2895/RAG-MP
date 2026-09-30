@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_95ccb01918e5901a__vernacular_names__001",
+  "plant_id": "plant_95ccb01918e5901a",
+  "plant_name": "Coix lacryma-jobi Linn.",
+  "botanical_name": "Coix lacryma-jobi",
+  "botanical_authority": "L.",
+  "family": "POACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): job s tears\nHindi (13): baru, dabhir, ganduta, garahadua, gargaridhan, garun, gulbigadi, gurlu, jorgadi, kaiya, kasei, samkru, sankhlu\nKannada (9): ashru beeja, jogimani, kaage mani, kaash, kalmathu beeja, kalmuthu, kashige gida, kothi beeja, koti beeja\nMalayalam (3): catri-conda, kakkappalunku, kattugotampu\nMarathi (7): kasaayi, len-camani, ran jondhala, ran makkai, ran-jamdholo, ranjondhala, ranmakkai\nSanskrit (8): Sanskrit CommentsX gavedhu, gavedhuka, gavedhukah, gavedu, gaveduk, gojihva, gundraguttha, jargadi\nTamil (5): kattukuntumani, kokilatcam 1, kurattippaci, nerpul, punaccippul\nTelugu (2): gorivindlu, gorivipusa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/09e7b96175c6095e6029028b5d8a1557"
+  ],
+  "source_record_ids": [
+    "links-0603"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/09e7b96175c6095e6029028b5d8a1557"
+    ],
+    "source_record_ids": [
+      "links-0603"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/09e7b96175c6095e6029028b5d8a1557",
+          "Plant Name": "Coix lacryma-jobi Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Coix lacryma-jobi Linn.",
+        "source_record_id": "links-0603",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/09e7b96175c6095e6029028b5d8a1557"
+      }
+    ],
+    "source_xplant_id": "09e7b96175c6095e6029028b5d8a1557",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

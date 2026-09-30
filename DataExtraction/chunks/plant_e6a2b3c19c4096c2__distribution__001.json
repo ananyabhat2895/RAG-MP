@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_e6a2b3c19c4096c2__distribution__001",
+  "plant_id": "plant_e6a2b3c19c4096c2",
+  "plant_name": "Centella asiatica (Linn.) Urban",
+  "botanical_name": "Centella asiatica",
+  "botanical_authority": "(L.) URBAN",
+  "family": "APIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - A S Chauhan, K P Singh, D K Singh; distribution: Distribution; title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nDistribution entry: author: Author - Dr. Narain Singh Chauhan; distribution: Distribution; title: Title - Medicinal and Aromatic Plants of Himachal Pradesh\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol I\nDistribution entry: author: Author - N.P.Balakrishnan; distribution: Distribution; title: Title - Flora of Jowai Vol.I\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - C.J SALDHANA; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-2\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/530fa0427b8083e0804865ed9412308e",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/530fa0427b8083e0804865ed9412308e/xclkon/f68828469836572adb56e32b1329e6fb"
+  ],
+  "source_record_ids": [
+    "links-0385",
+    "links-0682",
+    "links-1246"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/530fa0427b8083e0804865ed9412308e",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/530fa0427b8083e0804865ed9412308e/xclkon/f68828469836572adb56e32b1329e6fb"
+    ],
+    "source_record_ids": [
+      "links-0385",
+      "links-0682",
+      "links-1246"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/530fa0427b8083e0804865ed9412308e",
+          "Plant Name": "Centella asiatica (Linn.) Urban",
+          "Status": "Found"
+        },
+        "source_plant_name": "Centella asiatica (Linn.) Urban",
+        "source_record_id": "links-0385",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/530fa0427b8083e0804865ed9412308e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/530fa0427b8083e0804865ed9412308e/xclkon/f68828469836572adb56e32b1329e6fb",
+          "Plant Name": "Hydrocotyle asiatica",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hydrocotyle asiatica",
+        "source_record_id": "links-0682",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/530fa0427b8083e0804865ed9412308e/xclkon/f68828469836572adb56e32b1329e6fb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/530fa0427b8083e0804865ed9412308e",
+          "Plant Name": "Centella asiatica Linn. Urban",
+          "Status": "Found"
+        },
+        "source_plant_name": "Centella asiatica Linn. Urban",
+        "source_record_id": "links-1246",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/530fa0427b8083e0804865ed9412308e"
+      }
+    ],
+    "source_xplant_id": "530fa0427b8083e0804865ed9412308e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

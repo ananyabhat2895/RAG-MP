@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c2b6f28bda260c4e__bibliography__001",
+  "plant_id": "plant_c2b6f28bda260c4e",
+  "plant_name": "Neptunia oleracea Lour.",
+  "botanical_name": "Neptunia oleracea",
+  "botanical_authority": "LOUR.",
+  "family": "MIMOSACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: title: Title - Flora of Rajasthan Vol. 1\nBibliography entry: title: Title - Flora of Gujarat State Vol 1\nBibliography entry: title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nBibliography entry: title: Title - Flora of Majuli\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL1\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-1\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - The Flora of Orissa Volume 1\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/660961673f8c6ebaad7e9fa0e1674c42"
+  ],
+  "source_record_ids": [
+    "links-1706"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/660961673f8c6ebaad7e9fa0e1674c42"
+    ],
+    "source_record_ids": [
+      "links-1706"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/660961673f8c6ebaad7e9fa0e1674c42",
+          "Plant Name": "Neptunia oleracea Lour.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Neptunia oleracea Lour.",
+        "source_record_id": "links-1706",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/660961673f8c6ebaad7e9fa0e1674c42"
+      }
+    ],
+    "source_xplant_id": "660961673f8c6ebaad7e9fa0e1674c42",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

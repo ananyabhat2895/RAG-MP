@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_5df134d761fe4711__vernacular_names__001",
+  "plant_id": "plant_5df134d761fe4711",
+  "plant_name": "Gentiana olivieri Griseb.",
+  "botanical_name": "Gentiana olivieri",
+  "botanical_authority": "GRISEB.",
+  "family": "GENTIANACEAE",
+  "section": "vernacular_names",
+  "content": "Sanskrit (1): Sanskrit CommentsX trayamana",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a1173338ce102678f92053ae94ff3ee"
+  ],
+  "source_record_ids": [
+    "links-1976",
+    "links-1978"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a1173338ce102678f92053ae94ff3ee"
+    ],
+    "source_record_ids": [
+      "links-1976",
+      "links-1978"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a1173338ce102678f92053ae94ff3ee",
+          "Plant Name": "Gentiana olivieri Griseb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gentiana olivieri Griseb.",
+        "source_record_id": "links-1976",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a1173338ce102678f92053ae94ff3ee"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a1173338ce102678f92053ae94ff3ee",
+          "Plant Name": "Gentiana olivieri Griseb",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gentiana olivieri Griseb",
+        "source_record_id": "links-1978",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a1173338ce102678f92053ae94ff3ee"
+      }
+    ],
+    "source_xplant_id": "3a1173338ce102678f92053ae94ff3ee",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

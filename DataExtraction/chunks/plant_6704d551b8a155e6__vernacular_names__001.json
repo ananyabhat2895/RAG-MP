@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_6704d551b8a155e6__vernacular_names__001",
+  "plant_id": "plant_6704d551b8a155e6",
+  "plant_name": "Lagerstroemia indica Linn.",
+  "botanical_name": "Lagerstroemia indica",
+  "botanical_authority": "L.",
+  "family": "LYTHRACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): crape or crepe myrtle, crepe flower\nHindi (4): har singar, phurush, saoni, telingachina\nMarathi (2): joje-mart, vilayatimendi\nSanskrit (1): Sanskrit CommentsX siddhesvara\nTamil (11): cinaccamanti, cinappu, katali1, pavala k kurinci, pavalakkurinca, pavalakkurincacceti, pavalakkurinci 1, pavalakkurinji, sinappu, tindiyam, tintiyam\nTelugu (5): china, chinaagoranta, chinagoranta, chinnagoranta, cinagoranta",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b8aec06a93539cfad735c55ee4bd412"
+  ],
+  "source_record_ids": [
+    "links-1789"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b8aec06a93539cfad735c55ee4bd412"
+    ],
+    "source_record_ids": [
+      "links-1789"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b8aec06a93539cfad735c55ee4bd412",
+          "Plant Name": "Lagerstroemia indica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lagerstroemia indica Linn.",
+        "source_record_id": "links-1789",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b8aec06a93539cfad735c55ee4bd412"
+      }
+    ],
+    "source_xplant_id": "8b8aec06a93539cfad735c55ee4bd412",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

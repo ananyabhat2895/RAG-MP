@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_52c5ee209d8f37c0__systems_of_medicine__001",
+  "plant_id": "plant_52c5ee209d8f37c0",
+  "plant_name": "Jatropha curcas Linn.",
+  "botanical_name": "Jatropha curcas",
+  "botanical_authority": "L.",
+  "family": "EUPHORBIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Homeopathy\nSystem of medicine: Folk",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ecdf68855a0364e6eb3661e83dccb60"
+  ],
+  "source_record_ids": [
+    "links-0534"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ecdf68855a0364e6eb3661e83dccb60"
+    ],
+    "source_record_ids": [
+      "links-0534"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ecdf68855a0364e6eb3661e83dccb60",
+          "Plant Name": "Jatropha curcas Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Jatropha curcas Linn.",
+        "source_record_id": "links-0534",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ecdf68855a0364e6eb3661e83dccb60"
+      }
+    ],
+    "source_xplant_id": "6ecdf68855a0364e6eb3661e83dccb60",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

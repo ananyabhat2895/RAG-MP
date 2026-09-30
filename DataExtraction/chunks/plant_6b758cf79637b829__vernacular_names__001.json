@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_6b758cf79637b829__vernacular_names__001",
+  "plant_id": "plant_6b758cf79637b829",
+  "plant_name": "Bauhinia tomentosa Linn.",
+  "botanical_name": "Bauhinia tomentosa",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (2): kachnar, kanchana\nKannada (17): aane paada, kaadathi, kaadu mandaara, kaadu mandara, kadarti, kadatti, kallarti, kallatti, karanaapu, karanasupu, karanosupu, katarti, sampage, vana sampage gida, vanasampage, vanasampagegida, vanasampige\nMalayalam (10): canschena-pou, canschenapou, chanscheha, kancanappu, kancanapu, kanchanappu, kanchena, kanjanam, kattatti, mandaram\nMarathi (6): aptu, chan, halduem-kanchan, halduvo-apto, pivala kunchan, pivalakonchan\nSanskrit (11): Sanskrit CommentsX asmantaka, aswamantaka, kancanarah, kovidarah, phalgu, pitakancanara, pitakanchana, pitapuspah, suvarnarah, ushmadugha, usmadugha\nTamil (63): ar, ar 2, aram 2, aticaracanti, atthi, atti, caat attie poo, campucayanam 2, campuccayanamaram, ciriyattimaram, ciruvatti, citapattira, cupattiram, cuttacamikam, cuttacamikamaram, ilakkappattiram, intucapari, iruvaji, kaccattiram, kalakikam, kalakikamaram, kancani 1, kanchini, kancini, kanjani, karunakatti, karunakattimram, kattathi, kattathipoo, kattatti, kattumandarai, kattumantarai, kincikam, kovita, kovitamaram, kovitaram 1, kucavicam, kuttalakam 2, kuttalam 2, kuzhakkala, malaimantarai, maniyatti, mulacalacayam, perumuntini, perumuntinimaram, siruvatti, tataki 2, tava, tintukam, tintukanka, tintukim, tiraviyaputtiram, tiruvalai#, tiruvalai@, tiruvatti, toyancupattiram, utika, utikamaram, vanacampanki, yukapattirakam, yukapattiram, yukavattirakam, yukavattirakamaram\nTelugu (12): adavimandaaramu, adavimandaramu, devakaanchanamu, devakanjanamu, kanchani, kanchini, kanjelapa, kanjini, mandaara, mandara, paalepi, palepi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aec7323fe050ef19bbba0d307154dbce"
+  ],
+  "source_record_ids": [
+    "links-0181",
+    "links-1312"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aec7323fe050ef19bbba0d307154dbce"
+    ],
+    "source_record_ids": [
+      "links-0181",
+      "links-1312"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aec7323fe050ef19bbba0d307154dbce",
+          "Plant Name": "Bauhinia tomentosa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bauhinia tomentosa Linn.",
+        "source_record_id": "links-0181",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aec7323fe050ef19bbba0d307154dbce"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aec7323fe050ef19bbba0d307154dbce",
+          "Plant Name": "Bauhinia tomentosa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bauhinia tomentosa",
+        "source_record_id": "links-1312",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aec7323fe050ef19bbba0d307154dbce"
+      }
+    ],
+    "source_xplant_id": "aec7323fe050ef19bbba0d307154dbce",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_43148a625e12d333__bibliography__001",
+  "plant_id": "plant_43148a625e12d333",
+  "plant_name": "Saccharum arundinaceum Retz.",
+  "botanical_name": "Saccharum arundinaceum",
+  "botanical_authority": "RETZ.",
+  "family": "POACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - V.V. SIVARAJAN AND INDIRA BALACHANDRAN; title: Title - AYURVEDIC DRUGS AND THEIR PLANT SOURCES\nBibliography entry: author: Author - N.S. MOOSS; title: Title - GANAS OF VAHATA\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: title: Title - The Flora of Orissa Vol IV\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL2\nBibliography entry: title: Title - FLORA OF ASSAM",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73a43799444806a97a890a8dac745dc5"
+  ],
+  "source_record_ids": [
+    "links-0730"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73a43799444806a97a890a8dac745dc5"
+    ],
+    "source_record_ids": [
+      "links-0730"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73a43799444806a97a890a8dac745dc5",
+          "Plant Name": "Saccharum arundinaceum Retz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Saccharum arundinaceum Retz.",
+        "source_record_id": "links-0730",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73a43799444806a97a890a8dac745dc5"
+      }
+    ],
+    "source_xplant_id": "73a43799444806a97a890a8dac745dc5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

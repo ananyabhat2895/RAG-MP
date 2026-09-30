@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_28313446f6f0d568__vernacular_names__002",
+  "plant_id": "plant_28313446f6f0d568",
+  "plant_name": "Michelia champaca Linn.",
+  "botanical_name": "Michelia champaca",
+  "botanical_authority": "L.",
+  "family": "MAGNOLIACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (117): akacampanki, akantakaram, amariyam, ancanam, arakkatarukam, arakkatarukamaram, atikantam, atipati, caciya, caciyamaram, campakam, campanki, campankiccetanam, campankiccetanappu, campankippu, campukam, canpakam, canpakappu, carapitani, catalu, catpatati, catpatati1, catpatatiti, catpatatiti1, cempakam, cempakamaram, cempakappu, cempottu, cempu, cempu1, cempuka, cempuka@, cempukappu, cenpakam, cenpakam1, cenpakamaram, champakam, chembagam, cirunkalaimoki, cirunkalimohi, cirunkalimoki, cirunkamoki, citalacatti, citalacatti1, citavikam, citavikappu, cukantini, cukumaraccam, curapi, curapi1, curapitani, cuvanam, cuvanam#, ecavam, eirunti, emaputpam, ilai campanki, irammiyam, irunti1, kanakacanpakam, kanakkan, kancanakuvayam, kancani, kancani1, kancanimaram, kotivacikari, kunalatikam, kuncitam, kutanattikam, maraccampanki, paccakilikamaram, paccakiliyam, paccakuliyam, peruncanpakam, peruncenpakam, peruncenpakamaram, piriyacantecam, pitapukitam, pitapukitamaram, pittikam, pittikam 1, punniyakantam, puspentiram, putpentiram, sambagam, sanbagam, sembagam, sempakam, sempuga, shampang, shampangi, shampangi-pushpam, shanbagam, shanbagapoo, shenbagam, tekku, tipaputpam, tirkkaputpam, tiyaputpam, tutarcci, tuvirepari, tuviropari, vacam, vacam 1, vacanti, vanakunamalarmaram, vanatipam, vandumarmalar, vantukolli, vantukollimaram, vantunamaram, vantunelli, vattukkolli, vericci, visamayiti, visamayitti\nTelugu (29): campakamu, campangi, campangipuvvu, campeyamu, canbakam, champakam, champakamu, champakmu, champeyamu, gandha-phali, gandhaphali, gangaraavi, gangaravi, hemaangamu, hemangamu, hemapushpamu, kaanchanamu, kancanamu, kanchanamu, kanjanamu, sampage, sampagiya, sampagnipuvvu, sampanga, sampangi, sampangi-puvvu, sampega, sampenga, vandanamalai\nTibetan (3): gser (gyi) me tog, tsam ba ka, tsam pa ka (d)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8582ec2fd3dc3aefecd75589825be340"
+  ],
+  "source_record_ids": [
+    "links-0402"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8582ec2fd3dc3aefecd75589825be340"
+    ],
+    "source_record_ids": [
+      "links-0402"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8582ec2fd3dc3aefecd75589825be340",
+          "Plant Name": "Michelia champaca Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Michelia champaca Linn.",
+        "source_record_id": "links-0402",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8582ec2fd3dc3aefecd75589825be340"
+      }
+    ],
+    "source_xplant_id": "8582ec2fd3dc3aefecd75589825be340",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

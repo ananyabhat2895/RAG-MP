@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_6c3b4067e1c99b9a__vernacular_names__001",
+  "plant_id": "plant_6c3b4067e1c99b9a",
+  "plant_name": "Wendlandia exerta DC.",
+  "botanical_name": "Wendlandia heynei",
+  "botanical_authority": "(R. & S.) SANTAPAU",
+  "family": "RUBIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (12): bathera, chanlai, chaulai balthus, chila, chili/ukan/pansara, pansara, pansera, ratela, terchunia, tila, tilaka, udashu\nKannada (6): harake, kanasuraga gida, parakatte, parakodi, thinthulu, torani\nMarathi (2): showla, till\nSanskrit (1): Sanskrit CommentsX tilaka\nTamil (2): kadambam, thovarai\nTelugu (1): tellapuccu\nTibetan (7): bra bu nda ri ka, bra ddha, bri ddhi (p), bri tti (d), pra pu nda ri ka, pra pu nda ri ka (d&p), ti la ka i me tog",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c78e333205c61da25c0102a4df3de47/xclkon/54eece8cca7f92cef8d47bb014f174bb"
+  ],
+  "source_record_ids": [
+    "links-1945"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c78e333205c61da25c0102a4df3de47/xclkon/54eece8cca7f92cef8d47bb014f174bb"
+    ],
+    "source_record_ids": [
+      "links-1945"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c78e333205c61da25c0102a4df3de47/xclkon/54eece8cca7f92cef8d47bb014f174bb",
+          "Plant Name": "Wendlandia exerta DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Wendlandia exerta DC.",
+        "source_record_id": "links-1945",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c78e333205c61da25c0102a4df3de47/xclkon/54eece8cca7f92cef8d47bb014f174bb"
+      }
+    ],
+    "source_xplant_id": "9c78e333205c61da25c0102a4df3de47",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

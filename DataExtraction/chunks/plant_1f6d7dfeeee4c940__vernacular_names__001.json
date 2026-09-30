@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_1f6d7dfeeee4c940__vernacular_names__001",
+  "plant_id": "plant_1f6d7dfeeee4c940",
+  "plant_name": "Piper sylvaticum Roxb.",
+  "botanical_name": "Piper sylvaticum",
+  "botanical_authority": "ROXB.",
+  "family": "PIPERACEAE",
+  "section": "vernacular_names",
+  "content": "Sanskrit (2): Sanskrit CommentsX pippali, vanapippali",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd0eb1636ac8c3f3684bd4da95fc9c42"
+  ],
+  "source_record_ids": [
+    "links-2046"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd0eb1636ac8c3f3684bd4da95fc9c42"
+    ],
+    "source_record_ids": [
+      "links-2046"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd0eb1636ac8c3f3684bd4da95fc9c42",
+          "Plant Name": "Piper sylvaticum Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper sylvaticum Roxb.",
+        "source_record_id": "links-2046",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd0eb1636ac8c3f3684bd4da95fc9c42"
+      }
+    ],
+    "source_xplant_id": "fd0eb1636ac8c3f3684bd4da95fc9c42",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

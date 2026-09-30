@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_18d43edb3fde3e52__vernacular_names__001",
+  "plant_id": "plant_18d43edb3fde3e52",
+  "plant_name": "Crocus sativus Linn.",
+  "botanical_name": "Crocus sativus",
+  "botanical_authority": "L.",
+  "family": "IRIDACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): saffron, saffron cress\nHindi (4): kesar, saphran, zaffran, zafran\nKannada (4): kaesari, kumkuma kaesari, kunkuma-kesara, kunkumakesari\nMalayalam (4): kesaram, kunkumam, kunkumappu, kunkumappuvu\nMarathi (2): kaesar, kesara\nSanskrit (63): Sanskrit CommentsX agnishekhara, agnishikha, aruna, asra, asrika, bahlikabc, balhika, bhavarakta, chandana, charu, dhira, dipaka, gaura, ghasra, ghusriam, ghusrna, ghusruna, harichandana, jaguda, kaisara, kaleyaka, kanta, kashmara, kashmiraja, kashmirajanma, kasmira, kasmiraja, kasmirajanma, kesara, kesaram, keshara, khala, ksataja, kumkuma, kumkumam, kunkuma, kunkumam, kusrunam, kusumatmaka, lohita, mangal, mangalya, pishuna, pitaka, pitana, raja, rakta, raktachandana, raktasanjna, ruchira, rudhira, sankoca, sankocha, sankochapishuna, saubhara, saurab, shonita, shonitavhaya, valhika, vara, varabalhika, varenya, vira\nTamil (50): akkinicekaram, avakam, avam, cankocapicunam, catikecam, catimaracam, centurukkam, cukkilapputta, irattam, irattancapittam, kacimiram, kasmiram, kecaram, kecaravaram 1, kecari 1, kecarippu, khoongoomapoo, kirucan, kucumpam, kungu mappoo, kungumappoo, kungumapu, kunkumam, kunkumappu, malam, marali 2, maralukam, maravam 2, maravatam, mavacciram, mavananki, nalal 1, nalalpu, nalarpu#, nalarpu@, naravam 1, naravucaram, palapaliriti, piriyakam, pumalekinam, putpika, turukkam, turumam 2, ulokitacantanam, ulukalam 3, vallapetam, vanita, vanmikam, vareniyam, vatankura\nTelugu (5): kunkuma-puvva, kunkumamu, kunkumapave, kunkumapuvve, kunkumma-purru\nTibetan (3): gur gum, gur-gum, kha che\nUrdu (4): jafranekar, safran, zafran, zafran sayida",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abbd0b05d60c1b9fe9ba20047de5587c"
+  ],
+  "source_record_ids": [
+    "links-1127"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abbd0b05d60c1b9fe9ba20047de5587c"
+    ],
+    "source_record_ids": [
+      "links-1127"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abbd0b05d60c1b9fe9ba20047de5587c",
+          "Plant Name": "Crocus sativus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Crocus sativus Linn.",
+        "source_record_id": "links-1127",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abbd0b05d60c1b9fe9ba20047de5587c"
+      }
+    ],
+    "source_xplant_id": "abbd0b05d60c1b9fe9ba20047de5587c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

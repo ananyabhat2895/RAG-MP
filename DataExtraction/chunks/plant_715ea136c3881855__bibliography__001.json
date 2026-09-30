@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_715ea136c3881855__bibliography__001",
+  "plant_id": "plant_715ea136c3881855",
+  "plant_name": "Dioscorea hispida Dennst.",
+  "botanical_name": "Dioscorea hispida",
+  "botanical_authority": "DENNST.",
+  "family": "DIOSCOREACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: title: Title - Flora of Bankura District(West Bengal)\nBibliography entry: title: Title - Flora of Rajasthan Vol.2\nBibliography entry: title: Title - Flora of Gujarat State Vol 2\nBibliography entry: title: Title - Flora of Maharashrta State (Monocotyledons)\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - The Flora of Orissa Vol III\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d0040698f764a73e55cc595a6b119fd"
+  ],
+  "source_record_ids": [
+    "links-0087"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d0040698f764a73e55cc595a6b119fd"
+    ],
+    "source_record_ids": [
+      "links-0087"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d0040698f764a73e55cc595a6b119fd",
+          "Plant Name": "Dioscorea hispida Dennst.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dioscorea hispida Dennst.",
+        "source_record_id": "links-0087",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d0040698f764a73e55cc595a6b119fd"
+      }
+    ],
+    "source_xplant_id": "2d0040698f764a73e55cc595a6b119fd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

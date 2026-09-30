@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_d63eb899e6e2d01f__vernacular_names__002",
+  "plant_id": "plant_d63eb899e6e2d01f",
+  "plant_name": "Citrullus colocynthis Schard.",
+  "botanical_name": "Citrullus colocynthis",
+  "botanical_authority": "(L.) SCHRADER",
+  "family": "CUCURBITACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (158): alacai, alakai3, alakaikkommattikkoti, allikam, analacam, antimarittan, antimarittankoti, arruddummatti, arrukkoti2, arrumari, arruttumatti, arruttumatti camulam, arruttumatti caru, arruttummatti, artu-tumatti, aruttumatti, attacikkay, attanatipputu, avirekam, carutka, catamurkkiyam, cempuccuttiyakki, cimitti, cipitti, cirankita, cirupacacikkumitti, cirupeykkumitti, cittirapalam, cittirapalattiram, copotapa, cotanicam, cukkankay1, curapicekam, curapicekkumitti, curnapali, curnapalikkoti, cuvarkkam, cuvetaputpa, ilinkapanti, intiravallarai, intiravaruni#, intiravaruni@, intiravarunikai, intukitakkoti, intukitam, iramakkumitti, kacappuccirikam, kacappuccirikkoti, kacappukkummatti, kacappukkummattikkoti, kacappumancaki, kacappumancakikkoti, kacappuvellari, kacappuvellarikkoti, kaccakkumitti, kaccakkumittikkoti, kaccalkoti, kakamarttam, kalinkam, kalinkam1, kantivaruni, karniyeca, katival, kativarkoti, kattuttummatti, kattuvellari, kavatci1, kecci, kentuvaruni, ketavaikkoti2, komatti, kommai, kommattikkoti, kontalai1, kontalaikkoti#, kontalaikkoti@, kontanai, kukkalinko, kulinkam, kumatti, kumattikkay, kummatti, makapala 2, matca, maturi 3, mirukatcikam, nakatanti3, pacakakkoti, pacakam 2, paedikari attutummatti, paitummatti, palama, paraikkommatti, pasanankaykkulkattu, patukkarakkumatti, patukkaram, paycumuti, pekkommatti, peruncimitti, petam, petikari, petikarikkoti, petummatti, peukkumutti, pey-komatti, peycoomutikai, peykkarumpu, peykkumatti, peykkumutti, peymalikakkumitti, peymalikam, peyt-tumatti, peyttumatti, peyttummatti, peyvellari, piccikkay, pitinkari, talaiviriccan2, talaiviriccankoti, talaivirittan2, tatai@, tataki, tati, tippilikkommatti, tippilikkommattikkoti, tittikam1, tottalveci, tucakakkoti, tucika, tucikacceti, tumatti, tummatti, tummatti2, tummutti2, upavacakakkoti, upavacakam, vallarikkoti, valliri, varagamothankodi, varakamottankoti, varikkommatti, varikkumitti, varikkummatti, varikumatikai, varippiki, varippikikkumutti, varit-tumatti, varittumatti, varittummatti, varriecoomutie, varukam 1, verikkummatti, verittumatti, verrccarrilcempucutti, vicala, vicalam 1, vicaliya, viccalli\nTelugu (20): chedu putcha kaaya, chitti-papara, chittipaapara, chittipapara, erri puchcha, eti-puch-cha, eti-puchcha, etipuchchha, etipuchha, kaarkarukamu, paaparabudama, paparabudama, paperabudama, patsakaya, putsakaya, veripuchchha, veriputsa, verri-puch-cha, verri-puchcha, verripuchha\nTibetan (3): bi sa la, bi-sa-la, byi sa la",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981"
+  ],
+  "source_record_ids": [
+    "links-0740",
+    "links-0741"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981"
+    ],
+    "source_record_ids": [
+      "links-0740",
+      "links-0741"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981",
+          "Plant Name": "Citrullus colocynthis Schard.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrullus colocynthis Schard.",
+        "source_record_id": "links-0740",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981",
+          "Plant Name": "Citrullus colocynthis Schrad.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrullus colocynthis Schrad.",
+        "source_record_id": "links-0741",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981"
+      }
+    ],
+    "source_xplant_id": "0dda7b33c0cc4a03b37d976f440b9981",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

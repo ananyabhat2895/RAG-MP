@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2f9f460c6bd2c1fd__vernacular_names__001",
+  "plant_id": "plant_2f9f460c6bd2c1fd",
+  "plant_name": "Curcuma zedoaria Rosc.",
+  "botanical_name": "Curcuma zedoaria",
+  "botanical_authority": "(CHRIST.) ROSCOE",
+  "family": "ZINGIBERACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): zedoary\nHindi (6): gandamasti, kachur, kachura, kakhur, kalihaladi, maha-bari\nKannada (4): ambe haldi, kaadu arisina, kachora, kochora\nMalayalam (10): adavi-kachhola, kaccolam, kach-cholam, kach-churi-kizhanna, kachcholam, kachchurikizhanna, kua, pula-kizhanna, pulakizhanna, pulan-kizhanna\nMarathi (7): kachar, kachari, kachora, kachur, kuv, kuw, narakachora\nSanskrit (24): Sanskrit CommentsX dravida, durlabha, gandhamula, gandhamulaka, gandhasara, jatala, kaccura, kachhuraha, kachura, kacoraka, kalpaka, karchura, karcura, karcurah, karshya, krachura, mukhya, nirvisha, sathi, sati, shathi, shati, vanaharidra, vedhya\nTamil (60): amalanica, amlavarittira, castoorie munjel, cunaittavakkilanku, cunaittavam, cuntiran, cutatali, kaccolakkilanku, kaccolam, kaccolam2, kaccoram, kantapalaci2, karccuram, karppurakiccili, karppurakkiccilikkilanku, karpurakam, kastori-manjal, katturimancal, kicchilikizhangu, kiccili, kiccili-k-kilanku, kiccilik kilanku, kiccilik-kilanku, kiccilikkilanku, kicciliver, kich-chilik-kizhangu, kichchilik-kishangu, kichchilikkizhangu, kichchllik, kichili kilangu, kichilic-kizhanga, kichilikilhangu, kirandi dakaram, kishangu, korankimulam, kotukam, kurpakatikkilanku, kurupakatitam, kuva2, mancatpula, nattukkiccilikkilanku, niruvisam, nirvisam, nirvisham, perunkurumpai 1, pirutupala, poolan kilangu, pula, pula 1, pulai, pulakkilanku, pulamulam, pulan-kizhanga, pulan-kizhangu, pulang-kilunggu, pulankilanku, pulankilhangu, pulavin kilanku, talaivalipokki, veppatti 1\nTelugu (11): adavipasuvu, gaddata, kachoeramu, kachoram, kasthooripasupu, kich-chili-gaddalu, kichchiligaddalu, kichchilli, kichhiligaddalu, kichili-gaddalu, kuchur\nTibetan (2): ka tsu ra, ser po\nUrdu (4): kachura, kharal ki hui, zadwar saida, zarambad",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d113619856013e9dc56dea1ec40931d"
+  ],
+  "source_record_ids": [
+    "links-0958"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d113619856013e9dc56dea1ec40931d"
+    ],
+    "source_record_ids": [
+      "links-0958"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d113619856013e9dc56dea1ec40931d",
+          "Plant Name": "Curcuma zedoaria Rosc.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Curcuma zedoaria Rosc.",
+        "source_record_id": "links-0958",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d113619856013e9dc56dea1ec40931d"
+      }
+    ],
+    "source_xplant_id": "6d113619856013e9dc56dea1ec40931d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

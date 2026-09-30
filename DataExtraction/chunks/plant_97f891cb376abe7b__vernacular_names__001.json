@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_97f891cb376abe7b__vernacular_names__001",
+  "plant_id": "plant_97f891cb376abe7b",
+  "plant_name": "Hibiscus rosa-sinensis Linn.",
+  "botanical_name": "Hibiscus rosa-sinensis",
+  "botanical_authority": "L.",
+  "family": "MALVACEAE",
+  "section": "vernacular_names",
+  "content": "English (8): china rose, chinese hibiscus, chinese rose, hawaiian hibiscus, hibiscus, rose mallow, rose-of-china, shoe-flower\nHindi (10): gudhal, gurhal, guthur, jassoon, jasum, jasun, jasund, jasut, java, odhul\nKannada (16): daasaala, daasanige, daasari hoo, daasavaala, dasala, dasalagida, dasana, dasanapu, dasanige, dasanihu, dasavala, dasavana, daswala, kempupundrika, kempupundrike, nadeya\nMalayalam (13): aimparutti, ain-pariti, ayamparutti, cemparatti, cemparutti, champarutti, chemburuthi, chemparutti, jampa, japa, schem-pariti, schempariti, shemparatti\nMarathi (7): darshan, dasindachaphula, jaasavand, jasavanda, jassvandi, jasund, jasvand\nSanskrit (19): Sanskrit CommentsX arkapriya, aruna, harivallabha, japa, japaapushpa, japapushpa, japapushpam, java, joba, odhrapushpa, odrapuspa, ondrakhya, ondrapuspi, oundrapuspa, pratika, raktapushpi, rogapuspi, rudhrapushpa, trisandhya\nTamil (73): ampurukam, arattam, arattam2, aviyatam, cakoraki, cakorakicceti, cakoram, capa, capakucumam, capakuyamam, capaputpa, capatan, capattippu, cappatticceti2, cappattu3, cappattucceti, cempa, cemparattai, cemparattam, cemparattanceti, cemparikacceti, cemparuddi, cemparutti, cemparuttippu, cempatai, cempumaramuttam, ceppita, ceppitapparattai, cevali, cevvarattai, cevvarattam, chembarathi, chemparattai, cinacappattucceti, cinapparutti, civamparattam, civamparattanceti, civantavecai, civattaci1, civattacikam1, civattaki, civattataci1, civattatci, inamekappu, irattaichegappuchembarattam, irattaimanjajembarattam, kucumavari, mallikati, mallikaticceti, mandaram, mativavi, mativavicceti, orraiccemparattampu, pali, parattai, parunilicceti, sapatoo cheddie, sapattuppu, sappaththi, sappattup-pu, sembarathhai, sembarattai, semparathai, semparathan, semparuthi, shamberattai, shappattup-pu, tacanapu, tacanpu, tamalomaya, tarupaka, tiruttikkiritam, uruttiraputpam\nTelugu (16): cembarattamu, chimabarathamu, daanachettu, daasaana chettu, daasaani, daasanamu, dasana, dasanamu, dasani, dasanie, dasanipu, japa, japapushpamu, javapushpamu, mandara, nandara\nUrdu (2): gul gurhal taza, gul-e-gurhal",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5769056afed91cbb4b41b2da6a52b5c7"
+  ],
+  "source_record_ids": [
+    "links-0769"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5769056afed91cbb4b41b2da6a52b5c7"
+    ],
+    "source_record_ids": [
+      "links-0769"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5769056afed91cbb4b41b2da6a52b5c7",
+          "Plant Name": "Hibiscus rosa-sinensis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hibiscus rosa-sinensis Linn.",
+        "source_record_id": "links-0769",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5769056afed91cbb4b41b2da6a52b5c7"
+      }
+    ],
+    "source_xplant_id": "5769056afed91cbb4b41b2da6a52b5c7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

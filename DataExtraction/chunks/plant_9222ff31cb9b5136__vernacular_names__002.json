@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_9222ff31cb9b5136__vernacular_names__002",
+  "plant_id": "plant_9222ff31cb9b5136",
+  "plant_name": "Clitoria ternatea Linn.",
+  "botanical_name": "Clitoria ternatea",
+  "botanical_authority": "L.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (96): ancanala#, ancanala@, aral 2, atirikarni, ayittiram 1, canku puspam, cankuputpakkoti, cankuputpam, girikanni, kaakkanam, kakkam 1, kakkana, kakkana ver, kakkanam, kakkanam koti, kakkanan, kakkanan-kodi, kakkanankodi-virai, kakkanankovvai, kakkanatti, kakkankoti, kakkarattan, kakkattan, kakkattan-kodi, kakkorattai, kakkurattai#, kakkurattai@, kannikkodi, kannikkoti, karisanni, karkakartan vayr, karkakartum, karkkurattai, karkokartun, karkurattai, karkurattaikkoti, karttakakkattan, karudakkovai, karudattondai, karunkakkanam, karunkakkattan, karunkakkattankoti, karunkanankoti, karunkattan, karunkattankoti, karuppu-k-kakkanam-koti, karutakanatti, karutakanattikkoti, karutakkovai, karutakkovvai, karutattontai, karuttakakkanam, karuttakakkanan, karuttappu, karuttontai, karuvilai, karuvilaikkakkanam, karuvilam, kauri 2, kaurikkoti, kavachhi, kavetanam, kicinikkoti, kiruttini, kiruttinikkoti, kodi-kakkanam, kokanni, kokarni, kollankovai, kurattai, kurokanatti, kurokanattikkoti, kurottai, kuruvilai, makanatti, makanattikkoti, mayil, minni, muntakkini, muntakkinikkoti, nakanatti, nakanattikkoti, nilakirikaranai, nilakkakkanam, nilakkakkattan, sankapushpam, tarukanni, uromavalli, uyavaikkoti, vainakanatti, vainakanattikkoti, vellai kakkattan, vellai-k-kakkanam, venkakkattan, viranu, vullay kakartan vayr\nTelugu (20): adavichikkudu, dintana, dintena, gantina, gilarnika, nall vusiri, nalla dintena, nalladintenatige, nallaghentana, nallavusiniige, nallavusinitige, nelladintena, nullaghentana, sankapushpam, sanku-pushpamu, shanku poolu, shankupushpamu, tantiri, telladintena, thelladintena\nTibetan (5): a sa khu ra, a-pa-ra-dzi-ta, ge ri ka rni ka dkar po, sra na ma geri ka rni ka, sve\nUrdu (2): mazeriyunihindi, mazriyun",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1d8e02df612f312645b458c36c89b1c"
+  ],
+  "source_record_ids": [
+    "links-0199",
+    "links-0225"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1d8e02df612f312645b458c36c89b1c"
+    ],
+    "source_record_ids": [
+      "links-0199",
+      "links-0225"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1d8e02df612f312645b458c36c89b1c",
+          "Plant Name": "Clitoria ternatea Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clitoria ternatea Linn.",
+        "source_record_id": "links-0199",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1d8e02df612f312645b458c36c89b1c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1d8e02df612f312645b458c36c89b1c",
+          "Plant Name": "Clitoria ternatea",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clitoria ternatea",
+        "source_record_id": "links-0225",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1d8e02df612f312645b458c36c89b1c"
+      }
+    ],
+    "source_xplant_id": "a1d8e02df612f312645b458c36c89b1c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_26208ff2bd2a3407__vernacular_names__001",
+  "plant_id": "plant_26208ff2bd2a3407",
+  "plant_name": "Cuscuta reflexa Roxb.",
+  "botanical_name": "Cuscuta reflexa",
+  "botanical_authority": "ROXB.",
+  "family": "CONVOLVULACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (17): aftimum, agas bel, akasbel, akasbela, akash bel, akash-bel, akashabel, akashabela, akashbel, amar bel, amar-bel, amarabela, amarbel, kasus, parasite, saragbali, seragbali\nKannada (7): amaraballi, amaruballi, badanike, banda, beluballi, nelamuda balli, shyaavige balli\nMalayalam (3): akasagarudakkoti, akasavalli, mutillattali\nMarathi (7): akash-vel, amarbel, amarvel, amarvela, nirmooliaka shavela, nirmuli, nirmuliakashavela\nSanskrit (14): Sanskrit CommentsX akasavalli, akashabhavana, akashapavana, akashavalli, akashvalli, amaravallari, amaravela, amarvalli, antravalli, asparsa, dusparsha, khavalli, nilatar, vyomavallika\nTamil (70): akacapavanam, akatilai, akatilai 1, ammaiyar kuntal, ammaiyarkoonthal, ammaiyarkuntal, auvaiyar kuntal, avvaiyar kuntal, avvaiyarkuntal, cadadari, caraloccu, caran, caranam, caruvarni, cataari, catatari@, cavarikkoti, cavurikkoti, cavurikkoti 1, cavurikkottu 1, cirukatikakkoti, cirukatitakkoti, cuppiracaram, eliccevi, hikecakketi, hikelam, ilikecakkoti, ilikecam, kadumparai, katumparai 1, kodiya-gundal, kodiyagundal, kotiyal kuntal, kotiyalkuntal, kotiyar kuntal, kotiyarkuntal, kuntal, kuntal 1, kutiraivali, kutiraivali 1, meliyar kuntal, meliyarkuntal, miriyarkunatal, miriyarkuntal 1, miriyarkuntarkoti, muruvilimiriyarkuntal, mutivar kuntal, mutivarkulal, mutiyarkulal, mutiyarkuntal 1, ovaiyarkoonthal, pallinarkolalikodi, pallinarkulali, pallinarkulalikkoti, papmpacatini, piracarani, piracarani#, piracarani@, piracarini, piracatini, priacarini, sadadari, tokaikkulal, tokaikkularkoti, tokaikulal, tokaikularkoti, tumparakikakkodi, tumparakikam, tumpuracikakkoti, tumpuracikam\nTelugu (16): bangaaru banti, lanja savarmu, lanjasavaramu, passi teega, passithiga, savarapukaada, savarapukada, seethammapogu noolu, seethasavaramu, sitama purgonalu, sitammapogunulu, sitammapoorgoonoolooo, sitasavaramu, sithamma-pogunulu, sithamma-savaram, sithammasavaram\nUrdu (11): aftimiun, aftimum, aftimun, aftimun wilayai, aftinum, akasbail, amal lata kay bij, amerbel, kasoos, tukhm kasus, zarbuti",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf140f02c95666e65f05a5700e60bb96"
+  ],
+  "source_record_ids": [
+    "links-0057"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf140f02c95666e65f05a5700e60bb96"
+    ],
+    "source_record_ids": [
+      "links-0057"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf140f02c95666e65f05a5700e60bb96",
+          "Plant Name": "Cuscuta reflexa Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cuscuta reflexa Roxb.",
+        "source_record_id": "links-0057",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf140f02c95666e65f05a5700e60bb96"
+      }
+    ],
+    "source_xplant_id": "cf140f02c95666e65f05a5700e60bb96",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

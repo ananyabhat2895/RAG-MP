@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_35f3e21c91ee7f51__images__001",
+  "plant_id": "plant_35f3e21c91ee7f51",
+  "plant_name": "Ficus arnottiana Miq.",
+  "botanical_name": "Ficus arnottiana",
+  "botanical_authority": "(MIQ.) MIQ.",
+  "family": "MORACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82816eacf84ab123e30324dd7f1815e8"
+  ],
+  "source_record_ids": [
+    "links-1529"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82816eacf84ab123e30324dd7f1815e8"
+    ],
+    "source_record_ids": [
+      "links-1529"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82816eacf84ab123e30324dd7f1815e8",
+          "Plant Name": "Ficus arnottiana Miq.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus arnottiana Miq.",
+        "source_record_id": "links-1529",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82816eacf84ab123e30324dd7f1815e8"
+      }
+    ],
+    "source_xplant_id": "82816eacf84ab123e30324dd7f1815e8",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

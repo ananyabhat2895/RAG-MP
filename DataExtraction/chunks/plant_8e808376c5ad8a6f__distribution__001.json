@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8e808376c5ad8a6f__distribution__001",
+  "plant_id": "plant_8e808376c5ad8a6f",
+  "plant_name": "Tephrosia uniflora Pers subsp petrosa (Blatt & Hal",
+  "botanical_name": "Tephrosia uniflora",
+  "botanical_authority": "PERS. subsp. petrosa (BLATT. & HALLB.) GILLETT & ALI",
+  "family": "FABACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae23b3d74504872e5cfdebb00a729e1c"
+  ],
+  "source_record_ids": [
+    "links-0920"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae23b3d74504872e5cfdebb00a729e1c"
+    ],
+    "source_record_ids": [
+      "links-0920"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae23b3d74504872e5cfdebb00a729e1c",
+          "Plant Name": "Tephrosia uniflora Pers subsp petrosa (Blatt & Hal",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tephrosia uniflora Pers subsp petrosa (Blatt & Hal",
+        "source_record_id": "links-0920",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae23b3d74504872e5cfdebb00a729e1c"
+      }
+    ],
+    "source_xplant_id": "ae23b3d74504872e5cfdebb00a729e1c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_be398260a5f0b6e7__images__001",
+  "plant_id": "plant_be398260a5f0b6e7",
+  "plant_name": "Trigonella Foenum graceum.",
+  "botanical_name": "Trigonella foenum-graecum",
+  "botanical_authority": "L.",
+  "family": "FABACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4f94984f63807963edf1f9876b1b1c9"
+  ],
+  "source_record_ids": [
+    "links-0227",
+    "links-1123",
+    "links-1282"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4f94984f63807963edf1f9876b1b1c9"
+    ],
+    "source_record_ids": [
+      "links-0227",
+      "links-1123",
+      "links-1282"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4f94984f63807963edf1f9876b1b1c9",
+          "Plant Name": "Trigonella Foenum graceum.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Trigonella Foenum graceum.",
+        "source_record_id": "links-0227",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4f94984f63807963edf1f9876b1b1c9"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4f94984f63807963edf1f9876b1b1c9",
+          "Plant Name": "Trigonella foenum graecum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Trigonella foenum graecum Linn.",
+        "source_record_id": "links-1123",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4f94984f63807963edf1f9876b1b1c9"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4f94984f63807963edf1f9876b1b1c9",
+          "Plant Name": "Trigonella foenum-graecum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Trigonella foenum-graecum Linn.",
+        "source_record_id": "links-1282",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4f94984f63807963edf1f9876b1b1c9"
+      }
+    ],
+    "source_xplant_id": "f4f94984f63807963edf1f9876b1b1c9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

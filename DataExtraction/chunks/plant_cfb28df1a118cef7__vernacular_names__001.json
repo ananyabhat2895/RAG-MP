@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_cfb28df1a118cef7__vernacular_names__001",
+  "plant_id": "plant_cfb28df1a118cef7",
+  "plant_name": "Cyperus rotundus",
+  "botanical_name": "Cyperus rotundus",
+  "botanical_authority": "L.",
+  "family": "CYPERACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): coco grass, common nutsedge, nutgrass, purple nutsedge\nHindi (12): bara-nagar-motha, doongia, doongla, khal, korehi-jhar, moth, motha, mothee, mothi, motho, mutha, nagarmotha\nKannada (21): abda hullu, abdahallu, abdahullu, bhadra hullu, bhadra mushti, chandra hullu, gaekina gedde, gaeku, gonarda, gopura, jaekina gedde, jalad, jeykina gadde, konnaari baeru, konnaari gedde, konnari gedde, koranari gedde, koranari-gadde, tangahullu, thunge hullu, tungegadde\nMalayalam (3): karimuttan, kora-kizanna, muttanna\nMarathi (6): barik motha, barik-moth, bimbal, bimbol, lavola, motha\nSanskrit (36): Sanskrit CommentsX a, abda, abhrabheda, ambhodhara, ambuda, arnoda, bhadrakshi, bhadramusta, bhadramuste, gangera, gangeya, ghana, granthi, gundra, hima, jalada, jaladah, kachhola, kakshottha, kasheru, krodeshtha, kuru, kurubilva, kurvinda, kutannata, megha, mesa, musta, mustaka, payoda, rajkaseruka, valya, varahi, varida, varivaha, vindakhya\nTamil (92): accam, araikkali, araikkalippul, avittam, ayali, ayil, ayirpul, campankorai 2, cankam 2, catatatikam, celakam, celam, celatam, celekam, cevakam 2, cevvetakam, erumainkkuppul, eruvai 2, eruvaippul, kaivarttam, kancukam 2, kankeyam, karkkoli 2, karkoli 3, karkoli@, karkolippul, karuvukatitam, karuvukatitappul, kerukam, kolavunavu, kontankilanku, kora, korai, korai kilangu, korai kizhangu, korai-k-kilanku, korai-kizanghu, koraikkilanku, koraikkizhangu, koraippul, koraippurkilanku, korankilanku, korutan, kotakilanku, kotani, kotanikkilanku, kulamaccam, kunram 2, kupaiyatitam, kupaiyatitappul, kuruvintakan, kuruvintakkilanku, kutiraivavikam, kutiraivavikappul, masta, muthakasu, muttakkacu, muttati 2, nanal, netila, paiyam, panritonripputu, panritontuputu, panrittonri, panrittonti, panrittontipputu, pathalamulam, perunkolikam, perunkolitam, talaikkorai, tattaikkoraikkilanku, tiraiyappul, tiratkorai, tirkkakantam, tulam, tulam 2, tunga-gaddai, tunkamuttu#, tunkamuttukkilanku, tunkumustu, ural, vacanaippulkilanku, vacciracalakkilanku, vacciracalam, vacciracelatam, vaccirakentam, vacciratilatam, varaki, vicciral#, vicciram, viccirappul, visakkani\nTelugu (15): bhadra-tunga-muste, bhadramuste, bharamuste, gandala, kaivartakamuste, kaivarthaka muste, mustakamu, shakatunga, shakha-tunga-veru, shakhatungaveru, thungamustha, tunga-muste, tunga-musthalu, tungamuste, tungamusti\nTibetan (2): gla sgan, gla-gan\nUrdu (3): habu-ul-zillam, nagarmotha, sad kufi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c8c02b5248cc81ef2a1e21eac54d7df"
+  ],
+  "source_record_ids": [
+    "links-1339",
+    "links-1340"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c8c02b5248cc81ef2a1e21eac54d7df"
+    ],
+    "source_record_ids": [
+      "links-1339",
+      "links-1340"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c8c02b5248cc81ef2a1e21eac54d7df",
+          "Plant Name": "Cyperus rotundus",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cyperus rotundus",
+        "source_record_id": "links-1339",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c8c02b5248cc81ef2a1e21eac54d7df"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c8c02b5248cc81ef2a1e21eac54d7df",
+          "Plant Name": "Cyperus rotundus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cyperus rotundus Linn.",
+        "source_record_id": "links-1340",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c8c02b5248cc81ef2a1e21eac54d7df"
+      }
+    ],
+    "source_xplant_id": "1c8c02b5248cc81ef2a1e21eac54d7df",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

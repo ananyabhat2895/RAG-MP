@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e02ff3962233f646__systems_of_medicine__001",
+  "plant_id": "plant_e02ff3962233f646",
+  "plant_name": "Delphinium glaciale Hook.f. TH.",
+  "botanical_name": "Delphinium glaciale",
+  "botanical_authority": "HOOK.F. & THOMSON",
+  "family": "RANUNCULACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4b6b6733d45fdaaf29f6915a1b715a2"
+  ],
+  "source_record_ids": [
+    "links-1903"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4b6b6733d45fdaaf29f6915a1b715a2"
+    ],
+    "source_record_ids": [
+      "links-1903"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4b6b6733d45fdaaf29f6915a1b715a2",
+          "Plant Name": "Delphinium glaciale Hook.f. TH.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Delphinium glaciale Hook.f. TH.",
+        "source_record_id": "links-1903",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4b6b6733d45fdaaf29f6915a1b715a2"
+      }
+    ],
+    "source_xplant_id": "a4b6b6733d45fdaaf29f6915a1b715a2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

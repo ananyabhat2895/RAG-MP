@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_8c28cd16b9a2ac59__vernacular_names__001",
+  "plant_id": "plant_8c28cd16b9a2ac59",
+  "plant_name": "Manilkara hexandra Roxb.",
+  "botanical_name": "Manilkara hexandra",
+  "botanical_authority": "(ROXB.) DUBARD",
+  "family": "SAPOTACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): palu\nHindi (5): khair, khir, khirni, kshiri, ranjan\nKannada (15): bakula, hale hannu, khiranee, kiraale, kiraanimara, kirani hannina mara, kirani mara, kirhaale, ksheera vriksha, ksheerini, mukula, nn, pakkalada, pakkila, pete\nMalayalam (7): elengi, khrini, manilakkara, pala, palamunnippala, palamunpala, pali\nMarathi (7): khiranee, kirni, raajana, raini, rajana, ranjana, rayan\nSanskrit (26): Sanskrit CommentsX dhupeshtha, drdhaskandha, dridhaskandha, guchhaphala, jara, kapishtha, kshirashukla, kshiravriksha, kshiri, kshirika, kshirini, ksiri, ksirika, ksirini, madhavodbhava, madhuphala, nimbabija, nripadruma, phaladhyaksha, rajadana, rajadanah, rajadani, rajahvam, rajanya, rajaphala, shriphala\nTamil (24): attukkompuppalai, attukkottuppalai, civa, kannupalalai, kanupala, karupala, kirni, mesakkotu, metakkotu, pala, palai, palai 1, palai mukil, palla, patla, pola, sivandi, sivani, sukkilam, ulakkaipalai, ulakkaippalai, ulakkaippali, ullakai-palai, vatuvati\nTelugu (20): kirni, manchipala, mancipala, manjipaala, manjipala, nemmi, nienni, nunni, nunni paala, pal, pala, palapandu chettu, pale, palla, pallapandu, palle, pallepaulo, patla, pola, puttapala\nTibetan (2): ra dza da na (d), ra dze da na\nUrdu (1): tukhm khirini",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17104b3b47f47163e185684f28288000",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17104b3b47f47163e185684f28288000/xclkon/fb8928ef52b7a0915e63a1250033eb66"
+  ],
+  "source_record_ids": [
+    "links-1088",
+    "links-1089"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17104b3b47f47163e185684f28288000",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17104b3b47f47163e185684f28288000/xclkon/fb8928ef52b7a0915e63a1250033eb66"
+    ],
+    "source_record_ids": [
+      "links-1088",
+      "links-1089"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17104b3b47f47163e185684f28288000",
+          "Plant Name": "Manilkara hexandra Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Manilkara hexandra Roxb.",
+        "source_record_id": "links-1088",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17104b3b47f47163e185684f28288000"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17104b3b47f47163e185684f28288000/xclkon/fb8928ef52b7a0915e63a1250033eb66",
+          "Plant Name": "Mimusops hexandra Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mimusops hexandra Roxb.",
+        "source_record_id": "links-1089",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17104b3b47f47163e185684f28288000/xclkon/fb8928ef52b7a0915e63a1250033eb66"
+      }
+    ],
+    "source_xplant_id": "17104b3b47f47163e185684f28288000",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

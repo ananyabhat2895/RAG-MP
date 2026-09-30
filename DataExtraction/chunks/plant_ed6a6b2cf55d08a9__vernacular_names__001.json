@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ed6a6b2cf55d08a9__vernacular_names__001",
+  "plant_id": "plant_ed6a6b2cf55d08a9",
+  "plant_name": "Annona squamosa Linn.",
+  "botanical_name": "Annona squamosa",
+  "botanical_authority": "L.",
+  "family": "ANNONACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): custard apple, sweetsop\nHindi (8): at, atasitaphal, sarifa, sharifa, sharilfah, shariphal, sherifa, sitaphal\nKannada (21): amrita, amritakayida, amritaphala, amrithaphala, amrutaphala, amrytakayi, amrytakayida, amrytaphala, amuchi kaayi, amucikayi, duranji, duranji hannu, duranji mara, seethaaphala, seethaphal, seethaphala, sita, sitahala, sitahannu, sitaphal, sitaphala\nMalayalam (13): antacheecha, ata, atamaram, atha, atta, attaccakka, attachchakka, sirpa, sirpha, sitapalam, sitappalam, sutakanni, suthakanni\nMarathi (4): at, ath, seethaphal, sitaphal\nSanskrit (15): Sanskrit CommentsX agrimakhya, atripya, bahubijaka, ganda, gandagatra, gandhagatra, gutea, krishnabija, krisnabija, shubha, sitapalam, sitaphala, subha, suda, vaidehivallabha\nTamil (22): annila, atta, cintamaram, cita, citta, cittamaram, cupakalavam, cupakarajamaram, letcumi 1, letcumimaram, nilampu1, nilampuccitta, pilavai-kolli, seetha pazham, sita, sitapalam, sitappalam, sith-tha, sitha, sithapalam, tirilokeyam, tirilokeyamaram\nTelugu (8): ganda gaathramu, ganda gathram, gandagatramu, seetapandu, seethapandu, seethaphalamu, sitapandu, sitaphalamu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f44b0ac0cb0b9c0866aa5712899d702d"
+  ],
+  "source_record_ids": [
+    "links-1804"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f44b0ac0cb0b9c0866aa5712899d702d"
+    ],
+    "source_record_ids": [
+      "links-1804"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f44b0ac0cb0b9c0866aa5712899d702d",
+          "Plant Name": "Annona squamosa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Annona squamosa Linn.",
+        "source_record_id": "links-1804",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f44b0ac0cb0b9c0866aa5712899d702d"
+      }
+    ],
+    "source_xplant_id": "f44b0ac0cb0b9c0866aa5712899d702d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

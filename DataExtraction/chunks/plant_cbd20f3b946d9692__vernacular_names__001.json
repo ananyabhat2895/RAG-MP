@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_cbd20f3b946d9692__vernacular_names__001",
+  "plant_id": "plant_cbd20f3b946d9692",
+  "plant_name": "Terminalia Arjuna",
+  "botanical_name": "Terminalia arjuna",
+  "botanical_authority": "(ROXB.) WIGHT & ARN.",
+  "family": "COMBRETACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): arjun, kahua bark, kumbuk\nHindi (17): anjan, anjani, arjan, arjan (introduced), arjun, arjun sadado, arjun-sadado, arjuna, jamla, kahu, kahua, kaugach, khawa, koara, koha, kohera, kowa\nKannada (33): arjuna, arjuna mara, belamadi, belematti, belimatti, belimetti, bilee matthi, bilematti, bili matthi, bilimaddi, bilimatti, billimatti, bolmatti, bolumatti, hole matthi, holematthi, holematti, kakubha, kamatti, kora matthi, kudure kivi mara, kudure kivigana mara, kurubha, maddi, neer matthi, neeru matthi, nirmathi, nirmatti, so honne, thore matthi, toramatti, tormatti, vaidairya\nMalayalam (14): attumaruthu, attumarutu, kulamaruthu, marutu, neermaruthu, nirmarutu, pulamatti, vellamaradu, vellamarutu, vellamathi, vellilavu, velumaruthu, velumarutu, venmarutu\nMarathi (14): anjan, arjun, arjuna, arjunladada, arjunsaadada, azun, kahu, nadi-ani, sadura, sanmadat, sanmadath, savimadat, savimadath, shardul\nSanskrit (38): Sanskrit CommentsX arjuna, arjunah, chitrayodhi, dhananjaya, dhanvi, dhavala, gandiri, gandivi, indradru, indradruma, indrasunu, jivaka, kakubha, kakubhah, karaviraka, karnari, kaunteya, kiriti, krishnasarathi, kukubha, nadisarja, pandava, partha, parthah, parttha, phalguna, prithaja, raktarjuna, savyasachi, shambara, shivamallaka, svetavaha, svetavahah, vairantak, vira, virataru, viravriksha, viravrksa\nTamil (53): acokam 2, acumaravaram, arccunam, arccunavirutcam, ariccanamaram, ariccunam@, arrumarutu, aruccunam, attumarudu, attumarutam, attumarutu, curapi7, curapimaram, intiran, karupam, kauntiyam, kolamaruthu, kula marutha, kula-maruthu, kulamarudu, kulamarutu2, marudam, marudha maram, marudu, marukam, maruta maram, marutai, marutam, marutamaram, maruthu, marutu, metikkavikam, metikkavikamaram, mikkuvam, muruthu, naticam2, nirmaddi, nirmarudu, nirmarutu, par marutu, pulanti, putavam, vellai maruda-maram, vellai marutam, vellai-maruthu, vellaimarudu, vellaimarutai, vellaimarutu, vellaimarutu 2, vellaimatti, vellamarda, vellamaruthu, virataru 2\nTelugu (25): eramaddi, erimaddi, erramaddi, erumaddi, kakubhama, kakubhamu, maddi, maochettu, muddy, tella maddi, tella-madoi, tellamaddee, tellamaddi, tellamadi, tellamadoo, tellamadu, thellamaddi, thellamaddi chettu, thellemaddi, thittumaddi, tittu maddi, tittumaddi, vag-maddii, yermaddi, yerramaddi\nTibetan (1): a rdzu na",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99fb9bdc36beb315723723c5c92057a3"
+  ],
+  "source_record_ids": [
+    "links-0152",
+    "links-0153",
+    "links-0154"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99fb9bdc36beb315723723c5c92057a3"
+    ],
+    "source_record_ids": [
+      "links-0152",
+      "links-0153",
+      "links-0154"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99fb9bdc36beb315723723c5c92057a3",
+          "Plant Name": "Terminalia Arjuna",
+          "Status": "Found"
+        },
+        "source_plant_name": "Terminalia Arjuna",
+        "source_record_id": "links-0152",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99fb9bdc36beb315723723c5c92057a3"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99fb9bdc36beb315723723c5c92057a3",
+          "Plant Name": "Terminalia arjuna (Roxb.) W. & A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Terminalia arjuna (Roxb.) W. & A.",
+        "source_record_id": "links-0153",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99fb9bdc36beb315723723c5c92057a3"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99fb9bdc36beb315723723c5c92057a3",
+          "Plant Name": "Terminalia arjuna W. & A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Terminalia arjuna W. & A.",
+        "source_record_id": "links-0154",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99fb9bdc36beb315723723c5c92057a3"
+      }
+    ],
+    "source_xplant_id": "99fb9bdc36beb315723723c5c92057a3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

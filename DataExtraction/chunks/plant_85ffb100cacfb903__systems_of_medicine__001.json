@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_85ffb100cacfb903__systems_of_medicine__001",
+  "plant_id": "plant_85ffb100cacfb903",
+  "plant_name": "Melilotus indica (Linn.) All.",
+  "botanical_name": "Melilotus indica",
+  "botanical_authority": "(L.) ALL.",
+  "family": "FABACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda Botanical Synonyms (2) - Melilotus parviflora BENTH. X Full Botanical citation - Meliotus parviflora Desf.\nSystem of medicine: Fl. Atl. 2: 192. 1799; N.P.Singh &al.\nSystem of medicine: Fl.Maharashtra state\nSystem of medicine: Dicotyledones\nSystem of medicine: 1: Fl.India Ser. 2: 721. 2000. Trifolium indicum THUNB. X Full Botanical citation - Trifolium indicum L. Sp. Pl. 765. 1753; N.P.Singh &al.\nSystem of medicine: 1: Fl.India Ser. 2: 721. 2000.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a5b2cb08bba465bda3575cea801ee97"
+  ],
+  "source_record_ids": [
+    "links-0208"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a5b2cb08bba465bda3575cea801ee97"
+    ],
+    "source_record_ids": [
+      "links-0208"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a5b2cb08bba465bda3575cea801ee97",
+          "Plant Name": "Melilotus indica (Linn.) All.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Melilotus indica (Linn.) All.",
+        "source_record_id": "links-0208",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a5b2cb08bba465bda3575cea801ee97"
+      }
+    ],
+    "source_xplant_id": "6a5b2cb08bba465bda3575cea801ee97",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

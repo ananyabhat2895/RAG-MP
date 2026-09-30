@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_00931418d510b4e2__systems_of_medicine__001",
+  "plant_id": "plant_00931418d510b4e2",
+  "plant_name": "Lochnera rosea",
+  "botanical_name": "Catharanthus roseus",
+  "botanical_authority": "(L.) G.DON",
+  "family": "APOCYNACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk Botanical Synonyms (2) - Lochnera rosea REICHB. X Full Botanical citation - Lochnera rosea (L.) Rchb.\nSystem of medicine: Consp. regn. veg. 134. 1828; S. Karthikeyan & al.\nSystem of medicine: Flowering Plants of India - Dicots. 1: 132. 2009. Vinca rosea L. X Full Botanical citation - Vinca rosea L.\nSystem of medicine: Syst. nat. ed. 10. 2: 944. 1759; S. Karthikeyan & al.\nSystem of medicine: Flowering Plants of India - Dicots. 1: 132. 2009.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66/xclkon/8f8b3bf29623526b943200b3d53f7464"
+  ],
+  "source_record_ids": [
+    "links-1505",
+    "links-1606",
+    "links-1675"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66/xclkon/8f8b3bf29623526b943200b3d53f7464"
+    ],
+    "source_record_ids": [
+      "links-1505",
+      "links-1606",
+      "links-1675"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66/xclkon/8f8b3bf29623526b943200b3d53f7464",
+          "Plant Name": "Lochnera rosea",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lochnera rosea",
+        "source_record_id": "links-1505",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66/xclkon/8f8b3bf29623526b943200b3d53f7464"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66/xclkon/8f8b3bf29623526b943200b3d53f7464",
+          "Plant Name": "Lochnera rosea Reichb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lochnera rosea Reichb.",
+        "source_record_id": "links-1606",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66/xclkon/8f8b3bf29623526b943200b3d53f7464"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66/xclkon/8f8b3bf29623526b943200b3d53f7464",
+          "Plant Name": "Lochnera rosea (Linn.) Reichb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lochnera rosea (Linn.) Reichb.",
+        "source_record_id": "links-1675",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66/xclkon/8f8b3bf29623526b943200b3d53f7464"
+      }
+    ],
+    "source_xplant_id": "6d9f8e9bebdec421ee02eb5709bbca66",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

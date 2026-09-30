@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_b3c71f54ca2b19a0__vernacular_names__001",
+  "plant_id": "plant_b3c71f54ca2b19a0",
+  "plant_name": "Euphorbia dracunculoides Lam.",
+  "botanical_name": "Euphorbia dracunculoides",
+  "botanical_authority": "LAM.",
+  "family": "EUPHORBIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (3): bamburi, ban-bui-jayanti, bumburi\nKannada (4): bilee kaddi, bili kaddi, bili kalli, mandaa mada\nSanskrit (4): Sanskrit CommentsX sankhini, saptala, satala, titali\nTamil (1): tilla-kada\nTelugu (2): tillakaada, tillakada",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b55972fcf5e9efdd711a015e4ddfb5d5"
+  ],
+  "source_record_ids": [
+    "links-1729",
+    "links-1733"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b55972fcf5e9efdd711a015e4ddfb5d5"
+    ],
+    "source_record_ids": [
+      "links-1729",
+      "links-1733"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b55972fcf5e9efdd711a015e4ddfb5d5",
+          "Plant Name": "Euphorbia dracunculoides Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia dracunculoides Lam.",
+        "source_record_id": "links-1729",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b55972fcf5e9efdd711a015e4ddfb5d5"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b55972fcf5e9efdd711a015e4ddfb5d5",
+          "Plant Name": "Euphorbia dracunculoides",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia dracunculoides",
+        "source_record_id": "links-1733",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b55972fcf5e9efdd711a015e4ddfb5d5"
+      }
+    ],
+    "source_xplant_id": "b55972fcf5e9efdd711a015e4ddfb5d5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

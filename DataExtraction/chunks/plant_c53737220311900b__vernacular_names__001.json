@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c53737220311900b__vernacular_names__001",
+  "plant_id": "plant_c53737220311900b",
+  "plant_name": "Myrtus communis Linn.",
+  "botanical_name": "Myrtus communis",
+  "botanical_authority": "L.",
+  "family": "MYRTACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): myrtle\nHindi (3): baragasha, murad, muradvilayatimehndi\nKannada (1): murukulu gida\nMarathi (2): firangimethi, murt\nSanskrit (1): Sanskrit CommentsX gandhamalati\nTamil (6): cativam, kulinaval, sadevam, tevam, tevamamaram, tevarkon\nTelugu (1): chitti jama\nUrdu (12): aas, barg-e-maurid, burg madar, hab-ul-as, habb-ul-aas (murad), hub-ul-as, maurid, murad, murad (aas), murid, ral safaid, tukhm-e-maurid",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b30e470b98a6f96c9b54a8b2cac1888"
+  ],
+  "source_record_ids": [
+    "links-0580"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b30e470b98a6f96c9b54a8b2cac1888"
+    ],
+    "source_record_ids": [
+      "links-0580"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b30e470b98a6f96c9b54a8b2cac1888",
+          "Plant Name": "Myrtus communis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Myrtus communis Linn.",
+        "source_record_id": "links-0580",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b30e470b98a6f96c9b54a8b2cac1888"
+      }
+    ],
+    "source_xplant_id": "1b30e470b98a6f96c9b54a8b2cac1888",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

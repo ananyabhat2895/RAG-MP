@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_9c3a1ed387ac8c72__vernacular_names__001",
+  "plant_id": "plant_9c3a1ed387ac8c72",
+  "plant_name": "Lippia nodiflora Mich.",
+  "botanical_name": "Phyla nodiflora",
+  "botanical_authority": "(L.) GREENE",
+  "family": "VERBENACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (9): bakkan, bhu-kokra, bhuiokra, chota-okra, jal - butti, jal pipali, jalapapili, jalpapli, ludra\nKannada (8): jala pippali, kere hippali, neela hippali, neeru hippali, neeru pippali, nela hippali, nela-hippali, nelahippali\nMalayalam (4): ana-coluppa, kattuttippali, katu-tippali, nirtippali\nMarathi (6): adali, jalapimpali, ratalio, ratolia, ratoliya, vekkan\nSanskrit (16): Sanskrit CommentsX agnijvala, bahushikha, chitrapatri, jalakarna, jalapippali, langali, maharashtri, matsyagandha, pranada, sakuladani, shakuladani, sharadi, toyavallari, trinashita, vasaka, vashira\nTamil (45): btutalai, caivam3, calakirakani, calakkiranitipanam, cempucattumuli2, cetitta, civakarnanki, ilatcumi2, kampanatakarai, kattuttippili, kirumutalatai, kotikkaccirukam, mulakalakkoti, mulakalam, nakacinku, navati, nilappippili, perumpotutalaikkoti, podootalei, podutalai, podutalei, poduthalai, poduthalai kudineer, poduthuvalai, ponnankani, potkalam, potta, potudalai, potutalai, potutilai, potuttalai, purcatam, putatalai, talaibodam, talaipotakam, talaipotam, talamputam, talapotam, tipani2, tosakkinakunmanacini, toyapanam, toytalai, toytalaikkoti, vannikai, vannikaikkoti\nTelugu (5): bokenaku, bokkena, gajapippala-kada, mosalipappu, neeru pippali kada\nUrdu (1): bukun booti",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/93433ae3241998392139c08cf476ecee"
+  ],
+  "source_record_ids": [
+    "links-0757",
+    "links-1171"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/93433ae3241998392139c08cf476ecee"
+    ],
+    "source_record_ids": [
+      "links-0757",
+      "links-1171"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/93433ae3241998392139c08cf476ecee",
+          "Plant Name": "Lippia nodiflora Mich.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lippia nodiflora Mich.",
+        "source_record_id": "links-0757",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/93433ae3241998392139c08cf476ecee"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/93433ae3241998392139c08cf476ecee",
+          "Plant Name": "Lippia nodiflora",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lippia nodiflora",
+        "source_record_id": "links-1171",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/93433ae3241998392139c08cf476ecee"
+      }
+    ],
+    "source_xplant_id": "0168ddb652e357ac3bf768a36264f947",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

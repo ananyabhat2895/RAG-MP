@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_7d7c9ba1bbb32713__vernacular_names__001",
+  "plant_id": "plant_7d7c9ba1bbb32713",
+  "plant_name": "Aegle marmelos",
+  "botanical_name": "Aegle marmelos",
+  "botanical_authority": "(L.) CORREA EX. SCHULTZ",
+  "family": "RUTACEAE",
+  "section": "vernacular_names",
+  "content": "English (5): bael fruit, bel-tree, beli, bengal quince, golden apple\nHindi (15): bael, bael sripal, beel, beeley, beelgiri, bel, bel patri, bel-patra, bello, bil, bilva, si-phal, siri-phal, sirphal, sri-phal\nKannada (20): baelada mara, belapatre, belavina, belavina mara, bellapatre, bilapatri, bilapatri-hannu, biliptari, billadu, bilpathre, bilpatre, bilpatri, bilpattiri, bilva, bilva pathre, bilva patre, bilvapatre, byaalada hannu, kumbala, malura\nMalayalam (10): covalam, covalum, koovalam, kovalam, kulakam, kuvalam, kuvalap-pazham, kuvvalam, mavilavu, vilvam\nMarathi (5): bael, baela, bel, bili, vel\nSanskrit (63): Sanskrit CommentsX Sanskrit Name - BilvaAuthor CommentsChunekar: Identified with the species Dr Bapalal Vaidya: Identified with the species P.V.Sharma: Identified with the speciesadhararuha, aritaki, asholam, atimangaliya, balva, bilva, bilvah, bilvam, bilvaphalam, bivalva, duraruha, gandhagarbha, gandhapatra, gohki, granthila, hridyagandha, kantakadhya, kantaki, kapitana, karkatavha, lakshmiphala, mahakapitha, mahakapithakhya, mahaphala, mahaphalah, malura, malurah, mangalya, nilamallika, patrashreshtha, pitaphala, putivata, sadaphala, sailusa, sailusah, salatuh, samirasara, sandilya, sandilyah, sangrahi, satyadharma, satyaphala, shailapatra, shailusha, shalatu, shalya, shandilya, shivadruma, shiveshtha, shriphala, sitanuna, sivadrumah, sriphal, sriphala, sriphalah, sunitika, tripatra, trishakhapatra, trishikha, vilva, vilvah, vilvaka, vilvapesika",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858"
+  ],
+  "source_record_ids": [
+    "links-0358",
+    "links-0359"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858"
+    ],
+    "source_record_ids": [
+      "links-0358",
+      "links-0359"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858",
+          "Plant Name": "Aegle marmelos",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aegle marmelos",
+        "source_record_id": "links-0358",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858",
+          "Plant Name": "Aegle marmelos Corr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aegle marmelos Corr.",
+        "source_record_id": "links-0359",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858"
+      }
+    ],
+    "source_xplant_id": "7b3ca01fe9518816abcdf821a6675858",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

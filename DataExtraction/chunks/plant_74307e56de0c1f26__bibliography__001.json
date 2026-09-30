@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_74307e56de0c1f26__bibliography__001",
+  "plant_id": "plant_74307e56de0c1f26",
+  "plant_name": "Clematis triloba",
+  "botanical_name": "Clematis triloba",
+  "botanical_authority": "HEYNE",
+  "family": "RANUNCULACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-1\nBibliography entry: title: Title - Flora of Gujarat State Vol 1\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1334cc2a4429e00ae0911dfb57dac9db"
+  ],
+  "source_record_ids": [
+    "links-1319"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1334cc2a4429e00ae0911dfb57dac9db"
+    ],
+    "source_record_ids": [
+      "links-1319"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1334cc2a4429e00ae0911dfb57dac9db",
+          "Plant Name": "Clematis triloba",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clematis triloba",
+        "source_record_id": "links-1319",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1334cc2a4429e00ae0911dfb57dac9db"
+      }
+    ],
+    "source_xplant_id": "1334cc2a4429e00ae0911dfb57dac9db",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

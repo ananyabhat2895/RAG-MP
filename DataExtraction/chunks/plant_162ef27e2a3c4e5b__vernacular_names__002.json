@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_162ef27e2a3c4e5b__vernacular_names__002",
+  "plant_id": "plant_162ef27e2a3c4e5b",
+  "plant_name": "Butea monosperma",
+  "botanical_name": "Butea monosperma",
+  "botanical_authority": "(LAM.) TAUB.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (133): ankarikam, ankaritam, antaraputpam, carapala, cavulaka, cayikkari, cayikkarimaram, cira, cirettam, ciyu, cuccam, elaiporasu, ilaippuracai, ilaippuracamaram, irattaputpam, kalavacu, kali, kali1@, kali2, kalicceti, kaliram, kampiram, kancikai, kattumurukku, kettimekitamaram, kettimetikam, kincukam, kincuki, kinjugam, kirumicatturu, kiruminacam, kirumisatturu, mukkampuyam, mukkappuyam, mukkukkavalam, mukkukkavalamaram, mullumurukku 1, mullumurunkai 1, murkampoo, murrukku, murukkam, murukkam pu, murukkam vittu, murukkampu, murukkan, murukkan vidai, murukkan-maram, murukkanmaram, murukkilai, murukku, mutpalacu, mutpalacumaram, nervanikam, nervanikamaram, palacam, palacu, palacumaram, palasam, palasham, palasu, paliru, paliruvi, parasa, parasu, pariyam1, pauttiramurunkai#, pauttiramurunkai@, pinayakkam, pinayakkamaram, piramataru 1@, piramataru 2, pirocanam, pirocanam#, pirocanam@, placu, pokamikavaci, porasu, porasum cottay, porasum verei, pun murunkai ver, punamurrungai, punamurukku, punamurukku 1, punamurunkai 1, pungu, punku 1, puntanar, puntunar, pupalas, puppalacu, puracam, puracampattai, puracampu, puracu, puracumaram, puraicu, puraishu, purashu, purasu, purocu, putattunar, takar, takaru2, takarumaram, tikkuru#, tikkuru@, tipanaracam, tiripatcakam, tiriviruntam, tirkkapalai2, vakkiraputpam, vallai, vallaimaram, valliru, vallirumaram, vammaram 1, vanapattimam, vanapattimaram, vanapattiram, vanapattiramaram, vanapattiyam, velataram 1, velataramaram 1, velittukam, velittukamaram, vikacitam, vikacitamaram, vipannakam, vippirappiriyam, virumataru, vita, vitari, vitaricceti\nTelugu (22): kimshukamu, kimsukamu, maduga, mataka, modagu, moduga, moduga chettu, moduga-chettu, modugu, mooduga, mothu, muduga, palaashamu, paladul, palasamu, palashamu, tellamoduga, thellamoduga, togaramoduga, togarnmoduga, togarumoduga, vatapodhamu\nTibetan (3): rgya skyegs, rgya skyegs sin, tshos-sin\nUrdu (13): chunia gond, dhak, dhak (tesu), gond chunya, gond dhak, gul-e-tesu, palas, palas papra, palashpapra, palaspapra (dhak), poast dhak, samagh-e-dhak, tesu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea"
+  ],
+  "source_record_ids": [
+    "links-0700",
+    "links-1420",
+    "links-1421"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea"
+    ],
+    "source_record_ids": [
+      "links-0700",
+      "links-1420",
+      "links-1421"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea",
+          "Plant Name": "Butea monosperma",
+          "Status": "Found"
+        },
+        "source_plant_name": "Butea monosperma",
+        "source_record_id": "links-0700",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea",
+          "Plant Name": "Butea monosperma (Lam.) Kuntze.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Butea monosperma (Lam.) Kuntze.",
+        "source_record_id": "links-1420",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea",
+          "Plant Name": "Butea monosperma (Linn.) Kuntze.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Butea monosperma (Linn.) Kuntze.",
+        "source_record_id": "links-1421",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea"
+      }
+    ],
+    "source_xplant_id": "cb8c6123872fb49d5b8ffb3be64cabea",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

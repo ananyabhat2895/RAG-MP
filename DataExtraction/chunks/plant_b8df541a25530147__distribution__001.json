@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b8df541a25530147__distribution__001",
+  "plant_id": "plant_b8df541a25530147",
+  "plant_name": "Fagopyrum tataricum Gaertn.",
+  "botanical_name": "Fagopyrum tataricum",
+  "botanical_authority": "(L.) GAERTN.",
+  "family": "POLYGONACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16dba29598ef4204b7a6c4e803b3cc81"
+  ],
+  "source_record_ids": [
+    "links-2020"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16dba29598ef4204b7a6c4e803b3cc81"
+    ],
+    "source_record_ids": [
+      "links-2020"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16dba29598ef4204b7a6c4e803b3cc81",
+          "Plant Name": "Fagopyrum tataricum Gaertn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Fagopyrum tataricum Gaertn.",
+        "source_record_id": "links-2020",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16dba29598ef4204b7a6c4e803b3cc81"
+      }
+    ],
+    "source_xplant_id": "16dba29598ef4204b7a6c4e803b3cc81",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_cfae4a0338baef3d__vernacular_names__001",
+  "plant_id": "plant_cfae4a0338baef3d",
+  "plant_name": "Ricinus communis",
+  "botanical_name": "Ricinus communis",
+  "botanical_authority": "L.",
+  "family": "EUPHORBIACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): castor oil, castor oil plant, palma-christi, wild castor\nHindi (24): aerand, andi, arand, arand-ke-binj, arandi, arandi-ka-per, arandi-ke-binj, arandka-per, arend, castor, chhoti-arand, chhoti-arand-ka-per, chhoti-arand-ke-binj, chhoti-arandi, chhoti-arandi-ka-per, chhoti-arandi-ke-binj, endi, erand, erandi, erend, ind, irandia, naudi, rand\nKannada (19): alambuda, aralu, arudalu, audla, avudala, avudalu, biliga ondale, chitta haralu, chittaralu, chittuharalu, cittuharalu, eeranda, eranda, haralu, karala, manda, oudla, panchangula, vardhamana\nMalayalam (20): amandam, avanacu, avanak, avanakka, avanakkinkuru, avanakku, chittamanakku, chittavanaku, citavanakoo, cittamanakku, erandam, gandharvahastakam, gandharvvahastakam, kotta, pancangulam, pandiavanak, pandiyavanakku, panjanagulam, pantiyavanakku, varddhamanam\nMarathi (6): aerandi, erand, erandi, erendi, vhadli-eramdo, yarandicha\nSanskrit (54): Sanskrit CommentsX amanda, amangala, bhanda, chankuka, chitrabija, chitraka, citra, citrabija, citraka, dirghadantaka, eranda, erandah, gandharavahasthah, gandharvahasta, gandharvahastaka, gandharvahastakah, hastikarna, hastiparnaka, ishta, kanta, ndataila, oancangulah, pancangula, pancangulah, pancangulavatari, panchangula, panchangulam, panjangula, raktaeranda, rubu, ruvuka, shukla, shulashatru, suklah, svehaprada, taruna, triputi, triputiphala, tuchhadru, urubaka, urubu, urubuka, usravuka, uttanapatraka, vardhamana, vardhamanaka, vatari, vuka, vyadambaka, vyadatvaka, vyaghradala, vyaghrapuccha, vyaghrapuchha, yeranda",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab8b2a15b1ed94d74b5d9605be29a51f"
+  ],
+  "source_record_ids": [
+    "links-0486",
+    "links-0565"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab8b2a15b1ed94d74b5d9605be29a51f"
+    ],
+    "source_record_ids": [
+      "links-0486",
+      "links-0565"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab8b2a15b1ed94d74b5d9605be29a51f",
+          "Plant Name": "Ricinus communis",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ricinus communis",
+        "source_record_id": "links-0486",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab8b2a15b1ed94d74b5d9605be29a51f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab8b2a15b1ed94d74b5d9605be29a51f",
+          "Plant Name": "Ricinus communis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ricinus communis Linn.",
+        "source_record_id": "links-0565",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab8b2a15b1ed94d74b5d9605be29a51f"
+      }
+    ],
+    "source_xplant_id": "ab8b2a15b1ed94d74b5d9605be29a51f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

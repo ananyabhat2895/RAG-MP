@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_e4eec2d2317b72b4__botanical_synonyms__001",
+  "plant_id": "plant_e4eec2d2317b72b4",
+  "plant_name": "Gymnema sylvestre R. Br.",
+  "botanical_name": "Gymnema sylvestre",
+  "botanical_authority": "R.BR.",
+  "family": "ASCLEPIADACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Periploca sylvestris RETZ. X Full Botanical citation - Periploca sylvestris Retz., Observ. bot. 2: 15. 1781; S. Karthikeyan & al., Flowering Plants of India - Dicots. 1: 171. 2009.\nSynonym: Periploca sylvestris RETZ.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b"
+  ],
+  "source_record_ids": [
+    "links-0054",
+    "links-1281"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b"
+    ],
+    "source_record_ids": [
+      "links-0054",
+      "links-1281"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b",
+          "Plant Name": "Gymnema sylvestre R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gymnema sylvestre R. Br.",
+        "source_record_id": "links-0054",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b",
+          "Plant Name": "Gymnema sylvestre",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gymnema sylvestre",
+        "source_record_id": "links-1281",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b"
+      }
+    ],
+    "source_xplant_id": "59a883322a70a566044a436da0136c5b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

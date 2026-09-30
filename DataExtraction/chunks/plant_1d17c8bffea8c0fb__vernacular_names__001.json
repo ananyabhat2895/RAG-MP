@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_1d17c8bffea8c0fb__vernacular_names__001",
+  "plant_id": "plant_1d17c8bffea8c0fb",
+  "plant_name": "Anamirta cocculus W. & A.",
+  "botanical_name": "Anamirta cocculus",
+  "botanical_authority": "(L.) WIGHT & ARN.",
+  "family": "MENISPERMACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): cocculus indicus, fish berries, picrotoxin\nHindi (4): jermae, kakamari, kakmari, kakmari-ke-binj\nKannada (20): chiplothi, chippula kaayi, chipula kolli, chipulu, ciplotte, cipullukolli, cipulu, garuda phala, haenu beeja, kaage maari, kaagemaari, kaaka maari, kaakamaari, kaaki soppu gadde, kaakkisoppu gade, kagemari, kakamari, kakamari-bija, kakisoppugadde, kakkisoppugade\nMalayalam (25): anakrytu, anamrytu, garalaphala, garaphala, kaandakaconuveh, kantakakonnuveli, kantakakunavam, karanta-kattin-kaya, karantakam, kollakkaya, meenanu, minnannu, miunannu, nacattinkayi, naccattinkaya, nanjinkuru, nanjukuru, nanninkuru, pellakkaya, pettumarunnu, polla, pollaconuveh, pollak-kaya, pollakkaya, pullukunavam\nMarathi (6): garudaphal, kaakmaaari, kaarvi, kadu-phal, kakmari, karwi\nSanskrit (11): Sanskrit CommentsX dhvankshanakhi, garalaphala, kakadani, kakahva, kakamari, kakanashika, kakaphala, kakmari, kaphala, raktala, raktika\nTamil (24): cantiropam, kakacollie verei, kakakulli, kakamari, kakanacam, kakkai kolli, kakkai-k-kolli, kakkaikolli, kakkakolivirai, kakkakoly virai, kakkakolyvirai, kakkay-k-kolli, kakkay-kolli-virai, kakkayk kolli, kakkaykkolli, kakkaykolli, kakkaykollivirai, muratayam, naicikam, nancukkottai, pen kottai, pen-kottai, penkottai, vayacam\nTelugu (13): kaaka maari, kaaki chempa, kaka-mari, kakamari, kaki-champa, kakichempoo, kakmari, kodi thige, koditeega, koditige, thippathige, tippateega, tippatige\nUrdu (1): mahijehreh",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67e26f250ed5838fe00e5c4cba5dd39f"
+  ],
+  "source_record_ids": [
+    "links-0836",
+    "links-0837"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67e26f250ed5838fe00e5c4cba5dd39f"
+    ],
+    "source_record_ids": [
+      "links-0836",
+      "links-0837"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67e26f250ed5838fe00e5c4cba5dd39f",
+          "Plant Name": "Anamirta cocculus W. & A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Anamirta cocculus W. & A.",
+        "source_record_id": "links-0836",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67e26f250ed5838fe00e5c4cba5dd39f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67e26f250ed5838fe00e5c4cba5dd39f",
+          "Plant Name": "Anamirta cocculus Wi. & Arn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Anamirta cocculus Wi. & Arn.",
+        "source_record_id": "links-0837",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67e26f250ed5838fe00e5c4cba5dd39f"
+      }
+    ],
+    "source_xplant_id": "67e26f250ed5838fe00e5c4cba5dd39f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

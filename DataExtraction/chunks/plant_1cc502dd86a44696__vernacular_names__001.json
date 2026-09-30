@@ -1,0 +1,93 @@
+{
+  "chunk_id": "plant_1cc502dd86a44696__vernacular_names__001",
+  "plant_id": "plant_1cc502dd86a44696",
+  "plant_name": "Sesbania sesban (Linn.) Merr.",
+  "botanical_name": "Sesbania sesban",
+  "botanical_authority": "(L.) MERR.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): common sesban, egyptian rattle pod, sesban\nHindi (12): dhandiain, ekad, jainti, jait, janjhan, jayanti, jet, jetrasin, jhijam, jhijan, rasin, rawasan\nKannada (12): arasina jeeragi, arasinagurgi, arasinajinangi, arisina jeenangi, arisinajinangi, jayanthi, jayanti, jeenangi, jinangi, karee jeenangi, karijeenangi-mara, karijinangi\nMalayalam (7): cempa, chempa, kedangu, kitannu, mellitali, nellittali, shempa\nMarathi (9): jaanjana, janjan, jayat, jayath, joth, karumsembai, sevari, shevari, shewari\nSanskrit (13): Sanskrit CommentsX balamota, jaintjaintar, jaya, jayanti, jayantika, jayaya, jyantika, nadeyi, raja, rajam, suksmamula, suksmapatra, vaijayanti\nTamil (60): acanapanni 1, arakkukatti, arakkuvakatti, asnapanni, cakutai, calayapattini, caralakotaramaram, caranakotaram, catari, cayanti1, celuttakan, cempai, cempai1, cempaimaram, ceyantiyacam, champai, chembai, chempai, chittakatti, cintuci, cintukimaram, ciriyamaratti, ciriyamatti, cirrakatti, citalam2, citalankay, cittakatti, cittatatti, cittuvam, civappuccirrakatti, cumatakam, cutcumamulam, iyakatam1, iyakatutumaram, kanakam#, karumsembai, karuncempai, karuncirrakatti, karuncittakattimaram, karunjembai, karunjembi, kataikkilincamuli, kayanteriyan, marutantamuli, nellittali, palakonta, paracita, payacumiruta, piccakatti, piccakkatti, piccankatti, sagudai, sembai, sithagathi, sittagatti, turavi1, turuparitamaram, umaritamaram, uparacitam, vintacam\nTelugu (12): dzalugu, jalugu, lingachima, lingacimma, lingashimma, mallasominta, nallasominta, nullasomuttie, somanti, sominta, somintha, suiminta\nUrdu (1): jait",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16"
+  ],
+  "source_record_ids": [
+    "links-0783",
+    "links-0784",
+    "links-0785",
+    "links-0786",
+    "links-0787"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16"
+    ],
+    "source_record_ids": [
+      "links-0783",
+      "links-0784",
+      "links-0785",
+      "links-0786",
+      "links-0787"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16",
+          "Plant Name": "Sesbania sesban (Linn.) Merr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesbania sesban (Linn.) Merr.",
+        "source_record_id": "links-0783",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16",
+          "Plant Name": "Sesbania sesban Merrill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesbania sesban Merrill.",
+        "source_record_id": "links-0784",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16",
+          "Plant Name": "Sesbania sesban Merrill. Var. Bicolor W. & A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesbania sesban Merrill. Var. Bicolor W. & A.",
+        "source_record_id": "links-0785",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16",
+          "Plant Name": "Sesbania sesban Merrill. Var. Picta Prain",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesbania sesban Merrill. Var. Picta Prain",
+        "source_record_id": "links-0786",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16",
+          "Plant Name": "Sesbania sesban Merrill. Var. Typica Prain",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesbania sesban Merrill. Var. Typica Prain",
+        "source_record_id": "links-0787",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16"
+      }
+    ],
+    "source_xplant_id": "84f35349cc3375441fa3f0ee125fee16",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

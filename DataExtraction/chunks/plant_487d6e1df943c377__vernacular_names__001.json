@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_487d6e1df943c377__vernacular_names__001",
+  "plant_id": "plant_487d6e1df943c377",
+  "plant_name": "Rheum nobile Hook. f. & Thomas",
+  "botanical_name": "Rheum nobile",
+  "botanical_authority": "HOOK.F. & THOMS",
+  "family": "POLYGONACEAE",
+  "section": "vernacular_names",
+  "content": "Sanskrit (2): Sanskrit CommentsX amlaparni, ekavira",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e321b5fda24746fd21196a9864b12952"
+  ],
+  "source_record_ids": [
+    "links-0103",
+    "links-0553"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e321b5fda24746fd21196a9864b12952"
+    ],
+    "source_record_ids": [
+      "links-0103",
+      "links-0553"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e321b5fda24746fd21196a9864b12952",
+          "Plant Name": "Rheum nobile Hook. f. & Thomas",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rheum nobile Hook. f. & Thomas",
+        "source_record_id": "links-0103",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e321b5fda24746fd21196a9864b12952"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e321b5fda24746fd21196a9864b12952",
+          "Plant Name": "Rheum nobile Hook. f. & Thomas.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rheum nobile Hook. f. & Thomas.",
+        "source_record_id": "links-0553",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e321b5fda24746fd21196a9864b12952"
+      }
+    ],
+    "source_xplant_id": "e321b5fda24746fd21196a9864b12952",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_49acc341cbde0172__systems_of_medicine__001",
+  "plant_id": "plant_49acc341cbde0172",
+  "plant_name": "Ananas comosus (Linn.) Merr.",
+  "botanical_name": "Ananas comosus",
+  "botanical_authority": "(L.) MERR.",
+  "family": "BROMELIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk Botanical Synonyms (2) - Ananas sativus SCHULT.F. Bromelia ananas L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55c2d936ec6213a126e67e6e7c3ca5ba"
+  ],
+  "source_record_ids": [
+    "links-0124"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55c2d936ec6213a126e67e6e7c3ca5ba"
+    ],
+    "source_record_ids": [
+      "links-0124"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55c2d936ec6213a126e67e6e7c3ca5ba",
+          "Plant Name": "Ananas comosus (Linn.) Merr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ananas comosus (Linn.) Merr.",
+        "source_record_id": "links-0124",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55c2d936ec6213a126e67e6e7c3ca5ba"
+      }
+    ],
+    "source_xplant_id": "55c2d936ec6213a126e67e6e7c3ca5ba",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

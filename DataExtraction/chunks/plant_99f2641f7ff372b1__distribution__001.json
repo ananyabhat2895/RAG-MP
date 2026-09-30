@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_99f2641f7ff372b1__distribution__001",
+  "plant_id": "plant_99f2641f7ff372b1",
+  "plant_name": "Cyperus esculentus Linn.",
+  "botanical_name": "Cyperus esculentus",
+  "botanical_authority": "L.",
+  "family": "CYPERACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 3\nDistribution entry: author: Author - Ed B D Sharma, S Karthikeyan, N P Singh; distribution: Distribution; title: Title - Flora of Maharashrta State (Monocotyledons)\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 2\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1865b973f959e7341296ddc186ea8dfd"
+  ],
+  "source_record_ids": [
+    "links-0999"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1865b973f959e7341296ddc186ea8dfd"
+    ],
+    "source_record_ids": [
+      "links-0999"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1865b973f959e7341296ddc186ea8dfd",
+          "Plant Name": "Cyperus esculentus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cyperus esculentus Linn.",
+        "source_record_id": "links-0999",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1865b973f959e7341296ddc186ea8dfd"
+      }
+    ],
+    "source_xplant_id": "1865b973f959e7341296ddc186ea8dfd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

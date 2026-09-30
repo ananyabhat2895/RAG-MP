@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_b550ffe54fc38cd9__vernacular_names__001",
+  "plant_id": "plant_b550ffe54fc38cd9",
+  "plant_name": "Spondias pinnata Kurz.",
+  "botanical_name": "Spondias pinnata",
+  "botanical_authority": "(L.F.) KURZ.",
+  "family": "ANACARDIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (9): amara, ambara, ambodha, ambra, amra, amre-ka-per, jangli am, jangli-am, jungli-am\nKannada (35): amate, amate kaayi, amate mara, amatekayi vrksamla, amatemara, amati, ambadi, ambata, ambate, ambatemarra, ambatta, ambe, ammate, amte, amte kaayi, amti, avate kaayi, avatekayi, goddamate, gwoddan, kaadamate, kaadamte, kaadu amate, kadambate, kadambati, kadambatte, kodamate, marahunase, marahunise, murthiga, pullile, pundi, umhati, umme, vrykshamla\nMalayalam (17): ambalam, ambayam, ambazha, ambazham, ambolam, ampalam, ampazham, anpazham, katampa, kattampalam, kattampazham, mampuli, pitanam, pulimavu, puliyilai, pullile, ummalti\nMarathi (7): aamuvachaar, amb, ambaada, ambada, ambado, ran-amba, ran-ambado\nSanskrit (27): Sanskrit CommentsX advagabhogya, ambaka, ambarataka, ambarisha, ambastha, amlavataka, amrata, amratah, amrataka, amratakah, bhringiphalla, kapichuda, kapichuta, kapicutah, kapipriya, kapitana, kapitanah, madhuramlaka, markatamra, markatamrah, pitana, pitanaka, pittavasksha, rasadhya, tanukshiri, tungi, varshapaki\nTamil (70): amalavatakam, ambalam, ambiram, amiravatikam, ampalam, ampalam#, ampalam@, amputtai, appirakam, atiyamilam, attuvakapokkiyam, ayaccempuyartti, ayakkira1, ayakkiramam, cacakaram, cekappumarimankay, cemmantan, cincam2, cutam2@, egin, eginam, ekinam3, ibangam, kanalma, kanalmamaram, kanamari, kanma, katambalam, kattimagirankai, kattuma, kattuma1, kattumagirangai, kattumavu, kincam2, kincitam2, kincittu2, kintikam2, kirantikam2, kolamma, kunkili, malai, mambulichi, mampuli, mampuliccai, mampulicci, mampulichi, mari, mari mankay, mari-manchedi, mariccan, marima, marima#, marima@, marimamaram, marimanceti, marimanga, marimankay, mariyankay, mariyankaycceti, marumankay, marututai, miriyankay, nalini, naraitiraimarappanni1, palamalaccam, pirakastaki, pirakastakimaram, pulima, pulimankay 1, ukin\nTelugu (32): aamrathakamu, adavi mamidi, adaviemamadie, adavimaamena, adavimaamidi, adavimamadi, adavimamena, adavimamidi, amatamu, amatum, ambaala chettu, ambaalamu, ambada, ambala, ambala-chettu, ambalamu, ambara, ampilepi chettu, amratakamu, aravimamadi, avata maamidi, ivura-mamidi, ivurumaamidi, ivurumamidi, kondamaamidi, kondamamidi, peetha vrikshamu, pita, pitavrukshamu, sitavrikshamu, sitavrukshamu, sitavrykshamu\nTibetan (9): a mara and sin pa ko (d), a mra and sin bra ka, a mra and sin bra ko (p), a mra ta ka, a smra ta ka, bska, bsko, na di, no di (p & d)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc3cec560f8e0b621a87c3ccd6bd42c1"
+  ],
+  "source_record_ids": [
+    "links-0119",
+    "links-0120"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc3cec560f8e0b621a87c3ccd6bd42c1"
+    ],
+    "source_record_ids": [
+      "links-0119",
+      "links-0120"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc3cec560f8e0b621a87c3ccd6bd42c1",
+          "Plant Name": "Spondias pinnata Kurz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Spondias pinnata Kurz.",
+        "source_record_id": "links-0119",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc3cec560f8e0b621a87c3ccd6bd42c1"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc3cec560f8e0b621a87c3ccd6bd42c1",
+          "Plant Name": "Spondias pinnata (Linn.f.)",
+          "Status": "Found"
+        },
+        "source_plant_name": "Spondias pinnata (Linn.f.)",
+        "source_record_id": "links-0120",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc3cec560f8e0b621a87c3ccd6bd42c1"
+      }
+    ],
+    "source_xplant_id": "dc3cec560f8e0b621a87c3ccd6bd42c1",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

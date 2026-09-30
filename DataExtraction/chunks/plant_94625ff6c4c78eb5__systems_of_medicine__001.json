@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_94625ff6c4c78eb5__systems_of_medicine__001",
+  "plant_id": "plant_94625ff6c4c78eb5",
+  "plant_name": "Actiniopteris dichotoma Bedd.",
+  "botanical_name": "Actiniopteris radiata",
+  "botanical_authority": "(SW.) LINK",
+  "family": "ACTINIOPTERIDACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk Botanical Synonyms (2) - Actiniopteris australis (L.F.) LINK Actiniopteris dichotoma BEDD.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c65a146c4229249af042aa4bc939d153/xclkon/d9acf89f65f3437a2ddd7cf67ba41f1e"
+  ],
+  "source_record_ids": [
+    "links-0291"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c65a146c4229249af042aa4bc939d153/xclkon/d9acf89f65f3437a2ddd7cf67ba41f1e"
+    ],
+    "source_record_ids": [
+      "links-0291"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c65a146c4229249af042aa4bc939d153/xclkon/d9acf89f65f3437a2ddd7cf67ba41f1e",
+          "Plant Name": "Actiniopteris dichotoma Bedd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Actiniopteris dichotoma Bedd.",
+        "source_record_id": "links-0291",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c65a146c4229249af042aa4bc939d153/xclkon/d9acf89f65f3437a2ddd7cf67ba41f1e"
+      }
+    ],
+    "source_xplant_id": "c65a146c4229249af042aa4bc939d153",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_4a89564bac663bbe__systems_of_medicine__001",
+  "plant_id": "plant_4a89564bac663bbe",
+  "plant_name": "Carum bulbocastanum Koch.",
+  "botanical_name": "Bunium persicum",
+  "botanical_authority": "(BOISS.) FEDT.",
+  "family": "APIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk Botanical Synonyms (1) - Carum bulbocastanum AUCT. NON KOCH:C.B.CLARKE X Full Botanical citation - Carum bulbocastanum sensu C.B. Clarke in Hook.f.\nSystem of medicine: Fl. Brit. India 2: 681. 1879 non W.D.J.Koch\nSystem of medicine: 1824; S. Karthikeyan & al.\nSystem of medicine: Flowering Plants of India - Dicots. 1: 102. 2009.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b46e111b609c4581210ea4ca8192a04/xclkon/0c83b5ffb3f024de6d5aabc862a8287b"
+  ],
+  "source_record_ids": [
+    "links-0798",
+    "links-1076"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b46e111b609c4581210ea4ca8192a04/xclkon/0c83b5ffb3f024de6d5aabc862a8287b"
+    ],
+    "source_record_ids": [
+      "links-0798",
+      "links-1076"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b46e111b609c4581210ea4ca8192a04/xclkon/0c83b5ffb3f024de6d5aabc862a8287b",
+          "Plant Name": "Carum bulbocastanum Koch.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Carum bulbocastanum Koch.",
+        "source_record_id": "links-0798",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b46e111b609c4581210ea4ca8192a04/xclkon/0c83b5ffb3f024de6d5aabc862a8287b"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b46e111b609c4581210ea4ca8192a04/xclkon/0c83b5ffb3f024de6d5aabc862a8287b",
+          "Plant Name": "Carum bulbocastanum W. Koch.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Carum bulbocastanum W. Koch.",
+        "source_record_id": "links-1076",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b46e111b609c4581210ea4ca8192a04/xclkon/0c83b5ffb3f024de6d5aabc862a8287b"
+      }
+    ],
+    "source_xplant_id": "2b46e111b609c4581210ea4ca8192a04",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4ab7864c8415a799__distribution__001",
+  "plant_id": "plant_4ab7864c8415a799",
+  "plant_name": "Smilax zeylanica Linn.",
+  "botanical_name": "Smilax zeylanica",
+  "botanical_authority": "L.",
+  "family": "SMILACACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)\nDistribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - Ed B D Sharma, S Karthikeyan, N P Singh; distribution: Distribution; title: Title - Flora of Maharashrta State (Monocotyledons)\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8c507db66708c7e8fc120d10205596c"
+  ],
+  "source_record_ids": [
+    "links-1885"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8c507db66708c7e8fc120d10205596c"
+    ],
+    "source_record_ids": [
+      "links-1885"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8c507db66708c7e8fc120d10205596c",
+          "Plant Name": "Smilax zeylanica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Smilax zeylanica Linn.",
+        "source_record_id": "links-1885",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8c507db66708c7e8fc120d10205596c"
+      }
+    ],
+    "source_xplant_id": "f8c507db66708c7e8fc120d10205596c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

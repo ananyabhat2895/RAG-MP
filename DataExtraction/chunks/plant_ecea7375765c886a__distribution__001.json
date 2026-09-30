@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ecea7375765c886a__distribution__001",
+  "plant_id": "plant_ecea7375765c886a",
+  "plant_name": "Mentha spicata Linn. Emend. Nethh.",
+  "botanical_name": "Mentha spicata",
+  "botanical_authority": "L.",
+  "family": "LAMIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8562d20fe43df853f2084537e894be46"
+  ],
+  "source_record_ids": [
+    "links-1570"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8562d20fe43df853f2084537e894be46"
+    ],
+    "source_record_ids": [
+      "links-1570"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8562d20fe43df853f2084537e894be46",
+          "Plant Name": "Mentha spicata Linn. Emend. Nethh.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mentha spicata Linn. Emend. Nethh.",
+        "source_record_id": "links-1570",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8562d20fe43df853f2084537e894be46"
+      }
+    ],
+    "source_xplant_id": "8562d20fe43df853f2084537e894be46",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

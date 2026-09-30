@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_fcf38895302e48fc__bibliography__001",
+  "plant_id": "plant_fcf38895302e48fc",
+  "plant_name": "Zingiber cassumunar Roxb.",
+  "botanical_name": "Zingiber purpureum",
+  "botanical_authority": "ROSC.",
+  "family": "ZINGIBERACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: title: Title - Flora of Maharashrta State (Monocotyledons)\nBibliography entry: title: Title - The Flora of Orissa Vol III",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8bf34852aef42d5e44e1c82922502777/xclkon/795a7d6efc19df80fefa713d54394a7f"
+  ],
+  "source_record_ids": [
+    "links-0144"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8bf34852aef42d5e44e1c82922502777/xclkon/795a7d6efc19df80fefa713d54394a7f"
+    ],
+    "source_record_ids": [
+      "links-0144"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8bf34852aef42d5e44e1c82922502777/xclkon/795a7d6efc19df80fefa713d54394a7f",
+          "Plant Name": "Zingiber cassumunar Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Zingiber cassumunar Roxb.",
+        "source_record_id": "links-0144",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8bf34852aef42d5e44e1c82922502777/xclkon/795a7d6efc19df80fefa713d54394a7f"
+      }
+    ],
+    "source_xplant_id": "8bf34852aef42d5e44e1c82922502777",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

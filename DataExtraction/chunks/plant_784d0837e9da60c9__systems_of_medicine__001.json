@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_784d0837e9da60c9__systems_of_medicine__001",
+  "plant_id": "plant_784d0837e9da60c9",
+  "plant_name": "Erythrina indica Lam.",
+  "botanical_name": "Erythrina variegata",
+  "botanical_authority": "L.",
+  "family": "FABACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (1) - Erythrina indica LAM. X Full Botanical citation - Erythrina indica Lam.\nSystem of medicine: Encycl. 2: 391. 1786; R.D.Gaur\nSystem of medicine: Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes)\nSystem of medicine: TransMedia\nSystem of medicine: Srinagar (Garhwal)\nSystem of medicine: India\nSystem of medicine: 273.1999.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d/xclkon/ffef96b012fd8b5ae25a48a954e3c5df",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d"
+  ],
+  "source_record_ids": [
+    "links-1436",
+    "links-1438",
+    "links-1440"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d/xclkon/ffef96b012fd8b5ae25a48a954e3c5df",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d"
+    ],
+    "source_record_ids": [
+      "links-1436",
+      "links-1438",
+      "links-1440"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d/xclkon/ffef96b012fd8b5ae25a48a954e3c5df",
+          "Plant Name": "Erythrina indica Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Erythrina indica Lam.",
+        "source_record_id": "links-1436",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d/xclkon/ffef96b012fd8b5ae25a48a954e3c5df"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d",
+          "Plant Name": "Erythrina variegata Linn. Var. orientalis (Linn.)",
+          "Status": "Found"
+        },
+        "source_plant_name": "Erythrina variegata Linn. Var. orientalis (Linn.)",
+        "source_record_id": "links-1438",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d",
+          "Plant Name": "Erythrina variegata Linn. var. orientalis (Linn.)",
+          "Status": "Found"
+        },
+        "source_plant_name": "Erythrina variegata Linn. var. orientalis (Linn.)",
+        "source_record_id": "links-1440",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d"
+      }
+    ],
+    "source_xplant_id": "9da4a2d302421acdaade99983bef319d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

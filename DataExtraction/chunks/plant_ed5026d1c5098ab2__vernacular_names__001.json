@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_ed5026d1c5098ab2__vernacular_names__001",
+  "plant_id": "plant_ed5026d1c5098ab2",
+  "plant_name": "Cinnamomum cassia Blume",
+  "botanical_name": "Cinnamomum aromaticum",
+  "botanical_authority": "NEES",
+  "family": "LAURACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): bastard cinnamon, cassia lignea, chinese cinnamon, cinnamomum cassia\nHindi (2): dalchini, daruchini\nKannada (2): dalchini, daruchini\nMalayalam (1): lowangapattai\nMarathi (2): dalchini, daruchini\nSanskrit (9): Sanskrit CommentsX coca, gudatvac, gudatvak, thracham, thwak, tvak, twak, varanga, varangam\nTamil (5): elavangappattai, ilavankappattai, karuvappattai, lavanga pattai, lowangapattai\nTelugu (1): lowangapattai\nTibetan (1): twa dza\nUrdu (10): qirfa (taj), sajaz hindi, saleekha, salikha, sazaj hindi, taj, taj qalmi, taj qalmi nim kofta, tezpat, tezpat nim kofta",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/070a8611df63adbabc863c70655be9c5/xclkon/5150f3a5762515a27a654f409c8d32a9"
+  ],
+  "source_record_ids": [
+    "links-0461",
+    "links-0462",
+    "links-2006"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/070a8611df63adbabc863c70655be9c5/xclkon/5150f3a5762515a27a654f409c8d32a9"
+    ],
+    "source_record_ids": [
+      "links-0461",
+      "links-0462",
+      "links-2006"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/070a8611df63adbabc863c70655be9c5/xclkon/5150f3a5762515a27a654f409c8d32a9",
+          "Plant Name": "Cinnamomum cassia Blume",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum cassia Blume",
+        "source_record_id": "links-0461",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/070a8611df63adbabc863c70655be9c5/xclkon/5150f3a5762515a27a654f409c8d32a9"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/070a8611df63adbabc863c70655be9c5/xclkon/5150f3a5762515a27a654f409c8d32a9",
+          "Plant Name": "Cinnamomum cassia Blume.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum cassia Blume.",
+        "source_record_id": "links-0462",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/070a8611df63adbabc863c70655be9c5/xclkon/5150f3a5762515a27a654f409c8d32a9"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/070a8611df63adbabc863c70655be9c5/xclkon/5150f3a5762515a27a654f409c8d32a9",
+          "Plant Name": "Cinnamomum cassia",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum cassia",
+        "source_record_id": "links-2006",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/070a8611df63adbabc863c70655be9c5/xclkon/5150f3a5762515a27a654f409c8d32a9"
+      }
+    ],
+    "source_xplant_id": "070a8611df63adbabc863c70655be9c5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

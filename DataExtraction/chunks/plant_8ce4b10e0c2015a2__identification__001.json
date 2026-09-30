@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_8ce4b10e0c2015a2__identification__001",
+  "plant_id": "plant_8ce4b10e0c2015a2",
+  "plant_name": "Leptadenia reticulata",
+  "botanical_name": "Leptadenia reticulata",
+  "botanical_authority": "(RETZ.) WIGHT & ARN.",
+  "family": "ASCLEPIADACEAE",
+  "section": "identification",
+  "content": "Plant name: Leptadenia reticulata Botanical name: Leptadenia reticulata Botanical authority: (RETZ.) WIGHT & ARN. Family: ASCLEPIADACEAE Source xplant ID: 5d5a5809b66f48a72e7fd20abfe12443",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5a5809b66f48a72e7fd20abfe12443"
+  ],
+  "source_record_ids": [
+    "links-0807",
+    "links-0808"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5a5809b66f48a72e7fd20abfe12443"
+    ],
+    "source_record_ids": [
+      "links-0807",
+      "links-0808"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5a5809b66f48a72e7fd20abfe12443",
+          "Plant Name": "Leptadenia reticulata",
+          "Status": "Found"
+        },
+        "source_plant_name": "Leptadenia reticulata",
+        "source_record_id": "links-0807",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5a5809b66f48a72e7fd20abfe12443"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5a5809b66f48a72e7fd20abfe12443",
+          "Plant Name": "Leptadenia reticulata W. & A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Leptadenia reticulata W. & A.",
+        "source_record_id": "links-0808",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5a5809b66f48a72e7fd20abfe12443"
+      }
+    ],
+    "source_xplant_id": "5d5a5809b66f48a72e7fd20abfe12443",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

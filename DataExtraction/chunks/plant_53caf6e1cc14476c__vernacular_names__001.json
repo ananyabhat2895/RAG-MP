@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_53caf6e1cc14476c__vernacular_names__001",
+  "plant_id": "plant_53caf6e1cc14476c",
+  "plant_name": "Holoptelea integrifolia Planch.",
+  "botanical_name": "Holoptelea integrifolia",
+  "botanical_authority": "(ROXB.) PLANCHON",
+  "family": "ULMACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (29): banchilla, bandarbati, begana, bisenda, chilbil, chilla, chillil, chilmil, chirbil, chirmil, churil, cibil, dhamna, kalipapri, kandru, kanjeri, kanjeru, kanjois, kanju, karanji-pipal, kasumbro, kusumbro, papad, papari, papri, pardesi, pipri, rajain, rajain pardesi\nKannada (24): aval, beegada mara, beeyada mara, kaladri, kaldri, nilavahi, rahubeeja, rahubija, raobija, rasabija, rasbija, ravubija, tabasi, tapasee mara, tapasi, tapasigida, tapassi, tappasi, tapsi, taspi, tavisi, thapsi, thavasi, thogala\nMalayalam (5): aaval, aval, avil, nettaval, nettavil\nMarathi (15): baaboli, baaval, paapara, papara, papra, vaavla, vamvlo, vavala, vavla, vavli, wavli, wavuli, wawali, wowli, wowoli\nSanskrit (14): Sanskrit CommentsX arari, chirabilva, cirabilva, cirabilvah, ciravilva, cirbilva, karanja, karanji, prakirya, puti, putigandha, putika, putikaranjah, udakirya\nTamil (29): aaya, ari, avali, avil, avil thol, avimaram, awie, aya, ayi, ayil, ayil 2, ayil pattai, ayila-p-pattai, ayila-t-tol, ayili, ayilu-ta-pattai, kalaivallor, kanci, kanji, tabasi, tambachi, tampacci, tanbachi, tapaci#, tapaci@, tenmaram 2, tenpuccimaram, thavasi, vellaya\nTelugu (33): naali, naavara chettu, naavili, nali, namli, naulee, nauli, naulie, navali, navara, navili, nemali, nemalinara, nevali, nevili, nowlee, nowli, pedanevili, pedda nevili, peddanavali, peddanavalieragu, peddanavili, peddanevili, peddanowleeeragu, pulari, putari, tapasi, tapassi, tavisi, thapasi, thapasu, thappachi, thapsi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc770f24c1495e96320e0cc11f45ed25"
+  ],
+  "source_record_ids": [
+    "links-0449"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc770f24c1495e96320e0cc11f45ed25"
+    ],
+    "source_record_ids": [
+      "links-0449"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc770f24c1495e96320e0cc11f45ed25",
+          "Plant Name": "Holoptelea integrifolia Planch.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Holoptelea integrifolia Planch.",
+        "source_record_id": "links-0449",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc770f24c1495e96320e0cc11f45ed25"
+      }
+    ],
+    "source_xplant_id": "cc770f24c1495e96320e0cc11f45ed25",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

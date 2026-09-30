@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2cf784d4239f705c__vernacular_names__001",
+  "plant_id": "plant_2cf784d4239f705c",
+  "plant_name": "Psoralea corylifolia Linn.",
+  "botanical_name": "Psoralea corylifolia",
+  "botanical_authority": "L.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): bawchan seed\nHindi (13): babachi, babchi, babci, bachi, bakhni, bakuci, bavanchi, bavanchiyan, bavchi, bavchiyan, bhavaj, bhavanj, bukchi\nKannada (8): baahujige, baavanchi, baavanchi gida, baavanjee gida, baavuje, bavanchi, karbeck beeja, somaraji\nMalayalam (3): cottam, karkokil, karkokilari\nMarathi (7): baavanchi, babachi, babchi, bavachi, bavachya, bavanchi, bavchi\nSanskrit (53): Sanskrit CommentsX aindavi, andraraji, asitatvacha, avalguja, bakuchi, bakuci, candralekha, candrasakala, chandralekha, chandraprabha, chandri, chvakuchi, indralekha, induraji, indurajika, kalameshi, kalameshika, kamboji, kandughni, kantaka, kantida, krimighna, krishna, krishnaphala, krsnaphala, kushtaghni, kushthahantri, kushthanashini, kustaghni, putigandha, putiphala, putiphali, sasankhalekha, shashilekha, shulotkha, sita, sitavari, soma, somaraja, somaraji, somavalli, somavallika, sugandhakantak, suparnika, suprabha, suvalli, suvallika, tvagadoshapaha, vakoochie, vakuci, valguja, vanguji, vejani\nTamil (68): caivaputi, cantirekam, cantirekarici, cantirinokkam, cilesmanacani, comaraci 2, cuvalli, cuvalyapi, kaarpokarisi, kaarpooga arisi, kappuva arici, kappuvaarici, karakkarunai, karbogarisi, karboka arisi, karkkolam, karkkolvittu, karpo-karishi, karpogam, karpoka arici, karpokam 1, karpokam 2, karpokarici, karpokarishi, karpokarisi, karpoki, karpokkarisi, karpooga arisee, karporgam, karppoku, karppuka, karppuva, karpuka 1, karpuka 2, karpukavarici, karpurakam, karpuva, karpuva arici, karpuva-arishi, karpuvaarici, karpuvarishi, karukolarici, katirekam, kirusnapalam, malampuru, malpurru, malpuru, marpuru, marpuruvarici, marutkavarici, pakuci, palamirutam, pavacittu, pokavarici, vacukikarpam, vakuci 1, vakucivirai, vakucu, valiyapi, vanaci, vanavi, vanaviyarici, varakuca, varakuli, varakuliyarici, varkuca 1, varkuca 2, visakkuttanacani\nTelugu (19): bavancalu, bavanchalu, bavanji, bhaavanji, bhaavanji chettu, bhavanchi-vittu-lu, bhavanchi-vittulu, bhavanji, bogi-vittulu, bogivittulu, kaalaginja, kaalugachha, kalaginja, kalugech-cha-vittulu, kalugechcha, karu-bogi, karu-bogi-vittulu, karubogi, korjashtam\nTibetan (2): so ma ra dza, so ma ra tsa\nUrdu (4): babchi, babechi, bakuchi, bavachi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d5c64dd141617fa93021990a4463e04"
+  ],
+  "source_record_ids": [
+    "links-0262"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d5c64dd141617fa93021990a4463e04"
+    ],
+    "source_record_ids": [
+      "links-0262"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d5c64dd141617fa93021990a4463e04",
+          "Plant Name": "Psoralea corylifolia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Psoralea corylifolia Linn.",
+        "source_record_id": "links-0262",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d5c64dd141617fa93021990a4463e04"
+      }
+    ],
+    "source_xplant_id": "7d5c64dd141617fa93021990a4463e04",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_debca75ca37892fa__images__001",
+  "plant_id": "plant_debca75ca37892fa",
+  "plant_name": "Hordeum vulgare Linn.",
+  "botanical_name": "Hordeum vulgare",
+  "botanical_authority": "L.",
+  "family": "POACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/027f16366dcc94147b4b9c8fc0bd09ee"
+  ],
+  "source_record_ids": [
+    "links-2137"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/027f16366dcc94147b4b9c8fc0bd09ee"
+    ],
+    "source_record_ids": [
+      "links-2137"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/027f16366dcc94147b4b9c8fc0bd09ee",
+          "Plant Name": "Hordeum vulgare Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hordeum vulgare Linn.",
+        "source_record_id": "links-2137",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/027f16366dcc94147b4b9c8fc0bd09ee"
+      }
+    ],
+    "source_xplant_id": "027f16366dcc94147b4b9c8fc0bd09ee",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

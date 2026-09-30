@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_03d8cf78d43b652c__distribution__001",
+  "plant_id": "plant_03d8cf78d43b652c",
+  "plant_name": "Gymnosporia spinosa (Forsk.) Fiori",
+  "botanical_name": "Maytenus senegalensis",
+  "botanical_authority": "(LAM.) EXELL.",
+  "family": "CELASTRACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol I\nDistribution entry: author: Author - C.J SALDHANA; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-2\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58404bfed44cb6699fa1efc8821009da/xclkon/2a03328c206c3c13d1b4eb94cab05a0c"
+  ],
+  "source_record_ids": [
+    "links-2103"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58404bfed44cb6699fa1efc8821009da/xclkon/2a03328c206c3c13d1b4eb94cab05a0c"
+    ],
+    "source_record_ids": [
+      "links-2103"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58404bfed44cb6699fa1efc8821009da/xclkon/2a03328c206c3c13d1b4eb94cab05a0c",
+          "Plant Name": "Gymnosporia spinosa (Forsk.) Fiori",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gymnosporia spinosa (Forsk.) Fiori",
+        "source_record_id": "links-2103",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58404bfed44cb6699fa1efc8821009da/xclkon/2a03328c206c3c13d1b4eb94cab05a0c"
+      }
+    ],
+    "source_xplant_id": "58404bfed44cb6699fa1efc8821009da",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

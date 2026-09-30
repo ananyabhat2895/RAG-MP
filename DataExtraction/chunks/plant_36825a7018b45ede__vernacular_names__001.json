@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_36825a7018b45ede__vernacular_names__001",
+  "plant_id": "plant_36825a7018b45ede",
+  "plant_name": "Uraria picta Desv.",
+  "botanical_name": "Uraria picta",
+  "botanical_authority": "DESV.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (3): dabra, pitvan, shankaraja\nMalayalam (1): muvila\nMarathi (3): pitvan, prisniparni, ranganja\nSanskrit (19): Sanskrit CommentsX andhriparni, chitraparni, citraparni, dhavani, guha, kalasi, kalshi, krostukapucchika, krostuvinna, prishniparni, prishthiparni, prsni, prsniparni, prtakparni, prthakparni, saliparni, shringalvinna, sinhapuchchi, srgalavinna\nTamil (7): cittirappalatai, cittirappalatai#, karumavipitacceti, karumavipitam, palatai, sittirappaladai, utarakomatam\nTelugu (1): kolkuponna\nTibetan (2): kr sna pa rni, pa sna par ni",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4e82744c0c8bde20d33e0ab5275ea5e"
+  ],
+  "source_record_ids": [
+    "links-0175",
+    "links-1548",
+    "links-1549"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4e82744c0c8bde20d33e0ab5275ea5e"
+    ],
+    "source_record_ids": [
+      "links-0175",
+      "links-1548",
+      "links-1549"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4e82744c0c8bde20d33e0ab5275ea5e",
+          "Plant Name": "Uraria picta Desv.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Uraria picta Desv.",
+        "source_record_id": "links-0175",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4e82744c0c8bde20d33e0ab5275ea5e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4e82744c0c8bde20d33e0ab5275ea5e",
+          "Plant Name": "Uraria picta",
+          "Status": "Found"
+        },
+        "source_plant_name": "Uraria picta",
+        "source_record_id": "links-1548",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4e82744c0c8bde20d33e0ab5275ea5e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4e82744c0c8bde20d33e0ab5275ea5e",
+          "Plant Name": "Uraria picta Deso",
+          "Status": "Found"
+        },
+        "source_plant_name": "Uraria picta Deso",
+        "source_record_id": "links-1549",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4e82744c0c8bde20d33e0ab5275ea5e"
+      }
+    ],
+    "source_xplant_id": "f4e82744c0c8bde20d33e0ab5275ea5e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_fdcd5c8a0d83e875__vernacular_names__001",
+  "plant_id": "plant_fdcd5c8a0d83e875",
+  "plant_name": "Cucurbita pepo DC.",
+  "botanical_name": "Cucurbita pepo",
+  "botanical_authority": "L.",
+  "family": "CUCURBITACEAE",
+  "section": "vernacular_names",
+  "content": "English (12): cocozelle, courgette, crookneck, field pumpkin, marrow, pepita, pomion, pumpkin, summer squash, vegetable marrow, vegetable spaghetti, zucchini\nHindi (9): kadimah, konda, kondha, kudimah, kumra, lauka, petha, safed kaddu, safedkaddu\nKannada (4): bileegumbala, boodagumbala, boodugumbala, bude-kumbala-kayi\nMalayalam (2): kumpalam, kumpalanna\nMarathi (2): bhopli, kohala\nSanskrit (7): Sanskrit CommentsX karkaru, kurkaru, kurlaru, kushmanda, kushmandi, kushpandaha, kusmanda\nTamil (13): campal pucani, kaliyana-pashnik-kay, kaliyana-pushinik-kay, kaliyanappucinikkay, kalyana poosuni, kalyanappucani, kul-ppantam, perum pucani, pottai-gammadi, pucani, suraikai, tatiyan kay, vellaippucani\nTelugu (6): boodadegummadi, boodigummadi, budadegummadi, budide-gummadi, pendli-gummadi-kaya, pottigummadi\nTibetan (1): bum sa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/683924de25f6b219baf4d1912bc5cedb"
+  ],
+  "source_record_ids": [
+    "links-0965",
+    "links-1139",
+    "links-1140"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/683924de25f6b219baf4d1912bc5cedb"
+    ],
+    "source_record_ids": [
+      "links-0965",
+      "links-1139",
+      "links-1140"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/683924de25f6b219baf4d1912bc5cedb",
+          "Plant Name": "Cucurbita pepo DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cucurbita pepo DC.",
+        "source_record_id": "links-0965",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/683924de25f6b219baf4d1912bc5cedb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/683924de25f6b219baf4d1912bc5cedb",
+          "Plant Name": "Cucurbita pepo F. I.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cucurbita pepo F. I.",
+        "source_record_id": "links-1139",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/683924de25f6b219baf4d1912bc5cedb"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/683924de25f6b219baf4d1912bc5cedb",
+          "Plant Name": "Cucurbita pepo Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cucurbita pepo Linn.",
+        "source_record_id": "links-1140",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/683924de25f6b219baf4d1912bc5cedb"
+      }
+    ],
+    "source_xplant_id": "683924de25f6b219baf4d1912bc5cedb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

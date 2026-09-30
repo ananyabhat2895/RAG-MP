@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_96150cebe57f8881__bibliography__001",
+  "plant_id": "plant_96150cebe57f8881",
+  "plant_name": "Lodoicea maldivica (Poir.) Pers.",
+  "botanical_name": "Lodoicea maldivica",
+  "botanical_authority": "(POIR.) PERS.",
+  "family": "ARECACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/770f328a0c95044142db38382574f2af"
+  ],
+  "source_record_ids": [
+    "links-1710"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/770f328a0c95044142db38382574f2af"
+    ],
+    "source_record_ids": [
+      "links-1710"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/770f328a0c95044142db38382574f2af",
+          "Plant Name": "Lodoicea maldivica (Poir.) Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lodoicea maldivica (Poir.) Pers.",
+        "source_record_id": "links-1710",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/770f328a0c95044142db38382574f2af"
+      }
+    ],
+    "source_xplant_id": "770f328a0c95044142db38382574f2af",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

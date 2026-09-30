@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8db4bb8a8a3f87bc__vernacular_names__001",
+  "plant_id": "plant_8db4bb8a8a3f87bc",
+  "plant_name": "Salvia aegyptiaca Linn.",
+  "botanical_name": "Salvia aegyptiaca",
+  "botanical_authority": "L.",
+  "family": "LAMIACEAE",
+  "section": "vernacular_names",
+  "content": "Sanskrit (1): Sanskrit CommentsX asvagola\nUrdu (1): balango(tukhm-e-balango)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6de55667981e42e38acc081903432ec6"
+  ],
+  "source_record_ids": [
+    "links-0220"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6de55667981e42e38acc081903432ec6"
+    ],
+    "source_record_ids": [
+      "links-0220"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6de55667981e42e38acc081903432ec6",
+          "Plant Name": "Salvia aegyptiaca Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Salvia aegyptiaca Linn.",
+        "source_record_id": "links-0220",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6de55667981e42e38acc081903432ec6"
+      }
+    ],
+    "source_xplant_id": "6de55667981e42e38acc081903432ec6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

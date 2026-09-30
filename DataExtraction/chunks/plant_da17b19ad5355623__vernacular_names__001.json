@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_da17b19ad5355623__vernacular_names__001",
+  "plant_id": "plant_da17b19ad5355623",
+  "plant_name": "Helicteres isora Linn.",
+  "botanical_name": "Helicteres isora",
+  "botanical_authority": "L.",
+  "family": "STERCULIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): kaivum fibre\nHindi (17): aat, aat hateri, amli, bhendu, hateri, jonkaphal, kapasi, maraphali, marodphali, marophali, maror phal, maror phali, maror phalli, maror-phali, marori, marorphali, marosi\nKannada (66): aavarthini, aedamuri, aedamuri kaayi, avathaarini, bhoorhakaralu, bhootakaralu, bhootha karulu, bhutakaralu, bhutakarulu, buntakarolu, chachalu, chuchuja, chuchula, chuchulu, cuculu, cunculla, edamuri, edamurige, kaada kalnaaru, kaadukalnaaru, kaayuri, kadakalnar, kadakalnaru, kadukalnaru, kaire, kaiyoli, kaiyolinarr, kaiyuri, kaiyurige, kaiyyi uri, karroori gida, karurimara, karuviri, kauri, kauviri, kavargi, kavari, kempu kavari, kempukauri, kempukavari, kempukaveri, kolinaaru, kolinar, konri, kowri, kywalla, maradaddi shingi, marodu phala, miridi, moldaphaliro, mrudashringi, murige, murreekonri, murudi, murugikayi, murugina, muruginakaayi, naarukolu, nakheela, narkol, narkolu, narukolu, thunshulla, vadampiree, yadamuri, yedamuri\nMalayalam (20): ishvaramuli, ishvaramulla, ishvaramuri, isora-murri, isoramurree, isoramurri, itampirivalampiri, kaiva, kaivalanara, kaiyuna, karuveri, kaval, kayyuna, kiwallanara, kiyuna, kolnaru, mori, valambiri, valampiri, valumbari\nMarathi (10): kevani, kewan, kivan, maedasingi, marodphali, muradasinge, muradshenga, muradsing, murudsheng, tanini\nSanskrit (13): Sanskrit CommentsX avaratani, avartani, avartaphala, avartiphala, avarttani, avatarini, avurtunnie, awartaki, awartani, mrgasrngi, mrigashinga, mrigashringa, murva\nTamil (24): cattikatci, edampuri, iracarcapalam, kaiva, karuvai, kasavu, lampam, panippalli, paniyam, pirapicam, pirimurukku, pirivuppani, tirukupalai, vadampiri, valambiri, valamburi, valampiri, valampuri, valampuri-kay, valampurikai, valampurikkay, valumberi, valumbirikai, vattachi\nTelugu (52): aadasamanthi, aadasyamali, adacamanti, adasamanti, adashyamali, adasyamali, adavi-camanti, adavichamanthi, adivichamanthi, cadala, camanti, camati, chamantai, chamanti, goobatada, gubadadda, gubadarra, gubathada, gubathadda, gubbadara, gugatadda, guonardada, guvalada, itah, kaavanchi, kavanchi, kavanci, malikaaya, nulitada, nulitadu, nulithada, nulithi, nuliti, nulu kaaya, peddacamanti, peddasamanthi, peddasamanti, peddashamala, sadala, samanthi, shyaamali, suamala, syamali, tada, thada, uttraci, uttrasi, valambiri, valambirikaya, valambricaca, valumbari, vuttraci\nUrdu (3): marodphalli, maror phali, marorphali",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c"
+  ],
+  "source_record_ids": [
+    "links-0247",
+    "links-0248",
+    "links-0249",
+    "links-1320"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c"
+    ],
+    "source_record_ids": [
+      "links-0247",
+      "links-0248",
+      "links-0249",
+      "links-1320"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c",
+          "Plant Name": "Helicteres isora Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Helicteres isora Linn.",
+        "source_record_id": "links-0247",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c",
+          "Plant Name": "Helicteres isora Linn. Var. glabrescens",
+          "Status": "Found"
+        },
+        "source_plant_name": "Helicteres isora Linn. Var. glabrescens",
+        "source_record_id": "links-0248",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c",
+          "Plant Name": "Helicteres isora Linn. Var. tomentosa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Helicteres isora Linn. Var. tomentosa",
+        "source_record_id": "links-0249",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c",
+          "Plant Name": "Helicteres isora",
+          "Status": "Found"
+        },
+        "source_plant_name": "Helicteres isora",
+        "source_record_id": "links-1320",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c"
+      }
+    ],
+    "source_xplant_id": "38a584df4e3681cfcec0c76b9237291c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

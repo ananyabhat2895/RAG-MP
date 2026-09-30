@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_51d87795d0c5b951__vernacular_names__001",
+  "plant_id": "plant_51d87795d0c5b951",
+  "plant_name": "Sapindus trifoliatus Linn.",
+  "botanical_name": "Sapindus trifoliatus",
+  "botanical_authority": "L.",
+  "family": "SAPINDACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (3): aritha, ritha, ritta\nKannada (41): aatala kaayi, alamaradu, alithavaala, antaladha, antalakayi, antarale, antaval, antavala, antawala, antawalakai, anti vaala, antuvaala, antuvaalada kaayi, antuvaalada mara, aradaala, aratala, arathala, areta, arishta, aritala, artala, atalakai, burugu kaayi, burugukayi, koogate, kugate, kugatekaye, kugatemara, kugati, kuntige kaayi, nurekayi, nurekayida, phenila, phenilu, puchikotte, rinte, rinti, runde, talemaradu, thalaymaruthu, thalemaradu\nMalayalam (33): arceta, areeta, arishtam, cavakayi, cavvakkaya, chankai, chavakkai, chavakkay, oravanci, orinjikai, paccakkotta, pachakkotta, pasaka, pasakotta, pasokotta, phenilam, poerinsii, ponnankotta, pulinci, pulinji, puvirinni, savakkaya, uravanji, uruangi, urulinci, urulinji, urulunchi, urunci, uruvanci, uruvanji, urvanji, urvvanchi, urvvanci\nMarathi (4): reeta, reetha, reethe, ringin\nSanskrit (20): Sanskrit CommentsX arishta, arishtaka, arishtaphalam, arista, aristah, aristaka, aristakah, arthasadhana, garbhapatana, guchhaphala, krishnavarna, kumbhabijaka, mangalya, phenila, phenilah, pitaphena, prakirya, raktabija, rishta, somavalkala\nTamil (18): kavadipungai, manippungu, manippunku, manipungu, neykottan, nittavanji, ponnangottai, ponnankottai, poochakai, poovandikottai, pucca, puchankottai, puchikkottai, puchikottai, punalai, punkumaram, puvandi, puvankottai\nTelugu (11): kankudu, kukudu, kumkullu, kumkuticettu, kunkudi, kunkudu, kunkutikaya, kurkudu, phenilamu, phinilamu, reta\nTibetan (3): phud, pud (p), pud ta (d)\nUrdu (4): reetha, ritha, rithah, rithay ka chilka sufuf kia hua",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f06b66e8ce15124d085ee5eab60bbf4"
+  ],
+  "source_record_ids": [
+    "links-0148"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f06b66e8ce15124d085ee5eab60bbf4"
+    ],
+    "source_record_ids": [
+      "links-0148"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f06b66e8ce15124d085ee5eab60bbf4",
+          "Plant Name": "Sapindus trifoliatus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sapindus trifoliatus Linn.",
+        "source_record_id": "links-0148",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f06b66e8ce15124d085ee5eab60bbf4"
+      }
+    ],
+    "source_xplant_id": "3f06b66e8ce15124d085ee5eab60bbf4",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

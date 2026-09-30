@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_069f5de44e40324a__bibliography__001",
+  "plant_id": "plant_069f5de44e40324a",
+  "plant_name": "Hygrophila salicifolia Nees.",
+  "botanical_name": "Hygrophila ringens",
+  "botanical_authority": "(L.) R.BR. EX STEUDEL",
+  "family": "ACANTHACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol. II\nBibliography entry: title: Title - Flora of Bankura District(West Bengal)\nBibliography entry: title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nBibliography entry: title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nBibliography entry: title: Title - The Flora of Orissa Vol III\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7ef210270ba2b0f343db6b76da14da1/xclkon/24d4507be20e1c8e15c19289287ce619"
+  ],
+  "source_record_ids": [
+    "links-0750"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7ef210270ba2b0f343db6b76da14da1/xclkon/24d4507be20e1c8e15c19289287ce619"
+    ],
+    "source_record_ids": [
+      "links-0750"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7ef210270ba2b0f343db6b76da14da1/xclkon/24d4507be20e1c8e15c19289287ce619",
+          "Plant Name": "Hygrophila salicifolia Nees.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hygrophila salicifolia Nees.",
+        "source_record_id": "links-0750",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7ef210270ba2b0f343db6b76da14da1/xclkon/24d4507be20e1c8e15c19289287ce619"
+      }
+    ],
+    "source_xplant_id": "f7ef210270ba2b0f343db6b76da14da1",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_99f2641f7ff372b1__vernacular_names__001",
+  "plant_id": "plant_99f2641f7ff372b1",
+  "plant_name": "Cyperus esculentus Linn.",
+  "botanical_name": "Cyperus esculentus",
+  "botanical_authority": "L.",
+  "family": "CYPERACEAE",
+  "section": "vernacular_names",
+  "content": "English (5): chufa nut, earth almond, rush or zulu nut, tiger nut, zulu nut\nHindi (3): chichada, cicada, cicoda\nKannada (4): musthe, nela baadaami hullu, nela badami hullu, nelabaadami hullu\nMalayalam (2): kalimuttanna, muttanna\nSanskrit (8): Sanskrit CommentsX bhadramusta, kaseruka, kshudramusta, musta, nagaramustakah, sugandhi, sukanda, sukareshta\nUrdu (3): hab-ul-zillam, hub-ul-zalam, hub-ul-zillam",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1865b973f959e7341296ddc186ea8dfd"
+  ],
+  "source_record_ids": [
+    "links-0999"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1865b973f959e7341296ddc186ea8dfd"
+    ],
+    "source_record_ids": [
+      "links-0999"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1865b973f959e7341296ddc186ea8dfd",
+          "Plant Name": "Cyperus esculentus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cyperus esculentus Linn.",
+        "source_record_id": "links-0999",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1865b973f959e7341296ddc186ea8dfd"
+      }
+    ],
+    "source_xplant_id": "1865b973f959e7341296ddc186ea8dfd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

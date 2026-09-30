@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8e6345ada007d4c7__images__001",
+  "plant_id": "plant_8e6345ada007d4c7",
+  "plant_name": "Ipomoea petaloidea Chois.",
+  "botanical_name": "Operculina petaloidea",
+  "botanical_authority": "(CHOISY) OOSTSTROOM",
+  "family": "CONVOLVULACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b11d6d5a8db2c5a1497cafc0eccc1511/xclkon/be30a0144281d371f0a0c4a732e3450d"
+  ],
+  "source_record_ids": [
+    "links-1889"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b11d6d5a8db2c5a1497cafc0eccc1511/xclkon/be30a0144281d371f0a0c4a732e3450d"
+    ],
+    "source_record_ids": [
+      "links-1889"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b11d6d5a8db2c5a1497cafc0eccc1511/xclkon/be30a0144281d371f0a0c4a732e3450d",
+          "Plant Name": "Ipomoea petaloidea Chois.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ipomoea petaloidea Chois.",
+        "source_record_id": "links-1889",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b11d6d5a8db2c5a1497cafc0eccc1511/xclkon/be30a0144281d371f0a0c4a732e3450d"
+      }
+    ],
+    "source_xplant_id": "b11d6d5a8db2c5a1497cafc0eccc1511",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

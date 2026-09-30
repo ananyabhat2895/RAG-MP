@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_9473d8ff170c3a9a__distribution__001",
+  "plant_id": "plant_9473d8ff170c3a9a",
+  "plant_name": "Dioscorea alata Linn.",
+  "botanical_name": "Dioscorea alata",
+  "botanical_authority": "L.",
+  "family": "DIOSCOREACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Ed B D Sharma, S Karthikeyan, N P Singh; distribution: Distribution; title: Title - Flora of Maharashrta State (Monocotyledons)\nDistribution entry: author: Author - K.M. Matthew; distribution: Distribution; title: Title - The Flora of the Palni Hills Vol-3\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a7817c7b665e147d63907527195d6390"
+  ],
+  "source_record_ids": [
+    "links-0082"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a7817c7b665e147d63907527195d6390"
+    ],
+    "source_record_ids": [
+      "links-0082"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a7817c7b665e147d63907527195d6390",
+          "Plant Name": "Dioscorea alata Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dioscorea alata Linn.",
+        "source_record_id": "links-0082",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a7817c7b665e147d63907527195d6390"
+      }
+    ],
+    "source_xplant_id": "a7817c7b665e147d63907527195d6390",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

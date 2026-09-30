@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_cd39001410e0157c__vernacular_names__001",
+  "plant_id": "plant_cd39001410e0157c",
+  "plant_name": "Sapium insigne Triven.",
+  "botanical_name": "Sapium insigne",
+  "botanical_authority": "TRIMEN",
+  "family": "EUPHORBIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (11): balodhar, baloje, chhina, khina, khindra, khinna, khinni/khirni, khirni, khirun, lendwa, lienda\nKannada (12): kanapadai, kanapade, kanappade, kannu pade, kannupade, kurda, kurudanandi, kurudu mara, kurudunandaga, naanaka, nanaka, nanaka mara\nMalayalam (3): garpashola, kalmaram, karuppucculai\nMarathi (6): dudla, huraa, hure, ura, ure, uro\nSanskrit (1): Sanskrit CommentsX mukulaka\nTamil (2): karuppu-chulai, sakkarakkalli\nTelugu (7): daeva sarupi, devasuroopi, garbhasula, garghasula, garpashola, garpashula, garvhasula",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a0322789536146116bbbc1e7285d1de7"
+  ],
+  "source_record_ids": [
+    "links-1302"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a0322789536146116bbbc1e7285d1de7"
+    ],
+    "source_record_ids": [
+      "links-1302"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a0322789536146116bbbc1e7285d1de7",
+          "Plant Name": "Sapium insigne Triven.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sapium insigne Triven.",
+        "source_record_id": "links-1302",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a0322789536146116bbbc1e7285d1de7"
+      }
+    ],
+    "source_xplant_id": "a0322789536146116bbbc1e7285d1de7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

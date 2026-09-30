@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_380e40b70c84cb33__images__001",
+  "plant_id": "plant_380e40b70c84cb33",
+  "plant_name": "Dolichos biflorus Linn.",
+  "botanical_name": "Macrotyloma uniflorum",
+  "botanical_authority": "(LAM.) VERDC.",
+  "family": "FABACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16e1d08182cf90b7c5f7cc027e6ccbfd/xclkon/96ebc8330fbca94a4980f9ce670fb4bd"
+  ],
+  "source_record_ids": [
+    "links-1108"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16e1d08182cf90b7c5f7cc027e6ccbfd/xclkon/96ebc8330fbca94a4980f9ce670fb4bd"
+    ],
+    "source_record_ids": [
+      "links-1108"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16e1d08182cf90b7c5f7cc027e6ccbfd/xclkon/96ebc8330fbca94a4980f9ce670fb4bd",
+          "Plant Name": "Dolichos biflorus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dolichos biflorus Linn.",
+        "source_record_id": "links-1108",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16e1d08182cf90b7c5f7cc027e6ccbfd/xclkon/96ebc8330fbca94a4980f9ce670fb4bd"
+      }
+    ],
+    "source_xplant_id": "16e1d08182cf90b7c5f7cc027e6ccbfd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

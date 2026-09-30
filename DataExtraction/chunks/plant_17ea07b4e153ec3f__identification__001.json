@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_17ea07b4e153ec3f__identification__001",
+  "plant_id": "plant_17ea07b4e153ec3f",
+  "plant_name": "Cynoglossum lanceolatum Forsk.",
+  "botanical_name": "Cynoglossum lanceolatum",
+  "botanical_authority": "FORSSK.",
+  "family": "BORAGINACEAE",
+  "section": "identification",
+  "content": "Plant name: Cynoglossum lanceolatum Forsk. Botanical name: Cynoglossum lanceolatum Botanical authority: FORSSK. Family: BORAGINACEAE Source xplant ID: c18877f4d8c620bf10d3d4c42ecade81",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18877f4d8c620bf10d3d4c42ecade81"
+  ],
+  "source_record_ids": [
+    "links-1158"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18877f4d8c620bf10d3d4c42ecade81"
+    ],
+    "source_record_ids": [
+      "links-1158"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18877f4d8c620bf10d3d4c42ecade81",
+          "Plant Name": "Cynoglossum lanceolatum Forsk.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cynoglossum lanceolatum Forsk.",
+        "source_record_id": "links-1158",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18877f4d8c620bf10d3d4c42ecade81"
+      }
+    ],
+    "source_xplant_id": "c18877f4d8c620bf10d3d4c42ecade81",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

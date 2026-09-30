@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_503919f78c593062__vernacular_names__001",
+  "plant_id": "plant_503919f78c593062",
+  "plant_name": "Chenopodium album Linn.",
+  "botanical_name": "Chenopodium album",
+  "botanical_authority": "L.",
+  "family": "CHENOPODIACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): fat hen, goosefoot\nHindi (15): bahua/bathu, bathu, bathua, bathusag, bathuwa, bethuasag, bettusaga, candan-betu, chandan, chandanbedu, chilario, chilaro, chilli, dankhar, tulsi\nKannada (14): badane bettaave, bele soppu, bilee palya, chakkotha, chakkothana soppu, chakravarthi soppu, chakravarthy bele, chakravati, hucha chakkota, huchu chakotha, huli chikka, hunchik, husbak, huttchu\nMalayalam (1): vastuccira\nMarathi (4): chakavata, chakavatha, chakvit, chivil\nSanskrit (35): Sanskrit CommentsX agralohita, chakravarti, chilli, chillika, ddala, gaudavastuka, ghanaghana, hilamochika, kankella, ksarapatra, ksarasrestah, ksharadala, ksharapatra, ksharpaba, laghupatracilli, mridupatri, panshupatra, rajani, sakajivah, sakarat, shakaraja, shakarata, shakashreshtha, shakavira, tuni, vastu, vastuka, vastukah, vastuki, vasuka, veershak, virasakah, vrntaka, yavasaka, yavasakah\nTamil (14): cakkaravarttikkirai, cakkaravarttikkiri, cakkiravalaittukam, cakkiravarttik kirai, carkkaraivarthi, carkkaraivartti, kolikkirai, pacalai, paruppu-k-kirai, paruppuk kirai, paruppukkirai, parupukire, parupukkirai, vayalaikkoti\nTelugu (5): chakravarthi koora, pappu-koora, pappu-kura, pappukoora, pappukura\nUrdu (1): bathua sabz",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37433532fc0b9d0a01eb34d733ee80ab"
+  ],
+  "source_record_ids": [
+    "links-0446"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37433532fc0b9d0a01eb34d733ee80ab"
+    ],
+    "source_record_ids": [
+      "links-0446"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37433532fc0b9d0a01eb34d733ee80ab",
+          "Plant Name": "Chenopodium album Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Chenopodium album Linn.",
+        "source_record_id": "links-0446",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37433532fc0b9d0a01eb34d733ee80ab"
+      }
+    ],
+    "source_xplant_id": "37433532fc0b9d0a01eb34d733ee80ab",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

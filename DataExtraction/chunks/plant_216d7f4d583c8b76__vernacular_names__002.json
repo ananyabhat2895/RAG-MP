@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_216d7f4d583c8b76__vernacular_names__002",
+  "plant_id": "plant_216d7f4d583c8b76",
+  "plant_name": "Boerhavia diffusa Linn.",
+  "botanical_name": "Boerhavia diffusa",
+  "botanical_authority": "L.",
+  "family": "NYCTAGINACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (98): caranai, caranai ver, caranakacam@, carankacacceti, catakakkanni, cattacaranai, cattacataranai, cattacattaranai#, cattacattaranai@, catticaranai, catticattaranai, cenatika, cennakkukka, cennakkurattai, cennatikka, cetti1, chattaranai, cinati, cinatikkurattaikkoti, ciriya mukkurattai, cokkala2, cokkalacceti, culainacani, cuvetapattiram, inaikkonam, irattaputpika, irattaputpikacceti, irattaputpikai, irattaputpikam, kadiyirattam, kannika, kannikacceti, kannirkkutai, kannirkkutaicceti, kannirnatukkurai, katali2, katalikacceti, katil, katila, katili, katirakacattam, katiyirattam, kattumukkirattai, kocam3, mantalattiram, mookarutty vayr, mookirathai saranai, mookirattai, mookkirattai, mukaratte, mukirattai, mukkaraiver, mukkaranti, mukkaratai, mukkarattai, mukkarattai#, mukkarattai-kirai, mukkarattai@, mukkaratti, mukki-rattai, mukkirattai, mukkuranti, mukkurattai, mukkurattai@, mukukrattai, mukurattai, mulattinatikam, muppuramerittan 3, nerpolaki, nerpolakicceti, netiyontulaci, periya mukkurattai, pincam, pukalpukal, pulappakacceti, punanavi, punarnavam, punnakam@, puranavam, purittiyam, putpakam, putpakam 2, putpakkurattai, rettappinappikam, sattaranai, ticaimali, ticaimalicceta, tiraiviccata, tiraivikkurattai, tiriviccata@, tiriviccuta, tirivinkata, uruttirani, uruttiranikkoti, varusapu, varutaketuccam, vikacata, virocana\nTelugu (6): ambati madu, atikamamidi, attatamamidi, attukamaamidi, punarnava, yerra galijeru\nTibetan (1): ba sbru ba\nUrdu (1): tukhm-i-ispast",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/75868742d47c459a0bbef44b988ead65"
+  ],
+  "source_record_ids": [
+    "links-1557"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/75868742d47c459a0bbef44b988ead65"
+    ],
+    "source_record_ids": [
+      "links-1557"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/75868742d47c459a0bbef44b988ead65",
+          "Plant Name": "Boerhavia diffusa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Boerhavia diffusa Linn.",
+        "source_record_id": "links-1557",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/75868742d47c459a0bbef44b988ead65"
+      }
+    ],
+    "source_xplant_id": "75868742d47c459a0bbef44b988ead65",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

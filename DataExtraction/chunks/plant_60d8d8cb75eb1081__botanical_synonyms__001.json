@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_60d8d8cb75eb1081__botanical_synonyms__001",
+  "plant_id": "plant_60d8d8cb75eb1081",
+  "plant_name": "Tabernaemontana coronaria",
+  "botanical_name": "Tabernaemontana divaricata",
+  "botanical_authority": "(L.) ROEM. & SCHULT.",
+  "family": "APOCYNACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Ervatamia coronaria (JACQ.) STAPF. X Full Botanical citation - Ervatamia coronaria (Jacq.) Stapf in Oliv., Fl. trop. Afr. (Ed.Dyer) 4: 127. 1902; S. Karthikeyan & al., Flowering Plants of India - Dicots. 1: 138. 2009. Ervatmia divaricata (LINN.) ALSTON X Full Botanical citation - Ervatamia divaricata (L.) Burkill in Rec. Bot. Surv. India 10: 320. 1925; S. Karthikeyan & al., Flowering Plants of India - Dicots. 1: 138. 2009. Nerium coronarium JACQ. X Full Botanical citation - Nerium coronarium Jacq., Collectanea 1: 138. 1786; S. Karthikeyan & al., Flowering Plants of India - Dicots. 1: 138. 2009. Tabernaemontana coronaria R.BR. X Full Botanical citation - Tabernaemontana coronaria (Jacq.) Willd., Enum. pl. 275. 1809; S. Karthikeyan & al., Flowering Plants of India - Dicots. 1: 138. 2009.\nSynonym: Ervatamia coronaria (JACQ.) STAPF.\nSynonym: Ervatmia divaricata (LINN.) ALSTON\nSynonym: Nerium coronarium JACQ.\nSynonym: Tabernaemontana coronaria R.BR.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3/xclkon/5c7f553bf903a7526d122f802c99d498"
+  ],
+  "source_record_ids": [
+    "links-1381"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3/xclkon/5c7f553bf903a7526d122f802c99d498"
+    ],
+    "source_record_ids": [
+      "links-1381"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3/xclkon/5c7f553bf903a7526d122f802c99d498",
+          "Plant Name": "Tabernaemontana coronaria",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tabernaemontana coronaria",
+        "source_record_id": "links-1381",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3/xclkon/5c7f553bf903a7526d122f802c99d498"
+      }
+    ],
+    "source_xplant_id": "5f8bfd4196998db48c75cf43cc008be3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

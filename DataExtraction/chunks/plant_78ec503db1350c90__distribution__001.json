@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_78ec503db1350c90__distribution__001",
+  "plant_id": "plant_78ec503db1350c90",
+  "plant_name": "Barleria strigosa Willd.",
+  "botanical_name": "Barleria strigosa",
+  "botanical_authority": "WILLD.",
+  "family": "ACANTHACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d44f2d69d2c726a843638429c67d3fb"
+  ],
+  "source_record_ids": [
+    "links-1685"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d44f2d69d2c726a843638429c67d3fb"
+    ],
+    "source_record_ids": [
+      "links-1685"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d44f2d69d2c726a843638429c67d3fb",
+          "Plant Name": "Barleria strigosa Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Barleria strigosa Willd.",
+        "source_record_id": "links-1685",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d44f2d69d2c726a843638429c67d3fb"
+      }
+    ],
+    "source_xplant_id": "4d44f2d69d2c726a843638429c67d3fb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

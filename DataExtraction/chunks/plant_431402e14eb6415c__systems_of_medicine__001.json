@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_431402e14eb6415c__systems_of_medicine__001",
+  "plant_id": "plant_431402e14eb6415c",
+  "plant_name": "Mucuna prurita Hook.",
+  "botanical_name": "Mucuna pruriens",
+  "botanical_authority": "(L.) DC.",
+  "family": "FABACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Homeopathy\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (3) - Carpopogon pruriens ROXB. Dolichos pruriens (L\nSystem of medicine: ) X Full Botanical citation - Dolichos pruriens L. in Stickman\nSystem of medicine: Diss. Herb. Amb. 23. 1754; N.P.Singh &al.\nSystem of medicine: Fl.Maharashtra state\nSystem of medicine: Dicotyledones\nSystem of medicine: 1: Fl.India Ser. 2: 724. 2000. Mucuna prurita HOOK.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/571cbf77cc7d7792510bafead68d18c4",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544"
+  ],
+  "source_record_ids": [
+    "links-0927",
+    "links-1886"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/571cbf77cc7d7792510bafead68d18c4",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544"
+    ],
+    "source_record_ids": [
+      "links-0927",
+      "links-1886"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/571cbf77cc7d7792510bafead68d18c4",
+          "Plant Name": "Mucuna prurita Hook.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mucuna prurita Hook.",
+        "source_record_id": "links-0927",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/571cbf77cc7d7792510bafead68d18c4"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544",
+          "Plant Name": "Mucuna pruriens DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mucuna pruriens DC.",
+        "source_record_id": "links-1886",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544"
+      }
+    ],
+    "source_xplant_id": "8b22b64302e1857bf8ef9d889912e544",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_bafda8dce79a48c2__systems_of_medicine__001",
+  "plant_id": "plant_bafda8dce79a48c2",
+  "plant_name": "Artemisia vulgaris Linn.",
+  "botanical_name": "Artemisia nilagirica",
+  "botanical_authority": "(CLARKE) PAMP.",
+  "family": "ASTERACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Homeopathy\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (2) - Artemisia indica WILLD. X Full Botanical citation - Artemisia indica Willd.\nSystem of medicine: Sp. Pl. 3: 1846. 1803; B.D. Naithani in P.K. Hajra & al.\nSystem of medicine: Fl. India 12: 27. 1995. Artemisia vulgaris AUCT.NON L. X Full Botanical citation - Artemisia vulgaris auct. non L.: Hook.f. Fl. Brit. India 3: 325. 1881. p.p.; B.D. Naithani in P.K. Hajra & al.\nSystem of medicine: Fl. India 12: 27. 1995.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871/xclkon/170e7c9eedb83a01e5177f4191bbd8d2"
+  ],
+  "source_record_ids": [
+    "links-0479"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871/xclkon/170e7c9eedb83a01e5177f4191bbd8d2"
+    ],
+    "source_record_ids": [
+      "links-0479"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871/xclkon/170e7c9eedb83a01e5177f4191bbd8d2",
+          "Plant Name": "Artemisia vulgaris Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Artemisia vulgaris Linn.",
+        "source_record_id": "links-0479",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871/xclkon/170e7c9eedb83a01e5177f4191bbd8d2"
+      }
+    ],
+    "source_xplant_id": "7475bc38738246669b1af949662b6871",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_34a77e0b0b37f29a__distribution__001",
+  "plant_id": "plant_34a77e0b0b37f29a",
+  "plant_name": "Aconitum ferox",
+  "botanical_name": "Aconitum ferox",
+  "botanical_authority": "WALL. EX SERINGE",
+  "family": "RANUNCULACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Otto Stapf; distribution: Distribution; title: Title - Aconites of India -A monograph\nDistribution entry: author: Author - BSI Scientist; distribution: Distribution; title: Title - Flora of West Bengal Vol 1\nDistribution entry: author: Author - ED. B.D. SHARMA & M.SANJAPPA , N.P. BALAKRISHNAN; distribution: Distribution; title: Title - FLORA OF INDIA VOL 1\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol I",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2217a3cdd6a7919990e703269ad854e3"
+  ],
+  "source_record_ids": [
+    "links-2074",
+    "links-2075"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2217a3cdd6a7919990e703269ad854e3"
+    ],
+    "source_record_ids": [
+      "links-2074",
+      "links-2075"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2217a3cdd6a7919990e703269ad854e3",
+          "Plant Name": "Aconitum ferox",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aconitum ferox",
+        "source_record_id": "links-2074",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2217a3cdd6a7919990e703269ad854e3"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2217a3cdd6a7919990e703269ad854e3",
+          "Plant Name": "Aconitum ferox Wall ex Seringe",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aconitum ferox Wall ex Seringe",
+        "source_record_id": "links-2075",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2217a3cdd6a7919990e703269ad854e3"
+      }
+    ],
+    "source_xplant_id": "2217a3cdd6a7919990e703269ad854e3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

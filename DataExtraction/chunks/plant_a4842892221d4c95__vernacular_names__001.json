@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a4842892221d4c95__vernacular_names__001",
+  "plant_id": "plant_a4842892221d4c95",
+  "plant_name": "Parmelia perlata Ach.",
+  "botanical_name": "Parmelia perlata",
+  "botanical_authority": "(HUDS.) ACH.",
+  "family": "PARMELIACEAE(LICHEN)",
+  "section": "vernacular_names",
+  "content": "Hindi (4): cadila, charela, pathar ka phul, phathar-ke-phul\nKannada (2): kallu hoo, kalluhuvu\nMalayalam (2): celeyam, kalppuvu\nMarathi (4): barikadagadaphula, dagad phool, dagadaphula, mothadagadaphula\nSanskrit (27): Sanskrit CommentsX a, ashmapushpa, giripushpaka, griha, jirna, kalanusaryaka, palita, saileya, saileyah, saileyaka, saileyam, shailaja, shailaka, shailakhya, shiilabhava, shiladadru, shilaprasuna, shilapushpa, shilasana, shilottha, shitala, shitashiva, silapuspa, silapuspah, silavalka, sthavira, subhaga\nTamil (5): kalap-pu, kalpasi, kalpu, karpasi, marappasi\nTelugu (2): rathipachi, ratipuvvu\nTibetan (2): rdo dra ga, rdo dre ga (p)\nUrdu (7): charela, charela (chadela), charila, habakkarmani, rihankarmani, ushna, ushna charaila",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51b266bd8a3811512899bf3fe93784d3"
+  ],
+  "source_record_ids": [
+    "links-1679"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51b266bd8a3811512899bf3fe93784d3"
+    ],
+    "source_record_ids": [
+      "links-1679"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51b266bd8a3811512899bf3fe93784d3",
+          "Plant Name": "Parmelia perlata Ach.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Parmelia perlata Ach.",
+        "source_record_id": "links-1679",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51b266bd8a3811512899bf3fe93784d3"
+      }
+    ],
+    "source_xplant_id": "51b266bd8a3811512899bf3fe93784d3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_386a3dce18f9db9e__vernacular_names__002",
+  "plant_id": "plant_386a3dce18f9db9e",
+  "plant_name": "Aloe vera Tourn. ex Linn.",
+  "botanical_name": "Aloe vera",
+  "botanical_authority": "L.",
+  "family": "LILIACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (94): akki, alunku, amari 2, ametamnikki, ametanikki, angani, angini, ankani, ankili, anmatacekam, aralai, cenkarralai, chirukattalai, cirukarralai, cirukkaralai, cirukki, cokkunitani, corrukkarralai, coti, cotrukkarralai, cottiyam, curuvavacini, eratha bolam, ilampen, irattapolam, janninayakam, kanni, kariabolam, kariambolam, kariapolam, kariya polam, kariyapolam, karpurani, karralai, karralam, karrazai, kathalai, katrazhai, katrazhai pal, kattalai, kattazhai, katthalai, kattrazhai, kilimukan, kilimukkan, kilmukkan, kodiyan, kotiyon, kumari, kuruvaikkumari, kuttalay, malai, malanecittaci, malattaittallicci, moosaambaram, mucamparam, musamparam, mushambaram, nali, nari 1, ocitam, okitam, pen, peruppircava, pulipputu, pulittatukki, pumatu, raktapolam, ratta polam, rattabolan, shiru-katrazh-ai, shottu katrazhai, sirrooghoo kuttalay, sirukattalai, sivappukkattalai, sivappusottukkattalai, sothukattalai, sotru kattraazhai, taruni, tarunikam, tiriculi 2, vaittanki, vamal, vamalocikam, varivali, varivalikkarralai, varttacaki, varttaki, vatankirai, veligam, velikam#, velikam@, viyakkiracana, yociyocitam\nTelugu (16): chinikalabanda, chinna-kalabanda, chinnakalabanda, chinnaraakasimatta, chinnarakashi-matta, chinnarakasimatta, erra kalabanda, errakalanbanda, ettakalabanda, kalabanda, kalanbanda, kunthi kalabanda, manchikatthaali, manjikattali, musambaramu, mushambaram\nTibetan (2): ku ma ra, ku ma ri (d)\nUrdu (9): ab ghaikwar, ailwa, elwa, ghaikwar, ghee-kanwar, gheekawar, ghiqwara, sibr, sibr-e-zard",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f3796b55ac6702e10bd40afe3b372ca/xclkon/98403088f3f134a7b5f8b6a2d2dc5eea"
+  ],
+  "source_record_ids": [
+    "links-1113"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f3796b55ac6702e10bd40afe3b372ca/xclkon/98403088f3f134a7b5f8b6a2d2dc5eea"
+    ],
+    "source_record_ids": [
+      "links-1113"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f3796b55ac6702e10bd40afe3b372ca/xclkon/98403088f3f134a7b5f8b6a2d2dc5eea",
+          "Plant Name": "Aloe vera Tourn. ex Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aloe vera Tourn. ex Linn.",
+        "source_record_id": "links-1113",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f3796b55ac6702e10bd40afe3b372ca/xclkon/98403088f3f134a7b5f8b6a2d2dc5eea"
+      }
+    ],
+    "source_xplant_id": "3f3796b55ac6702e10bd40afe3b372ca",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

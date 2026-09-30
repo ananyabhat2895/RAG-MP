@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4a55d50a2ec4f1f8__vernacular_names__001",
+  "plant_id": "plant_4a55d50a2ec4f1f8",
+  "plant_name": "Diospyros montana Roxb.",
+  "botanical_name": "Diospyros montana",
+  "botanical_authority": "ROXB.",
+  "family": "EBENACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): bombay ebony\nHindi (8): bistendu, dasaundu, kala dhao, kalichhal, kendu, lohar, lohari, tendu\nKannada (30): balagani, balaguni, balagunike, balkunika, balkunike, balkuniki, belkunika, belkunike, bilaarada mara, bilgunika, bilkunika, bukkana, bulguni, jagalaganta, jagalagante, jagalaganti, jagalaganti mara, jagalugante, jaglagante, jugiaganti, juglaganti, kaadu baale kaayi, kaalu ganda, kadubalekayi, kalagonda, kalagunda, kalnandi, tendu, vankane, vankanemara\nMalayalam (2): bali, malayakathi\nMarathi (14): ektemry, goindu, goundhan, govimdu, govindu, lohari, tembhurni, temburni, temru, themburni, thimburni, thimru, timburni, timru\nSanskrit (5): Sanskrit CommentsX kupilu, tumala, vayasapiluka, visamusti, vishatinduka\nTamil (12): karuttualisu, kuruttualisu, muchi-tanki, thumbillikai, vakkam, vakkanai, vakkanathi, vakkanattan, vellai-thuvarai, vellaittuvarai, vellaittuvarai 2, velvakkanai\nTelugu (41): eddayagata, erra gatha, erragata, erragoda, gaatugaatha, gatugata, gobdigattu, gotagota, jacadakondi, jagadagondi, jagaliganti, kaakavulimidi, kakaulimera, kakavulimidi, kakiulimera, kokwolimera, makha, michatummuruur, muccitumiki, muchi-tunki, muchitanki, muchithumiki, muchitumiki, muchitunki, mullatumiki, mullatunki, mulutumilai, nallaulimeda, nallaulimera, nallaulimida, nallavulimera, nallavulimidi, nallavuliviri, nellawolimera, palbungi, poodoomaddi, pudumaddi, yerra goda, yerragadha, yerragoda, yerrigoda",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/450ebf885767a349d62389fdb0161406"
+  ],
+  "source_record_ids": [
+    "links-0852"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/450ebf885767a349d62389fdb0161406"
+    ],
+    "source_record_ids": [
+      "links-0852"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/450ebf885767a349d62389fdb0161406",
+          "Plant Name": "Diospyros montana Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Diospyros montana Roxb.",
+        "source_record_id": "links-0852",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/450ebf885767a349d62389fdb0161406"
+      }
+    ],
+    "source_xplant_id": "450ebf885767a349d62389fdb0161406",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

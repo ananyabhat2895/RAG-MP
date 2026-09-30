@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_35f3e21c91ee7f51__vernacular_names__001",
+  "plant_id": "plant_35f3e21c91ee7f51",
+  "plant_name": "Ficus arnottiana Miq.",
+  "botanical_name": "Ficus arnottiana",
+  "botanical_authority": "(MIQ.) MIQ.",
+  "family": "MORACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (2): paras pipal, paraspipal\nKannada (37): bettaarali, bettada arali, bettadarali, bettadarali mara, bettaragi, bettarasi, bhodhidruva, cotivalpipri, kaadaarasa mara, kaadalage, kaadarasi, kaadashwathha, kaadattasu, kaadu ashwatha, kaaduashwattha, kaatotasu, kadarase, kadarasu, kadasvattha, kadelage, kadelege, kaduashvattha, kaduasvattha, kaduattasa, kalasi, kallaaswattha, kallarase, kallarasi, kallashwatha, katachi, katattasu, katuattasu, kenalige, kenelege, kulasi, plaksha mara, pushaval\nMalayalam (4): amakanniyam, amakanniyan, kallal, kallarayal\nMarathi (3): aashaa, asti, payr\nSanskrit (8): Sanskrit CommentsX kapitanah, lapitanah, nandi, nandyavartah, parisah, plaksa, plaksah, plaksha\nTamil (18): aswathom, cirattiyacam, ka-arasu, kagoli, kakoli 3, kallaraci, kallarasu, karunkumiri, kodi arasu, kodiyarasu, kolikkal, kontakai, kontakaiyaracumaram, kotiyaracu, kotiyarasu, tanavan, tanavanmaram, tevavaracu\nTelugu (9): bondaraavi, kalla ravi, kallaraavi, kallaravi, konda ravi, kondaraavi, kondaravi, raavi, ravi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82816eacf84ab123e30324dd7f1815e8"
+  ],
+  "source_record_ids": [
+    "links-1529"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82816eacf84ab123e30324dd7f1815e8"
+    ],
+    "source_record_ids": [
+      "links-1529"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82816eacf84ab123e30324dd7f1815e8",
+          "Plant Name": "Ficus arnottiana Miq.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ficus arnottiana Miq.",
+        "source_record_id": "links-1529",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82816eacf84ab123e30324dd7f1815e8"
+      }
+    ],
+    "source_xplant_id": "82816eacf84ab123e30324dd7f1815e8",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

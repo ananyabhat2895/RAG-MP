@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b96154f622d033b4__vernacular_names__001",
+  "plant_id": "plant_b96154f622d033b4",
+  "plant_name": "Streblus asper Lour.",
+  "botanical_name": "Streblus asper",
+  "botanical_authority": "LOUR.",
+  "family": "MORACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): paper bark\nHindi (10): bajar-danti, daheya, dahia, karchanna, khorus, kurchuna, rusa, sahora, sihora, siora\nKannada (23): abore, akhor moranu, akhormoranu, mitala, mitla mara, mitle, mitli, mitli mara, mitlimara, mittala, mittelgida, mittemara, penalige, ponalige, ponnolige, poonalige mara, punja mara, punjai, punje, punji, thimli mara, timil, timli\nMalayalam (9): kurunji, parakam, paravu, paruva, paruvamaram, sakhotavrksam, tinda-parua, tindapparuva, tintapparuva\nMarathi (9): karera, kharaoli, kharoli, kharota, paraya, parayu, parayya, poi, sahor\nSanskrit (23): Sanskrit CommentsX akshadhara, bhutavasa, bhutavriksha, dhukavasa, gavakshi, karkashachhada, kaushikyaja, kausikya, kharachhada, kshiranasha, patrollekhataruh, pishachandru, pitaphala, pitaphalaka, rukshapatra, sakata, sakhota, sakhotah, sakhotaka, shakhota, shakhotaka, shankhinivasa, sprukka\nTamil (71): cekkaippanti, cekkaippantimaram, cinacika, cinika, cinnapala, culppiray, culppiraymaram, curppiray, curppiraymaram, karacataru, karacatarumaram, kulan, kulanpala, kulavukkacimaram, kulavukkaraci, kurripila, kurripparay, kutippala, kuttappiramaram, kuttappiray, kuttipila, kuttippala2, kuttippila2, kuttippirai, kuttippiray, kuttuppala, kuttuppalatai, malaippiracimaram, malaippiracitam, morpiramaram, morpiray, nattuppiray, nontavikam, nontavikamaram, pacunakki, pacunakkilai, pacunapi, pacunay, parayam, parayan, pasuna, peerahi vayr, perukku, pira, pira 1, piraayan, piramaram, pirasu, pirasu kuttipila, piray, piraya, pirayamaram, pirayampattai, pirayan, piraymaram, prayam, pukaru, pukki, pukkika, pukkikamaram, tarvikam, tarvikamaram, tiruvulavanitam, turruttalaiyan, turutalainikki, turutalainikkimaram, turutalaivan, turutalaiyan, vittil, vittila, vittilamaram\nTelugu (27): bajar danthi, bamigi, baniki, baranika, baranki, barinika, barinikacettu, bariniki, barinka, barinke, barinki, barivenka, barnik, barniki, barranki, barrinki, bumegi, cukkali, kakkabedi, kaukka baedi, paki, pakki, pukkie, sitanika, sitanike, sithanike, sukali",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4edbb3dc062cd9cf2e810d93a2163be"
+  ],
+  "source_record_ids": [
+    "links-1694"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4edbb3dc062cd9cf2e810d93a2163be"
+    ],
+    "source_record_ids": [
+      "links-1694"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4edbb3dc062cd9cf2e810d93a2163be",
+          "Plant Name": "Streblus asper Lour.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Streblus asper Lour.",
+        "source_record_id": "links-1694",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4edbb3dc062cd9cf2e810d93a2163be"
+      }
+    ],
+    "source_xplant_id": "f4edbb3dc062cd9cf2e810d93a2163be",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

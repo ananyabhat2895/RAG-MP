@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_62843505469503d0__vernacular_names__001",
+  "plant_id": "plant_62843505469503d0",
+  "plant_name": "Trichosanthes anguina Linn.",
+  "botanical_name": "Trichosanthes anguina",
+  "botanical_authority": "L.",
+  "family": "CUCURBITACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): snake gourd\nHindi (5): chachenda, chachinda, chachinga, chichonda, purwul\nKannada (7): adala balli, atla kaayi, haavu kaayi, padavala, padavala balli, padavalkayi, patla kaayi\nMarathi (4): padaval, padual, padvali, tarakankadi\nSanskrit (13): Sanskrit CommentsX ahiphala, brihatphala, chichinda, chichunda, chinakarkatika, cicinda, dirghaphala, grihakulaka, patoli, shvetaraji, sudirgha, swadupatraphala, veshmakula\nTamil (55): catavantulakkoti, catavantulam, ciccintam, cikkirakayam, cincakapikakkoti, cincikapikam, cottini, ilinkamuli, kacitakkiyam, kacitakkiyapputal, kakuraci, kalikai, karipputal, karipputol, karuraci1, karutam1, kirakakulam, kottupputal, lingapotla, mankalakarakkooti, mankalakaram, maruvuka, maruvukakkoti, nakarai, naracimpakkani, naripputal, naripputarkoti, naypputal, netumputal, netumputarkoti, pantula, pantulam, papparakkani, patolikai1, patolukai, perulakikapputal, perulakitam, pucai 2, pucam, pudal, putal, putalai, putalankay, putalankoti, putol, puttla, tanukalakkoti, tanukalam, tattan, tattankottocai, tinputalai, vicattam, vicutakkoti, yanayamatayankay, yatalayamuli\nTelugu (3): lingapotla, potla, potlakaya\nTibetan (3): bi sa la rnam gcig, byi sa la rnam gcig, byi sa la rnam gcig (d)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7cedd9933155d80eb3d2383c720264b"
+  ],
+  "source_record_ids": [
+    "links-0452"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7cedd9933155d80eb3d2383c720264b"
+    ],
+    "source_record_ids": [
+      "links-0452"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7cedd9933155d80eb3d2383c720264b",
+          "Plant Name": "Trichosanthes anguina Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Trichosanthes anguina Linn.",
+        "source_record_id": "links-0452",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7cedd9933155d80eb3d2383c720264b"
+      }
+    ],
+    "source_xplant_id": "f7cedd9933155d80eb3d2383c720264b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

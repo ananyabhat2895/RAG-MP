@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d87e678d35fa01b1__images__001",
+  "plant_id": "plant_d87e678d35fa01b1",
+  "plant_name": "Dalbergia volubilis Roxb.",
+  "botanical_name": "Dalbergia volubilis",
+  "botanical_authority": "ROXB.",
+  "family": "FABACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286345a183e7be8122783e0d69834a1e"
+  ],
+  "source_record_ids": [
+    "links-0935"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286345a183e7be8122783e0d69834a1e"
+    ],
+    "source_record_ids": [
+      "links-0935"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286345a183e7be8122783e0d69834a1e",
+          "Plant Name": "Dalbergia volubilis Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dalbergia volubilis Roxb.",
+        "source_record_id": "links-0935",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286345a183e7be8122783e0d69834a1e"
+      }
+    ],
+    "source_xplant_id": "286345a183e7be8122783e0d69834a1e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

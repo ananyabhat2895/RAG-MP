@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_1586ae0952e9d4ab__vernacular_names__001",
+  "plant_id": "plant_1586ae0952e9d4ab",
+  "plant_name": "Peucedanum graveolens",
+  "botanical_name": "Peucedanum graveolens",
+  "botanical_authority": "BENTH. EX HOOK.F.",
+  "family": "APIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (3): sowa, soya, sutopsha\nKannada (1): sabbasige\nMalayalam (1): chatukuppa\nMarathi (6): balantashopa, sepo, shepu, shopha, shupa, suva\nSanskrit (35): Sanskrit CommentsX ahichhatra, atichhatra, avakpushpi, avha, bahala, baspika, chhatra, ghosha, karavi, madhavi, misi, misih, misreya, misroya, poti, pushptapushpika, sanghatapatrika, satahva, satapushpi, satapuspa, shaleya, shalina, shatakshi, shatapatrika, shataprasana, shatapushpa, shatavha, shipha, shitashiva, shophaka, sthatapushpi, supushpika, talaparni, vajana, vajrapushpi\nTamil (6): catakkuppai, chatha-kuppai, sadhakuppai, satakkuppi, satakuppi, shatakupivirai\nTelugu (2): shatakupivittulu, sompa\nUrdu (2): tukhim-i-jajir, tukhm-i-soya",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c394d40c4d2ae8fbf998c7b030253c17"
+  ],
+  "source_record_ids": [
+    "links-1763",
+    "links-1764"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c394d40c4d2ae8fbf998c7b030253c17"
+    ],
+    "source_record_ids": [
+      "links-1763",
+      "links-1764"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c394d40c4d2ae8fbf998c7b030253c17",
+          "Plant Name": "Peucedanum graveolens",
+          "Status": "Found"
+        },
+        "source_plant_name": "Peucedanum graveolens",
+        "source_record_id": "links-1763",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c394d40c4d2ae8fbf998c7b030253c17"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c394d40c4d2ae8fbf998c7b030253c17",
+          "Plant Name": "Peucedanum graveolens Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Peucedanum graveolens Linn.",
+        "source_record_id": "links-1764",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c394d40c4d2ae8fbf998c7b030253c17"
+      }
+    ],
+    "source_xplant_id": "c394d40c4d2ae8fbf998c7b030253c17",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

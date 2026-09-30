@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_0684f0b8fbc79f0d__systems_of_medicine__001",
+  "plant_id": "plant_0684f0b8fbc79f0d",
+  "plant_name": "Rivea ornata Chois",
+  "botanical_name": "Rivea ornata",
+  "botanical_authority": "CHOISY",
+  "family": "CONVOLVULACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f279b92eac069ae5e907b8ad0f16a131"
+  ],
+  "source_record_ids": [
+    "links-1513",
+    "links-1514"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f279b92eac069ae5e907b8ad0f16a131"
+    ],
+    "source_record_ids": [
+      "links-1513",
+      "links-1514"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f279b92eac069ae5e907b8ad0f16a131",
+          "Plant Name": "Rivea ornata Chois",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rivea ornata Chois",
+        "source_record_id": "links-1513",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f279b92eac069ae5e907b8ad0f16a131"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f279b92eac069ae5e907b8ad0f16a131",
+          "Plant Name": "Rivea ornata Chois.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rivea ornata Chois.",
+        "source_record_id": "links-1514",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f279b92eac069ae5e907b8ad0f16a131"
+      }
+    ],
+    "source_xplant_id": "f279b92eac069ae5e907b8ad0f16a131",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

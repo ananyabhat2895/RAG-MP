@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_92d83642d1ab9b1f__vernacular_names__001",
+  "plant_id": "plant_92d83642d1ab9b1f",
+  "plant_name": "Croton tiglium Linn.",
+  "botanical_name": "Croton tiglium",
+  "botanical_authority": "L.",
+  "family": "EUPHORBIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): croton oil\nHindi (5): jaiphal, jamal-gota, jamalgota, jepal, jepal-gota\nKannada (15): berada, byaribittu, byarilittu, danthi, danti, jaapaalada beeja, jaapala, jaavaala, japala, japala beeja, japalada, japalada-bija, nepala, nepalada, nervalada\nMalayalam (13): cadalavanacu, cadel-avanacu, chiduram, dantibijam, katalavanakku, naervalam, neervaula, nervalam, nervvalam, nirvalam, nityavanci, nrvalam, valam\nMarathi (9): arabi-erand, jaepaala, jamalagota, jempal, jepal, jeyapal, jopaala, mogli-erand, nepalcha-bi\nSanskrit (16): Sanskrit CommentsX danti, dantibija, dantibijah, dantibijam, dravanti, duntibeeja, jayapala, jepala, jepalah, kanakaphala, naepala, naypal, nepala, nepalam, recakah, titteriphala\nTamil (32): campari, cevalam, chiduram, cirukurinca, citturupa, copi, kattukkattai, naervalam, naganam, nagandi, nakakenti, nakanam, nakatenti, neervalam, nepalam, ner valam, nervaalam, nervalalm, nervalam, nervalum cottay, nigumbam, nirvalam, sambari, sayabalam, sevalamkottai, sevalangottai, siduram, tanti, tendi, tenti, valam, vanam\nTelugu (12): kaypalum, naepaalamu, naepaalavemu, naepalvaema, nepala-vithalu, nepala-vittulu, nepalam, nepalamu, nepalavemu, nepalavitua, neppalam, simanepalam\nTibetan (2): tra ba nti, tra ban ti (d)\nUrdu (5): habb-us-salateen, hub-ul-salatin, jamal gota taza, jamalgota muddabir, maghz jamalgota",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43571a504bf9f216f52c30d05b77af64"
+  ],
+  "source_record_ids": [
+    "links-0532"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43571a504bf9f216f52c30d05b77af64"
+    ],
+    "source_record_ids": [
+      "links-0532"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43571a504bf9f216f52c30d05b77af64",
+          "Plant Name": "Croton tiglium Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Croton tiglium Linn.",
+        "source_record_id": "links-0532",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43571a504bf9f216f52c30d05b77af64"
+      }
+    ],
+    "source_xplant_id": "43571a504bf9f216f52c30d05b77af64",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

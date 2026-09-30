@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_81881c50e2cde115__distribution__001",
+  "plant_id": "plant_81881c50e2cde115",
+  "plant_name": "Areca catechu Linn.",
+  "botanical_name": "Areca catechu",
+  "botanical_authority": "L.",
+  "family": "ARECACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)\nDistribution entry: author: Author - K.M. Matthew; distribution: Distribution; title: Title - The Flora of the Palni Hills Vol-3\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28342ccb2220a6664e346dc80c25efc4"
+  ],
+  "source_record_ids": [
+    "links-1551"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28342ccb2220a6664e346dc80c25efc4"
+    ],
+    "source_record_ids": [
+      "links-1551"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28342ccb2220a6664e346dc80c25efc4",
+          "Plant Name": "Areca catechu Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Areca catechu Linn.",
+        "source_record_id": "links-1551",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28342ccb2220a6664e346dc80c25efc4"
+      }
+    ],
+    "source_xplant_id": "28342ccb2220a6664e346dc80c25efc4",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

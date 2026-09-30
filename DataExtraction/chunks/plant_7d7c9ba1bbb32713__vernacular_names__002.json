@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_7d7c9ba1bbb32713__vernacular_names__002",
+  "plant_id": "plant_7d7c9ba1bbb32713",
+  "plant_name": "Aegle marmelos",
+  "botanical_name": "Aegle marmelos",
+  "botanical_authority": "(L.) CORREA EX. SCHULTZ",
+  "family": "RUTACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (115): akuvakananmeccumilai, alluram, alukam#, alukam@, aluvigam, aluvikam, anincil, aranpucaikkerramaram2, arcanaiyati, bilva, bilvam, capalukam, catapalam2, catippattiram2, cattal2, cirettamaruntati, ciripalam, ciripalam2, ciripalamaram, cirivirutcam, civankam, civattirumaram, civattiruvam, civatturumam, covalam, iyalbudi, iyalpu@, iyalpupati, iyalputi2, kantapalai2, kantapattiram2, karkatam, karuvila1, karuvilakikamaram, karuvilakitam, karuvilam1, kentakakarpam, kentapattiram2, koovilam, kovaritaki2, kucapi, kuvilai, kuvilam, kuvilam palam, kuvinam, makakapittam, makapalai, makapalam 5, makapittam, makavali, makavalimaram, makavalli, maluram, maluramaram, maruntirkati, mavilamaram, mavilangai, mikuttikam, mikuttikamaram, mikuttiyal 2, mirutiyal, mirutiyam, mirutiyamaram, mulamukkanai, munkalantavirutcatti, mutantamuli, muvilaicci, navacikaram, nilamalikkam, nimilaiccattumuli, ninmalli, nirmatalam, pacunakam, pacunakamaram, pattiracirettam, pattiri3, piracinapanacam#, piracinapanacam@, pitapalam, pukku 2, pukkuli, pukkulimaram, putiiratam, putimarutam, putimarutamaram, putivakam, putivatam, puttiru 2, tiricakam, tiricakamaram, tiricam, tiricikam, tirucam, vailavam, vanamuli, vatacaram, vatam, vatam#, vatamaram, viccanniyam, viccanniyamaram, vil, villai, villankam, villuvam, villvam, vilva, vilva-pazham, vilvam, vilvappu, vilwam, virinikamaram, virinka, virutiyakentam, viyalputi\nTelugu (16): bilva, bilva-pandu, bilvachettu, bilvamu, bilvapandu, maalaaramu, maluramu, maraedu, maredi, maredu, sailushamu, sandiliyamu, shandiliyamu, shreephalamu, sriphalamu, valaga\nTibetan (4): bi lva, bil ba, bil ba (d), ka-bed\nUrdu (8): baelphal, bel, bel kham, belgiri, belgiri (bael), biligiris, chalbel, guda belgiri taza",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858"
+  ],
+  "source_record_ids": [
+    "links-0358",
+    "links-0359"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858"
+    ],
+    "source_record_ids": [
+      "links-0358",
+      "links-0359"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858",
+          "Plant Name": "Aegle marmelos",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aegle marmelos",
+        "source_record_id": "links-0358",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858",
+          "Plant Name": "Aegle marmelos Corr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aegle marmelos Corr.",
+        "source_record_id": "links-0359",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858"
+      }
+    ],
+    "source_xplant_id": "7b3ca01fe9518816abcdf821a6675858",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

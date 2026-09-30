@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_f6ae48d9e33bf537__vernacular_names__001",
+  "plant_id": "plant_f6ae48d9e33bf537",
+  "plant_name": "Balanites aegyptiaca",
+  "botanical_name": "Balanites aegyptiaca",
+  "botanical_authority": "(L.) DELILE",
+  "family": "BALANITACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (17): baam, hingan, hingan-ka- per, hingan-ka-per, hingen, hingol, hingora, hingorni, hingot, hingota, hingotia, hingotio, hingoto, hingu, hingudi, ingna, ingua\nKannada (19): hingaata, hingalat, hingaloru, hingoloro, ingala, ingalaarada mara, ingalada mara, ingalara, ingalarade, ingalare, ingaleeka, ingalika, ingalike, ingalukke, inglara, ingudi, ingulada mara, ingulaka, meenu mara\nMalayalam (4): namunta, nanchunta, nancunta, nunjoonda\nMarathi (6): hingalbet, hingam, hingan, hingan bet, hingane, hingu\nSanskrit (38): Sanskrit CommentsX akantaka, angaravrksa, angarvriksha, angulidala, anilantaka, bhallakiviriksha, daruparnaphala, dirghakanta, gaurtvaka, gouritvae, hinguputra, inguda, ingudam, ingudi, ingudi-vraksha, ingudi-vrikshaka, ingudivrikshaha, ingul, inguni, jalajantu, kantaka, krisharaka, kroshtuphala, munipadapa, putigandha, putranjiva, putripatra, shulari, tailabija, tailaphala, tanupatra, tapasadruma, tapasamudrama, tapasataru, tapasavrksa, tiktaka, tiktarnajja, vinashaka\nTamil (6): nanchundan, nancuntan, nancuntan pattai, nanjunda, nanjundan, toruvattu\nTelugu (7): gaara, gara, gara-chettu, gari, ingalu mullu, ingudi, ringri\nTibetan (1): i ngu da\nUrdu (1): hingot",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7"
+  ],
+  "source_record_ids": [
+    "links-0746",
+    "links-0747"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7"
+    ],
+    "source_record_ids": [
+      "links-0746",
+      "links-0747"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7",
+          "Plant Name": "Balanites aegyptiaca",
+          "Status": "Found"
+        },
+        "source_plant_name": "Balanites aegyptiaca",
+        "source_record_id": "links-0746",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7",
+          "Plant Name": "Balanites aegyptiaca (Linn.) Delile.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Balanites aegyptiaca (Linn.) Delile.",
+        "source_record_id": "links-0747",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7"
+      }
+    ],
+    "source_xplant_id": "cdc40766b050f355f72e25ef8060a9b7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

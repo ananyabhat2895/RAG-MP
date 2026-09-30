@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_d368e24fd6b18504__systems_of_medicine__001",
+  "plant_id": "plant_d368e24fd6b18504",
+  "plant_name": "Baliospermum montanum Muell- Arg.",
+  "botanical_name": "Baliospermum solanifolium",
+  "botanical_authority": "(J.BURM.) SURESH",
+  "family": "EUPHORBIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (4) - Baliospermum axillare BLUME X Full Botanical citation - Baliospermum axillare Blume\nSystem of medicine: Bijdr. Fl. Ned. Ind. 604. 1826; Balakrishnan.N.P & al.\nSystem of medicine: The family Euphorbiaceae in India\nSystem of medicine: Bishen Singh Mahendra Pal Singh\nSystem of medicine: 199. 2007. Baliospermum montanum (WILLD.) MUELL.-ARG. X Full Botanical citation - Baliospermum montanum (Willd.) Mull.Arg. in DC.\nSystem of medicine: Prodr. 15(2): 1125. 1866; Balakrishnan.N.P & al.\nSystem of medicine: 199. 2007. Croton polyandrum ROXB. X Full Botanical citation - Croton polyandrus Roxb. [Hort. Beng. 69. 1814\nSystem of medicine: nom. nud.] Fl. Indica 3: 682. 1832; Balakrishnan.N.P & al.\nSystem of medicine: 199. 2007. Jatropha montana WILLD. X Full Botanical citation - Jatropha montana Willd.\nSystem of medicine: Sp. Pl. 4: 563. 1805; Balakrishnan.N.P & al.\nSystem of medicine: 199. 2007.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/9880ad72c7fc698adc45355595f69f38"
+  ],
+  "source_record_ids": [
+    "links-0482",
+    "links-0483"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/9880ad72c7fc698adc45355595f69f38"
+    ],
+    "source_record_ids": [
+      "links-0482",
+      "links-0483"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/9880ad72c7fc698adc45355595f69f38",
+          "Plant Name": "Baliospermum montanum Muell- Arg.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Baliospermum montanum Muell- Arg.",
+        "source_record_id": "links-0482",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/9880ad72c7fc698adc45355595f69f38"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/9880ad72c7fc698adc45355595f69f38",
+          "Plant Name": "Baliospermum montanum Muell.-Arg.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Baliospermum montanum Muell.-Arg.",
+        "source_record_id": "links-0483",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/9880ad72c7fc698adc45355595f69f38"
+      }
+    ],
+    "source_xplant_id": "f6de86c1e86de21e2adc9d900f6090cd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

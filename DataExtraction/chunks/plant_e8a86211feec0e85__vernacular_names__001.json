@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_e8a86211feec0e85__vernacular_names__001",
+  "plant_id": "plant_e8a86211feec0e85",
+  "plant_name": "Bauhinia racemosa Lam.",
+  "botanical_name": "Bauhinia racemosa",
+  "botanical_authority": "LAM.",
+  "family": "CAESALPINIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (24): ashta, asoda, asundra, asundro, dhorara, ghila, gurial, hatera, jhanjhora, jhinghora, jhinja, jhinjha, jhinjheri, jhira, kachnal, kanchnal, karal, karial, koryale, makkuna, marvil maula, papri, sahata, seta\nKannada (39): aapata, aaptha mara, aaralu, achilu, aishuy, ara, araginda, aralukadumandara, aralumandara, are, arelu, arilumandara, arise, arisele, arisile, arjuna, arjunada, arsilu, arthi, arti, aupta, ayata, bannae, banne, bannemara, chitaachi, ishae, iyuta, jhinjero, kaadumandaara, kanchwala, kancivala, kitacha, kittarasa, kittarisa, kitthirasa, kitunasa, mandara, vana sampige\nMalayalam (5): arambuli, kodavapuli, kotapuli, malayathi, mandaram\nMarathi (10): aapata, aapta, apata, apta, kanraja, seyara, shiara, sonan, vanaraja, vanraja\nSanskrit (16): Sanskrit CommentsX amlalota, anupushpaka, ashmantaka, asmantaka, asmantakah, candrakah, kusali, kushali, shlashnatvaka, slaksnatvak, svetakanchan, svetakanchana, vanaraja, yamalapatraka, yamalapatrakah, yugmapatra\nTamil (16): ar, arai, aram, archi, areka, arikka, athi, atti, kokkumantharai, malai-atthi, mandarai, sallagi, sittacha, tadagi, vattatthi, vellai mantarai\nTelugu (12): aare, ada, adaviyavise, adiviyavise, are, arechettu, ari, manchare, manchiyaare, manjiyare, pachaare, pachare\nUrdu (3): gul-i-anehnal, kachnal (kachnar), poast kachnal",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c2b4c5010227c6fe9941b648c2f055d"
+  ],
+  "source_record_ids": [
+    "links-0179",
+    "links-0891"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c2b4c5010227c6fe9941b648c2f055d"
+    ],
+    "source_record_ids": [
+      "links-0179",
+      "links-0891"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c2b4c5010227c6fe9941b648c2f055d",
+          "Plant Name": "Bauhinia racemosa Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bauhinia racemosa Lam.",
+        "source_record_id": "links-0179",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c2b4c5010227c6fe9941b648c2f055d"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c2b4c5010227c6fe9941b648c2f055d",
+          "Plant Name": "Bauhinia racemosa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bauhinia racemosa",
+        "source_record_id": "links-0891",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c2b4c5010227c6fe9941b648c2f055d"
+      }
+    ],
+    "source_xplant_id": "6c2b4c5010227c6fe9941b648c2f055d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

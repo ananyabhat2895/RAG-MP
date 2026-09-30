@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_9a5d4d183e614ad0__identification__001",
+  "plant_id": "plant_9a5d4d183e614ad0",
+  "plant_name": "Semecarpus anacardium Linn.",
+  "botanical_name": "Semecarpus anacardium",
+  "botanical_authority": "L. F.",
+  "family": "ANACARDIACEAE",
+  "section": "identification",
+  "content": "Plant name: Semecarpus anacardium Linn. Botanical name: Semecarpus anacardium Botanical authority: L. F. Family: ANACARDIACEAE Source xplant ID: 56f6ea2d1adfb66a5efbdc15bffa898a",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56f6ea2d1adfb66a5efbdc15bffa898a"
+  ],
+  "source_record_ids": [
+    "links-0299"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56f6ea2d1adfb66a5efbdc15bffa898a"
+    ],
+    "source_record_ids": [
+      "links-0299"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56f6ea2d1adfb66a5efbdc15bffa898a",
+          "Plant Name": "Semecarpus anacardium Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Semecarpus anacardium Linn.",
+        "source_record_id": "links-0299",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56f6ea2d1adfb66a5efbdc15bffa898a"
+      }
+    ],
+    "source_xplant_id": "56f6ea2d1adfb66a5efbdc15bffa898a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

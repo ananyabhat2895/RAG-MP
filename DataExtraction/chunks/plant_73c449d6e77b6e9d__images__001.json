@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_73c449d6e77b6e9d__images__001",
+  "plant_id": "plant_73c449d6e77b6e9d",
+  "plant_name": "Cissus quadrangularis Linn.",
+  "botanical_name": "Cissus quadrangularis",
+  "botanical_authority": "L.",
+  "family": "VITACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685b6edd514a4c36584e487aa2705e14"
+  ],
+  "source_record_ids": [
+    "links-0204"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685b6edd514a4c36584e487aa2705e14"
+    ],
+    "source_record_ids": [
+      "links-0204"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685b6edd514a4c36584e487aa2705e14",
+          "Plant Name": "Cissus quadrangularis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cissus quadrangularis Linn.",
+        "source_record_id": "links-0204",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685b6edd514a4c36584e487aa2705e14"
+      }
+    ],
+    "source_xplant_id": "685b6edd514a4c36584e487aa2705e14",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

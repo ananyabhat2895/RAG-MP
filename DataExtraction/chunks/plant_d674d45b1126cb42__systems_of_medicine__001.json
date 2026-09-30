@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d674d45b1126cb42__systems_of_medicine__001",
+  "plant_id": "plant_d674d45b1126cb42",
+  "plant_name": "Wrightia tomentosa Roem. & Schult.",
+  "botanical_name": "Wrightia arborea",
+  "botanical_authority": "(DENNST.) MABB.",
+  "family": "APOCYNACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk Botanical Synonyms (1) - Wrightia tomentosa R.& S. X Full Botanical citation - Wrightia tomentosa Roem. & Schult.\nSystem of medicine: Syst. veg. 4: 414. 1819; S. Karthikeyan & al.\nSystem of medicine: Flowering Plants of India - Dicots. 1: 141. 2009.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b761ad76706c434da7b7b92f8f55dc3d/xclkon/a53397a19c4b7e6679fd94bf82fb372d"
+  ],
+  "source_record_ids": [
+    "links-1149"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b761ad76706c434da7b7b92f8f55dc3d/xclkon/a53397a19c4b7e6679fd94bf82fb372d"
+    ],
+    "source_record_ids": [
+      "links-1149"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b761ad76706c434da7b7b92f8f55dc3d/xclkon/a53397a19c4b7e6679fd94bf82fb372d",
+          "Plant Name": "Wrightia tomentosa Roem. & Schult.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Wrightia tomentosa Roem. & Schult.",
+        "source_record_id": "links-1149",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b761ad76706c434da7b7b92f8f55dc3d/xclkon/a53397a19c4b7e6679fd94bf82fb372d"
+      }
+    ],
+    "source_xplant_id": "b761ad76706c434da7b7b92f8f55dc3d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

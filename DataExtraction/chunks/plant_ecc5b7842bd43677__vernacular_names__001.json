@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ecc5b7842bd43677__vernacular_names__001",
+  "plant_id": "plant_ecc5b7842bd43677",
+  "plant_name": "Rosa moschata Herrm.",
+  "botanical_name": "Rosa brunonii",
+  "botanical_authority": "LINDL.",
+  "family": "ROSACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): musk rose\nHindi (19): bal gulab, balgulab, ban, ban gulab, gulab, jujja, karer, karer/bangulab, kuja, kujai, kujas, kujen, kujh, kujh kunj, kunga, kunj, kunja, van gulab, yal\nSanskrit (1): Sanskrit CommentsX kubjaka\nTamil (1): catapattiri 2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8be9312fdfcd1a853f95e4334d861161/xclkon/d7f82b84efd9ab450a978426594ddf86"
+  ],
+  "source_record_ids": [
+    "links-1092"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8be9312fdfcd1a853f95e4334d861161/xclkon/d7f82b84efd9ab450a978426594ddf86"
+    ],
+    "source_record_ids": [
+      "links-1092"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8be9312fdfcd1a853f95e4334d861161/xclkon/d7f82b84efd9ab450a978426594ddf86",
+          "Plant Name": "Rosa moschata Herrm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rosa moschata Herrm.",
+        "source_record_id": "links-1092",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8be9312fdfcd1a853f95e4334d861161/xclkon/d7f82b84efd9ab450a978426594ddf86"
+      }
+    ],
+    "source_xplant_id": "8be9312fdfcd1a853f95e4334d861161",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

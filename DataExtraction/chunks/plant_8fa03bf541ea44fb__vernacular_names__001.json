@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8fa03bf541ea44fb__vernacular_names__001",
+  "plant_id": "plant_8fa03bf541ea44fb",
+  "plant_name": "Terminalia chebula Retz.",
+  "botanical_name": "Terminalia chebula",
+  "botanical_authority": "RETZ. & WILLD.",
+  "family": "COMBRETACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): myrobalans\nHindi (15): haira, halda, har, hara, harad, harada, harar, harara, harash, harb, harhar, harir, harra, harrar, pile-har\nKannada (38): alalai, alalaykoy, alalc-kayi, alale, alale kaayi, alale pathya, alalee, alalekaayi, alalekayi, alate, alegara, alli, anale, anila, anile, aralaikai, arale, arale kaayi, aralekai, aralekaye, arali, arili, arlikaya, halada, halda, halle, harada, harade, haraekayi, hareethaki, haritaki, harithakee, harra, heerda, herdekayi, kaduka, karakkayi, karekayi\nMalayalam (12): divy, divya, kadukai, kadukka, kadukkai, katuikka, katukka, katukkaya, kayastha, kodakka, kodorka, putanam\nMarathi (4): habra, hardi, hirada, hirda\nSanskrit (52): Sanskrit CommentsX abhaya, amogha, amritha, amruta, avyatha, balya, bhishagvara, bhishak-priya, bhishakpriya, chetaki, chetamaki, devi, divya, girija, haimavati, haimayathi, haritaka, haritakee, haritaki, himaja, jaya, jivanika, jivanthi, jivanti, jivapriya, jivya, karkatasringi, kayastha, nandini, pachani, panjarasa, pathya, pramatha, pranada, prapathya, putana, rasayanaphala, reshaki, rohini, rudrapriya, shaka, shakrasrishta, shiva, shreyasi, siva, suddha, sudha, sudhodbhava, triphala, vanatikta, vayastha, vijaya",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c090b5873f7cf6d85f730f4e934ce43"
+  ],
+  "source_record_ids": [
+    "links-0694"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c090b5873f7cf6d85f730f4e934ce43"
+    ],
+    "source_record_ids": [
+      "links-0694"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c090b5873f7cf6d85f730f4e934ce43",
+          "Plant Name": "Terminalia chebula Retz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Terminalia chebula Retz.",
+        "source_record_id": "links-0694",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c090b5873f7cf6d85f730f4e934ce43"
+      }
+    ],
+    "source_xplant_id": "1c090b5873f7cf6d85f730f4e934ce43",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

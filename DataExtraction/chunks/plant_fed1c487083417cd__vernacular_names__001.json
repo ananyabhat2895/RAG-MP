@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_fed1c487083417cd__vernacular_names__001",
+  "plant_id": "plant_fed1c487083417cd",
+  "plant_name": "Jasminum auriculatum Vahl.",
+  "botanical_name": "Jasminum auriculatum",
+  "botanical_authority": "VAHL",
+  "family": "OLEACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (2): juhi, juyi\nKannada (18): davana mallige, ganike mallige, hurinaballi, jaajimallige, kadaramallige, kadaru mallige, kudathargana balli, maagadhi, madhyaanamallige, madhyanamallige, magadhi, magdhimallige, sanna mallige, sannamaallige, sannamallige, sevantige, soojimallige, sujimallige\nMalayalam (3): bolidda, sucimulla, tusimulla\nMarathi (3): jay, jooyi, paandhareejui\nSanskrit (5): Sanskrit CommentsX hemapushpika, jati, malati, svarnajuthica, yuthika\nTamil (32): cucakkiracceti, cucakkiram, ilancitacceti, ilancitam, ilankalatitacceti, irincakam, irincakamallikai, irkkumallikai, karpu, karpuri, karpuricceti, karunamalli, kattaku, kattakumullaicceti, kotimullai, kullimallikai 1, kurmalli, mucumallikai, mullai, mullaikkodi, nocculam, oosimalli, turotaki, turotakicceti, uccimallikai, ucimallikai, udigai, usimalligai, utikai, vanamalligai, vanamallikai 1, yatika\nTelugu (32): adavi teega-malli, adavimolla, adavimolle, adavimulla, adavitheega malle, adivimolla, erraadavimolla, erradavimolla, ettadavimolla, maagadhi, magadhi, maghyamu, mallatheega, mallatiga, malle, mallethige, malletige, molla, mollalu, mulle, sanna jaji, sannadzaji, sannajaajulu, sannajaji, sannajajulu, soojimalle, sudimalle, tellaadacimolla, telladavimolla, thellaadavimolla, vasanthi, vasanti\nTibetan (2): si pu sa, si pu si (d)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/521667df5d056ab61748974be037e097"
+  ],
+  "source_record_ids": [
+    "links-2145"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/521667df5d056ab61748974be037e097"
+    ],
+    "source_record_ids": [
+      "links-2145"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/521667df5d056ab61748974be037e097",
+          "Plant Name": "Jasminum auriculatum Vahl.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Jasminum auriculatum Vahl.",
+        "source_record_id": "links-2145",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/521667df5d056ab61748974be037e097"
+      }
+    ],
+    "source_xplant_id": "521667df5d056ab61748974be037e097",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

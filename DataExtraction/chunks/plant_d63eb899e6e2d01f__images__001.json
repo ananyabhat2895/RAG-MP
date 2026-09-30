@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_d63eb899e6e2d01f__images__001",
+  "plant_id": "plant_d63eb899e6e2d01f",
+  "plant_name": "Citrullus colocynthis Schard.",
+  "botanical_name": "Citrullus colocynthis",
+  "botanical_authority": "(L.) SCHRADER",
+  "family": "CUCURBITACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981"
+  ],
+  "source_record_ids": [
+    "links-0740",
+    "links-0741"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981"
+    ],
+    "source_record_ids": [
+      "links-0740",
+      "links-0741"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981",
+          "Plant Name": "Citrullus colocynthis Schard.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrullus colocynthis Schard.",
+        "source_record_id": "links-0740",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981",
+          "Plant Name": "Citrullus colocynthis Schrad.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrullus colocynthis Schrad.",
+        "source_record_id": "links-0741",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981"
+      }
+    ],
+    "source_xplant_id": "0dda7b33c0cc4a03b37d976f440b9981",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

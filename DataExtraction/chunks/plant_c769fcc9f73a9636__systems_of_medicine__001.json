@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_c769fcc9f73a9636__systems_of_medicine__001",
+  "plant_id": "plant_c769fcc9f73a9636",
+  "plant_name": "Betula utilis D. Don",
+  "botanical_name": "Betula utilis",
+  "botanical_authority": "DON",
+  "family": "BETULACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (1) - Betula bhojpattra WALL. X Full Botanical citation - Betula bhojpatra Lindl. in Wallich\nSystem of medicine: Pl. Asiat. Rar. 2: 7. 1831; R.D.Gaur\nSystem of medicine: Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes)\nSystem of medicine: TransMedia\nSystem of medicine: Srinagar (Garhwal)\nSystem of medicine: India\nSystem of medicine: 109. 1999.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c"
+  ],
+  "source_record_ids": [
+    "links-0344",
+    "links-0345"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c"
+    ],
+    "source_record_ids": [
+      "links-0344",
+      "links-0345"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c",
+          "Plant Name": "Betula utilis D. Don",
+          "Status": "Found"
+        },
+        "source_plant_name": "Betula utilis D. Don",
+        "source_record_id": "links-0344",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c",
+          "Plant Name": "Betula utilis D. Don.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Betula utilis D. Don.",
+        "source_record_id": "links-0345",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c"
+      }
+    ],
+    "source_xplant_id": "9caf4bf1850b735cd5190dc76441947c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a038568447dda995__vernacular_names__001",
+  "plant_id": "plant_a038568447dda995",
+  "plant_name": "Allium stracheyi Baker.",
+  "botanical_name": "Allium stracheyi",
+  "botanical_authority": "BAKER",
+  "family": "LILIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (1): pharna\nSanskrit (1): Sanskrit CommentsX jambu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/806ddf0e3d976e980cafc42d293dc731"
+  ],
+  "source_record_ids": [
+    "links-0765"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/806ddf0e3d976e980cafc42d293dc731"
+    ],
+    "source_record_ids": [
+      "links-0765"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/806ddf0e3d976e980cafc42d293dc731",
+          "Plant Name": "Allium stracheyi Baker.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Allium stracheyi Baker.",
+        "source_record_id": "links-0765",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/806ddf0e3d976e980cafc42d293dc731"
+      }
+    ],
+    "source_xplant_id": "806ddf0e3d976e980cafc42d293dc731",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_427fe55dfbe42b4e__botanical_synonyms__001",
+  "plant_id": "plant_427fe55dfbe42b4e",
+  "plant_name": "Solanum indicum",
+  "botanical_name": "Solanum anguivi",
+  "botanical_authority": "LAM.",
+  "family": "SOLANACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Solanum indicum L. X Full Botanical citation - Solanum indicum auct. non L.; sensu C.B.Clarke in Hook.f., Fl. Brit. India 4: 234. 1883; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 434. 1999. Solanum violaceum ORTEGA\nSynonym: Solanum indicum L.\nSynonym: Solanum violaceum ORTEGA",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2/xclkon/014ee9436ba3b3b4d4dfff54fddddd72"
+  ],
+  "source_record_ids": [
+    "links-0391",
+    "links-0392"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2/xclkon/014ee9436ba3b3b4d4dfff54fddddd72"
+    ],
+    "source_record_ids": [
+      "links-0391",
+      "links-0392"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2/xclkon/014ee9436ba3b3b4d4dfff54fddddd72",
+          "Plant Name": "Solanum indicum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum indicum",
+        "source_record_id": "links-0391",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2/xclkon/014ee9436ba3b3b4d4dfff54fddddd72"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2/xclkon/014ee9436ba3b3b4d4dfff54fddddd72",
+          "Plant Name": "Solanum indicum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum indicum Linn.",
+        "source_record_id": "links-0392",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2/xclkon/014ee9436ba3b3b4d4dfff54fddddd72"
+      }
+    ],
+    "source_xplant_id": "3557bcc2088029a90eab184cfd7ff1e2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

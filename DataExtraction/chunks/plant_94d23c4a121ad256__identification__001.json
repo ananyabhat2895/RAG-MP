@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_94d23c4a121ad256__identification__001",
+  "plant_id": "plant_94d23c4a121ad256",
+  "plant_name": "Glycyrrhiza glabra Linn.",
+  "botanical_name": "Glycyrrhiza glabra",
+  "botanical_authority": "L.",
+  "family": "FABACEAE",
+  "section": "identification",
+  "content": "Plant name: Glycyrrhiza glabra Linn. Botanical name: Glycyrrhiza glabra Botanical authority: L. Family: FABACEAE Source xplant ID: dac1a2e0cbaf230775c55a864aa5eaed",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed"
+  ],
+  "source_record_ids": [
+    "links-1209",
+    "links-2134",
+    "links-2135",
+    "links-2136"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed"
+    ],
+    "source_record_ids": [
+      "links-1209",
+      "links-2134",
+      "links-2135",
+      "links-2136"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed",
+          "Plant Name": "Glycyrrhiza glabra Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Glycyrrhiza glabra Linn.",
+        "source_record_id": "links-1209",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed",
+          "Plant Name": "Glycyrrhiza glabra Linn. var. glandulifera Waldst.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Glycyrrhiza glabra Linn. var. glandulifera Waldst.",
+        "source_record_id": "links-2134",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed",
+          "Plant Name": "Glycyrrhiza glabra Linn. var. typica Regel & Herd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Glycyrrhiza glabra Linn. var. typica Regel & Herd.",
+        "source_record_id": "links-2135",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed",
+          "Plant Name": "Glycyrrhiza glabra Linn. var. violacea Boiss.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Glycyrrhiza glabra Linn. var. violacea Boiss.",
+        "source_record_id": "links-2136",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed"
+      }
+    ],
+    "source_xplant_id": "dac1a2e0cbaf230775c55a864aa5eaed",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

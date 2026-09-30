@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_6f2aa00f787d8cc5__bibliography__001",
+  "plant_id": "plant_6f2aa00f787d8cc5",
+  "plant_name": "Scirpus grossus Linn.f.",
+  "botanical_name": "Scirpus grossus",
+  "botanical_authority": "L. F.",
+  "family": "CYPERACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - ANONYMOUS; title: Title - ASTANGA HRIDAYA KOSHA\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: author: Author - ANONYMOUS; title: Title - THE AYURVEDIC PHARMACOPOEIA OF INDIA PART 1. VOL.1\nBibliography entry: title: Title - Flora of Maharashrta State (Monocotyledons)\nBibliography entry: title: Title - Flora of the Indian Desert\nBibliography entry: title: Title - Flora of Gujarat State Vol 2\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)\nBibliography entry: title: Title - The Flora of Orissa Vol IV",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e31dcff0e6077e95eb1390645f6659d3"
+  ],
+  "source_record_ids": [
+    "links-0997",
+    "links-1000"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e31dcff0e6077e95eb1390645f6659d3"
+    ],
+    "source_record_ids": [
+      "links-0997",
+      "links-1000"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e31dcff0e6077e95eb1390645f6659d3",
+          "Plant Name": "Scirpus grossus Linn.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Scirpus grossus Linn.f.",
+        "source_record_id": "links-0997",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e31dcff0e6077e95eb1390645f6659d3"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e31dcff0e6077e95eb1390645f6659d3",
+          "Plant Name": "Scirpus grossus Linn. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Scirpus grossus Linn. f.",
+        "source_record_id": "links-1000",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e31dcff0e6077e95eb1390645f6659d3"
+      }
+    ],
+    "source_xplant_id": "e31dcff0e6077e95eb1390645f6659d3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_431402e14eb6415c__vernacular_names__001",
+  "plant_id": "plant_431402e14eb6415c",
+  "plant_name": "Mucuna prurita Hook.",
+  "botanical_name": "Mucuna pruriens",
+  "botanical_authority": "(L.) DC.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): bengal bean, cow itch, florida velvet bean, velvet bean\nHindi (25): alkusi, dakli, dankuli chemi, gajaj bel, gajal bel, gajal-bel, gaunch, gaunchhi, gonca, goncha, kach-kori, kannach, kaunc, kaunch, kavach, kawanch, kivacc, kivachh, kivanchh, kiwach, konch, kueela, kuonch, pad-veldi, padveldi\nKannada (33): chinakee beeja, hasaguni, kaadakare, kaadavare, kadavare, kadavarti, koogari, marakate, markata, markate, naasuganni, naayi soanku balli, naayi sonagu balli, naayi sonku, nasaguni-gida, nasagunni, nasagunni kaayi, nasuganni, nasugunni, nasugunni kaayi, nasukoogari, nasukunni, nauisonagu-balli, nayisonagu-balli, nayisonaguballi, nayisonangu, nayisonanguballi, nayisonguballi, thurachee avare balli, turachi-gida, turaci, turanchi, turashi\nMalayalam (17): chorivalli, corivalli, coriyannam, nai-corana, naicorana, naicorina, naikkuruna, naikorana, nakuruna, nayik-korana, nayikuruma, nayikuruna, naykkorana, naykkurana, naykkuruna, shorivalli, shoriyanam\nMarathi (7): kaajkuhilee, kavacha, khag-khiri, khatkurtli, kuhili, kuyeli, majram\nSanskrit (63): Sanskrit CommentsX adhyanda, ajada, ajadhaphala, ajavha, arshabhi, atmagupta, badari, chanda, durabhigraha, dusparsha, gatrabhavyanga, guptaaphala, guptaphala, guru, jada, kacchura, kachhumati, kachhura, kandukari, kandura, kanduri, kapikacchu, kapikacchuh, kapikachchhu, kapikachhu, kapikachliu, kapiprabha, kapiromaphala, kashiroma, kundali, kusumbivalli, langali, maharshabhilangali, markata, markati, mbika, nga, pravrisha, pravrishayani, rishabhajata, rishabhi, rishyaprokta, romalu, romavalli, rrsabhi, rsabha, rsyaprokta, sadyashotha, shimbi, shukapindi, shukashimba, shukavati, sugupta, sukasimbi, svagupta, svayamgupta, svayangupta, tikshna, vanari, vanashukari, varahika, vrishya, vyaghra",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/571cbf77cc7d7792510bafead68d18c4",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544"
+  ],
+  "source_record_ids": [
+    "links-0927",
+    "links-1886"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/571cbf77cc7d7792510bafead68d18c4",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544"
+    ],
+    "source_record_ids": [
+      "links-0927",
+      "links-1886"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/571cbf77cc7d7792510bafead68d18c4",
+          "Plant Name": "Mucuna prurita Hook.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mucuna prurita Hook.",
+        "source_record_id": "links-0927",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/571cbf77cc7d7792510bafead68d18c4"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544",
+          "Plant Name": "Mucuna pruriens DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mucuna pruriens DC.",
+        "source_record_id": "links-1886",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544"
+      }
+    ],
+    "source_xplant_id": "8b22b64302e1857bf8ef9d889912e544",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

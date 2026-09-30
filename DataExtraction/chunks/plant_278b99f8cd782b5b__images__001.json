@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_278b99f8cd782b5b__images__001",
+  "plant_id": "plant_278b99f8cd782b5b",
+  "plant_name": "Mimosa pudica Linn.",
+  "botanical_name": "Mimosa pudica",
+  "botanical_authority": "L.",
+  "family": "MIMOSACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b"
+  ],
+  "source_record_ids": [
+    "links-1153",
+    "links-1154",
+    "links-1155",
+    "links-1156"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b"
+    ],
+    "source_record_ids": [
+      "links-1153",
+      "links-1154",
+      "links-1155",
+      "links-1156"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b",
+          "Plant Name": "Mimosa pudica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mimosa pudica Linn.",
+        "source_record_id": "links-1153",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b",
+          "Plant Name": "Mimosa pudica Linn. Var. hispida Brenan.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mimosa pudica Linn. Var. hispida Brenan.",
+        "source_record_id": "links-1154",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b",
+          "Plant Name": "Mimosa pudica Linn. Var. tetranda DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mimosa pudica Linn. Var. tetranda DC.",
+        "source_record_id": "links-1155",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b",
+          "Plant Name": "Mimosa pudica Linn. Var. unijuga Griseb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mimosa pudica Linn. Var. unijuga Griseb.",
+        "source_record_id": "links-1156",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b"
+      }
+    ],
+    "source_xplant_id": "3127a1ac87d4540d9e298e05642e0c0b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

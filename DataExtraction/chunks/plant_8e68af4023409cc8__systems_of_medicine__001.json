@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_8e68af4023409cc8__systems_of_medicine__001",
+  "plant_id": "plant_8e68af4023409cc8",
+  "plant_name": "Scirpus articulatus Linn.C.B. Clarke",
+  "botanical_name": "Scirpus articulatus",
+  "botanical_authority": "L.",
+  "family": "CYPERACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89f67f6be2dcf28186fd57b047396e53"
+  ],
+  "source_record_ids": [
+    "links-0444",
+    "links-1001"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89f67f6be2dcf28186fd57b047396e53"
+    ],
+    "source_record_ids": [
+      "links-0444",
+      "links-1001"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89f67f6be2dcf28186fd57b047396e53",
+          "Plant Name": "Scirpus articulatus Linn.C.B. Clarke",
+          "Status": "Found"
+        },
+        "source_plant_name": "Scirpus articulatus Linn.C.B. Clarke",
+        "source_record_id": "links-0444",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89f67f6be2dcf28186fd57b047396e53"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89f67f6be2dcf28186fd57b047396e53",
+          "Plant Name": "Scirpus articulatus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Scirpus articulatus Linn.",
+        "source_record_id": "links-1001",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89f67f6be2dcf28186fd57b047396e53"
+      }
+    ],
+    "source_xplant_id": "89f67f6be2dcf28186fd57b047396e53",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

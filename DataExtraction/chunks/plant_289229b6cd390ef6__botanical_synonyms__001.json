@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_289229b6cd390ef6__botanical_synonyms__001",
+  "plant_id": "plant_289229b6cd390ef6",
+  "plant_name": "Pueraria tuberosa DC.",
+  "botanical_name": "Pueraria tuberosa",
+  "botanical_authority": "(ROXB. EX. WILLD.) DC.",
+  "family": "FABACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Hedysarum tuberosum L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e61a3ccb898ce34f62ec050b012b2f2"
+  ],
+  "source_record_ids": [
+    "links-2098"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e61a3ccb898ce34f62ec050b012b2f2"
+    ],
+    "source_record_ids": [
+      "links-2098"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e61a3ccb898ce34f62ec050b012b2f2",
+          "Plant Name": "Pueraria tuberosa DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pueraria tuberosa DC.",
+        "source_record_id": "links-2098",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e61a3ccb898ce34f62ec050b012b2f2"
+      }
+    ],
+    "source_xplant_id": "5e61a3ccb898ce34f62ec050b012b2f2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

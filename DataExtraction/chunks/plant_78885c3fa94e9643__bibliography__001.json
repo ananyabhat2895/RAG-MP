@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_78885c3fa94e9643__bibliography__001",
+  "plant_id": "plant_78885c3fa94e9643",
+  "plant_name": "Aristida setacea Retz.,",
+  "botanical_name": "Aristida setacea",
+  "botanical_authority": "RETZ.",
+  "family": "POACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: title: Title - Flora of Bankura District(West Bengal)\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)\nBibliography entry: title: Title - Flora of the Indian Desert\nBibliography entry: title: Title - The Flora of the Gulf of Mannar\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol III\nBibliography entry: title: Title - Flora of Rajasthan Vol. 3\nBibliography entry: title: Title - The Flora of Orissa Vol IV\nBibliography entry: title: Title - Flora of Maharashrta State (Monocotyledons)\nBibliography entry: title: Title - Flora of Gujarat State Vol 2\nBibliography entry: title: Title - The Flora of the Palni Hills Vol-3",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00e9fae090a40b0f651d720a76bb7c49"
+  ],
+  "source_record_ids": [
+    "links-0881"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00e9fae090a40b0f651d720a76bb7c49"
+    ],
+    "source_record_ids": [
+      "links-0881"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00e9fae090a40b0f651d720a76bb7c49",
+          "Plant Name": "Aristida setacea Retz.,",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aristida setacea Retz.,",
+        "source_record_id": "links-0881",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00e9fae090a40b0f651d720a76bb7c49"
+      }
+    ],
+    "source_xplant_id": "00e9fae090a40b0f651d720a76bb7c49",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

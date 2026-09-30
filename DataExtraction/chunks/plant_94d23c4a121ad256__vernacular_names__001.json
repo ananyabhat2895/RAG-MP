@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_94d23c4a121ad256__vernacular_names__001",
+  "plant_id": "plant_94d23c4a121ad256",
+  "plant_name": "Glycyrrhiza glabra Linn.",
+  "botanical_name": "Glycyrrhiza glabra",
+  "botanical_authority": "L.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): licorice, liquorice\nHindi (10): jathi-madh, jethi-madh, jethimadh, jetimad, kubas-susa, mithilakdi, mulathee, mulathi, mulhathi, mulhatti\nKannada (9): athimadura, ati-madhura, atimadhura, ishta madhooka, jaeshta madhu, jestamaddu, jesthamadhu, yashti-madhuka, yashtimaduka\nMalayalam (7): ati-madhuram, atimadhuram, erattimadhuram, iratti-madhuram, irattimadhuram, yashti-madhukam, yashtimadhukam\nMarathi (2): jashtimadh, jeshtamadha\nSanskrit (28): Sanskrit CommentsX jalayashti, klitaka, madhu, madhu-yashtikam, madhuka, madhukah, madhukahva, madhukam, madhusrava, madhuyashti, madhuyashtika, madhuyashtikam, madhuyasti, madhuyastika, sthalayashti, yashti-madhu, yashtika, yashtimadhu, yashtirasakrya, yashtyawa, yasti, yastika, yastimadhu, yastimadhuh, yastimadhuka, yastyahva, yastyahvam, yastyahvaya\nTamil (81): addimodrum, adhimathuram, adimaduram, aravam, athimaduram, athimathuram, athimathurappal, ati maduram, ati-maduram, atimaduram, atimaturam, atimaturamver, atinaram, atinkam, atinkucceti, atinmku, atti, atti 1, attikala, attikatakam, attimatucaram, attimaturam, attimaturi, attivellai, attiyam, attumutti, calli, cimaiyatimaturam, cira, ciraval, ecitavakam, ekitavakam, eratam, eratayam, etalakam, etalakam 1, evarukan, evarukan@, ivastimaturam, iyastimaturam, kancukam, kancukam 1, kattatimaturam, kilitakam, koli, kunriver, kuyilamoti, kuyinmoli, mannaikatti, mannaikkatti, mannaikkatticceti, mannaikkatticeti, mati 2, matikamaturam, matu, matu 2, matucosayam, matukam, matukam 1, matukam 1#, matukam 1@, matukamaliram, matukamaturam, matukamaviram, matukavalli, matuli, matulikam, matuparni, matura, maturakam, maturakam 1, maturam 1, maturaver, mulankam, nuncu, vatalam, vellaikkunri, venkunri, vitakam, yastimatukam, yatti\nTelugu (7): athimaduramu, athimathuram, ati-madhuramu, atimadhuramu, atimaduramu, yashti-madhukam, yashtimadhukam\nTibetan (2): sin mnar, sin-mnar\nUrdu (15): asal-us-sus, asal-us-sus muqqashar, asal-us-sus nim kofta, asl-us-soos, asl-us-sus, mithi lakdi, mulathi, mulethi, mulhatti, nim kofta mulethi, rub-ul-sus, rub-ul-sus siyah, rub-us-sus, rubb-us-soos, tub-ul-sus",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed"
+  ],
+  "source_record_ids": [
+    "links-1209",
+    "links-2134",
+    "links-2135",
+    "links-2136"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed"
+    ],
+    "source_record_ids": [
+      "links-1209",
+      "links-2134",
+      "links-2135",
+      "links-2136"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed",
+          "Plant Name": "Glycyrrhiza glabra Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Glycyrrhiza glabra Linn.",
+        "source_record_id": "links-1209",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed",
+          "Plant Name": "Glycyrrhiza glabra Linn. var. glandulifera Waldst.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Glycyrrhiza glabra Linn. var. glandulifera Waldst.",
+        "source_record_id": "links-2134",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed",
+          "Plant Name": "Glycyrrhiza glabra Linn. var. typica Regel & Herd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Glycyrrhiza glabra Linn. var. typica Regel & Herd.",
+        "source_record_id": "links-2135",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed",
+          "Plant Name": "Glycyrrhiza glabra Linn. var. violacea Boiss.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Glycyrrhiza glabra Linn. var. violacea Boiss.",
+        "source_record_id": "links-2136",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed"
+      }
+    ],
+    "source_xplant_id": "dac1a2e0cbaf230775c55a864aa5eaed",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

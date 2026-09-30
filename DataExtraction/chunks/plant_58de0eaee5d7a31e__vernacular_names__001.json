@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_58de0eaee5d7a31e__vernacular_names__001",
+  "plant_id": "plant_58de0eaee5d7a31e",
+  "plant_name": "Abutilon indicum (Linn.) Sw.",
+  "botanical_name": "Abutilon indicum",
+  "botanical_authority": "(L.) SWEET subsp. guineense (SCHUMACH.) BORSSUM",
+  "family": "MALVACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (8): jhampi, kandhi, kangahi, kangai, kanghani, kanghi, kanghi-ka-pat, tepari\nKannada (21): baralu kaddi, giduthingi, gidutingi, haagade, hetthukisu, hetthutthi, hettukisu, hettutti, kisangi, mudre gida, neladurve, shreemudre gida, shrimudrigida, srimudre, srimudre gida, srimudrigida, thurubee gida, thuthi gida, tutti, tutti gida, tuttigida\nMalayalam (12): beloeren, katturam, katturan, kuruntotti, pettaka, pettaka-putti, pitikkapattu, tutta, tutti, tuvatti, uram, velluram\nMarathi (15): akakai, chakrabhenda, kangain, kangori, kansuli, karandi, madmi, mudra, mudrika, petari, pidari, pitari, selamchi-petari, vhadli petari, vikankati\nSanskrit (17): Sanskrit CommentsX atibala, bala, balika, balya, bhuribala, ghanta, kankati, kankatika, mahabala, pitapuspa, rishiprokta, shita, shitapushpa, vatyapushpika, vikankata, vrishyagandha, vrishyagandhika\nTamil (15): duddi, nallatutti, pamyarattutti, paniyarattuti, patappori, patapporicceti, patarpori, perun-tutti, perundutti, peruntutti, thuthi, thuththi, tutti, tuttirai, ventutti\nTelugu (29): adavi benda, adavibenda, botiabenda, botla benda, botlabenda, doodi, doodi chettu, dudi, erri benda, erribenda, kamalaku, muttavashirubenda, mutthavachirubenda, noogubenda, nugu-benda, nugubenda, pedda benda, peddabenda, pipidi kaaya, thuteribenda, thuthi, thuthura benda, thutirichettu, thutthi, thutthurubenda, tooteabenda, tutiri-chettu, tutti, tutturu-benda\nTibetan (3): a ti ba la, ba-la, i ta la\nUrdu (1): kanghi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59"
+  ],
+  "source_record_ids": [
+    "links-0230",
+    "links-0231",
+    "links-0232"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59"
+    ],
+    "source_record_ids": [
+      "links-0230",
+      "links-0231",
+      "links-0232"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59",
+          "Plant Name": "Abutilon indicum (Linn.) Sw.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Abutilon indicum (Linn.) Sw.",
+        "source_record_id": "links-0230",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59",
+          "Plant Name": "Abutilon indicum (Linn.) SW.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Abutilon indicum (Linn.) SW.",
+        "source_record_id": "links-0231",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59",
+          "Plant Name": "Abutilon indicum Sw.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Abutilon indicum Sw.",
+        "source_record_id": "links-0232",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59"
+      }
+    ],
+    "source_xplant_id": "fa08ad0afc3fc7eb8f67e8cff5cb0c59",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

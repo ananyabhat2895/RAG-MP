@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_d85bf443f83f34d6__images__001",
+  "plant_id": "plant_d85bf443f83f34d6",
+  "plant_name": "Pluchea lanceolata",
+  "botanical_name": "Pluchea lanceolata",
+  "botanical_authority": "OLIVER & HIERN.",
+  "family": "ASTERACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01f48d7c7f63fb49ecdfc58d4d352ecf"
+  ],
+  "source_record_ids": [
+    "links-1607",
+    "links-1608",
+    "links-1609",
+    "links-1610"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01f48d7c7f63fb49ecdfc58d4d352ecf"
+    ],
+    "source_record_ids": [
+      "links-1607",
+      "links-1608",
+      "links-1609",
+      "links-1610"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01f48d7c7f63fb49ecdfc58d4d352ecf",
+          "Plant Name": "Pluchea lanceolata",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pluchea lanceolata",
+        "source_record_id": "links-1607",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01f48d7c7f63fb49ecdfc58d4d352ecf"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01f48d7c7f63fb49ecdfc58d4d352ecf",
+          "Plant Name": "Pluchea lanceolata C.B. Clarke",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pluchea lanceolata C.B. Clarke",
+        "source_record_id": "links-1608",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01f48d7c7f63fb49ecdfc58d4d352ecf"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01f48d7c7f63fb49ecdfc58d4d352ecf",
+          "Plant Name": "Pluchea lanceolata C.B. Clarke.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pluchea lanceolata C.B. Clarke.",
+        "source_record_id": "links-1609",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01f48d7c7f63fb49ecdfc58d4d352ecf"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01f48d7c7f63fb49ecdfc58d4d352ecf",
+          "Plant Name": "Pluchea lanceolata Oliver & Hiern.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pluchea lanceolata Oliver & Hiern.",
+        "source_record_id": "links-1610",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01f48d7c7f63fb49ecdfc58d4d352ecf"
+      }
+    ],
+    "source_xplant_id": "01f48d7c7f63fb49ecdfc58d4d352ecf",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

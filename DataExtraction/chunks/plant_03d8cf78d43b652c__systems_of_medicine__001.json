@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_03d8cf78d43b652c__systems_of_medicine__001",
+  "plant_id": "plant_03d8cf78d43b652c",
+  "plant_name": "Gymnosporia spinosa (Forsk.) Fiori",
+  "botanical_name": "Maytenus senegalensis",
+  "botanical_authority": "(LAM.) EXELL.",
+  "family": "CELASTRACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk Botanical Synonyms (2) - Gymnosporia montana (ROTH.) BENTH. X Full Botanical citation - Gymnosporia montana (Roth) Benth.\nSystem of medicine: Fl. Austr. 1: 400. 1863; K. Ramamurthy in N.P. Singh & al.\nSystem of medicine: Fl. India 5: 126. 2000. Gymnosporia spinosa MERILL & ROLFE",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58404bfed44cb6699fa1efc8821009da/xclkon/2a03328c206c3c13d1b4eb94cab05a0c"
+  ],
+  "source_record_ids": [
+    "links-2103"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58404bfed44cb6699fa1efc8821009da/xclkon/2a03328c206c3c13d1b4eb94cab05a0c"
+    ],
+    "source_record_ids": [
+      "links-2103"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58404bfed44cb6699fa1efc8821009da/xclkon/2a03328c206c3c13d1b4eb94cab05a0c",
+          "Plant Name": "Gymnosporia spinosa (Forsk.) Fiori",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gymnosporia spinosa (Forsk.) Fiori",
+        "source_record_id": "links-2103",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58404bfed44cb6699fa1efc8821009da/xclkon/2a03328c206c3c13d1b4eb94cab05a0c"
+      }
+    ],
+    "source_xplant_id": "58404bfed44cb6699fa1efc8821009da",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

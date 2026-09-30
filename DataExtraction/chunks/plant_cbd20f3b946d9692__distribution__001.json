@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_cbd20f3b946d9692__distribution__001",
+  "plant_id": "plant_cbd20f3b946d9692",
+  "plant_name": "Terminalia Arjuna",
+  "botanical_name": "Terminalia arjuna",
+  "botanical_authority": "(ROXB.) WIGHT & ARN.",
+  "family": "COMBRETACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - C.J SALDHANA; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-2\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol I\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Dr. Narain Singh Chauhan; distribution: Distribution; title: Title - Medicinal and Aromatic Plants of Himachal Pradesh\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99fb9bdc36beb315723723c5c92057a3"
+  ],
+  "source_record_ids": [
+    "links-0152",
+    "links-0153",
+    "links-0154"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99fb9bdc36beb315723723c5c92057a3"
+    ],
+    "source_record_ids": [
+      "links-0152",
+      "links-0153",
+      "links-0154"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99fb9bdc36beb315723723c5c92057a3",
+          "Plant Name": "Terminalia Arjuna",
+          "Status": "Found"
+        },
+        "source_plant_name": "Terminalia Arjuna",
+        "source_record_id": "links-0152",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99fb9bdc36beb315723723c5c92057a3"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99fb9bdc36beb315723723c5c92057a3",
+          "Plant Name": "Terminalia arjuna (Roxb.) W. & A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Terminalia arjuna (Roxb.) W. & A.",
+        "source_record_id": "links-0153",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99fb9bdc36beb315723723c5c92057a3"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99fb9bdc36beb315723723c5c92057a3",
+          "Plant Name": "Terminalia arjuna W. & A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Terminalia arjuna W. & A.",
+        "source_record_id": "links-0154",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99fb9bdc36beb315723723c5c92057a3"
+      }
+    ],
+    "source_xplant_id": "99fb9bdc36beb315723723c5c92057a3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

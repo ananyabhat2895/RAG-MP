@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_bb74060f41da4c30__images__001",
+  "plant_id": "plant_bb74060f41da4c30",
+  "plant_name": "Sansevieria hyacinthoides (Linn.) Druce.",
+  "botanical_name": "Sansevieria hyacinthoides",
+  "botanical_authority": "(L.) DRUCE",
+  "family": "AGAVACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2321b658c4473068df3516f2836eabe4"
+  ],
+  "source_record_ids": [
+    "links-1349"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2321b658c4473068df3516f2836eabe4"
+    ],
+    "source_record_ids": [
+      "links-1349"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2321b658c4473068df3516f2836eabe4",
+          "Plant Name": "Sansevieria hyacinthoides (Linn.) Druce.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sansevieria hyacinthoides (Linn.) Druce.",
+        "source_record_id": "links-1349",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2321b658c4473068df3516f2836eabe4"
+      }
+    ],
+    "source_xplant_id": "2321b658c4473068df3516f2836eabe4",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

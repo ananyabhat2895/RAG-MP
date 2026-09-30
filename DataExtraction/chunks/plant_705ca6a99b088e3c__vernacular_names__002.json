@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_705ca6a99b088e3c__vernacular_names__002",
+  "plant_id": "plant_705ca6a99b088e3c",
+  "plant_name": "Pterocarpus santalinus Linn.",
+  "botanical_name": "Pterocarpus santalinus",
+  "botanical_authority": "L.F.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "Telugu (32): agarugandhamu, candanam, chandam, chandanam, chandanamu, erra-gandamu, erra-gandhapu-chekka, erracandamanu, errachandamu, errachandanam, erragandhapu, ettachandamu, kuchandanam, kuchandanamu, kunchandanamu, rakta-chandanam, rakta-gandham, raktacandanamu, raktachandanam, raktachandanamu, raktagandham, raktagandhamu, raktha chandanamu, raktha-chandanamu, rakthagandhamu, shandam, shandanamu, sundhanam, tsandanam, yerra-chandanamu, yerrachandanam, yerragandhamu\nTibetan (4): dmar, tsa nda na dmar po, tsan dan damar po, tsan dan dmar po\nUrdu (3): burada sandal safaid, burada sandal surkh, sandal surkh",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ad2e15c6824666f30999d5a3856a7ab"
+  ],
+  "source_record_ids": [
+    "links-0417",
+    "links-1590",
+    "links-1591",
+    "links-1592"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ad2e15c6824666f30999d5a3856a7ab"
+    ],
+    "source_record_ids": [
+      "links-0417",
+      "links-1590",
+      "links-1591",
+      "links-1592"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ad2e15c6824666f30999d5a3856a7ab",
+          "Plant Name": "Pterocarpus santalinus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pterocarpus santalinus Linn.",
+        "source_record_id": "links-0417",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ad2e15c6824666f30999d5a3856a7ab"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ad2e15c6824666f30999d5a3856a7ab",
+          "Plant Name": "Pterocarpus santalinus",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pterocarpus santalinus",
+        "source_record_id": "links-1590",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ad2e15c6824666f30999d5a3856a7ab"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ad2e15c6824666f30999d5a3856a7ab",
+          "Plant Name": "Pterocarpus santalinus Linn. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pterocarpus santalinus Linn. f.",
+        "source_record_id": "links-1591",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ad2e15c6824666f30999d5a3856a7ab"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ad2e15c6824666f30999d5a3856a7ab",
+          "Plant Name": "Pterocarpus santalinus Linn.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pterocarpus santalinus Linn.f.",
+        "source_record_id": "links-1592",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ad2e15c6824666f30999d5a3856a7ab"
+      }
+    ],
+    "source_xplant_id": "7ad2e15c6824666f30999d5a3856a7ab",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

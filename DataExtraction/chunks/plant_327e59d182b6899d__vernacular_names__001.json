@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_327e59d182b6899d__vernacular_names__001",
+  "plant_id": "plant_327e59d182b6899d",
+  "plant_name": "Caesalpinia sappan Linn.",
+  "botanical_name": "Caesalpinia sappan",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): brazil wood, sappanwood\nHindi (6): bakam, bakkom, patamg, patang, patang-ki-lakri, tairi\nKannada (11): cappanga, chapenga, chappanga, patanga, patanga-chekke, patangachekke, patangada, pathangee, patranga, pattanga, sappanga\nMalayalam (11): cappanam, cappannam, chappanam, chappannam, isiapangam, isiyapangam, patrangam, sappannam, tsiapangum, tsja-pangan, tsjampangam\nMarathi (2): patang, pathang\nSanskrit (22): Sanskrit CommentsX bharyavriksha, kashtha, kuchandana, lohitaranga, patanga, patangah, patangam, patranga, patrangah, pattanga, pattaranga, pattaranjaka, pattaranjakah, pattranya, pattura, raktaka, raktasar, ranjana, rogakashtha, ruktamukta, suranga, surangada\nTamil (38): cappan, cappankam#, cappankam@, cappanki, cappanku#, cappanku@, cayamaram, cemmaram, cemmaram1, ciyapankam, padangam, parthangi, patamgam, patankam, patankam2, patankan, patanku1, pattanki, patunga, patungam, sapangu, sappamgu, sappan, sappangu, varatanci, varattangi, vartangi, varttanki 1, varttankikkattai, vattangi, vattanki#, vattanki@, vattankkkattai, vattekku, vattekku 1, vatunghe cuttay, vetteku, vurthingi\nTelugu (25): bakaanu chekka, bakamu, bakanu, bakanu-chekka, bakapu, bakarucakka, bakaruchakka, bakasu chekka, bakkapu, bakkapu-chekka, bukkamu, bukkapu, bukkapuchettu, bukkum, kaparimaddi, kapuramaddi, okaanu, okanu, okanu-katta, patanga, patanga-katta, pathanga, pathanga chakka, varattangi, vurthingi\nUrdu (1): patang",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/caf9a50e01a48f330e490c53febf3b0f"
+  ],
+  "source_record_ids": [
+    "links-1093"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/caf9a50e01a48f330e490c53febf3b0f"
+    ],
+    "source_record_ids": [
+      "links-1093"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/caf9a50e01a48f330e490c53febf3b0f",
+          "Plant Name": "Caesalpinia sappan Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Caesalpinia sappan Linn.",
+        "source_record_id": "links-1093",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/caf9a50e01a48f330e490c53febf3b0f"
+      }
+    ],
+    "source_xplant_id": "caf9a50e01a48f330e490c53febf3b0f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_52fbb0f53a5a61f7__identification__001",
+  "plant_id": "plant_52fbb0f53a5a61f7",
+  "plant_name": "Tylophora fasciculata Ham. ex Wight.",
+  "botanical_name": "Tylophora fasciculata",
+  "botanical_authority": "BUCH.-HAM. EX WIGHT",
+  "family": "ASCLEPIADACEAE",
+  "section": "identification",
+  "content": "Plant name: Tylophora fasciculata Ham. ex Wight. Botanical name: Tylophora fasciculata Botanical authority: BUCH.-HAM. EX WIGHT Family: ASCLEPIADACEAE Source xplant ID: 2829e2e811d2932e6010e2ff244b64d3",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2829e2e811d2932e6010e2ff244b64d3"
+  ],
+  "source_record_ids": [
+    "links-0613"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2829e2e811d2932e6010e2ff244b64d3"
+    ],
+    "source_record_ids": [
+      "links-0613"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2829e2e811d2932e6010e2ff244b64d3",
+          "Plant Name": "Tylophora fasciculata Ham. ex Wight.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tylophora fasciculata Ham. ex Wight.",
+        "source_record_id": "links-0613",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2829e2e811d2932e6010e2ff244b64d3"
+      }
+    ],
+    "source_xplant_id": "2829e2e811d2932e6010e2ff244b64d3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_6ed15b98a39e7190__vernacular_names__001",
+  "plant_id": "plant_6ed15b98a39e7190",
+  "plant_name": "Stereospermum tetragonum DC.",
+  "botanical_name": "Stereospermum colais",
+  "botanical_authority": "(DILLWYN) MABB.",
+  "family": "BIGNONIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): padri\nHindi (7): padal, pader, padiri, padri, paral, parral, patar\nKannada (33): adri, antupurale gida mara, haadari, hadari, hude, hudi, kaalaadari, kala-adri, kalamenasina mara, kaliudure, kalludi, kalludure, kalludure kariudure, kalluluve, kaludi, kari udure, karivudure, katniruli, lingadhaari, maili, malaili, malevudure, mallari, mookaarthi, mukarti, najudi, neerulli mara, paadari, padari, pappulave, pathiri, pudikekadunirudure, puruli\nMalayalam (10): kachasthali, karinkara, kuberakshi, padiri, padri, patiri, phaleruha, poopathiri, pupatiri, puppatiri\nMarathi (13): kirsal, kirsel, koosga, paadal, paadhri, padal, padhri, padoli, padri, padul, padvale, thuatuka, tuatuka\nSanskrit (9): Sanskrit CommentsX ambuvasini, amogha, kalavrntika, patala, patalih, patoli, tamrapuspi, toyadhivasini, vasantaduti\nTamil (110): alippiriyam2, ambu, ambuvagini, amokini, amokinimaram, ampu3, ampuvacini, ampuvakini1, appu, appura, appuramaram, camaracavacani, canci, canciyam, cataippumpatiri, cataippumpatirimaram, catappu#, cayataru, citamata, citari#, citari@, civakitam, civakitamaram, curavikaranacini, cuvacini@, cuvetatalam, cuvetavam, cuvetavamaram, cuvettanam, ilam, imam, iyam, iyamaram, kamatuti, kampumi, kanalvirukkamaram, kanavirukkam, kanrarunkan, kantapatali, kaulikam, kirusnaviruntai, kiruttinaiviruntai1, kiruttinaviruttikam1, kumpika, kunantulliyam, kunpantu, kuperatcam, kuperatci, kural, kural#, kural@, kurali, kuramalikam, kuramalikamaram, moka, mokam 1, netumpatiri, netumpatirimaram, nontakiri2, nontakirimaram, paadiri, padalam, padali, padiri, palorukam, palorukamaram, panturai, patalam, patali 1, patalivayam 3, pataliyam 3, pataliyamaram, patari, patiri, patirimaram, pattal, pavattam, pombathiri, ponbadiri, ponpadiri, ponpatiri, poompathiri, pumbadiri, pumpadiri, pumpatarai, pumpataraimaram, pumpatiri, punarkalimaram, pungali, punkali, punkali 1, punkalimaram, pupadiri, talipam, taliyam, taliyamaram, tamaruputpi, tatali, tavalapatali@, tevikam, tevikamaram, tirucimantam, tirumpikam, vacani 2, vakini, velapadri, vellaippatiri, vennatipan, vetuka, vikaranacini\nTelugu (18): arajavepa, godalippulusu, ishikaraasi, ishikarasi, isikirasi, kala-kod, kalagora, kalagoru, kaligottu, kokkesa, magavaepa, magavepa, pagada, pisul, pisulu, pulakevalamu, tagada, thagada\nTibetan (1): pa ta li dkar po",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/313938af7d4fee70d5638abc68208358/xclkon/80e9e02279c6d39c020f91ccdd2a8eca"
+  ],
+  "source_record_ids": [
+    "links-1495",
+    "links-1805"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/313938af7d4fee70d5638abc68208358/xclkon/80e9e02279c6d39c020f91ccdd2a8eca"
+    ],
+    "source_record_ids": [
+      "links-1495",
+      "links-1805"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/313938af7d4fee70d5638abc68208358/xclkon/80e9e02279c6d39c020f91ccdd2a8eca",
+          "Plant Name": "Stereospermum tetragonum DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Stereospermum tetragonum DC.",
+        "source_record_id": "links-1495",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/313938af7d4fee70d5638abc68208358/xclkon/80e9e02279c6d39c020f91ccdd2a8eca"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/313938af7d4fee70d5638abc68208358/xclkon/80e9e02279c6d39c020f91ccdd2a8eca",
+          "Plant Name": "Stereospermum Tetragonum DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Stereospermum Tetragonum DC.",
+        "source_record_id": "links-1805",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/313938af7d4fee70d5638abc68208358/xclkon/80e9e02279c6d39c020f91ccdd2a8eca"
+      }
+    ],
+    "source_xplant_id": "313938af7d4fee70d5638abc68208358",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

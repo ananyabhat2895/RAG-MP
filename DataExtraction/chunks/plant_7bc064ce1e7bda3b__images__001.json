@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_7bc064ce1e7bda3b__images__001",
+  "plant_id": "plant_7bc064ce1e7bda3b",
+  "plant_name": "Salacia chinensis Linn.",
+  "botanical_name": "Salacia chinensis",
+  "botanical_authority": "L.",
+  "family": "CELASTRACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf4333baf9e3d5b4cb931b2cc787e240"
+  ],
+  "source_record_ids": [
+    "links-1730"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf4333baf9e3d5b4cb931b2cc787e240"
+    ],
+    "source_record_ids": [
+      "links-1730"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf4333baf9e3d5b4cb931b2cc787e240",
+          "Plant Name": "Salacia chinensis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Salacia chinensis Linn.",
+        "source_record_id": "links-1730",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf4333baf9e3d5b4cb931b2cc787e240"
+      }
+    ],
+    "source_xplant_id": "cf4333baf9e3d5b4cb931b2cc787e240",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_596fd65ef4b6549c__distribution__001",
+  "plant_id": "plant_596fd65ef4b6549c",
+  "plant_name": "Elaeodendron glaucum Pers.",
+  "botanical_name": "Cassine glauca",
+  "botanical_authority": "(ROTTB.) O.KTZE.",
+  "family": "CELASTRACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - BSI Scientist; distribution: Distribution; title: Title - Flora of West Bengal Vol 1\nDistribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - Ed. P. Daniel; distribution: Distribution; title: Title - The Flora of Kerala Vol I\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - C.J SALDHANA; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-2\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol I\nDistribution entry: author: Author - A.E. Osmaston; distribution: Distribution; title: Title - A Forest Flora for Kumaon\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7727492ab9aa7dcdfa024d295d8072ae/xclkon/89fd92fe97aae8b3f6342686bbc8dacf"
+  ],
+  "source_record_ids": [
+    "links-0177"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7727492ab9aa7dcdfa024d295d8072ae/xclkon/89fd92fe97aae8b3f6342686bbc8dacf"
+    ],
+    "source_record_ids": [
+      "links-0177"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7727492ab9aa7dcdfa024d295d8072ae/xclkon/89fd92fe97aae8b3f6342686bbc8dacf",
+          "Plant Name": "Elaeodendron glaucum Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Elaeodendron glaucum Pers.",
+        "source_record_id": "links-0177",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7727492ab9aa7dcdfa024d295d8072ae/xclkon/89fd92fe97aae8b3f6342686bbc8dacf"
+      }
+    ],
+    "source_xplant_id": "7727492ab9aa7dcdfa024d295d8072ae",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_bf9e792c8a689767__vernacular_names__001",
+  "plant_id": "plant_bf9e792c8a689767",
+  "plant_name": "Nymphaea stellata Willd.",
+  "botanical_name": "Nymphaea stellata",
+  "botanical_authority": "WILLD.",
+  "family": "NYMPHAEACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): indian blue water-lily\nHindi (3): lilophal, nilkamal, nilpadma\nMalayalam (1): sitambel\nMarathi (8): kalakamal, kamal, kasturi-salak, krishnakamal, kumtan, porebunder, poyani, uplia-kamal\nSanskrit (23): Sanskrit CommentsX asitotpala, indivara, indivaram, indiwar, kahlarah, kandota, kandotha, kumuda, kumudah, kuvalaya, mridutpala, nilakamala, nilaliya, nilambujanma, nilapadma, nilapatra, nilotpala, nilpankaja, nilpatraka, saugandhika, utpala, utpalaka, utpalam\nTamil (53): acitampurukam@, acitorpalam, alli, ampal, ancanala#, ancanala@, ancani 2, anuttinam, caukantikam2, cirralli, cirrampal, intamparam, intamvaram, intiralayam, intiravam, kannapuram, kantotakam, kantotam2, karnapuram, karuneytarpu, karunkavi, karuppalli, kontalmeni, koticcittamarai, maltayam, mekaniram, mekanirattamarai, mirutorpalakkoti, miruturpalam, neydal, neytal, nilakamalam, nilalli, nilampal, nilampucam, nilapatumam, nilapatumam#, nilapatumam@, nilavalli, nilorpalam, nilotpavam, nir, nirkkuvalai, nirkkuvalaikkoti, otaivanitakkoti, otaivanitam, porutaki 1, unampal2, unamparkoti, urpalam3, uta allikkoti, utampal2, utavalli2\nTelugu (4): indeevaramu, kalva puvvu, neeti kaluva, nitikulava\nTibetan (2): u tpa la snon po, u tpa la snos po",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55669346cfc88ce051fbd6c2951c4147"
+  ],
+  "source_record_ids": [
+    "links-1119"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55669346cfc88ce051fbd6c2951c4147"
+    ],
+    "source_record_ids": [
+      "links-1119"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55669346cfc88ce051fbd6c2951c4147",
+          "Plant Name": "Nymphaea stellata Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Nymphaea stellata Willd.",
+        "source_record_id": "links-1119",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55669346cfc88ce051fbd6c2951c4147"
+      }
+    ],
+    "source_xplant_id": "55669346cfc88ce051fbd6c2951c4147",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

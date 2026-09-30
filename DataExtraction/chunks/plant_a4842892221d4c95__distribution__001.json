@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a4842892221d4c95__distribution__001",
+  "plant_id": "plant_a4842892221d4c95",
+  "plant_name": "Parmelia perlata Ach.",
+  "botanical_name": "Parmelia perlata",
+  "botanical_authority": "(HUDS.) ACH.",
+  "family": "PARMELIACEAE(LICHEN)",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Dr. Narain Singh Chauhan; distribution: Distribution; title: Title - Medicinal and Aromatic Plants of Himachal Pradesh",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51b266bd8a3811512899bf3fe93784d3"
+  ],
+  "source_record_ids": [
+    "links-1679"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51b266bd8a3811512899bf3fe93784d3"
+    ],
+    "source_record_ids": [
+      "links-1679"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51b266bd8a3811512899bf3fe93784d3",
+          "Plant Name": "Parmelia perlata Ach.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Parmelia perlata Ach.",
+        "source_record_id": "links-1679",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51b266bd8a3811512899bf3fe93784d3"
+      }
+    ],
+    "source_xplant_id": "51b266bd8a3811512899bf3fe93784d3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

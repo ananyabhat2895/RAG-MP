@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_90f1631390834aee__vernacular_names__001",
+  "plant_id": "plant_90f1631390834aee",
+  "plant_name": "Wattakaka volubilis (Linn.f.) Stapf.",
+  "botanical_name": "Wattakaka volubilis",
+  "botanical_authority": "(L.F.) STAPF",
+  "family": "ASCLEPIADACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (10): akad bel, akad-bel, harandodi, mund bel, murd bel, murd-bel, nakchhikni, nakchikni, padal bel, padel-bel\nKannada (11): dugdhike, dughdike balli, dughike, haema jaavanthika, hovanada hesale, kaada haale balli, kaadahaale balli, kaadu haale balli, kareghije, karegije, karigichi\nMalayalam (3): vattakkakkakkoti, watta-kaka-kodi, wattakakacodi\nMarathi (8): ambri, harandodi, harandori, haranvela, hirandodi, hirandori, hori, khandodi\nSanskrit (22): Sanskrit CommentsX brhatpurva, hemajivanti, hemakshiri, hemalata, hemapurna, hemavalli, hemavati, hemavha, himashraya, madhumalati, madhurasah, morata, murva, saumya, sujivanti, sumangala, suparnika, svarnajiva, svarnajivantika, svarnalata, svarnaparna, trinagranthi\nTamil (58): aram, ayappalai, cinkiram, cinkitappalai, cinkittam, civanti, civanti 3, civantitam, civantitappalai, iracakam, iruvikam, kacavirutcam, kamal, kanattaticaram 2, karegije, karilam, karilamaram, karippalai, karippoki, karippokimaram, kodie palay, kodiepalay, kodippalai, kontaccani 2, kontaiccani, kotippalai, kotivacali, kotivacalippalai, kudasapalai, kudasappalai, kurinca 3, kurincha, kurinja, kurinjakkirai, kutacappalai 4, maturacappalai, maturacappattu, naccuruppan 2, nakappalai, nallapalai, nancarappayncankoti, nancarappayntan 2, nancaruki, nancarukippalalikkoti, nancaruppan 3, nancumurittan 3, palai 7, palaikkodi, palotuvai#, palotuvai@, parkulappam, parkulappamaram, singittam, sivandi, timpalai, tittippuppalai, vanadittam, vanatittam\nTelugu (14): bandi-gurga, bandiguri-ginja, bondi gurigija, doodeepalla, doodi-pala, dudipaala, dudipala, kommu paala, paalakoora, paalathige, pala-teega, palakura, palatige, pedda-gurja\nUrdu (1): nakchikni",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66abd203e28e8a1260e62436cbe8a63d"
+  ],
+  "source_record_ids": [
+    "links-1332"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66abd203e28e8a1260e62436cbe8a63d"
+    ],
+    "source_record_ids": [
+      "links-1332"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66abd203e28e8a1260e62436cbe8a63d",
+          "Plant Name": "Wattakaka volubilis (Linn.f.) Stapf.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Wattakaka volubilis (Linn.f.) Stapf.",
+        "source_record_id": "links-1332",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66abd203e28e8a1260e62436cbe8a63d"
+      }
+    ],
+    "source_xplant_id": "66abd203e28e8a1260e62436cbe8a63d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

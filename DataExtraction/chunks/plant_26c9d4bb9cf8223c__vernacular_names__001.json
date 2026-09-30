@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_26c9d4bb9cf8223c__vernacular_names__001",
+  "plant_id": "plant_26c9d4bb9cf8223c",
+  "plant_name": "Brassica juncea (Linn.) Czern. and Coss.",
+  "botanical_name": "Brassica juncea",
+  "botanical_authority": "(L.) CZERN. var. integrifolia (WEST) SINSKAJA",
+  "family": "BRASSICACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): chinese mustard, indian mustard, kai choy\nHindi (5): rai, rayan, rayi, sarson, tai\nKannada (2): kempu saasive, sasivey\nMalayalam (3): cerukatuku, kaduka, katuku\nMarathi (1): pivali siras\nSanskrit (13): Sanskrit CommentsX asuri, ksavaka, ksujjanika, rajasarsapa, rajica, rajika, sarsapah, sarshaphaha, siddartha, siddarthaka, siddhartha, siddharthaka, tiksnagandha\nTamil (3): kadugu, katugu, katuku\nTelugu (2): avalu, nn",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca"
+  ],
+  "source_record_ids": [
+    "links-1080",
+    "links-1589"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca"
+    ],
+    "source_record_ids": [
+      "links-1080",
+      "links-1589"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca",
+          "Plant Name": "Brassica juncea (Linn.) Czern. and Coss.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Brassica juncea (Linn.) Czern. and Coss.",
+        "source_record_id": "links-1080",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca",
+          "Plant Name": "Brassica juncea Czern & Coss.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Brassica juncea Czern & Coss.",
+        "source_record_id": "links-1589",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca"
+      }
+    ],
+    "source_xplant_id": "35b1b446f9c1865523515bc7cb4315ca",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

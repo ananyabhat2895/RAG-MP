@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a29ca361568d4002__vernacular_names__003",
+  "plant_id": "plant_a29ca361568d4002",
+  "plant_name": "Mangifera indica Linn.",
+  "botanical_name": "Mangifera indica",
+  "botanical_authority": "L.",
+  "family": "ANACARDIACEAE",
+  "section": "vernacular_names",
+  "content": "Telugu (32): amramu, amu, cutamu, elamaavi, elamavi, guddzumamidi, gujjumaamidi, gujjumamidi, maakandamu, maamidi, maavi, maavidi, maavudi, makandamu, mamadi, mamedi, mamid, mamide, mamidi, mamidi-chettu, maumedee, mavi, mavidi, raacha maamidi, raasamaamidi, racamamidi, rasamamidi, ratsamamidi, sutamu, suthamu, thiyyammamidi, tiyyamamidi\nTibetan (3): a ma i bras bu, a mai bras bu, sin lcan go\nUrdu (4): abanj, amba, anba (aam), murbiyat",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8a83ef9a6450c46b4347fb66fd4858d4"
+  ],
+  "source_record_ids": [
+    "links-0117"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8a83ef9a6450c46b4347fb66fd4858d4"
+    ],
+    "source_record_ids": [
+      "links-0117"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8a83ef9a6450c46b4347fb66fd4858d4",
+          "Plant Name": "Mangifera indica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mangifera indica Linn.",
+        "source_record_id": "links-0117",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8a83ef9a6450c46b4347fb66fd4858d4"
+      }
+    ],
+    "source_xplant_id": "8a83ef9a6450c46b4347fb66fd4858d4",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

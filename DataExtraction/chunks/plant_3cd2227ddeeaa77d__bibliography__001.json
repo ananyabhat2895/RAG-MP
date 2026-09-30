@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_3cd2227ddeeaa77d__bibliography__001",
+  "plant_id": "plant_3cd2227ddeeaa77d",
+  "plant_name": "Adiantum lunulatum Burm.",
+  "botanical_name": "Adiantum lunulatum",
+  "botanical_authority": "L.",
+  "family": "ADIANTACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - ANONYMOUS; title: Title - ASTANGA HRIDAYA KOSHA\nBibliography entry: author: Author - V.V. SIVARAJAN AND INDIRA BALACHANDRAN; title: Title - AYURVEDIC DRUGS AND THEIR PLANT SOURCES\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL1\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - The Flora of Orissa Vol IV\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/24eea74e50c84fcb55c65b6f48d5efe7"
+  ],
+  "source_record_ids": [
+    "links-0681"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/24eea74e50c84fcb55c65b6f48d5efe7"
+    ],
+    "source_record_ids": [
+      "links-0681"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/24eea74e50c84fcb55c65b6f48d5efe7",
+          "Plant Name": "Adiantum lunulatum Burm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Adiantum lunulatum Burm.",
+        "source_record_id": "links-0681",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/24eea74e50c84fcb55c65b6f48d5efe7"
+      }
+    ],
+    "source_xplant_id": "24eea74e50c84fcb55c65b6f48d5efe7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

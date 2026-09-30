@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_31ae08b2c4ee047c__images__001",
+  "plant_id": "plant_31ae08b2c4ee047c",
+  "plant_name": "Momordica cochinchinensis Spreng.",
+  "botanical_name": "Momordica cochinchinensis",
+  "botanical_authority": "SPR.",
+  "family": "CUCURBITACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c93babdb741aa570c2222c11589827a2"
+  ],
+  "source_record_ids": [
+    "links-0753"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c93babdb741aa570c2222c11589827a2"
+    ],
+    "source_record_ids": [
+      "links-0753"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c93babdb741aa570c2222c11589827a2",
+          "Plant Name": "Momordica cochinchinensis Spreng.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Momordica cochinchinensis Spreng.",
+        "source_record_id": "links-0753",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c93babdb741aa570c2222c11589827a2"
+      }
+    ],
+    "source_xplant_id": "c93babdb741aa570c2222c11589827a2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

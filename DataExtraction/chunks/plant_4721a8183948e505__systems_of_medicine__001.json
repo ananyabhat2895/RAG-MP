@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_4721a8183948e505__systems_of_medicine__001",
+  "plant_id": "plant_4721a8183948e505",
+  "plant_name": "Citrus medica",
+  "botanical_name": "Citrus medica",
+  "botanical_authority": "L. var. medica",
+  "family": "RUTACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani Botanical Synonyms (1) - Citrus acida PERS.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edc66f84c9453b06304c7525a493c644"
+  ],
+  "source_record_ids": [
+    "links-0356",
+    "links-0357"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edc66f84c9453b06304c7525a493c644"
+    ],
+    "source_record_ids": [
+      "links-0356",
+      "links-0357"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edc66f84c9453b06304c7525a493c644",
+          "Plant Name": "Citrus medica",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrus medica",
+        "source_record_id": "links-0356",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edc66f84c9453b06304c7525a493c644"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edc66f84c9453b06304c7525a493c644",
+          "Plant Name": "Citrus medica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrus medica Linn.",
+        "source_record_id": "links-0357",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edc66f84c9453b06304c7525a493c644"
+      }
+    ],
+    "source_xplant_id": "edc66f84c9453b06304c7525a493c644",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

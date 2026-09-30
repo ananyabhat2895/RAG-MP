@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_dc7fd96c7ec0077a__vernacular_names__001",
+  "plant_id": "plant_dc7fd96c7ec0077a",
+  "plant_name": "Flacourtia jangomas (Lour.) Raeusch",
+  "botanical_name": "Flacourtia jangomas",
+  "botanical_authority": "(LOUR.) RAEUSCH.",
+  "family": "FLACOURTIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (15): barahmi, jamuna, pachnala, paniala, paniamalak, paniamla, paniamlak, paniaunvola, paniyala, paniyamalak, talis-patri, talisapatri, talispatar, talispatri, tallispatar\nKannada (17): cancali, caricali, chanchali, chanchali mara, chankali, charichaii, charichali, goragi, goraji, hulumanikc, kirinelli, koraji, shamper, tahspatram, talisa-patri, talisapatri, tlesapatri\nMalayalam (20): caralanka, cholanga, kanci, kanji, tahspatram, taleesapatram, talisam, talisapatram, talishapatram, talishaputri, talishaputtri, thalira, thaliru, thallira, vaiyyankata, vayankatha, vayikattan, vayukattan, vayyamkaitha, vayyankataku\nMarathi (5): jangam, jangli-jagam, paanaamle, tambat, thambat\nSanskrit (17): Sanskrit CommentsX ahini, kalameshi, khadiraparni, nagara, paniyamalaka, prachinamalaka, pracinamalaka, sruvavrksah, talisa, talisapatra, talisapatraka, talisapatram, talisha, talishapatra, varibadaram, vidara, vikankatah\nTamil (51): acatam, caralanka, caralankam, caralankay, caralu, catapattiram#, catapattiri@, ciropattiravicotani, cukotaram, curovattiravi, cuvacakacaki, cuvatukantakam1, cuvatukantam1, ilavankappattai, mici 2, mullumukanchi, pattiracciliyam, pattiraciliyam, pattirakentam, pattirakkiyam, pattiri1, perunkamicam, perunkamikappattiri, piracciyamalakam, piraciyamalakam, saralu, talica pattiri, talicai, talicam, talicapattiri, talicappattiri, talisa-patu, talisam, talisapatri, talisha pattiri, talisha-pattiri, talishaputrie, talispatram, talispatri, tamalakam, tamalakapattiri, tamalakitalam#, tamalakitalam@, thalisa-paththiri, thalisapathri, thalisapatri, vaiyankarai, vaiyyankarai, valankarai, vayangarai, vayankatucharalu\nTelugu (12): kuragayi, kuski, kusus, mullumaana, mullumanu, tahspatram, talisa-patri, talisapatramu, talisapatri, talishapatri, talishaputrie, thaaleesapathramu\nUrdu (3): talispatar, tulispatar, zarnab (telispattar)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d39c57b5c8a2087f65aa443a7f693124",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d39c57b5c8a2087f65aa443a7f693124/xclkon/e6dd14dbaf7214338e2d33554f3a4c05"
+  ],
+  "source_record_ids": [
+    "links-1533",
+    "links-1534",
+    "links-1914"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d39c57b5c8a2087f65aa443a7f693124",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d39c57b5c8a2087f65aa443a7f693124/xclkon/e6dd14dbaf7214338e2d33554f3a4c05"
+    ],
+    "source_record_ids": [
+      "links-1533",
+      "links-1534",
+      "links-1914"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d39c57b5c8a2087f65aa443a7f693124",
+          "Plant Name": "Flacourtia jangomas (Lour.) Raeusch",
+          "Status": "Found"
+        },
+        "source_plant_name": "Flacourtia jangomas (Lour.) Raeusch",
+        "source_record_id": "links-1533",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d39c57b5c8a2087f65aa443a7f693124"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d39c57b5c8a2087f65aa443a7f693124",
+          "Plant Name": "Flacourtia jangomas Raeusch.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Flacourtia jangomas Raeusch.",
+        "source_record_id": "links-1534",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d39c57b5c8a2087f65aa443a7f693124"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d39c57b5c8a2087f65aa443a7f693124/xclkon/e6dd14dbaf7214338e2d33554f3a4c05",
+          "Plant Name": "Flacourtia cataphracta",
+          "Status": "Found"
+        },
+        "source_plant_name": "Flacourtia cataphracta",
+        "source_record_id": "links-1914",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d39c57b5c8a2087f65aa443a7f693124/xclkon/e6dd14dbaf7214338e2d33554f3a4c05"
+      }
+    ],
+    "source_xplant_id": "d39c57b5c8a2087f65aa443a7f693124",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

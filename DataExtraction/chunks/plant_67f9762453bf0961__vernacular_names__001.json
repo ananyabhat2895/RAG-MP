@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_67f9762453bf0961__vernacular_names__001",
+  "plant_id": "plant_67f9762453bf0961",
+  "plant_name": "Holarrhena antidysenterica Wall.",
+  "botanical_name": "Holarrhena pubescens",
+  "botanical_authority": "(BUCH.-HAM.) WALLICH EX DO",
+  "family": "APOCYNACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): conessi, kumbanzo, kurchi bark, tellichery bark\nHindi (33): akariya, dhudi hat, dudhie, dundi, inderajo, kad ankadiya, kad-ankadiya, kadwa, kara, karchi, kari, karra, karva-indarjou, karvaindarjau, kaura, kaureya, keor, kero, kod, koorwa, kora, kuar, kuda, kura, kurci, kureya, kuri, kurwa, kutaja, major phali, marod phali, maror phali, pandrakuda\nKannada (51): dadsaloo haale, haale, haalemara, halagathi, hale, hale hirekodasige kodasige, hire kanigu, hire kodsige, hirekodasa, hirekodasige, hirekodsa, ilndrajaala, kadgalmarga, kahikodseege mara, kinja, kodachaga, kodagasana, kodamuraka, kodamurike, kodamuriki, kodamuruka, kodanji, kodasa, kodasaga, kodasalu, kodasiga, kodasigana gida, kodasige, kodisa, kodisige gida, kodumuruka, kodumurukanabeeja, kolisapaala, korasigana gida, korasigina-gida, korchu, korisiga, korisigina, korju, kudsaalu, kudsalu, kurchi, madarsa, nangero, nangu, sannahale, sennahale, vatsaka, vepala, veppaale, veppale\nMalayalam (20): cadagapala, codaga-pala, kaipakkotakappala, kaipakotakap-pala-vitta, kaippakkotakappala, kamlipala, kodagapala, kotakappala, kudagappala, kutakappala, kutapala, pala, palappatta, pali, pana, panipala, panipalai, pannipal, vempala, venpala\nMarathi (12): bedaki, dhavo-kudo, kodaga, kuda, kudaa, kudo, kura, kurra, paandaara, paandharakuda, pandharakuda, pandharakura\nSanskrit (45): Sanskrit CommentsX girimallika, indra, indradu, indravrksa, indrayava, indrayavah, indrayavaphala, ka, kahi, kali, kalinga, kalingah, kalingayava, katuka, kauta, kautaja, kayaya, kita, kshiri, kutacah, kutacodbhavah, kutaja, kutajah, kutajapuman, lingaka, mahagandha, mallikapushpa, pandura, panduradruma, pravrishenya, pravrishya, raktanashaka, sakra, sakrasakan, sangrahi, shakra, shakrapadapa, shakrashana, shakravhaya, vatsa, vatsika, vrikshaka, vrksaka, yava, yavaphala",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/d85c17a78537df90d7a732a0a6457f45"
+  ],
+  "source_record_ids": [
+    "links-0877",
+    "links-1147"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/d85c17a78537df90d7a732a0a6457f45"
+    ],
+    "source_record_ids": [
+      "links-0877",
+      "links-1147"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/d85c17a78537df90d7a732a0a6457f45",
+          "Plant Name": "Holarrhena antidysenterica Wall.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Holarrhena antidysenterica Wall.",
+        "source_record_id": "links-0877",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/d85c17a78537df90d7a732a0a6457f45"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/d85c17a78537df90d7a732a0a6457f45",
+          "Plant Name": "Holarrhena antidysenterica (Linn.) Wall.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Holarrhena antidysenterica (Linn.) Wall.",
+        "source_record_id": "links-1147",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/d85c17a78537df90d7a732a0a6457f45"
+      }
+    ],
+    "source_xplant_id": "d82e0c372c58e441f83c65a700ed4d85",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

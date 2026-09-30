@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_e15b4b1e0a97b32e__distribution__001",
+  "plant_id": "plant_e15b4b1e0a97b32e",
+  "plant_name": "Cymbopogon martini (Roxb.) Wats",
+  "botanical_name": "Cymbopogon martini",
+  "botanical_authority": "(ROXB.) WATS",
+  "family": "POACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 3\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol III\nDistribution entry: author: Author - KANJILAL & BOR; distribution: Distribution; title: Title - FLORA OF ASSAM\nDistribution entry: author: Author - Ed B D Sharma, S Karthikeyan, N P Singh; distribution: Distribution; title: Title - Flora of Maharashrta State (Monocotyledons)\nDistribution entry: author: Author - K.M. Matthew; distribution: Distribution; title: Title - The Flora of the Palni Hills Vol-3\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 2\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418"
+  ],
+  "source_record_ids": [
+    "links-1643",
+    "links-1644"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418"
+    ],
+    "source_record_ids": [
+      "links-1643",
+      "links-1644"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418",
+          "Plant Name": "Cymbopogon martini (Roxb.) Wats",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cymbopogon martini (Roxb.) Wats",
+        "source_record_id": "links-1643",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418",
+          "Plant Name": "Cymbopogon martini (Roxb.) Wats.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cymbopogon martini (Roxb.) Wats.",
+        "source_record_id": "links-1644",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418"
+      }
+    ],
+    "source_xplant_id": "edab2a314693f3a25a21f493e238a418",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_9f6b1b410cb8441d__images__001",
+  "plant_id": "plant_9f6b1b410cb8441d",
+  "plant_name": "Phyllanthus fraternus Webster",
+  "botanical_name": "Phyllanthus amarus",
+  "botanical_authority": "SCHUM. & THENN.",
+  "family": "EUPHORBIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9e9ee1b9797378a2017dccfbe718c6dc/xclkon/ab69e0b52792413f6f99ceb82a6c27af",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9e9ee1b9797378a2017dccfbe718c6dc/xclkon/c1665807fa241eb60cd019d4eae5d121"
+  ],
+  "source_record_ids": [
+    "links-0340",
+    "links-1921"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9e9ee1b9797378a2017dccfbe718c6dc/xclkon/ab69e0b52792413f6f99ceb82a6c27af",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9e9ee1b9797378a2017dccfbe718c6dc/xclkon/c1665807fa241eb60cd019d4eae5d121"
+    ],
+    "source_record_ids": [
+      "links-0340",
+      "links-1921"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9e9ee1b9797378a2017dccfbe718c6dc/xclkon/ab69e0b52792413f6f99ceb82a6c27af",
+          "Plant Name": "Phyllanthus fraternus Webster",
+          "Status": "Found"
+        },
+        "source_plant_name": "Phyllanthus fraternus Webster",
+        "source_record_id": "links-0340",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9e9ee1b9797378a2017dccfbe718c6dc/xclkon/ab69e0b52792413f6f99ceb82a6c27af"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9e9ee1b9797378a2017dccfbe718c6dc/xclkon/c1665807fa241eb60cd019d4eae5d121",
+          "Plant Name": "Phyllanthus niruri Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Phyllanthus niruri Linn.",
+        "source_record_id": "links-1921",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9e9ee1b9797378a2017dccfbe718c6dc/xclkon/c1665807fa241eb60cd019d4eae5d121"
+      }
+    ],
+    "source_xplant_id": "9e9ee1b9797378a2017dccfbe718c6dc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

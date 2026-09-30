@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5c9ccc339c1f01ef__distribution__001",
+  "plant_id": "plant_5c9ccc339c1f01ef",
+  "plant_name": "Tragia involucrata Linn.",
+  "botanical_name": "Tragia involucrata",
+  "botanical_authority": "L.",
+  "family": "EUPHORBIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - A S Chauhan, K P Singh, D K Singh; distribution: Distribution; title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nDistribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - C.J SALDHANA; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-2\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/203d31d36424aa51a59e67b391b11cd2"
+  ],
+  "source_record_ids": [
+    "links-2132"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/203d31d36424aa51a59e67b391b11cd2"
+    ],
+    "source_record_ids": [
+      "links-2132"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/203d31d36424aa51a59e67b391b11cd2",
+          "Plant Name": "Tragia involucrata Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tragia involucrata Linn.",
+        "source_record_id": "links-2132",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/203d31d36424aa51a59e67b391b11cd2"
+      }
+    ],
+    "source_xplant_id": "203d31d36424aa51a59e67b391b11cd2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

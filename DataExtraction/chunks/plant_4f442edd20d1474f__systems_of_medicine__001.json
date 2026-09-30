@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4f442edd20d1474f__systems_of_medicine__001",
+  "plant_id": "plant_4f442edd20d1474f",
+  "plant_name": "Lochnera pusilla (Murr.) K. Schum.",
+  "botanical_name": "Catharanthus pusillus",
+  "botanical_authority": "(MURR.) G. DON",
+  "family": "APOCYNACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk Botanical Synonyms (3) - Lochnera pusilla K.SCHUM. X Full Botanical citation - Lochnera pusilla (Murray) K.Schum. in Engl. & Prantl\nSystem of medicine: Nat. Pflanzenfam. IV\nSystem of medicine: 2: 145. 1895; S. Karthikeyan & al.\nSystem of medicine: Flowering Plants of India - Dicots. 1: 131. 2009. Vinca parviflora RETZ. Vinca pusilla MURR. X Full Botanical citation - Vinca pusilla Murray in Comm. Act. Goett. 3: 66\nSystem of medicine: t. 2\nSystem of medicine: f.1. 1773; S. Karthikeyan & al.\nSystem of medicine: Flowering Plants of India - Dicots. 1: 131. 2009.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be52ef142a4bf30adacec5315f0ee7e5/xclkon/7b01c268d6be73ea6b355eb0cb9ecd6a"
+  ],
+  "source_record_ids": [
+    "links-1676"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be52ef142a4bf30adacec5315f0ee7e5/xclkon/7b01c268d6be73ea6b355eb0cb9ecd6a"
+    ],
+    "source_record_ids": [
+      "links-1676"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be52ef142a4bf30adacec5315f0ee7e5/xclkon/7b01c268d6be73ea6b355eb0cb9ecd6a",
+          "Plant Name": "Lochnera pusilla (Murr.) K. Schum.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lochnera pusilla (Murr.) K. Schum.",
+        "source_record_id": "links-1676",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be52ef142a4bf30adacec5315f0ee7e5/xclkon/7b01c268d6be73ea6b355eb0cb9ecd6a"
+      }
+    ],
+    "source_xplant_id": "be52ef142a4bf30adacec5315f0ee7e5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

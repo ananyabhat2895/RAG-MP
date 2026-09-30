@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e91ea6c72e3ee24b__vernacular_names__001",
+  "plant_id": "plant_e91ea6c72e3ee24b",
+  "plant_name": "Linum usitatissimum Linn.",
+  "botanical_name": "Linum usitatissimum",
+  "botanical_authority": "L.",
+  "family": "LINACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): flax, linseed, linseed oil, lint bells\nHindi (4): alsi, alsi-ka-tel, tisi, tisi-ka-tel\nKannada (12): agase beeja, agase gida, agase naaru, alasee beeja, alashi, alashiberu, alasibija, alsi, athasee gida, athasi gida, linseed enne, seeme agase beeja\nMalayalam (5): akasi, cerucana, cheru-chanattinte-vitta, cheruchanavittintevilta, kayavu\nMarathi (4): alashi, alsi-sanbyam, javas, javasa\nSanskrit (29): Sanskrit CommentsX atasi, auma, budrapatni, chanaka, devi, haimwati, kshauma, kshaumi, ksuma, lika, madagandha, madotkata, malina, masina, masrina, masrind, masrna, masruna, masuna, mauverchala, nilapushpi, nilapushpika, nilapuspi, parvathi, pichhila, san, sunila, tailottama, uma\nTamil (13): alci, ali, ali vittu, alici, alici vitai, alishi-virai, alishivirai, alisi virai, alivirai, alleverei, alshi, cantiracura, serroo sanulverei\nTelugu (12): ali, atasi, athasee, avishi, avisi, madana-ginjalu, madanaginja, madanaginjalu, madanginjalu, nalla agisi, nalla avisi, ullusulu\nTibetan (2): ol (mo) se, zar ma i me tog\nUrdu (6): alasi, alsee, alsi, alsi nim bariyan, katan, roghan alsi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/adb4f68599320ec4cc508da6b4bc430d"
+  ],
+  "source_record_ids": [
+    "links-0229"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/adb4f68599320ec4cc508da6b4bc430d"
+    ],
+    "source_record_ids": [
+      "links-0229"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/adb4f68599320ec4cc508da6b4bc430d",
+          "Plant Name": "Linum usitatissimum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Linum usitatissimum Linn.",
+        "source_record_id": "links-0229",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/adb4f68599320ec4cc508da6b4bc430d"
+      }
+    ],
+    "source_xplant_id": "adb4f68599320ec4cc508da6b4bc430d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

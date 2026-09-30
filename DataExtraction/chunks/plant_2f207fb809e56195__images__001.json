@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_2f207fb809e56195__images__001",
+  "plant_id": "plant_2f207fb809e56195",
+  "plant_name": "Calotropis gigantea (Linn.) R.Br.ex Ait.",
+  "botanical_name": "Calotropis gigantea",
+  "botanical_authority": "(L.) R.BR.",
+  "family": "ASCLEPIADACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89"
+  ],
+  "source_record_ids": [
+    "links-0076",
+    "links-2066"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89"
+    ],
+    "source_record_ids": [
+      "links-0076",
+      "links-2066"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89",
+          "Plant Name": "Calotropis gigantea (Linn.) R.Br.ex Ait.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Calotropis gigantea (Linn.) R.Br.ex Ait.",
+        "source_record_id": "links-0076",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89",
+          "Plant Name": "Calotropis Gigantea",
+          "Status": "Found"
+        },
+        "source_plant_name": "Calotropis Gigantea",
+        "source_record_id": "links-2066",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89"
+      }
+    ],
+    "source_xplant_id": "9154e8f7b6a3cdddea2f4dd0a1076f89",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

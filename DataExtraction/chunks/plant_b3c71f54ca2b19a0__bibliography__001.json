@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_b3c71f54ca2b19a0__bibliography__001",
+  "plant_id": "plant_b3c71f54ca2b19a0",
+  "plant_name": "Euphorbia dracunculoides Lam.",
+  "botanical_name": "Euphorbia dracunculoides",
+  "botanical_authority": "LAM.",
+  "family": "EUPHORBIACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: title: Title - Flora of Rajasthan Vol.2\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol. II\nBibliography entry: title: Title - Flora of Gujarat State Vol 2\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-2\nBibliography entry: title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nBibliography entry: title: Title - Flora of the Indian Desert",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b55972fcf5e9efdd711a015e4ddfb5d5"
+  ],
+  "source_record_ids": [
+    "links-1729",
+    "links-1733"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b55972fcf5e9efdd711a015e4ddfb5d5"
+    ],
+    "source_record_ids": [
+      "links-1729",
+      "links-1733"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b55972fcf5e9efdd711a015e4ddfb5d5",
+          "Plant Name": "Euphorbia dracunculoides Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia dracunculoides Lam.",
+        "source_record_id": "links-1729",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b55972fcf5e9efdd711a015e4ddfb5d5"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b55972fcf5e9efdd711a015e4ddfb5d5",
+          "Plant Name": "Euphorbia dracunculoides",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia dracunculoides",
+        "source_record_id": "links-1733",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b55972fcf5e9efdd711a015e4ddfb5d5"
+      }
+    ],
+    "source_xplant_id": "b55972fcf5e9efdd711a015e4ddfb5d5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

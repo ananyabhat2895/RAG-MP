@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_adb7fd1422a475f7__distribution__001",
+  "plant_id": "plant_adb7fd1422a475f7",
+  "plant_name": "Dipterocarpus alatus Roxb.",
+  "botanical_name": "Dipterocarpus alatus",
+  "botanical_authority": "ROXB.",
+  "family": "DIPTEROCARPACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Botanicaly Survey of India; distribution: Distribution; title: Title - FLORA OF INDIA VOL 3",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9ff4bc13f5ff0e6620a49895b0100b0"
+  ],
+  "source_record_ids": [
+    "links-0221"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9ff4bc13f5ff0e6620a49895b0100b0"
+    ],
+    "source_record_ids": [
+      "links-0221"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9ff4bc13f5ff0e6620a49895b0100b0",
+          "Plant Name": "Dipterocarpus alatus Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dipterocarpus alatus Roxb.",
+        "source_record_id": "links-0221",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9ff4bc13f5ff0e6620a49895b0100b0"
+      }
+    ],
+    "source_xplant_id": "d9ff4bc13f5ff0e6620a49895b0100b0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

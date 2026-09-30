@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_aaaece8abe88d68d__images__001",
+  "plant_id": "plant_aaaece8abe88d68d",
+  "plant_name": "Acacia pennata Willd.",
+  "botanical_name": "Acacia pennata",
+  "botanical_authority": "(L.) WILLD.",
+  "family": "MIMOSACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7"
+  ],
+  "source_record_ids": [
+    "links-0005",
+    "links-1032"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7"
+    ],
+    "source_record_ids": [
+      "links-0005",
+      "links-1032"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7",
+          "Plant Name": "Acacia pennata Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Acacia pennata Willd.",
+        "source_record_id": "links-0005",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7",
+          "Plant Name": "Acacia pennata",
+          "Status": "Found"
+        },
+        "source_plant_name": "Acacia pennata",
+        "source_record_id": "links-1032",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7"
+      }
+    ],
+    "source_xplant_id": "0bb1c32b6a6a2631466a0bdf9fb07fb7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

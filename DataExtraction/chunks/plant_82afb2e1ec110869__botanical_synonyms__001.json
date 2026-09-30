@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_82afb2e1ec110869__botanical_synonyms__001",
+  "plant_id": "plant_82afb2e1ec110869",
+  "plant_name": "Desmostachya bipinnata Stapf",
+  "botanical_name": "Desmostachya bipinnata",
+  "botanical_authority": "STAPF",
+  "family": "POACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Eragrostis cynosuroides BEAUV. X Full Botanical citation - Eragrostis cynosuroides P.Beauv., Ess. Agrost. 71, 162. 1812; R.D.Gaur, Fl. Dist. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 658. 1999. Poa cynosuroides RETZ.\nSynonym: Eragrostis cynosuroides BEAUV.\nSynonym: Poa cynosuroides RETZ.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008"
+  ],
+  "source_record_ids": [
+    "links-0488",
+    "links-1136"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008"
+    ],
+    "source_record_ids": [
+      "links-0488",
+      "links-1136"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008",
+          "Plant Name": "Desmostachya bipinnata Stapf",
+          "Status": "Found"
+        },
+        "source_plant_name": "Desmostachya bipinnata Stapf",
+        "source_record_id": "links-0488",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008",
+          "Plant Name": "Desmostachya bipinnata Stapf.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Desmostachya bipinnata Stapf.",
+        "source_record_id": "links-1136",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008"
+      }
+    ],
+    "source_xplant_id": "5d5c75320e8249891ff513bfbd3f1008",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

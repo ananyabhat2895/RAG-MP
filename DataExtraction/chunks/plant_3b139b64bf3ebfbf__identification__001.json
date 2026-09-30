@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_3b139b64bf3ebfbf__identification__001",
+  "plant_id": "plant_3b139b64bf3ebfbf",
+  "plant_name": "Litsea cubeba Pers.",
+  "botanical_name": "Litsea cubeba",
+  "botanical_authority": "(LOUR.) PERS.",
+  "family": "LAURACEAE",
+  "section": "identification",
+  "content": "Plant name: Litsea cubeba Pers. Botanical name: Litsea cubeba Botanical authority: (LOUR.) PERS. Family: LAURACEAE Source xplant ID: e7824c5e8f04961408b83a0f533eb36a",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7824c5e8f04961408b83a0f533eb36a"
+  ],
+  "source_record_ids": [
+    "links-0904"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7824c5e8f04961408b83a0f533eb36a"
+    ],
+    "source_record_ids": [
+      "links-0904"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7824c5e8f04961408b83a0f533eb36a",
+          "Plant Name": "Litsea cubeba Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Litsea cubeba Pers.",
+        "source_record_id": "links-0904",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7824c5e8f04961408b83a0f533eb36a"
+      }
+    ],
+    "source_xplant_id": "e7824c5e8f04961408b83a0f533eb36a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

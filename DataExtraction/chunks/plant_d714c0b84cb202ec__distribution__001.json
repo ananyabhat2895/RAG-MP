@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_d714c0b84cb202ec__distribution__001",
+  "plant_id": "plant_d714c0b84cb202ec",
+  "plant_name": "Premna latifolia Roxb. var. mucronata Clarke",
+  "botanical_name": "Premna latifolia",
+  "botanical_authority": "ROXB. var. mucronata C.B. CLARKE",
+  "family": "VERBENACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - A.E. Osmaston; distribution: Distribution; title: Title - A Forest Flora for Kumaon",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12370f71eed869823b3dd9ee8c2e6872",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12370f71eed869823b3dd9ee8c2e6872/xclkon/b0cac0a544fb082997b8a21d69c887a9"
+  ],
+  "source_record_ids": [
+    "links-0025",
+    "links-0026",
+    "links-0027"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12370f71eed869823b3dd9ee8c2e6872",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12370f71eed869823b3dd9ee8c2e6872/xclkon/b0cac0a544fb082997b8a21d69c887a9"
+    ],
+    "source_record_ids": [
+      "links-0025",
+      "links-0026",
+      "links-0027"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12370f71eed869823b3dd9ee8c2e6872",
+          "Plant Name": "Premna latifolia Roxb. var. mucronata Clarke",
+          "Status": "Found"
+        },
+        "source_plant_name": "Premna latifolia Roxb. var. mucronata Clarke",
+        "source_record_id": "links-0025",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12370f71eed869823b3dd9ee8c2e6872"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12370f71eed869823b3dd9ee8c2e6872",
+          "Plant Name": "Premna latifolia Var. mucronata Clarke.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Premna latifolia Var. mucronata Clarke.",
+        "source_record_id": "links-0026",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12370f71eed869823b3dd9ee8c2e6872"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12370f71eed869823b3dd9ee8c2e6872/xclkon/b0cac0a544fb082997b8a21d69c887a9",
+          "Plant Name": "Premna mucronata Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Premna mucronata Roxb.",
+        "source_record_id": "links-0027",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12370f71eed869823b3dd9ee8c2e6872/xclkon/b0cac0a544fb082997b8a21d69c887a9"
+      }
+    ],
+    "source_xplant_id": "12370f71eed869823b3dd9ee8c2e6872",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

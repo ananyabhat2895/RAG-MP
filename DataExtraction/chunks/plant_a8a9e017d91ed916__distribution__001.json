@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_a8a9e017d91ed916__distribution__001",
+  "plant_id": "plant_a8a9e017d91ed916",
+  "plant_name": "Vallaris heynei Spreng.",
+  "botanical_name": "Vallaris solanacea",
+  "botanical_authority": "(ROTH.) KUNTZE.",
+  "family": "APOCYNACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - A.E. Osmaston; distribution: Distribution; title: Title - A Forest Flora for Kumaon\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - HARIDASAN K & RAO R R; distribution: Distribution; title: Title - FOREST FLORA OF MEGHALAYA VOL 2\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c6b636f728d229222318d0f1987a3de/xclkon/4b0c25e59b722965755f63b289cb24c7",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c6b636f728d229222318d0f1987a3de"
+  ],
+  "source_record_ids": [
+    "links-0202",
+    "links-0203",
+    "links-1747"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c6b636f728d229222318d0f1987a3de/xclkon/4b0c25e59b722965755f63b289cb24c7",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c6b636f728d229222318d0f1987a3de"
+    ],
+    "source_record_ids": [
+      "links-0202",
+      "links-0203",
+      "links-1747"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c6b636f728d229222318d0f1987a3de/xclkon/4b0c25e59b722965755f63b289cb24c7",
+          "Plant Name": "Vallaris heynei Spreng.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vallaris heynei Spreng.",
+        "source_record_id": "links-0202",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c6b636f728d229222318d0f1987a3de/xclkon/4b0c25e59b722965755f63b289cb24c7"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c6b636f728d229222318d0f1987a3de",
+          "Plant Name": "Vallaris solanacea O. Ktze.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vallaris solanacea O. Ktze.",
+        "source_record_id": "links-0203",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c6b636f728d229222318d0f1987a3de"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c6b636f728d229222318d0f1987a3de",
+          "Plant Name": "Vallaris solanacea",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vallaris solanacea",
+        "source_record_id": "links-1747",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c6b636f728d229222318d0f1987a3de"
+      }
+    ],
+    "source_xplant_id": "0c6b636f728d229222318d0f1987a3de",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

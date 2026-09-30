@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e6480c44ed16cb25__identification__001",
+  "plant_id": "plant_e6480c44ed16cb25",
+  "plant_name": "Calligonum polygonoides Linn.",
+  "botanical_name": "Calligonum polygonoides",
+  "botanical_authority": "L.",
+  "family": "POLYGONACEAE",
+  "section": "identification",
+  "content": "Plant name: Calligonum polygonoides Linn. Botanical name: Calligonum polygonoides Botanical authority: L. Family: POLYGONACEAE Source xplant ID: 0cde8e5f82a4056d8e0ff6ba531a0544",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0cde8e5f82a4056d8e0ff6ba531a0544"
+  ],
+  "source_record_ids": [
+    "links-1515"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0cde8e5f82a4056d8e0ff6ba531a0544"
+    ],
+    "source_record_ids": [
+      "links-1515"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0cde8e5f82a4056d8e0ff6ba531a0544",
+          "Plant Name": "Calligonum polygonoides Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Calligonum polygonoides Linn.",
+        "source_record_id": "links-1515",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0cde8e5f82a4056d8e0ff6ba531a0544"
+      }
+    ],
+    "source_xplant_id": "0cde8e5f82a4056d8e0ff6ba531a0544",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

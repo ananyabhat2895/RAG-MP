@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5e29c06bbdf9d8a7__systems_of_medicine__001",
+  "plant_id": "plant_5e29c06bbdf9d8a7",
+  "plant_name": "Cassia auriculata Linn.",
+  "botanical_name": "Cassia auriculata",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6508eac4f485855d8583f31fc94a2c57"
+  ],
+  "source_record_ids": [
+    "links-0006"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6508eac4f485855d8583f31fc94a2c57"
+    ],
+    "source_record_ids": [
+      "links-0006"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6508eac4f485855d8583f31fc94a2c57",
+          "Plant Name": "Cassia auriculata Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cassia auriculata Linn.",
+        "source_record_id": "links-0006",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6508eac4f485855d8583f31fc94a2c57"
+      }
+    ],
+    "source_xplant_id": "6508eac4f485855d8583f31fc94a2c57",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

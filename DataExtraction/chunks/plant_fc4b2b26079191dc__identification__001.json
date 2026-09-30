@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_fc4b2b26079191dc__identification__001",
+  "plant_id": "plant_fc4b2b26079191dc",
+  "plant_name": "Viburnum nervosum D. Don",
+  "botanical_name": "Viburnum nervosum",
+  "botanical_authority": "D.DON",
+  "family": "CAPRIFOLIACEAE",
+  "section": "identification",
+  "content": "Plant name: Viburnum nervosum D. Don Botanical name: Viburnum nervosum Botanical authority: D.DON Family: CAPRIFOLIACEAE Source xplant ID: 181fb5e912912dcca6a911b7318b2faf",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/181fb5e912912dcca6a911b7318b2faf"
+  ],
+  "source_record_ids": [
+    "links-1950"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/181fb5e912912dcca6a911b7318b2faf"
+    ],
+    "source_record_ids": [
+      "links-1950"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/181fb5e912912dcca6a911b7318b2faf",
+          "Plant Name": "Viburnum nervosum D. Don",
+          "Status": "Found"
+        },
+        "source_plant_name": "Viburnum nervosum D. Don",
+        "source_record_id": "links-1950",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/181fb5e912912dcca6a911b7318b2faf"
+      }
+    ],
+    "source_xplant_id": "181fb5e912912dcca6a911b7318b2faf",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

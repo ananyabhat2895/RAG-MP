@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_4abc0abc7842296b__images__001",
+  "plant_id": "plant_4abc0abc7842296b",
+  "plant_name": "Berberis asiatica Roxb. ex DC.",
+  "botanical_name": "Berberis asiatica",
+  "botanical_authority": "ROXB.",
+  "family": "BERBERIDACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/859dd59f42ed55fa20aa69926c77a51a"
+  ],
+  "source_record_ids": [
+    "links-0492",
+    "links-0499"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/859dd59f42ed55fa20aa69926c77a51a"
+    ],
+    "source_record_ids": [
+      "links-0492",
+      "links-0499"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/859dd59f42ed55fa20aa69926c77a51a",
+          "Plant Name": "Berberis asiatica Roxb. ex DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Berberis asiatica Roxb. ex DC.",
+        "source_record_id": "links-0492",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/859dd59f42ed55fa20aa69926c77a51a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/859dd59f42ed55fa20aa69926c77a51a",
+          "Plant Name": "Berberis asiatica Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Berberis asiatica Roxb.",
+        "source_record_id": "links-0499",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/859dd59f42ed55fa20aa69926c77a51a"
+      }
+    ],
+    "source_xplant_id": "859dd59f42ed55fa20aa69926c77a51a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

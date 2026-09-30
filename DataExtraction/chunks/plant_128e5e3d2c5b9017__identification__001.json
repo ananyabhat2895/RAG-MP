@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_128e5e3d2c5b9017__identification__001",
+  "plant_id": "plant_128e5e3d2c5b9017",
+  "plant_name": "Schrebera swietenioides Roxb.",
+  "botanical_name": "Schrebera swietenioides",
+  "botanical_authority": "ROXB.",
+  "family": "OLEACEAE",
+  "section": "identification",
+  "content": "Plant name: Schrebera swietenioides Roxb. Botanical name: Schrebera swietenioides Botanical authority: ROXB. Family: OLEACEAE Source xplant ID: c7c0d57a4605cc69105b7f6970f990bc",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7c0d57a4605cc69105b7f6970f990bc"
+  ],
+  "source_record_ids": [
+    "links-1292"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7c0d57a4605cc69105b7f6970f990bc"
+    ],
+    "source_record_ids": [
+      "links-1292"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7c0d57a4605cc69105b7f6970f990bc",
+          "Plant Name": "Schrebera swietenioides Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Schrebera swietenioides Roxb.",
+        "source_record_id": "links-1292",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7c0d57a4605cc69105b7f6970f990bc"
+      }
+    ],
+    "source_xplant_id": "c7c0d57a4605cc69105b7f6970f990bc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

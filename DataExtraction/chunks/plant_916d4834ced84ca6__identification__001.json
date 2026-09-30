@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_916d4834ced84ca6__identification__001",
+  "plant_id": "plant_916d4834ced84ca6",
+  "plant_name": "Cleome viscosa",
+  "botanical_name": "Cleome viscosa",
+  "botanical_authority": "L.",
+  "family": "CLEOMACEAE",
+  "section": "identification",
+  "content": "Plant name: Cleome viscosa Botanical name: Cleome viscosa Botanical authority: L. Family: CLEOMACEAE Source xplant ID: b7f630b552d8b61583d0338e65f95129",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129"
+  ],
+  "source_record_ids": [
+    "links-0044",
+    "links-1946"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129"
+    ],
+    "source_record_ids": [
+      "links-0044",
+      "links-1946"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129",
+          "Plant Name": "Cleome viscosa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cleome viscosa",
+        "source_record_id": "links-0044",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129",
+          "Plant Name": "Cleome viscosa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cleome viscosa Linn.",
+        "source_record_id": "links-1946",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129"
+      }
+    ],
+    "source_xplant_id": "b7f630b552d8b61583d0338e65f95129",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

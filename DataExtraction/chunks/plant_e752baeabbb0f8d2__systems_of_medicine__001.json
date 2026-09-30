@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_e752baeabbb0f8d2__systems_of_medicine__001",
+  "plant_id": "plant_e752baeabbb0f8d2",
+  "plant_name": "Bauhinia variegata Linn.",
+  "botanical_name": "Bauhinia variegata",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48f469edb3ed892b684c9dcf655e843e"
+  ],
+  "source_record_ids": [
+    "links-0889",
+    "links-1070",
+    "links-2018"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48f469edb3ed892b684c9dcf655e843e"
+    ],
+    "source_record_ids": [
+      "links-0889",
+      "links-1070",
+      "links-2018"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48f469edb3ed892b684c9dcf655e843e",
+          "Plant Name": "Bauhinia variegata Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bauhinia variegata Linn.",
+        "source_record_id": "links-0889",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48f469edb3ed892b684c9dcf655e843e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48f469edb3ed892b684c9dcf655e843e",
+          "Plant Name": "Bauhinia variegata",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bauhinia variegata",
+        "source_record_id": "links-1070",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48f469edb3ed892b684c9dcf655e843e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48f469edb3ed892b684c9dcf655e843e",
+          "Plant Name": "Bauhinia variegata (A variety)",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bauhinia variegata (A variety)",
+        "source_record_id": "links-2018",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48f469edb3ed892b684c9dcf655e843e"
+      }
+    ],
+    "source_xplant_id": "48f469edb3ed892b684c9dcf655e843e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c48884baaca827c1__identification__001",
+  "plant_id": "plant_c48884baaca827c1",
+  "plant_name": "Macrotomia benthamii DC.",
+  "botanical_name": "Arnebia benthamii",
+  "botanical_authority": "(WALL. EX G.DON) JOHNSTON",
+  "family": "BORAGINACEAE",
+  "section": "identification",
+  "content": "Plant name: Macrotomia benthamii DC. Botanical name: Arnebia benthamii Botanical authority: (WALL. EX G.DON) JOHNSTON Family: BORAGINACEAE Source xplant ID: cd30c7824407b5b2e6b5a148bc973708",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd30c7824407b5b2e6b5a148bc973708/xclkon/5af4fbd840250035a30a7b6b7faf11bc"
+  ],
+  "source_record_ids": [
+    "links-0623"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd30c7824407b5b2e6b5a148bc973708/xclkon/5af4fbd840250035a30a7b6b7faf11bc"
+    ],
+    "source_record_ids": [
+      "links-0623"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd30c7824407b5b2e6b5a148bc973708/xclkon/5af4fbd840250035a30a7b6b7faf11bc",
+          "Plant Name": "Macrotomia benthamii DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Macrotomia benthamii DC.",
+        "source_record_id": "links-0623",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd30c7824407b5b2e6b5a148bc973708/xclkon/5af4fbd840250035a30a7b6b7faf11bc"
+      }
+    ],
+    "source_xplant_id": "cd30c7824407b5b2e6b5a148bc973708",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

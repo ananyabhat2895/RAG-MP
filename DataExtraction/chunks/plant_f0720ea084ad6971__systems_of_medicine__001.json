@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_f0720ea084ad6971__systems_of_medicine__001",
+  "plant_id": "plant_f0720ea084ad6971",
+  "plant_name": "Dichrostachys cinerea W. and A.",
+  "botanical_name": "Dichrostachys cinerea",
+  "botanical_authority": "WIGHT & ARN.",
+  "family": "MIMOSACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (1) - Desmanthus cinereus WILLD.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc506e317ac312e5d6654450ed5c3f26"
+  ],
+  "source_record_ids": [
+    "links-2107"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc506e317ac312e5d6654450ed5c3f26"
+    ],
+    "source_record_ids": [
+      "links-2107"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc506e317ac312e5d6654450ed5c3f26",
+          "Plant Name": "Dichrostachys cinerea W. and A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dichrostachys cinerea W. and A.",
+        "source_record_id": "links-2107",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc506e317ac312e5d6654450ed5c3f26"
+      }
+    ],
+    "source_xplant_id": "bc506e317ac312e5d6654450ed5c3f26",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

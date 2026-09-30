@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_3af19ea25f6b00cc__distribution__001",
+  "plant_id": "plant_3af19ea25f6b00cc",
+  "plant_name": "Euphorbia trigona Haw.",
+  "botanical_name": "Euphorbia trigona",
+  "botanical_authority": "HAW.",
+  "family": "EUPHORBIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - J.C.Dagar & N.T. Singh; distribution: Distribution; title: Title - Plant Resources of the Andaman & Nicobar Islands Vol. 2\nDistribution entry: author: Author - N.P.Balakrishnan & T. Chakrabarty; distribution: Distribution; title: Title - The Family Euphorbiaceae in India- A Synopsis of its profile….",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b62b9d5ab60bd83b76e13a0f467a574"
+  ],
+  "source_record_ids": [
+    "links-1823"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b62b9d5ab60bd83b76e13a0f467a574"
+    ],
+    "source_record_ids": [
+      "links-1823"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b62b9d5ab60bd83b76e13a0f467a574",
+          "Plant Name": "Euphorbia trigona Haw.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia trigona Haw.",
+        "source_record_id": "links-1823",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b62b9d5ab60bd83b76e13a0f467a574"
+      }
+    ],
+    "source_xplant_id": "9b62b9d5ab60bd83b76e13a0f467a574",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

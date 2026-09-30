@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ab10db6bc94612fc__systems_of_medicine__001",
+  "plant_id": "plant_ab10db6bc94612fc",
+  "plant_name": "Coleus barbatus",
+  "botanical_name": "Plectranthus barbatus",
+  "botanical_authority": "ANDR.",
+  "family": "LAMIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Folk Botanical Synonyms (2) - Coleus barbatus (ANDR.) BENTH. X Full Botanical citation - Coleus barbatus (Andrews) Benth. in Wall.\nSystem of medicine: Pl. Asiat Rar. 2: 15. 1831; R.D.Gaur\nSystem of medicine: Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes)\nSystem of medicine: TransMedia\nSystem of medicine: Srinagar (Garhwal)\nSystem of medicine: India\nSystem of medicine: 461. 1999. Coleus forskohlii (POIR.) BRIQ X Full Botanical citation - Coleus forshohlii (Willd.) Briq.\nSystem of medicine: in Engler\nSystem of medicine: Pflanzenfam. 4.3a.: 359. 1897; R.D.Gaur\nSystem of medicine: 461.1999",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d475270c2bb8c41834fbbf90657ec8b8/xclkon/b22d750f49ffdde56d4c6af969672a91"
+  ],
+  "source_record_ids": [
+    "links-0590"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d475270c2bb8c41834fbbf90657ec8b8/xclkon/b22d750f49ffdde56d4c6af969672a91"
+    ],
+    "source_record_ids": [
+      "links-0590"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d475270c2bb8c41834fbbf90657ec8b8/xclkon/b22d750f49ffdde56d4c6af969672a91",
+          "Plant Name": "Coleus barbatus",
+          "Status": "Found"
+        },
+        "source_plant_name": "Coleus barbatus",
+        "source_record_id": "links-0590",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d475270c2bb8c41834fbbf90657ec8b8/xclkon/b22d750f49ffdde56d4c6af969672a91"
+      }
+    ],
+    "source_xplant_id": "d475270c2bb8c41834fbbf90657ec8b8",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

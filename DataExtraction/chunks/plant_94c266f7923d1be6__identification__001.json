@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_94c266f7923d1be6__identification__001",
+  "plant_id": "plant_94c266f7923d1be6",
+  "plant_name": "Curcuma amada Roxb.",
+  "botanical_name": "Curcuma amada",
+  "botanical_authority": "ROXB.",
+  "family": "ZINGIBERACEAE",
+  "section": "identification",
+  "content": "Plant name: Curcuma amada Roxb. Botanical name: Curcuma amada Botanical authority: ROXB. Family: ZINGIBERACEAE Source xplant ID: 065e6d7e61e18b5f7c50f5bdfc40f6a0",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/065e6d7e61e18b5f7c50f5bdfc40f6a0"
+  ],
+  "source_record_ids": [
+    "links-0118"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/065e6d7e61e18b5f7c50f5bdfc40f6a0"
+    ],
+    "source_record_ids": [
+      "links-0118"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/065e6d7e61e18b5f7c50f5bdfc40f6a0",
+          "Plant Name": "Curcuma amada Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Curcuma amada Roxb.",
+        "source_record_id": "links-0118",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/065e6d7e61e18b5f7c50f5bdfc40f6a0"
+      }
+    ],
+    "source_xplant_id": "065e6d7e61e18b5f7c50f5bdfc40f6a0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ca11f9789746d18e__vernacular_names__001",
+  "plant_id": "plant_ca11f9789746d18e",
+  "plant_name": "Curcuma longa Linn.",
+  "botanical_name": "Curcuma longa",
+  "botanical_authority": "L.",
+  "family": "ZINGIBERACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): turmeric\nHindi (6): besvar, halad, halda, haldi, halud, holeed\nKannada (7): arasina, arishina, arisina, arisinada kombu, haladi, haldi, haridra\nMalayalam (8): kuva, manjal, manjella-kua, mannal, marinalu, marinnala, paccamannal, varattumannal\nMarathi (3): alad, halad, halede\nSanskrit (67): Sanskrit CommentsX aneshta, bahula, bhadra, dirgharaga, dosa, gandhapalashika, gauri, gharshani, haladi, haladika, haridra, haridrakam, harita, hemaragi, hemaragini, hridvilasini, jayanti, jvarantika, kanchani, kaveri, krimighni, ksanada, kshanada, kshapa, lakshmi, mangalaprada, mangalya, mehaghni, nisa, nisha, nishakhya, nishavha, nisi, paimanjal, pavitra, pinga, pinja, pita, pitaka, pitavaluka, pitika, rabhangavasa, rajani, ranjani, ratri, ratrinamika, shifa, shivashobhana, shyma, siva, subhagavhaya, suvarna, suvarnavarna, tamasani, uma, vara, varangi, varavarnini, varnadatri, varnavat, varnavati, varnini, varvarini, yamini, yoshitapriya, yositpriya, yuvati\nTamil (130): akkinicaruman, akkinicekaram2, alar, alar1, amparam, ancarakam, anmancal, aran, aranmaki, aranmakicceti, ari4, aricam1, aricanam, aricanam@, aricanattuvayam, aricatti, arici, aritaram, arittira, arittiramancal, arittirapam, atavapitan, cakiyam4, cankocam, caruvari, conitam, cuvarnavarnan, ilekini, iracani2, irattankam, irattiri, kacamaram, kacarppam, kacayar, kakacani, kaleyakam, kallaram3, kanakavarni, kanatteru, kancani, kancani2, kancini1, kantapalacikam, kappu mancal, karccurakam, karimancal, katampam1, katankateri, katuppu, kauram1, kaviram@, kilankumancal2, kirucan, kirucanatitam, lankali 2, mamam, mancal, mancatkottu, manjal, munjil, muntan@, mutiyakkilanku, mutiyarikam, muttan, muttanmancal, nakainokkam, nakali, nanmancal, naravati, nicaram1, nicatu, nicatukam, nici, nicikam, niku, nompuvirali, nompuviralicceti, novu, pacappu, pattirai, picunam2, pitai 1, pitakaveram, pitam, pitani 2, pitar 2, talapattiri1, tamaniti1, tami, tanavaka, tapanarkanci, taparkanci, tecani1, tecani1#, tecani@, tecanikakkompu, tekani#, tekani@, tekavarni1, teni1, tipakam, tipanam, tiralarakam, tiralarakamancal, tirkkaracikai, tokaimukapusanam, tokaimukaputanam, tunkam2, turu, turukakkompu, ulokitam2, uluttiram, umai2, urittiram1, uruttiram1, uttiram2, vaccani#, vaccani@, vaccanir, vaivaccutam, vallikam 1, valliyam 2, varam 1, varanki 2, varavannini, varnam, vattiyaputpam 2, veram 2, vilacini, visakinacam\nTelugu (5): haridra, pampi, paspu, passapoo, pasupu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d824ee735c42f2b0afd8b4a53f27991e"
+  ],
+  "source_record_ids": [
+    "links-0692"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d824ee735c42f2b0afd8b4a53f27991e"
+    ],
+    "source_record_ids": [
+      "links-0692"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d824ee735c42f2b0afd8b4a53f27991e",
+          "Plant Name": "Curcuma longa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Curcuma longa Linn.",
+        "source_record_id": "links-0692",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d824ee735c42f2b0afd8b4a53f27991e"
+      }
+    ],
+    "source_xplant_id": "d824ee735c42f2b0afd8b4a53f27991e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

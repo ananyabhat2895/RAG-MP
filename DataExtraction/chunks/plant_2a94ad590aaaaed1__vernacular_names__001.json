@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2a94ad590aaaaed1__vernacular_names__001",
+  "plant_id": "plant_2a94ad590aaaaed1",
+  "plant_name": "Tridax procumbens Linn.",
+  "botanical_name": "Tridax procumbens",
+  "botanical_authority": "L.",
+  "family": "ASTERACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): coatbuttons, mexican daisy\nHindi (7): kalal, kanphuli, kanphuliya, kumra, pabula-ka-mocha, pebul-ka-mocha, pilo-bayoni\nKannada (13): addike gida, gabbu gida, gabbu sanna shaavanthi, gabbu sanna shavanti, gabbu shaavanthi, ilisppu, kaachaghni, nada murukana gida, netta gabbu, shaavanthi, thaale udurohoogida, theeke soppu, yeriyele gida\nMarathi (2): aekadaandee, thanathanee\nSanskrit (1): Sanskrit CommentsX jayanti\nTamil (3): kenattuppuntu, vettukkaaya-thalai, vettukkaya puntu\nTelugu (3): balapaaku, gaayapaaku, gaddichamanthi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ab83c76f1c09cacf351ac6476d2541c"
+  ],
+  "source_record_ids": [
+    "links-0333"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ab83c76f1c09cacf351ac6476d2541c"
+    ],
+    "source_record_ids": [
+      "links-0333"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ab83c76f1c09cacf351ac6476d2541c",
+          "Plant Name": "Tridax procumbens Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tridax procumbens Linn.",
+        "source_record_id": "links-0333",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ab83c76f1c09cacf351ac6476d2541c"
+      }
+    ],
+    "source_xplant_id": "1ab83c76f1c09cacf351ac6476d2541c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

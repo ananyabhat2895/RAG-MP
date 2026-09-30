@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_f88f975d42e92cea__vernacular_names__001",
+  "plant_id": "plant_f88f975d42e92cea",
+  "plant_name": "Piper baccatum Blume",
+  "botanical_name": "Piper nigrum",
+  "botanical_authority": "L.",
+  "family": "PIPERACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): black pepper, madagascar pepper, pepper, white pepper\nHindi (13): chocamirch, filfilgird, gol-mirch, golmirch, gulmirch, habush, kali-mirch, kalimirc, kalimirch, kalimirich, mirc, mirch, safedmirch\nKannada (20): eddemunchi, eddemunci, kaalu menasu, karee menasu, karimenasu, menasina balli, menasinaballi, menasinakaalu, menasinakalu, menasu, miri, munchi, munci, olle menasu, ollemenasinaballi, ollemenasu, ollimonasu, volloymenasu, wollemenasu, yeddemunci\nMalayalam (18): cattu-molagoi, kolakam, kuru-milagu, kuru-mulaka, kurumulagu, kurumulaka, kurumulaku, maricam, maricham, milagu, molagacodi, molago-codi, mulaku, mulakukoti, ushanam, vallijam, vellajam, villajam\nMarathi (9): kaalimirch, kalamiri, kalimirch, meervaela, mir-vel, mire, mireem, mirim, pokhlem-mirim\nSanskrit (47): Sanskrit CommentsX cavyam, dhanwantari, dharmapattana, dharmavarttana, hapusha, kankola, kaphavirodhi, katu, katuka, kola, kolaka, krishnam, krishnamushana, krsna, malina, marica, marica-valli, maricam, maricha, maricham, marichi, mrishta, ooshnam, pavita, ruksha, sarvahita, shakanga, shirovritta, shivika, shudha, shyama, suvrtta, tikshna, tiksna, usana, usanaka, vallija, valliyam, vara, varishtha, vellaja, vellija, venuja, venuka, vrittaphala, yavanapriya, yavaneshtha",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba0f1ced98218e0dfa2295cff395acdd/xclkon/4cf52023cb1cd4c58b795f10ace28fce",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba0f1ced98218e0dfa2295cff395acdd"
+  ],
+  "source_record_ids": [
+    "links-0905",
+    "links-1248"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba0f1ced98218e0dfa2295cff395acdd/xclkon/4cf52023cb1cd4c58b795f10ace28fce",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba0f1ced98218e0dfa2295cff395acdd"
+    ],
+    "source_record_ids": [
+      "links-0905",
+      "links-1248"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba0f1ced98218e0dfa2295cff395acdd/xclkon/4cf52023cb1cd4c58b795f10ace28fce",
+          "Plant Name": "Piper baccatum Blume",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper baccatum Blume",
+        "source_record_id": "links-0905",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba0f1ced98218e0dfa2295cff395acdd/xclkon/4cf52023cb1cd4c58b795f10ace28fce"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba0f1ced98218e0dfa2295cff395acdd",
+          "Plant Name": "Piper nigrum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper nigrum Linn.",
+        "source_record_id": "links-1248",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba0f1ced98218e0dfa2295cff395acdd"
+      }
+    ],
+    "source_xplant_id": "ba0f1ced98218e0dfa2295cff395acdd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

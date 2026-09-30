@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_f88f975d42e92cea__vernacular_names__002",
+  "plant_id": "plant_f88f975d42e92cea",
+  "plant_name": "Piper baccatum Blume",
+  "botanical_name": "Piper nigrum",
+  "botanical_authority": "L.",
+  "family": "PIPERACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (214): aguttam, akuttam, alar2, alarkay, alarkaycceti, alarmancal, alivaliyanmani, amiram@, anam, apanam, apayam1, aricam2, aricu1, aricuvai, arisu, arittam1#, arittam1@, arunapakam, arutam, aruttakam1, aruttam1, aruttan, arutti, atittam, aucatikam, autatalakamilaku, ayilakikam, cakankam, canucam#, canucam@, canukam, carapantam, carumapantam, catalam3, catalamilaku, cavi, cavviyam, cavviyapalam, celavikacceti, celaviyam, cevviyam, ceytakar, cirovikam, ciroviruttam, citamaricam, citamarucam, citamarucu, citamarukam, cullituvan2, cunam1, cuppiramaniyam, cur1, impikam, impilam, irambivam, irampikam, irampilam, irampivam, itukam, itukamilaku, ivainakitam, ivanattam#, ivanattam@, kalappakacceti, kalappakam, kalinai, kalinaikkollu, kalinaimilaku, kalinkam2, kallinai, kami, kamicakam, kanakam3, kanattai, kandanaguli, kantanakuli2, kantankuli, karam2, kari, kari@, karikkay, karunelli, karutturupayan, karyam, katti, kattirican, kay2, kayam, kevakatiraviyam, kevalatiraviyam, kirantikantikam, kirusnam2, kiruttinam3, kolagam, kolai, kolakam2, kolakam3, kolam, kolam3, kolicam, kolikacceti, kurumilagu, kurumilaku, maciyam, maikkurotikam, maiyi, makaracitakaram, malaittirukkal, malaivacapancam, malaiyalam, malaiyali, malaiyaracan, malaiyavikam, malaiyinmunivan, maliyavikacceti, maricam, maricam 1, maricam#, maricam@, marici$, marici@, marisam, mariyal, maruci, marukkam 3, matankan, mellaghoo, milagu, milagu-valli, milaku, milakucceti, milakuvalli, miricam, miricanam, mirici, miriyal@, miriyalakam, miriyarkoti, mulaku, mulatti@, muntan#, mupparitam, mupparitamilaku, musanam, mutanam, nakarenu, nallamilaku, nalmilaku, nattumilaku, neriyal@, nettakam, nettam, nitiyam, palini#, palini@, parici, pattuvanestam, pavitam, piramamaricam, piramaparicam, pittam, pulipacitam, repam, shevium, tarapattanam, tarmapattanam@, tarumapittam, tattuvacam, tavalam, tavalamilaku, ticcanam, tiraipokki, tirankal, tirankalam, tirankam, tirankanal, titcanam5, tuvinam, ucakam, ucanam, uciram1, usakam, usanam2, usanam@, utanam, utanam2, uttanam2, vacampu 2, vacankiyam, vacikam, vacitam, vallacam, vallicam, vallicam #, vallikacceti, valliyam, vatamarukkinron, vatanacani, vellaiccatikam, vellaiccatikamilaku, vellaimilaku 2, vellajam, venkakkiyam, venkakkiyamilaku, venmilaku, venticam, venticamilaku, venunam#, venunam@, virani 1, viruttapalam 2, viruttapam, yavanappiriyam#, yavanappiriyam@",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba0f1ced98218e0dfa2295cff395acdd/xclkon/4cf52023cb1cd4c58b795f10ace28fce",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba0f1ced98218e0dfa2295cff395acdd"
+  ],
+  "source_record_ids": [
+    "links-0905",
+    "links-1248"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba0f1ced98218e0dfa2295cff395acdd/xclkon/4cf52023cb1cd4c58b795f10ace28fce",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba0f1ced98218e0dfa2295cff395acdd"
+    ],
+    "source_record_ids": [
+      "links-0905",
+      "links-1248"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba0f1ced98218e0dfa2295cff395acdd/xclkon/4cf52023cb1cd4c58b795f10ace28fce",
+          "Plant Name": "Piper baccatum Blume",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper baccatum Blume",
+        "source_record_id": "links-0905",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba0f1ced98218e0dfa2295cff395acdd/xclkon/4cf52023cb1cd4c58b795f10ace28fce"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba0f1ced98218e0dfa2295cff395acdd",
+          "Plant Name": "Piper nigrum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper nigrum Linn.",
+        "source_record_id": "links-1248",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba0f1ced98218e0dfa2295cff395acdd"
+      }
+    ],
+    "source_xplant_id": "ba0f1ced98218e0dfa2295cff395acdd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_60ce511277991039__systems_of_medicine__001",
+  "plant_id": "plant_60ce511277991039",
+  "plant_name": "Atropa belladonna Linn.",
+  "botanical_name": "Atropa belladonna",
+  "botanical_authority": "L.",
+  "family": "SOLANACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Homeopathy",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0826c8e10244ecaaa1d384609904a397"
+  ],
+  "source_record_ids": [
+    "links-1858"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0826c8e10244ecaaa1d384609904a397"
+    ],
+    "source_record_ids": [
+      "links-1858"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0826c8e10244ecaaa1d384609904a397",
+          "Plant Name": "Atropa belladonna Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Atropa belladonna Linn.",
+        "source_record_id": "links-1858",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0826c8e10244ecaaa1d384609904a397"
+      }
+    ],
+    "source_xplant_id": "0826c8e10244ecaaa1d384609904a397",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

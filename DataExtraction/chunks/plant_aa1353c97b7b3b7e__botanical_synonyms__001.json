@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_aa1353c97b7b3b7e__botanical_synonyms__001",
+  "plant_id": "plant_aa1353c97b7b3b7e",
+  "plant_name": "Gossypium arboreum Linn.",
+  "botanical_name": "Gossypium arboreum",
+  "botanical_authority": "L.",
+  "family": "MALVACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Gossypium indicum TOD. Gossypium purpurascens POIR\nSynonym: Gossypium indicum TOD.\nSynonym: Gossypium purpurascens POIR",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/44706a0b7c307ec6ca0827237f53ee2f"
+  ],
+  "source_record_ids": [
+    "links-0981"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/44706a0b7c307ec6ca0827237f53ee2f"
+    ],
+    "source_record_ids": [
+      "links-0981"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/44706a0b7c307ec6ca0827237f53ee2f",
+          "Plant Name": "Gossypium arboreum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gossypium arboreum Linn.",
+        "source_record_id": "links-0981",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/44706a0b7c307ec6ca0827237f53ee2f"
+      }
+    ],
+    "source_xplant_id": "44706a0b7c307ec6ca0827237f53ee2f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b371cf428be7c07e__bibliography__001",
+  "plant_id": "plant_b371cf428be7c07e",
+  "plant_name": "Mollugo hirta Thunb.",
+  "botanical_name": "Glinus lotoides",
+  "botanical_authority": "L.",
+  "family": "AIZOACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I\nBibliography entry: title: Title - Flora of Bankura District(West Bengal)\nBibliography entry: title: Title - Flora of Rajasthan Vol. 1\nBibliography entry: title: Title - The Flora of Orissa Vol II\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol I\nBibliography entry: title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nBibliography entry: title: Title - Flora of Majuli\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - Flora of Gujarat State Vol 1\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL2\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nBibliography entry: title: Title - Flora of the Indian Desert\nBibliography entry: title: Title - The Flora of the Gulf of Mannar\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/cec6d03d0e1bbe969c56f2e457d35f35"
+  ],
+  "source_record_ids": [
+    "links-1457"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/cec6d03d0e1bbe969c56f2e457d35f35"
+    ],
+    "source_record_ids": [
+      "links-1457"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/cec6d03d0e1bbe969c56f2e457d35f35",
+          "Plant Name": "Mollugo hirta Thunb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mollugo hirta Thunb.",
+        "source_record_id": "links-1457",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/cec6d03d0e1bbe969c56f2e457d35f35"
+      }
+    ],
+    "source_xplant_id": "67349d031267ee6d717be88c91b873eb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

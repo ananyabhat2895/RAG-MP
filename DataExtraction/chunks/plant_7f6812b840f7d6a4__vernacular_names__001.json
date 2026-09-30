@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_7f6812b840f7d6a4__vernacular_names__001",
+  "plant_id": "plant_7f6812b840f7d6a4",
+  "plant_name": "Phaseolus trilobus Ait.",
+  "botanical_name": "Vigna trilobata",
+  "botanical_authority": "(L.) VERDCOURT",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): wild blackgram\nHindi (9): arkmoth, jangli moth, mugani, mugawana, mungani, mungi, mungwan, s.n mudagaparni, trianguli\nKannada (7): kaadesaru, kohasaru, kohesaru, mudgaparni, nari hesara, nari hesaru, pilli hesaru\nMalayalam (1): kattupayar\nMarathi (8): arkamath, arkmut, jangli mung, janglimath, ran-mat, ranamuga, ranmath, ranmuga\nSanskrit (19): Sanskrit CommentsX aranyamudga, hrasva, kakamudga, karanjika, koshila, kshudrasaha, kurangika, marjaragandhika, mudgaparni, saha, shimbi, shimbiparni, shimbiparnika, shurpaparni, tryangguli, vanajaringini, vanamudga, vanodbhava, vanya\nTamil (9): cirupayaru, kocilam, nari payaru, narip payaru, naripayar, narippayaru, pani-pyre, panipayar, panipayir\nTelugu (1): pillippersara\nTibetan (3): mom sran sde u i dab ma (d), sde u i dab ma, smon sran sde u i dab ma (p)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d25559119de667b997e29e594c5fe377/xclkon/4235761c7cd7bcee37b6309bd47623ed"
+  ],
+  "source_record_ids": [
+    "links-1300"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d25559119de667b997e29e594c5fe377/xclkon/4235761c7cd7bcee37b6309bd47623ed"
+    ],
+    "source_record_ids": [
+      "links-1300"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d25559119de667b997e29e594c5fe377/xclkon/4235761c7cd7bcee37b6309bd47623ed",
+          "Plant Name": "Phaseolus trilobus Ait.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Phaseolus trilobus Ait.",
+        "source_record_id": "links-1300",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d25559119de667b997e29e594c5fe377/xclkon/4235761c7cd7bcee37b6309bd47623ed"
+      }
+    ],
+    "source_xplant_id": "d25559119de667b997e29e594c5fe377",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

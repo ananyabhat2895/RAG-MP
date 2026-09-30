@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_278b99f8cd782b5b__distribution__001",
+  "plant_id": "plant_278b99f8cd782b5b",
+  "plant_name": "Mimosa pudica Linn.",
+  "botanical_name": "Mimosa pudica",
+  "botanical_authority": "L.",
+  "family": "MIMOSACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - A.E. Osmaston; distribution: Distribution; title: Title - A Forest Flora for Kumaon\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - HARIDASAN K & RAO R R; distribution: Distribution; title: Title - FOREST FLORA OF MEGHALAYA VOL 1\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b"
+  ],
+  "source_record_ids": [
+    "links-1153",
+    "links-1154",
+    "links-1155",
+    "links-1156"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b"
+    ],
+    "source_record_ids": [
+      "links-1153",
+      "links-1154",
+      "links-1155",
+      "links-1156"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b",
+          "Plant Name": "Mimosa pudica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mimosa pudica Linn.",
+        "source_record_id": "links-1153",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b",
+          "Plant Name": "Mimosa pudica Linn. Var. hispida Brenan.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mimosa pudica Linn. Var. hispida Brenan.",
+        "source_record_id": "links-1154",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b",
+          "Plant Name": "Mimosa pudica Linn. Var. tetranda DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mimosa pudica Linn. Var. tetranda DC.",
+        "source_record_id": "links-1155",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b",
+          "Plant Name": "Mimosa pudica Linn. Var. unijuga Griseb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mimosa pudica Linn. Var. unijuga Griseb.",
+        "source_record_id": "links-1156",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b"
+      }
+    ],
+    "source_xplant_id": "3127a1ac87d4540d9e298e05642e0c0b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

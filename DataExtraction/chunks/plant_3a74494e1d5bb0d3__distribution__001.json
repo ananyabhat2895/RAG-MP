@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_3a74494e1d5bb0d3__distribution__001",
+  "plant_id": "plant_3a74494e1d5bb0d3",
+  "plant_name": "Ventilago madraspatana Gaertn.",
+  "botanical_name": "Ventilago madraspatana",
+  "botanical_authority": "GAERTN.",
+  "family": "RHAMNACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - HARIDASAN K & RAO R R; distribution: Distribution; title: Title - FOREST FLORA OF MEGHALAYA VOL 1\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - KANJILAL & BOR; distribution: Distribution; title: Title - FLORA OF ASSAM\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1\nDistribution entry: author: Author - C.J SALDHANA; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c06cc677ccb629a0b1943f094219fae3"
+  ],
+  "source_record_ids": [
+    "links-1660"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c06cc677ccb629a0b1943f094219fae3"
+    ],
+    "source_record_ids": [
+      "links-1660"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c06cc677ccb629a0b1943f094219fae3",
+          "Plant Name": "Ventilago madraspatana Gaertn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ventilago madraspatana Gaertn.",
+        "source_record_id": "links-1660",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c06cc677ccb629a0b1943f094219fae3"
+      }
+    ],
+    "source_xplant_id": "c06cc677ccb629a0b1943f094219fae3",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

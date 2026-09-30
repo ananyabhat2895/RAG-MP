@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_2381ea6faf52cf51__identification__001",
+  "plant_id": "plant_2381ea6faf52cf51",
+  "plant_name": "Solanum torvum Swartz",
+  "botanical_name": "Solanum torvum",
+  "botanical_authority": "SWARTZ",
+  "family": "SOLANACEAE",
+  "section": "identification",
+  "content": "Plant name: Solanum torvum Swartz Botanical name: Solanum torvum Botanical authority: SWARTZ Family: SOLANACEAE Source xplant ID: 7b6dd3c6f37a291782a1fba746563e72",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b6dd3c6f37a291782a1fba746563e72"
+  ],
+  "source_record_ids": [
+    "links-0394",
+    "links-0395"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b6dd3c6f37a291782a1fba746563e72"
+    ],
+    "source_record_ids": [
+      "links-0394",
+      "links-0395"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b6dd3c6f37a291782a1fba746563e72",
+          "Plant Name": "Solanum torvum Swartz",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum torvum Swartz",
+        "source_record_id": "links-0394",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b6dd3c6f37a291782a1fba746563e72"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b6dd3c6f37a291782a1fba746563e72",
+          "Plant Name": "Solanum torvum Swartz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum torvum Swartz.",
+        "source_record_id": "links-0395",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b6dd3c6f37a291782a1fba746563e72"
+      }
+    ],
+    "source_xplant_id": "7b6dd3c6f37a291782a1fba746563e72",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

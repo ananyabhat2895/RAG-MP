@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_40bcc3bffa48f4c2__vernacular_names__001",
+  "plant_id": "plant_40bcc3bffa48f4c2",
+  "plant_name": "Ferula foetida Regel.",
+  "botanical_name": "Ferula assa-foetida",
+  "botanical_authority": "L.",
+  "family": "APIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (3): himg, hing, hingra\nKannada (3): hingu, ingina gida, ingu\nMalayalam (5): karikkayam, kayam, perungayam, perungkayam, perunkayam\nSanskrit (9): Sanskrit CommentsX bahleeka, bhedana, bhutnasan, gathukam, hingu, ramatha, ramatta, sahasveani, sulanasan\nTamil (76): acani2, akutakantakam, akutakantam#, akutakantam@, atakantam, atikanari, attiyakirakam, cakantirapeti, canam, canam2, cantunacam, capapatankam, capapatankamaram, caranam1, catukam, centutti2, cukantiram, cukantiramaram, culakirutu, cuttakaitavam, cuttakaitavamaram, inku, inkuli, inkupumam, inkura, inkuramam, inkutumam, intuli b, intuli y, iramatai, iramatam, iramatam#, iramatam@, iranam, iratam1, kanti, kanti2, kapari, kaparimaram, karam1, karavi2, kayam, kayam1, kecaram3, kuracam, kuramatam, kutanacam, kutanacanam, kutaram, kuttaracam, nari2, narimaram, narukam, narukamaram, narukatti, parunkayam, perungayam, perungkayam, perungyum, perunkayam, perunkayanari, putanacam, putanacini, ucitam, ukkirakantam1, ukkirakentai1, ukkirakentam1, ukkitam, urappam, urappankayam, uraral, urpalacacanan, urpalacanan#, urpalacanan@, urumparam, vallikam\nTelugu (3): ingu, inguva, raamatamu\nUrdu (1): hing",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00335c344635765232143e3a1763bc09"
+  ],
+  "source_record_ids": [
+    "links-0714"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00335c344635765232143e3a1763bc09"
+    ],
+    "source_record_ids": [
+      "links-0714"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00335c344635765232143e3a1763bc09",
+          "Plant Name": "Ferula foetida Regel.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ferula foetida Regel.",
+        "source_record_id": "links-0714",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00335c344635765232143e3a1763bc09"
+      }
+    ],
+    "source_xplant_id": "00335c344635765232143e3a1763bc09",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

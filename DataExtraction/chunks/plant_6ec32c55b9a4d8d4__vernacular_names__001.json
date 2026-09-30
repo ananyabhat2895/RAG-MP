@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_6ec32c55b9a4d8d4__vernacular_names__001",
+  "plant_id": "plant_6ec32c55b9a4d8d4",
+  "plant_name": "Gossypium herbaceum Linn.",
+  "botanical_name": "Gossypium herbaceum",
+  "botanical_authority": "L.",
+  "family": "MALVACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (5): kapas, kapas-ka-per, kupas, rui, ruji\nKannada (24): ambara, ambdari, anjeeda, arale, aralegida, arali, badari, deshihatthi dudi, dudi, hatthi, hatti, janivara-hatti-mara, kaarapaana, kariarale, karihariyale, karihariyele, karpaasa, karpasa, kempuhatthi, kumpta hatthi, kumtaahatthi, naaduhatthi, parti, tula\nMalayalam (17): badara, karppas, karppasi, karuparutti, kuruparatti, kurupparatti, kurupparutti, nulpparutti, pangni, panni, pannipparutti, paritti, parutti, picu, pishu, tulam, tundiker\nMarathi (4): kaapasee, kaapasheena, kaapoos, rui\nSanskrit (24): Sanskrit CommentsX anagnika, badara, chavya, chhadana, guda, kalakanta, kapasi-mul-twak, karpas, karpasa, karpasah, karpasaha, karpasasarini, karpasi, maghani, marudbhava, patada, patahena, pichu, samudranta, sutrapushpa, tula, tundakerika, tundikeri, vadara\nTamil (104): accatanapalai, accatanapalai@, accatanapalam, anantar, anantarceti, ankanitampuntu, apocam, camuttirantakam, camuttirantakkaccetti, catanam, catanapalam, caturmuli, cittirattantakam, iladambarutti, kankanatam, kannu, kannucceti, kantotakam, kantotakapparutti, karapacam, karbasam, karpacam, karpaciyam, karpasam, karppasam, karppati, karppikam, kecarai, kecaraicceti, kilimukku, kirantiviranapakam, kirumi ara, kottireyacceti, kottireyam, kuppaipparutti, kurantanaci, kurantanacicceti, kurantanacini@, kuttalakacceti, kuttalakam, manocilaiyaimelukakki, matakantam, mattika, mattikamaram, mocaparani, mocaparanicceti, nakkinam2, nakkinikam, nanni, nannicceti, natan parutti, natanparutti, nattuppancu, nattupparutti, panci1, pancuceti, pancumuli, panji, panju, pannal, pannal#, pannal@, pannam 1, pannamacalam, paratie vayr, pari, pari@, paripinnal, paritticceti, paruthi, parutti, parutti pattiri, paruttita, paruttitacceti, patai 1, picaviyacceti, picavviyam, picu, picunam1, picutalam, picutulacceti, picutulam, samuttrandam, taiparutti, talipparutti, tokkulam, tulakam2, tulam, tulam2@, tulavam, tulavam2, tunkeri, tuntakeri, uppamparutti, uttari, uttiri, uttiricceti, vamani@, vamanniyam, vamparattai, vasti, vatamalikaimuli, vattarotayapputu, venparutti\nTelugu (18): badari, badarika, edudi, kaarpasamu, karpasamu, paratthi, paththi, pati, patthi, patti, peculamu, picuvu, pinja, pishulamu, pishuvu, prathi, pratti, puttie\nTibetan (1): kar-pas\nUrdu (1): rui",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6527974ce4181cbac2dcae4b26ee0d0"
+  ],
+  "source_record_ids": [
+    "links-0985"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6527974ce4181cbac2dcae4b26ee0d0"
+    ],
+    "source_record_ids": [
+      "links-0985"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6527974ce4181cbac2dcae4b26ee0d0",
+          "Plant Name": "Gossypium herbaceum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gossypium herbaceum Linn.",
+        "source_record_id": "links-0985",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6527974ce4181cbac2dcae4b26ee0d0"
+      }
+    ],
+    "source_xplant_id": "a6527974ce4181cbac2dcae4b26ee0d0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

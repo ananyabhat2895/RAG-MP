@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_ec6f35280cdb6262__vernacular_names__001",
+  "plant_id": "plant_ec6f35280cdb6262",
+  "plant_name": "Artocarpus heterophyllus Lam.",
+  "botanical_name": "Artocarpus heterophyllus",
+  "botanical_authority": "LAM.",
+  "family": "MORACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): chempedak, jack, jack nut\nHindi (13): cakki, chakki, kanthal, katahara, kathai, kathal, kathar, katiahar, katoi, katol, panasa, panos, phannas\nKannada (29): alasa, alasu, bokke gida, gujja, gujje, halasima, halasina, halasina hannu, halasina mara, halasinatiga, halasu, halasu jaaka, halsina, halsu, hulsen, jaca, jaka, kantaka phala, kantakaphaa, kantakaphala, kojje, koovi, kujje, kuvi, panasa, panasero, pela, tage, thagai\nMalayalam (19): cakka, chakka, chuckkai, iticcakka, itichchakka, jakka, kandakiphala, kantaki, kottaccakka, kottachchakka, pala, pela, pila, pilav, pilavu, plavu, tsjaca, tsjaka-maram, varikka\nMarathi (5): fannas, panas, phanas, phunnas, phunnus\nSanskrit (33): Sanskrit CommentsX amasayaphala, apushpa, apuspaphala, ashaya, atibrhatphala, atibrihatphala, champa, champakalu, kantakaphala, kantakiphala, kantaphala, kantiphala, kosha, la, mahasarja, mridangapha, mulaphalada, murajaphala, palasa, panas, panasa, panasah, pansa, pashumusta, phalada, phalasa, phalavrikshaka, phalina, phanasa, putaphala, skandhaphala, sthula, sthulakantaphala\nTamil (72): acani1, aiyinipila, anjili, atcaravirutcatti, ayirankanni, cakkai, cantakaputitam, cantakaputitamaram, cenkarippala, cenkarippalamaram, cikavaram, cuvaturacayanam, cuvatuvaki, ekaram1, ekaramaram, ekaravalli, ekaravalli1, iracalam1, kantakapalam, kantapalam, kurtekam, kurtekamaram, kuttippala1, kuttippila1, marican, matika, matukamaram, mirutankapalam 1, muppurakkani, murasabalam, mutpala, mutpurakkani, narpala, narpalamaram, nattuppala, paala, pagal, pala, palaasu, palacam 1, palachu, palakkay, palamaram, palampala, palampalamaram, palasu, palaviruccakam, palavirutcam, palavu, palavumaram, pale, panacamaram, panasam, paricatti, pila, pilavu, pilpazham, piramataru 1, pukam 2, sira, tagar, umaipporikam, umaipporikamaram, varkkai, varukkai, varukkai 1, varukkaippala#, varukkarai, varukkaraimaram, vasukkai, vatakapavirutti, verppala\nTelugu (4): panasa, vaerupanasa, veru panasa, verupanasa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f341d2db9e612bbf5245e10133d7cd44",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f341d2db9e612bbf5245e10133d7cd44/xclkon/dd1192ea88062859e11fa8c24755d6ad"
+  ],
+  "source_record_ids": [
+    "links-1424",
+    "links-1425",
+    "links-1426"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f341d2db9e612bbf5245e10133d7cd44",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f341d2db9e612bbf5245e10133d7cd44/xclkon/dd1192ea88062859e11fa8c24755d6ad"
+    ],
+    "source_record_ids": [
+      "links-1424",
+      "links-1425",
+      "links-1426"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f341d2db9e612bbf5245e10133d7cd44",
+          "Plant Name": "Artocarpus heterophyllus Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Artocarpus heterophyllus Lam.",
+        "source_record_id": "links-1424",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f341d2db9e612bbf5245e10133d7cd44"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f341d2db9e612bbf5245e10133d7cd44/xclkon/dd1192ea88062859e11fa8c24755d6ad",
+          "Plant Name": "Artocarpus integra (Thunb) Merrill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Artocarpus integra (Thunb) Merrill.",
+        "source_record_id": "links-1425",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f341d2db9e612bbf5245e10133d7cd44/xclkon/dd1192ea88062859e11fa8c24755d6ad"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f341d2db9e612bbf5245e10133d7cd44/xclkon/dd1192ea88062859e11fa8c24755d6ad",
+          "Plant Name": "Artocarpus integra (Thunb.) Merrill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Artocarpus integra (Thunb.) Merrill.",
+        "source_record_id": "links-1426",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f341d2db9e612bbf5245e10133d7cd44/xclkon/dd1192ea88062859e11fa8c24755d6ad"
+      }
+    ],
+    "source_xplant_id": "f341d2db9e612bbf5245e10133d7cd44",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

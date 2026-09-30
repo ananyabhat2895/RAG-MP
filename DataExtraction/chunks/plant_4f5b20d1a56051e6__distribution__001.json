@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_4f5b20d1a56051e6__distribution__001",
+  "plant_id": "plant_4f5b20d1a56051e6",
+  "plant_name": "Sarcostemma acidum Voigt.",
+  "botanical_name": "Sarcostemma acidum",
+  "botanical_authority": "VOIGT",
+  "family": "ASCLEPIADACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855/xclkon/b401eba3bb6e9d125adf1db079e27366"
+  ],
+  "source_record_ids": [
+    "links-1836",
+    "links-1838"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855/xclkon/b401eba3bb6e9d125adf1db079e27366"
+    ],
+    "source_record_ids": [
+      "links-1836",
+      "links-1838"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855",
+          "Plant Name": "Sarcostemma acidum Voigt.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sarcostemma acidum Voigt.",
+        "source_record_id": "links-1836",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855/xclkon/b401eba3bb6e9d125adf1db079e27366",
+          "Plant Name": "Sarcostemma Brevistigma W. & A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sarcostemma Brevistigma W. & A.",
+        "source_record_id": "links-1838",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855/xclkon/b401eba3bb6e9d125adf1db079e27366"
+      }
+    ],
+    "source_xplant_id": "d9f128d8706fee68abedcdb44f709855",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

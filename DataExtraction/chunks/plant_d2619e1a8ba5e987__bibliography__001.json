@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d2619e1a8ba5e987__bibliography__001",
+  "plant_id": "plant_d2619e1a8ba5e987",
+  "plant_name": "Vitis latifolia Roxb.",
+  "botanical_name": "Ampelocissus latifolia",
+  "botanical_authority": "(ROXB.) PLANCH.",
+  "family": "VITACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - V.V. SIVARAJAN AND INDIRA BALACHANDRAN; title: Title - AYURVEDIC DRUGS AND THEIR PLANT SOURCES\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: title: Title - Flora of Rajasthan Vol. 1\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I\nBibliography entry: title: Title - Flora of Bankura District(West Bengal)\nBibliography entry: title: Title - The Flora of Kerala Vol I\nBibliography entry: title: Title - Flora of Chamba District (Himachal Pradesh)\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol I\nBibliography entry: title: Title - FLORA OF ASSAM\nBibliography entry: title: Title - A Forest Flora for Kumaon\nBibliography entry: title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nBibliography entry: title: Title - Flora of Majuli\nBibliography entry: title: Title - FOREST FLORA OF MEGHALAYA VOL 1\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-2\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - The Flora of Orissa Volume 1\nBibliography entry: title: Title - Flora of Gujarat State Vol 1\nBibliography entry: title: Title - Flora of West Bengal Vol 1\nBibliography entry: title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb3faba27082ce4d413aa8a31cc8c48/xclkon/819c4bafbc6e3d93682042e058d5ef7f"
+  ],
+  "source_record_ids": [
+    "links-0121"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb3faba27082ce4d413aa8a31cc8c48/xclkon/819c4bafbc6e3d93682042e058d5ef7f"
+    ],
+    "source_record_ids": [
+      "links-0121"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb3faba27082ce4d413aa8a31cc8c48/xclkon/819c4bafbc6e3d93682042e058d5ef7f",
+          "Plant Name": "Vitis latifolia Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vitis latifolia Roxb.",
+        "source_record_id": "links-0121",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb3faba27082ce4d413aa8a31cc8c48/xclkon/819c4bafbc6e3d93682042e058d5ef7f"
+      }
+    ],
+    "source_xplant_id": "beb3faba27082ce4d413aa8a31cc8c48",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

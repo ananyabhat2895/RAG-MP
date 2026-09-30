@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_43e8fc663bc96104__systems_of_medicine__001",
+  "plant_id": "plant_43e8fc663bc96104",
+  "plant_name": "Eulaliopsis binata (Retz.) C.E. Hubbard.",
+  "botanical_name": "Eulaliopsis binata",
+  "botanical_authority": "(RETZ.) C.E. HUBBARD",
+  "family": "POACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c35204ade11bae51d579a1cd451a2fbf"
+  ],
+  "source_record_ids": [
+    "links-0277"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c35204ade11bae51d579a1cd451a2fbf"
+    ],
+    "source_record_ids": [
+      "links-0277"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c35204ade11bae51d579a1cd451a2fbf",
+          "Plant Name": "Eulaliopsis binata (Retz.) C.E. Hubbard.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Eulaliopsis binata (Retz.) C.E. Hubbard.",
+        "source_record_id": "links-0277",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c35204ade11bae51d579a1cd451a2fbf"
+      }
+    ],
+    "source_xplant_id": "c35204ade11bae51d579a1cd451a2fbf",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

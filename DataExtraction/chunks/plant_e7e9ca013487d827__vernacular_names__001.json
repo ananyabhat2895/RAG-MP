@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e7e9ca013487d827__vernacular_names__001",
+  "plant_id": "plant_e7e9ca013487d827",
+  "plant_name": "Morus alba Linn.",
+  "botanical_name": "Morus alba",
+  "botanical_authority": "L.",
+  "family": "MORACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): white mulberry\nHindi (19): chimmu, chinni, chum, chun, karun, sahtoot, shahtoot, shahtut, shehtoot, swa, toot, toota, tooth, tul, tulklu, tunt, tut, tut (cultivated), tutri\nKannada (12): bilee hippenerale, bilee uppu nerale, bili uppu naerale, hippal verali, hippali naerala, hippu naerale, hippunerale, kambali gida, kambali hannu, korigida, tuti, uppunute\nMalayalam (2): malvari, pattunulppulucceti\nMarathi (1): tut\nSanskrit (5): Sanskrit CommentsX tooda, toola, tudah, tula, tutam\nTamil (9): kambali poochi chedi, kambilipuch, kamblichedi, kampalicceti1, kampilippuccicceti, musukotta, pattuppucci, pattuppuccimaram, pattuppuchi\nTelugu (4): kambali chettu, malabary aaku, pippalipanducettu, reshmicettu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ad2a56a28b798991edd21321202356a"
+  ],
+  "source_record_ids": [
+    "links-1988"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ad2a56a28b798991edd21321202356a"
+    ],
+    "source_record_ids": [
+      "links-1988"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ad2a56a28b798991edd21321202356a",
+          "Plant Name": "Morus alba Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Morus alba Linn.",
+        "source_record_id": "links-1988",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ad2a56a28b798991edd21321202356a"
+      }
+    ],
+    "source_xplant_id": "9ad2a56a28b798991edd21321202356a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

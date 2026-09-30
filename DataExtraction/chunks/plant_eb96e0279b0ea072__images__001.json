@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_eb96e0279b0ea072__images__001",
+  "plant_id": "plant_eb96e0279b0ea072",
+  "plant_name": "Commiphora molmol Engl. ex Tschirch",
+  "botanical_name": "Commiphora molmol",
+  "botanical_authority": "ENGL. EX. TSCHIRAH",
+  "family": "BURSERACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2bb5dc38947331d8e2031d0f4fc36a0b"
+  ],
+  "source_record_ids": [
+    "links-0366"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2bb5dc38947331d8e2031d0f4fc36a0b"
+    ],
+    "source_record_ids": [
+      "links-0366"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2bb5dc38947331d8e2031d0f4fc36a0b",
+          "Plant Name": "Commiphora molmol Engl. ex Tschirch",
+          "Status": "Found"
+        },
+        "source_plant_name": "Commiphora molmol Engl. ex Tschirch",
+        "source_record_id": "links-0366",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2bb5dc38947331d8e2031d0f4fc36a0b"
+      }
+    ],
+    "source_xplant_id": "2bb5dc38947331d8e2031d0f4fc36a0b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

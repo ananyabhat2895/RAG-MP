@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_75b2b1086ef988c3__distribution__001",
+  "plant_id": "plant_75b2b1086ef988c3",
+  "plant_name": "Elaeocarpus serratus Linn.",
+  "botanical_name": "Elaeocarpus serratus",
+  "botanical_authority": "L.",
+  "family": "ELAEOCARPACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Ed. P. Daniel; distribution: Distribution; title: Title - The Flora of Kerala Vol I\nDistribution entry: author: Author - Botanicaly Survey of India; distribution: Distribution; title: Title - FLORA OF INDIA VOL 3\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - BSI Scientist; distribution: Distribution; title: Title - Flora of West Bengal Vol 1\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93223a8a195ffeb9942a56f67c871d4d"
+  ],
+  "source_record_ids": [
+    "links-0567"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93223a8a195ffeb9942a56f67c871d4d"
+    ],
+    "source_record_ids": [
+      "links-0567"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93223a8a195ffeb9942a56f67c871d4d",
+          "Plant Name": "Elaeocarpus serratus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Elaeocarpus serratus Linn.",
+        "source_record_id": "links-0567",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93223a8a195ffeb9942a56f67c871d4d"
+      }
+    ],
+    "source_xplant_id": "93223a8a195ffeb9942a56f67c871d4d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_99e142550d783681__identification__001",
+  "plant_id": "plant_99e142550d783681",
+  "plant_name": "Caesalpinia bonducella",
+  "botanical_name": "Caesalpinia bonduc",
+  "botanical_authority": "(L.) ROXB.",
+  "family": "CAESALPINIACEAE",
+  "section": "identification",
+  "content": "Plant name: Caesalpinia bonducella Botanical name: Caesalpinia bonduc Botanical authority: (L.) ROXB. Family: CAESALPINIACEAE Source xplant ID: 8771ef45a4117aec066c75b5b5a8f76a",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8771ef45a4117aec066c75b5b5a8f76a/xclkon/9352cc4c494e6878de04bb6fcd3f8925"
+  ],
+  "source_record_ids": [
+    "links-1294"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8771ef45a4117aec066c75b5b5a8f76a/xclkon/9352cc4c494e6878de04bb6fcd3f8925"
+    ],
+    "source_record_ids": [
+      "links-1294"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8771ef45a4117aec066c75b5b5a8f76a/xclkon/9352cc4c494e6878de04bb6fcd3f8925",
+          "Plant Name": "Caesalpinia bonducella",
+          "Status": "Found"
+        },
+        "source_plant_name": "Caesalpinia bonducella",
+        "source_record_id": "links-1294",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8771ef45a4117aec066c75b5b5a8f76a/xclkon/9352cc4c494e6878de04bb6fcd3f8925"
+      }
+    ],
+    "source_xplant_id": "8771ef45a4117aec066c75b5b5a8f76a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

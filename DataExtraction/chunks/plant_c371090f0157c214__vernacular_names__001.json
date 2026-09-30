@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c371090f0157c214__vernacular_names__001",
+  "plant_id": "plant_c371090f0157c214",
+  "plant_name": "Feronia limonia (Linn.) Swingle",
+  "botanical_name": "Limonia acidissima",
+  "botanical_authority": "L.",
+  "family": "RUTACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): elephant apple, wood apple\nHindi (21): barnah, barnahi billan, barnasi, beli, bernahi, bhuin-kat-bel, bilan, bilin, kait, kaith, kaitha, katbel, katori, kavat, kavita, kavitha, kawat, kaweet, ket-bel, khatha, kobitha\nKannada (60): aranamullu, aruna mullu, arunamullu, baela, baelada, baelada hannina mara, baelada mara, baelada-phala, baeladahannu, baeladakaayi, baloola kaayi, baluvali, bel, bela, belada, belada mara, beladamara, belagada, belahannu, belakudi, belal, belala, belaruhi, belathumara, belavina, belawala-kai, bellavatta, bigala, bilva-phala, bilwar, byaalada mara, byala, dadhiphala, dantashatha, danthasatha, danthashata, graaha, graha, kaadu baela, kadbela, kadinimbi, kadubela, kadunimbe, kaduvelada, kapithha, kapittha, kapitthamalura, kotamiria, kottundaro, malura, malura mara, manmadha, manmatha mara, naibel, naibela, naibyalada, nayibel, nayibela, nimbai, pushpaphala\nMalayalam (24): cerukattunarakam, cherrukatnarragam, cherukattunarakam, dadhimpham, dadhiphala, kapittham, katnaragam, kattunarakam, manmatham, mlanka, naivelam, tsjeroukatounarigam, tsjerucaatnaregam, velaga, velanga, velavu, vila, vilanga, vilankai, vilannu, vilarmaram, vilatthi, vilavu, vilva\nMarathi (10): kauth, kavat, kavath, kavatha, kaveet, kavith, kavitpana, kawat, kovit, sit-ranlimbi\nSanskrit (37): Sanskrit CommentsX akshasasya, atha, bhu-kapittham, bhukapidtha-phalam, bhukapittha, bilin, chirpaki, dadhi-phala, dadhinama, dadhiphala, dadhittha, dantaphala, dantashllika, devapadadhya, gandhaphala, gopakarna, grahi, grahiphala, granthiphala, kagittha, kapi-priya, kapidthaphalam, kapipriya, kapishtha, kapitha, kapittha, kapitthah, karanjaphalaka, kasabhavallabha, kathinyaphala, kavittha, kuchaphala, malura, mangalya, manmatha, phalasugandha, pushpaphala",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11190a784a6fa132fd4ad578e337bcea/xclkon/73478502c2de2f9303690dcb5367b40d"
+  ],
+  "source_record_ids": [
+    "links-0932"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11190a784a6fa132fd4ad578e337bcea/xclkon/73478502c2de2f9303690dcb5367b40d"
+    ],
+    "source_record_ids": [
+      "links-0932"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11190a784a6fa132fd4ad578e337bcea/xclkon/73478502c2de2f9303690dcb5367b40d",
+          "Plant Name": "Feronia limonia (Linn.) Swingle",
+          "Status": "Found"
+        },
+        "source_plant_name": "Feronia limonia (Linn.) Swingle",
+        "source_record_id": "links-0932",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11190a784a6fa132fd4ad578e337bcea/xclkon/73478502c2de2f9303690dcb5367b40d"
+      }
+    ],
+    "source_xplant_id": "11190a784a6fa132fd4ad578e337bcea",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

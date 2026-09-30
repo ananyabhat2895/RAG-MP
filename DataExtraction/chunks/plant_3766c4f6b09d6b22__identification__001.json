@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_3766c4f6b09d6b22__identification__001",
+  "plant_id": "plant_3766c4f6b09d6b22",
+  "plant_name": "Shorea robusta",
+  "botanical_name": "Shorea robusta",
+  "botanical_authority": "GAERTN. F.",
+  "family": "DIPTEROCARPACEAE",
+  "section": "identification",
+  "content": "Plant name: Shorea robusta Botanical name: Shorea robusta Botanical authority: GAERTN. F. Family: DIPTEROCARPACEAE Source xplant ID: 879ad1938f289a2bb39cd62cc8db3081",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/879ad1938f289a2bb39cd62cc8db3081"
+  ],
+  "source_record_ids": [
+    "links-0196",
+    "links-1695"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/879ad1938f289a2bb39cd62cc8db3081"
+    ],
+    "source_record_ids": [
+      "links-0196",
+      "links-1695"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/879ad1938f289a2bb39cd62cc8db3081",
+          "Plant Name": "Shorea robusta",
+          "Status": "Found"
+        },
+        "source_plant_name": "Shorea robusta",
+        "source_record_id": "links-0196",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/879ad1938f289a2bb39cd62cc8db3081"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/879ad1938f289a2bb39cd62cc8db3081",
+          "Plant Name": "Shorea robusta Gaertn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Shorea robusta Gaertn.",
+        "source_record_id": "links-1695",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/879ad1938f289a2bb39cd62cc8db3081"
+      }
+    ],
+    "source_xplant_id": "879ad1938f289a2bb39cd62cc8db3081",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_9c3a1ed387ac8c72__distribution__001",
+  "plant_id": "plant_9c3a1ed387ac8c72",
+  "plant_name": "Lippia nodiflora Mich.",
+  "botanical_name": "Phyla nodiflora",
+  "botanical_authority": "(L.) GREENE",
+  "family": "VERBENACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/93433ae3241998392139c08cf476ecee"
+  ],
+  "source_record_ids": [
+    "links-0757",
+    "links-1171"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/93433ae3241998392139c08cf476ecee"
+    ],
+    "source_record_ids": [
+      "links-0757",
+      "links-1171"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/93433ae3241998392139c08cf476ecee",
+          "Plant Name": "Lippia nodiflora Mich.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lippia nodiflora Mich.",
+        "source_record_id": "links-0757",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/93433ae3241998392139c08cf476ecee"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/93433ae3241998392139c08cf476ecee",
+          "Plant Name": "Lippia nodiflora",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lippia nodiflora",
+        "source_record_id": "links-1171",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/93433ae3241998392139c08cf476ecee"
+      }
+    ],
+    "source_xplant_id": "0168ddb652e357ac3bf768a36264f947",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

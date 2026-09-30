@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_864e4dbc8d6f31c8__vernacular_names__001",
+  "plant_id": "plant_864e4dbc8d6f31c8",
+  "plant_name": "Euphorbia pilosa Linn.",
+  "botanical_name": "Euphorbia pilosa",
+  "botanical_authority": "L.",
+  "family": "EUPHORBIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (3): chopalo, chounpalu, chuplya\nSanskrit (9): Sanskrit CommentsX bahapenarasa, carmakara, carmashva, copalo, kankusta, saptala, saptalika, satala, tiktala",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/419869698262358336114a996f3862a6"
+  ],
+  "source_record_ids": [
+    "links-0914"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/419869698262358336114a996f3862a6"
+    ],
+    "source_record_ids": [
+      "links-0914"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/419869698262358336114a996f3862a6",
+          "Plant Name": "Euphorbia pilosa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia pilosa Linn.",
+        "source_record_id": "links-0914",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/419869698262358336114a996f3862a6"
+      }
+    ],
+    "source_xplant_id": "419869698262358336114a996f3862a6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

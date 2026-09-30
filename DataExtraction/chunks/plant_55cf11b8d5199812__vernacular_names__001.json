@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_55cf11b8d5199812__vernacular_names__001",
+  "plant_id": "plant_55cf11b8d5199812",
+  "plant_name": "Capparis sepiaria Linn.",
+  "botanical_name": "Capparis sepiaria",
+  "botanical_authority": "L.",
+  "family": "CAPPARACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (14): aundi, chaili, chhail, hainsa, hium gama, hium garna, hium-garna, hiun, hiun garna, jal, kanthar, kanthari, kanthor, katan\nKannada (15): baasingi, kaadu katthari, kaadukathari, kadukattari, kanthaari, kathari gida, kathiramullu, katthari gida, katthari mullu, katukatiri, musthodi, nibate, niputthige, olle uppina gida, thottilu mullu\nMarathi (3): kanthar, kantharvela, kantharyel\nSanskrit (26): Sanskrit CommentsX ahimsra, ahinsra, amlaphala, duhpradharsa, dupravesha, durdharsha, grdhranakhi, gridhranakhi, guchchagulmika, himsra, hinsra, jali, kakadhani, kakatinduka, kakdani, kantha, kanthari, kantharika, kanya, kapalakulika, krishnashriphalika, kruragandha, krurakarma, tikshnagandha, vakrakantaki, vayastinduka\nTamil (39): ayinciram, cekkavuricceti, cenkaddari, cenkattarip pattai, cirukattiri, curai, incurai, incuraicceti, karindu, karintu#, karintu@, karuncurai, karuncuraiver, karunjurai, kattukathiri, kattukkattari, kattukkattiri, kokilanayanam, kokkimullu, korintai, lukko, lukkocurai, maiccuri, mancuranceti, miti 2, mitiki, mitikicceti, pantaki 2, pantanki, pelikacceti, pelikam, petitayacceti, petitayam, peykkattiri, peyttiriti, sirukkattiri, surai, thoratti, turmokam\nTelugu (9): nalla uppi, nallapuee, nallapuyyi, nallaupli, nallauppi, nallavuppi, nalluppi, puyyi, uppi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9bebfeaceff48a4d6608e484686b38d"
+  ],
+  "source_record_ids": [
+    "links-0711"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9bebfeaceff48a4d6608e484686b38d"
+    ],
+    "source_record_ids": [
+      "links-0711"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9bebfeaceff48a4d6608e484686b38d",
+          "Plant Name": "Capparis sepiaria Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Capparis sepiaria Linn.",
+        "source_record_id": "links-0711",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9bebfeaceff48a4d6608e484686b38d"
+      }
+    ],
+    "source_xplant_id": "b9bebfeaceff48a4d6608e484686b38d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

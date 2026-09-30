@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4f978bbaf6ecca3d__vernacular_names__001",
+  "plant_id": "plant_4f978bbaf6ecca3d",
+  "plant_name": "Abrus precatorius Linn.",
+  "botanical_name": "Abrus precatorius",
+  "botanical_authority": "L.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "English (8): coral pea, crab s eye, indian liquorice, jequerity seed, jumbie beans, lucky or paternoster bean, rati, rosary pea\nHindi (30): bhut kesi, chanboi, charmoi, charmoli, chirmi, chirmiti, chormoi, gaunchhi, gaungchi, ghungchi, ghunghachi, gumchi, guncaci, gunchi, gunci, gunj, gunj ratt, gunja, gunji, gunjratt, kunch, raktan, rati, ratigiri, ratki, rattak, ratti, rauns, sarmai, tatti\nKannada (21): galaganji, gul-ganji, gulagangi, gulaganji, gulagunji, gulagunjie, gulganji, guliganji, gulugunjiballi, gunja, gunji, guruganji, gurugonji, gurugunji, haga, hauga, jeshtamadhu, jeshthamadhu, kempu kannu beeja, madhuka, madhukavalli\nMalayalam (17): atimadhuram, cekkunni, coonycooroo, gundumani, gunja, irattimadhuram, kakani, klitakam, klitakkam, konni, kunni, kunni-kuru, kunnikkuru, kunnikuru, madhukam, madhumulam, shekkunni\nMarathi (8): chanoti, gunchi, gunj, gunja, gunji, khaksi, kunch, lahan-gunj\nSanskrit (54): Sanskrit CommentsX angaravallari, angaravalli, aruna, bhilabhushana, bhillabusana, chakrashalya, chataki, chudala, chudamani, dhvankshanakha, durmogha, goonja, gunja, gunjika, kaka, kakachinchi, kakachinchibijam, kakachinchika, kakadani, kakajangha, kakananti, kakanantika, kakashimbi, kakatikta, kakatundika, kakavallari, kakini, kaksha, kamboji, kanchi, kanichi, krishnachudika, krishnala, kunni, mirintika, rakta, raktala, raktika, saumya, shangushtha, shikhandi, shikhandini, shitapaki, shvetabija, shvetagunja, shvetaraktika, shvetkamboji, shvetochchata, shyamalachuda, tulabija, uchchatta, vaktrashalya, vanya, vayasadini",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a92edd6d0b42cdb2a91f3b6cd4b0624"
+  ],
+  "source_record_ids": [
+    "links-0669"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a92edd6d0b42cdb2a91f3b6cd4b0624"
+    ],
+    "source_record_ids": [
+      "links-0669"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a92edd6d0b42cdb2a91f3b6cd4b0624",
+          "Plant Name": "Abrus precatorius Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Abrus precatorius Linn.",
+        "source_record_id": "links-0669",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a92edd6d0b42cdb2a91f3b6cd4b0624"
+      }
+    ],
+    "source_xplant_id": "3a92edd6d0b42cdb2a91f3b6cd4b0624",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5d640647e268e0e4__vernacular_names__001",
+  "plant_id": "plant_5d640647e268e0e4",
+  "plant_name": "Jasminum grandiflorum Linn.",
+  "botanical_name": "Jasminum grandiflorum",
+  "botanical_authority": "L.",
+  "family": "OLEACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): catalonian or spanish jasmmine\nHindi (6): cameli, chambeli, chameli, jati, joi, malti\nKannada (14): ajjege, ajjige, ajjuge, anajajemallige, anejajimallige, anemallige, jagimallige, jaji, jaji-malle, jajihuvvu, jajimallige, jajipu, jati, mallige\nMalayalam (8): malati, piccakam, piccakamulla, pichakam, pichakamulla, pichhakam, pitsjegam-mulla, pitsjegammulla\nMarathi (4): chameli, chembeli, jati-jai, sanjuy\nSanskrit (32): Sanskrit CommentsX balihrasa, chambeli, chetaki, hasanti, hridyagandha, janeshta, jati, malati, malini, manodna, manohara, nripatmaja, pranta, priyanvada, rajaputri, rajaputrika, sandhyapushpi, saumanasyayini, shrimati, sukumari, sumana, surabhigandha, surapriya, surupa, suvarsha, svarnajatika, tailamalini, upajati, varsabhava, varshabhava, varshapushpa, veshika\nTamil (41): anankam, catimallikai, catimullai, catippu, catippucceti, kodimalligai, kotimalligai, kotimallikai, malati, malli, malligai, mallikai, manmadabanam, manmatapanam@, manmathabaanam, mavval, nivaracikacceti, nivaracikam, padarmalligai, patarmallikai, pattiratali, picappu, picci, picci-p-pu, picci2, piccimallikai, piccippu#, piccippu@, piccippucceti, pichi, pittikam 2, puntati, puntatippu, purunam, sadimalligai, tilapavini@, tontavacceti, tontavam, vacanaimalli, vacanaimallikai, vicukali\nTelugu (7): adivimalle, chambeli, dzadi, dzaji, jaji, malati, malle\nTibetan (2): dza me, dza-ti\nUrdu (1): chemeli (yasmeen, yasman)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff311478b3d5af8dacbbe6a4b3de3b54"
+  ],
+  "source_record_ids": [
+    "links-0773"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff311478b3d5af8dacbbe6a4b3de3b54"
+    ],
+    "source_record_ids": [
+      "links-0773"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff311478b3d5af8dacbbe6a4b3de3b54",
+          "Plant Name": "Jasminum grandiflorum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Jasminum grandiflorum Linn.",
+        "source_record_id": "links-0773",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff311478b3d5af8dacbbe6a4b3de3b54"
+      }
+    ],
+    "source_xplant_id": "ff311478b3d5af8dacbbe6a4b3de3b54",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

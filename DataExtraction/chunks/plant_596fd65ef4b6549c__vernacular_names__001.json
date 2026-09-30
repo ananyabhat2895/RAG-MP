@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_596fd65ef4b6549c__vernacular_names__001",
+  "plant_id": "plant_596fd65ef4b6549c",
+  "plant_name": "Elaeodendron glaucum Pers.",
+  "botanical_name": "Cassine glauca",
+  "botanical_authority": "(ROTTB.) O.KTZE.",
+  "family": "CELASTRACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (13): bakra jamrasi, chilru, dhebri, jamrasi, jamrassi, janga, jangle, kondgaidh, malkakni, mirgu, morindu, mulkangni, nigru\nKannada (22): ade, bhootha keshi, hekkaralu, irkuli, kanaire, kanire, kanneer, kanneri, kannire, kannurmara, mookaarthi, mookarike, mookurichi, mukariki, mukarive, mukarti, mukkarike, mukkarite, mukkaritte, mukkarive, mukkarki, mukkathri\nMalayalam (4): karuneerakam, karuniraka, karunirraga, wellia-tagera\nMarathi (11): aran, aranbilur, bhoothapala, bhutapala, bilur, burkas, butapala, butkus, kanguni, pigavi, tamruj\nSanskrit (5): Sanskrit CommentsX asitamuskaka, bhutphal, khavalli, krsnamuskaka, muskaka\nTamil (25): celuppai maram, cheluppai-marm, ciluppai, ciluppaimaram, ciri#, ciri@, irgoli, kanniramaram, karikkuvakai, karkkavam 2, karrukuva, karukkuva 2, karukkuvacci, karukuvu, karuvali, karvaliyu, keeri, kiri, knannirai, kurukuvu, pieri, selluppaimaram, selupa, seuppai, veeri\nTelugu (36): beera, bhoothaankusamu, bhutan-kusamu, bhutankusamu, bhuthankusam, bira, bira bhutankusamu, booligi, bootigi, botigi, kanemis, kannilu, kanniru, naraddi, neerija, neraddi, neradi, nerasi, nerdi, neridi, neridza, nerija, nerinja, nevadi, niradi, niradzi, niraja, niraja maanu, nirasi, niridi, niridza, nirija, niriji, noorijia, noridi, yerrajirri",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7727492ab9aa7dcdfa024d295d8072ae/xclkon/89fd92fe97aae8b3f6342686bbc8dacf"
+  ],
+  "source_record_ids": [
+    "links-0177"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7727492ab9aa7dcdfa024d295d8072ae/xclkon/89fd92fe97aae8b3f6342686bbc8dacf"
+    ],
+    "source_record_ids": [
+      "links-0177"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7727492ab9aa7dcdfa024d295d8072ae/xclkon/89fd92fe97aae8b3f6342686bbc8dacf",
+          "Plant Name": "Elaeodendron glaucum Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Elaeodendron glaucum Pers.",
+        "source_record_id": "links-0177",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7727492ab9aa7dcdfa024d295d8072ae/xclkon/89fd92fe97aae8b3f6342686bbc8dacf"
+      }
+    ],
+    "source_xplant_id": "7727492ab9aa7dcdfa024d295d8072ae",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

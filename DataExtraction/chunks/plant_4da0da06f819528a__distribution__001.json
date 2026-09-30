@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_4da0da06f819528a__distribution__001",
+  "plant_id": "plant_4da0da06f819528a",
+  "plant_name": "Piper betel",
+  "botanical_name": "Piper betle",
+  "botanical_authority": "L.",
+  "family": "PIPERACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - KANJILAL & BOR; distribution: Distribution; title: Title - FLORA OF ASSAM\nDistribution entry: author: Author - Padmaraj Gajurel et al; distribution: Distribution; title: Title - Piper Species(Piperaceae) of North East India(Arunachal Pradesh)\nDistribution entry: author: Author - P.K. Hajra & P.S.N.Rao; distribution: Distribution; title: Title - Flora of Great Nicobar Island\nDistribution entry: author: Author - J.C.Dagar & N.T. Singh; distribution: Distribution; title: Title - Plant Resources of the Andaman & Nicobar Islands Vol. 2\nDistribution entry: author: Author - N.P.Balakrishnan; distribution: Distribution; title: Title - Flora of Jowai Vol.II",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470/xclkon/32d85bf12297cd316a17c10ff9bdbc80",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470"
+  ],
+  "source_record_ids": [
+    "links-0431",
+    "links-0432"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470/xclkon/32d85bf12297cd316a17c10ff9bdbc80",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470"
+    ],
+    "source_record_ids": [
+      "links-0431",
+      "links-0432"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470/xclkon/32d85bf12297cd316a17c10ff9bdbc80",
+          "Plant Name": "Piper betel",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper betel",
+        "source_record_id": "links-0431",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470/xclkon/32d85bf12297cd316a17c10ff9bdbc80"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470",
+          "Plant Name": "Piper betle Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper betle Linn.",
+        "source_record_id": "links-0432",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470"
+      }
+    ],
+    "source_xplant_id": "9f461c5fc4028cb583868fc315c34470",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

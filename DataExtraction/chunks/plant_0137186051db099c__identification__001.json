@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_0137186051db099c__identification__001",
+  "plant_id": "plant_0137186051db099c",
+  "plant_name": "Curcuma angustifolia Roxb.",
+  "botanical_name": "Curcuma angustifolia",
+  "botanical_authority": "ROXB.",
+  "family": "ZINGIBERACEAE",
+  "section": "identification",
+  "content": "Plant name: Curcuma angustifolia Roxb. Botanical name: Curcuma angustifolia Botanical authority: ROXB. Family: ZINGIBERACEAE Source xplant ID: 7da4fbe5de4a338d9f86253428b0534e",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7da4fbe5de4a338d9f86253428b0534e"
+  ],
+  "source_record_ids": [
+    "links-0280"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7da4fbe5de4a338d9f86253428b0534e"
+    ],
+    "source_record_ids": [
+      "links-0280"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7da4fbe5de4a338d9f86253428b0534e",
+          "Plant Name": "Curcuma angustifolia Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Curcuma angustifolia Roxb.",
+        "source_record_id": "links-0280",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7da4fbe5de4a338d9f86253428b0534e"
+      }
+    ],
+    "source_xplant_id": "7da4fbe5de4a338d9f86253428b0534e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

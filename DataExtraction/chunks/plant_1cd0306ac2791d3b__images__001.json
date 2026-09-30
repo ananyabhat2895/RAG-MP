@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_1cd0306ac2791d3b__images__001",
+  "plant_id": "plant_1cd0306ac2791d3b",
+  "plant_name": "Grewia asiatica Linn.",
+  "botanical_name": "Grewia subinaequalis",
+  "botanical_authority": "DC.",
+  "family": "TILIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f86843597b52b356132f6003035afafc/xclkon/3a743b97d0192dc8b2aed9418d30e39c"
+  ],
+  "source_record_ids": [
+    "links-1469"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f86843597b52b356132f6003035afafc/xclkon/3a743b97d0192dc8b2aed9418d30e39c"
+    ],
+    "source_record_ids": [
+      "links-1469"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f86843597b52b356132f6003035afafc/xclkon/3a743b97d0192dc8b2aed9418d30e39c",
+          "Plant Name": "Grewia asiatica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Grewia asiatica Linn.",
+        "source_record_id": "links-1469",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f86843597b52b356132f6003035afafc/xclkon/3a743b97d0192dc8b2aed9418d30e39c"
+      }
+    ],
+    "source_xplant_id": "f86843597b52b356132f6003035afafc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e1ce366ebc1a76f1__images__001",
+  "plant_id": "plant_e1ce366ebc1a76f1",
+  "plant_name": "Crotalaria verrucosa Linn.",
+  "botanical_name": "Crotalaria verrucosa",
+  "botanical_authority": "L.",
+  "family": "FABACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/979fbcac54e140940ee02b3a7f92d022"
+  ],
+  "source_record_ids": [
+    "links-1713"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/979fbcac54e140940ee02b3a7f92d022"
+    ],
+    "source_record_ids": [
+      "links-1713"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/979fbcac54e140940ee02b3a7f92d022",
+          "Plant Name": "Crotalaria verrucosa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Crotalaria verrucosa Linn.",
+        "source_record_id": "links-1713",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/979fbcac54e140940ee02b3a7f92d022"
+      }
+    ],
+    "source_xplant_id": "979fbcac54e140940ee02b3a7f92d022",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

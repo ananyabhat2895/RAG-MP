@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_ba4c455c62459165__systems_of_medicine__001",
+  "plant_id": "plant_ba4c455c62459165",
+  "plant_name": "Momordica dioica Roxb.",
+  "botanical_name": "Momordica dioica",
+  "botanical_authority": "ROXB. EX WILLD.",
+  "family": "CUCURBITACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk Botanical Synonyms (1) - Basella cordifolia LAM.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7e1fad86b641084f389683f5160e659"
+  ],
+  "source_record_ids": [
+    "links-0974",
+    "links-0977"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7e1fad86b641084f389683f5160e659"
+    ],
+    "source_record_ids": [
+      "links-0974",
+      "links-0977"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7e1fad86b641084f389683f5160e659",
+          "Plant Name": "Momordica dioica Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Momordica dioica Roxb.",
+        "source_record_id": "links-0974",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7e1fad86b641084f389683f5160e659"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7e1fad86b641084f389683f5160e659",
+          "Plant Name": "Momordica dioica Roxb. ex Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Momordica dioica Roxb. ex Willd.",
+        "source_record_id": "links-0977",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7e1fad86b641084f389683f5160e659"
+      }
+    ],
+    "source_xplant_id": "d7e1fad86b641084f389683f5160e659",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

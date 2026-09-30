@@ -1,0 +1,82 @@
+{
+  "chunk_id": "plant_a9b49aee4ea0eebe__botanical_synonyms__001",
+  "plant_id": "plant_a9b49aee4ea0eebe",
+  "plant_name": "Stephania hernandifolia (Willd.) Walp.",
+  "botanical_name": "Stephania japonica",
+  "botanical_authority": "(THUNB.) MIERS.",
+  "family": "MENISPERMACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Stephania hernandifolia (WILLD.) WALP. X Full Botanical citation - Stephania hernandifolia (Willd.) Walp., Rep. Bot. Syst. 1: 96. 1842; A.Pramanik in B.D.Sharma & al., Fl. India 1: 335. 1993. Stephania japanica (THUNB.) MIERS var. discolour (BLUME.) FORMAN X Full Botanical citation - Stephania japonica (Thunb.) Miers, Contrib. Bot. 3: 213. 1871; var. discolor (Blume) Forman in Kew Bull. 11: 56. 1956; A.Pramanik in B.D.Sharma & al., Fl. India 1: 337. 1993. Stephania japonica (THUNB.) MIERS. var. japonica X Full Botanical citation - Stephania japonica (Thunb.) Miers, Contrib. Bot. 3: 213. 1871; var. japonica A.Pramanik in B.D.Sharma & al., Fl. India 1: 337 .1993.\nSynonym: Stephania hernandifolia (WILLD.) WALP.\nSynonym: Stephania japanica (THUNB.) MIERS var. discolour (BLUME.) FORMAN\nSynonym: Stephania japonica (THUNB.) MIERS. var. japonica",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c/xclkon/3001c0837b219c672e4d6afe2a9d953a",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c"
+  ],
+  "source_record_ids": [
+    "links-1500",
+    "links-1584",
+    "links-1585",
+    "links-1586"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c/xclkon/3001c0837b219c672e4d6afe2a9d953a",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c"
+    ],
+    "source_record_ids": [
+      "links-1500",
+      "links-1584",
+      "links-1585",
+      "links-1586"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c/xclkon/3001c0837b219c672e4d6afe2a9d953a",
+          "Plant Name": "Stephania hernandifolia (Willd.) Walp.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Stephania hernandifolia (Willd.) Walp.",
+        "source_record_id": "links-1500",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c/xclkon/3001c0837b219c672e4d6afe2a9d953a"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c",
+          "Plant Name": "Stephania japonica Miers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Stephania japonica Miers.",
+        "source_record_id": "links-1584",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c",
+          "Plant Name": "Stephania japonica Miers. Var discolor",
+          "Status": "Found"
+        },
+        "source_plant_name": "Stephania japonica Miers. Var discolor",
+        "source_record_id": "links-1585",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c",
+          "Plant Name": "Stephania japonica Miers. Var japonica",
+          "Status": "Found"
+        },
+        "source_plant_name": "Stephania japonica Miers. Var japonica",
+        "source_record_id": "links-1586",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c"
+      }
+    ],
+    "source_xplant_id": "41bb8e79ca9008863b51aee2e9b9ac0c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

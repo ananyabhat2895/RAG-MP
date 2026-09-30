@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_fdc218a25eef2820__vernacular_names__001",
+  "plant_id": "plant_fdc218a25eef2820",
+  "plant_name": "Aconitum falconeri Stapf.",
+  "botanical_name": "Aconitum falconeri",
+  "botanical_authority": "STAPF",
+  "family": "RANUNCULACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (3): bhotia-chanduk, bikh, meetha-bis\nSanskrit (1): Sanskrit CommentsX vatsanabha",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9183e4e463bc7478af01c7a620136a51"
+  ],
+  "source_record_ids": [
+    "links-2078"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9183e4e463bc7478af01c7a620136a51"
+    ],
+    "source_record_ids": [
+      "links-2078"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9183e4e463bc7478af01c7a620136a51",
+          "Plant Name": "Aconitum falconeri Stapf.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aconitum falconeri Stapf.",
+        "source_record_id": "links-2078",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9183e4e463bc7478af01c7a620136a51"
+      }
+    ],
+    "source_xplant_id": "9183e4e463bc7478af01c7a620136a51",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

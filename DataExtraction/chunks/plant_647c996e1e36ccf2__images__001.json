@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_647c996e1e36ccf2__images__001",
+  "plant_id": "plant_647c996e1e36ccf2",
+  "plant_name": "Aconitum heterophyllum",
+  "botanical_name": "Aconitum heterophyllum",
+  "botanical_authority": "WALL. EX ROYLE",
+  "family": "RANUNCULACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4a1d24321fcdd41a76080099a1cd83"
+  ],
+  "source_record_ids": [
+    "links-0241",
+    "links-0242"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4a1d24321fcdd41a76080099a1cd83"
+    ],
+    "source_record_ids": [
+      "links-0241",
+      "links-0242"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4a1d24321fcdd41a76080099a1cd83",
+          "Plant Name": "Aconitum heterophyllum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aconitum heterophyllum",
+        "source_record_id": "links-0241",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4a1d24321fcdd41a76080099a1cd83"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4a1d24321fcdd41a76080099a1cd83",
+          "Plant Name": "Aconitum heterophyllum Wall.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aconitum heterophyllum Wall.",
+        "source_record_id": "links-0242",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4a1d24321fcdd41a76080099a1cd83"
+      }
+    ],
+    "source_xplant_id": "3a4a1d24321fcdd41a76080099a1cd83",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

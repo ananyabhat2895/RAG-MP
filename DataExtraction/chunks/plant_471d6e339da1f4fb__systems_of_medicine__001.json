@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_471d6e339da1f4fb__systems_of_medicine__001",
+  "plant_id": "plant_471d6e339da1f4fb",
+  "plant_name": "Cardiospermum halicacabum Linn.",
+  "botanical_name": "Cardiospermum halicacabum",
+  "botanical_authority": "L.",
+  "family": "SAPINDACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Homeopathy\nSystem of medicine: Folk",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35bcc71906513792d99454dd5b22073"
+  ],
+  "source_record_ids": [
+    "links-0671",
+    "links-0818"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35bcc71906513792d99454dd5b22073"
+    ],
+    "source_record_ids": [
+      "links-0671",
+      "links-0818"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35bcc71906513792d99454dd5b22073",
+          "Plant Name": "Cardiospermum halicacabum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cardiospermum halicacabum Linn.",
+        "source_record_id": "links-0671",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35bcc71906513792d99454dd5b22073"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35bcc71906513792d99454dd5b22073",
+          "Plant Name": "Cardiospermum halicacabum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cardiospermum halicacabum",
+        "source_record_id": "links-0818",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35bcc71906513792d99454dd5b22073"
+      }
+    ],
+    "source_xplant_id": "d35bcc71906513792d99454dd5b22073",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

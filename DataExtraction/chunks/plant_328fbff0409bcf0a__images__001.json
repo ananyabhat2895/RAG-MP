@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_328fbff0409bcf0a__images__001",
+  "plant_id": "plant_328fbff0409bcf0a",
+  "plant_name": "Aconitum deinorrhizum Stapf.",
+  "botanical_name": "Aconitum deinorrhizum",
+  "botanical_authority": "STAPF",
+  "family": "RANUNCULACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d485d9c5de700655e48453e7a80d8b7"
+  ],
+  "source_record_ids": [
+    "links-2077"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d485d9c5de700655e48453e7a80d8b7"
+    ],
+    "source_record_ids": [
+      "links-2077"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d485d9c5de700655e48453e7a80d8b7",
+          "Plant Name": "Aconitum deinorrhizum Stapf.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aconitum deinorrhizum Stapf.",
+        "source_record_id": "links-2077",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d485d9c5de700655e48453e7a80d8b7"
+      }
+    ],
+    "source_xplant_id": "7d485d9c5de700655e48453e7a80d8b7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

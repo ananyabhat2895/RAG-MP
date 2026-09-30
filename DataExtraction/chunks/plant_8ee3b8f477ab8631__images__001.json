@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8ee3b8f477ab8631__images__001",
+  "plant_id": "plant_8ee3b8f477ab8631",
+  "plant_name": "Helianthus annuus Linn.",
+  "botanical_name": "Helianthus annuus",
+  "botanical_authority": "L.",
+  "family": "ASTERACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2959c0a634d9bf6dc03583e31d9c980"
+  ],
+  "source_record_ids": [
+    "links-0014"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2959c0a634d9bf6dc03583e31d9c980"
+    ],
+    "source_record_ids": [
+      "links-0014"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2959c0a634d9bf6dc03583e31d9c980",
+          "Plant Name": "Helianthus annuus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Helianthus annuus Linn.",
+        "source_record_id": "links-0014",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2959c0a634d9bf6dc03583e31d9c980"
+      }
+    ],
+    "source_xplant_id": "f2959c0a634d9bf6dc03583e31d9c980",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_0684f0b8fbc79f0d__distribution__001",
+  "plant_id": "plant_0684f0b8fbc79f0d",
+  "plant_name": "Rivea ornata Chois",
+  "botanical_name": "Rivea ornata",
+  "botanical_authority": "CHOISY",
+  "family": "CONVOLVULACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - A.E. Osmaston; distribution: Distribution; title: Title - A Forest Flora for Kumaon\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - HARIDASAN K & RAO R R; distribution: Distribution; title: Title - FOREST FLORA OF MEGHALAYA VOL 2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f279b92eac069ae5e907b8ad0f16a131"
+  ],
+  "source_record_ids": [
+    "links-1513",
+    "links-1514"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f279b92eac069ae5e907b8ad0f16a131"
+    ],
+    "source_record_ids": [
+      "links-1513",
+      "links-1514"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f279b92eac069ae5e907b8ad0f16a131",
+          "Plant Name": "Rivea ornata Chois",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rivea ornata Chois",
+        "source_record_id": "links-1513",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f279b92eac069ae5e907b8ad0f16a131"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f279b92eac069ae5e907b8ad0f16a131",
+          "Plant Name": "Rivea ornata Chois.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rivea ornata Chois.",
+        "source_record_id": "links-1514",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f279b92eac069ae5e907b8ad0f16a131"
+      }
+    ],
+    "source_xplant_id": "f279b92eac069ae5e907b8ad0f16a131",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

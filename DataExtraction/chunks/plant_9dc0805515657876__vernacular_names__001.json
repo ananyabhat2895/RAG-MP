@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_9dc0805515657876__vernacular_names__001",
+  "plant_id": "plant_9dc0805515657876",
+  "plant_name": "Vitis vinifera Linn.",
+  "botanical_name": "Vitis vinifera",
+  "botanical_authority": "L.",
+  "family": "VITACEAE",
+  "section": "vernacular_names",
+  "content": "English (6): currant, grape, grape vine, muscatel, raisin, sultana\nHindi (5): angoor, angur, dak, dakh, drakh\nKannada (12): angoora, angura, dhrakshi, draakshi, draksa, draksha, drakshe, drakshi, drakshi balli, drakshi-hannu, dveepa draakshi, kisimis\nMalayalam (13): dhrakshai, gostani, madhurasam, mantirinnavalli, mridvika, mrydvika, muntiri, muntirika, muntirinna, muntirinnap-pazham, pach-cha-muntrinnap-pazham, saruphala, svadvi\nMarathi (4): dakshache-jhad, draaksha, draksha, kakanj\nSanskrit (30): Sanskrit CommentsX amrtaphala, amrutaphala, caruphala, charuphala, dakha, draksa, draksha, gostani, guchhaphala, harahura, kakali, kapisa, kasmari, krishna, la, laghu-draksha, madhurasa, mrdvika, mridirka, mridvika, phatotama, priyala, rasa, rasala, soma, svadi, svadvi, swaduphala, tapasapriya, yakshmaghni\nTamil (101): aravaram, attica, atticakkoti, camparavalli, carupalam, cimutai#, cimutai@, cimutaikkoti, cuvatavi, dhrakshai, diraksha-pazham, dividatsi-pullum, dividatsipalavuttil, draksha, gostanidraksha, inippukkotimuntirikai, inippumuntiri, iratakirusta, irattapittakkani, kacamuntirikai, kacumari1, karamarttikai@, karamarttikaikkoti, kavin, kirusnai1, kirusnappiriyam, kiruttinai1, kodi-mundirip-pazham, kodimoondrie pullum, kodimundirigai, kotimunti2, kotimuntiri, kotimuntirikai, kottai tiratcai, kottani, kottani@, kottanigai, kottiram2, kottiramuntiri, kottiri1, kottirikai, kottirikai1, kotumuntiri, kuccapalam1, kulattiya, maduram, madurasam, matucancai, matucancam, maturacam, maturacam 1, maturacavalli, maturam 2, matuyoni, miruntikam 1, miruttikam@, mukkica, mullutiratcai, mundirigai, muntiri, muntirikai, muntirikkoti, murukkipatanatci, nattukkotimuntirikai, nemiyankani, palottamai, piriyalu, rovini, simudai, tamamatikam, tapacappiriyai1, taracca, taraccam, taravakkoti, taravam, tatcam, tatkam, thiratchai, thrakshi, tirakkam, tiraksai, tirappakanam, tiratcai, tiratcam, tiratci, tirikai1, tirkkapalai1, tittippukkotimuntiri, tittippumuntiri, tittippumuntirikkoti, tivaratci, tivatatci, tivirtiratcai, tivitatci, tivitiratcam, tivitiratcam1, tivutiratcai, uttarapati, vakinimuntiri, valli 2, vanappiriyam\nTelugu (16): dhraksha, draaksha, draaksha chettu, draakshapandu, dracha, draksa, draksha, draksha-pandu, draksha-pondu, go sthani draaksha, gostanidraksha, gostini-pandu, kismisu, kisumini, kisumisu, kisumisu chettu\nTibetan (5): rgun bru, rgun brum, rgun brum (d), rgun brun (d), rgun-brum",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2131b89761949cb629cb1515252370cc"
+  ],
+  "source_record_ids": [
+    "links-0530"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2131b89761949cb629cb1515252370cc"
+    ],
+    "source_record_ids": [
+      "links-0530"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2131b89761949cb629cb1515252370cc",
+          "Plant Name": "Vitis vinifera Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vitis vinifera Linn.",
+        "source_record_id": "links-0530",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2131b89761949cb629cb1515252370cc"
+      }
+    ],
+    "source_xplant_id": "2131b89761949cb629cb1515252370cc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

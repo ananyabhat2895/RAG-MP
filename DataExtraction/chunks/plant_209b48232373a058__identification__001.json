@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_209b48232373a058__identification__001",
+  "plant_id": "plant_209b48232373a058",
+  "plant_name": "Garcinia indica Chois.",
+  "botanical_name": "Garcinia indica",
+  "botanical_authority": "(DUP.) CHOISY",
+  "family": "CLUSIACEAE",
+  "section": "identification",
+  "content": "Plant name: Garcinia indica Chois. Botanical name: Garcinia indica Botanical authority: (DUP.) CHOISY Family: CLUSIACEAE Source xplant ID: 09d1703fdd745c90602cb35cffbba7a7",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/09d1703fdd745c90602cb35cffbba7a7"
+  ],
+  "source_record_ids": [
+    "links-2123"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/09d1703fdd745c90602cb35cffbba7a7"
+    ],
+    "source_record_ids": [
+      "links-2123"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/09d1703fdd745c90602cb35cffbba7a7",
+          "Plant Name": "Garcinia indica Chois.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Garcinia indica Chois.",
+        "source_record_id": "links-2123",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/09d1703fdd745c90602cb35cffbba7a7"
+      }
+    ],
+    "source_xplant_id": "09d1703fdd745c90602cb35cffbba7a7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

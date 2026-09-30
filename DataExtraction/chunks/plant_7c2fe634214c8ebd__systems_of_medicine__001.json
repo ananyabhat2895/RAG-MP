@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_7c2fe634214c8ebd__systems_of_medicine__001",
+  "plant_id": "plant_7c2fe634214c8ebd",
+  "plant_name": "Mesua ferrea",
+  "botanical_name": "Mesua nagassarium",
+  "botanical_authority": "(BURM.F.) KOSTERM.",
+  "family": "CLUSIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Homeopathy\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (1) - Mesua ferrea L. X Full Botanical citation - Mesua ferrea L.\nSystem of medicine: Sp. Pl. 515. 1753; N.P.Singh in B.D. Sharma & Sanjappa\nSystem of medicine: Fl. India 3: 136. 1993.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6d6c1d42d9f0e734974f13a160553b0/xclkon/186a824bd1fbae66409ba12aab6593be"
+  ],
+  "source_record_ids": [
+    "links-1359",
+    "links-1360"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6d6c1d42d9f0e734974f13a160553b0/xclkon/186a824bd1fbae66409ba12aab6593be"
+    ],
+    "source_record_ids": [
+      "links-1359",
+      "links-1360"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6d6c1d42d9f0e734974f13a160553b0/xclkon/186a824bd1fbae66409ba12aab6593be",
+          "Plant Name": "Mesua ferrea",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mesua ferrea",
+        "source_record_id": "links-1359",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6d6c1d42d9f0e734974f13a160553b0/xclkon/186a824bd1fbae66409ba12aab6593be"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6d6c1d42d9f0e734974f13a160553b0/xclkon/186a824bd1fbae66409ba12aab6593be",
+          "Plant Name": "Mesua ferrea Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mesua ferrea Linn.",
+        "source_record_id": "links-1360",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6d6c1d42d9f0e734974f13a160553b0/xclkon/186a824bd1fbae66409ba12aab6593be"
+      }
+    ],
+    "source_xplant_id": "b6d6c1d42d9f0e734974f13a160553b0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

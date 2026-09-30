@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_a327ffa7f739c706__images__001",
+  "plant_id": "plant_a327ffa7f739c706",
+  "plant_name": "Ipomoea hederacea (Linn.) Jacq.",
+  "botanical_name": "Ipomoea nil",
+  "botanical_authority": "(L.) ROTH.",
+  "family": "CONVOLVULACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6/xclkon/9451fee415a015d3ffc717eb3c944225",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6"
+  ],
+  "source_record_ids": [
+    "links-0131",
+    "links-0132",
+    "links-0871"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6/xclkon/9451fee415a015d3ffc717eb3c944225",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6"
+    ],
+    "source_record_ids": [
+      "links-0131",
+      "links-0132",
+      "links-0871"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6/xclkon/9451fee415a015d3ffc717eb3c944225",
+          "Plant Name": "Ipomoea hederacea (Linn.) Jacq.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ipomoea hederacea (Linn.) Jacq.",
+        "source_record_id": "links-0131",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6/xclkon/9451fee415a015d3ffc717eb3c944225"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6",
+          "Plant Name": "Ipomoea nil (Linn.) Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ipomoea nil (Linn.) Roxb.",
+        "source_record_id": "links-0132",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6",
+          "Plant Name": "Ipomoea nil (Linn.) Roth.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ipomoea nil (Linn.) Roth.",
+        "source_record_id": "links-0871",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6"
+      }
+    ],
+    "source_xplant_id": "9f13d5c4cf5dd852153786e862ccb1e6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

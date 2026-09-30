@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ac874b9da91cdf5c__vernacular_names__001",
+  "plant_id": "plant_ac874b9da91cdf5c",
+  "plant_name": "Sterculia urens",
+  "botanical_name": "Sterculia urens",
+  "botanical_authority": "ROXB.",
+  "family": "STERCULIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): kutira gum\nHindi (13): bali, gular, gulu, kabru, kadai, kadaya, kandois, karrai, karu, katira, kulu, tabsi, tanuku\nKannada (17): balnaaru, bhoothali, bhutali, bujolladha, bujulla, buthale, chevaadi, chevadi, kempu daale, kempu daili, kempudaale, kempudaili, kempudale, kurai, penari, pinari, punike\nMalayalam (6): anainar, anathondi, theethondi, thondi, tonti, vakka\nMarathi (14): guloo, gwira, kandoi, kandol, kandula, karadol, karai, karrai, kavali, kondai, pandruk, pandruka, panduruka, soldawar\nSanskrit (2): Sanskrit CommentsX arjuna, balika\nTamil (28): ammacci, ammaccimaram, ammira, ammiramaram, centalai#, centalai@, centanakku, cikapputtanakku, kavalam, kolukkattaimaram, kontalai@, motakavalli, netunili1, puttali, puttali 1, sendalai, sendanakku, senthanaku, senthanuku, shen-thanaku, sigapputtanaku, tanakku, vakkanar, velaipputtali, vellai-puthali, vellaipputali, vellaipputtali, velley-putali\nTelugu (33): errapoluku, erraponaku, errapuliki, errapuniki, errapunishi chettu, ettaponaku, kalvi, kavalee, kavile, kavili, konda tamara, kovila chettu, kovili, ponaku, pooliky, pulaki, puliki, tabase, tabasi, tabsu, tanuku, tapasi, tapasi chettu, thabsee, thabsu, thanuku, thapasi, yerra poliki, yerrabolika, yerrapolelli, yerrapolikay, yerrapoliki, yerrapoliky",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2812c751d8ab321390af1b261bb465c"
+  ],
+  "source_record_ids": [
+    "links-0151"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2812c751d8ab321390af1b261bb465c"
+    ],
+    "source_record_ids": [
+      "links-0151"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2812c751d8ab321390af1b261bb465c",
+          "Plant Name": "Sterculia urens",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sterculia urens",
+        "source_record_id": "links-0151",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2812c751d8ab321390af1b261bb465c"
+      }
+    ],
+    "source_xplant_id": "d2812c751d8ab321390af1b261bb465c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_2409e4f3addc2039__identification__001",
+  "plant_id": "plant_2409e4f3addc2039",
+  "plant_name": "Moringa concanensis Nimmo.",
+  "botanical_name": "Moringa concanensis",
+  "botanical_authority": "NIMMO EX DALZ. & GIBSON",
+  "family": "MORINGACEAE",
+  "section": "identification",
+  "content": "Plant name: Moringa concanensis Nimmo. Botanical name: Moringa concanensis Botanical authority: NIMMO EX DALZ. & GIBSON Family: MORINGACEAE Source xplant ID: 786351fdbb2de896617a4b2c7624b1ad",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/786351fdbb2de896617a4b2c7624b1ad"
+  ],
+  "source_record_ids": [
+    "links-1220",
+    "links-1790"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/786351fdbb2de896617a4b2c7624b1ad"
+    ],
+    "source_record_ids": [
+      "links-1220",
+      "links-1790"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/786351fdbb2de896617a4b2c7624b1ad",
+          "Plant Name": "Moringa concanensis Nimmo.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Moringa concanensis Nimmo.",
+        "source_record_id": "links-1220",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/786351fdbb2de896617a4b2c7624b1ad"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/786351fdbb2de896617a4b2c7624b1ad",
+          "Plant Name": "Moringa concanensis Nimmo",
+          "Status": "Found"
+        },
+        "source_plant_name": "Moringa concanensis Nimmo",
+        "source_record_id": "links-1790",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/786351fdbb2de896617a4b2c7624b1ad"
+      }
+    ],
+    "source_xplant_id": "786351fdbb2de896617a4b2c7624b1ad",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

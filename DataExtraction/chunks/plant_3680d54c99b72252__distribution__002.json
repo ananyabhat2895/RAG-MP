@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_3680d54c99b72252__distribution__002",
+  "plant_id": "plant_3680d54c99b72252",
+  "plant_name": "Xanthium strumarium Linn.",
+  "botanical_name": "Xanthium indicum",
+  "botanical_authority": "KOEN.",
+  "family": "ASTERACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183/xclkon/78e6e86a1149baabefd201c66b007d25"
+  ],
+  "source_record_ids": [
+    "links-0167",
+    "links-0372",
+    "links-0862"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183/xclkon/78e6e86a1149baabefd201c66b007d25"
+    ],
+    "source_record_ids": [
+      "links-0167",
+      "links-0372",
+      "links-0862"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183/xclkon/78e6e86a1149baabefd201c66b007d25",
+          "Plant Name": "Xanthium strumarium Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Xanthium strumarium Linn.",
+        "source_record_id": "links-0167",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183/xclkon/78e6e86a1149baabefd201c66b007d25"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183/xclkon/78e6e86a1149baabefd201c66b007d25",
+          "Plant Name": "Xanthium Strumarium Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Xanthium Strumarium Linn.",
+        "source_record_id": "links-0372",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183/xclkon/78e6e86a1149baabefd201c66b007d25"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183/xclkon/78e6e86a1149baabefd201c66b007d25",
+          "Plant Name": "Xanthium strumarium",
+          "Status": "Found"
+        },
+        "source_plant_name": "Xanthium strumarium",
+        "source_record_id": "links-0862",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183/xclkon/78e6e86a1149baabefd201c66b007d25"
+      }
+    ],
+    "source_xplant_id": "a6c4c00d412decc379dffdf3a3f2f183",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

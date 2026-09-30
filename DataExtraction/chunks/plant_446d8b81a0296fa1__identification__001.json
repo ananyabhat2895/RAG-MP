@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_446d8b81a0296fa1__identification__001",
+  "plant_id": "plant_446d8b81a0296fa1",
+  "plant_name": "Bixa orellana Linn.",
+  "botanical_name": "Bixa orellana",
+  "botanical_authority": "L.",
+  "family": "BIXACEAE",
+  "section": "identification",
+  "content": "Plant name: Bixa orellana Linn. Botanical name: Bixa orellana Botanical authority: L. Family: BIXACEAE Source xplant ID: 8d0812dcec1feb32e6de6d3d3f45f5c5",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d0812dcec1feb32e6de6d3d3f45f5c5"
+  ],
+  "source_record_ids": [
+    "links-1797"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d0812dcec1feb32e6de6d3d3f45f5c5"
+    ],
+    "source_record_ids": [
+      "links-1797"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d0812dcec1feb32e6de6d3d3f45f5c5",
+          "Plant Name": "Bixa orellana Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bixa orellana Linn.",
+        "source_record_id": "links-1797",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d0812dcec1feb32e6de6d3d3f45f5c5"
+      }
+    ],
+    "source_xplant_id": "8d0812dcec1feb32e6de6d3d3f45f5c5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

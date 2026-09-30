@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a93e506b7590ee40__vernacular_names__001",
+  "plant_id": "plant_a93e506b7590ee40",
+  "plant_name": "Litsea glutinosa (Lour.) C.B. Robins.",
+  "botanical_name": "Litsea glutinosa",
+  "botanical_authority": "(LOUR.) ROBINSON",
+  "family": "LAURACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (15): chandana, chandna, chirindi, chirinidi, garbijaur, maida, maida lakri, maidalakri, medh, menda, paror, rahan, rehan, singrau, singrauf\nKannada (6): lakkdi, lakki, lakki mara, maida lakdi, maidal kadi, narralagi\nMarathi (5): maida lakadee, maidalakadi, maidalakdi, miri, ranamba\nSanskrit (27): Sanskrit CommentsX adhavara, bahurandhrika, bhavya, dhira, drava, jivani, jivanika, madhura, manichhidra, meda, medasaka, medasara, medini, medodbhava, medovati, purushadantika, rasa, sadhavi, shalyada, shalyaparni, shalyaparnika, shreshtha, snehavati, snigdha, svalpaparni, vasa, vibhavari\nTamil (11): ama, elambiragi, elumburukki, elumpurukki, mayilali, muchaippeyetti, picinpattai, pisinapatty, pisinbattai, pisinpatty, uralli\nTelugu (17): kanugu nalike, kanujunalike, katakamma, katuvukamma, konda-wargu, meda, medaa, nara, nara-chettu, nara-mamdi, nara-nalike, naramaamidi, naramamidi, naranalike, narra alagi, narraalagi, pulusu maamidi\nUrdu (3): meda lakri sayida, medalakdi, mughas baghdadi (maida lakdi)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77"
+  ],
+  "source_record_ids": [
+    "links-1275"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77"
+    ],
+    "source_record_ids": [
+      "links-1275"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77",
+          "Plant Name": "Litsea glutinosa (Lour.) C.B. Robins.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Litsea glutinosa (Lour.) C.B. Robins.",
+        "source_record_id": "links-1275",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77"
+      }
+    ],
+    "source_xplant_id": "0637eb3e4addf2dee845ceecd804ae77",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

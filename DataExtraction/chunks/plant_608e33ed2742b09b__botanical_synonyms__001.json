@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_608e33ed2742b09b__botanical_synonyms__001",
+  "plant_id": "plant_608e33ed2742b09b",
+  "plant_name": "Alpinia galanga Willd.",
+  "botanical_name": "Alpinia galanga",
+  "botanical_authority": "(L.) WILLD.",
+  "family": "ZINGIBERACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Costus arabicus L. X Full Botanical citation - Costus arabicus L. Sp. Pl. 1: 2. 1753, Gen Pl. ed. 5. 2. 1754; Sabu.M, Zingiberaceae and Costaceae of South India, Indian Association for Angiosperm Taxonomy, 251. 2006.\nSynonym: Costus arabicus L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f9eeb2fe2b90d2e709e35578cfac2019"
+  ],
+  "source_record_ids": [
+    "links-0562",
+    "links-1599"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f9eeb2fe2b90d2e709e35578cfac2019"
+    ],
+    "source_record_ids": [
+      "links-0562",
+      "links-1599"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f9eeb2fe2b90d2e709e35578cfac2019",
+          "Plant Name": "Alpinia galanga Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alpinia galanga Willd.",
+        "source_record_id": "links-0562",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f9eeb2fe2b90d2e709e35578cfac2019"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f9eeb2fe2b90d2e709e35578cfac2019",
+          "Plant Name": "Alpinia galanga Swartz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Alpinia galanga Swartz.",
+        "source_record_id": "links-1599",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f9eeb2fe2b90d2e709e35578cfac2019"
+      }
+    ],
+    "source_xplant_id": "f9eeb2fe2b90d2e709e35578cfac2019",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

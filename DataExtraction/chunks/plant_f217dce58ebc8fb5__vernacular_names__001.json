@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_f217dce58ebc8fb5__vernacular_names__001",
+  "plant_id": "plant_f217dce58ebc8fb5",
+  "plant_name": "Citrus sinensis Linn.",
+  "botanical_name": "Citrus sinensis",
+  "botanical_authority": "(L.) OSBECK",
+  "family": "RUTACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): blood orange, sweet orange\nHindi (3): malta, mosambi, musambi\nKannada (2): kamal hanuu, moosambi\nSanskrit (1): Sanskrit CommentsX nagaranga\nTamil (8): carukkaraikkolumiccai, carukkarainarattai, cattukkuti, kotinarattai1, pantil 1, pattaviyam1, sathukudi, tittippunarattai\nTelugu (1): battavi narinja",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6873a2b39059560da7ca97489d8906a8"
+  ],
+  "source_record_ids": [
+    "links-1386"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6873a2b39059560da7ca97489d8906a8"
+    ],
+    "source_record_ids": [
+      "links-1386"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6873a2b39059560da7ca97489d8906a8",
+          "Plant Name": "Citrus sinensis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrus sinensis Linn.",
+        "source_record_id": "links-1386",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6873a2b39059560da7ca97489d8906a8"
+      }
+    ],
+    "source_xplant_id": "6873a2b39059560da7ca97489d8906a8",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_fd283a8a55a5f6be__identification__001",
+  "plant_id": "plant_fd283a8a55a5f6be",
+  "plant_name": "Biophytum sensitivum (Linn.) DC.",
+  "botanical_name": "Biophytum sensitivum",
+  "botanical_authority": "(L.) DC.",
+  "family": "OXALIDACEAE",
+  "section": "identification",
+  "content": "Plant name: Biophytum sensitivum (Linn.) DC. Botanical name: Biophytum sensitivum Botanical authority: (L.) DC. Family: OXALIDACEAE Source xplant ID: 6573a5cac5da2acce6f8a44fd672af77",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6573a5cac5da2acce6f8a44fd672af77"
+  ],
+  "source_record_ids": [
+    "links-0074",
+    "links-0548"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6573a5cac5da2acce6f8a44fd672af77"
+    ],
+    "source_record_ids": [
+      "links-0074",
+      "links-0548"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6573a5cac5da2acce6f8a44fd672af77",
+          "Plant Name": "Biophytum sensitivum (Linn.) DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Biophytum sensitivum (Linn.) DC.",
+        "source_record_id": "links-0074",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6573a5cac5da2acce6f8a44fd672af77"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6573a5cac5da2acce6f8a44fd672af77",
+          "Plant Name": "Biophytum sensitivum DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Biophytum sensitivum DC.",
+        "source_record_id": "links-0548",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6573a5cac5da2acce6f8a44fd672af77"
+      }
+    ],
+    "source_xplant_id": "6573a5cac5da2acce6f8a44fd672af77",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

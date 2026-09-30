@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_acdc1026d09ab7e8__vernacular_names__001",
+  "plant_id": "plant_acdc1026d09ab7e8",
+  "plant_name": "Caesalpinia crista Linn.",
+  "botanical_name": "Caesalpinia crista",
+  "botanical_authority": "L.",
+  "family": "CAESALPINIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (2): kanta-karanja, kharare\nKannada (2): gajjiga, kiri gejjuga\nMalayalam (3): ban-karetti, kaka-moullou, kazhanji\nMarathi (7): gajaga, gajri, kanchaki, karbath, rohedo, sagaragota, sagargota\nSanskrit (20): Sanskrit CommentsX kakachika, kantakikaranja, kantakini, karanja, krakachika, kuberaksah, kuberakshi, kuberaksi, latakaranja, prakiriya, prakirnah, putikah, putikaranja, putikaranjah, putikaranji, tinagachhika, tirini, valli, varini, vitapakaranja\nTamil (7): kalachikai, kalarci ver, kalarcik koluntu, kalarcip paruppu, kalichikai, kazarci, kazharchikkaai\nTelugu (1): mulluthige\nTibetan (2): srin sman ma ru, srin sman me ru (d)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa3979856ff3735b54f5fe99dd16670"
+  ],
+  "source_record_ids": [
+    "links-0925"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa3979856ff3735b54f5fe99dd16670"
+    ],
+    "source_record_ids": [
+      "links-0925"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa3979856ff3735b54f5fe99dd16670",
+          "Plant Name": "Caesalpinia crista Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Caesalpinia crista Linn.",
+        "source_record_id": "links-0925",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa3979856ff3735b54f5fe99dd16670"
+      }
+    ],
+    "source_xplant_id": "eaa3979856ff3735b54f5fe99dd16670",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

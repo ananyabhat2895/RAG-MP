@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_047c69b2bc26ae13__distribution__001",
+  "plant_id": "plant_047c69b2bc26ae13",
+  "plant_name": "Eleusine coracana Gaertn.",
+  "botanical_name": "Eleusine coracana",
+  "botanical_authority": "(L.) GAERTN.",
+  "family": "POACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 3\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol IV\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)\nDistribution entry: author: Author - KANJILAL & BOR; distribution: Distribution; title: Title - FLORA OF ASSAM\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol III\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - K.M. Matthew; distribution: Distribution; title: Title - The Flora of the Palni Hills Vol-3\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eefb1d85143ce59c4ed159c03abdefb0"
+  ],
+  "source_record_ids": [
+    "links-1216"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eefb1d85143ce59c4ed159c03abdefb0"
+    ],
+    "source_record_ids": [
+      "links-1216"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eefb1d85143ce59c4ed159c03abdefb0",
+          "Plant Name": "Eleusine coracana Gaertn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Eleusine coracana Gaertn.",
+        "source_record_id": "links-1216",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eefb1d85143ce59c4ed159c03abdefb0"
+      }
+    ],
+    "source_xplant_id": "eefb1d85143ce59c4ed159c03abdefb0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

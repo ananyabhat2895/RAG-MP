@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4fefabc8f1df701b__vernacular_names__001",
+  "plant_id": "plant_4fefabc8f1df701b",
+  "plant_name": "Gardenia turgida Roxb.",
+  "botanical_name": "Ceriscoides turgida",
+  "botanical_authority": "(ROXB.) TIRUV.",
+  "family": "RUBIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (13): gangli, ghurga, ghurgia, karamba, khuriari, khurrur, khurur, mhaner, padairi, thanela, thanella, thanera, vangli\nKannada (10): bangeri, bengeri, bona gaare, bonagaare, bone gaare, bongeri, boodugaare, magge, makkarai, makke\nMalayalam (5): kharkar, makkara, malakara, malamkarai, malankara\nMarathi (8): khurphendra, pendra, pendri, phanda, phendra, phethra, phetra, safed-phetra\nSanskrit (3): Sanskrit CommentsX bharangi, bharngi, mahapindi\nTamil (6): malangarai, malankarai, manjunda, nancuntamaram, nancuntan#, nanjundam\nTelugu (27): gudi manga, kokkita, kukka elaka, kukka-elka, manjunda, mullukokkita, mullukokkitha, naikinna, nakkareni, telel, teliga, tella gumma, tella-elka, tellaguma, tellakakkisa, tellakokkita, thella elaka, thellakakkitha, thellakokkita, tuddumanga, tuddumunga, verribikki, vettibikki, yelukari chittu, yerra-bikki, yerrabikki, yerribikki",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6bb9d3aea548d0c03d32110a380503f0/xclkon/26f3f8ddeba2ef7e2b3e6f57b63aef8c"
+  ],
+  "source_record_ids": [
+    "links-0308"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6bb9d3aea548d0c03d32110a380503f0/xclkon/26f3f8ddeba2ef7e2b3e6f57b63aef8c"
+    ],
+    "source_record_ids": [
+      "links-0308"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6bb9d3aea548d0c03d32110a380503f0/xclkon/26f3f8ddeba2ef7e2b3e6f57b63aef8c",
+          "Plant Name": "Gardenia turgida Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Gardenia turgida Roxb.",
+        "source_record_id": "links-0308",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6bb9d3aea548d0c03d32110a380503f0/xclkon/26f3f8ddeba2ef7e2b3e6f57b63aef8c"
+      }
+    ],
+    "source_xplant_id": "6bb9d3aea548d0c03d32110a380503f0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

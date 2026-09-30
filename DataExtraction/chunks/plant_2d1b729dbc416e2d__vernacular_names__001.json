@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2d1b729dbc416e2d__vernacular_names__001",
+  "plant_id": "plant_2d1b729dbc416e2d",
+  "plant_name": "Corchorus trilocularis Linn.",
+  "botanical_name": "Corchorus trilocularis",
+  "botanical_authority": "L.",
+  "family": "TILIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (5): hardikaket, kadukosta, kadvapat, kagle ki tmbaku, karak\nKannada (2): ennepundi gida, kaaduchunchali gida\nMarathi (2): kaaduchunch, kaduchunch\nSanskrit (4): Sanskrit CommentsX canchu, dirghachanchu, kaunti, raja-jira\nTelugu (1): bankitutturu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bfbbfa00b3ae842bb12575e6e6214f34"
+  ],
+  "source_record_ids": [
+    "links-0411"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bfbbfa00b3ae842bb12575e6e6214f34"
+    ],
+    "source_record_ids": [
+      "links-0411"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bfbbfa00b3ae842bb12575e6e6214f34",
+          "Plant Name": "Corchorus trilocularis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Corchorus trilocularis Linn.",
+        "source_record_id": "links-0411",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bfbbfa00b3ae842bb12575e6e6214f34"
+      }
+    ],
+    "source_xplant_id": "bfbbfa00b3ae842bb12575e6e6214f34",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

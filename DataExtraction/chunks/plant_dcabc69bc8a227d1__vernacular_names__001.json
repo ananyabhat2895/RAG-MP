@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_dcabc69bc8a227d1__vernacular_names__001",
+  "plant_id": "plant_dcabc69bc8a227d1",
+  "plant_name": "Kalanchoe laciniata (Linn.) DC.",
+  "botanical_name": "Kalanchoe laciniata",
+  "botanical_authority": "(L.) DC.",
+  "family": "CRASSULACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (2): hamsagar, zakhm hyat\nKannada (3): gandu kalinga, gandukaalinga, kalanaru\nMarathi (2): aranmaram, ghaipat\nSanskrit (3): Sanskrit CommentsX astibhaksha, hemasagara, parnabija\nTamil (5): kkattukkalli, malaikkalli, malakalli, mallakullie, ranakalli\nTelugu (1): sima-jamudu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28fcf18da78d6242da90c99e9f7824a5"
+  ],
+  "source_record_ids": [
+    "links-1445"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28fcf18da78d6242da90c99e9f7824a5"
+    ],
+    "source_record_ids": [
+      "links-1445"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28fcf18da78d6242da90c99e9f7824a5",
+          "Plant Name": "Kalanchoe laciniata (Linn.) DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Kalanchoe laciniata (Linn.) DC.",
+        "source_record_id": "links-1445",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28fcf18da78d6242da90c99e9f7824a5"
+      }
+    ],
+    "source_xplant_id": "28fcf18da78d6242da90c99e9f7824a5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_891c79658cbe54b1__images__001",
+  "plant_id": "plant_891c79658cbe54b1",
+  "plant_name": "Pseudarthria viscida W. and A.",
+  "botanical_name": "Pseudarthria viscida",
+  "botanical_authority": "WIGHT & ARN.",
+  "family": "FABACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b47a06886c3cab1c6a18e709acb4d932"
+  ],
+  "source_record_ids": [
+    "links-0123"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b47a06886c3cab1c6a18e709acb4d932"
+    ],
+    "source_record_ids": [
+      "links-0123"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b47a06886c3cab1c6a18e709acb4d932",
+          "Plant Name": "Pseudarthria viscida W. and A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pseudarthria viscida W. and A.",
+        "source_record_id": "links-0123",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b47a06886c3cab1c6a18e709acb4d932"
+      }
+    ],
+    "source_xplant_id": "b47a06886c3cab1c6a18e709acb4d932",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_395d4a37e4d8185e__identification__001",
+  "plant_id": "plant_395d4a37e4d8185e",
+  "plant_name": "Oxalis acetosella Linn.",
+  "botanical_name": "Oxalis acetosella",
+  "botanical_authority": "L.",
+  "family": "OXALIDACEAE",
+  "section": "identification",
+  "content": "Plant name: Oxalis acetosella Linn. Botanical name: Oxalis acetosella Botanical authority: L. Family: OXALIDACEAE Source xplant ID: 7896558b58b3f1c2797dd9aa72ed8b84",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7896558b58b3f1c2797dd9aa72ed8b84"
+  ],
+  "source_record_ids": [
+    "links-0422"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7896558b58b3f1c2797dd9aa72ed8b84"
+    ],
+    "source_record_ids": [
+      "links-0422"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7896558b58b3f1c2797dd9aa72ed8b84",
+          "Plant Name": "Oxalis acetosella Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Oxalis acetosella Linn.",
+        "source_record_id": "links-0422",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7896558b58b3f1c2797dd9aa72ed8b84"
+      }
+    ],
+    "source_xplant_id": "7896558b58b3f1c2797dd9aa72ed8b84",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

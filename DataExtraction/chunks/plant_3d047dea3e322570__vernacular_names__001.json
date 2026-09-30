@@ -1,0 +1,82 @@
+{
+  "chunk_id": "plant_3d047dea3e322570__vernacular_names__001",
+  "plant_id": "plant_3d047dea3e322570",
+  "plant_name": "Terminalia tomentosa",
+  "botanical_name": "Terminalia alata",
+  "botanical_authority": "HEYNE EX ROTH.",
+  "family": "COMBRETACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): asna, indian laurel\nHindi (19): ain, aisan, aisan sain, alsan, alson, asain, asaina, asan, asin, asna, assain, hadad, kauha, sadad, sadri, sain, saj, soj, yen\nKannada (41): aini, banappu, banapu, banavu, banipu, banpu, banupu, bhudri, bonepoe, egin, haini, hebbulive, hebbulure, hebbuluve, hebhuluve, karee matthi, kareematthi, karimaddi, karimadi, karimaruthu, karimathi, karimatthi, karimatti, kempu matthi, kudure kivigena, kudurekivigana, kudurekivigem, marthu, mathi, matthi mara, matthimara, matti, mattimara, mutty, sadada, sadra, shadlero, soheno, sohonne, torematto-madi, unapu mara\nMalayalam (17): karamarada, karamardu, kari, karimardu, karimaridu, karimarutu, karrimarada, karumarudu, koremaruthu, maradu, mardu, marutu, mutty, tempavu, thambaon, thembavu, thenpavu\nMarathi (10): ain, madat, madath, sadada, sadri, sadura, sah, saj, sajo, yen\nSanskrit (16): Sanskrit CommentsX arjuna, asana, asanabijaka, dharaphala, jaranadruma, jivaka, kakubhah, krishnatvaka, nissaraphalaka, parthah, sajada, sanjivaka, saradru, shyamasaraka, vanajavriksha, viravrikshaka\nTamil (89): acakarnam, alakappiriyam, anaimikkuvam, anemin, aruchanam, atikayacitti, atikayacittimaram, cakattiranamakarani, camparam 2, canam, catakam, cattaikalarri, cattaikalarrimaram, ceyal, cilettumanacam, cilettumapacam, cutalaiyurti, cutalaiyurtimaram, intirataru, intiraturumam, irali 1, iratti 3, irulmarutu, kagubam, kakapari, kakaparimaram, kakupam, kalaimarutu, kalimarudu, kalimarutu, kalimati, kalimatti, kamalukam, kamalukararam, kankai, karamarudam, karappumarutamaram, karimardu, karimarudu, karimarutu, karimattai, karramarda, karu marutam, karumarudam, karumarudu, karumarutam, karumarutu, karuppakku, karuppo-mara, karuppu-maruta-maram, karuppu-marutamaram, karuppumarudu, karuppumarutam, karuppumarutu, kattumarutamaram, kattumarutu, kolimarutai, kuttappantunacani, maradum-puttay, marudam, marudu, marutam 1, marutamaram, marutu, matthi, mikkuvam, nakavetam, nalmarutu, netutti, pacikam, pacikati, pacikatimaram, parttavirutcam, pattam, pattirika, pattirikamaram, pudavam, pulatti, pulattimaram, puletti, putavacanti, putavakantimaram, putavam 1, puvatti 1, tantakastam, tuttattaicavalamakki, ututakitamaram, virutti, viruttimaram\nTelugu (22): dellamadoo, ennamathe, enumaddi, enumadi, inamaddi, inna maddi, innamaddy, innumaddi, inumaddi, maddee, maddi, maddie, nalla maddi, nallamaddee, nallamaddi, nallamadu, nallamuddie, nelamadu, nellamadoo, nellamadu, nullamaddi, yernamaddi",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86057de192d9bbcf3e44e0e5333f2b64/xclkon/5cf3224103a3f496a17796df9c4cee99",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86057de192d9bbcf3e44e0e5333f2b64"
+  ],
+  "source_record_ids": [
+    "links-0156",
+    "links-0770",
+    "links-1696",
+    "links-1751"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86057de192d9bbcf3e44e0e5333f2b64/xclkon/5cf3224103a3f496a17796df9c4cee99",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86057de192d9bbcf3e44e0e5333f2b64"
+    ],
+    "source_record_ids": [
+      "links-0156",
+      "links-0770",
+      "links-1696",
+      "links-1751"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86057de192d9bbcf3e44e0e5333f2b64/xclkon/5cf3224103a3f496a17796df9c4cee99",
+          "Plant Name": "Terminalia tomentosa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Terminalia tomentosa",
+        "source_record_id": "links-0156",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86057de192d9bbcf3e44e0e5333f2b64/xclkon/5cf3224103a3f496a17796df9c4cee99"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86057de192d9bbcf3e44e0e5333f2b64",
+          "Plant Name": "Terminalia alata Heyne ex Roth.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Terminalia alata Heyne ex Roth.",
+        "source_record_id": "links-0770",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86057de192d9bbcf3e44e0e5333f2b64"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86057de192d9bbcf3e44e0e5333f2b64",
+          "Plant Name": "Terminalia alata Heyne ex Roth",
+          "Status": "Found"
+        },
+        "source_plant_name": "Terminalia alata Heyne ex Roth",
+        "source_record_id": "links-1696",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86057de192d9bbcf3e44e0e5333f2b64"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86057de192d9bbcf3e44e0e5333f2b64/xclkon/5cf3224103a3f496a17796df9c4cee99",
+          "Plant Name": "Terminalia tomentosa W. & A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Terminalia tomentosa W. & A.",
+        "source_record_id": "links-1751",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86057de192d9bbcf3e44e0e5333f2b64/xclkon/5cf3224103a3f496a17796df9c4cee99"
+      }
+    ],
+    "source_xplant_id": "86057de192d9bbcf3e44e0e5333f2b64",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

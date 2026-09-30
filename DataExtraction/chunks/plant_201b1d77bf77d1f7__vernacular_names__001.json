@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_201b1d77bf77d1f7__vernacular_names__001",
+  "plant_id": "plant_201b1d77bf77d1f7",
+  "plant_name": "Barringtonia acutangula",
+  "botanical_name": "Barringtonia acutangula",
+  "botanical_authority": "(L.) GAERTN.",
+  "family": "BARINGTONIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (11): hijagal, hijjal, hijjul, ijal, ingar, jujar, neora, panniari, samandar-phal, samudraphal, samundarphal\nKannada (19): dhaathri phala, dhatri phala, ganigalu, ganigaluthora, ganigilatora, gannerale, hole kauvva, hole kovva, hole kowa mara, holekauva, kempu ganagala, mavinkubia, neeru ganigalu, neeru halasina mara, neeru kanagilu, nirdaddal, niruganigilu, niruganigily, samudrakai\nMalayalam (23): arrupera, athambu, attampu, attapera, attaperzha, attupela, attupelu, attupera, attupezhu, cariyasamskaravadi, ceriyasamstaravati, cheriyasamstaravati, cheryasamstravadi, isjeriasamstravadi, neerpezhu, nirpelu, nirperzha, nirppera, samudraphalam, seriyasamstaravati, sjeriasamstravadi, tsjeria-samstravadi, tsjeriasamstravadi\nMarathi (14): dattephal, dhatriphal, goye-mcha-sadaphal, imgli, ingli, jugli, newar, niwar, pivar, piwar, samudraphala, sathaphala, sathphal, tiwar\nSanskrit (18): Sanskrit CommentsX abdhiphala, ambudhiphala, ambuja, dhatriphal, dhatriphala, hijjala, ijjala, nichula, nicula, niculah, nishula, samudraphala, samudraphalah, shosha, sindhuphala, udadhiphala, vidula, yaha\nTamil (31): adampa, adampai, amamikkatampu, amantalati, aram, camuttirappalai, cenkatampu, kadambu, kadapam, kadappai, kadappay, kaddapay, kanatti, katami, katappaimaram1, katappam, mara 1, maraam 1, maram 1, maravam, niba, nipam1@, perukatampai, perungaduppai, perunkatampai, perunkatampu, ratami, samuthirapalai, samutrapullam, samuttirappalam, sengadambu\nTelugu (17): ganappu, kadamu, kadanic, kadapa, kademba, kadimu, kadmi, kanagi, kanapa, kanapa chettu, kanigi, kanigi chettu, kurpa, neerkaniki, nir-kanapa, nir-kanki, tarepu\nTibetan (1): chu lcan\nUrdu (1): samandarphal",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e"
+  ],
+  "source_record_ids": [
+    "links-0707",
+    "links-0708",
+    "links-1389",
+    "links-2100"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e"
+    ],
+    "source_record_ids": [
+      "links-0707",
+      "links-0708",
+      "links-1389",
+      "links-2100"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e",
+          "Plant Name": "Barringtonia acutangula",
+          "Status": "Found"
+        },
+        "source_plant_name": "Barringtonia acutangula",
+        "source_record_id": "links-0707",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e",
+          "Plant Name": "Barringtonia acutangula Gaertn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Barringtonia acutangula Gaertn.",
+        "source_record_id": "links-0708",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e",
+          "Plant Name": "Barringtonia acutangula (Linn.) Gaertn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Barringtonia acutangula (Linn.) Gaertn.",
+        "source_record_id": "links-1389",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e",
+          "Plant Name": "Barringtonia acutangula Gaertn",
+          "Status": "Found"
+        },
+        "source_plant_name": "Barringtonia acutangula Gaertn",
+        "source_record_id": "links-2100",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e"
+      }
+    ],
+    "source_xplant_id": "6e400ba7639ad39d4c014b5371b3fa8e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

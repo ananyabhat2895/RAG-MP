@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_fc7112f4b27a3a4e__systems_of_medicine__001",
+  "plant_id": "plant_fc7112f4b27a3a4e",
+  "plant_name": "Lens culinaris Medic.",
+  "botanical_name": "Lens culinaris",
+  "botanical_authority": "MEDIC.",
+  "family": "FABACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk Botanical Synonyms (1) - Lens esculenta MOENCH X Full Botanical citation - Lens esculenta Moench\nSystem of medicine: Methodus 131. 1794; R.D.Gaur\nSystem of medicine: Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes)\nSystem of medicine: TransMedia\nSystem of medicine: Srinagar (Garhwal)\nSystem of medicine: India\nSystem of medicine: 281. 1999.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e6e9064b1e2255ae069f638135e0d46"
+  ],
+  "source_record_ids": [
+    "links-1263"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e6e9064b1e2255ae069f638135e0d46"
+    ],
+    "source_record_ids": [
+      "links-1263"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e6e9064b1e2255ae069f638135e0d46",
+          "Plant Name": "Lens culinaris Medic.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lens culinaris Medic.",
+        "source_record_id": "links-1263",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e6e9064b1e2255ae069f638135e0d46"
+      }
+    ],
+    "source_xplant_id": "5e6e9064b1e2255ae069f638135e0d46",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

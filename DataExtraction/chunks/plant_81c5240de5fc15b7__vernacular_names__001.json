@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_81c5240de5fc15b7__vernacular_names__001",
+  "plant_id": "plant_81c5240de5fc15b7",
+  "plant_name": "Pandanus tectorius Soland. ex Parkinson.",
+  "botanical_name": "Pandanus fascicularis",
+  "botanical_authority": "LAM.",
+  "family": "PANDANACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): ketaki, kewda\nHindi (11): gagandhul, kedgi, keora, ketgi, keuda, keura, kevarah, kevarah or kedgi, kevarah; ketgi or kedgi, kevda, kewra\nKannada (24): dhooli pushpa, gedige, gubbi kaedige, kadige, kaedige, kaethaki, kaida, kaide, katthaale, kedage, kedayi, kedige, ketaki, ketike, kiyarige, kyadage-gida, kyadige, mandige, mundeyi, mundige, taale hoovu, tale, tale-mara, thaale\nMalayalam (14): kaida, kaida-taddi, kaide, kainarai, kaita, kaitha, ketaki, palliyambu, pukkaita, tala, talampu, tazha, thala, thazha\nMarathi (10): bomdki, kaeoda, kaeora, kaethaki, kaevada, kegdi, keoda, keora, kevda, paandar kaevda\nSanskrit (30): Sanskrit CommentsX chamarapushpa, dalapushpa, dhulipushpika, dhulipuspika, dirghapatra, gandhapushpa, halina, indukalika, jambuka, jambula, kaikata, kantadala, ketaka, ketakaishta, ketaki, ketakivrikshaha, krakacacchada, krakachachhada, medhya, nripapriya, panshula, rajahpuspa, sthiragandha, suchikapushpa, sucipuspa, suvarnaketaki, tikshnapushpa, trinasunya, trnasunya, viphala\nTamil (88): alankal1, alankal2, alankamaram, anceli, cakam2, catam1, catcuciyam, cempu2, centalampu, kaidai, kaitai, kaitakam, kaittakam, kakkaici, kamakatkatalam, kandal, kantaputpam1, kantatalam, karpakam2, katarkuyam, kechiya, keciya, keciyamaram, kedagai, kedagi, kekattai, kekkai, kekkaicimaram, ketakai, ketakam1, ketakam@, ketaki, kiracakam, madi, matankal, mati, matikam, matikamaram, mucali, muchali, mudangal, mukali 1, mukari, mundagam, muntakam, muntakam 2, mutakkan, mutankal, mutankalmaram, olai-p-pu, parivai, patamakki2, patamatakki, patamatakki2, patamatakku2, pattikai, pattikai1, poyconnan, pumatal, putacakam, putacakamaram, putpacamaram, talai, talam, talam1, talam1#, talam@, talamchedi, talampu, talaputpam, talhai, talum, tazhai, tazhan-chedi, thashai, thazhai, tiranacitam, tirukutalai1, tirunacuniyam, tirunacuniyamaram, tirunacuriyan, titcanaputpam, tuliputpikam, turonikamaram, turonitalam, turonitam, varusaputpam, varutaputpam\nTelugu (19): gaajangi, gadzangu, gajagi, gajangi, gedaji, gedangi-mogali, gedangimogali, goddzangu, gojjangi, gozdoogoo, kaethaki, ketaki, mogali, mogali-chettu, moghali, mogili, mogli chettu, mugali, mugalik\nUrdu (5): arq keora, gul keora, keora, kevda kaadi, ruh keora",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f/xclkon/2d069fa55240aae0a906977f2a26e8d5"
+  ],
+  "source_record_ids": [
+    "links-1028"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f/xclkon/2d069fa55240aae0a906977f2a26e8d5"
+    ],
+    "source_record_ids": [
+      "links-1028"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f/xclkon/2d069fa55240aae0a906977f2a26e8d5",
+          "Plant Name": "Pandanus tectorius Soland. ex Parkinson.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pandanus tectorius Soland. ex Parkinson.",
+        "source_record_id": "links-1028",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f/xclkon/2d069fa55240aae0a906977f2a26e8d5"
+      }
+    ],
+    "source_xplant_id": "32cdafdc0cbbd3417dd00e715e6d596f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

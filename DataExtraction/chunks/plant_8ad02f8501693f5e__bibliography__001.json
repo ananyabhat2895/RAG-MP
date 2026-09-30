@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8ad02f8501693f5e__bibliography__001",
+  "plant_id": "plant_8ad02f8501693f5e",
+  "plant_name": "Fumaria officinalis Linn.",
+  "botanical_name": "Fumaria officinalis",
+  "botanical_authority": "L.",
+  "family": "FUMARIACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - VAIDYA D.K. KAMAT; title: Title - STUDIES ON MEDICINAL PLANTS IN DHANVANTARIYA NIGHANTU VOL.1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d44528602c63cc6a2a7b5f7339fe767"
+  ],
+  "source_record_ids": [
+    "links-1449"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d44528602c63cc6a2a7b5f7339fe767"
+    ],
+    "source_record_ids": [
+      "links-1449"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d44528602c63cc6a2a7b5f7339fe767",
+          "Plant Name": "Fumaria officinalis Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Fumaria officinalis Linn.",
+        "source_record_id": "links-1449",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d44528602c63cc6a2a7b5f7339fe767"
+      }
+    ],
+    "source_xplant_id": "8d44528602c63cc6a2a7b5f7339fe767",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

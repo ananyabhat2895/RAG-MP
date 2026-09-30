@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_485df765f9f28f6a__identification__001",
+  "plant_id": "plant_485df765f9f28f6a",
+  "plant_name": "Euphorbia tirucalli Linn.",
+  "botanical_name": "Euphorbia tirucalli",
+  "botanical_authority": "L.",
+  "family": "EUPHORBIACEAE",
+  "section": "identification",
+  "content": "Plant name: Euphorbia tirucalli Linn. Botanical name: Euphorbia tirucalli Botanical authority: L. Family: EUPHORBIACEAE Source xplant ID: 286afce510671abfbbf606395906a9c0",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286afce510671abfbbf606395906a9c0"
+  ],
+  "source_record_ids": [
+    "links-1735"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286afce510671abfbbf606395906a9c0"
+    ],
+    "source_record_ids": [
+      "links-1735"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286afce510671abfbbf606395906a9c0",
+          "Plant Name": "Euphorbia tirucalli Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia tirucalli Linn.",
+        "source_record_id": "links-1735",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286afce510671abfbbf606395906a9c0"
+      }
+    ],
+    "source_xplant_id": "286afce510671abfbbf606395906a9c0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5651efd93651aa6b__identification__001",
+  "plant_id": "plant_5651efd93651aa6b",
+  "plant_name": "Tricholepis glaberrima DC.",
+  "botanical_name": "Tricholepis glaberrima",
+  "botanical_authority": "DC.",
+  "family": "ASTERACEAE",
+  "section": "identification",
+  "content": "Plant name: Tricholepis glaberrima DC. Botanical name: Tricholepis glaberrima Botanical authority: DC. Family: ASTERACEAE Source xplant ID: 2f57a77e2ee2a731b67113510c90833a",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f57a77e2ee2a731b67113510c90833a"
+  ],
+  "source_record_ids": [
+    "links-0370"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f57a77e2ee2a731b67113510c90833a"
+    ],
+    "source_record_ids": [
+      "links-0370"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f57a77e2ee2a731b67113510c90833a",
+          "Plant Name": "Tricholepis glaberrima DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tricholepis glaberrima DC.",
+        "source_record_id": "links-0370",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f57a77e2ee2a731b67113510c90833a"
+      }
+    ],
+    "source_xplant_id": "2f57a77e2ee2a731b67113510c90833a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

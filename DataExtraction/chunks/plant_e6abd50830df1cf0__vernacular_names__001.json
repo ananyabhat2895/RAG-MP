@@ -1,0 +1,82 @@
+{
+  "chunk_id": "plant_e6abd50830df1cf0__vernacular_names__001",
+  "plant_id": "plant_e6abd50830df1cf0",
+  "plant_name": "Centipeda minima (Linn.) A. Br. & Aschers.",
+  "botanical_name": "Centipeda minima",
+  "botanical_authority": "(L.) A.BR.",
+  "family": "ASTERACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (5): nagdowana, nakchhikni, nakh chhikni, nakkchikni, pachittie\nKannada (1): chikani\nMarathi (5): naakashikani, nakashikani, nakasinkani, narasinkani, shikani\nSanskrit (19): Sanskrit CommentsX chhikika, chhikka, chhikkani, chikkana, chikkani, chikkika, ghranaduhkhada, ghranadukhada, kruranasa, ksavaka, ksavakah, kshavaka, kshavakrita, ksutkari, sanvedanapatu, tikshna, tiksna, ugra, ugragandha\nTamil (2): tittarokani, tummarpuntu\nTibetan (1): ksa ba ka\nUrdu (1): nakchikni",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e80203226cdcd76092ae45b0d50dd93",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e80203226cdcd76092ae45b0d50dd93/xclkon/96bd4c6675c0c24c53fb46efb0c7b4f4"
+  ],
+  "source_record_ids": [
+    "links-1081",
+    "links-1082",
+    "links-1083",
+    "links-1090"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e80203226cdcd76092ae45b0d50dd93",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e80203226cdcd76092ae45b0d50dd93/xclkon/96bd4c6675c0c24c53fb46efb0c7b4f4"
+    ],
+    "source_record_ids": [
+      "links-1081",
+      "links-1082",
+      "links-1083",
+      "links-1090"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e80203226cdcd76092ae45b0d50dd93",
+          "Plant Name": "Centipeda minima (Linn.) A. Br. & Aschers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Centipeda minima (Linn.) A. Br. & Aschers.",
+        "source_record_id": "links-1081",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e80203226cdcd76092ae45b0d50dd93"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e80203226cdcd76092ae45b0d50dd93",
+          "Plant Name": "Centipeda minima (Linn.) A. Br. et Aschers",
+          "Status": "Found"
+        },
+        "source_plant_name": "Centipeda minima (Linn.) A. Br. et Aschers",
+        "source_record_id": "links-1082",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e80203226cdcd76092ae45b0d50dd93"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e80203226cdcd76092ae45b0d50dd93",
+          "Plant Name": "Centipeda minima (Linn.) A.Br. & Aschers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Centipeda minima (Linn.) A.Br. & Aschers.",
+        "source_record_id": "links-1083",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e80203226cdcd76092ae45b0d50dd93"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e80203226cdcd76092ae45b0d50dd93/xclkon/96bd4c6675c0c24c53fb46efb0c7b4f4",
+          "Plant Name": "Centipeda orbicularis",
+          "Status": "Found"
+        },
+        "source_plant_name": "Centipeda orbicularis",
+        "source_record_id": "links-1090",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e80203226cdcd76092ae45b0d50dd93/xclkon/96bd4c6675c0c24c53fb46efb0c7b4f4"
+      }
+    ],
+    "source_xplant_id": "0e80203226cdcd76092ae45b0d50dd93",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

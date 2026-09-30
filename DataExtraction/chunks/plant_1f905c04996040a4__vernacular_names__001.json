@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_1f905c04996040a4__vernacular_names__001",
+  "plant_id": "plant_1f905c04996040a4",
+  "plant_name": "Achyranthes aspera Linn.",
+  "botanical_name": "Achyranthes aspera",
+  "botanical_authority": "L.",
+  "family": "AMARANTHACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): prickly chaff flower\nHindi (26): andhi jalo, andhijhara, apang, appamarg, chichra, chirchira, chirchitta, cicimda, circita, dintara, kanti, kantta, katio bhuratio, khara, latjira, latjiri, lich kuri, puth kanda, puthkanda, puthkunda, putkanda, sn apamargh, ultokure, undhokanto, undo kanto, unta ghada\nKannada (11): kempu uthraani, mayooraka, utrani-gida, utranigida, uttaraane, uttaraani, uttaraani gida, uttarane, uttaranee, uttarani, uttrane\nMalayalam (5): cadelari, kadaladi, katalati, valiyakatalati, vankatalati\nMarathi (7): aghaada, aghada, aghadha, aghado, aghara, pandhara-aghada, surat\nSanskrit (41): Sanskrit CommentsX a, adhahsalya, adhoghanta, adhvashalya, aghamargava, aghata, apamarga, apamargah, apamargaha, apangakpushpi, chamatkara, dhamargava, durabhigraha, durgraha, kantarika, kanti, karkatapippali, katalati, katumanjirika, kharamanjari, kini, kinit, kishaparni, ksharamadhya, kshuraka, kubja, malakanta, markati, mayura, mayuraka, pandukantaka, parakpushpi, pratyakparni, pratyakpuspa, pratyakpuspi, shaikharika, shkhari, sikhari, sthalamanjari, talakata, vasira",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00476847af4ebbbd31e6dad28ea1f00f"
+  ],
+  "source_record_ids": [
+    "links-0133",
+    "links-0135"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00476847af4ebbbd31e6dad28ea1f00f"
+    ],
+    "source_record_ids": [
+      "links-0133",
+      "links-0135"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00476847af4ebbbd31e6dad28ea1f00f",
+          "Plant Name": "Achyranthes aspera Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Achyranthes aspera Linn.",
+        "source_record_id": "links-0133",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00476847af4ebbbd31e6dad28ea1f00f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00476847af4ebbbd31e6dad28ea1f00f",
+          "Plant Name": "Achyranthes aspera",
+          "Status": "Found"
+        },
+        "source_plant_name": "Achyranthes aspera",
+        "source_record_id": "links-0135",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00476847af4ebbbd31e6dad28ea1f00f"
+      }
+    ],
+    "source_xplant_id": "00476847af4ebbbd31e6dad28ea1f00f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

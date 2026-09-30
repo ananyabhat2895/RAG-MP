@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_ba5130ef30f4beff__identification__001",
+  "plant_id": "plant_ba5130ef30f4beff",
+  "plant_name": "Trichosanthes bracteata (Lam.) Voigt.",
+  "botanical_name": "Trichosanthes tricuspidata",
+  "botanical_authority": "LOUR.",
+  "family": "CUCURBITACEAE",
+  "section": "identification",
+  "content": "Plant name: Trichosanthes bracteata (Lam.) Voigt. Botanical name: Trichosanthes tricuspidata Botanical authority: LOUR. Family: CUCURBITACEAE Source xplant ID: 10c009ddee3335e9c1322070d94244f8",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/d20b123488676803b3a199344d789db9",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/9f91fec85fa27e205b8b73f3d416ea6b"
+  ],
+  "source_record_ids": [
+    "links-0697",
+    "links-0745"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/d20b123488676803b3a199344d789db9",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/9f91fec85fa27e205b8b73f3d416ea6b"
+    ],
+    "source_record_ids": [
+      "links-0697",
+      "links-0745"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/d20b123488676803b3a199344d789db9",
+          "Plant Name": "Trichosanthes bracteata (Lam.) Voigt.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Trichosanthes bracteata (Lam.) Voigt.",
+        "source_record_id": "links-0697",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/d20b123488676803b3a199344d789db9"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/9f91fec85fa27e205b8b73f3d416ea6b",
+          "Plant Name": "Trichosanthes palmata Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Trichosanthes palmata Roxb.",
+        "source_record_id": "links-0745",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/9f91fec85fa27e205b8b73f3d416ea6b"
+      }
+    ],
+    "source_xplant_id": "10c009ddee3335e9c1322070d94244f8",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

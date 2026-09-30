@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b2f92c9970a4fe93__images__001",
+  "plant_id": "plant_b2f92c9970a4fe93",
+  "plant_name": "Indigofera tinctoria Linn.",
+  "botanical_name": "Indigofera tinctoria",
+  "botanical_authority": "L.",
+  "family": "FABACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b741a4f3f94c534e33af5925404fab5d"
+  ],
+  "source_record_ids": [
+    "links-1395"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b741a4f3f94c534e33af5925404fab5d"
+    ],
+    "source_record_ids": [
+      "links-1395"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b741a4f3f94c534e33af5925404fab5d",
+          "Plant Name": "Indigofera tinctoria Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Indigofera tinctoria Linn.",
+        "source_record_id": "links-1395",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b741a4f3f94c534e33af5925404fab5d"
+      }
+    ],
+    "source_xplant_id": "b741a4f3f94c534e33af5925404fab5d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

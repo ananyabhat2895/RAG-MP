@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_fd9629ef02c11286__distribution__001",
+  "plant_id": "plant_fd9629ef02c11286",
+  "plant_name": "Solanum insanum Roxb.",
+  "botanical_name": "Solanum melongena",
+  "botanical_authority": "L. var. incanum KUNTZE",
+  "family": "SOLANACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - A.E. Osmaston; distribution: Distribution; title: Title - A Forest Flora for Kumaon\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1b4d62fca64de2eb2eeaf1e6d3c61e1/xclkon/2fd77ce1b83df13257cebf1af142564d"
+  ],
+  "source_record_ids": [
+    "links-0393"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1b4d62fca64de2eb2eeaf1e6d3c61e1/xclkon/2fd77ce1b83df13257cebf1af142564d"
+    ],
+    "source_record_ids": [
+      "links-0393"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1b4d62fca64de2eb2eeaf1e6d3c61e1/xclkon/2fd77ce1b83df13257cebf1af142564d",
+          "Plant Name": "Solanum insanum Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum insanum Roxb.",
+        "source_record_id": "links-0393",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1b4d62fca64de2eb2eeaf1e6d3c61e1/xclkon/2fd77ce1b83df13257cebf1af142564d"
+      }
+    ],
+    "source_xplant_id": "f1b4d62fca64de2eb2eeaf1e6d3c61e1",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

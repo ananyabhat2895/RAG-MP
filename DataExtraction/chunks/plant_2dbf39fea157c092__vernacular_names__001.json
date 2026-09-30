@@ -1,0 +1,69 @@
+{
+  "chunk_id": "plant_2dbf39fea157c092__vernacular_names__001",
+  "plant_id": "plant_2dbf39fea157c092",
+  "plant_name": "Trapa bispinosa Roxb.",
+  "botanical_name": "Trapa natans",
+  "botanical_authority": "L.",
+  "family": "TRAPACEAE",
+  "section": "vernacular_names",
+  "content": "English (8): horn-nut, jesuit s nut, ling nut, saligot, singhara nut, water caltrops, water chestnut, water chestnut or singhara nut\nHindi (14): hingada, hingoda, karimpolam, pani-patasa, pani-phal, siagharah, simghada, simghara, singada, singara, singhara, singharah, singhora, singoda\nKannada (8): mullu kombu balli, mullu kombu beeja, mullukombu beeja, neeru aakrotu, neeru acrotu, singaara beeja, singara, singhaade\nMalayalam (3): karimpolam, panover-tsjeraua, vankottakkaya\nMarathi (4): shingada, singada, singari, singhaada\nSanskrit (27): Sanskrit CommentsX ingataka, jalakantaka, jalaphala, jalaphalam, jalashaya, jalasuchi, jalavalli, kshirashukla, paniyaphala, sanghatica, shringakanda, shringamula, shringaruha, shringata, shrni, shukladugdha, sringataka, srngata, srngatah, srngataka, srngatakah, srngatakam, trika, trikonaphala, trikota, varikantaka, varikubshaka\nTamil (18): cimkhara, cinkara, cinkara-k-kottai, cinkarak kottai, cinkarakkottai, cinkari, kuperakam, mulikkay, mullikkay, panni-mondan-kizhangu, pannimontan kilanku, pannimonthan kizhangu, pannimonthan-kizhangu, panri-mottai, pauri-mattaisal, singara, singarakottai, somghara\nTelugu (7): kubjakam, kubjakamu, kubyakam, pandi gadda, pandi-gadda, parike gadda, parike-gadda\nUrdu (4): singara, singhara, singhara khushk, singhara khusk",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88/xclkon/6cd791fd69e9053cf6cbcb60d3adf819",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88"
+  ],
+  "source_record_ids": [
+    "links-1849",
+    "links-1850",
+    "links-1851"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88/xclkon/6cd791fd69e9053cf6cbcb60d3adf819",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88"
+    ],
+    "source_record_ids": [
+      "links-1849",
+      "links-1850",
+      "links-1851"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88/xclkon/6cd791fd69e9053cf6cbcb60d3adf819",
+          "Plant Name": "Trapa bispinosa Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Trapa bispinosa Roxb.",
+        "source_record_id": "links-1849",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88/xclkon/6cd791fd69e9053cf6cbcb60d3adf819"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88",
+          "Plant Name": "Trapa natans Linn. Var. bispinosa (Roxb.) Makino.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Trapa natans Linn. Var. bispinosa (Roxb.) Makino.",
+        "source_record_id": "links-1850",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88",
+          "Plant Name": "Trapa natans Linn. Var.bispinosa (Roxb.) Makino.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Trapa natans Linn. Var.bispinosa (Roxb.) Makino.",
+        "source_record_id": "links-1851",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88"
+      }
+    ],
+    "source_xplant_id": "799e694af67e27103923c13b96c17c88",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

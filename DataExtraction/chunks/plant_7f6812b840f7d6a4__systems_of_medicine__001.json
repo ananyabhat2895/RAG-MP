@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_7f6812b840f7d6a4__systems_of_medicine__001",
+  "plant_id": "plant_7f6812b840f7d6a4",
+  "plant_name": "Phaseolus trilobus Ait.",
+  "botanical_name": "Vigna trilobata",
+  "botanical_authority": "(L.) VERDCOURT",
+  "family": "FABACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (2) - Dolichos trilobus (L.) AIT. X Full Botanical citation - Dolichos trilobus L. Sp. Pl. 726. 1753 p.p; N.P.Singh &al.\nSystem of medicine: Fl.Maharashtra state\nSystem of medicine: Dicotyledones\nSystem of medicine: 1: Fl.India Ser. 2: 680. 2000. Phaseolus trilobus AIT. X Full Botanical citation - Phaseolus trilobatus (L.) Schreb.\nSystem of medicine: Nova Acta Acad. Caes. Leop.-Carol. 4: 132. 1770; R.D.Gaur\nSystem of medicine: Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes)\nSystem of medicine: TransMedia\nSystem of medicine: Srinagar (Garhwal)\nSystem of medicine: India\nSystem of medicine: 303. 1999.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d25559119de667b997e29e594c5fe377/xclkon/4235761c7cd7bcee37b6309bd47623ed"
+  ],
+  "source_record_ids": [
+    "links-1300"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d25559119de667b997e29e594c5fe377/xclkon/4235761c7cd7bcee37b6309bd47623ed"
+    ],
+    "source_record_ids": [
+      "links-1300"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d25559119de667b997e29e594c5fe377/xclkon/4235761c7cd7bcee37b6309bd47623ed",
+          "Plant Name": "Phaseolus trilobus Ait.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Phaseolus trilobus Ait.",
+        "source_record_id": "links-1300",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d25559119de667b997e29e594c5fe377/xclkon/4235761c7cd7bcee37b6309bd47623ed"
+      }
+    ],
+    "source_xplant_id": "d25559119de667b997e29e594c5fe377",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

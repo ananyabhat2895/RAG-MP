@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_1a912c9287198cef__botanical_synonyms__001",
+  "plant_id": "plant_1a912c9287198cef",
+  "plant_name": "Commelina nudiflora Linn.",
+  "botanical_name": "Murdannia nudiflora",
+  "botanical_authority": "(L.) BRENAN",
+  "family": "COMMELINACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Aneilema nudiflorum BR. Commelina nudiflora (L.) BRENAN X Full Botanical citation - Commelina nudiflora L., Mant. Pl. 177. 1771 non L., Sp. Pl. 41. 1753; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 615. 1999.\nSynonym: Aneilema nudiflorum BR.\nSynonym: Commelina nudiflora (L.) BRENAN",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/90fba550a9d5aba7b94ca61aac5606cc/xclkon/9a1dc2cf1a8312ad7fa40e7b779cd7c7"
+  ],
+  "source_record_ids": [
+    "links-0893"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/90fba550a9d5aba7b94ca61aac5606cc/xclkon/9a1dc2cf1a8312ad7fa40e7b779cd7c7"
+    ],
+    "source_record_ids": [
+      "links-0893"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/90fba550a9d5aba7b94ca61aac5606cc/xclkon/9a1dc2cf1a8312ad7fa40e7b779cd7c7",
+          "Plant Name": "Commelina nudiflora Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Commelina nudiflora Linn.",
+        "source_record_id": "links-0893",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/90fba550a9d5aba7b94ca61aac5606cc/xclkon/9a1dc2cf1a8312ad7fa40e7b779cd7c7"
+      }
+    ],
+    "source_xplant_id": "90fba550a9d5aba7b94ca61aac5606cc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

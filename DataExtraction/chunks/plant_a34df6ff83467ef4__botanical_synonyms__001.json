@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a34df6ff83467ef4__botanical_synonyms__001",
+  "plant_id": "plant_a34df6ff83467ef4",
+  "plant_name": "Agaricus campestris Linn.",
+  "botanical_name": "Agaricus campestris",
+  "botanical_authority": "L. EX FR.",
+  "family": "AGARICACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Psalliota campestris L FR.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf287e196320e52c1b7acb05d65234fb"
+  ],
+  "source_record_ids": [
+    "links-0441"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf287e196320e52c1b7acb05d65234fb"
+    ],
+    "source_record_ids": [
+      "links-0441"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf287e196320e52c1b7acb05d65234fb",
+          "Plant Name": "Agaricus campestris Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Agaricus campestris Linn.",
+        "source_record_id": "links-0441",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf287e196320e52c1b7acb05d65234fb"
+      }
+    ],
+    "source_xplant_id": "cf287e196320e52c1b7acb05d65234fb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

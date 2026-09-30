@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_a512bcf1afca2a25__vernacular_names__001",
+  "plant_id": "plant_a512bcf1afca2a25",
+  "plant_name": "Vitis trifolia Linn.",
+  "botanical_name": "Cayratia trifolia",
+  "botanical_authority": "(L.) DOMIN",
+  "family": "VITACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (16): amal-bel, amalbel, chamar bel, chamar-bel, char, char-bel, gidad-drak, gidardrak, jordnibel, kassar, khajoor glan, khajoor-glam, khira, pola, ramcana, ramchana\nKannada (3): heggoli, nari draakshi balli, neckila\nMalayalam (8): amarcakkoti, chorivalli, corivalli, kattuperanta, sorivalli, tsjori-valli, tsjorivalli, vatakkoti\nMarathi (7): ambatvel, ambutvel, amlatbel, dadamadavalli, kadamadavalli, odi, sarbarival\nSanskrit (10): Sanskrit CommentsX amlaparni, amlavetasah, aranyavasani, atyamlaparni, ballisurana, banastha, gandirah, kandura, karavadavalli, tikshna\nTamil (2): kattuppirandai, kurudinna\nTelugu (22): kaadepathige, kaaniputhige, kaaniyaapathige, kadep-tige, kadepatige, kamputhige, kamputige, kanapatiga, kaniapatige, kaniputige, kaniyapatige, kanupu tige, kurudinne, kurudiune, mandula-maritige, mandulamarithige, mandulamaritige, mekamethani kada, mekamettani, pulimaada, pulimada, pull mada",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25/xclkon/10b4256aff4d8d15fbf38003805312cc",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25/xclkon/3cb3893feaa9ec674602d38d0e8625b1"
+  ],
+  "source_record_ids": [
+    "links-0100",
+    "links-0244"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25/xclkon/10b4256aff4d8d15fbf38003805312cc",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25/xclkon/3cb3893feaa9ec674602d38d0e8625b1"
+    ],
+    "source_record_ids": [
+      "links-0100",
+      "links-0244"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25/xclkon/10b4256aff4d8d15fbf38003805312cc",
+          "Plant Name": "Vitis trifolia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vitis trifolia Linn.",
+        "source_record_id": "links-0100",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25/xclkon/10b4256aff4d8d15fbf38003805312cc"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25/xclkon/3cb3893feaa9ec674602d38d0e8625b1",
+          "Plant Name": "Cayratia carnosa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cayratia carnosa",
+        "source_record_id": "links-0244",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25/xclkon/3cb3893feaa9ec674602d38d0e8625b1"
+      }
+    ],
+    "source_xplant_id": "e7ea06f9bc70c074b1835c99ea418e25",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_04a59fc70473141b__systems_of_medicine__001",
+  "plant_id": "plant_04a59fc70473141b",
+  "plant_name": "Cryptolepis buchanani Roem. & Schult.",
+  "botanical_name": "Cryptolepis buchananii",
+  "botanical_authority": "ROEMER & SCHULTES",
+  "family": "PERIPLOCACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f2bf552fd2d53f622dea4e8ba0c0d2"
+  ],
+  "source_record_ids": [
+    "links-1077",
+    "links-1748"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f2bf552fd2d53f622dea4e8ba0c0d2"
+    ],
+    "source_record_ids": [
+      "links-1077",
+      "links-1748"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f2bf552fd2d53f622dea4e8ba0c0d2",
+          "Plant Name": "Cryptolepis buchanani Roem. & Schult.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cryptolepis buchanani Roem. & Schult.",
+        "source_record_id": "links-1077",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f2bf552fd2d53f622dea4e8ba0c0d2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f2bf552fd2d53f622dea4e8ba0c0d2",
+          "Plant Name": "Cryptolepis buchanani Roem. and Schult.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cryptolepis buchanani Roem. and Schult.",
+        "source_record_id": "links-1748",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f2bf552fd2d53f622dea4e8ba0c0d2"
+      }
+    ],
+    "source_xplant_id": "84f2bf552fd2d53f622dea4e8ba0c0d2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

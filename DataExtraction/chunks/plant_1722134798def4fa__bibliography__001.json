@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_1722134798def4fa__bibliography__001",
+  "plant_id": "plant_1722134798def4fa",
+  "plant_name": "Quercus infectoria Oliv.",
+  "botanical_name": "Quercus infectoria",
+  "botanical_authority": "OLIV.",
+  "family": "FAGACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - WHITELAW AINSLIE; title: Title - MATERIA INDICA\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d449075122ad5431210243c5b0409b7"
+  ],
+  "source_record_ids": [
+    "links-0095"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d449075122ad5431210243c5b0409b7"
+    ],
+    "source_record_ids": [
+      "links-0095"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d449075122ad5431210243c5b0409b7",
+          "Plant Name": "Quercus infectoria Oliv.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Quercus infectoria Oliv.",
+        "source_record_id": "links-0095",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d449075122ad5431210243c5b0409b7"
+      }
+    ],
+    "source_xplant_id": "6d449075122ad5431210243c5b0409b7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

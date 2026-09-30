@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_f567257bbf79c33d__images__001",
+  "plant_id": "plant_f567257bbf79c33d",
+  "plant_name": "Butea superba Roxb.",
+  "botanical_name": "Butea superba",
+  "botanical_authority": "ROXB.",
+  "family": "FABACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e4ebc365194ed7dde1e2162a2a012b7"
+  ],
+  "source_record_ids": [
+    "links-1422"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e4ebc365194ed7dde1e2162a2a012b7"
+    ],
+    "source_record_ids": [
+      "links-1422"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e4ebc365194ed7dde1e2162a2a012b7",
+          "Plant Name": "Butea superba Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Butea superba Roxb.",
+        "source_record_id": "links-1422",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e4ebc365194ed7dde1e2162a2a012b7"
+      }
+    ],
+    "source_xplant_id": "5e4ebc365194ed7dde1e2162a2a012b7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

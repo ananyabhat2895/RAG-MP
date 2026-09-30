@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_041088133fcce98f__botanical_synonyms__001",
+  "plant_id": "plant_041088133fcce98f",
+  "plant_name": "Saraca asoca (Roxb.) De Wilde.",
+  "botanical_name": "Saraca asoca",
+  "botanical_authority": "(ROXB.) DE WILDE",
+  "family": "CAESALPINIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Saraca indica AUCT. NON L. X Full Botanical citation - Saraca indica auct. non L., Mant. pl. 98. 1767; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 250. 1999.\nSynonym: Saraca indica AUCT. NON L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42/xclkon/d1b647103166d4e2f09762d792a45a49"
+  ],
+  "source_record_ids": [
+    "links-0194",
+    "links-0195"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42/xclkon/d1b647103166d4e2f09762d792a45a49"
+    ],
+    "source_record_ids": [
+      "links-0194",
+      "links-0195"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42",
+          "Plant Name": "Saraca asoca (Roxb.) De Wilde.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Saraca asoca (Roxb.) De Wilde.",
+        "source_record_id": "links-0194",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42/xclkon/d1b647103166d4e2f09762d792a45a49",
+          "Plant Name": "Saraca indica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Saraca indica Linn.",
+        "source_record_id": "links-0195",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42/xclkon/d1b647103166d4e2f09762d792a45a49"
+      }
+    ],
+    "source_xplant_id": "b7163d6d0033f6cd3fb15eb2bde54d42",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

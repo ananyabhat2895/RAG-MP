@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_fdd79e247aaf5f31__bibliography__001",
+  "plant_id": "plant_fdd79e247aaf5f31",
+  "plant_name": "Medicago sativa Linn.",
+  "botanical_name": "Medicago sativa",
+  "botanical_authority": "L.",
+  "family": "FABACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: title: Title - Flora of the Indian Desert\nBibliography entry: title: Title - The Flora of Orissa Volume 1\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol I\nBibliography entry: title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c2c8956b2c58f59d80b279ce50f568d6"
+  ],
+  "source_record_ids": [
+    "links-0207"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c2c8956b2c58f59d80b279ce50f568d6"
+    ],
+    "source_record_ids": [
+      "links-0207"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c2c8956b2c58f59d80b279ce50f568d6",
+          "Plant Name": "Medicago sativa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Medicago sativa Linn.",
+        "source_record_id": "links-0207",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c2c8956b2c58f59d80b279ce50f568d6"
+      }
+    ],
+    "source_xplant_id": "c2c8956b2c58f59d80b279ce50f568d6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

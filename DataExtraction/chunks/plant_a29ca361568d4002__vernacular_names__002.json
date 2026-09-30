@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_a29ca361568d4002__vernacular_names__002",
+  "plant_id": "plant_a29ca361568d4002",
+  "plant_name": "Mangifera indica Linn.",
+  "botanical_name": "Mangifera indica",
+  "botanical_authority": "L.",
+  "family": "ANACARDIACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (192): adishelarayam, akkapiram, akkappiram, akkaram#, akkaram@, akki 2, ambiram, amiram, amiram2, amiratam2, ampiram, ampiram3, aticaurapam, cakaram, cakiyam5, cakkaram2, cakkaram@, cakkaramaram, cakkirakaram2, cakkiram3, cakkirattitam, calam2, cankiraki, catpatati2, catpatatiti2, cavakay, cavakayamaram, cavatavam, cavatayilam, cekaracam, cekarajamaram, cekaram, cekaram1, cetaram, cetika, cincam, cincam3, cipivallapam, cirima, citaram1, civamatitam, civamatitamaram, cukapiccakam, culli2, curan, cutam, cutam2, ekin, ekin3, ilanci3, inar, inarmamaram, iracalam2, iracam, iradam, irai, iraima, iraimamaram, iratam, ivuli, kacakkar, kacakkarmaram, kaccukam, kachakkar, kakkar, kakkaram2, kakkoram, kamacaram#, kamacaram@, kamam4, kamankam, kamaracam, kamavallapam, kanakkutirai, kantamaturam, kantapantu, kapitanam, karaccuvatam, kentapattira, kilimukkuma, kocini, kogilorsavam, kokilanantam, kokilanantamaram, kokilavacam#, kokilorcavam, kokku, kokkukkali, kokkukkalimaram, kokkumaram, kosam3, kosamaram, kosi, kotam3, kottulatam, kutirai, kutiraimaram, ma, ma-maram, maa, maa maram, madi, makakalam, makantamaram, makaracal, makarakalam, makarakantam 1, makarantam, makarantika, makarantikamaram, malai, malai 2, mam, mamaram, mampalam, manga-maram, mankai, mankaputpam, manmatalayam, manmatankanai, mantalati, manti, mantirakam, mantirakamaram, mati, mati$, matimi, matimimaram, matiyakantam, mattipakantam, mattipakantamaram, mattiyakantam, matuli 2, matulika, matulikamaram, matuma, matututam, mirutakam, mirutalakam#, mirutalakam@, mirutalakamaram, niccanatari, nilakkapittam, nivimaram, nuvanai2, omai, palacirestamaram, palacirettam, palalatokatam, palalatotakam, palalatotakamaram, palaltokatam, palatokam, palatokatam, palorpati, palorpatimaram, palorpatti, paramar, paraputtamatorcavam, picapantu, pikapantu, pikapentu, pikarakam, pikarakam#, pikarakam@, pikavallapam, pikavalli, pikkakam, pikupantu, piru, tecalam#, tecamamaram, tecaravam, tecavam, tevam2, tevam@, tevamamaram, tevamaram2, titalaka, titalakamaram, titalam#, titalam@, titanam, tumaram, uyirttavam, vacantatiru, vacantatutam 2, vacattiru, vauvaviyam, vauvaviyamaram, vauvutavi, vauvutavimaram",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8a83ef9a6450c46b4347fb66fd4858d4"
+  ],
+  "source_record_ids": [
+    "links-0117"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8a83ef9a6450c46b4347fb66fd4858d4"
+    ],
+    "source_record_ids": [
+      "links-0117"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8a83ef9a6450c46b4347fb66fd4858d4",
+          "Plant Name": "Mangifera indica Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mangifera indica Linn.",
+        "source_record_id": "links-0117",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8a83ef9a6450c46b4347fb66fd4858d4"
+      }
+    ],
+    "source_xplant_id": "8a83ef9a6450c46b4347fb66fd4858d4",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

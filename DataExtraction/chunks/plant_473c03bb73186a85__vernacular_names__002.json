@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_473c03bb73186a85__vernacular_names__002",
+  "plant_id": "plant_473c03bb73186a85",
+  "plant_name": "Santalum album Linn.",
+  "botanical_name": "Santalum album",
+  "botanical_authority": "L.",
+  "family": "SANTALACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (187): acam1, amarancanam, amarancanamaram, anukkam, anukkam#, anukkam1, anukkam@, arakam, arakkam1, arinam, arkkam1, arpaketumam, arpaketumaram, arpaputpakam, asam, atam, atamaram, atti1, cacitakikam, cacitakikamaram, calekam, calikam#, calokam, canampa, candanam, cantakam, cantakamaram, cantan, cantana, cantanak kattai, cantanam, cantani, cantani1, canti1, cantilakam, cantirakancam, cantiralakam, cantukam, cantukamaram, carakantakam, carakantam, carakantanam, catam, celakam, celekam, celotam, celottam, cerittam, chandana-kattai, chandanam, chandanum, ciciram, cikarappucitam, cikarappucitamaram, cikaritamakam, cikaritamakamaram, cinamauli, cinamaulimaram, cirikantam, citakantam@, citakanti, citalam1, citalappiratam, citam1@, citapam, citapamaram, curottaram, cuvetacantanam, cuvetacantirakancam, ekankam, igam, ikam#, ikam@, ikavimaram, ingam, inkam, kairatam@, kandam, kantacaram, kantam1, kantaracam#, kantaracam@, kantaracanam, kentacarancam, kiruttinapucitam, kiruttinapucitamaram, koravaram, kovaram@, kulavari1, kulaviri1, kulavukacam1, kulavuri, kulavuri#, kulavuri1, larppanam, laucikamram, laukikam, malaivedbu, malaivempu 1, malaivetpu@, malaivettu, malaiyam, malaiyaracam, malaiyaraci, malaiyaracimaram, malaiyaram, malaiyasam, malaiyicam, malaiyicamaram, malayacukam, malayam#, malayam@, malayatturumam, malayatturumamaram, malayotpalam, mantanakariya, menocakam, menocakavirutcam, mocakiritam, mocakiritamaram, mocatam 1, mocatam@, murpatiram, narentirapokkiyam, nattuccantanam1, nemi1, okitam, padiram, palitam, parakam1, parakamam1, pasanankatti, patikam, patirakam, patiram 1#, patiram$, patiram@, pattiracirayam$, pattiracirayam@, pattiraciyam#, pattiraciyam@, pattirakam1, pitacalam 1, pitacarakam 1, pitacaram 1, pitakattam, pitam 1, pocivallapam, pokivalliyam, puranakkirimanam, sandanam, sandanamaram, sandhanam, santhanam, selegam, shandanak-kattai, srigandam, tailaparni, tailaparnikam, tayilapanikam, tayilaparnikam, tilakamaram, tilakavirutcam, tilamitam1, tilapakuni, tilaparanikam, tilaparuni, tilaparunikai, ulocitam, ulocitamaram, ulokitam1, vacanaimaram, vanacai, vanavacam, vanavikam, vannam, varippatiram, varnakam 1, varunakam 1, vattiyaputpam 1, vellaiccantanam, vencantanam, vicecutam, virutcacittro, yalavatippatiram, yamiyam, yarulitappatiram",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/02a1bdae809d3173d78a248d4e65c0fe"
+  ],
+  "source_record_ids": [
+    "links-0415",
+    "links-1573"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/02a1bdae809d3173d78a248d4e65c0fe"
+    ],
+    "source_record_ids": [
+      "links-0415",
+      "links-1573"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/02a1bdae809d3173d78a248d4e65c0fe",
+          "Plant Name": "Santalum album Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Santalum album Linn.",
+        "source_record_id": "links-0415",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/02a1bdae809d3173d78a248d4e65c0fe"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/02a1bdae809d3173d78a248d4e65c0fe",
+          "Plant Name": "Santalum album",
+          "Status": "Found"
+        },
+        "source_plant_name": "Santalum album",
+        "source_record_id": "links-1573",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/02a1bdae809d3173d78a248d4e65c0fe"
+      }
+    ],
+    "source_xplant_id": "02a1bdae809d3173d78a248d4e65c0fe",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

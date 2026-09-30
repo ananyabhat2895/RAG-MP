@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_da674d210de1bc82__identification__001",
+  "plant_id": "plant_da674d210de1bc82",
+  "plant_name": "Osmanthus fragrans Lour.",
+  "botanical_name": "Osmanthus fragrans",
+  "botanical_authority": "LOUR.",
+  "family": "OLEACEAE",
+  "section": "identification",
+  "content": "Plant name: Osmanthus fragrans Lour. Botanical name: Osmanthus fragrans Botanical authority: LOUR. Family: OLEACEAE Source xplant ID: 3dcb90e58c555ab05253bed522d49c12",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3dcb90e58c555ab05253bed522d49c12"
+  ],
+  "source_record_ids": [
+    "links-0397"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3dcb90e58c555ab05253bed522d49c12"
+    ],
+    "source_record_ids": [
+      "links-0397"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3dcb90e58c555ab05253bed522d49c12",
+          "Plant Name": "Osmanthus fragrans Lour.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Osmanthus fragrans Lour.",
+        "source_record_id": "links-0397",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3dcb90e58c555ab05253bed522d49c12"
+      }
+    ],
+    "source_xplant_id": "3dcb90e58c555ab05253bed522d49c12",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

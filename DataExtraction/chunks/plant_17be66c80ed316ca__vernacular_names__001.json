@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_17be66c80ed316ca__vernacular_names__001",
+  "plant_id": "plant_17be66c80ed316ca",
+  "plant_name": "Coleus aromaticus",
+  "botanical_name": "Plectranthus ambonicus",
+  "botanical_authority": "(LOUR.) SPRENG.",
+  "family": "LAMIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (7): amroda, patharcheer, patharchur, patharcur, patherchur, pathorchur, patta ajavauin\nKannada (4): dodda pathre, dodda pathre soppu, karpoora valli, karpurahalli\nMalayalam (5): iribeli, kannikkurka, kannikkurkka, panikkurkaa, panikkurkka\nMarathi (3): karmelo, pan-ova, pathurchur\nSanskrit (11): Sanskrit CommentsX asmabhedah, asmantaka, himsagar, karpuravalli, modayanti, parnayavani, pasanabheda, pashanabheda, pashanabhedi, silabhedha, sugandhavalakam\nTamil (20): camparavalli, cirukanpilai, cirupilai, kanpilai, karpeti, karpooravalli, karppuravalli 2, karpuravalli, karpuravallicceti, karuppuravalli, kotakacalai 2, kurpurvalli, mankaiyakkanni, muttainari, muttainaricceti, omavalli, pasana peti, ukkiram@, ukkirikacceti, ukkirikam\nTelugu (4): karpoora valli, karuvaeru, sugandhavalkam, vamu aaku",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3d0e3feab4b454d5fc3c3b8213f6d55e/xclkon/11eb569af097cd83ceb9364189474e22"
+  ],
+  "source_record_ids": [
+    "links-1290"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3d0e3feab4b454d5fc3c3b8213f6d55e/xclkon/11eb569af097cd83ceb9364189474e22"
+    ],
+    "source_record_ids": [
+      "links-1290"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3d0e3feab4b454d5fc3c3b8213f6d55e/xclkon/11eb569af097cd83ceb9364189474e22",
+          "Plant Name": "Coleus aromaticus",
+          "Status": "Found"
+        },
+        "source_plant_name": "Coleus aromaticus",
+        "source_record_id": "links-1290",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3d0e3feab4b454d5fc3c3b8213f6d55e/xclkon/11eb569af097cd83ceb9364189474e22"
+      }
+    ],
+    "source_xplant_id": "3d0e3feab4b454d5fc3c3b8213f6d55e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

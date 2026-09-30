@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_37f0f292b7b72488__identification__001",
+  "plant_id": "plant_37f0f292b7b72488",
+  "plant_name": "Nymphoides macrospermum Vasudevan.",
+  "botanical_name": "Nymphoides macrospermum",
+  "botanical_authority": "VASUDEVAN",
+  "family": "MENYANTHACEAE",
+  "section": "identification",
+  "content": "Plant name: Nymphoides macrospermum Vasudevan. Botanical name: Nymphoides macrospermum Botanical authority: VASUDEVAN Family: MENYANTHACEAE Source xplant ID: d6ef1c79ba1e25e0911d92e149b3057c",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6ef1c79ba1e25e0911d92e149b3057c"
+  ],
+  "source_record_ids": [
+    "links-1901"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6ef1c79ba1e25e0911d92e149b3057c"
+    ],
+    "source_record_ids": [
+      "links-1901"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6ef1c79ba1e25e0911d92e149b3057c",
+          "Plant Name": "Nymphoides macrospermum Vasudevan.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Nymphoides macrospermum Vasudevan.",
+        "source_record_id": "links-1901",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6ef1c79ba1e25e0911d92e149b3057c"
+      }
+    ],
+    "source_xplant_id": "d6ef1c79ba1e25e0911d92e149b3057c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

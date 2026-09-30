@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_43ae76e838df8580__distribution__001",
+  "plant_id": "plant_43ae76e838df8580",
+  "plant_name": "Smilax ovalifolia Roxb.",
+  "botanical_name": "Smilax ovalifolia",
+  "botanical_authority": "ROXB.",
+  "family": "SMILACACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol III\nDistribution entry: author: Author - A.E. Osmaston; distribution: Distribution; title: Title - A Forest Flora for Kumaon\nDistribution entry: author: Author - Ed B D Sharma, S Karthikeyan, N P Singh; distribution: Distribution; title: Title - Flora of Maharashrta State (Monocotyledons)\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5bbd21c68d6600161b35db289954851"
+  ],
+  "source_record_ids": [
+    "links-0467"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5bbd21c68d6600161b35db289954851"
+    ],
+    "source_record_ids": [
+      "links-0467"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5bbd21c68d6600161b35db289954851",
+          "Plant Name": "Smilax ovalifolia Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Smilax ovalifolia Roxb.",
+        "source_record_id": "links-0467",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5bbd21c68d6600161b35db289954851"
+      }
+    ],
+    "source_xplant_id": "c5bbd21c68d6600161b35db289954851",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

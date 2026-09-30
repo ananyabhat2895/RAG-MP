@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_7d7c9ba1bbb32713__systems_of_medicine__001",
+  "plant_id": "plant_7d7c9ba1bbb32713",
+  "plant_name": "Aegle marmelos",
+  "botanical_name": "Aegle marmelos",
+  "botanical_authority": "(L.) CORREA EX. SCHULTZ",
+  "family": "RUTACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Homeopathy\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (1) - Crataeva marmelos L. X Full Botanical citation - Crateva marmelos L.\nSystem of medicine: Sp. Pl. 444. 1753; K.N. Nair & M.P. Nayar in Hajra & al.\nSystem of medicine: Fl. India 4: 264. 1997.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858"
+  ],
+  "source_record_ids": [
+    "links-0358",
+    "links-0359"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858"
+    ],
+    "source_record_ids": [
+      "links-0358",
+      "links-0359"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858",
+          "Plant Name": "Aegle marmelos",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aegle marmelos",
+        "source_record_id": "links-0358",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858",
+          "Plant Name": "Aegle marmelos Corr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aegle marmelos Corr.",
+        "source_record_id": "links-0359",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858"
+      }
+    ],
+    "source_xplant_id": "7b3ca01fe9518816abcdf821a6675858",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

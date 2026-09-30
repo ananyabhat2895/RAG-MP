@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_50483945ef00aa5d__bibliography__001",
+  "plant_id": "plant_50483945ef00aa5d",
+  "plant_name": "Arundo donax Linn.",
+  "botanical_name": "Arundo donax",
+  "botanical_authority": "L.",
+  "family": "POACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - V.V. SIVARAJAN AND INDIRA BALACHANDRAN; title: Title - AYURVEDIC DRUGS AND THEIR PLANT SOURCES\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nBibliography entry: title: Title - Flora of Chamba District (Himachal Pradesh)\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol III\nBibliography entry: title: Title - The Flora of Orissa Vol IV\nBibliography entry: title: Title - Flora of Maharashrta State (Monocotyledons)\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)\nBibliography entry: title: Title - The Flora of the Palni Hills Vol-3\nBibliography entry: title: Title - Flora of Srikakulam District (Andhra Pradesh)\nBibliography entry: title: Title - Flora of Tons Valley (Uttaranchal)\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f2ad14ae94ece76f05a931850e180e5"
+  ],
+  "source_record_ids": [
+    "links-1370"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f2ad14ae94ece76f05a931850e180e5"
+    ],
+    "source_record_ids": [
+      "links-1370"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f2ad14ae94ece76f05a931850e180e5",
+          "Plant Name": "Arundo donax Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Arundo donax Linn.",
+        "source_record_id": "links-1370",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f2ad14ae94ece76f05a931850e180e5"
+      }
+    ],
+    "source_xplant_id": "2f2ad14ae94ece76f05a931850e180e5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

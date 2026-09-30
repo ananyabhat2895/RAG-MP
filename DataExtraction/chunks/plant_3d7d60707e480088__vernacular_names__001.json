@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_3d7d60707e480088__vernacular_names__001",
+  "plant_id": "plant_3d7d60707e480088",
+  "plant_name": "Hydnocarpus kurzii (King) Warb.",
+  "botanical_name": "Hydnocarpus kurzii",
+  "botanical_authority": "(KING) WARB.",
+  "family": "FLACOURTIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): chaulmoogra oil\nHindi (1): chaulmoogra\nSanskrit (1): Sanskrit CommentsX tuvaraka\nTamil (8): maravetti, neeradi muththu, niradimutu, nirati, nirati muttu, niratimuttu, niretti muttu, nirvetti muttu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c978bf24ff9aa78a5834419188d62bbf"
+  ],
+  "source_record_ids": [
+    "links-1999",
+    "links-2000"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c978bf24ff9aa78a5834419188d62bbf"
+    ],
+    "source_record_ids": [
+      "links-1999",
+      "links-2000"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c978bf24ff9aa78a5834419188d62bbf",
+          "Plant Name": "Hydnocarpus kurzii (King) Warb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hydnocarpus kurzii (King) Warb.",
+        "source_record_id": "links-1999",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c978bf24ff9aa78a5834419188d62bbf"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c978bf24ff9aa78a5834419188d62bbf",
+          "Plant Name": "Hydnocarpus kurzii King.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hydnocarpus kurzii King.",
+        "source_record_id": "links-2000",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c978bf24ff9aa78a5834419188d62bbf"
+      }
+    ],
+    "source_xplant_id": "c978bf24ff9aa78a5834419188d62bbf",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

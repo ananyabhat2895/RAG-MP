@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_efd4e33790be0100__systems_of_medicine__001",
+  "plant_id": "plant_efd4e33790be0100",
+  "plant_name": "Putranjiva zeylanica Muell-Arg.",
+  "botanical_name": "Drypetes zeylanica",
+  "botanical_authority": "(MUELL.-ARG.) HURUSAWA",
+  "family": "EUPHORBIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Folk Botanical Synonyms (1) - Putranjiva zeylanica MUELL.-ARG.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3fdec531b0fdbc289419d1b9fdde245/xclkon/1d495346a5b4e637aab48b36d3df3942"
+  ],
+  "source_record_ids": [
+    "links-1575"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3fdec531b0fdbc289419d1b9fdde245/xclkon/1d495346a5b4e637aab48b36d3df3942"
+    ],
+    "source_record_ids": [
+      "links-1575"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3fdec531b0fdbc289419d1b9fdde245/xclkon/1d495346a5b4e637aab48b36d3df3942",
+          "Plant Name": "Putranjiva zeylanica Muell-Arg.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Putranjiva zeylanica Muell-Arg.",
+        "source_record_id": "links-1575",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3fdec531b0fdbc289419d1b9fdde245/xclkon/1d495346a5b4e637aab48b36d3df3942"
+      }
+    ],
+    "source_xplant_id": "a3fdec531b0fdbc289419d1b9fdde245",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

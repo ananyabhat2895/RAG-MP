@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_5494a9d4c28fec62__botanical_synonyms__001",
+  "plant_id": "plant_5494a9d4c28fec62",
+  "plant_name": "Piper longum Linn.",
+  "botanical_name": "Piper longum",
+  "botanical_authority": "L.",
+  "family": "PIPERACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Chavica roxburghii MIQ.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10f3a59b845d9890f688ad66980941fa"
+  ],
+  "source_record_ids": [
+    "links-1363",
+    "links-1522"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10f3a59b845d9890f688ad66980941fa"
+    ],
+    "source_record_ids": [
+      "links-1363",
+      "links-1522"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10f3a59b845d9890f688ad66980941fa",
+          "Plant Name": "Piper longum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper longum Linn.",
+        "source_record_id": "links-1363",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10f3a59b845d9890f688ad66980941fa"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10f3a59b845d9890f688ad66980941fa",
+          "Plant Name": "Piper longum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper longum",
+        "source_record_id": "links-1522",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10f3a59b845d9890f688ad66980941fa"
+      }
+    ],
+    "source_xplant_id": "10f3a59b845d9890f688ad66980941fa",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_e2022f32ddaa4266__bibliography__001",
+  "plant_id": "plant_e2022f32ddaa4266",
+  "plant_name": "Selaginella rupestris Spreng.",
+  "botanical_name": "Selaginella rupestris",
+  "botanical_authority": "-",
+  "family": "SELAGINELLACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: title: Title - Botany of Bihar And Orissa Part 5 & 6\nBibliography entry: title: Title - Medicinal Plant Resources of South West Bengal",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/14badd47ff39e56595bb23bebf35d2cc"
+  ],
+  "source_record_ids": [
+    "links-0776"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/14badd47ff39e56595bb23bebf35d2cc"
+    ],
+    "source_record_ids": [
+      "links-0776"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/14badd47ff39e56595bb23bebf35d2cc",
+          "Plant Name": "Selaginella rupestris Spreng.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Selaginella rupestris Spreng.",
+        "source_record_id": "links-0776",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/14badd47ff39e56595bb23bebf35d2cc"
+      }
+    ],
+    "source_xplant_id": "14badd47ff39e56595bb23bebf35d2cc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_921438835836a656__identification__001",
+  "plant_id": "plant_921438835836a656",
+  "plant_name": "Cordia dichotoma Forst. f.",
+  "botanical_name": "Cordia dichotoma",
+  "botanical_authority": "FORST. F.",
+  "family": "CORDIACEAE",
+  "section": "identification",
+  "content": "Plant name: Cordia dichotoma Forst. f. Botanical name: Cordia dichotoma Botanical authority: FORST. F. Family: CORDIACEAE Source xplant ID: e00f75276fae36521c4b35c368cf8393",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393/xclkon/32344fbcf54de972ab63217f147b3953"
+  ],
+  "source_record_ids": [
+    "links-1811",
+    "links-1813"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393/xclkon/32344fbcf54de972ab63217f147b3953"
+    ],
+    "source_record_ids": [
+      "links-1811",
+      "links-1813"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393",
+          "Plant Name": "Cordia dichotoma Forst. f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cordia dichotoma Forst. f.",
+        "source_record_id": "links-1811",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393/xclkon/32344fbcf54de972ab63217f147b3953",
+          "Plant Name": "Cordia myxa Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cordia myxa Roxb.",
+        "source_record_id": "links-1813",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393/xclkon/32344fbcf54de972ab63217f147b3953"
+      }
+    ],
+    "source_xplant_id": "e00f75276fae36521c4b35c368cf8393",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

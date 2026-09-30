@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_4bda45330d239143__identification__001",
+  "plant_id": "plant_4bda45330d239143",
+  "plant_name": "Canscora diffusa R. Br.",
+  "botanical_name": "Canscora diffusa",
+  "botanical_authority": "(VAHL) R. BR.",
+  "family": "GENTIANACEAE",
+  "section": "identification",
+  "content": "Plant name: Canscora diffusa R. Br. Botanical name: Canscora diffusa Botanical authority: (VAHL) R. BR. Family: GENTIANACEAE Source xplant ID: b980ee74d14fdca6e2c6804db0287848",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b980ee74d14fdca6e2c6804db0287848"
+  ],
+  "source_record_ids": [
+    "links-1718"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b980ee74d14fdca6e2c6804db0287848"
+    ],
+    "source_record_ids": [
+      "links-1718"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b980ee74d14fdca6e2c6804db0287848",
+          "Plant Name": "Canscora diffusa R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Canscora diffusa R. Br.",
+        "source_record_id": "links-1718",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b980ee74d14fdca6e2c6804db0287848"
+      }
+    ],
+    "source_xplant_id": "b980ee74d14fdca6e2c6804db0287848",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

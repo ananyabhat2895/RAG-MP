@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_bc9a759ee06b8786__distribution__001",
+  "plant_id": "plant_bc9a759ee06b8786",
+  "plant_name": "Sesbania bispinosa (Jacq.) Fawcett & Rendle",
+  "botanical_name": "Sesbania bispinosa",
+  "botanical_authority": "(JACQ.) W.F. WIGHT var. bispinosa",
+  "family": "FABACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1a2168748b1d4dc55092c23faac64f70"
+  ],
+  "source_record_ids": [
+    "links-0751"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1a2168748b1d4dc55092c23faac64f70"
+    ],
+    "source_record_ids": [
+      "links-0751"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1a2168748b1d4dc55092c23faac64f70",
+          "Plant Name": "Sesbania bispinosa (Jacq.) Fawcett & Rendle",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesbania bispinosa (Jacq.) Fawcett & Rendle",
+        "source_record_id": "links-0751",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1a2168748b1d4dc55092c23faac64f70"
+      }
+    ],
+    "source_xplant_id": "1a2168748b1d4dc55092c23faac64f70",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

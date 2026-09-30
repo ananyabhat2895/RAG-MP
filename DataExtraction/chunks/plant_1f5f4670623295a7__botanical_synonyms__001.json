@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_1f5f4670623295a7__botanical_synonyms__001",
+  "plant_id": "plant_1f5f4670623295a7",
+  "plant_name": "Physalis minima Linn.",
+  "botanical_name": "Physalis minima",
+  "botanical_authority": "L.",
+  "family": "SOLANACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Physalis indica LAM.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ff9145d6e604e401343c4d074dd47fc"
+  ],
+  "source_record_ids": [
+    "links-0246",
+    "links-1927"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ff9145d6e604e401343c4d074dd47fc"
+    ],
+    "source_record_ids": [
+      "links-0246",
+      "links-1927"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ff9145d6e604e401343c4d074dd47fc",
+          "Plant Name": "Physalis minima Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Physalis minima Linn.",
+        "source_record_id": "links-0246",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ff9145d6e604e401343c4d074dd47fc"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ff9145d6e604e401343c4d074dd47fc",
+          "Plant Name": "Physalis Minima",
+          "Status": "Found"
+        },
+        "source_plant_name": "Physalis Minima",
+        "source_record_id": "links-1927",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ff9145d6e604e401343c4d074dd47fc"
+      }
+    ],
+    "source_xplant_id": "5ff9145d6e604e401343c4d074dd47fc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

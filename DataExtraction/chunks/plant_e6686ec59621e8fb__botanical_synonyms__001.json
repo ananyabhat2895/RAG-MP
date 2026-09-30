@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_e6686ec59621e8fb__botanical_synonyms__001",
+  "plant_id": "plant_e6686ec59621e8fb",
+  "plant_name": "Typha elephantina Roxb.",
+  "botanical_name": "Typha australis",
+  "botanical_authority": "SCHUM. & THONN.",
+  "family": "TYPHACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Typha elephantina GRAH, NON ROXB.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99716c273a6973aaf2f8c64b19a9a67a/xclkon/64802e2f21d5a83c893705969ef3da6b",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99716c273a6973aaf2f8c64b19a9a67a"
+  ],
+  "source_record_ids": [
+    "links-0668",
+    "links-0674"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99716c273a6973aaf2f8c64b19a9a67a/xclkon/64802e2f21d5a83c893705969ef3da6b",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99716c273a6973aaf2f8c64b19a9a67a"
+    ],
+    "source_record_ids": [
+      "links-0668",
+      "links-0674"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99716c273a6973aaf2f8c64b19a9a67a/xclkon/64802e2f21d5a83c893705969ef3da6b",
+          "Plant Name": "Typha elephantina Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Typha elephantina Roxb.",
+        "source_record_id": "links-0668",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99716c273a6973aaf2f8c64b19a9a67a/xclkon/64802e2f21d5a83c893705969ef3da6b"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99716c273a6973aaf2f8c64b19a9a67a",
+          "Plant Name": "Typha australis Schum. & Thom.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Typha australis Schum. & Thom.",
+        "source_record_id": "links-0674",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99716c273a6973aaf2f8c64b19a9a67a"
+      }
+    ],
+    "source_xplant_id": "99716c273a6973aaf2f8c64b19a9a67a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

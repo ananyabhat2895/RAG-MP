@@ -1,0 +1,93 @@
+{
+  "chunk_id": "plant_b4a1b29516925f70__distribution__001",
+  "plant_id": "plant_b4a1b29516925f70",
+  "plant_name": "Solanum melongena Linn.",
+  "botanical_name": "Solanum melongena",
+  "botanical_authority": "L.",
+  "family": "SOLANACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - HARIDASAN K & RAO R R; distribution: Distribution; title: Title - FOREST FLORA OF MEGHALAYA VOL 2\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a688dcbdec0758a9bc0ed6b2f1ec52fd"
+  ],
+  "source_record_ids": [
+    "links-2058",
+    "links-2124",
+    "links-2125",
+    "links-2126",
+    "links-2127"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a688dcbdec0758a9bc0ed6b2f1ec52fd"
+    ],
+    "source_record_ids": [
+      "links-2058",
+      "links-2124",
+      "links-2125",
+      "links-2126",
+      "links-2127"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a688dcbdec0758a9bc0ed6b2f1ec52fd",
+          "Plant Name": "Solanum melongena Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum melongena Linn.",
+        "source_record_id": "links-2058",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a688dcbdec0758a9bc0ed6b2f1ec52fd"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a688dcbdec0758a9bc0ed6b2f1ec52fd",
+          "Plant Name": "Solanum melongena Linn. Var. depressum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum melongena Linn. Var. depressum",
+        "source_record_id": "links-2124",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a688dcbdec0758a9bc0ed6b2f1ec52fd"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a688dcbdec0758a9bc0ed6b2f1ec52fd",
+          "Plant Name": "Solanum melongena Linn. Var. incanum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum melongena Linn. Var. incanum",
+        "source_record_id": "links-2125",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a688dcbdec0758a9bc0ed6b2f1ec52fd"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a688dcbdec0758a9bc0ed6b2f1ec52fd",
+          "Plant Name": "Solanum melongena Linn. Var. melongena",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum melongena Linn. Var. melongena",
+        "source_record_id": "links-2126",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a688dcbdec0758a9bc0ed6b2f1ec52fd"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a688dcbdec0758a9bc0ed6b2f1ec52fd",
+          "Plant Name": "Solanum melongena Linn. Var. serpentinum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Solanum melongena Linn. Var. serpentinum",
+        "source_record_id": "links-2127",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a688dcbdec0758a9bc0ed6b2f1ec52fd"
+      }
+    ],
+    "source_xplant_id": "a688dcbdec0758a9bc0ed6b2f1ec52fd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

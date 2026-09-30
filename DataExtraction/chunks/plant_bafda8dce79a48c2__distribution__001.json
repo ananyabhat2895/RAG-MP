@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_bafda8dce79a48c2__distribution__001",
+  "plant_id": "plant_bafda8dce79a48c2",
+  "plant_name": "Artemisia vulgaris Linn.",
+  "botanical_name": "Artemisia nilagirica",
+  "botanical_authority": "(CLARKE) PAMP.",
+  "family": "ASTERACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - A S Chauhan, K P Singh, D K Singh; distribution: Distribution; title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - ED. B.D. SHARMA & M.SANJAPPA , N.P. BALAKRISHNAN; distribution: Distribution; title: Title - FLORA OF INDIA VOL 12\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - N.P.Balakrishnan; distribution: Distribution; title: Title - Flora of Jowai Vol.I\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II\nDistribution entry: author: Author - KUNDAN K SHARMA & SHIVA SHARMA; distribution: Distribution; title: Title - FLORA OF RAJASTHAN\nDistribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871/xclkon/170e7c9eedb83a01e5177f4191bbd8d2"
+  ],
+  "source_record_ids": [
+    "links-0479"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871/xclkon/170e7c9eedb83a01e5177f4191bbd8d2"
+    ],
+    "source_record_ids": [
+      "links-0479"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871/xclkon/170e7c9eedb83a01e5177f4191bbd8d2",
+          "Plant Name": "Artemisia vulgaris Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Artemisia vulgaris Linn.",
+        "source_record_id": "links-0479",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871/xclkon/170e7c9eedb83a01e5177f4191bbd8d2"
+      }
+    ],
+    "source_xplant_id": "7475bc38738246669b1af949662b6871",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

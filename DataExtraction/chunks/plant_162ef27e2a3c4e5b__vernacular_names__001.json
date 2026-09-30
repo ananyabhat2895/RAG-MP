@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_162ef27e2a3c4e5b__vernacular_names__001",
+  "plant_id": "plant_162ef27e2a3c4e5b",
+  "plant_name": "Butea monosperma",
+  "botanical_name": "Butea monosperma",
+  "botanical_authority": "(LAM.) TAUB.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "English (7): bastard teak, bengal kino, dhak, flame of the forest, muduga oil, palas, tisso flowers\nHindi (27): chhola, chichra, chinchra, chuniagond, desukajhad, dhak, dhara, faras, kakria, kankeri, kankrei, kesu, kesuda, khakario, khakra, khankhera, khankhro, khankra, palah, palas, palas (dhak), palas-ke-binj, palas-ki-gond, phalas, plah, tasu, tesu\nKannada (27): brahma vriksha, brahmavriksha, brahmavryksha, kamata, meghanaada, mottuga, muthingee, muthli, muthuga, muthuge, muttaga-mara, muttagamara, muttakka, muttala, mutthala beeja, mutthala mara, mutthalu, mutthuga, mutthugada aele, mutthugada mara, muttuga, muttuga-gida, muttuge, mutukinaballi, palasa, thoras, vaathapotha mara\nMalayalam (38): brahmavriksham, brahmavryksham, camata, chamada, chamata, chamatha, kimshukam, kimsukam, mukampuyam, mukappuyam, mukkampuyam, mukkappuyam, murikku, muriku, murukka-maram, murukkamaram, murukku, palas, palasi, palasie, palasincamata, palasinjamatapuppalasi, palasinsamatha, palaso, pilacam, pilacham, pilasu, plach-cha, plas, plasa, plash, plaso, plasu, pupalasai, puppalasi, ralasa, samatha, shamata\nMarathi (7): kakracha, murkampoo, palas, palash, paras, phalas, phulas\nSanskrit (42): Sanskrit CommentsX asana, bandhukapushpa, bijasneha, brahmavriksha, brahmavrksah, bramhapadapa, bramhopaneta, hastikarnapalasha, ka, kamalasana, karaka, kashtadru, kimsuka, kinshuka, kinsuka, kinsukah, krimighna, ksarasrestha, ksharashreshtha, ksharasresthah, lakshataru, palasa, palasah, palasha, palashabijam, palashaniryasam, palashavrikshaha, parna, putadru, raktapushpaka, raktapuspaka, samidvara, sharashreshdna, sruvavrksa, suparni, tapasavrksah, tripatraka, tripatrika, vakrapushpaka, vatapotha, vatapothah, yajnika",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea"
+  ],
+  "source_record_ids": [
+    "links-0700",
+    "links-1420",
+    "links-1421"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea"
+    ],
+    "source_record_ids": [
+      "links-0700",
+      "links-1420",
+      "links-1421"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea",
+          "Plant Name": "Butea monosperma",
+          "Status": "Found"
+        },
+        "source_plant_name": "Butea monosperma",
+        "source_record_id": "links-0700",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea",
+          "Plant Name": "Butea monosperma (Lam.) Kuntze.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Butea monosperma (Lam.) Kuntze.",
+        "source_record_id": "links-1420",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea",
+          "Plant Name": "Butea monosperma (Linn.) Kuntze.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Butea monosperma (Linn.) Kuntze.",
+        "source_record_id": "links-1421",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea"
+      }
+    ],
+    "source_xplant_id": "cb8c6123872fb49d5b8ffb3be64cabea",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_1405748b36375e62__vernacular_names__001",
+  "plant_id": "plant_1405748b36375e62",
+  "plant_name": "Cucumis utilissimus Roxb.",
+  "botanical_name": "Cucumis melo",
+  "botanical_authority": "L. var. momordica DUTHIE & FULLER",
+  "family": "CUCURBITACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (13): baro-kachro, kachra, kachri, kachrio, kachro, kakri-ke-bij, kakrio, khadbiyo, kharbooja, khurbuza, meki, phoot, takmak\nKannada (12): adike baale, aramekke, dodda mekke, haalu mekke, hirey mekke, kahiminike kaayi, kalangari, kallangadi, kharbooja, minike hannu, mullu-savate-bija, pacche kaayi\nMalayalam (2): kakkarikka-vitta, kattuvellari\nMarathi (8): chibunda, kadvi, karit, kharbuja, khurbuj, sakkar teti, tarkakdi, tavsini\nSanskrit (40): Sanskrit CommentsX alakakhya, alaya, aluka, amritavha, cirbhati, citraphalam, dashangula, ervaru, ervaruh, ervaruka, g, garakshi-vrikshamu, gavadani, indravaruni, kalinga, karkati, kharbuja, kharvuja, lomashi, madhupaka, madhuphala, odumba, phalaraja, pitavarnakam, sadbhujah, sadbuja, sadrekhah, shadabhya, shadbhuja, shadrekha, shanmukha, sisravrttam, tikta, tiktaphala, trapusa, trapusi, urvaru, urvaruka, vrittakarkatti, vrttervaru\nTamil (11): akaya kakkarikay, chukkarigai, kak-karik-kay-virai, kakkarik kay-virai, kattu thumatti, mul-vellirik-kay-virai, mul-vellrik-kay-virai, mulampalam, mulampazham, mulvellari, thumattikai\nTelugu (3): karbooja dosa, mulam-pandu, mullu-dosakaya-vittulu\nTibetan (5): ba na ntra pu si (d), ba na tra pu sa, ba na tra pu si (p), ba ntra pu si (d), rgya mtshog gon\nUrdu (5): kakri, kharbuja, kharbuza, khurbuzah, qarbooza",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/e9e5d138e313019434c1aff43227e08c"
+  ],
+  "source_record_ids": [
+    "links-0568",
+    "links-0569"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/e9e5d138e313019434c1aff43227e08c"
+    ],
+    "source_record_ids": [
+      "links-0568",
+      "links-0569"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/e9e5d138e313019434c1aff43227e08c",
+          "Plant Name": "Cucumis utilissimus Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cucumis utilissimus Roxb.",
+        "source_record_id": "links-0568",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/e9e5d138e313019434c1aff43227e08c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/e9e5d138e313019434c1aff43227e08c",
+          "Plant Name": "Cucumis utilissimus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cucumis utilissimus Linn.",
+        "source_record_id": "links-0569",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/e9e5d138e313019434c1aff43227e08c"
+      }
+    ],
+    "source_xplant_id": "a4f1228958884d0b1d991ee640366154",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

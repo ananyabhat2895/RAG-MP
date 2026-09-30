@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_596fd65ef4b6549c__images__001",
+  "plant_id": "plant_596fd65ef4b6549c",
+  "plant_name": "Elaeodendron glaucum Pers.",
+  "botanical_name": "Cassine glauca",
+  "botanical_authority": "(ROTTB.) O.KTZE.",
+  "family": "CELASTRACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7727492ab9aa7dcdfa024d295d8072ae/xclkon/89fd92fe97aae8b3f6342686bbc8dacf"
+  ],
+  "source_record_ids": [
+    "links-0177"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7727492ab9aa7dcdfa024d295d8072ae/xclkon/89fd92fe97aae8b3f6342686bbc8dacf"
+    ],
+    "source_record_ids": [
+      "links-0177"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7727492ab9aa7dcdfa024d295d8072ae/xclkon/89fd92fe97aae8b3f6342686bbc8dacf",
+          "Plant Name": "Elaeodendron glaucum Pers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Elaeodendron glaucum Pers.",
+        "source_record_id": "links-0177",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7727492ab9aa7dcdfa024d295d8072ae/xclkon/89fd92fe97aae8b3f6342686bbc8dacf"
+      }
+    ],
+    "source_xplant_id": "7727492ab9aa7dcdfa024d295d8072ae",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c1e8186309d8b401__vernacular_names__001",
+  "plant_id": "plant_c1e8186309d8b401",
+  "plant_name": "Lathyrus sativus Linn.",
+  "botanical_name": "Lathyrus sativus",
+  "botanical_authority": "L.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): chickling vetch, indian pea, khesara, riga or dogtooth pea\nHindi (3): kasari, kesari, latari\nKannada (2): kaesari baele, kaesari thogari\nMarathi (3): laakh, lakh, lang\nSanskrit (9): Sanskrit CommentsX kalaya, kalayah, khandika, lanka, sandika, triputa, triputaka, triputakalaya, triputi\nTamil (1): kecari-p-paruppu\nTelugu (1): lamka",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c17b959a5b1e5adc4a69c2971497f68d"
+  ],
+  "source_record_ids": [
+    "links-0874"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c17b959a5b1e5adc4a69c2971497f68d"
+    ],
+    "source_record_ids": [
+      "links-0874"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c17b959a5b1e5adc4a69c2971497f68d",
+          "Plant Name": "Lathyrus sativus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Lathyrus sativus Linn.",
+        "source_record_id": "links-0874",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c17b959a5b1e5adc4a69c2971497f68d"
+      }
+    ],
+    "source_xplant_id": "c17b959a5b1e5adc4a69c2971497f68d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

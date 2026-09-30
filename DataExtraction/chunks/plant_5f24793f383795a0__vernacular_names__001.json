@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_5f24793f383795a0__vernacular_names__001",
+  "plant_id": "plant_5f24793f383795a0",
+  "plant_name": "Dillenia pentagyna Roxb. .",
+  "botanical_name": "Dillenia pentagyna",
+  "botanical_authority": "ROXB.",
+  "family": "DILLENIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (3): aggai, kallai, karmal\nKannada (37): kaadu kanigala, kaadu kanigalu, kaadukanagilu, kadkanagalu, kadkanigila, kadkanyila, kaduganigila, kadukanigala, kanagala, kanagale, kanagalu, kanagulu, kangal, kanigala, karambala, karmal, kolategu, koltega, koltegu, kolthaega, kolthega, koolateegu, kultega, machil, mada thega, madathaega, malegeru, malethaega, modutega, muccalu, muccil, muccuhiri, muchahir, muchhaheeri, muchhilu, muchihir, muchiru\nMalayalam (17): kodapanna, kodappunna, kodapunna, kodeipunnai, kodepunna, kotapunna, malampunna, naiteku, nayitaku, panna, pattipanna, pattipunna, pattipunnai, pennay, punna, punnai, vazhapunna\nMarathi (4): karambala, karambel, karmal, kurweil\nSanskrit (3): Sanskrit CommentsX aksikiphala, nagakesaram, punnaga\nTamil (11): kalliccilaikkay, kallicilaikkay, kallililinkay, kalluccilaikay, naitekku, naiteku, nayttekku, pattippunnai, pattipunna, pinnai 1, sirunagapoo\nTelugu (13): chinna kalinga, chinnakainga, parataku, parudu, raevadi, rath-eggi, ravudana, rawadan, revada, revadi, revadi chettu, rowadan, uvva kaya",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69187c98d65911f2688eb248130c3568"
+  ],
+  "source_record_ids": [
+    "links-0067",
+    "links-1358"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69187c98d65911f2688eb248130c3568"
+    ],
+    "source_record_ids": [
+      "links-0067",
+      "links-1358"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69187c98d65911f2688eb248130c3568",
+          "Plant Name": "Dillenia pentagyna Roxb. .",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dillenia pentagyna Roxb. .",
+        "source_record_id": "links-0067",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69187c98d65911f2688eb248130c3568"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69187c98d65911f2688eb248130c3568",
+          "Plant Name": "Dillenia pentagyna",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dillenia pentagyna",
+        "source_record_id": "links-1358",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69187c98d65911f2688eb248130c3568"
+      }
+    ],
+    "source_xplant_id": "69187c98d65911f2688eb248130c3568",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

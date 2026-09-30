@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_5094185d33d9055b__systems_of_medicine__001",
+  "plant_id": "plant_5094185d33d9055b",
+  "plant_name": "Sida veronicaefolia Lam.",
+  "botanical_name": "Sida cordata",
+  "botanical_authority": "(BURM.F.) BOISS.",
+  "family": "MALVACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk Botanical Synonyms (2) - Sida humilis CAV. X Full Botanical citation - Sida humilis Cav.\nSystem of medicine: Diss. 5: 277\nSystem of medicine: t. 134\nSystem of medicine: f. 2. 1788; M.Mohanan & A.V.N. Rao in P. Daniel\nSystem of medicine: Fl. Kerala 1: 389. 2005. Sida veronicaefolia LAM. X Full Botanical citation - Sida veronicaefolia Lam.\nSystem of medicine: Encycl. 1: 15. 1783; M.Mohanan & A.V.N. Rao in P. Daniel\nSystem of medicine: Fl. Kerala 1: 389. 2005.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba"
+  ],
+  "source_record_ids": [
+    "links-0273",
+    "links-1576"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba"
+    ],
+    "source_record_ids": [
+      "links-0273",
+      "links-1576"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba",
+          "Plant Name": "Sida veronicaefolia Lam.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida veronicaefolia Lam.",
+        "source_record_id": "links-0273",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba",
+          "Plant Name": "Sida veronicaefolia Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida veronicaefolia Linn.",
+        "source_record_id": "links-1576",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba"
+      }
+    ],
+    "source_xplant_id": "47d9f33c2a99b8b51b28030e753d04d0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

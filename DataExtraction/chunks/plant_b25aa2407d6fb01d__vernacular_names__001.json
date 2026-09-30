@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_b25aa2407d6fb01d__vernacular_names__001",
+  "plant_id": "plant_b25aa2407d6fb01d",
+  "plant_name": "Borassus flabellifer Linn.",
+  "botanical_name": "Borassus flabellifer",
+  "botanical_authority": "L.",
+  "family": "ARECACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): bassine fibre, odiyal flour, palmyra palm\nHindi (8): tad, taduka, tal, taltar, tar, tari, tariya, tarkajhar\nKannada (22): karatale, kari thaale, karitale, ole, oleya, panai, panal, pane, pane-mara, pani, tala, tale, tali, talimara, tari, thaale mara, thaathinungu mara, thaatiningu mara, thruna raaja, trinaraja, trynaraja, vole\nMalayalam (11): ampana, carim-pana, carimpana, eta, karimapana, karimpana, karrumpana, pana, talam, trinarajan, trynarajan\nMarathi (8): rotam, tad, tad-mad, talatmad, tamar, tamas, thad, vet\nSanskrit (30): Sanskrit CommentsX aavardu, avan, bhumipishacha, chirayu, dhvajadruma, dirghadru, dirghapadapa, dirghaskanda, dirghataru, drumashreshtha, drumeshvara, guchhapatra, karapatr talavrikshaha, lekhyapatra, madadhya, madhurasa, mahonnata, patri, shataparva, tada, tala, taladruma, taladrumah, talah, talamastaka, tamsi, tantugarbha, tantuniryasa, taruraja, trnaraja\nTamil (116): acavattiru, acavattirumaram, acavatturu, ailantal, ailantalam, ailantalmaram, ailantar, aintar, aintaram, anbanai, carruppanai, carupanai, catapalam, cattuppanai, cirpaki, civantikkiriyam, civantikkiriyamaram, edagam, etakam, etakam2, etakamaram, etkai2, etkam2, kamam, kamam3, karadalam, karakalam, karambanai, karampanai, karatalam, karatalamaram, karimpanai, karpakam4, karumpanai, karumpul1, karumpuram, karupuram, karupuramaram, kayinpanai, kaympanai, kayppanai, kirusnakaya, kirusnakentam, kuliram, makapattiram 2, makonnatam, mal, maturacam 2, maturacam@, maturacamaram, narpanai, netini, netumi, netuncevikam, netuncevikamaram, neyam2, nilam, nilamani2, nilamanimaram, nonkupanai, nungu, pakarpali, panai, panai maram, panai-maram, panaimaram, panam@, pandi, panei, pannangkulloo, pennai, pennaimaram, pirancutirkkam, ponantai, pondai, pondu, pontukam, pontukamaram, pul, pullutiyam, purappi, purbadi, purpati, purrali 2, puttali 2, puttrani, talam, talam$, talam2#, talatalam, talavilacam, tali, tali z, taruracam, taruracan, tarurajamaram, taruviracan, taruvirakam, taruvirakamaram, taruvirakan, tatti, tiranaracan3, tirunapati, tirunaracan, turapokam, turarokam, turumacirettam, turumecuvar, turumecuvaram, turumekam, turumekamaram, ulokapattiram, upatakam, utupatakam, varanikam, varanikamaram",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/78fe60d026b1688e91cd99182827e1ff"
+  ],
+  "source_record_ids": [
+    "links-1907"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/78fe60d026b1688e91cd99182827e1ff"
+    ],
+    "source_record_ids": [
+      "links-1907"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/78fe60d026b1688e91cd99182827e1ff",
+          "Plant Name": "Borassus flabellifer Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Borassus flabellifer Linn.",
+        "source_record_id": "links-1907",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/78fe60d026b1688e91cd99182827e1ff"
+      }
+    ],
+    "source_xplant_id": "78fe60d026b1688e91cd99182827e1ff",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

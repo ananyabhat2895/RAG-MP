@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_d368e24fd6b18504__identification__001",
+  "plant_id": "plant_d368e24fd6b18504",
+  "plant_name": "Baliospermum montanum Muell- Arg.",
+  "botanical_name": "Baliospermum solanifolium",
+  "botanical_authority": "(J.BURM.) SURESH",
+  "family": "EUPHORBIACEAE",
+  "section": "identification",
+  "content": "Plant name: Baliospermum montanum Muell- Arg. Botanical name: Baliospermum solanifolium Botanical authority: (J.BURM.) SURESH Family: EUPHORBIACEAE Source xplant ID: f6de86c1e86de21e2adc9d900f6090cd",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/9880ad72c7fc698adc45355595f69f38"
+  ],
+  "source_record_ids": [
+    "links-0482",
+    "links-0483"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/9880ad72c7fc698adc45355595f69f38"
+    ],
+    "source_record_ids": [
+      "links-0482",
+      "links-0483"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/9880ad72c7fc698adc45355595f69f38",
+          "Plant Name": "Baliospermum montanum Muell- Arg.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Baliospermum montanum Muell- Arg.",
+        "source_record_id": "links-0482",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/9880ad72c7fc698adc45355595f69f38"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/9880ad72c7fc698adc45355595f69f38",
+          "Plant Name": "Baliospermum montanum Muell.-Arg.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Baliospermum montanum Muell.-Arg.",
+        "source_record_id": "links-0483",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/9880ad72c7fc698adc45355595f69f38"
+      }
+    ],
+    "source_xplant_id": "f6de86c1e86de21e2adc9d900f6090cd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

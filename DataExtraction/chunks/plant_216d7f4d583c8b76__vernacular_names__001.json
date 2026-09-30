@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_216d7f4d583c8b76__vernacular_names__001",
+  "plant_id": "plant_216d7f4d583c8b76",
+  "plant_name": "Boerhavia diffusa Linn.",
+  "botanical_name": "Boerhavia diffusa",
+  "botanical_authority": "L.",
+  "family": "NYCTAGINACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): punarnava, spreading hog-weed\nHindi (15): beshakapore, chinawari, gadahpurna, gadhaparna, gadhapurna, ppunarnava, punarva, pundera, purnava, purnu, sant, santhi, satha, sathi, thikri\nKannada (19): adaka puttana gida, adakaputtana gida, adathamaamidi, balavadike, belavadaka, gaayi, gaayimore thoppalu, ganajali, gonajali, komme gida, kommegida, nadu murukana balli, nadumurukana balli, rakta punarnava, sanaadika, sanadika, shovaata, sonaa jaali, thopparu\nMalayalam (5): talu-dama, talutama, tamilama, tavilama, thazhuthama\nMarathi (9): getulee, ghetuli, kharaparya, pandharighentuti, punarnava, raktavasu, rakthavasu, vasu, vosu\nSanskrit (58): Sanskrit CommentsX bhauma, kathilah, kathilla, kathillak, kathillaka, kathillakah, katillah, krishnakhya, krura, lohita, mahavarsabhu, mandalpatrika, nava, navyaswara, nila, nilapunarnava, nilavarshabhu, nilini, pravrishayani, pravrishenya, punarbhava, punarnava, punarnavah, punarnavi, raktakanda, raktapatrika, raktapunarnava, raktapushpa, raktapushpika, raktavarshabhu, sarini, shilatika, shodhani, shonapatra, shophaghni, shothaghni, shyma, sinadika, sindika, sophaghni, sophagni, sothaghni, sothagni, tazutama, vaishakhi, varsabhu, varsabu, varshabhava, varshabhu, varshaketu, visakha, visakhah, vishaghni, vishakarpara, vishakharpara, vrsciva, vrscivah, vrusir",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/75868742d47c459a0bbef44b988ead65"
+  ],
+  "source_record_ids": [
+    "links-1557"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/75868742d47c459a0bbef44b988ead65"
+    ],
+    "source_record_ids": [
+      "links-1557"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/75868742d47c459a0bbef44b988ead65",
+          "Plant Name": "Boerhavia diffusa Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Boerhavia diffusa Linn.",
+        "source_record_id": "links-1557",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/75868742d47c459a0bbef44b988ead65"
+      }
+    ],
+    "source_xplant_id": "75868742d47c459a0bbef44b988ead65",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

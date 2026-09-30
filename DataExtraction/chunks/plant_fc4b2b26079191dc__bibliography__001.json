@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_fc4b2b26079191dc__bibliography__001",
+  "plant_id": "plant_fc4b2b26079191dc",
+  "plant_name": "Viburnum nervosum D. Don",
+  "botanical_name": "Viburnum nervosum",
+  "botanical_authority": "D.DON",
+  "family": "CAPRIFOLIACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: title: Title - Flora of Himachal Pradesh Vol I\nBibliography entry: title: Title - A Forest Flora for Kumaon",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/181fb5e912912dcca6a911b7318b2faf"
+  ],
+  "source_record_ids": [
+    "links-1950"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/181fb5e912912dcca6a911b7318b2faf"
+    ],
+    "source_record_ids": [
+      "links-1950"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/181fb5e912912dcca6a911b7318b2faf",
+          "Plant Name": "Viburnum nervosum D. Don",
+          "Status": "Found"
+        },
+        "source_plant_name": "Viburnum nervosum D. Don",
+        "source_record_id": "links-1950",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/181fb5e912912dcca6a911b7318b2faf"
+      }
+    ],
+    "source_xplant_id": "181fb5e912912dcca6a911b7318b2faf",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

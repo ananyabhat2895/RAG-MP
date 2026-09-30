@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_613a1e061a106bed__botanical_synonyms__001",
+  "plant_id": "plant_613a1e061a106bed",
+  "plant_name": "Swertia chirata Buch.-Ham.",
+  "botanical_name": "Swertia chirayita",
+  "botanical_authority": "ROXB. EX (FLEMING) KARST.",
+  "family": "GENTIANACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Gentiana chirayta ROXB. X Full Botanical citation - Gentiana chirayita Roxb. ex Fleming in Asiat. Res. 11: 167. 1812; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 408. 1999. Ophelia chiraita GRISEB. X Full Botanical citation - Ophelia chirayita Griseb., Gen. Sp. Gentian. 320. 1839 (as chirata); R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 408. 1999. Swertia chirata (ROXB. EX. FLEM.) KAR.\nSynonym: Gentiana chirayta ROXB.\nSynonym: Ophelia chiraita GRISEB.\nSynonym: Swertia chirata (ROXB. EX. FLEM.) KAR.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/f7d394b037ec5505be0b04ad4350411b",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935"
+  ],
+  "source_record_ids": [
+    "links-1051",
+    "links-1052"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/f7d394b037ec5505be0b04ad4350411b",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935"
+    ],
+    "source_record_ids": [
+      "links-1051",
+      "links-1052"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/f7d394b037ec5505be0b04ad4350411b",
+          "Plant Name": "Swertia chirata Buch.-Ham.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Swertia chirata Buch.-Ham.",
+        "source_record_id": "links-1051",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/f7d394b037ec5505be0b04ad4350411b"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935",
+          "Plant Name": "Swertia chirayita (Roxb. ex Flem.) Karst.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Swertia chirayita (Roxb. ex Flem.) Karst.",
+        "source_record_id": "links-1052",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935"
+      }
+    ],
+    "source_xplant_id": "694eb1f52999a025e8a35b35aa3d4935",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c4ef0b13c0da5f50__vernacular_names__002",
+  "plant_id": "plant_c4ef0b13c0da5f50",
+  "plant_name": "Punica granatum Linn.",
+  "botanical_name": "Punica granatum",
+  "botanical_authority": "L.",
+  "family": "PUNICACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (127): arocakanacani, arulmaram, arumaram, atalai2, catimataki, catipancu, cerukkam, cikappumatalai, civappuccantanikacceti, civappuccantanikam, civappumatalai, cukacanam1, cukatanam1, cukavallam, cukkilestam, ekamuli, inippu matalai, inippumatalai, inippumatulai, irattapittapicakam, irattavicam, irattavitacceti, irucakam, irucukam, kalkapalam, kalumal madalai, karkapalacceti, karkapalam, kavaiyal, kovarttanam, kucapalam1, kucapalamaram, kukarumulimpam, kurucattam, kuttinam, maathulai, madalai, madalai-ch-chedi, madalai-p-pazham, madalam, madalangkai, madalum vayr, madhalai, madhulam, madhulami, madulai, madulam, madulungam, magilam palam, malaki, manimatari, manipicam, manipicamaram, manivicam, maniviciramam, maniviciramaram, maralam#, maralam@, maralamaram, marayam, matalaimacaki, matalaimacakimaram, matalam#, matalampu, matalunkam, mathalai, mathulai, matulai, matulainkam, matulam, matulankam, matulankam@, matulankamaram, matulunkam@, matulunkamaram, matuvicam, nallamatulai, narumatulam#, narumatulam@, nattumatalai, palacatavam, palacatavamaram, palacavatam, palapuracceti, palapurakam, palapurakamaram, picapuram, picapuram@, pintirakacceti, pintirakam, pintiram, piraputam, pu-madalai, pulimadalai, pulippumatulai, pumadalai, rumman, tacanapicam, tadimadalai, tadimam, talimpamayati, tantapicakam, tantapicam, tantapijakam, tatimakkani, tatimam2, tatimatulai, tittippumatulaimaram, tittippuppalai, tucakamatulai, tucakatitam, tucakatitamaram, tuccam, tuccam#, tusagam, urucakam1, urumamapalam, uruntanirpputpi, utirapantam, varaimatalacci, varaiyutakam, vinnarakam, vinnarakamaram, vintapurakam, viraiyotakam, virotam, viruttapalam 1\nTelugu (24): daadimamu, daadimba, daalimba chettu, daalimma, daanimma, dadima, dadima-chetu, dadimamu, dadimba, dadimma, dalimba, dalimba-chettu, dalimma, dalunimma, danima, danimma, danimma-chettu, karakamu, pulladaanimma, pulladanimma, puvvudaanimma, puvvudanimma, thiyyadaanimma, tiyyadanimma\nTibetan (4): bal-poi-seu, se bru, se u bru, seu bru\nUrdu (24): aab-e-amar, amardana, anar, anar dana, anar dona, anar shirin, anardana, anaspal, goolnar, gul amar, gul anar, gul-i-anar, gulnar, gulnar (gulnar farsi), hab-i-qilqil, naspal, poast anar, rub amar shirin, rub anar, rub anar shirin, rub anar tursh, rub-i-anar shirin, sharbat anarshirin, tub-i-anar shirin",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b10eb7ab305c42634ac64419f6ed0f43"
+  ],
+  "source_record_ids": [
+    "links-0478"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b10eb7ab305c42634ac64419f6ed0f43"
+    ],
+    "source_record_ids": [
+      "links-0478"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b10eb7ab305c42634ac64419f6ed0f43",
+          "Plant Name": "Punica granatum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Punica granatum Linn.",
+        "source_record_id": "links-0478",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b10eb7ab305c42634ac64419f6ed0f43"
+      }
+    ],
+    "source_xplant_id": "b10eb7ab305c42634ac64419f6ed0f43",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

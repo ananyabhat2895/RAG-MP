@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_bc8743ca10d1f5f9__images__001",
+  "plant_id": "plant_bc8743ca10d1f5f9",
+  "plant_name": "Syzygium cumini (Linn.) Skeels.",
+  "botanical_name": "Syzygium cumini",
+  "botanical_authority": "(L.) SKEELS",
+  "family": "MYRTACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef"
+  ],
+  "source_record_ids": [
+    "links-0767"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef"
+    ],
+    "source_record_ids": [
+      "links-0767"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef",
+          "Plant Name": "Syzygium cumini (Linn.) Skeels.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Syzygium cumini (Linn.) Skeels.",
+        "source_record_id": "links-0767",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef"
+      }
+    ],
+    "source_xplant_id": "d5469b2ff22373aaaa14897e42ad27ef",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

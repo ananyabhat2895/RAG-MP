@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_46597595095a29ef__distribution__001",
+  "plant_id": "plant_46597595095a29ef",
+  "plant_name": "Euphorbia antiquorum Linn.",
+  "botanical_name": "Euphorbia antiquorum",
+  "botanical_authority": "L.",
+  "family": "EUPHORBIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - C.J SALDHANA; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-2\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol III",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d2cb44cd163454d6da065437a8434bf"
+  ],
+  "source_record_ids": [
+    "links-1819"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d2cb44cd163454d6da065437a8434bf"
+    ],
+    "source_record_ids": [
+      "links-1819"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d2cb44cd163454d6da065437a8434bf",
+          "Plant Name": "Euphorbia antiquorum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia antiquorum Linn.",
+        "source_record_id": "links-1819",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d2cb44cd163454d6da065437a8434bf"
+      }
+    ],
+    "source_xplant_id": "4d2cb44cd163454d6da065437a8434bf",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_f88f975d42e92cea__distribution__001",
+  "plant_id": "plant_f88f975d42e92cea",
+  "plant_name": "Piper baccatum Blume",
+  "botanical_name": "Piper nigrum",
+  "botanical_authority": "L.",
+  "family": "PIPERACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba0f1ced98218e0dfa2295cff395acdd/xclkon/4cf52023cb1cd4c58b795f10ace28fce",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba0f1ced98218e0dfa2295cff395acdd"
+  ],
+  "source_record_ids": [
+    "links-0905",
+    "links-1248"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba0f1ced98218e0dfa2295cff395acdd/xclkon/4cf52023cb1cd4c58b795f10ace28fce",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba0f1ced98218e0dfa2295cff395acdd"
+    ],
+    "source_record_ids": [
+      "links-0905",
+      "links-1248"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba0f1ced98218e0dfa2295cff395acdd/xclkon/4cf52023cb1cd4c58b795f10ace28fce",
+          "Plant Name": "Piper baccatum Blume",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper baccatum Blume",
+        "source_record_id": "links-0905",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba0f1ced98218e0dfa2295cff395acdd/xclkon/4cf52023cb1cd4c58b795f10ace28fce"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba0f1ced98218e0dfa2295cff395acdd",
+          "Plant Name": "Piper nigrum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Piper nigrum Linn.",
+        "source_record_id": "links-1248",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba0f1ced98218e0dfa2295cff395acdd"
+      }
+    ],
+    "source_xplant_id": "ba0f1ced98218e0dfa2295cff395acdd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

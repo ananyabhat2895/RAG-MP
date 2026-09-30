@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_07af945564bbd61a__vernacular_names__001",
+  "plant_id": "plant_07af945564bbd61a",
+  "plant_name": "Symplocos racemosa",
+  "botanical_name": "Symplocos racemosa",
+  "botanical_authority": "ROXB.",
+  "family": "SYMPLOCACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): lodh bark\nHindi (2): lodh, lodhra\nKannada (12): baala doddigana mara, bala doddli, bala loddi, baladoddi, balalodduginamara, bodigaane, budigaane, loadhanada chakke mara, loddugana mara, lodhra, pachettu, shaabara mara\nMarathi (3): lodar, lodh, lodhra\nSanskrit (38): Sanskrit CommentsX aksibhaisajya, aksibhesaja, balabhadra, balipriya, bhillataru, bhilli, galava, hastilodhraka, hemapushpaka, kandakilaka, kandanila, laktakarma, lodhra, lodhrah, lodhraka, lodhravriksha, mahalodhra, marjana, nayanousadha, rodhra, rodhrah, savara, savaraka, savarakarodhra, savararodhra, savura, shahara, shaharalodhra, shambara, shavaraka, shukla, srinata, sthulavalkala, tilaka, tillaka, tirita, tiritaka, vanarajhata\nTamil (22): kacacankai, kalottiram, kaya vilai, kayavilai, lodhra, lottira, lottukattol, lottutattol, tillakam, tillakam2, velilothiram pattai, vellai laddip pattai, vellalattippattai, vellattippattai, velli lottiram, velli-lethi, velli-lodhram, velli-lothi, vellilothram, velliloththirampattai, vellilottiram, verrilai\nTelugu (7): erra lodduga, erralodduga, lodduga, lodhuga-chettu, nellamarri, sabaramu, sapara\nTibetan (6): gsen phram, gsen phrom (p), sa ba ra, sen khrom, sen phrom (d), sen-phrom\nUrdu (5): lodh pathani, lodh pathani sayida, ludhpathani, pathan lodh, pathani lodh",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f19728e96d6246c0e2dcbe2d59406afc"
+  ],
+  "source_record_ids": [
+    "links-1190",
+    "links-1191"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f19728e96d6246c0e2dcbe2d59406afc"
+    ],
+    "source_record_ids": [
+      "links-1190",
+      "links-1191"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f19728e96d6246c0e2dcbe2d59406afc",
+          "Plant Name": "Symplocos racemosa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Symplocos racemosa",
+        "source_record_id": "links-1190",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f19728e96d6246c0e2dcbe2d59406afc"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f19728e96d6246c0e2dcbe2d59406afc",
+          "Plant Name": "Symplocos racemosa Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Symplocos racemosa Roxb.",
+        "source_record_id": "links-1191",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f19728e96d6246c0e2dcbe2d59406afc"
+      }
+    ],
+    "source_xplant_id": "f19728e96d6246c0e2dcbe2d59406afc",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

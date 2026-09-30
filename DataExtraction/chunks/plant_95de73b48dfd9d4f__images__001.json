@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_95de73b48dfd9d4f__images__001",
+  "plant_id": "plant_95de73b48dfd9d4f",
+  "plant_name": "Dalbergia sissoo Roxb.",
+  "botanical_name": "Dalbergia sissoo",
+  "botanical_authority": "ROXB.",
+  "family": "FABACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b1702840a38e125a4fffeb40a34820b"
+  ],
+  "source_record_ids": [
+    "links-1793"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b1702840a38e125a4fffeb40a34820b"
+    ],
+    "source_record_ids": [
+      "links-1793"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b1702840a38e125a4fffeb40a34820b",
+          "Plant Name": "Dalbergia sissoo Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dalbergia sissoo Roxb.",
+        "source_record_id": "links-1793",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b1702840a38e125a4fffeb40a34820b"
+      }
+    ],
+    "source_xplant_id": "8b1702840a38e125a4fffeb40a34820b",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_66292c3a4fc4afe2__vernacular_names__001",
+  "plant_id": "plant_66292c3a4fc4afe2",
+  "plant_name": "Pinus gerardiana Wall.",
+  "botanical_name": "Pinus gerardiana",
+  "botanical_authority": "WALL.",
+  "family": "PINACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (9): chilagoza, gunobar, gunober, miri, neoza, neur, rhee, rhi, ri\nMarathi (3): chilgoza, chilogi, galgoja\nSanskrit (11): Sanskrit CommentsX bhutamari, chida, darugandha, gandhamadani, gandhavadhu, grahajita, kapatini, mangalya, nikocaka, tara, taruni\nUrdu (3): chilghoza, maghz chilghoza, maghz-i-chilghoza",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a5694af47b9b29d0368c373570911eec"
+  ],
+  "source_record_ids": [
+    "links-1394"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a5694af47b9b29d0368c373570911eec"
+    ],
+    "source_record_ids": [
+      "links-1394"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a5694af47b9b29d0368c373570911eec",
+          "Plant Name": "Pinus gerardiana Wall.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pinus gerardiana Wall.",
+        "source_record_id": "links-1394",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a5694af47b9b29d0368c373570911eec"
+      }
+    ],
+    "source_xplant_id": "a5694af47b9b29d0368c373570911eec",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

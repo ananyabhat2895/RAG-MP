@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c958c09d76031638__images__001",
+  "plant_id": "plant_c958c09d76031638",
+  "plant_name": "Pistacia vera Linn.",
+  "botanical_name": "Pistacia vera",
+  "botanical_authority": "L.",
+  "family": "PISTACIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/962afd4bfe6a603a4a8379ea094fb088"
+  ],
+  "source_record_ids": [
+    "links-0004"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/962afd4bfe6a603a4a8379ea094fb088"
+    ],
+    "source_record_ids": [
+      "links-0004"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/962afd4bfe6a603a4a8379ea094fb088",
+          "Plant Name": "Pistacia vera Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pistacia vera Linn.",
+        "source_record_id": "links-0004",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/962afd4bfe6a603a4a8379ea094fb088"
+      }
+    ],
+    "source_xplant_id": "962afd4bfe6a603a4a8379ea094fb088",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

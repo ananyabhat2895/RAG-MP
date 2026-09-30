@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_ca8a9a81fe36c8d4__identification__001",
+  "plant_id": "plant_ca8a9a81fe36c8d4",
+  "plant_name": "Eucalyptus globulus Labill.",
+  "botanical_name": "Eucalyptus globulus",
+  "botanical_authority": "LABILL",
+  "family": "MYRTACEAE",
+  "section": "identification",
+  "content": "Plant name: Eucalyptus globulus Labill. Botanical name: Eucalyptus globulus Botanical authority: LABILL Family: MYRTACEAE Source xplant ID: eeb0f6081ccf54f31818fe441d374ff7",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeb0f6081ccf54f31818fe441d374ff7"
+  ],
+  "source_record_ids": [
+    "links-1904"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeb0f6081ccf54f31818fe441d374ff7"
+    ],
+    "source_record_ids": [
+      "links-1904"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeb0f6081ccf54f31818fe441d374ff7",
+          "Plant Name": "Eucalyptus globulus Labill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Eucalyptus globulus Labill.",
+        "source_record_id": "links-1904",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeb0f6081ccf54f31818fe441d374ff7"
+      }
+    ],
+    "source_xplant_id": "eeb0f6081ccf54f31818fe441d374ff7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

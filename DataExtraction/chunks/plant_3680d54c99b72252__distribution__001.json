@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_3680d54c99b72252__distribution__001",
+  "plant_id": "plant_3680d54c99b72252",
+  "plant_name": "Xanthium strumarium Linn.",
+  "botanical_name": "Xanthium indicum",
+  "botanical_authority": "KOEN.",
+  "family": "ASTERACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - KUNDAN K SHARMA & SHIVA SHARMA; distribution: Distribution; title: Title - FLORA OF RAJASTHAN\nDistribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - Harindar Singh and M Sharma; distribution: Distribution; title: Title - Flora of Chamba District (Himachal Pradesh)\nDistribution entry: author: Author - ED. B.D. SHARMA & M.SANJAPPA , N.P. BALAKRISHNAN; distribution: Distribution; title: Title - FLORA OF INDIA VOL 12\nDistribution entry: author: Author - A S Chauhan, K P Singh, D K Singh; distribution: Distribution; title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol II\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - M.Islam; distribution: Distribution; title: Title - Flora of Majuli\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II\nDistribution entry: author: Author - Dr. Narain Singh Chauhan; distribution: Distribution; title: Title - Medicinal and Aromatic Plants of Himachal Pradesh\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183/xclkon/78e6e86a1149baabefd201c66b007d25"
+  ],
+  "source_record_ids": [
+    "links-0167",
+    "links-0372",
+    "links-0862"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183/xclkon/78e6e86a1149baabefd201c66b007d25"
+    ],
+    "source_record_ids": [
+      "links-0167",
+      "links-0372",
+      "links-0862"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183/xclkon/78e6e86a1149baabefd201c66b007d25",
+          "Plant Name": "Xanthium strumarium Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Xanthium strumarium Linn.",
+        "source_record_id": "links-0167",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183/xclkon/78e6e86a1149baabefd201c66b007d25"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183/xclkon/78e6e86a1149baabefd201c66b007d25",
+          "Plant Name": "Xanthium Strumarium Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Xanthium Strumarium Linn.",
+        "source_record_id": "links-0372",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183/xclkon/78e6e86a1149baabefd201c66b007d25"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183/xclkon/78e6e86a1149baabefd201c66b007d25",
+          "Plant Name": "Xanthium strumarium",
+          "Status": "Found"
+        },
+        "source_plant_name": "Xanthium strumarium",
+        "source_record_id": "links-0862",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183/xclkon/78e6e86a1149baabefd201c66b007d25"
+      }
+    ],
+    "source_xplant_id": "a6c4c00d412decc379dffdf3a3f2f183",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

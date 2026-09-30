@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8ee3b8f477ab8631__vernacular_names__001",
+  "plant_id": "plant_8ee3b8f477ab8631",
+  "plant_name": "Helianthus annuus Linn.",
+  "botanical_name": "Helianthus annuus",
+  "botanical_authority": "L.",
+  "family": "ASTERACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): common sunflower\nHindi (7): hurduja, hurhuja, suraj-mukhi, surajmukhi, surij-makkhi, surij-makkhi or surij-mukkhi, surjmukhi\nKannada (7): adityabhakti, aoorya kaanthi hoo, arka pushpa, hothu thirugu hoo, surya kanthi hoovu, surya-kanti-bija, suryakanti\nMalayalam (3): suryakanti, suryappu, suryya-kantam-vitta\nMarathi (8): brahmoka, soorajmaka, soorya kamala, sooryaphula, surajmaka, surya-kamal, surya-phul, suryaphula\nSanskrit (8): Sanskrit CommentsX adityabhakta, arkakantha, sauvarcala, suriamukhi, suryamukhi, suryavarta, suvarcala, suvarchala\nTamil (49): aditya-bhakti-chettu, arukkopalam, atavan, atittiyaparani, attikankam, curiya kanti, curiyakantacceti, curiyakantam, curiyakanti, cutu1, kanti2, kokamantukacceti, kokapantakam, kokapantukam, kolluppanitacceti, kolluppanitam, kotaikantitacceti, kotaikkantitam, muntakanayakacceti, muntakanayakam, nayirutirumpi, nayiruvananki, nerankatti, nerrankatticceti, nontakiri1, nontakiricceti, panippakaicceti, polututirumpi, polututirumpicceti, polutuvananki, putavakanti, putavakanticceti, raviputpam, shuriya-kanti-virai, suriyakanthi, suryakanthi, suryakanti, takanopalam, tanu, tanu@, tanuvankam, tinakaracceti, tinakaran, tivakaram, uroci, urocicceti, vacciravalli 1, vinmani, vinmanicceti\nTelugu (14): aadithya bhakti chettu, aditya-bhakti, aditya-bhakti-chettu, adityabhaktichettu, poddatringudachettu, podduthirugudu chettu, poddutiruguduchettu, proddathringudda chettu, proddutiruguduchettu, sooryakaanthamu, surya kanthi, surya-kanti-vittulu, surya-vartamu, suryakanti\nUrdu (1): azriyun",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2959c0a634d9bf6dc03583e31d9c980"
+  ],
+  "source_record_ids": [
+    "links-0014"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2959c0a634d9bf6dc03583e31d9c980"
+    ],
+    "source_record_ids": [
+      "links-0014"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2959c0a634d9bf6dc03583e31d9c980",
+          "Plant Name": "Helianthus annuus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Helianthus annuus Linn.",
+        "source_record_id": "links-0014",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2959c0a634d9bf6dc03583e31d9c980"
+      }
+    ],
+    "source_xplant_id": "f2959c0a634d9bf6dc03583e31d9c980",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

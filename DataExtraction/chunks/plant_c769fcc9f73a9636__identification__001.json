@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_c769fcc9f73a9636__identification__001",
+  "plant_id": "plant_c769fcc9f73a9636",
+  "plant_name": "Betula utilis D. Don",
+  "botanical_name": "Betula utilis",
+  "botanical_authority": "DON",
+  "family": "BETULACEAE",
+  "section": "identification",
+  "content": "Plant name: Betula utilis D. Don Botanical name: Betula utilis Botanical authority: DON Family: BETULACEAE Source xplant ID: 9caf4bf1850b735cd5190dc76441947c",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c"
+  ],
+  "source_record_ids": [
+    "links-0344",
+    "links-0345"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c"
+    ],
+    "source_record_ids": [
+      "links-0344",
+      "links-0345"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c",
+          "Plant Name": "Betula utilis D. Don",
+          "Status": "Found"
+        },
+        "source_plant_name": "Betula utilis D. Don",
+        "source_record_id": "links-0344",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c",
+          "Plant Name": "Betula utilis D. Don.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Betula utilis D. Don.",
+        "source_record_id": "links-0345",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c"
+      }
+    ],
+    "source_xplant_id": "9caf4bf1850b735cd5190dc76441947c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

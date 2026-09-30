@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_f9cd86ff95ea3f8e__bibliography__001",
+  "plant_id": "plant_f9cd86ff95ea3f8e",
+  "plant_name": "Indigofera oblongifolia Fosk.",
+  "botanical_name": "Indigofera oblongifolia",
+  "botanical_authority": "FORSK.",
+  "family": "FABACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - VAIDYA D.K. KAMAT; title: Title - STUDIES ON MEDICINAL PLANTS IN DHANVANTARIYA NIGHANTU VOL.1\nBibliography entry: title: Title - The Flora of the Gulf of Mannar\nBibliography entry: title: Title - Flora of Rajasthan Vol. 1\nBibliography entry: title: Title - Flora of the Indian Desert\nBibliography entry: title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I\nBibliography entry: title: Title - Flora of Gujarat State Vol 1\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf7163ea7caa26db04597f038c2e5165"
+  ],
+  "source_record_ids": [
+    "links-0527"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf7163ea7caa26db04597f038c2e5165"
+    ],
+    "source_record_ids": [
+      "links-0527"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf7163ea7caa26db04597f038c2e5165",
+          "Plant Name": "Indigofera oblongifolia Fosk.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Indigofera oblongifolia Fosk.",
+        "source_record_id": "links-0527",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf7163ea7caa26db04597f038c2e5165"
+      }
+    ],
+    "source_xplant_id": "bf7163ea7caa26db04597f038c2e5165",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

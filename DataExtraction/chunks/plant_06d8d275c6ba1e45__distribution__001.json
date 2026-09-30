@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_06d8d275c6ba1e45__distribution__001",
+  "plant_id": "plant_06d8d275c6ba1e45",
+  "plant_name": "Maerua arenaria Hook. f. & Th.",
+  "botanical_name": "Maerua oblongifolia",
+  "botanical_authority": "(FORSK.) A.RICH",
+  "family": "CAPPARACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - BSI Scientist; distribution: Distribution; title: Title - Flora of West Bengal Vol 1\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - Botanicaly Survey of India; distribution: Distribution; title: Title - FLORA OF INDIA VOL 2\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899"
+  ],
+  "source_record_ids": [
+    "links-1221",
+    "links-1222",
+    "links-1295",
+    "links-1322"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899"
+    ],
+    "source_record_ids": [
+      "links-1221",
+      "links-1222",
+      "links-1295",
+      "links-1322"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899",
+          "Plant Name": "Maerua arenaria Hook. f. & Th.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Maerua arenaria Hook. f. & Th.",
+        "source_record_id": "links-1221",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899",
+          "Plant Name": "Maerua arenaria Hook.f. and Thoms.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Maerua arenaria Hook.f. and Thoms.",
+        "source_record_id": "links-1222",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899",
+          "Plant Name": "Maerua arenaria Hook.f. and Th.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Maerua arenaria Hook.f. and Th.",
+        "source_record_id": "links-1295",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899",
+          "Plant Name": "Maerua arenaria",
+          "Status": "Found"
+        },
+        "source_plant_name": "Maerua arenaria",
+        "source_record_id": "links-1322",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899"
+      }
+    ],
+    "source_xplant_id": "bc77c2aa87e1ff114f907d3113143778",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

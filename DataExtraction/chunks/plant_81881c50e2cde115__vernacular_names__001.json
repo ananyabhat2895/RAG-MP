@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_81881c50e2cde115__vernacular_names__001",
+  "plant_id": "plant_81881c50e2cde115",
+  "plant_name": "Areca catechu Linn.",
+  "botanical_name": "Areca catechu",
+  "botanical_authority": "L.",
+  "family": "ARECACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): areca nut, betel palm, betelnut, pinang\nHindi (4): supari, supiari, suppari, supyari\nKannada (24): adake, adaki, adike, adike kaayi, adike mara, betta, bettadake, bettadike, bette, chautaki, chikaniyadike, chikke, cikaniyadike, cikke, gotadike, kangu, kaungu, khapura, khhapura, kowngu, puga, pugiphala, tambula, thaamboolagotu\nMalayalam (28): adaka, adakai, adakka, atakka, ataykkamaram, atekka, atekkai, caunga, cavooghoo, chempalukka, cuanga, ghhonta, ghonta, kalunnu, kamugu, kamuka, kamuku, kamunnu, kavungu, kavunnu, kazhangu, kazhunnu, khhapuram, kramukam, pakavakka, pakka, pakku, pugam\nMarathi (7): madi, pophal, pophala, pophali, pung, supaaree, supari\nSanskrit (32): Sanskrit CommentsX a, akota, akotaja, chhataphala, chikkana, dirghapadapa, dridhavalkala, ghonta, gopadala, gubak, guvaka, kabukah, kapitana, karamattam, khapura, khipura, kramuka, kramukah, kramukam, kuvara, phalam, pooga, puga, puga-phalam, pugah, pugi, rajatala, suranjana, tambula, tantusara, udvegam, valkataru\nTamil (65): akotam, ataikkay, cakuntam#, cakuntam@, cakuntikai, cakuntikaimaram, cattamarkkam, ciram 2, curancanam, inippilapatitam, inippilatitamaram, iracatalam, kaiccikam, kaiccikamaram, kalacattiram, kalaymaram, kamugu, kamuku, kandi, kanti, kapuram#, kapuram@, katti, kiramamuki 1, kiramamukimaram, kiramugam, kiramukam, kiramukam#, kiramukam@, kirantimukam, kirumukam, kontai 2, kottai paakku, kottai pakku, kottai-pakku, kugagam, kukacamaram, kukakam, kuntal 2, kuvakam, maturapakam, maturapakamaram, nattukkamuku, paak, pakku, pakkumaram, pakkuppanai, paku-kotai, palacankiyam, palacinikiyamam, piramataru, piramatarucam, pirumaniyam, pugam, pukaram 1, putakam, talattiram, tampulavatanimaram, tantucaram, tantucaramaram, tarpati, taru, tiritavalkam, tuvarkkay, tuvarkkaymaram\nTelugu (18): chikinamu, chikini, gautupoka, kazhangu, khapuramu, kolapoka, kramukamu, oppulu, oppuvakkulu, pakavakka, pogamu, poka, poka chettu, poka-vakka, prakka, pugamu, vakka, vakkalu\nTibetan (6): gla gor zo sa, go yu, kra ma ka (p), kra mra sa, sla bor se sa (d), zu (m) khan\nUrdu (12): chalia jalai hui, chalia purani jalai hai, chalia sokhta, chhalia, chhalia kohna sokhta, chikni chhalia, fufal (chalia), gond supari, gul supari, katha, supari, supari chikni pisi hui",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28342ccb2220a6664e346dc80c25efc4"
+  ],
+  "source_record_ids": [
+    "links-1551"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28342ccb2220a6664e346dc80c25efc4"
+    ],
+    "source_record_ids": [
+      "links-1551"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28342ccb2220a6664e346dc80c25efc4",
+          "Plant Name": "Areca catechu Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Areca catechu Linn.",
+        "source_record_id": "links-1551",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28342ccb2220a6664e346dc80c25efc4"
+      }
+    ],
+    "source_xplant_id": "28342ccb2220a6664e346dc80c25efc4",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_c28c3ad5c2dee987__vernacular_names__001",
+  "plant_id": "plant_c28c3ad5c2dee987",
+  "plant_name": "Mentha arvensis",
+  "botanical_name": "Mentha arvensis",
+  "botanical_authority": "L.",
+  "family": "LAMIACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): field mint, japanese mint\nHindi (5): ban pudina, paudina, podina, pudina, pudinah\nKannada (4): chetamargugu, chetni-marugu, chetnimaragu, chetnimaruga\nMalayalam (3): putina, puttina, puttityana\nMarathi (1): pudina\nSanskrit (2): Sanskrit CommentsX pudina, putiha\nTamil (15): iyeccakkirai, iyeccirkirai, kumarakamuli, potina, potina#, potina@, pudina, pudinah, puthina, putina, putina@, putiyana, putiyanmuli, putiyanputina, yechakkirai\nTelugu (4): igaenglikoora, igaenglikura, pudina, pudinah\nUrdu (9): ab-i-podina, arq nana, nana (pudina), podina, podina khushk, podina khusk, podina taza, pudina, pudinah",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56be43c50319a8a710457bf85835d944"
+  ],
+  "source_record_ids": [
+    "links-1571"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56be43c50319a8a710457bf85835d944"
+    ],
+    "source_record_ids": [
+      "links-1571"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56be43c50319a8a710457bf85835d944",
+          "Plant Name": "Mentha arvensis",
+          "Status": "Found"
+        },
+        "source_plant_name": "Mentha arvensis",
+        "source_record_id": "links-1571",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56be43c50319a8a710457bf85835d944"
+      }
+    ],
+    "source_xplant_id": "56be43c50319a8a710457bf85835d944",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

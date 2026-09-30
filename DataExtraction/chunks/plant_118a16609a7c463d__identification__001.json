@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_118a16609a7c463d__identification__001",
+  "plant_id": "plant_118a16609a7c463d",
+  "plant_name": "Ipomoea sepiaria Koen.",
+  "botanical_name": "Ipomoea sepiaria",
+  "botanical_authority": "ROXB.",
+  "family": "CONVOLVULACEAE",
+  "section": "identification",
+  "content": "Plant name: Ipomoea sepiaria Koen. Botanical name: Ipomoea sepiaria Botanical authority: ROXB. Family: CONVOLVULACEAE Source xplant ID: aa0558d433b5aff8dfc3876a1ea2eee8",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa0558d433b5aff8dfc3876a1ea2eee8"
+  ],
+  "source_record_ids": [
+    "links-1159",
+    "links-1160"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa0558d433b5aff8dfc3876a1ea2eee8"
+    ],
+    "source_record_ids": [
+      "links-1159",
+      "links-1160"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa0558d433b5aff8dfc3876a1ea2eee8",
+          "Plant Name": "Ipomoea sepiaria Koen.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ipomoea sepiaria Koen.",
+        "source_record_id": "links-1159",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa0558d433b5aff8dfc3876a1ea2eee8"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa0558d433b5aff8dfc3876a1ea2eee8",
+          "Plant Name": "Ipomoea sepiaria Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ipomoea sepiaria Roxb.",
+        "source_record_id": "links-1160",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa0558d433b5aff8dfc3876a1ea2eee8"
+      }
+    ],
+    "source_xplant_id": "aa0558d433b5aff8dfc3876a1ea2eee8",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_bc9a759ee06b8786__botanical_synonyms__001",
+  "plant_id": "plant_bc9a759ee06b8786",
+  "plant_name": "Sesbania bispinosa (Jacq.) Fawcett & Rendle",
+  "botanical_name": "Sesbania bispinosa",
+  "botanical_authority": "(JACQ.) W.F. WIGHT var. bispinosa",
+  "family": "FABACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Sesbania aculeata PERS. X Full Botanical citation - Sesbania aculeata (Willd.) Poir. in Lam., Encycl. 7: 128. 1806; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 292. 1999.\nSynonym: Sesbania aculeata PERS.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1a2168748b1d4dc55092c23faac64f70"
+  ],
+  "source_record_ids": [
+    "links-0751"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1a2168748b1d4dc55092c23faac64f70"
+    ],
+    "source_record_ids": [
+      "links-0751"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1a2168748b1d4dc55092c23faac64f70",
+          "Plant Name": "Sesbania bispinosa (Jacq.) Fawcett & Rendle",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesbania bispinosa (Jacq.) Fawcett & Rendle",
+        "source_record_id": "links-0751",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1a2168748b1d4dc55092c23faac64f70"
+      }
+    ],
+    "source_xplant_id": "1a2168748b1d4dc55092c23faac64f70",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

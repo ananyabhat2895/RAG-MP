@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_78885c3fa94e9643__identification__001",
+  "plant_id": "plant_78885c3fa94e9643",
+  "plant_name": "Aristida setacea Retz.,",
+  "botanical_name": "Aristida setacea",
+  "botanical_authority": "RETZ.",
+  "family": "POACEAE",
+  "section": "identification",
+  "content": "Plant name: Aristida setacea Retz., Botanical name: Aristida setacea Botanical authority: RETZ. Family: POACEAE Source xplant ID: 00e9fae090a40b0f651d720a76bb7c49",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00e9fae090a40b0f651d720a76bb7c49"
+  ],
+  "source_record_ids": [
+    "links-0881"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00e9fae090a40b0f651d720a76bb7c49"
+    ],
+    "source_record_ids": [
+      "links-0881"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00e9fae090a40b0f651d720a76bb7c49",
+          "Plant Name": "Aristida setacea Retz.,",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aristida setacea Retz.,",
+        "source_record_id": "links-0881",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00e9fae090a40b0f651d720a76bb7c49"
+      }
+    ],
+    "source_xplant_id": "00e9fae090a40b0f651d720a76bb7c49",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

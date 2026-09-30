@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_92f15ed9e145a075__vernacular_names__002",
+  "plant_id": "plant_92f15ed9e145a075",
+  "plant_name": "Aristolochia bracteata Retz.",
+  "botanical_name": "Aristolochia bracteolata",
+  "botanical_authority": "LAM.",
+  "family": "ARISTOLOCHIACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (201): aadutheendaappaalai, aadutheendapalai, acacirinki, acantintappalai, addatinapalay, adu tinda palai, adu-tinna-palai, adutheenda palai ennai, adutheendapalai, aduthinnappalai, akalamuni, akalikam, ampankippalai, ampatam, ampattai, ampu 1, amputam, ancali 1, ancalippalai, ancalippalaicceti, ancani 1, anceli, ancevi, arkkamulam, arkkapattirai, atalamuli#, atalamuli@, atalamulikkoti, attuccevi, atudintappalai, atutinna-palai-vittu, atutinnalai, atutinnappalai, atutinnavalam, atutinnavelai, atutintappalai, atutintappalai#, atutotamuli, atutotapalai, atutotappalai, atuttintap palai, aveci, aveki, cacala, cakuntaka, cakuntakakkoti, cakuttakam, cakuttam, calika, calikaccunti, camanam, camanam 1, camanappalai, camanappalaikkoti, camankai, camankaippalaikkoti, camanki, camincai, camipattira, campu 1, cancivi 1, catapattira, catapattirakkoti, catapattiram, catapattiri 1, catapattirippalai, cina, cinappalai, cirikai, cirikaimaram, civa 1, civani, civatacam, civatacappalai, civini 2, cumankaippalai, cunkam, cunkampalai, emankalappu, emankarpam, iracai#, iracai@, iranankolli, irulvittucceti, irulvitu, kacikacceti, kacikam, kacirattakkoti, kacirorttam, kacirottam, kaippu, kaippuppalai, kakirattam, kalakaritakkoti, kalakaritam, kantakari, kapaviranahari, karika, karirattam, karttapattiri, karuni, karunni@, karunnikkoti, katirai, katiraippalai, kattariyam, kattiriyam#, kattiriyam@, kentikapalai, kentimaram, kentiparam, kiranayakam, kiranthinayagam, kirinayakam, kirinayakappalai, kirumicatturu, kirumiccatturu, kirumiccatturuppalai, kirumicenam, kirumikkinam, kirumikkolli, kirumikolli, kiruminacaki, kiruminacakicceti, kiruminacappalai, kiruminayakacceti, kiruminayakam, mai, makakali, mayicikki, mesacinki, mesacirunki, metacinki, metacirunki, metacurunki, metaicinki, naippalai, nakari, namakkari, nilappalai 2, pakar, pankampalai, pankampalai 2, pankampalai@, pankani#, pankani@, pankanippalaikkoti, pata, patakam#, patakam@, patakappalai, patalamulam, patalamuli, patila, pattakam, piracinam, piracinappalai, piraroki, pittakippalai, pittar, ponmucuttai, pulukkati, pulukkatikkoti, pulukkolippalai, pulukolli, punnakkolli, putakampam, taittiliyam, taittiliyappalai, taittiyati, taittiyatippalai, tantiri, tattiri, tattirippalai, tiruppi, titarccunti, ulantankolli, ulantankoticceti, vantittal, vantukolli, vantukollippalai, vantuvam, varatcunti#, varatcuntikkoti, vastulappalaikkoti, vattamatakki 2, vattattiruppi 2, vekulankam, vekulankappalai, veruni, viranampokki, viri 2, virippalai, virippalaikkoti, virutcakenti, viruttapanni, viruttappannippalai, vitappati, vitappatikkoti, vitattukkaracan, viyu",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2516c519da6bdf64bc291cd56d62a0eb/xclkon/e73b845a0ee25891129c126cd14bfcb8"
+  ],
+  "source_record_ids": [
+    "links-1059",
+    "links-1600"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2516c519da6bdf64bc291cd56d62a0eb/xclkon/e73b845a0ee25891129c126cd14bfcb8"
+    ],
+    "source_record_ids": [
+      "links-1059",
+      "links-1600"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2516c519da6bdf64bc291cd56d62a0eb/xclkon/e73b845a0ee25891129c126cd14bfcb8",
+          "Plant Name": "Aristolochia bracteata Retz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aristolochia bracteata Retz.",
+        "source_record_id": "links-1059",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2516c519da6bdf64bc291cd56d62a0eb/xclkon/e73b845a0ee25891129c126cd14bfcb8"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2516c519da6bdf64bc291cd56d62a0eb/xclkon/e73b845a0ee25891129c126cd14bfcb8",
+          "Plant Name": "Aristolochia bracteata",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aristolochia bracteata",
+        "source_record_id": "links-1600",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2516c519da6bdf64bc291cd56d62a0eb/xclkon/e73b845a0ee25891129c126cd14bfcb8"
+      }
+    ],
+    "source_xplant_id": "2516c519da6bdf64bc291cd56d62a0eb",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

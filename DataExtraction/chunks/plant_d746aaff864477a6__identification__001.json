@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d746aaff864477a6__identification__001",
+  "plant_id": "plant_d746aaff864477a6",
+  "plant_name": "Sesamum prostratum",
+  "botanical_name": "Sesamum prostratum",
+  "botanical_authority": "RETZ.",
+  "family": "PEDALIACEAE",
+  "section": "identification",
+  "content": "Plant name: Sesamum prostratum Botanical name: Sesamum prostratum Botanical authority: RETZ. Family: PEDALIACEAE Source xplant ID: d12e52421386bad107d4d18701b43845",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d12e52421386bad107d4d18701b43845"
+  ],
+  "source_record_ids": [
+    "links-1944"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d12e52421386bad107d4d18701b43845"
+    ],
+    "source_record_ids": [
+      "links-1944"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d12e52421386bad107d4d18701b43845",
+          "Plant Name": "Sesamum prostratum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesamum prostratum",
+        "source_record_id": "links-1944",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d12e52421386bad107d4d18701b43845"
+      }
+    ],
+    "source_xplant_id": "d12e52421386bad107d4d18701b43845",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2d3729fd01ea3220__bibliography__001",
+  "plant_id": "plant_2d3729fd01ea3220",
+  "plant_name": "Cymbopogon citratus (DC.) Stapf",
+  "botanical_name": "Cymbopogon citratus",
+  "botanical_authority": "(DC.) STAPF.",
+  "family": "POACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - ANONYMOUS; title: Title - ASTANGA HRIDAYA KOSHA\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: title: Title - FLORA OF ASSAM\nBibliography entry: title: Title - Flora of Rajasthan Vol. 3",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/680b54af38ebb9a062b90efb81313fe5"
+  ],
+  "source_record_ids": [
+    "links-0761"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/680b54af38ebb9a062b90efb81313fe5"
+    ],
+    "source_record_ids": [
+      "links-0761"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/680b54af38ebb9a062b90efb81313fe5",
+          "Plant Name": "Cymbopogon citratus (DC.) Stapf",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cymbopogon citratus (DC.) Stapf",
+        "source_record_id": "links-0761",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/680b54af38ebb9a062b90efb81313fe5"
+      }
+    ],
+    "source_xplant_id": "680b54af38ebb9a062b90efb81313fe5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

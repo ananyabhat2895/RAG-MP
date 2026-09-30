@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_96d3e62ee8386639__systems_of_medicine__001",
+  "plant_id": "plant_96d3e62ee8386639",
+  "plant_name": "Setaria glauca Beauv.",
+  "botanical_name": "Setaria glauca",
+  "botanical_authority": "BEAUV",
+  "family": "POACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6db18b5cccaf1ed83f8ba600f049b4a"
+  ],
+  "source_record_ids": [
+    "links-2080"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6db18b5cccaf1ed83f8ba600f049b4a"
+    ],
+    "source_record_ids": [
+      "links-2080"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6db18b5cccaf1ed83f8ba600f049b4a",
+          "Plant Name": "Setaria glauca Beauv.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Setaria glauca Beauv.",
+        "source_record_id": "links-2080",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6db18b5cccaf1ed83f8ba600f049b4a"
+      }
+    ],
+    "source_xplant_id": "b6db18b5cccaf1ed83f8ba600f049b4a",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_81c5240de5fc15b7__distribution__001",
+  "plant_id": "plant_81c5240de5fc15b7",
+  "plant_name": "Pandanus tectorius Soland. ex Parkinson.",
+  "botanical_name": "Pandanus fascicularis",
+  "botanical_authority": "LAM.",
+  "family": "PANDANACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - HARIDASAN K & RAO R R; distribution: Distribution; title: Title - FOREST FLORA OF MEGHALAYA VOL 2\nDistribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 3\nDistribution entry: author: Author - Ed B D Sharma, S Karthikeyan, N P Singh; distribution: Distribution; title: Title - Flora of Maharashrta State (Monocotyledons)\nDistribution entry: author: Author - K.M. Matthew; distribution: Distribution; title: Title - The Flora of the Palni Hills Vol-3\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL2\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL III(MONOCOTS)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f/xclkon/2d069fa55240aae0a906977f2a26e8d5"
+  ],
+  "source_record_ids": [
+    "links-1028"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f/xclkon/2d069fa55240aae0a906977f2a26e8d5"
+    ],
+    "source_record_ids": [
+      "links-1028"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f/xclkon/2d069fa55240aae0a906977f2a26e8d5",
+          "Plant Name": "Pandanus tectorius Soland. ex Parkinson.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Pandanus tectorius Soland. ex Parkinson.",
+        "source_record_id": "links-1028",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f/xclkon/2d069fa55240aae0a906977f2a26e8d5"
+      }
+    ],
+    "source_xplant_id": "32cdafdc0cbbd3417dd00e715e6d596f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

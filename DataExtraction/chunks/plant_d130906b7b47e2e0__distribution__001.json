@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_d130906b7b47e2e0__distribution__001",
+  "plant_id": "plant_d130906b7b47e2e0",
+  "plant_name": "Embelia ribes Burm.",
+  "botanical_name": "Embelia ribes",
+  "botanical_authority": "BURM.F.",
+  "family": "MYRSINACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - A S Chauhan, K P Singh, D K Singh; distribution: Distribution; title: Title - A Contribution to the Flora of Namdapha Arunachal Pradesh\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - HARIDASAN K & RAO R R; distribution: Distribution; title: Title - FOREST FLORA OF MEGHALAYA VOL 2\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - N.P.Balakrishnan; distribution: Distribution; title: Title - Flora of Jowai Vol.I\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885"
+  ],
+  "source_record_ids": [
+    "links-2087",
+    "links-2088"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885"
+    ],
+    "source_record_ids": [
+      "links-2087",
+      "links-2088"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885",
+          "Plant Name": "Embelia ribes Burm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Embelia ribes Burm.",
+        "source_record_id": "links-2087",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885",
+          "Plant Name": "Embelia ribes Burm.f.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Embelia ribes Burm.f.",
+        "source_record_id": "links-2088",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885"
+      }
+    ],
+    "source_xplant_id": "ef3d02489c5b96418e218dcefab7e885",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

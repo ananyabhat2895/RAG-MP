@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_125d54ed4090a78b__vernacular_names__001",
+  "plant_id": "plant_125d54ed4090a78b",
+  "plant_name": "Cocos nucifera Linn.",
+  "botanical_name": "Cocos nucifera",
+  "botanical_authority": "L.",
+  "family": "ARECACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): coconut palm, copra, nariel, porcupine wood\nHindi (10): kanchli, naral, narel, nariel, nariyal, nariyal-ka-ped, nariyal-ka-per, nariyalkaper, nariyel, sriphal\nKannada (23): gitaka, gitaku, kinghena, kobari, kobbari, kurube, matte, naarikela, narikela, narikera, siyala, tare, tengina, tengina-gida, tenginakayi, tenginamara, tengu, thengina, thengu, thenpinna, tigini, trynaraja, yeleneeru mara\nMalayalam (17): centennu, chentennu, chocham, cocam, karikku, kulittai, langalam, nalikeram, nalugiram, narikelam, ten, tenga, tenna, tenna-maram, tennu, thenga, thengu\nMarathi (18): maad, mad, mada, mahaad, mahad, mar, naaral, narachajhada, naral, naralchajhada, naralmad, narea, narel, narela, narula, tenginmar, thenginmar, varala\nSanskrit (59): Sanskrit CommentsX dakshinatriya, daksinatya, daksinatyaka, deerghavraksha, drdhaphala, dridaphala, dridhanira, duraruha, garikera, jataphala, junga, karakambha, kaushikaphala, kurcasirsaka, kurchashekhara, kurchashirshaka, langali, langalin, mahaphala, mangalya, mriduphala, mutkuna, nadikeli, nalikela, nalikera, nari-kela, nari-keli, nari-kera, narikari, narikela, narikelah, narikelaphalam, narikelavrksah, narikera, nilataru, payodhara, phalakeshara, phalamunda, putodaka, rajapiluh, rasaphala, rasayana-taru, sadaphala, sadapushpa, shiraphala, skandhaphala, subhanga, sutanga, toyagarbha, tranaraj, tranaraja, trinaraja, tryakshaphala, tryambakaphala, tunga, u, uchhataru, varaphala, vishvamitrapriya",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeebd0ff22ec7f2d48b7194212dcf0f7"
+  ],
+  "source_record_ids": [
+    "links-1388"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeebd0ff22ec7f2d48b7194212dcf0f7"
+    ],
+    "source_record_ids": [
+      "links-1388"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeebd0ff22ec7f2d48b7194212dcf0f7",
+          "Plant Name": "Cocos nucifera Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cocos nucifera Linn.",
+        "source_record_id": "links-1388",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeebd0ff22ec7f2d48b7194212dcf0f7"
+      }
+    ],
+    "source_xplant_id": "eeebd0ff22ec7f2d48b7194212dcf0f7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

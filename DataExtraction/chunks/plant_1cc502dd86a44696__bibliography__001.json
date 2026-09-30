@@ -1,0 +1,93 @@
+{
+  "chunk_id": "plant_1cc502dd86a44696__bibliography__001",
+  "plant_id": "plant_1cc502dd86a44696",
+  "plant_name": "Sesbania sesban (Linn.) Merr.",
+  "botanical_name": "Sesbania sesban",
+  "botanical_authority": "(L.) MERR.",
+  "family": "FABACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - MOODEEN SHERIFF; title: Title - A CATALOGUE OF INDIAN SYNONYMS\nBibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - LATE DR.K.M.NADKARNI & A.K.NADKARNI; title: Title - INDIAN MATERIA MEDICA, FIRST EDITION 1908, 3RD EDITION 1954\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: title: Title - Flora of Rajasthan Vol. 1\nBibliography entry: title: Title - The Flora of Orissa Volume 1\nBibliography entry: title: Title - Flora of Maharashrta State (Dicotyledons) Volume 1\nBibliography entry: title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16"
+  ],
+  "source_record_ids": [
+    "links-0783",
+    "links-0784",
+    "links-0785",
+    "links-0786",
+    "links-0787"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16"
+    ],
+    "source_record_ids": [
+      "links-0783",
+      "links-0784",
+      "links-0785",
+      "links-0786",
+      "links-0787"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16",
+          "Plant Name": "Sesbania sesban (Linn.) Merr.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesbania sesban (Linn.) Merr.",
+        "source_record_id": "links-0783",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16",
+          "Plant Name": "Sesbania sesban Merrill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesbania sesban Merrill.",
+        "source_record_id": "links-0784",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16",
+          "Plant Name": "Sesbania sesban Merrill. Var. Bicolor W. & A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesbania sesban Merrill. Var. Bicolor W. & A.",
+        "source_record_id": "links-0785",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16",
+          "Plant Name": "Sesbania sesban Merrill. Var. Picta Prain",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesbania sesban Merrill. Var. Picta Prain",
+        "source_record_id": "links-0786",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16",
+          "Plant Name": "Sesbania sesban Merrill. Var. Typica Prain",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sesbania sesban Merrill. Var. Typica Prain",
+        "source_record_id": "links-0787",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16"
+      }
+    ],
+    "source_xplant_id": "84f35349cc3375441fa3f0ee125fee16",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

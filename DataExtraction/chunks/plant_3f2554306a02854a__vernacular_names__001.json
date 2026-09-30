@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_3f2554306a02854a__vernacular_names__001",
+  "plant_id": "plant_3f2554306a02854a",
+  "plant_name": "Soymida febrifuga A. Juss.",
+  "botanical_name": "Soymida febrifuga",
+  "botanical_authority": "(ROXB.) A.JUSS.",
+  "family": "MELIACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): bastard cedar, indian redwood\nHindi (8): rakatrohan, roham, rohan, rohin, rohn, rohun, rohunna, royan\nKannada (18): kalgarige, kalkarige, kemmara, kora mara, limbaara mara, maamsa rohini, navilu mettu, ronero, sanna kainka, sombi, some, some mara, somida, sumbi, svami, swami, swami mara, swami-mara\nMarathi (3): guhin-ruhina, potar, ruhin\nSanskrit (22): Sanskrit CommentsX agniruha, atiruha, carmakasa, chandravallabha, charmakasha, kashamansi, lomakarani, mahamansi, mamsarohini, mansa-rohini, mansarohi, patranga, praharavalli, rasayani, rohini, rohuna, suloma, vasa, vikasha, viravati, vritta, zurna\nTamil (30): cataputpilinapam, cataputpinai, cem2, cemmaram, centumi, centumimaram, civappumaram1, comatanam, comimaram, cumi#, cumi@, curakkalli, ekinam1, ekkiyakumari, sem, semmaram, shem-maram, shemmaram, shemmarum, somadanam, sombu, sombupattai, sumi, surakkali, tatimapattirakam, uccittanci, uccittancimaram, vadamalaichekku, vandu, vantu\nTelugu (26): cevamanu, cheramaanu, cheva manu, cheva-manu, chevamanu, sami, sevamaanu, sevamanu, soimida, somi, somida, somida chettu, somida maanu, somida-manu, somidamanu, somidi, somili, somitha, somithi, somiti, soomee, soomi, soymida, soymidi, sumi, summi\nTibetan (1): ma ndza ro hi ni\nUrdu (1): rohan",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d1c44e2d233abc3e05fb6a63084cd5f"
+  ],
+  "source_record_ids": [
+    "links-1242"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d1c44e2d233abc3e05fb6a63084cd5f"
+    ],
+    "source_record_ids": [
+      "links-1242"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d1c44e2d233abc3e05fb6a63084cd5f",
+          "Plant Name": "Soymida febrifuga A. Juss.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Soymida febrifuga A. Juss.",
+        "source_record_id": "links-1242",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d1c44e2d233abc3e05fb6a63084cd5f"
+      }
+    ],
+    "source_xplant_id": "9d1c44e2d233abc3e05fb6a63084cd5f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

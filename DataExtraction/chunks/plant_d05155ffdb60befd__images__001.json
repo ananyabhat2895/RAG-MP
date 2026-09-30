@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d05155ffdb60befd__images__001",
+  "plant_id": "plant_d05155ffdb60befd",
+  "plant_name": "Clerodendrum infortunatum Linn.",
+  "botanical_name": "Clerodendrum infortunatum",
+  "botanical_authority": "L.",
+  "family": "VERBENACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61aca8af9e2ff47571e7f3a376edc7b7"
+  ],
+  "source_record_ids": [
+    "links-0300"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61aca8af9e2ff47571e7f3a376edc7b7"
+    ],
+    "source_record_ids": [
+      "links-0300"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61aca8af9e2ff47571e7f3a376edc7b7",
+          "Plant Name": "Clerodendrum infortunatum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clerodendrum infortunatum Linn.",
+        "source_record_id": "links-0300",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61aca8af9e2ff47571e7f3a376edc7b7"
+      }
+    ],
+    "source_xplant_id": "61aca8af9e2ff47571e7f3a376edc7b7",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

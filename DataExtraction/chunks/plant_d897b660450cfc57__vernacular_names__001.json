@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_d897b660450cfc57__vernacular_names__001",
+  "plant_id": "plant_d897b660450cfc57",
+  "plant_name": "Taraxacum officinale Weber ex Wiggers.",
+  "botanical_name": "Taraxacum officinale",
+  "botanical_authority": "WIGGERS",
+  "family": "ASTERACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): dandelion, pissabed, priests-crown, telltime\nHindi (12): baran, dudal, dudh-batthal, dudhal, dudhali, dudhee, dudhi, dudli, dugchipheni, kanphul, karatu, shamuke\nKannada (5): daandelain hoo, kaadu shaavanthi, kaadushaavanthi, kadusevanti, mullu moolangi\nMalayalam (1): dugddhapheni\nMarathi (2): bhathur, un dara chakaan\nSanskrit (3): Sanskrit CommentsX dugdhapheni, lootari, payasvini\nTelugu (1): patri",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2956190e7980e0334b6a89f146d99e11"
+  ],
+  "source_record_ids": [
+    "links-0538",
+    "links-0539"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2956190e7980e0334b6a89f146d99e11"
+    ],
+    "source_record_ids": [
+      "links-0538",
+      "links-0539"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2956190e7980e0334b6a89f146d99e11",
+          "Plant Name": "Taraxacum officinale Weber ex Wiggers.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Taraxacum officinale Weber ex Wiggers.",
+        "source_record_id": "links-0538",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2956190e7980e0334b6a89f146d99e11"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2956190e7980e0334b6a89f146d99e11",
+          "Plant Name": "Taraxacum officinale Weber.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Taraxacum officinale Weber.",
+        "source_record_id": "links-0539",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2956190e7980e0334b6a89f146d99e11"
+      }
+    ],
+    "source_xplant_id": "2956190e7980e0334b6a89f146d99e11",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

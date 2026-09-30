@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_0676c36b8b2c5b0b__systems_of_medicine__001",
+  "plant_id": "plant_0676c36b8b2c5b0b",
+  "plant_name": "Berberis aristata DC.",
+  "botanical_name": "Berberis aristata",
+  "botanical_authority": "DC.",
+  "family": "BERBERIDACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1685daa1d81056ff688084cfe23825e9"
+  ],
+  "source_record_ids": [
+    "links-0490"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1685daa1d81056ff688084cfe23825e9"
+    ],
+    "source_record_ids": [
+      "links-0490"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1685daa1d81056ff688084cfe23825e9",
+          "Plant Name": "Berberis aristata DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Berberis aristata DC.",
+        "source_record_id": "links-0490",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1685daa1d81056ff688084cfe23825e9"
+      }
+    ],
+    "source_xplant_id": "1685daa1d81056ff688084cfe23825e9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

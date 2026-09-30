@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_f9cd86ff95ea3f8e__systems_of_medicine__001",
+  "plant_id": "plant_f9cd86ff95ea3f8e",
+  "plant_name": "Indigofera oblongifolia Fosk.",
+  "botanical_name": "Indigofera oblongifolia",
+  "botanical_authority": "FORSK.",
+  "family": "FABACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk Botanical Synonyms (1) - Indigofera paucifolia DELILE X Full Botanical citation - Indigofera paucifolia Delile\nSystem of medicine: Fl. Egypt. 107\nSystem of medicine: t. 37\nSystem of medicine: f. 2. 1813; P.K.Hajra & al.\nSystem of medicine: Fasicles of Flora of India\nSystem of medicine: Fascicle 21\nSystem of medicine: BSI\nSystem of medicine: 108. 1995.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf7163ea7caa26db04597f038c2e5165"
+  ],
+  "source_record_ids": [
+    "links-0527"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf7163ea7caa26db04597f038c2e5165"
+    ],
+    "source_record_ids": [
+      "links-0527"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf7163ea7caa26db04597f038c2e5165",
+          "Plant Name": "Indigofera oblongifolia Fosk.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Indigofera oblongifolia Fosk.",
+        "source_record_id": "links-0527",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf7163ea7caa26db04597f038c2e5165"
+      }
+    ],
+    "source_xplant_id": "bf7163ea7caa26db04597f038c2e5165",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

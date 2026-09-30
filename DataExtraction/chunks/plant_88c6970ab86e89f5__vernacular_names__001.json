@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_88c6970ab86e89f5__vernacular_names__001",
+  "plant_id": "plant_88c6970ab86e89f5",
+  "plant_name": "Saccharum officinarum Linn.",
+  "botanical_name": "Saccharum officinarum",
+  "botanical_authority": "L.",
+  "family": "POACEAE",
+  "section": "vernacular_names",
+  "content": "English (2): sugar cane, uba cane\nHindi (16): eekh, ekh, ganna, hantho, hanttha, ikh, kumad, naishakar, paunda, pundia, pundiya, rikhu, santtha, uk, ukh, ukhas\nKannada (32): abbe, baragu, ikshu, ikshu kaanda, ikshudada, ikshudanda, iksu, ingolu, kabbu, kantaara, kantara, kantaraka, karimbu, karmbu, khabbu, khabu, lekhini hullu, madhura, mara kabbu, marakabbu, mashura kaanda, munigida, munji, nala, pattapatli kabbu, pundra, rasadali, rasala, rasathaale, rastale, tanigarbu, trynaraja\nMalayalam (12): darbhekshu, darbheshu, ikshu, kantarakam, karimba, karimbu, karimpu, karinpa, madhutrinam, madhutrynam, vellakarimpu, vellakkarimpu\nMarathi (7): aos, kabbo, oomsa, sheradi, us, usa, uus\nSanskrit (52): Sanskrit CommentsX adhipatra, asipatra, bahurasa, bahurasah, bhurirasa, dirgacchada, dirghachhada, gandidi, gandiri, guda, gudada, gudadaru, gudakashtha, gudamula, gudatrina, gura, ikshu, ikshuhu, ikshura, iksu, iksuh, kanguruku, kantara, kantaraka, karkotaka, khadgapatraka, koshakara, madhutrina, madhutrna, madhuyashti, maharasa, matsyandi, morata, mrityupushpa, paundraka, payodhara, poundrakeksu, pundra, pundraka, pundrakah, rasala, rasalah, rasalu, rusala, sarkara, sastra, soma, sukumasaka, trinadhiya, vansha, vipularasa, vrishya\nTamil (98): acipattirakam, acipattiram, acipattiri, akipattiram, akkaram, alai 2, angarigai, ankalakai, ankarikai, anniyam, aracal, asibattiragam, carkkarai, carukkaraikkatikam, cini, connaciram, cornacirakam#, cornacirakam$, cornam, cornam 1, icciyoni, ikatu, ikkavam, ikkiragan, ikku, ikkucamattattai, ir, iracalam 1, iracikam 1, iram, irukkippalai, kalai, kalunti, kamai, kan 2, kanai, kanku 3, kannal, karimpu, karkacam, karkantu, karkkotakam, karumbu, karumpu, karumpu vellam, karunairavi, karuppancaru, karuppuvil, kavancam, kocakaram, konavirutcam, madudirunam, matirunam, matitiranam, matiyikka, maturacam 2, maturakam 4, matutirumanam, matutirunam, matuttirunam, mikku, miruttiputpam, miruttiruvattam, miruttiyaputpam, miruttiyuppiracunam, miruttiyuppiracuttam, miruttiyupuspam, miruttiyuputpam, nattu carukkarai, oritcu, palcanti, paruvayoni, pavuntirkam, payotaram, punarpucam, pundaram, sakkara, tamool nulla vellum, tumpi 2, ukkirakantam 2, ukkirakentai, ukkirakentam, vekuntam, vekuracam, vekuracattattai, vel, velai, velam 1, veli 1, velirukaiccilai, vellum, venkuntu, ventu, venukicam, vey, vilai, vipularacam, vipularacan",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36028586e0b75e3ae8f04a7d5ba70f81"
+  ],
+  "source_record_ids": [
+    "links-0727"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36028586e0b75e3ae8f04a7d5ba70f81"
+    ],
+    "source_record_ids": [
+      "links-0727"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36028586e0b75e3ae8f04a7d5ba70f81",
+          "Plant Name": "Saccharum officinarum Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Saccharum officinarum Linn.",
+        "source_record_id": "links-0727",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36028586e0b75e3ae8f04a7d5ba70f81"
+      }
+    ],
+    "source_xplant_id": "36028586e0b75e3ae8f04a7d5ba70f81",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

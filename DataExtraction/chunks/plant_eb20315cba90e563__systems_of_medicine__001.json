@@ -1,0 +1,56 @@
+{
+  "chunk_id": "plant_eb20315cba90e563__systems_of_medicine__001",
+  "plant_id": "plant_eb20315cba90e563",
+  "plant_name": "Ipomoea digitata Linn.",
+  "botanical_name": "Ipomoea mauritiana",
+  "botanical_authority": "JACQ.",
+  "family": "CONVOLVULACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (3) - Convolvulus paniculatus L. Ipomoea digitata L. Ipomoea paniculata (L.) R.BR.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/637fda7ad883b696da4f83dfbb28faad",
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/47f5ace321b1ada6084eee82a017716f"
+  ],
+  "source_record_ids": [
+    "links-2095",
+    "links-2096"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/637fda7ad883b696da4f83dfbb28faad",
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/47f5ace321b1ada6084eee82a017716f"
+    ],
+    "source_record_ids": [
+      "links-2095",
+      "links-2096"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/637fda7ad883b696da4f83dfbb28faad",
+          "Plant Name": "Ipomoea digitata Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ipomoea digitata Linn.",
+        "source_record_id": "links-2095",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/637fda7ad883b696da4f83dfbb28faad"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/47f5ace321b1ada6084eee82a017716f",
+          "Plant Name": "Ipomoea paniculata R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ipomoea paniculata R. Br.",
+        "source_record_id": "links-2096",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/47f5ace321b1ada6084eee82a017716f"
+      }
+    ],
+    "source_xplant_id": "0eea12e18ef517673797af576487de00",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

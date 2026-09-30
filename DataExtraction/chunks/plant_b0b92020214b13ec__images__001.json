@@ -1,0 +1,93 @@
+{
+  "chunk_id": "plant_b0b92020214b13ec__images__001",
+  "plant_id": "plant_b0b92020214b13ec",
+  "plant_name": "Citrullus vulgaris Schrad. Var. fistulosus (Stocks",
+  "botanical_name": "Citrullus lanatus",
+  "botanical_authority": "(THUNB.) MATSUMARA & NAKAI",
+  "family": "CUCURBITACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896"
+  ],
+  "source_record_ids": [
+    "links-0528",
+    "links-0875",
+    "links-0876",
+    "links-1955",
+    "links-1956"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896"
+    ],
+    "source_record_ids": [
+      "links-0528",
+      "links-0875",
+      "links-0876",
+      "links-1955",
+      "links-1956"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896",
+          "Plant Name": "Citrullus vulgaris Schrad. Var. fistulosus (Stocks",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrullus vulgaris Schrad. Var. fistulosus (Stocks",
+        "source_record_id": "links-0528",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896",
+          "Plant Name": "Citrullus vulgaris Schard.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrullus vulgaris Schard.",
+        "source_record_id": "links-0875",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896",
+          "Plant Name": "Citrullus vulgaris Schrad.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrullus vulgaris Schrad.",
+        "source_record_id": "links-0876",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896",
+          "Plant Name": "Citrullus vulgaris var. fistulosus (Stocks) D F",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrullus vulgaris var. fistulosus (Stocks) D F",
+        "source_record_id": "links-1955",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896",
+          "Plant Name": "Citrullus vulgaris var. fistulosus (Stocks)Duthie",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrullus vulgaris var. fistulosus (Stocks)Duthie",
+        "source_record_id": "links-1956",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896"
+      }
+    ],
+    "source_xplant_id": "fedcd0fee4b5331cc829d963e3211312",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_5582bfd0e7054e99__distribution__001",
+  "plant_id": "plant_5582bfd0e7054e99",
+  "plant_name": "Delonix elata",
+  "botanical_name": "Delonix elata",
+  "botanical_authority": "(L.) GAMBLE",
+  "family": "CAESALPINIACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - B.V.Shetty & V.Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol. 1\nDistribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff72525a4cbfadacf5864e7e479eae0f"
+  ],
+  "source_record_ids": [
+    "links-1788"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff72525a4cbfadacf5864e7e479eae0f"
+    ],
+    "source_record_ids": [
+      "links-1788"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff72525a4cbfadacf5864e7e479eae0f",
+          "Plant Name": "Delonix elata",
+          "Status": "Found"
+        },
+        "source_plant_name": "Delonix elata",
+        "source_record_id": "links-1788",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff72525a4cbfadacf5864e7e479eae0f"
+      }
+    ],
+    "source_xplant_id": "ff72525a4cbfadacf5864e7e479eae0f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

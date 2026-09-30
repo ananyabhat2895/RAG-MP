@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_de07c08b9bf5986f__bibliography__001",
+  "plant_id": "plant_de07c08b9bf5986f",
+  "plant_name": "Zingiber officinale Rosc.",
+  "botanical_name": "Zingiber officinale",
+  "botanical_authority": "ROSC.",
+  "family": "ZINGIBERACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - WHITELAW AINSLIE; title: Title - MATERIA INDICA\nBibliography entry: title: Title - The Flora of the Palni Hills Vol-3\nBibliography entry: title: Title - Flora of Tons Valley (Uttaranchal)\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL2\nBibliography entry: title: Title - The Flora of Orissa Vol III",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eea249cc0c04f6bb9bcc35a8ab92f"
+  ],
+  "source_record_ids": [
+    "links-1870",
+    "links-1871"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eea249cc0c04f6bb9bcc35a8ab92f"
+    ],
+    "source_record_ids": [
+      "links-1870",
+      "links-1871"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eea249cc0c04f6bb9bcc35a8ab92f",
+          "Plant Name": "Zingiber officinale Rosc.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Zingiber officinale Rosc.",
+        "source_record_id": "links-1870",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eea249cc0c04f6bb9bcc35a8ab92f"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eea249cc0c04f6bb9bcc35a8ab92f",
+          "Plant Name": "Zingiber officinale Roscoe",
+          "Status": "Found"
+        },
+        "source_plant_name": "Zingiber officinale Roscoe",
+        "source_record_id": "links-1871",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eea249cc0c04f6bb9bcc35a8ab92f"
+      }
+    ],
+    "source_xplant_id": "694eea249cc0c04f6bb9bcc35a8ab92f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

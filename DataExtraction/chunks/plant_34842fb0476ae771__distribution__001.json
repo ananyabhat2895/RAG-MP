@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_34842fb0476ae771__distribution__001",
+  "plant_id": "plant_34842fb0476ae771",
+  "plant_name": "Justicia procumbens Linn.",
+  "botanical_name": "Justicia procumbens",
+  "botanical_authority": "L.",
+  "family": "ACANTHACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - B.V.Shetty & V. Singh; distribution: Distribution; title: Title - Flora of Rajasthan Vol.2\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - Mudgal, Khanna,Hajra; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol. II\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/482ec2e8fa12c967dd3f7f2df646a992"
+  ],
+  "source_record_ids": [
+    "links-1455"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/482ec2e8fa12c967dd3f7f2df646a992"
+    ],
+    "source_record_ids": [
+      "links-1455"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/482ec2e8fa12c967dd3f7f2df646a992",
+          "Plant Name": "Justicia procumbens Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Justicia procumbens Linn.",
+        "source_record_id": "links-1455",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/482ec2e8fa12c967dd3f7f2df646a992"
+      }
+    ],
+    "source_xplant_id": "482ec2e8fa12c967dd3f7f2df646a992",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

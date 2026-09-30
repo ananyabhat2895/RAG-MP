@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_d93259475bfefab3__vernacular_names__003",
+  "plant_id": "plant_d93259475bfefab3",
+  "plant_name": "Bambusa arundinacea Retz.",
+  "botanical_name": "Bambusa arundinacea",
+  "botanical_authority": "WILLD.",
+  "family": "BAMBUSACEAE",
+  "section": "vernacular_names",
+  "content": "Telugu (21): bonga, bongu, bongu veduru, bonguveduru, kichakamu, madusuveduru, maskaramu, moolkasha, mudusu veduru, mudusuveduru, mulla veduru, mullu veduru, mulluveduru, pentivedaru, pentiveduru, pottuvaeduru, trinadhvajamu, vederuppu, veduru, vedurubeam, veduruppu\nUrdu (11): bamslochan, bans, bans ki jar ka koila, bansa, bansalochan, banslochan, banslochan charcoal, banslochan saida, bikh nay sokhta, tabasheer, tabashir",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1b3bf4ab82b51c86164353d81c0b5d6"
+  ],
+  "source_record_ids": [
+    "links-0279",
+    "links-2044"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1b3bf4ab82b51c86164353d81c0b5d6"
+    ],
+    "source_record_ids": [
+      "links-0279",
+      "links-2044"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1b3bf4ab82b51c86164353d81c0b5d6",
+          "Plant Name": "Bambusa arundinacea Retz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bambusa arundinacea Retz.",
+        "source_record_id": "links-0279",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1b3bf4ab82b51c86164353d81c0b5d6"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1b3bf4ab82b51c86164353d81c0b5d6",
+          "Plant Name": "Bambusa arundinacea Willd.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Bambusa arundinacea Willd.",
+        "source_record_id": "links-2044",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1b3bf4ab82b51c86164353d81c0b5d6"
+      }
+    ],
+    "source_xplant_id": "c1b3bf4ab82b51c86164353d81c0b5d6",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

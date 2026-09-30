@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d4226a33e6233d23__vernacular_names__001",
+  "plant_id": "plant_d4226a33e6233d23",
+  "plant_name": "Caesalpinia sepiaria Roxb.",
+  "botanical_name": "Caesalpinia decapetala",
+  "botanical_authority": "(ROTH) ALSTON.",
+  "family": "CAESALPINIACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): mysore thorn\nHindi (15): aila, alai, arlu, bara durghar, kanderi, kando, karanj, karanj/alai, kilgach, kingan, ralan, relan, relu, uri, urn\nKannada (21): gajalige, gajalike, gajalikke, gajilikke, gajjiga, gundugajjiga, hotasige, hotsige, hunnula, hunnulla, kencige, kenjige, kundugajjikai, kurudu gejjuga, kurudugajjida, kurudugajjiga, kurudugajjige, kuruttugajjigai, kurutugajjika, unalla, undla\nMalayalam (2): inga, inna\nMarathi (5): chilhar, chillara, chillari, chillur, kilgach\nSanskrit (1): Sanskrit CommentsX karanjika\nTamil (32): cakkarakarakam, cakkirakarakam#, cakkirakarakam@, cakkirakarakkoti, cakkirakaram1, ikai, ikkai, indu, inku2, intai2, intu, intu3, iraittu, iraittumakkoti, iraittumam, iyacceti, iyai, iyakkoti, kadiyindu, karacam, puli tatukki, pulitadukki, pulitatukki, pulithaduki-kodi, pulitotakki 2, pulittodakki, pulittotakki, puliyukili, putthadukki, totali2, totari, uppili\nTelugu (5): gaddakorinda, gilo, goodda-korinda, gooddakorinda, grevdra",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f7f5562ed1a34a34febb67dcf71dcc2/xclkon/34f2e77100164f496560eeae41089196"
+  ],
+  "source_record_ids": [
+    "links-0946"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f7f5562ed1a34a34febb67dcf71dcc2/xclkon/34f2e77100164f496560eeae41089196"
+    ],
+    "source_record_ids": [
+      "links-0946"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f7f5562ed1a34a34febb67dcf71dcc2/xclkon/34f2e77100164f496560eeae41089196",
+          "Plant Name": "Caesalpinia sepiaria Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Caesalpinia sepiaria Roxb.",
+        "source_record_id": "links-0946",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f7f5562ed1a34a34febb67dcf71dcc2/xclkon/34f2e77100164f496560eeae41089196"
+      }
+    ],
+    "source_xplant_id": "6f7f5562ed1a34a34febb67dcf71dcc2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

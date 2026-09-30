@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_daf30a14f9c7a46b__identification__001",
+  "plant_id": "plant_daf30a14f9c7a46b",
+  "plant_name": "Leea aequata Linn.",
+  "botanical_name": "Leea aequata",
+  "botanical_authority": "L.",
+  "family": "LEEACEAE",
+  "section": "identification",
+  "content": "Plant name: Leea aequata Linn. Botanical name: Leea aequata Botanical authority: L. Family: LEEACEAE Source xplant ID: d2ca687e3aa5c4746a78a057aa3f6e75",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2ca687e3aa5c4746a78a057aa3f6e75"
+  ],
+  "source_record_ids": [
+    "links-0840"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2ca687e3aa5c4746a78a057aa3f6e75"
+    ],
+    "source_record_ids": [
+      "links-0840"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2ca687e3aa5c4746a78a057aa3f6e75",
+          "Plant Name": "Leea aequata Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Leea aequata Linn.",
+        "source_record_id": "links-0840",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2ca687e3aa5c4746a78a057aa3f6e75"
+      }
+    ],
+    "source_xplant_id": "d2ca687e3aa5c4746a78a057aa3f6e75",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

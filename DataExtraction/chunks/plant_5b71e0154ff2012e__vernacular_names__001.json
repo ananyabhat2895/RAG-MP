@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_5b71e0154ff2012e__vernacular_names__001",
+  "plant_id": "plant_5b71e0154ff2012e",
+  "plant_name": "Casearia tomentosa Roxb.",
+  "botanical_name": "Casearia elliptica",
+  "botanical_authority": "WILLD.",
+  "family": "FLACOURTIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (8): chilata, chilla, chillak, goela, gotlu, mojal, monja, pimpla\nKannada (11): bili ubbina, chillaka, hanchey, hanice, haniche, hanise, hillangi, hlingi, kadiche, konje, modagi\nMalayalam (7): anakkarana, anavananni, anavinga, annakara, tsjerou-kanneli, vaparkonne, vappunnakannan\nMarathi (11): bedsi, bogara, chilla, kal-karai, karei, lainja, lenga, lenjo, massei, modgi, modi\nSanskrit (1): Sanskrit CommentsX kampillaka\nTamil (5): kadichai, kakoli 2, katiccai, kottukkovai, kutti 1\nTelugu (24): chalakasavara, chilaka duddi, chilaka dudduga, chilakaya, gamgudu, gidugam, gidugudu, gidugum, gilagudu, gilugudu, girugudu, gurugudu, kaalamisvari, kaalmaesara, kaami mosara, kalamesara, kalamisvari, kamimesara, kanmesaram, men, pisiki, vasanga, veska, wasa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/855cacf1cd7c24c69d828c7fd975a7c0/xclkon/cd7ca48b2a823acbff062b3ae76fd0b2"
+  ],
+  "source_record_ids": [
+    "links-0684",
+    "links-0884"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/855cacf1cd7c24c69d828c7fd975a7c0/xclkon/cd7ca48b2a823acbff062b3ae76fd0b2"
+    ],
+    "source_record_ids": [
+      "links-0684",
+      "links-0884"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/855cacf1cd7c24c69d828c7fd975a7c0/xclkon/cd7ca48b2a823acbff062b3ae76fd0b2",
+          "Plant Name": "Casearia tomentosa Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Casearia tomentosa Roxb.",
+        "source_record_id": "links-0684",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/855cacf1cd7c24c69d828c7fd975a7c0/xclkon/cd7ca48b2a823acbff062b3ae76fd0b2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/855cacf1cd7c24c69d828c7fd975a7c0/xclkon/cd7ca48b2a823acbff062b3ae76fd0b2",
+          "Plant Name": "Casearia tomentosa",
+          "Status": "Found"
+        },
+        "source_plant_name": "Casearia tomentosa",
+        "source_record_id": "links-0884",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/855cacf1cd7c24c69d828c7fd975a7c0/xclkon/cd7ca48b2a823acbff062b3ae76fd0b2"
+      }
+    ],
+    "source_xplant_id": "855cacf1cd7c24c69d828c7fd975a7c0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

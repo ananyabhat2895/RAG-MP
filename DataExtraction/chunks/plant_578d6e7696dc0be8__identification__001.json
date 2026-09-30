@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_578d6e7696dc0be8__identification__001",
+  "plant_id": "plant_578d6e7696dc0be8",
+  "plant_name": "Euphorbia nivulia",
+  "botanical_name": "Euphorbia nivulia",
+  "botanical_authority": "BUCH.-HAM.",
+  "family": "EUPHORBIACEAE",
+  "section": "identification",
+  "content": "Plant name: Euphorbia nivulia Botanical name: Euphorbia nivulia Botanical authority: BUCH.-HAM. Family: EUPHORBIACEAE Source xplant ID: e43878eaf24531c77e3a4e6193e262b2",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e43878eaf24531c77e3a4e6193e262b2"
+  ],
+  "source_record_ids": [
+    "links-0013",
+    "links-1822"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e43878eaf24531c77e3a4e6193e262b2"
+    ],
+    "source_record_ids": [
+      "links-0013",
+      "links-1822"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e43878eaf24531c77e3a4e6193e262b2",
+          "Plant Name": "Euphorbia nivulia",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia nivulia",
+        "source_record_id": "links-0013",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e43878eaf24531c77e3a4e6193e262b2"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e43878eaf24531c77e3a4e6193e262b2",
+          "Plant Name": "Euphorbia nivulia Buch-Ham",
+          "Status": "Found"
+        },
+        "source_plant_name": "Euphorbia nivulia Buch-Ham",
+        "source_record_id": "links-1822",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e43878eaf24531c77e3a4e6193e262b2"
+      }
+    ],
+    "source_xplant_id": "e43878eaf24531c77e3a4e6193e262b2",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

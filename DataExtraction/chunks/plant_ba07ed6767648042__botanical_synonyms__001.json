@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_ba07ed6767648042__botanical_synonyms__001",
+  "plant_id": "plant_ba07ed6767648042",
+  "plant_name": "Cymbopogon Jwarancusa Schult.",
+  "botanical_name": "Cymbopogon jwarancusa",
+  "botanical_authority": "(JONES) SCHULT.",
+  "family": "POACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Andropogon jwarancusa JONES X Full Botanical citation - Andropogon jwarancusa Jones in Asiat. Res. 4: 109. 1795; R.D.Gaur, Fl. Dist. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 655. 1999. Andropogon laniger DUTHIE NON DESF.\nSynonym: Andropogon jwarancusa JONES\nSynonym: Andropogon laniger DUTHIE NON DESF.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d19704d7822e4938d3d96660f76e7ddd"
+  ],
+  "source_record_ids": [
+    "links-1015",
+    "links-1862"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d19704d7822e4938d3d96660f76e7ddd"
+    ],
+    "source_record_ids": [
+      "links-1015",
+      "links-1862"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d19704d7822e4938d3d96660f76e7ddd",
+          "Plant Name": "Cymbopogon Jwarancusa Schult.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cymbopogon Jwarancusa Schult.",
+        "source_record_id": "links-1015",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d19704d7822e4938d3d96660f76e7ddd"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d19704d7822e4938d3d96660f76e7ddd",
+          "Plant Name": "Cymbopogon jwarancusa Schult.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cymbopogon jwarancusa Schult.",
+        "source_record_id": "links-1862",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d19704d7822e4938d3d96660f76e7ddd"
+      }
+    ],
+    "source_xplant_id": "d19704d7822e4938d3d96660f76e7ddd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

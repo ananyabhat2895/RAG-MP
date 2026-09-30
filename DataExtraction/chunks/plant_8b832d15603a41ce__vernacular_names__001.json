@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8b832d15603a41ce__vernacular_names__001",
+  "plant_id": "plant_8b832d15603a41ce",
+  "plant_name": "Woodfordia fruticosa Kurz.",
+  "botanical_name": "Woodfordia fruticosa",
+  "botanical_authority": "(L.) KURZ",
+  "family": "LYTHRACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (30): ban-mahendi, dauri, davi, dawe, dawi, dha, dhai, dhamin, dhan, dhan-phal, dhati, dhau, dhaula, dhaulu, dhaura, dhauta, dhavdi, dhawa, dhawai, dhawi, dhawin, dhawla, dhay, dhayad, dhayat, dhayati, dhewtiesantha, tavi, thawi, veeru dhayad\nKannada (8): are, are hoo, bela, daathakee kusumka, kempu kumusalu, taamra pushpi, tamrapushpi, tamrapuspi\nMalayalam (4): tamrapushpi, tatire, tatiri, tatirippu\nMarathi (14): daayatti, datyatti, dhaavas, dhaiphal, dhaiti, dhauri, dhavri, dhavti, dhayati, dhazatichi, phulsati, phulsatti, phusati, pulsathi\nSanskrit (32): Sanskrit CommentsX agnijvala, agnivala, ani, bahupushpika, dhataki, dhatripushpika, dhatupushpi, dhatupuspa, dhauri, dhav, guchhapushpi, kumuda, kunjara, mada, madakara, madaniyahetu, madaniyahetuh, madhavasini, madyapushpa, parvati, rodhrapushpini, sanghapushpi, sidhupushpi, subhiksa, subhiksha, tamrapushpi, tamrapuspi, tivrajvala, vahnijawala, vahnijvala, vanhipushpi, vanhishikha\nTamil (15): acamantam, cirincippu, dhathari-jargi, dhattari, jargi, kaattaaththippoo, kattaddi, kattatti, kuccuputpam, malaiyatti, peyatti, pushpam, tatari, thathari, velakkai\nTelugu (37): are puvvu, bala, chiranji, dhaarhupushpika, dhaathaki, dhataki, dhatupushpika, errapurvu, gaddapisinika, gaddapisinike, gaddapisiniki, gaji, gedda putika, godaari, godari, goddri, jaaji, jagi, jagu, jaji, jajiyaku, jargi, jeguru, kerani, kodara, pagadam, reyyamaanu, reyyamanu, reyyipappu, seringi, seringir, serinji, sirinji, sirinjie, tellamanu, thellamaanu, velakkai\nTibetan (2): dha-ta-ke, me tog da ta ki\nUrdu (2): gul dhawa, gul ghawa",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe4e9d9a910ad9264ff9819d1c103904"
+  ],
+  "source_record_ids": [
+    "links-0515"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe4e9d9a910ad9264ff9819d1c103904"
+    ],
+    "source_record_ids": [
+      "links-0515"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe4e9d9a910ad9264ff9819d1c103904",
+          "Plant Name": "Woodfordia fruticosa Kurz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Woodfordia fruticosa Kurz.",
+        "source_record_id": "links-0515",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe4e9d9a910ad9264ff9819d1c103904"
+      }
+    ],
+    "source_xplant_id": "fe4e9d9a910ad9264ff9819d1c103904",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

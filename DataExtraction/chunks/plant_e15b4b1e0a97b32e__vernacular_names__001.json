@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_e15b4b1e0a97b32e__vernacular_names__001",
+  "plant_id": "plant_e15b4b1e0a97b32e",
+  "plant_name": "Cymbopogon martini (Roxb.) Wats",
+  "botanical_name": "Cymbopogon martini",
+  "botanical_authority": "(ROXB.) WATS",
+  "family": "POACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): ginger grass, palma-rosa, rusha grass\nHindi (12): gandhabel, gandhej-ghas, makora, merchya, mirchagandh, motio, piriya ghas, rousa-ka-aitr, rousa-ka-tel, rusa, rusa ghas, rusha\nKannada (21): anche hullu, anchi hullu, anchit hullu, bhootika hullu, bili dodda, chatta hullu, chippu hullu, kaachi hullu, kaachihullu, kaashi hullu, kaashihullu, kaasi hullu, kaavancha, kachi gedde, kachi kaddi, kasavre hullu, kasi hullu, kunthi hullu, maarvali hullu, nanj hullu, nase hullu\nMalayalam (1): sambharappullu\nMarathi (4): kusatan, rhus sugandhi, roshsagavath, rusha\nSanskrit (6): Sanskrit CommentsX bhustrina, bhustrnam, dhyamakah, mulatrina, rohisa, rohisah\nTamil (16): cukkunarippul 1, cunnarippul, curaippul, kacattampul, kaippuppul, kamakshapullu, kamaksippul, kannam pillu, kannam pullu, kavattam pul, kavattampillu, kavattampul 1, kavattan pullu, kavattan-pillu, mantappul, munkilpul\nTelugu (5): kachi gaddi, kamachi-kassuvu, kanchi, kashy gaddi, nimma gaddi\nTibetan (3): bu sra ni, bu sri na (p), li ga dur",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418"
+  ],
+  "source_record_ids": [
+    "links-1643",
+    "links-1644"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418"
+    ],
+    "source_record_ids": [
+      "links-1643",
+      "links-1644"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418",
+          "Plant Name": "Cymbopogon martini (Roxb.) Wats",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cymbopogon martini (Roxb.) Wats",
+        "source_record_id": "links-1643",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418",
+          "Plant Name": "Cymbopogon martini (Roxb.) Wats.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cymbopogon martini (Roxb.) Wats.",
+        "source_record_id": "links-1644",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418"
+      }
+    ],
+    "source_xplant_id": "edab2a314693f3a25a21f493e238a418",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

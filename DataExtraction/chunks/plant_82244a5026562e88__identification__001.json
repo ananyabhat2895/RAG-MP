@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_82244a5026562e88__identification__001",
+  "plant_id": "plant_82244a5026562e88",
+  "plant_name": "Blumea erientha DC.",
+  "botanical_name": "Blumea erientha",
+  "botanical_authority": "DC.",
+  "family": "ASTERACEAE",
+  "section": "identification",
+  "content": "Plant name: Blumea erientha DC. Botanical name: Blumea erientha Botanical authority: DC. Family: ASTERACEAE Source xplant ID: c8eeeb1edbe893dac52c8d6adeb9bc15",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8eeeb1edbe893dac52c8d6adeb9bc15"
+  ],
+  "source_record_ids": [
+    "links-1102"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8eeeb1edbe893dac52c8d6adeb9bc15"
+    ],
+    "source_record_ids": [
+      "links-1102"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8eeeb1edbe893dac52c8d6adeb9bc15",
+          "Plant Name": "Blumea erientha DC.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Blumea erientha DC.",
+        "source_record_id": "links-1102",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8eeeb1edbe893dac52c8d6adeb9bc15"
+      }
+    ],
+    "source_xplant_id": "c8eeeb1edbe893dac52c8d6adeb9bc15",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

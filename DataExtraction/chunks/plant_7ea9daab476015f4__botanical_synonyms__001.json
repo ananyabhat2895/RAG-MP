@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_7ea9daab476015f4__botanical_synonyms__001",
+  "plant_id": "plant_7ea9daab476015f4",
+  "plant_name": "Morus indica",
+  "botanical_name": "Morus australis",
+  "botanical_authority": "POIRET",
+  "family": "MORACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Morus indica L. X Full Botanical citation - Morus indica auct. non L.; sensu Hook.f. in Fl. Brit. India 5: 492. 1888; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 94. 1999.\nSynonym: Morus indica L.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42706b8c53e9046dc41149cd7267bb68/xclkon/905561313057d630b76bea3a474f74dd"
+  ],
+  "source_record_ids": [
+    "links-1073",
+    "links-1989"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42706b8c53e9046dc41149cd7267bb68/xclkon/905561313057d630b76bea3a474f74dd"
+    ],
+    "source_record_ids": [
+      "links-1073",
+      "links-1989"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42706b8c53e9046dc41149cd7267bb68/xclkon/905561313057d630b76bea3a474f74dd",
+          "Plant Name": "Morus indica",
+          "Status": "Found"
+        },
+        "source_plant_name": "Morus indica",
+        "source_record_id": "links-1073",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42706b8c53e9046dc41149cd7267bb68/xclkon/905561313057d630b76bea3a474f74dd"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42706b8c53e9046dc41149cd7267bb68/xclkon/905561313057d630b76bea3a474f74dd",
+          "Plant Name": "Morus indica Griff.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Morus indica Griff.",
+        "source_record_id": "links-1989",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42706b8c53e9046dc41149cd7267bb68/xclkon/905561313057d630b76bea3a474f74dd"
+      }
+    ],
+    "source_xplant_id": "42706b8c53e9046dc41149cd7267bb68",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_3ffa5fec4cd97f87__distribution__001",
+  "plant_id": "plant_3ffa5fec4cd97f87",
+  "plant_name": "Vigna mungo ( Linn) Hepper. Var. viridis",
+  "botanical_name": "Vigna mungo",
+  "botanical_authority": "(L.) HEPPER",
+  "family": "FABACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - D.M.Verma, N.P.Balakrishnan, R.D.Dixit; distribution: Distribution; title: Title - Flora of Madhya Pradesh Vol I\nDistribution entry: author: Author - H. O. Saxena, M. Brahmam; distribution: Distribution; title: Title - The Flora of Orissa Volume 1\nDistribution entry: author: Author - Bhandari M.M; distribution: Distribution; title: Title - Flora of the Indian Desert\nDistribution entry: author: Author - D.B. DEB; distribution: Distribution; title: Title - FLORA OF TRIPURA STATE VOL1\nDistribution entry: author: Author - H.J.chowdhery & B.M.Wadhwa; distribution: Distribution; title: Title - Flora of Himachal Pradesh Vol I\nDistribution entry: author: Author - K.M. MATTHEW; distribution: Distribution; title: Title - THE FLORA OF THE TAMILNADU CARNATIC-VOL I\nDistribution entry: author: Author - C.J. SALDHANA.; distribution: Distribution; title: Title - FLORA OF KARNATAKA VOL-1\nDistribution entry: author: Author - T.S.Rana, Bhaskar Datt & R.R.Rao; distribution: Distribution; title: Title - Flora of Tons Valley (Uttaranchal)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079"
+  ],
+  "source_record_ids": [
+    "links-1259",
+    "links-1260",
+    "links-1261"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079"
+    ],
+    "source_record_ids": [
+      "links-1259",
+      "links-1260",
+      "links-1261"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079",
+          "Plant Name": "Vigna mungo ( Linn) Hepper. Var. viridis",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vigna mungo ( Linn) Hepper. Var. viridis",
+        "source_record_id": "links-1259",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079",
+          "Plant Name": "Vigna mungo (Linn) Hepper.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vigna mungo (Linn) Hepper.",
+        "source_record_id": "links-1260",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079",
+          "Plant Name": "Vigna mungo (Linn) Hepper. Var mungo",
+          "Status": "Found"
+        },
+        "source_plant_name": "Vigna mungo (Linn) Hepper. Var mungo",
+        "source_record_id": "links-1261",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079"
+      }
+    ],
+    "source_xplant_id": "b1f8104caf3cd03763188a39cf068079",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

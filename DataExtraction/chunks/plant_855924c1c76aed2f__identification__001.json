@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_855924c1c76aed2f__identification__001",
+  "plant_id": "plant_855924c1c76aed2f",
+  "plant_name": "Rhododendron arboreum Sm.",
+  "botanical_name": "Rhododendron arboreum",
+  "botanical_authority": "SM.",
+  "family": "ERICACEAE",
+  "section": "identification",
+  "content": "Plant name: Rhododendron arboreum Sm. Botanical name: Rhododendron arboreum Botanical authority: SM. Family: ERICACEAE Source xplant ID: 79a47e638b287f45442a85aad8cde8c0",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/79a47e638b287f45442a85aad8cde8c0"
+  ],
+  "source_record_ids": [
+    "links-1130",
+    "links-1552"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/79a47e638b287f45442a85aad8cde8c0"
+    ],
+    "source_record_ids": [
+      "links-1130",
+      "links-1552"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/79a47e638b287f45442a85aad8cde8c0",
+          "Plant Name": "Rhododendron arboreum Sm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rhododendron arboreum Sm.",
+        "source_record_id": "links-1130",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/79a47e638b287f45442a85aad8cde8c0"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/79a47e638b287f45442a85aad8cde8c0",
+          "Plant Name": "Rhododendron arboreum sm.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rhododendron arboreum sm.",
+        "source_record_id": "links-1552",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/79a47e638b287f45442a85aad8cde8c0"
+      }
+    ],
+    "source_xplant_id": "79a47e638b287f45442a85aad8cde8c0",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

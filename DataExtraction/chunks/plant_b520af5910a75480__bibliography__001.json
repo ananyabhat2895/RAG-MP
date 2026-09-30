@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_b520af5910a75480__bibliography__001",
+  "plant_id": "plant_b520af5910a75480",
+  "plant_name": "Citrus maxima (Burm.) Merr",
+  "botanical_name": "Citrus grandis",
+  "botanical_authority": "(L.) OSBECK",
+  "family": "RUTACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: title: Title - FLORA OF ASSAM\nBibliography entry: title: Title - Flora of West Bengal Vol 1\nBibliography entry: title: Title - FLORA OF TRIPURA STATE VOL1\nBibliography entry: title: Title - The Flora of Kerala Vol I\nBibliography entry: title: Title - Flora of Madhya Pradesh Vol I",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f573ddc157ef1da57ccdbebe5a49d0f/xclkon/582cbedbf7c2787de1cd8959ec4040ad"
+  ],
+  "source_record_ids": [
+    "links-1214",
+    "links-1266"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f573ddc157ef1da57ccdbebe5a49d0f/xclkon/582cbedbf7c2787de1cd8959ec4040ad"
+    ],
+    "source_record_ids": [
+      "links-1214",
+      "links-1266"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f573ddc157ef1da57ccdbebe5a49d0f/xclkon/582cbedbf7c2787de1cd8959ec4040ad",
+          "Plant Name": "Citrus maxima (Burm.) Merr",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrus maxima (Burm.) Merr",
+        "source_record_id": "links-1214",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f573ddc157ef1da57ccdbebe5a49d0f/xclkon/582cbedbf7c2787de1cd8959ec4040ad"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f573ddc157ef1da57ccdbebe5a49d0f/xclkon/582cbedbf7c2787de1cd8959ec4040ad",
+          "Plant Name": "Citrus maxima",
+          "Status": "Found"
+        },
+        "source_plant_name": "Citrus maxima",
+        "source_record_id": "links-1266",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f573ddc157ef1da57ccdbebe5a49d0f/xclkon/582cbedbf7c2787de1cd8959ec4040ad"
+      }
+    ],
+    "source_xplant_id": "5f573ddc157ef1da57ccdbebe5a49d0f",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

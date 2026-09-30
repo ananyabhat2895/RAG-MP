@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_43ae76e838df8580__systems_of_medicine__001",
+  "plant_id": "plant_43ae76e838df8580",
+  "plant_name": "Smilax ovalifolia Roxb.",
+  "botanical_name": "Smilax ovalifolia",
+  "botanical_authority": "ROXB.",
+  "family": "SMILACACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Folk Botanical Synonyms (1) - Smilax macrophylla ROXB.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5bbd21c68d6600161b35db289954851"
+  ],
+  "source_record_ids": [
+    "links-0467"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5bbd21c68d6600161b35db289954851"
+    ],
+    "source_record_ids": [
+      "links-0467"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5bbd21c68d6600161b35db289954851",
+          "Plant Name": "Smilax ovalifolia Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Smilax ovalifolia Roxb.",
+        "source_record_id": "links-0467",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5bbd21c68d6600161b35db289954851"
+      }
+    ],
+    "source_xplant_id": "c5bbd21c68d6600161b35db289954851",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

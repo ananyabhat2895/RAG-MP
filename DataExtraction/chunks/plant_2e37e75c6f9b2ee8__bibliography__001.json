@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_2e37e75c6f9b2ee8__bibliography__001",
+  "plant_id": "plant_2e37e75c6f9b2ee8",
+  "plant_name": "Cinnamomum zeylanicum",
+  "botanical_name": "Cinnamomum verum",
+  "botanical_authority": "PRESL",
+  "family": "LAURACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - GEORGE WATT; title: Title - A DICTIONARY OF THE ECONOMIC PRODUCTS OF INDIA VOL.I - 4\nBibliography entry: author: Author - DR.P.N.V.KURUP, DR.V.N.K.RAMADAS & JOSHI,P; title: Title - A HANDBOOK OF MEDICINAL PLANTS\nBibliography entry: author: Author - ANONYMOUS; title: Title - ASTANGA HRIDAYA KOSHA\nBibliography entry: author: Author - PROF. P.V. SHARMA; title: Title - DRAVYAGUNA VIGNANA VOL.2,5,5N\nBibliography entry: author: Author - N.S. MOOSS; title: Title - GANAS OF VAHATA\nBibliography entry: author: Author - THAKUR BALWANT SINGH & DR. K.C.CHUNEKAR; title: Title - GLOSSARY OF VEGETABLE DRUGS IN BRHTTRAYI\nBibliography entry: author: Author - K.R. KIRTIKAR, B.D. BASU & AN I.C.S.; title: Title - INDIAN MEDICINAL PLANTS Vol 1 -4\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - MUKERJI,B; title: Title - INDIAN PHARMACEUTICAL CODEX VOL.I\nBibliography entry: author: Author - ALIX RAISON; title: Title - LA-HARITA SAMHITA\nBibliography entry: author: Author - WHITELAW AINSLIE; title: Title - MATERIA INDICA\nBibliography entry: author: Author - BAPALAL G. VAIDYA; title: Title - NIGHANTU ADARSA VOL. I & II\nBibliography entry: author: Author - DR. BAPLAL VAIDYA; title: Title - SOME CONTROVERSIAL DRUGS OF INDIA\nBibliography entry: author: Author - Ministry of Health & family Welfare; title: Title - THE AYURVEDIC FORMULARY OF INDIA PART 1. FIRST EDITION\nBibliography entry: author: Author - ANONYMOUS; title: Title - THE AYURVEDIC PHARMACOPOEIA OF INDIA PART 1. VOL.1\nBibliography entry: title: Title - The Flora of Orissa Vol III\nBibliography entry: title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757"
+  ],
+  "source_record_ids": [
+    "links-2008",
+    "links-2009",
+    "links-2010",
+    "links-2057"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757"
+    ],
+    "source_record_ids": [
+      "links-2008",
+      "links-2009",
+      "links-2010",
+      "links-2057"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757",
+          "Plant Name": "Cinnamomum zeylanicum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum zeylanicum",
+        "source_record_id": "links-2008",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757",
+          "Plant Name": "Cinnamomum zeylanicum Blume",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum zeylanicum Blume",
+        "source_record_id": "links-2009",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757",
+          "Plant Name": "Cinnamomum zeylanicum Breyn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum zeylanicum Breyn.",
+        "source_record_id": "links-2010",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757",
+          "Plant Name": "Cinnamomum zeylanicum Blume.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cinnamomum zeylanicum Blume.",
+        "source_record_id": "links-2057",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757"
+      }
+    ],
+    "source_xplant_id": "c28e0da32f82e38f233cc690e98d4788",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

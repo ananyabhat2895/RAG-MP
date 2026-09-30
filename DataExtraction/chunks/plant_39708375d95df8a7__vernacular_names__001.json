@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_39708375d95df8a7__vernacular_names__001",
+  "plant_id": "plant_39708375d95df8a7",
+  "plant_name": "Hibiscus abelmoschus Linn.",
+  "botanical_name": "Abelmoschus moschatus",
+  "botanical_authority": "MEDIK.",
+  "family": "MALVACEAE",
+  "section": "vernacular_names",
+  "content": "English (1): ambrette\nHindi (10): bhinda, jangli bhenda, jangli-bhendi, kasturi-dana, mushk-dana, mushk-danah, mushkdana, muskadana, nagdau, nagdau bhenda\nKannada (5): kaadu kastoori, kadu-kasturi, kasthoori bende, kasturibende, kasturi bende\nMalayalam (6): cattu-gasturi, kasturi-venta-vitta, kasturiventa, kattakasturi, kattu-kasturi, kattukasturi\nMarathi (6): kalo-bhendo, kasthooribhenda, kasturi-bhendo, kasturibhenda, kattakasturi, muskadaana\nSanskrit (8): Sanskrit CommentsX gandapura, katuka, katukahvaya, katuphalam, latakasturi, latakasturika, latakasturikam, zatakasturika\nTamil (32): acirapattirakam, cimai ventaikkay, cimaiventaikkay, cimaiventi, irattakattutti, kaattu kasturi, kalakatturi, kantukasthuri, kasturi ventai, kasturi-vendaik-kay-virai, kasturivendai, kasturivendaik-kayvirai, kasturiventai, kattu kasturi, kattu ventaikkay, kattu-k-kasturi, kattuk-kasturi, kattukkasturi, kattukkatturi, kattupparutti, kattupparutti 1, katturiventai, kattuventaikkay, latakasturikam, pettakattutti, pon umattai, pottakatturi, pottakattutti, varttilaikasthuri, vattilai-kasturi, verrilaikasturi, verrilaikkasturi\nTelugu (8): karpoorabenda, karpurabenda, karpuri-benda, kasthoori benda, kasturi-benda-vittulu, kasturibenda, kasturibenda-vittulu, nelabenda\nUrdu (1): mushkdana",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ec3070af3c6e21d7cf6cf4ebd3c61b1/xclkon/0df6612050fc9893fe521b521be38f95"
+  ],
+  "source_record_ids": [
+    "links-1176"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ec3070af3c6e21d7cf6cf4ebd3c61b1/xclkon/0df6612050fc9893fe521b521be38f95"
+    ],
+    "source_record_ids": [
+      "links-1176"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ec3070af3c6e21d7cf6cf4ebd3c61b1/xclkon/0df6612050fc9893fe521b521be38f95",
+          "Plant Name": "Hibiscus abelmoschus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hibiscus abelmoschus Linn.",
+        "source_record_id": "links-1176",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ec3070af3c6e21d7cf6cf4ebd3c61b1/xclkon/0df6612050fc9893fe521b521be38f95"
+      }
+    ],
+    "source_xplant_id": "5ec3070af3c6e21d7cf6cf4ebd3c61b1",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

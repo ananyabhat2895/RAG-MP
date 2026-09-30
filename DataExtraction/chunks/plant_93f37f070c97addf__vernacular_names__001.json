@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_93f37f070c97addf__vernacular_names__001",
+  "plant_id": "plant_93f37f070c97addf",
+  "plant_name": "Setaria italica Beauv.",
+  "botanical_name": "Setaria italica",
+  "botanical_authority": "(L.) BEAUV",
+  "family": "POACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): foxtail millet, german millet, hungarian or italian millet, millet spray\nHindi (16): bertia, chena, kakni, kakun, kalakangni, kamguni, kang, kanghuni, kangni, kangu, kangui, kauni, kirakang, kirang, koni, samak\nKannada (13): aarike, bilikorla-hollu, kaango akki, kingo-gida, kongu, naoni, navanaklu, navane, navaneakki, navani, priyangi thene, raia, vavani\nMalayalam (6): navana, tauna, tena, tenayari, tenna, tina\nMarathi (12): bhadle, chena, kaang, kamg, kang, kangni, kangu, raala, raale, rala, rale, samve\nSanskrit (14): Sanskrit CommentsX chinaka, dhanyapriyangu, kangaka, kangu, kanguh, kanguka, kanguni, kangunika, kanku, pitatandula, priyangu, priyanguka, shyamaka, syamaka\nTamil (32): alaitticam, cai, caivankam, cakattiram, celumaipiri, ceyamakam, cinattaniyam, cittirattantulam, elan, enal, enam@, irati, kakkaram1, kanakavirutti, kanku, kankur, karcepam, mancaltinai, niriyam, paintinai, pantupocanam, pontukatinai, tenai, tennai, tenney, thinai, tinai, tinaiyarici, tinnai, tirutti, titti, uttanam1\nTelugu (6): kanguni, kora, koralu, korra, korralu, nakka-korra\nTibetan (1): khre",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d"
+  ],
+  "source_record_ids": [
+    "links-0902",
+    "links-0903",
+    "links-1546"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d"
+    ],
+    "source_record_ids": [
+      "links-0902",
+      "links-0903",
+      "links-1546"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d",
+          "Plant Name": "Setaria italica Beauv.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Setaria italica Beauv.",
+        "source_record_id": "links-0902",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d",
+          "Plant Name": "Setaria italica Linn. Beauv.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Setaria italica Linn. Beauv.",
+        "source_record_id": "links-0903",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d",
+          "Plant Name": "Setaria italica",
+          "Status": "Found"
+        },
+        "source_plant_name": "Setaria italica",
+        "source_record_id": "links-1546",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d"
+      }
+    ],
+    "source_xplant_id": "531a08f076a25952ab592dbcd554bd1d",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

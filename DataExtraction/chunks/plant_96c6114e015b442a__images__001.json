@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_96c6114e015b442a__images__001",
+  "plant_id": "plant_96c6114e015b442a",
+  "plant_name": "Rotula Aquatica Lour.",
+  "botanical_name": "Rotula aquatica",
+  "botanical_authority": "LOUR.",
+  "family": "BORAGINACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2abdd6edd47dc6b62102a91c16bf1cd"
+  ],
+  "source_record_ids": [
+    "links-1483",
+    "links-1484"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2abdd6edd47dc6b62102a91c16bf1cd"
+    ],
+    "source_record_ids": [
+      "links-1483",
+      "links-1484"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2abdd6edd47dc6b62102a91c16bf1cd",
+          "Plant Name": "Rotula Aquatica Lour.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rotula Aquatica Lour.",
+        "source_record_id": "links-1483",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2abdd6edd47dc6b62102a91c16bf1cd"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2abdd6edd47dc6b62102a91c16bf1cd",
+          "Plant Name": "Rotula aquatica Lour.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rotula aquatica Lour.",
+        "source_record_id": "links-1484",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2abdd6edd47dc6b62102a91c16bf1cd"
+      }
+    ],
+    "source_xplant_id": "d2abdd6edd47dc6b62102a91c16bf1cd",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

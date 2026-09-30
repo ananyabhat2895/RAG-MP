@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_9222ff31cb9b5136__vernacular_names__001",
+  "plant_id": "plant_9222ff31cb9b5136",
+  "plant_name": "Clitoria ternatea Linn.",
+  "botanical_name": "Clitoria ternatea",
+  "botanical_authority": "L.",
+  "family": "FABACEAE",
+  "section": "vernacular_names",
+  "content": "English (4): blue pea, blue vine, butter pea, butterfly pea\nHindi (16): aparajit, aparajita, aparjit, aprajita, gokarni, kajina, kalina, kalizer, kava-thenthi, kavathenthi, khagin, khagtu, kowa, koyalri, shobanjan, wowatheti\nKannada (14): dhintina, giri karnike, girikarniballi, girikarnikaballi, girikarnike, kantisoppu, karnikay, sanka, sankhapushpaballi, satuga, shanka, shankapushpa, shankhapushpa, shankhapushpi\nMalayalam (15): aral, kaka-valli, kakkanamkoti, malayamukki, samkhupuspam, sankapushpam, sankhankuppi, sankhapushpam, sankhupuspam, schanga-cuspi, shankapuspam, shankhankuppi, shankhapushpam, shlongokuspi, shunkoopushpa\nMarathi (10): gokaran, gokarana, gokarni, gokarni suphali, gokurna, gokurna-mula, kajili, kajli, sholonga, supli\nSanskrit (43): Sanskrit CommentsX ajita, andrikarni, aparajita, aparaka, aprajita, ashphota, ashvakshurardikarni, asphota, bhadra, bhumilagna, garani, gardabhi, gavadini, gavakshi, girikanya, girikarnika, girishalini, gokarna, gokarna-mul, gokarnika, katabhi, khurne, kinihi, nagaparyayakarni, neela-gheriekurnee, nilaghiria, nilagirikarni, romavalli, sankhapushpi, sankhapuspi, sankhini, shankhapushpi, shveta, shvetavarata, sinhapushpi, sitapushpa, supushpi, suputri, sveta, vishnu-kranta, vishnukantri, vishnukranta, vishnukranti",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1d8e02df612f312645b458c36c89b1c"
+  ],
+  "source_record_ids": [
+    "links-0199",
+    "links-0225"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1d8e02df612f312645b458c36c89b1c"
+    ],
+    "source_record_ids": [
+      "links-0199",
+      "links-0225"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1d8e02df612f312645b458c36c89b1c",
+          "Plant Name": "Clitoria ternatea Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clitoria ternatea Linn.",
+        "source_record_id": "links-0199",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1d8e02df612f312645b458c36c89b1c"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1d8e02df612f312645b458c36c89b1c",
+          "Plant Name": "Clitoria ternatea",
+          "Status": "Found"
+        },
+        "source_plant_name": "Clitoria ternatea",
+        "source_record_id": "links-0225",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1d8e02df612f312645b458c36c89b1c"
+      }
+    ],
+    "source_xplant_id": "a1d8e02df612f312645b458c36c89b1c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "chunk_id": "plant_32c83e5f6b57620b__vernacular_names__002",
+  "plant_id": "plant_32c83e5f6b57620b",
+  "plant_name": "Withania somnifera",
+  "botanical_name": "Withania somnifera",
+  "botanical_authority": "DUNAL",
+  "family": "SOLANACEAE",
+  "section": "vernacular_names",
+  "content": "Tamil (117): acaiyu, achuvagandi, acupam, acurakenti, acuvacceti, acuvakantai, acuvakantam, acuvakanti, acuvakanti 1, acuvakanti 2, acuvakenti, acuvakkilanku, acuvam, acuvam 1, acuvam 2, acuvapalam, akavu, akavu 1, akavu 2, allivatali, amkkura kilangu, amkoolang-kalung, amkulang, amkulang-kalang, amukkanankilanku, amukkara, amukkaran-kilanku, amukkilacceti, amukkinankilanku, amukkira, amukkira ver, amukkira-kilzhangu, amukkirak kilanku, amukkirakkilangu, amukkiran kilanku, amukkirankilanku, amukkiri, amukknravi, amukkura, amukkura kizhangu, amukkura-virai, amukkurak kizhangu, amukkurak-kizhangu, amukkuravi, amukkuravu, amukran-kizhangu, amuttaraci, ankulan, ankulang, asubam, asuvagandi, aswaganthi, atitarikam, atittikam, avarokam, ceravilankam, cevvilankam, irulicceti, iruliccevi, kampukastam, kantapattiram 1, karappantalai, kenta, kenta 3, kiravarokacam, kiriccevi, kiticcevi, kolanakutaver, kolari, makanti, makanti 2, matalinkam, matanalinkacceti, matanalinkam, matappurakkanniram, matappurallamniram, matarika, matarikacceti, muttaci, muttarati, muttati, muttati 1, nakutam, nattuamukkirakkilanku, palapali, paricata, parikikanti 1, parikkanti, parikkanti 2, parikkantikkilanku, peyvetti, piratakam, pivari, pivari 1, pivari 2, tanuka, tanupara, tanupari, turki, uni, uni 1, uni 2, unikkilanku, vacikantam, vacikenta, valliayai, valliyai, varakakarni, varakarakkilanku, varucu, vippuruti nayakan, vippurutinayakam, vippurutinayakan, virpurtinayakam, virpuruti nayakacceti, virpurutinayakacceti, virpurutinayakam\nTelugu (16): ashvagandhi, asvagandhi, dommadolu, pannirugada, penneroo, penneroo-gadda, penneru, penneru gaddi, pennerugedda, pillivattitige, pillivendram, pillivendramu, piniru, pulivendramu, vaajigandha, vajigandha\nTibetan (3): a sa ga ndhi (d), a swa ga ndhi (d), ba-dzi-ga-ndha\nUrdu (6): asgand, asgand nagori, asgandh, asgandh-e-nagori, asgund, isgand nagori",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881"
+  ],
+  "source_record_ids": [
+    "links-0212",
+    "links-0213",
+    "links-0214",
+    "links-0215"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881"
+    ],
+    "source_record_ids": [
+      "links-0212",
+      "links-0213",
+      "links-0214",
+      "links-0215"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881",
+          "Plant Name": "Withania somnifera",
+          "Status": "Found"
+        },
+        "source_plant_name": "Withania somnifera",
+        "source_record_id": "links-0212",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881",
+          "Plant Name": "Withania somnifera (Linn.) Dunal.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Withania somnifera (Linn.) Dunal.",
+        "source_record_id": "links-0213",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881",
+          "Plant Name": "Withania somnifera Dunal",
+          "Status": "Found"
+        },
+        "source_plant_name": "Withania somnifera Dunal",
+        "source_record_id": "links-0214",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881",
+          "Plant Name": "Withania somnifera Dunal.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Withania somnifera Dunal.",
+        "source_record_id": "links-0215",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881"
+      }
+    ],
+    "source_xplant_id": "f420a8ab57a668675b6825cc58f4f881",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

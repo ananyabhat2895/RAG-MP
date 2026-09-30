@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_8163bd95b3c58c99__images__001",
+  "plant_id": "plant_8163bd95b3c58c99",
+  "plant_name": "Hiptage benghalensis Kurz.",
+  "botanical_name": "Hiptage benghalensis",
+  "botanical_authority": "(L.) KURZ",
+  "family": "MALPIGHIACEAE",
+  "section": "images",
+  "content": "Image references are available in source_metadata.image_urls.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d0ae3b25c382375dad0c0e6935416ed"
+  ],
+  "source_record_ids": [
+    "links-0240"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d0ae3b25c382375dad0c0e6935416ed"
+    ],
+    "source_record_ids": [
+      "links-0240"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d0ae3b25c382375dad0c0e6935416ed",
+          "Plant Name": "Hiptage benghalensis Kurz.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hiptage benghalensis Kurz.",
+        "source_record_id": "links-0240",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d0ae3b25c382375dad0c0e6935416ed"
+      }
+    ],
+    "source_xplant_id": "4d0ae3b25c382375dad0c0e6935416ed",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2d3729fd01ea3220__vernacular_names__001",
+  "plant_id": "plant_2d3729fd01ea3220",
+  "plant_name": "Cymbopogon citratus (DC.) Stapf",
+  "botanical_name": "Cymbopogon citratus",
+  "botanical_authority": "(DC.) STAPF.",
+  "family": "POACEAE",
+  "section": "vernacular_names",
+  "content": "English (3): lemon grass, malabar oil, serai\nHindi (9): aghyaghas, aginghas, gandhatrana, gandhatranan, gandhatrina, gandhatrn, haree-chaha, rohisha, sugandh\nKannada (10): chaa hullu, gavare chacha, gouthi hullu, majjige hullu, majjige-hullu, majjige-hulu, majjigehullu, nimbe hullu, purhalihulla, purhalihullu\nMalayalam (7): cennanampullu, chayapul, incippullu, shambharapulla, vasanappula, vasanappullu, vasanapullu\nMarathi (6): gamjan, gavathichahaa, hirvacha, oil-cha, olancha, patichi cha\nSanskrit (26): Sanskrit CommentsX abichhatraka, atigandha, badhira, badhiradhvanibodhana, bhustmah, bhustrina, bhutika, bhutina, chhatra, dhyamakam, gochhalaka sugandha, guchhala, guhyabija, gundardha, jambiratrna, jambukapriya, karenduka, kutimbaka, malatrinaka, punsvavighraha, putigandha, rohisha, samalambi, shringaroha, takratrani, usiram\nTamil (30): camparap-pal, camparappul, cukkunarippul 2, curumam, elumiccam pul, kantaketam, karpoora pul, karpoorpul, karppurappul, karpura pillu, karpura pullu, karpurap-pul, karpurappillu, karpurappul, karuppurappul, kavattampul 2, kuyyapicam, kuyyapitam, potaippul 1, tailappul, vacanai-p-pul, vacanaippul, vacanaippul 1, vasana pullu, vasanai pullu, vasanaipullu, vasanapillu, vasanappillu, vasanapulla, vashanup-pulla\nTelugu (7): chippa gaddi, chippagaddi, nimma gaddi, nimmagaddi, vaasana gaddi, vasana gaddi, vasanagaddi\nUrdu (1): izkhar makki",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/680b54af38ebb9a062b90efb81313fe5"
+  ],
+  "source_record_ids": [
+    "links-0761"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/680b54af38ebb9a062b90efb81313fe5"
+    ],
+    "source_record_ids": [
+      "links-0761"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/680b54af38ebb9a062b90efb81313fe5",
+          "Plant Name": "Cymbopogon citratus (DC.) Stapf",
+          "Status": "Found"
+        },
+        "source_plant_name": "Cymbopogon citratus (DC.) Stapf",
+        "source_record_id": "links-0761",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/680b54af38ebb9a062b90efb81313fe5"
+      }
+    ],
+    "source_xplant_id": "680b54af38ebb9a062b90efb81313fe5",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

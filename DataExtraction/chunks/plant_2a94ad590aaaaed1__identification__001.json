@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_2a94ad590aaaaed1__identification__001",
+  "plant_id": "plant_2a94ad590aaaaed1",
+  "plant_name": "Tridax procumbens Linn.",
+  "botanical_name": "Tridax procumbens",
+  "botanical_authority": "L.",
+  "family": "ASTERACEAE",
+  "section": "identification",
+  "content": "Plant name: Tridax procumbens Linn. Botanical name: Tridax procumbens Botanical authority: L. Family: ASTERACEAE Source xplant ID: 1ab83c76f1c09cacf351ac6476d2541c",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ab83c76f1c09cacf351ac6476d2541c"
+  ],
+  "source_record_ids": [
+    "links-0333"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ab83c76f1c09cacf351ac6476d2541c"
+    ],
+    "source_record_ids": [
+      "links-0333"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ab83c76f1c09cacf351ac6476d2541c",
+          "Plant Name": "Tridax procumbens Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Tridax procumbens Linn.",
+        "source_record_id": "links-0333",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ab83c76f1c09cacf351ac6476d2541c"
+      }
+    ],
+    "source_xplant_id": "1ab83c76f1c09cacf351ac6476d2541c",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "chunk_id": "plant_e789b6735bcde30d__systems_of_medicine__001",
+  "plant_id": "plant_e789b6735bcde30d",
+  "plant_name": "Foeniculum vulgare Mill.",
+  "botanical_name": "Foeniculum vulgare",
+  "botanical_authority": "GAERTN",
+  "family": "APIACEAE",
+  "section": "systems_of_medicine",
+  "content": "System of medicine: Ayurveda\nSystem of medicine: Siddha\nSystem of medicine: Unani\nSystem of medicine: Folk\nSystem of medicine: Sowa-Rigpa Botanical Synonyms (2) - Anethum foeniculum L. X Full Botanical citation - Anethum foeniculum L.\nSystem of medicine: Sp. Pl. 263. 1753; Prasanta Kumar Mukherjee and Lincoln constance\nSystem of medicine: Umbelliferae (Apiaceae) of India\nSystem of medicine: American Institute of Indian Studies\nSystem of medicine: 47. 1993. Foeniculum capillaceum GILB.",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ce8fe98c599dce3a2b0dd2970cdb0a4"
+  ],
+  "source_record_ids": [
+    "links-1285",
+    "links-1286",
+    "links-1287"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ce8fe98c599dce3a2b0dd2970cdb0a4"
+    ],
+    "source_record_ids": [
+      "links-1285",
+      "links-1286",
+      "links-1287"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ce8fe98c599dce3a2b0dd2970cdb0a4",
+          "Plant Name": "Foeniculum vulgare Mill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Foeniculum vulgare Mill.",
+        "source_record_id": "links-1285",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ce8fe98c599dce3a2b0dd2970cdb0a4"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ce8fe98c599dce3a2b0dd2970cdb0a4",
+          "Plant Name": "Foeniculum vulgare Mill. var. dulce (Mill.) Thellu",
+          "Status": "Found"
+        },
+        "source_plant_name": "Foeniculum vulgare Mill. var. dulce (Mill.) Thellu",
+        "source_record_id": "links-1286",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ce8fe98c599dce3a2b0dd2970cdb0a4"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ce8fe98c599dce3a2b0dd2970cdb0a4",
+          "Plant Name": "Foeniculum vulgare Mill. var. vulgare (Mill.) Thel",
+          "Status": "Found"
+        },
+        "source_plant_name": "Foeniculum vulgare Mill. var. vulgare (Mill.) Thel",
+        "source_record_id": "links-1287",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ce8fe98c599dce3a2b0dd2970cdb0a4"
+      }
+    ],
+    "source_xplant_id": "8ce8fe98c599dce3a2b0dd2970cdb0a4",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

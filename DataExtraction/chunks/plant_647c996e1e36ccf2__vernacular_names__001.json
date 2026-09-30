@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_647c996e1e36ccf2__vernacular_names__001",
+  "plant_id": "plant_647c996e1e36ccf2",
+  "plant_name": "Aconitum heterophyllum",
+  "botanical_name": "Aconitum heterophyllum",
+  "botanical_authority": "WALL. EX ROYLE",
+  "family": "RANUNCULACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (8): and, arand, ateicha, atis, atvika, mohra, padish, patis\nKannada (4): athibaje, athivisha, atibaje, bhangura\nMalayalam (1): ativitayam\nMarathi (3): atavish, athivish, ativisha\nSanskrit (41): Sanskrit CommentsX amrita, aruna, ataicha, atisaraghni, ativisa, ativisha, bhangura, bhringi, ghuna-priya, ghunaisa, kashmira, kasmira, madri, mahoshadha, mridvi, pankura, prativisa, prativisha, pravisha, shishubhaishyajja, shokapaha, shringi, shringika, shuklakanda, shveta, shvetakanda, shvetavacha, shyamkanda, sisubhaisajya, sitashringi, suklakanda, surala, upavishaaka, upvisha, vallabha, vira, virupa, visakhya, visha, visharupa, vishva\nTamil (77): adhividayam, adivitaiyam, akuculapu, alakavetam, alecuveppam, alecuveppu, alecuvitaiyam, alecuvitayam, ariyan, ariyavitaiyam, ariyavitayam, arttiram 1, aruna, arunai, athividayam, athividyam, ati vitayam, ati-vadayam, ati-vidayam, aticaracuracamaraci, aticarakkini, ativacam, ativacampu, ativadayam, ativaka, atividyam, ativitai, ativitaiyam, ativitam, ativitayam, attakatitam, attam 1, attatam, attiranam, avirukam, cattivinacini, cinki 1, cirinki 1, cukkilakentam, cukkulakantam, kalacu, kalacuvetam, kalacuvitaiyam, kalakavetam, kalarcipatam, kalarcupatam, kalarcuvatam, kantacukkilam, kenta 1, kukkilam, kunakkacikam#, kunakkacikam@, kunapalam, kunapalan, kunattam, kunavallapai, kunetakam, kunettam, mantiri, matiri, matirivitaiyam, nattuativitaiyam, pankaram, pankurai, pankuram, upavitai, upavitam, vicu, vicuvacan, vicuvam, vicuvankatti, vicuvatikkam, visapaka, vitam, vitaru, vitayam, yankura\nTelugu (4): athivaasa, atirasa, ativasa, ativasu\nTibetan (3): bon na, bon na dkar po, bon-na-dkar-po\nUrdu (3): atees, atis shirin, beesh (mitha zahar, atees)",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4a1d24321fcdd41a76080099a1cd83"
+  ],
+  "source_record_ids": [
+    "links-0241",
+    "links-0242"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4a1d24321fcdd41a76080099a1cd83"
+    ],
+    "source_record_ids": [
+      "links-0241",
+      "links-0242"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4a1d24321fcdd41a76080099a1cd83",
+          "Plant Name": "Aconitum heterophyllum",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aconitum heterophyllum",
+        "source_record_id": "links-0241",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4a1d24321fcdd41a76080099a1cd83"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4a1d24321fcdd41a76080099a1cd83",
+          "Plant Name": "Aconitum heterophyllum Wall.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Aconitum heterophyllum Wall.",
+        "source_record_id": "links-0242",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4a1d24321fcdd41a76080099a1cd83"
+      }
+    ],
+    "source_xplant_id": "3a4a1d24321fcdd41a76080099a1cd83",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

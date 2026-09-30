@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_34c6bb78f1a9968c__distribution__001",
+  "plant_id": "plant_34c6bb78f1a9968c",
+  "plant_name": "Hemidesmus indicus",
+  "botanical_name": "Hemidesmus indicus",
+  "botanical_authority": "(L.) SCHULT.",
+  "family": "ASCLEPIADACEAE",
+  "section": "distribution",
+  "content": "Distribution entry: author: Author - Sanyal M.N.; distribution: Distribution; title: Title - Flora of Bankura District(West Bengal)\nDistribution entry: author: Author - N.P.Singh, P.Lakshminarasimhan, S.Karthikeyan & P.V. Prasanna; distribution: Distribution; title: Title - Flora of Maharashtra State (Dicotyledons) Volume 2\nDistribution entry: author: Author - Rolla Seshagiri Rao, S.Hara Sriramulu; distribution: Distribution; title: Title - Flora of Srikakulam District (Andhra Pradesh)\nDistribution entry: author: Author - Saxena H.O.,Brahmam M.; distribution: Distribution; title: Title - The Flora of Orissa Vol II\nDistribution entry: author: Author - G.L.Shah; distribution: Distribution; title: Title - Flora of Gujarat State Vol 1\nDistribution entry: author: Author - P. Daniel & P. Umamaheswari; distribution: Distribution; title: Title - The Flora of the Gulf of Mannar",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195"
+  ],
+  "source_record_ids": [
+    "links-0201",
+    "links-1745"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195"
+    ],
+    "source_record_ids": [
+      "links-0201",
+      "links-1745"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195",
+          "Plant Name": "Hemidesmus indicus",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hemidesmus indicus",
+        "source_record_id": "links-0201",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195",
+          "Plant Name": "Hemidesmus indicus R. Br.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Hemidesmus indicus R. Br.",
+        "source_record_id": "links-1745",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195"
+      }
+    ],
+    "source_xplant_id": "e2d232e3dcd00751bdf511c1ac0d0195",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

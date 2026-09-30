@@ -1,0 +1,54 @@
+{
+  "chunk_id": "plant_d24f96b22f58402d__vernacular_names__001",
+  "plant_id": "plant_d24f96b22f58402d",
+  "plant_name": "Ehretia laevis Roxb.",
+  "botanical_name": "Ehretia laevis",
+  "botanical_authority": "ROXB.",
+  "family": "EHRETIACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (13): chamar, chamorar, chamror, dandos, darar, datranga, khoda, koda, kolma, luni, papri, tamboli, tamboliya\nKannada (21): adak, adaka bagari, adake, adike bogari, adiki, avak, bondula, ennebudige, haalippe, haatippe, halippe, hallippe, jhadocodkar, kappura, kappure, kapura, karadaka, karadake, karatuke, pagakina, pigakina\nMalayalam (4): cavanti, charandi, chavandi, sondari\nMarathi (3): datranga, kalo-gomdo, tamboli\nSanskrit (5): Sanskrit CommentsX carmakaravata, carmakasa, carmavrksa, carmiloha, carmivrksa\nTamil (10): kalivirusu, kalvirasu, kalvirusus, kuruviccai, kuruvicci 3, kuruviracu, narivalli, pattaiviccu, pattaiviracu, tavittan\nTelugu (48): aadabukkudi, adabukkudu, alabukkudu, bodidhi, bokkadi, bukkedi, buri, chilla poku, gidiguri, giduguri, paaladanthamu, pala dantam, paladantam, paladantamu, paldatam, pedda pikka, pedda pulimaera, peddaburimaeli, peddafurimela, peddapiccika, peddapichaka, peddapulimera, peddapulmera, peddaturimeli, pogada, pogadi, pogadi chettu, pogadichettu, poka, pokachettu, polimiri, potubokada, potubokkada, potubukkedi, reddapulmera, seregad, seregada, shiragadam, shiragadamu, siragadam, siragadamu, tella pisini, telladzuvvi, tellajoovi, tellajuvvi, tellapisuni, thellajihvi, thellapisuni",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d329b135a1331fbffcfc9843b56582d8"
+  ],
+  "source_record_ids": [
+    "links-0420",
+    "links-0421"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d329b135a1331fbffcfc9843b56582d8"
+    ],
+    "source_record_ids": [
+      "links-0420",
+      "links-0421"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d329b135a1331fbffcfc9843b56582d8",
+          "Plant Name": "Ehretia laevis Roxb.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ehretia laevis Roxb.",
+        "source_record_id": "links-0420",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d329b135a1331fbffcfc9843b56582d8"
+      },
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d329b135a1331fbffcfc9843b56582d8",
+          "Plant Name": "Ehretia laevis Var. pubescens.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Ehretia laevis Var. pubescens.",
+        "source_record_id": "links-0421",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d329b135a1331fbffcfc9843b56582d8"
+      }
+    ],
+    "source_xplant_id": "d329b135a1331fbffcfc9843b56582d8",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

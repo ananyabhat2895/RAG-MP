@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_9c3b31a1fdb71782__vernacular_names__001",
+  "plant_id": "plant_9c3b31a1fdb71782",
+  "plant_name": "Rheum officinale Baill.",
+  "botanical_name": "Rheum officinale",
+  "botanical_authority": "BAILL.",
+  "family": "POLYGONACEAE",
+  "section": "vernacular_names",
+  "content": "Marathi (1): ladakirevanda-chini\nSanskrit (1): Sanskrit CommentsX amlaparni\nUrdu (1): rewand chini",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ffcdb9b41b8016ae5f68dd16c2401b8e"
+  ],
+  "source_record_ids": [
+    "links-0104"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ffcdb9b41b8016ae5f68dd16c2401b8e"
+    ],
+    "source_record_ids": [
+      "links-0104"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ffcdb9b41b8016ae5f68dd16c2401b8e",
+          "Plant Name": "Rheum officinale Baill.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Rheum officinale Baill.",
+        "source_record_id": "links-0104",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ffcdb9b41b8016ae5f68dd16c2401b8e"
+      }
+    ],
+    "source_xplant_id": "ffcdb9b41b8016ae5f68dd16c2401b8e",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

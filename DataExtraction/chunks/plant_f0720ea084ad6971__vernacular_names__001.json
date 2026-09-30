@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_f0720ea084ad6971__vernacular_names__001",
+  "plant_id": "plant_f0720ea084ad6971",
+  "plant_name": "Dichrostachys cinerea W. and A.",
+  "botanical_name": "Dichrostachys cinerea",
+  "botanical_authority": "WIGHT & ARN.",
+  "family": "MIMOSACEAE",
+  "section": "vernacular_names",
+  "content": "Hindi (12): ameena, goya-khair, kheri, kolai, kulais, kumali, kunlai, vartuli, virtuli, vurttuli, vurtuli, vurutuli\nKannada (20): edatari, edathari, oda thare, odatare, odavarada, odavare, odavinagida, odavinaha, vadanare, vadatare, vadavina, vaduvaarada gida, vaduvarada, voda thaare, wadu, wadu warada, wadu waradu, waduwarada, woodavaradu, yeda thuri\nMalayalam (2): viravrksam, vitattal\nMarathi (7): bellathoor, segumkati, sigamkaati, sigamkati, sigum-kanti, vaelathoora, warfa-taro\nSanskrit (14): Sanskrit CommentsX bahuvaraka, dirghamula, krichhari, kshudhakushalasandnaka, mahakapitha, vallataru, vellantara, vellantarah, vellantaru, vilantaru, viradru, virataruh, viravriksha, virtaru\nTamil (63): anaitter, anatter, carayittiyam, catalikam, catanikamaram, cirrilai2, karini, karukavi, karukavimaram, mavilandam, mavilantam, mavilinkappalai, nakkavarimuli, nalappetimuli, piodai, plodai, potittalai, potittalaimaram, tattamaniyam, tecattam, tirkkamulam3, tirutamulam2, tirutamulo2, vadatalla, vadataram, vadathalai, valutalankay, vancimalai, varittol, varittula, vatatarai, vatataram#, vatataram@, vedatalla, vedathalam, vedittalung kolindoo, veduttalam, vekutavam, vetattala, vetuttalam, vidathalan, vidattalai, vidatter, vikuli, vikulimaram, virataru, virataru 3, viratarumaram, visappurai, vitatarai, vitatari, vitattal, vitattalai, vitattalaimaram, vitattalam, vitattali, vitattallam, vitattar, vitattari, vitatter, vitatterai, vitattericceti, vitattetotari\nTelugu (28): banutula, bunthula, nalla venuturu, nallaveluturu, nallavenuturu, nela jammi, nelajammi, nellajammi, samiramu, sarathumma, saratumma, velitsroo, vellitooroo, velthru, velthuru, veltoori, velturi, velturu, veluthuru chettu, veluturu, venuthuru, venuturu, veturu, yellow, yeltoor, yeltoori, yeltu, yeltur\nTibetan (1): bi ra ta ra",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc506e317ac312e5d6654450ed5c3f26"
+  ],
+  "source_record_ids": [
+    "links-2107"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc506e317ac312e5d6654450ed5c3f26"
+    ],
+    "source_record_ids": [
+      "links-2107"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc506e317ac312e5d6654450ed5c3f26",
+          "Plant Name": "Dichrostachys cinerea W. and A.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Dichrostachys cinerea W. and A.",
+        "source_record_id": "links-2107",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc506e317ac312e5d6654450ed5c3f26"
+      }
+    ],
+    "source_xplant_id": "bc506e317ac312e5d6654450ed5c3f26",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

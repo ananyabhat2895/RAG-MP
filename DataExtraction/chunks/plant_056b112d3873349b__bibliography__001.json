@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_056b112d3873349b__bibliography__001",
+  "plant_id": "plant_056b112d3873349b",
+  "plant_name": "Sida Retus Linn.",
+  "botanical_name": "Sida retusa",
+  "botanical_authority": "L.",
+  "family": "MALVACEAE",
+  "section": "bibliography",
+  "content": "Bibliography entry: author: Author - N.S. MOOSS; title: Title - GANAS OF VAHATA\nBibliography entry: author: Author - WARRIER,P.K. et al (EDS.); title: Title - INDIAN MEDICINAL PLANTS VOLUME .VOL 1-5\nBibliography entry: author: Author - ANONYMOUS; title: Title - PHARMACOGNOSY OF AYURVEDIC DRUGS NOS. 01 & 02\nBibliography entry: author: Author - MOOSS,N.S.; title: Title - SINGLE DRUG REMEDIES\nBibliography entry: title: Title - FLORA OF INDIA VOL 3\nBibliography entry: title: Title - Flora of Jowai Vol.I\nBibliography entry: title: Title - FLORA OF KARNATAKA VOL-1\nBibliography entry: title: Title - The Flora of Orissa Volume 1",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f515ce55a8d91b689252333d88280a02"
+  ],
+  "source_record_ids": [
+    "links-0269"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f515ce55a8d91b689252333d88280a02"
+    ],
+    "source_record_ids": [
+      "links-0269"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f515ce55a8d91b689252333d88280a02",
+          "Plant Name": "Sida Retus Linn.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Sida Retus Linn.",
+        "source_record_id": "links-0269",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f515ce55a8d91b689252333d88280a02"
+      }
+    ],
+    "source_xplant_id": "f515ce55a8d91b689252333d88280a02",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}

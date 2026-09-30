@@ -1,0 +1,41 @@
+{
+  "chunk_id": "plant_d0d872886927c3e0__botanical_synonyms__001",
+  "plant_id": "plant_d0d872886927c3e0",
+  "plant_name": "Oroxylum indicum Vent.",
+  "botanical_name": "Oroxylum indicum",
+  "botanical_authority": "(L.) VENT.",
+  "family": "BIGNONIACEAE",
+  "section": "botanical_synonyms",
+  "content": "Synonym: Bignonia indica L. X Full Botanical citation - Bignonia indica L., Sp. Pl. 625. 1753; R.D.Gaur, Fl. Distr. Garhwal North West Himalaya (With Ethnobotanical Notes), TransMedia, Srinagar (Garhwal), India, 521. 1999. Calosanthes indica BLUME\nSynonym: Bignonia indica L.\nSynonym: Calosanthes indica BLUME",
+  "source_urls": [
+    "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f41aa7d1c905dc82c023d554c64884a9"
+  ],
+  "source_record_ids": [
+    "links-1896"
+  ],
+  "source_metadata": {
+    "source_urls": [
+      "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f41aa7d1c905dc82c023d554c64884a9"
+    ],
+    "source_record_ids": [
+      "links-1896"
+    ],
+    "source_records": [
+      {
+        "raw_source_record": {
+          "Detail URL": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f41aa7d1c905dc82c023d554c64884a9",
+          "Plant Name": "Oroxylum indicum Vent.",
+          "Status": "Found"
+        },
+        "source_plant_name": "Oroxylum indicum Vent.",
+        "source_record_id": "links-1896",
+        "source_status": "Found",
+        "source_url": "https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f41aa7d1c905dc82c023d554c64884a9"
+      }
+    ],
+    "source_xplant_id": "f41aa7d1c905dc82c023d554c64884a9",
+    "image_urls": [
+      "https://www.medicinalplants.in/images/ban.jpg"
+    ]
+  }
+}
