@@ -1,0 +1,48 @@
+SEPASAL medicinal-use enrichment audit
+=======================================
+
+Defect found: yes.
+The medicinal CSV schema has USubsetText but no Use34Text. The original processor therefore copied Plant Parts correctly into use_category but did not obtain detail values from sepasal_uses_specific.csv. Its bibliography-specific detail join also missed valid detail rows when bibliography records differed.
+
+Moringa trace
+-------------
+Source file: 2020-11-17_1_sepasal_medicinal_uses_bib.csv
+Source row: 155788
+Source record ID: 4e1a2d1b391454e6 (SHA-256 prefix of filename + NUL + 1-based CSV row number)
+TaxKey: 1308
+Scientific fields: GenEpi=Moringa; NamSpec=oleifera; NamSpecAuth=Lam.; NamISEpi=; NamISAuth=; RankText=
+Use12Text: MEDICINES - Abnormalities
+USubsetText: Plant Parts
+Bibliography: Kenya trees, shrubs and lianas; Beentje, H.J.; 1994; publisher=Nairobi: National Museums of Kenya; collation=ix, 722p; language=En
+Reference identifier: no BiblKey column exists in the medicinal CSV; UTLinkTaxKey=1308
+
+Use_category is a direct mapping of USubsetText, so Plant Parts is not a mistaken mapping. The medicinal CSV has no Use34Text, Plant Parts value, or detailed-use column. The old empty arrays were a processor join defect, not evidence that Moringa lacked detail: sepasal_uses_specific.csv provides roots, humans, oedemas, and poultices for TaxKey 1308 / the same Use12Text.
+
+Count reconciliation
+--------------------
+Input rows processed: 10,861,670
+Old output records: 6947; old new associations: 6,944; old exact IMPPAT overlaps: 3; old suppressed duplicates: 543,575
+Corrected output records: 6950; corrected new associations: 6,779; corrected exact IMPPAT overlaps: 171; corrected suppressed duplicates: 543,572
+Matched taxa: 155; canonical plants: 157; ambiguous rows: 280; unmatched rows: 10,310,868
+
+Empty-array audit
+------------------
+Old empty medicinal_applications: 6942; detail_values: 6882; plant_parts: 6922
+Corrected empty medicinal_applications: 6462; detail_values: 3938; plant_parts: 5930
+
+The 155 matched taxa versus 157 canonical plants is explained by eight TaxKeys mapping to two canonical records each; this is a one-to-many canonical-name relationship, not forced fuzzy matching.
+
+The corrected processor uses stable TaxKey + Use12Text + UseCatText detail joins, preserves source wording and references, and continues to use exact normalized wording for IMPPAT overlap. Differently worded semantically equivalent uses may not be detected as overlaps.
+
+Outputs
+-------
+Final corrected enrichment: data-analysis/output/sepasal_audit_v2/sepasal_medicinal_enrichment.jsonl
+Corrected match report: data-analysis/output/sepasal_audit_v2/sepasal_name_match_report.csv
+Corrected coverage: data-analysis/output/sepasal_audit_v2/sepasal_coverage_report.json
+Audit JSON: data-analysis/output/sepasal_audit_v2/sepasal_audit_report.json
+Audit text: data-analysis/output/sepasal_audit_v2/sepasal_audit_report.txt
+Sample validation: data-analysis/output/sepasal_audit_v2/sample_record_validation.csv
+
+The corrected output is suitable for a separate review/combined-dataset step, with the limitations above; no merge or RAG integration was performed.
+
+Final targeted verification: TaxKey 1308 / MEDICINES - Abnormalities records are output lines 1-6; roots is line 1, humans line 2, oedemas line 3, and poultices line 5, with available references preserved. Final counts are 6,952 records: 6,781 new_unique_association and 171 overlap_exact_imppat.

@@ -1,0 +1,291 @@
+{
+  "audit_scope": {
+    "original_output": "data-analysis\\output\\sepasal\\sepasal_medicinal_enrichment.jsonl",
+    "corrected_output": "data-analysis\\output\\sepasal_audit_v2\\sepasal_medicinal_enrichment.jsonl",
+    "processor": "data-analysis\\scripts\\process_sepasal_enrichment.py"
+  },
+  "source_paths": {
+    "medicinal_dir": "external-data\\sepasal\\raw\\medicinal_uses_subset",
+    "general_tables_used": [
+      "sepasal_taxa.csv",
+      "sepasal_uses_specific.csv",
+      "sepasal_uses_specific_references.csv"
+    ],
+    "canonical": "DataExtraction\\normalized\\plants.jsonl",
+    "imppat": "data-analysis\\output\\enriched_plants.jsonl"
+  },
+  "moringa_trace": {
+    "source_file": "2020-11-17_1_sepasal_medicinal_uses_bib.csv",
+    "source_record_id": "4e1a2d1b391454e6",
+    "source_row": 155788,
+    "source_values": {
+      "source_row": 155788,
+      "TaxKey": "1308",
+      "FamName": "MORINGACEAE",
+      "GenEpi": "Moringa",
+      "NamSpec": "oleifera",
+      "NamSpecAuth": "Lam.",
+      "NamISEpi": "",
+      "NamISAuth": "",
+      "RankText": "",
+      "VernName": "mlonge",
+      "VernLang": "Swahili (Tanzania)",
+      "BiblTitle": "Kenya trees, shrubs and lianas",
+      "BiblAuth": "Beentje, H.J.",
+      "BiblPublYear": "1994",
+      "BiblEd": "",
+      "BiblJournTitle": "",
+      "BiblPublisher": "Nairobi: National Museums of Kenya",
+      "BiblCollation": "ix, 722p",
+      "BiblNote": "",
+      "BiblLang": "En",
+      "BiblInternalNote": "",
+      "UTLinkTaxKey": "1308",
+      "Use12Text": "MEDICINES - Abnormalities",
+      "USubsetText": "Plant Parts"
+    },
+    "specific_detail_rows": [
+      {
+        "table": "sepasal_uses_specific.csv",
+        "TaxKey": "1308",
+        "Use12Key": "1102",
+        "Use12Text": "MEDICINES - Abnormalities",
+        "UTGKey": "2395",
+        "Use34Cat": "1",
+        "UseCatText": "Plant Parts",
+        "Use34Code": "12000000",
+        "Use34Text": "'roots'"
+      },
+      {
+        "table": "sepasal_uses_specific.csv",
+        "TaxKey": "1308",
+        "Use12Key": "1102",
+        "Use12Text": "MEDICINES - Abnormalities",
+        "UTGKey": "2395",
+        "Use34Cat": "5",
+        "UseCatText": "Vertebrate Organisms",
+        "Use34Code": "5020100",
+        "Use34Text": "humans"
+      },
+      {
+        "table": "sepasal_uses_specific.csv",
+        "TaxKey": "1308",
+        "Use12Key": "1102",
+        "Use12Text": "MEDICINES - Abnormalities",
+        "UTGKey": "2395",
+        "Use34Cat": "16",
+        "UseCatText": "Disorders/Effects",
+        "Use34Code": "1200000",
+        "Use34Text": "oedemas"
+      },
+      {
+        "table": "sepasal_uses_specific.csv",
+        "TaxKey": "1308",
+        "Use12Key": "1102",
+        "Use12Text": "MEDICINES - Abnormalities",
+        "UTGKey": "2395",
+        "Use34Cat": "29",
+        "UseCatText": "Medicinal Applications",
+        "Use34Code": "1090000",
+        "Use34Text": "poultices"
+      },
+      {
+        "table": "sepasal_uses_specific_references.csv",
+        "TaxKey": "1308",
+        "Use12Key": "1102",
+        "Use12Text": "MEDICINES - Abnormalities",
+        "UTGKey": "2395",
+        "Use34Cat": "1",
+        "UseCatText": "Plant Parts",
+        "Use34Code": "12000000",
+        "Use34Text": "'roots'",
+        "BiblKey": "2180",
+        "BiblType": "B",
+        "BiblType_text": "Book",
+        "BiblAuth": "FAO",
+        "BiblPublYear": "1988",
+        "BiblTitle": "Traditional food plants: a resource book for promoting the exploitation and consumption of food plants in arid, semi-arid and sub-humid lands of Eastern Africa",
+        "BiblEd": "",
+        "BiblJournTitle": "",
+        "BiblPublisher": "Rome, Italy: Food and Agriculture Organization of the United Nations (FAO)",
+        "BiblCollation": "593p",
+        "BiblNote": "",
+        "BiblLang": "En",
+        "BiblInternalNote": "Location: EB 941(10.5)"
+      },
+      {
+        "table": "sepasal_uses_specific_references.csv",
+        "TaxKey": "1308",
+        "Use12Key": "1102",
+        "Use12Text": "MEDICINES - Abnormalities",
+        "UTGKey": "2395",
+        "Use34Cat": "5",
+        "UseCatText": "Vertebrate Organisms",
+        "Use34Code": "5020100",
+        "Use34Text": "humans",
+        "BiblKey": "2180",
+        "BiblType": "B",
+        "BiblType_text": "Book",
+        "BiblAuth": "FAO",
+        "BiblPublYear": "1988",
+        "BiblTitle": "Traditional food plants: a resource book for promoting the exploitation and consumption of food plants in arid, semi-arid and sub-humid lands of Eastern Africa",
+        "BiblEd": "",
+        "BiblJournTitle": "",
+        "BiblPublisher": "Rome, Italy: Food and Agriculture Organization of the United Nations (FAO)",
+        "BiblCollation": "593p",
+        "BiblNote": "",
+        "BiblLang": "En",
+        "BiblInternalNote": "Location: EB 941(10.5)"
+      },
+      {
+        "table": "sepasal_uses_specific_references.csv",
+        "TaxKey": "1308",
+        "Use12Key": "1102",
+        "Use12Text": "MEDICINES - Abnormalities",
+        "UTGKey": "2395",
+        "Use34Cat": "16",
+        "UseCatText": "Disorders/Effects",
+        "Use34Code": "1200000",
+        "Use34Text": "oedemas",
+        "BiblKey": "2180",
+        "BiblType": "B",
+        "BiblType_text": "Book",
+        "BiblAuth": "FAO",
+        "BiblPublYear": "1988",
+        "BiblTitle": "Traditional food plants: a resource book for promoting the exploitation and consumption of food plants in arid, semi-arid and sub-humid lands of Eastern Africa",
+        "BiblEd": "",
+        "BiblJournTitle": "",
+        "BiblPublisher": "Rome, Italy: Food and Agriculture Organization of the United Nations (FAO)",
+        "BiblCollation": "593p",
+        "BiblNote": "",
+        "BiblLang": "En",
+        "BiblInternalNote": "Location: EB 941(10.5)"
+      },
+      {
+        "table": "sepasal_uses_specific_references.csv",
+        "TaxKey": "1308",
+        "Use12Key": "1102",
+        "Use12Text": "MEDICINES - Abnormalities",
+        "UTGKey": "2395",
+        "Use34Cat": "29",
+        "UseCatText": "Medicinal Applications",
+        "Use34Code": "1090000",
+        "Use34Text": "poultices",
+        "BiblKey": "2180",
+        "BiblType": "B",
+        "BiblType_text": "Book",
+        "BiblAuth": "FAO",
+        "BiblPublYear": "1988",
+        "BiblTitle": "Traditional food plants: a resource book for promoting the exploitation and consumption of food plants in arid, semi-arid and sub-humid lands of Eastern Africa",
+        "BiblEd": "",
+        "BiblJournTitle": "",
+        "BiblPublisher": "Rome, Italy: Food and Agriculture Organization of the United Nations (FAO)",
+        "BiblCollation": "593p",
+        "BiblNote": "",
+        "BiblLang": "En",
+        "BiblInternalNote": "Location: EB 941(10.5)"
+      }
+    ],
+    "finding": "The old record copied USubsetText as use_category but missed valid Use34Text-equivalent rows because it joined detail references by bibliography fields. The corrected processor joins stable TaxKey + Use12Text + UseCatText keys."
+  },
+  "old_output_stats": {
+    "records": 6947,
+    "empty_medicinal_applications": 6942,
+    "empty_detail_values": 6882,
+    "empty_plant_parts": 6922,
+    "plants": 157,
+    "taxa_in_output": 154
+  },
+  "corrected_output_stats": {
+    "records": 6952,
+    "empty_medicinal_applications": 6462,
+    "empty_detail_values": 3936,
+    "empty_plant_parts": 5930,
+    "plants": 157,
+    "taxa_in_output": 155
+  },
+  "corrected_match_statuses": {
+    "unmatched": 10310868,
+    "exact_name": 550522,
+    "ambiguous": 280
+  },
+  "matched_taxa_to_multiple_canonical_plants": {
+    "1394": [
+      "plant_0328236f2264dddc",
+      "plant_0bc95ab6b531ee0c"
+    ],
+    "4103": [
+      "plant_4a966f7274e2835a",
+      "plant_4c46354f52f8331c"
+    ],
+    "5336": [
+      "plant_14cd39ac0a5d0214",
+      "plant_3987160799cfa283"
+    ],
+    "6028": [
+      "plant_386a3dce18f9db9e",
+      "plant_51fab85961f78c09"
+    ],
+    "11647": [
+      "plant_917ec7b97482e6d5",
+      "plant_c9e0725cd0600d94"
+    ],
+    "335": [
+      "plant_27060408715fb658",
+      "plant_6d868661b5b9b2b8"
+    ],
+    "819": [
+      "plant_2d1b729dbc416e2d",
+      "plant_41a56ecdeb5838bf"
+    ],
+    "959": [
+      "plant_9b010c300c9bb7f7",
+      "plant_eb96e0279b0ea072"
+    ]
+  },
+  "count_reconciliation": {
+    "input_rows": 10861670,
+    "old_records": 6947,
+    "old_new_unique_associations": 6944,
+    "old_exact_imppat_overlaps": 3,
+    "old_duplicates_suppressed": 543575,
+    "corrected_records": 6952,
+    "corrected_new_unique_associations": 6781,
+    "corrected_exact_imppat_overlaps": 171,
+    "corrected_duplicates_suppressed": 543570,
+    "matched_taxa": 155,
+    "canonical_plants_for_matched_taxa": 157
+  },
+  "defect_assessment": {
+    "exists": true,
+    "scope": "Systematic detail-field underpopulation in the original processor. The medicinal-part CSV has USubsetText but no Use34Text; valid detail rows are in sepasal_uses_specific.csv and were not used. The old bibliography-specific join also missed details when source and detail bibliography records differed.",
+    "corrected_by": "Joining detail values by TaxKey + Use12Text + UseCatText, with alias handling for category labels; preserving source-row bibliography and adding source-backed detailed references where available. A final category alias maps Vertebrates Using to Vertebrate Organisms, restoring humans for the Moringa record.",
+    "not_a_claim": "New associations remain categorical reported traditional-use data and are not clinical efficacy claims."
+  },
+  "limitations": [
+    "Exact normalized wording is used for IMPPAT overlap detection; semantically equivalent differently worded uses can remain separate.",
+    "SEPASAL TaxKey is non-unique in the taxa table; row-level scientific names are used and ambiguous canonical name matches remain unresolved.",
+    "The corrected association counts are deterministic source-category associations, not medically or semantically distinct claims."
+  ],
+  "validation": {
+    "sample_rows": 10,
+    "sample_rows_with_source_match": 10,
+    "corrected_jsonl_records_valid": 6952,
+    "original_outputs_untouched": true,
+    "final_targeted_checks": {
+      "moringa_records": 6,
+      "moringa_required_values_present": [
+        "roots",
+        "humans",
+        "oedemas",
+        "poultices"
+      ],
+      "moringa_output_lines": [
+        1,
+        2,
+        3,
+        5
+      ]
+    }
+  }
+}

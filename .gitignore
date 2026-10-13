@@ -1,0 +1,30 @@
+# Python environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+
+# Raw SEPASAL downloads and external data
+external-data/
+
+# Generated chunk directories
+DataExtraction/chunks/
+DataExtraction/chunks_enriched/
+DataExtraction/chunks_combined_test/
+
+# Local/debug outputs
+comparison_output/
+
+# Generated vector databases
+/vector_db/
+/vector_db_enriched/
+/vector_db_test_ferula_20261008_1352/
+/vector_db_combined_test/
+
+# Large generated SEPASAL reports
+data-analysis/output/sepasal/sepasal_name_match_report.csv
+data-analysis/output/sepasal_audit_v2/sepasal_name_match_report.csv
+
+# Generated external-claims caches and intermediate claims
+data-analysis/external-claims-pilot/expanded/cache/
+data-analysis/external-claims-pilot/expanded/approved_claims.jsonl
+data-analysis/external-claims-pilot/expanded/candidate_claims.jsonl

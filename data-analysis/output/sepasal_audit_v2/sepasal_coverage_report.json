@@ -1,0 +1,132 @@
+{
+  "inputs": {
+    "medicinal_files": [
+      "external-data\\sepasal\\raw\\medicinal_uses_subset\\2020-11-17_1_sepasal_medicinal_uses_bib.csv",
+      "external-data\\sepasal\\raw\\medicinal_uses_subset\\2020-11-17_2_sepasal_medicinal_uses_bib.csv",
+      "external-data\\sepasal\\raw\\medicinal_uses_subset\\2020-11-17_3_sepasal_medicinal_uses_bib.csv",
+      "external-data\\sepasal\\raw\\medicinal_uses_subset\\2020-11-17_4_sepasal_medicinal_uses_bib.csv",
+      "external-data\\sepasal\\raw\\medicinal_uses_subset\\2020-11-17_5_sepasal_medicinal_uses_bib.csv",
+      "external-data\\sepasal\\raw\\medicinal_uses_subset\\2020-11-17_6_sepasal_medicinal_uses_bib.csv",
+      "external-data\\sepasal\\raw\\medicinal_uses_subset\\2020-11-17_7_sepasal_medicinal_uses_bib.csv",
+      "external-data\\sepasal\\raw\\medicinal_uses_subset\\2020-11-17_8_sepasal_medicinal_uses_bib.csv"
+    ],
+    "medicinal_part_count": 8,
+    "canonical_rows": 951,
+    "medicinal_rows_processed": 10861670,
+    "medicinal_specific_rows_indexed": 53333,
+    "medicinal_reference_rows_indexed": 59388,
+    "medicinal_schema_count": 1,
+    "medicinal_schema_columns": [
+      [
+        "TaxKey",
+        "FamName",
+        "GenEpi",
+        "NamSpec",
+        "NamSpecAuth",
+        "NamISEpi",
+        "NamISAuth",
+        "RankText",
+        "VernName",
+        "VernLang",
+        "BiblTitle",
+        "BiblAuth",
+        "BiblPublYear",
+        "BiblEd",
+        "BiblJournTitle",
+        "BiblPublisher",
+        "BiblCollation",
+        "BiblNote",
+        "BiblLang",
+        "BiblInternalNote",
+        "UTLinkTaxKey",
+        "Use12Text",
+        "USubsetText"
+      ]
+    ],
+    "general_tables_used": {
+      "sepasal_taxa.csv": [
+        "TaxKey",
+        "FamKey",
+        "FamName",
+        "GenKey",
+        "GenEpi",
+        "NamKey",
+        "NamSpec",
+        "NamSpecAuth",
+        "RankText",
+        "NamISEpi",
+        "NamISAuth",
+        "NamAccLink"
+      ],
+      "sepasal_uses_specific.csv": [
+        "TaxKey",
+        "Use12Key",
+        "Use12Text",
+        "UTGKey",
+        "Use34Cat",
+        "UseCatText",
+        "Use34Code",
+        "Use34Text"
+      ],
+      "sepasal_uses_specific_references.csv": [
+        "TaxKey",
+        "Use12Key",
+        "Use12Text",
+        "UTGKey",
+        "Use34Cat",
+        "UseCatText",
+        "Use34Code",
+        "Use34Text",
+        "BiblKey",
+        "BiblType",
+        "BiblType_text",
+        "BiblAuth",
+        "BiblPublYear",
+        "BiblTitle",
+        "BiblEd",
+        "BiblJournTitle",
+        "BiblPublisher",
+        "BiblCollation",
+        "BiblNote",
+        "BiblLang",
+        "BiblInternalNote"
+      ]
+    },
+    "general_tables_not_used": [
+      "sepasal_references.csv",
+      "sepasal_uses_major.csv",
+      "sepasal_uses_major_references.csv"
+    ]
+  },
+  "matching": {
+    "matched_rows": 550522,
+    "matched_taxa": 155,
+    "unmatched_rows": 10310868,
+    "ambiguous_rows": 280,
+    "status_counts": {
+      "input_rows": 10861670,
+      "unmatched": 10310868,
+      "matched_rows": 550522,
+      "new_unique_associations": 6781,
+      "output_records": 6952,
+      "overlap_exact_imppat": 171,
+      "duplicate_sepasal_associations": 543570,
+      "ambiguous": 280
+    }
+  },
+  "enrichment": {
+    "output_records": 6952,
+    "plants_with_any_matched_use": 157,
+    "plants_gaining_new_uses": 157,
+    "new_unique_associations": 6781,
+    "overlap_exact_imppat": 171,
+    "duplicate_sepasal_associations": 543570
+  },
+  "warnings": {
+    "tax_keys_with_multiple_names": 3602,
+    "matched_rows_without_detailed_join": 195313,
+    "ambiguous_canonical_name_matches": 280
+  },
+  "matching_method": "Exact normalized SEPASAL scientific name to canonical botanical_name; canonical botanical_synonyms are indexed as documented synonyms, but no fuzzy matching is performed.",
+  "duplicate_method": "Exact deterministic key of canonical plant, Use12Text, SEPASAL use category, and detailed Use34Text values; IMPPAT overlap is exact normalized use-text equality only."
+}
