@@ -1,0 +1,952 @@
+our_botanical_name,imppat_plant_identifier,imppat_botanical_name,match_type,therapeutic_use_count,has_therapeutic_data
+Ferula assa-foetida,IMPPAT3_PLTID001346,Ferula assa-foetida,exact_normalized,129,true
+Achyranthes aspera,IMPPAT3_PLTID000049,Achyranthes aspera,exact_normalized,278,true
+Corchorus capsularis,IMPPAT3_PLTID000816,Corchorus capsularis,exact_normalized,45,true
+Aristida setacea,,,unmatched,0,false
+Tamarindus indica,IMPPAT3_PLTID003020,Tamarindus indica,exact_normalized,146,true
+Phyla nodiflora,IMPPAT3_PLTID002315,Phyla nodiflora,exact_normalized,96,true
+Anchusa strigosa,IMPPAT3_PLTID003320,Anchusa strigosa,exact_normalized,17,true
+Malva rotundifolia,,,unmatched,0,false
+Pluchea lanceolata,IMPPAT3_PLTID002404,Pluchea lanceolata,exact_normalized,18,true
+Hordeum vulgare,IMPPAT3_PLTID001622,Hordeum vulgare,exact_normalized,107,true
+Santalum album,IMPPAT3_PLTID002722,Santalum album,exact_normalized,112,true
+Gentiana kurroo,IMPPAT3_PLTID001438,Gentiana kurroo,exact_normalized,81,true
+Bergenia stracheyi,IMPPAT3_PLTID000444,Bergenia stracheyi,exact_normalized,16,true
+Smilax lanceifolia,,,unmatched,0,false
+Nymphaea nouchali,IMPPAT3_PLTID002154,Nymphaea nouchali,exact_normalized,157,true
+Enicostemma axillare,,,unmatched,0,false
+Jasminum azoricum,IMPPAT3_PLTID001756,Jasminum azoricum,exact_normalized,6,true
+Litsea glutinosa,IMPPAT3_PLTID001909,Litsea glutinosa,exact_normalized,107,true
+Curcuma amada,IMPPAT3_PLTID000929,Curcuma amada,exact_normalized,92,true
+Spinacia oleracea,IMPPAT3_PLTID002923,Spinacia oleracea,exact_normalized,18,true
+Cinnamomum aromaticum,,,unmatched,0,false
+Tamarix aphylla,IMPPAT3_PLTID003021,Tamarix aphylla,exact_normalized,15,true
+Salvadora persica,IMPPAT3_PLTID002700,Salvadora persica,exact_normalized,145,true
+Atropa belladonna,IMPPAT3_PLTID000380,Atropa belladonna,exact_normalized,89,true
+Erycibe paniculata,,,unmatched,0,false
+Corchorus aestuans,IMPPAT3_PLTID000815,Corchorus aestuans,exact_normalized,30,true
+Fagonia cretica,IMPPAT3_PLTID001331,Fagonia cretica,exact_normalized,64,true
+Capparis decidua,IMPPAT3_PLTID000577,Capparis decidua,exact_normalized,150,true
+Garcinia indica,IMPPAT3_PLTID001418,Garcinia indica,exact_normalized,54,true
+Coix lacryma-jobi,IMPPAT3_PLTID000785,Coix lacryma-jobi,exact_normalized,48,true
+Flacourtia indica,IMPPAT3_PLTID001374,Flacourtia indica,exact_normalized,187,true
+Bridelia montana,IMPPAT3_PLTID000493,Bridelia montana,exact_normalized,13,true
+Commiphora schimperi,,,unmatched,0,false
+Anogeissus latifolia,IMPPAT3_PLTID000252,Anogeissus latifolia,exact_normalized,109,true
+Gynocardia odorata,IMPPAT3_PLTID001519,Gynocardia odorata,exact_normalized,32,true
+Acacia pennata,IMPPAT3_PLTID000029,Acacia pennata,exact_normalized,21,true
+Swertia angustifolia,IMPPAT3_PLTID002974,Swertia angustifolia,exact_normalized,4,true
+Vallaris solanacea,IMPPAT3_PLTID003181,Vallaris solanacea,exact_normalized,16,true
+Abelmoschus esculentus,IMPPAT3_PLTID000001,Abelmoschus esculentus,exact_normalized,39,true
+Calligonum polygonoides,,,unmatched,0,false
+Grewia tenax,IMPPAT3_PLTID001503,Grewia tenax,exact_normalized,35,true
+Citrullus colocynthis,IMPPAT3_PLTID000719,Citrullus colocynthis,exact_normalized,180,true
+Chonemorpha fragrans,IMPPAT3_PLTID000678,Chonemorpha fragrans,exact_normalized,39,true
+Rheum moorcroftianum,IMPPAT3_PLTID002576,Rheum moorcroftianum,exact_normalized,6,true
+Centipeda minima,IMPPAT3_PLTID000642,Centipeda minima,exact_normalized,50,true
+Ipomoea mauritiana,IMPPAT3_PLTID001716,Ipomoea mauritiana,exact_normalized,68,true
+Oxalis corniculata,IMPPAT3_PLTID002216,Oxalis corniculata,exact_normalized,281,true
+Hedyotis corymbosa,,,unmatched,0,false
+Wedelia chinensis,,,unmatched,0,false
+Raphanus sativus,,,unmatched,0,false
+Trichosanthes tricuspidata,IMPPAT3_PLTID003140,Trichosanthes tricuspidata,exact_normalized,50,true
+Piper longum,IMPPAT3_PLTID002364,Piper longum,exact_normalized,157,true
+Limonia acidissima,IMPPAT3_PLTID001889,Limonia acidissima,exact_normalized,82,true
+Clerodendrum indicum,IMPPAT3_PLTID000756,Clerodendrum indicum,exact_normalized,39,true
+Hydnocarpus pentandra,,,unmatched,0,false
+Juglans regia,IMPPAT3_PLTID001774,Juglans regia,exact_normalized,178,true
+Premna latifolia,,,unmatched,0,false
+Lasia spinosa,IMPPAT3_PLTID003620,Lasia spinosa,exact_normalized,33,true
+Artemisia maritima,IMPPAT3_PLTID000330,Artemisia maritima,exact_normalized,53,true
+Commiphora abyssinica,,,unmatched,0,false
+Phragmites karka,,,unmatched,0,false
+Clematis triloba,,,unmatched,0,false
+Zaleya decandra,IMPPAT3_PLTID003273,Zaleya decandra,exact_normalized,25,true
+Aisandra butyracea,,,unmatched,0,false
+Jasminum multiflorum,IMPPAT3_PLTID001762,Jasminum multiflorum,exact_normalized,45,true
+Flacourtia ramontchi,,,unmatched,0,false
+Selinum candollei,,,unmatched,0,false
+Selaginella rupestris,,,unmatched,0,false
+Rheum palmatum,IMPPAT3_PLTID002578,Rheum palmatum,exact_normalized,2,true
+Phoenix humilis,,,unmatched,0,false
+Tylophora indica,IMPPAT3_PLTID003160,Tylophora indica,exact_normalized,58,true
+Convolvulus prostratus,IMPPAT3_PLTID000810,Convolvulus prostratus,exact_normalized,54,true
+Garcinia cowa,IMPPAT3_PLTID001415,Garcinia cowa,exact_normalized,27,true
+Ocimum americanum,IMPPAT3_PLTID002165,Ocimum americanum,exact_normalized,181,true
+Hyptis suaveolens,IMPPAT3_PLTID001668,Hyptis suaveolens,exact_normalized,114,true
+Berberis aristata,IMPPAT3_PLTID000427,Berberis aristata,exact_normalized,110,true
+Fagopyrum tataricum,IMPPAT3_PLTID001336,Fagopyrum tataricum,exact_normalized,15,true
+Macrotyloma uniflorum,IMPPAT3_PLTID001962,Macrotyloma uniflorum,exact_normalized,72,true
+Manilkara hexandra,IMPPAT3_PLTID001997,Manilkara hexandra,exact_normalized,84,true
+Boswellia serrata,IMPPAT3_PLTID000481,Boswellia serrata,exact_normalized,146,true
+Drypetes roxburghii,,,unmatched,0,false
+Swertia lawii,,,unmatched,0,false
+Iris ensata,IMPPAT3_PLTID001731,Iris ensata,exact_normalized,25,true
+Luffa graveolens,IMPPAT3_PLTID003635,Luffa graveolens,exact_normalized,6,true
+Viburnum nervosum,IMPPAT3_PLTID003209,Viburnum nervosum,exact_normalized,4,true
+Cyperus esculentus,IMPPAT3_PLTID000989,Cyperus esculentus,exact_normalized,22,true
+Datura innoxia,IMPPAT3_PLTID001023,Datura innoxia,exact_normalized,64,true
+Ferula jaeschkeana,IMPPAT3_PLTID001349,Ferula jaeschkeana,exact_normalized,46,true
+Wrightia coccinea,,,unmatched,0,false
+Argyreia setosa,,,unmatched,0,false
+Sesbania bispinosa,IMPPAT3_PLTID002820,Sesbania bispinosa,exact_normalized,17,true
+Picrasma quassioides,IMPPAT3_PLTID002335,Picrasma quassioides,exact_normalized,9,true
+Tridax procumbens,IMPPAT3_PLTID003141,Tridax procumbens,exact_normalized,20,true
+Catunaregum spinosa,,,unmatched,0,false
+Myrtus communis,IMPPAT3_PLTID002120,Myrtus communis,exact_normalized,75,true
+Pterospermum acerifolium,IMPPAT3_PLTID002513,Pterospermum acerifolium,exact_normalized,13,true
+Breynia retusa,,,unmatched,0,false
+Jasminum sambac,IMPPAT3_PLTID001766,Jasminum sambac,exact_normalized,72,true
+Terminalia chebula,IMPPAT3_PLTID003058,Terminalia chebula,exact_normalized,147,true
+Diplocyclos palmatus,IMPPAT3_PLTID003691,Diplocyclos palmatus,exact_normalized,32,true
+Cyperus rotundus,IMPPAT3_PLTID000992,Cyperus rotundus,exact_normalized,243,true
+Ichnocarpus frutescens,IMPPAT3_PLTID001672,Ichnocarpus frutescens,exact_normalized,155,true
+Arisaema alba,,,unmatched,0,false
+Aconitum bisma,,,unmatched,0,false
+Sesbania cannabina,,,unmatched,0,false
+Maranta arundinacea,IMPPAT3_PLTID002002,Maranta arundinacea,exact_normalized,36,true
+Eulophia campestris,,,unmatched,0,false
+Nyctanthes arbor-tristis,IMPPAT3_PLTID002152,Nyctanthes arbor-tristis,exact_normalized,259,true
+Phoenix sylvestris,IMPPAT3_PLTID002311,Phoenix sylvestris,exact_normalized,9,true
+Salix tetrasperma,IMPPAT3_PLTID002694,Salix tetrasperma,exact_normalized,13,true
+Tragia involucrata,IMPPAT3_PLTID003122,Tragia involucrata,exact_normalized,31,true
+Mammea suriga,IMPPAT3_PLTID001993,Mammea suriga,exact_normalized,37,true
+Diospyros exsculpta,IMPPAT3_PLTID001106,Diospyros exsculpta,exact_normalized,73,true
+Vitis vinifera,IMPPAT3_PLTID003242,Vitis vinifera,exact_normalized,101,true
+Plumbago auriculata,IMPPAT3_PLTID002405,Plumbago auriculata,exact_normalized,4,true
+Aconitum atrox,,,unmatched,0,false
+Vetiveria zizanioides,,,unmatched,0,false
+Evolvulus alsinoides,IMPPAT3_PLTID001326,Evolvulus alsinoides,exact_normalized,155,true
+Euphorbia thymifolia,IMPPAT3_PLTID001314,Euphorbia thymifolia,exact_normalized,91,true
+Centratherum anthelminticum,,,unmatched,0,false
+Hymenodictyon orixense,IMPPAT3_PLTID001647,Hymenodictyon orixense,exact_normalized,62,true
+Aconitum ferox,IMPPAT3_PLTID000057,Aconitum ferox,exact_normalized,60,true
+Blepharis persica,,,unmatched,0,false
+Euryale ferox,IMPPAT3_PLTID001324,Euryale ferox,exact_normalized,9,true
+Saccharum sinense,,,unmatched,0,false
+Sansevieria hyacinthoides,,,unmatched,0,false
+Euphorbia neriifolia,IMPPAT3_PLTID001304,Euphorbia neriifolia,exact_normalized,154,true
+Mimusops elengi,IMPPAT3_PLTID002066,Mimusops elengi,exact_normalized,207,true
+Bridelia retusa,IMPPAT3_PLTID000494,Bridelia retusa,exact_normalized,30,true
+Adiantum lunulatum,IMPPAT3_PLTID000090,Adiantum lunulatum,exact_normalized,43,true
+Swertia ciliata,IMPPAT3_PLTID002978,Swertia ciliata,exact_normalized,4,true
+Aristolochia bracteolata,IMPPAT3_PLTID000298,Aristolochia bracteolata,exact_normalized,71,true
+Commiphora agallocha,,,unmatched,0,false
+Strychnos colubrina,IMPPAT3_PLTID002960,Strychnos colubrina,exact_normalized,16,true
+Tephrosia spinosa,,,unmatched,0,false
+Ocimum kilimandscharicum,IMPPAT3_PLTID002170,Ocimum kilimandscharicum,exact_normalized,38,true
+Kalanchoe integra,IMPPAT3_PLTID001796,Kalanchoe integra,exact_normalized,19,true
+Cinchona officinalis,IMPPAT3_PLTID000698,Cinchona officinalis,exact_normalized,59,true
+Cyclea arnotii,,,unmatched,0,false
+Cucumis pseudo-colocynthi,,,unmatched,0,false
+Tylophora fasciculata,,,unmatched,0,false
+Areca catechu,IMPPAT3_PLTID000290,Areca catechu,exact_normalized,85,true
+Dalbergia volubilis,IMPPAT3_PLTID001013,Dalbergia volubilis,exact_normalized,18,true
+Euphorbia tirucalli,IMPPAT3_PLTID001315,Euphorbia tirucalli,exact_normalized,96,true
+Mucuna monosperma,,,unmatched,0,false
+Glinus oppositifolius,IMPPAT3_PLTID001467,Glinus oppositifolius,exact_normalized,23,true
+Kalanchoe laciniata,IMPPAT3_PLTID001797,Kalanchoe laciniata,exact_normalized,41,true
+Cassia sophera,,,unmatched,0,false
+Taraxacum officinale,,,unmatched,0,false
+Amaranthus lividus,,,unmatched,0,false
+Bacopa monnieri,IMPPAT3_PLTID000393,Bacopa monnieri,exact_normalized,110,true
+Salvadora oleoides,IMPPAT3_PLTID002699,Salvadora oleoides,exact_normalized,9,true
+Anacyclus pyrethrum,IMPPAT3_PLTID000208,Anacyclus pyrethrum,exact_normalized,54,true
+Bunium persicum,IMPPAT3_PLTID000516,Bunium persicum,exact_normalized,7,true
+Commiphora molmol,,,unmatched,0,false
+Prunus persica,IMPPAT3_PLTID002489,Prunus persica,exact_normalized,23,true
+Tribulus terrestris,IMPPAT3_PLTID003133,Tribulus terrestris,exact_normalized,164,true
+Thespesia populnea,IMPPAT3_PLTID003091,Thespesia populnea,exact_normalized,94,true
+Solanum virginianum,IMPPAT3_PLTID002887,Solanum virginianum,exact_normalized,101,true
+Desmodium heterocarpon,,,unmatched,0,false
+Dioscorea hispida,IMPPAT3_PLTID001098,Dioscorea hispida,exact_normalized,13,true
+Dactyloctenium aegyptium,IMPPAT3_PLTID003686,Dactyloctenium aegyptium,exact_normalized,11,true
+Cressa cretica,IMPPAT3_PLTID000860,Cressa cretica,exact_normalized,34,true
+Symplocos paniculata,IMPPAT3_PLTID004148,Symplocos paniculata,exact_normalized,47,true
+Trianthema portulacastrum,IMPPAT3_PLTID003130,Trianthema portulacastrum,exact_normalized,36,true
+Piper wallichii,IMPPAT3_PLTID002374,Piper wallichii,exact_normalized,2,true
+Euphorbia hirta,IMPPAT3_PLTID001296,Euphorbia hirta,exact_normalized,229,true
+Gossypium barbadense,IMPPAT3_PLTID001495,Gossypium barbadense,exact_normalized,12,true
+Alangium salvifolium,,,unmatched,0,false
+Coptis teeta,IMPPAT3_PLTID000813,Coptis teeta,exact_normalized,48,true
+Arundo donax,IMPPAT3_PLTID000350,Arundo donax,exact_normalized,17,true
+Canscora decussata,,,unmatched,0,false
+Holostemma ada-kodien,IMPPAT3_PLTID001616,Holostemma ada-kodien,exact_normalized,54,true
+Tricholepis glaberrima,IMPPAT3_PLTID003136,Tricholepis glaberrima,exact_normalized,7,true
+Gmelina arborea,IMPPAT3_PLTID001481,Gmelina arborea,exact_normalized,262,true
+Dactylorhiza hatagirea,IMPPAT3_PLTID004132,Dactylorhiza hatagirea,exact_normalized,28,true
+Tetracera scandens,IMPPAT3_PLTID003068,Tetracera scandens,exact_normalized,17,true
+Trachyspermum ammi,IMPPAT3_PLTID003119,Trachyspermum ammi,exact_normalized,78,true
+Scindapsus officinalis,IMPPAT3_PLTID002766,Scindapsus officinalis,exact_normalized,28,true
+Mimosa pudica,IMPPAT3_PLTID002064,Mimosa pudica,exact_normalized,294,true
+Stereospermum colais,,,unmatched,0,false
+Smilax aspera,IMPPAT3_PLTID002853,Smilax aspera,exact_normalized,5,true
+Asparagus adscendens,IMPPAT3_PLTID000354,Asparagus adscendens,exact_normalized,32,true
+Pandanus fascicularis,,,unmatched,0,false
+Sida cordifolia,IMPPAT3_PLTID002836,Sida cordifolia,exact_normalized,78,true
+Swertia paniculata,IMPPAT3_PLTID002982,Swertia paniculata,exact_normalized,4,true
+Vigna radiata,IMPPAT3_PLTID003222,Vigna radiata,exact_normalized,48,true
+Solanum anguivi,IMPPAT3_PLTID002862,Solanum anguivi,exact_normalized,82,true
+Barleria prionitis,IMPPAT3_PLTID000406,Barleria prionitis,exact_normalized,101,true
+Brassica juncea,IMPPAT3_PLTID000487,Brassica juncea,exact_normalized,39,true
+Saccharum officinarum,IMPPAT3_PLTID002681,Saccharum officinarum,exact_normalized,64,true
+Musa paradisiaca,IMPPAT3_PLTID002108,Musa paradisiaca,exact_normalized,341,true
+Abies spectabilis,IMPPAT3_PLTID000006,Abies spectabilis,exact_normalized,65,true
+Ficus microcarpa,IMPPAT3_PLTID001363,Ficus microcarpa,exact_normalized,73,true
+Chenopodium album,IMPPAT3_PLTID000669,Chenopodium album,exact_normalized,87,true
+Crotalaria juncea,IMPPAT3_PLTID000879,Crotalaria juncea,exact_normalized,27,true
+Coccinia grandis,IMPPAT3_PLTID000770,Coccinia grandis,exact_normalized,180,true
+Piper cubeba,IMPPAT3_PLTID002361,Piper cubeba,exact_normalized,89,true
+Helicteres isora,IMPPAT3_PLTID001547,Helicteres isora,exact_normalized,200,true
+Trichodesma indicum,IMPPAT3_PLTID003134,Trichodesma indicum,exact_normalized,33,true
+Rhododendron anthopogon,IMPPAT3_PLTID002590,Rhododendron anthopogon,exact_normalized,3,true
+Lepidium iberis,,,unmatched,0,false
+Prunus cerasus,IMPPAT3_PLTID002483,Prunus cerasus,exact_normalized,9,true
+Acanthus ilicifolius,IMPPAT3_PLTID000043,Acanthus ilicifolius,exact_normalized,36,true
+Gentiana olivieri,IMPPAT3_PLTID001439,Gentiana olivieri,exact_normalized,20,true
+Tinospora cordifolia,,,unmatched,0,false
+Iris germanica,IMPPAT3_PLTID001733,Iris germanica,exact_normalized,20,true
+Aconitum heterophyllum,IMPPAT3_PLTID000060,Aconitum heterophyllum,exact_normalized,73,true
+Triticum aestivum,IMPPAT3_PLTID003151,Triticum aestivum,exact_normalized,23,true
+Abrus precatorius,IMPPAT3_PLTID000008,Abrus precatorius,exact_normalized,192,true
+Canavalia gladiata,IMPPAT3_PLTID000571,Canavalia gladiata,exact_normalized,14,true
+Pergularia daemia,IMPPAT3_PLTID002278,Pergularia daemia,exact_normalized,101,true
+Eruca sativa,,,unmatched,0,false
+Citrus limon,IMPPAT3_PLTID000726,Citrus limon,exact_normalized,86,true
+Melia dubia,,,unmatched,0,false
+Podophyllum hexandrum,,,unmatched,0,false
+Portulaca oleracea,IMPPAT3_PLTID002454,Portulaca oleracea,exact_normalized,109,true
+Digera muricata,IMPPAT3_PLTID001086,Digera muricata,exact_normalized,26,true
+Plectranthus ambonicus,,,unmatched,0,false
+Orthosiphon pallidus,IMPPAT3_PLTID003671,Orthosiphon pallidus,exact_normalized,18,true
+Osmanthus fragrans,IMPPAT3_PLTID002210,Osmanthus fragrans,exact_normalized,4,true
+Picrorhiza kurroa,IMPPAT3_PLTID002337,Picrorhiza kurroa,exact_normalized,81,true
+Diospyros melanoxylon,IMPPAT3_PLTID001110,Diospyros melanoxylon,exact_normalized,99,true
+Viscum monoicum,IMPPAT3_PLTID003234,Viscum monoicum,exact_normalized,1,true
+Anethum graveolens,IMPPAT3_PLTID000234,Anethum graveolens,exact_normalized,59,true
+Sapindus trifoliatus,IMPPAT3_PLTID002727,Sapindus trifoliatus,exact_normalized,14,true
+Ailanthus triphysa,IMPPAT3_PLTID000125,Ailanthus triphysa,exact_normalized,11,true
+Aloe vera,IMPPAT3_PLTID000167,Aloe vera,exact_normalized,156,true
+Cucumis melo,IMPPAT3_PLTID000911,Cucumis melo,exact_normalized,119,true
+Psidium guajava,IMPPAT3_PLTID002497,Psidium guajava,exact_normalized,70,true
+Justicia beddomei,IMPPAT3_PLTID001784,Justicia beddomei,exact_normalized,28,true
+Euphorbia pilosa,IMPPAT3_PLTID004100,Euphorbia pilosa,exact_normalized,10,true
+Stephania japonica,IMPPAT3_PLTID002944,Stephania japonica,exact_normalized,5,true
+Trichosanthes dioica,IMPPAT3_PLTID003139,Trichosanthes dioica,exact_normalized,31,true
+Argyreia malabarica,,,unmatched,0,false
+Morus australis,IMPPAT3_PLTID002095,Morus australis,exact_normalized,30,true
+Triumfetta rotundifolia,,,unmatched,0,false
+Luffa cylindrica,IMPPAT3_PLTID001932,Luffa cylindrica,exact_normalized,93,true
+Cymbopogon schoenanthus,IMPPAT3_PLTID000976,Cymbopogon schoenanthus,exact_normalized,27,true
+Pedalium murex,IMPPAT3_PLTID002266,Pedalium murex,exact_normalized,85,true
+Croton tiglium,IMPPAT3_PLTID000904,Croton tiglium,exact_normalized,101,true
+Garcinia pedunculata,IMPPAT3_PLTID001423,Garcinia pedunculata,exact_normalized,50,true
+Pongamia pinnata,IMPPAT3_PLTID002447,Pongamia pinnata,exact_normalized,214,true
+Cassia senna,,,unmatched,0,false
+Gossypium arboreum,IMPPAT3_PLTID001494,Gossypium arboreum,exact_normalized,54,true
+Diospyros montana,IMPPAT3_PLTID001111,Diospyros montana,exact_normalized,37,true
+Echinops echinatus,IMPPAT3_PLTID001165,Echinops echinatus,exact_normalized,82,true
+Inula racemosa,IMPPAT3_PLTID001700,Inula racemosa,exact_normalized,112,true
+Centaurium roxburghii,,,unmatched,0,false
+Acacia arabica,,,unmatched,0,false
+Onosma echioides,IMPPAT3_PLTID002188,Onosma echioides,exact_normalized,23,true
+Emblica officinalis,,,unmatched,0,false
+Pentatropis nivalis,,,unmatched,0,false
+Sida cordata,IMPPAT3_PLTID002835,Sida cordata,exact_normalized,24,true
+Justicia procumbens,IMPPAT3_PLTID001790,Justicia procumbens,exact_normalized,24,true
+Annona reticulata,IMPPAT3_PLTID000248,Annona reticulata,exact_normalized,36,true
+Cicer arietinum,IMPPAT3_PLTID000693,Cicer arietinum,exact_normalized,102,true
+Bauhinia variegata,IMPPAT3_PLTID000423,Bauhinia variegata,exact_normalized,121,true
+Dalbergia sissoides,IMPPAT3_PLTID001009,Dalbergia sissoides,exact_normalized,3,true
+Celastrus paniculatus,IMPPAT3_PLTID000631,Celastrus paniculatus,exact_normalized,178,true
+Teramnus labialis,IMPPAT3_PLTID003052,Teramnus labialis,exact_normalized,36,true
+Prosopis cineraria,IMPPAT3_PLTID002476,Prosopis cineraria,exact_normalized,24,true
+Sida acuta,IMPPAT3_PLTID002834,Sida acuta,exact_normalized,19,true
+Amomum xanthioides,,,unmatched,0,false
+Zingiber zerumbet,IMPPAT3_PLTID003294,Zingiber zerumbet,exact_normalized,18,true
+Quercus ilex,IMPPAT3_PLTID002542,Quercus ilex,exact_normalized,1,true
+Acorus calamus,IMPPAT3_PLTID000067,Acorus calamus,exact_normalized,229,true
+Moringa oleifera,IMPPAT3_PLTID002092,Moringa oleifera,exact_normalized,538,true
+Vateria indica,IMPPAT3_PLTID003187,Vateria indica,exact_normalized,69,true
+Hiptage benghalensis,IMPPAT3_PLTID001609,Hiptage benghalensis,exact_normalized,90,true
+Ferula narthex,IMPPAT3_PLTID001351,Ferula narthex,exact_normalized,39,true
+Euphorbia antiquorum,IMPPAT3_PLTID001286,Euphorbia antiquorum,exact_normalized,122,true
+Barleria strigosa,IMPPAT3_PLTID000407,Barleria strigosa,exact_normalized,24,true
+Schleichera oleosa,IMPPAT3_PLTID002762,Schleichera oleosa,exact_normalized,26,true
+Dioscorea belophylla,,,unmatched,0,false
+Tagetes erecta,IMPPAT3_PLTID003016,Tagetes erecta,exact_normalized,48,true
+Ephedra gerardiana,IMPPAT3_PLTID001207,Ephedra gerardiana,exact_normalized,82,true
+Plantago lanceolata,IMPPAT3_PLTID002390,Plantago lanceolata,exact_normalized,30,true
+Plumbago zeylanica,IMPPAT3_PLTID002407,Plumbago zeylanica,exact_normalized,175,true
+Coix gigantea,,,unmatched,0,false
+Tacca integrifolia,IMPPAT3_PLTID003013,Tacca integrifolia,exact_normalized,6,true
+Rubia cordifolia,IMPPAT3_PLTID002650,Rubia cordifolia,exact_normalized,134,true
+Peucedanum grande,IMPPAT3_PLTID002304,Peucedanum grande,exact_normalized,7,true
+Tephrosia candida,IMPPAT3_PLTID003045,Tephrosia candida,exact_normalized,6,true
+Syzygium cerasoides,,,unmatched,0,false
+Artocarpus lakoocha,,,unmatched,0,false
+Miliusa velutina,,,unmatched,0,false
+Oxalis latifolia,,,unmatched,0,false
+Pistacia integerrima,,,unmatched,0,false
+Phaseolus mungo,,,unmatched,0,false
+Remusatia vivipara,,,unmatched,0,false
+Fritillaria roylei,,,unmatched,0,false
+Oryza sativa,IMPPAT3_PLTID002208,Oryza sativa,exact_normalized,116,true
+Pterospermum suberifolium,IMPPAT3_PLTID002517,Pterospermum suberifolium,exact_normalized,3,true
+Cinchona calisaya,IMPPAT3_PLTID000697,Cinchona calisaya,exact_normalized,57,true
+Paris polyphylla,IMPPAT3_PLTID002247,Paris polyphylla,exact_normalized,6,true
+Luffa echinata,IMPPAT3_PLTID001933,Luffa echinata,exact_normalized,98,true
+Capsicum annuum,IMPPAT3_PLTID000583,Capsicum annuum,exact_normalized,155,true
+Parmelia perlata,,,unmatched,0,false
+Bauhinia purpurea,IMPPAT3_PLTID000417,Bauhinia purpurea,exact_normalized,61,true
+Jasminum auriculatum,IMPPAT3_PLTID001755,Jasminum auriculatum,exact_normalized,20,true
+Viola odorata,IMPPAT3_PLTID003229,Viola odorata,exact_normalized,21,true
+Alhagi pseudalhagi,,,unmatched,0,false
+Cedrela toona,,,unmatched,0,false
+Pistia stratiotes,IMPPAT3_PLTID002381,Pistia stratiotes,exact_normalized,52,true
+Centella asiatica,IMPPAT3_PLTID000641,Centella asiatica,exact_normalized,261,true
+Setaria italica,IMPPAT3_PLTID002829,Setaria italica,exact_normalized,12,true
+Smilax china,IMPPAT3_PLTID002854,Smilax china,exact_normalized,41,true
+Phoenix dactylifera,IMPPAT3_PLTID002309,Phoenix dactylifera,exact_normalized,70,true
+Prunus cerasoides,IMPPAT3_PLTID002482,Prunus cerasoides,exact_normalized,39,true
+Careya arborea,IMPPAT3_PLTID000591,Careya arborea,exact_normalized,131,true
+Nymphaea stellata,,,unmatched,0,false
+Marsdenia tenacissima,IMPPAT3_PLTID002005,Marsdenia tenacissima,exact_normalized,35,true
+Phyllanthus urinaria,IMPPAT3_PLTID002322,Phyllanthus urinaria,exact_normalized,11,true
+Randia uliginosa,,,unmatched,0,false
+Ananas comosus,IMPPAT3_PLTID000211,Ananas comosus,exact_normalized,89,true
+Brassica nigra,IMPPAT3_PLTID000489,Brassica nigra,exact_normalized,48,true
+Tamarix dioica,IMPPAT3_PLTID003022,Tamarix dioica,exact_normalized,14,true
+Mentha arvensis,IMPPAT3_PLTID002034,Mentha arvensis,exact_normalized,174,true
+Cajanus cajan,IMPPAT3_PLTID000537,Cajanus cajan,exact_normalized,92,true
+Semecarpus anacardium,IMPPAT3_PLTID002786,Semecarpus anacardium,exact_normalized,147,true
+Hibiscus rosa-sinensis,IMPPAT3_PLTID001595,Hibiscus rosa-sinensis,exact_normalized,233,true
+Capparis zeylanica,IMPPAT3_PLTID000581,Capparis zeylanica,exact_normalized,62,true
+Maytenus senegalensis,,,unmatched,0,false
+Urtica dioica,IMPPAT3_PLTID003171,Urtica dioica,exact_normalized,18,true
+Vitex leucoxylon,,,unmatched,0,false
+Gymnema sylvestre,IMPPAT3_PLTID001511,Gymnema sylvestre,exact_normalized,218,true
+Euphorbia microphylla,,,unmatched,0,false
+Eupatorium triplinerve,,,unmatched,0,false
+Typha laxmannii,,,unmatched,0,false
+Pinus roxburghii,IMPPAT3_PLTID002355,Pinus roxburghii,exact_normalized,137,true
+Leptadenia reticulata,IMPPAT3_PLTID001865,Leptadenia reticulata,exact_normalized,100,true
+Desmostachya bipinnata,IMPPAT3_PLTID004133,Desmostachya bipinnata,exact_normalized,37,true
+Cascabela thevetia,IMPPAT3_PLTID000603,Cascabela thevetia,exact_normalized,28,true
+Tamarix indica,IMPPAT3_PLTID003024,Tamarix indica,exact_normalized,10,true
+Aphanamixis polystachya,IMPPAT3_PLTID000264,Aphanamixis polystachya,exact_normalized,57,true
+Butea superba,IMPPAT3_PLTID000525,Butea superba,exact_normalized,40,true
+Pueraria tuberosa,IMPPAT3_PLTID002522,Pueraria tuberosa,exact_normalized,77,true
+Lens culinaris,IMPPAT3_PLTID001850,Lens culinaris,exact_normalized,50,true
+Argemone mexicana,IMPPAT3_PLTID000292,Argemone mexicana,exact_normalized,186,true
+Lagenaria siceraria,IMPPAT3_PLTID001823,Lagenaria siceraria,exact_normalized,122,true
+Abelmoschus moschatus,IMPPAT3_PLTID000004,Abelmoschus moschatus,exact_normalized,91,true
+Citrus grandis,,,unmatched,0,false
+Tabernaemontana divaricata,IMPPAT3_PLTID003011,Tabernaemontana divaricata,exact_normalized,79,true
+Physalis minima,IMPPAT3_PLTID002328,Physalis minima,exact_normalized,36,true
+Plectranthus vettiveroides,IMPPAT3_PLTID004107,Plectranthus vettiveroides,exact_normalized,2,true
+Aerva javanica,IMPPAT3_PLTID000098,Aerva javanica,exact_normalized,18,true
+Argyreia nervosa,IMPPAT3_PLTID000295,Argyreia nervosa,exact_normalized,123,true
+Myristica fragrans,IMPPAT3_PLTID002116,Myristica fragrans,exact_normalized,236,true
+Clerodendrum infortunatum,IMPPAT3_PLTID000757,Clerodendrum infortunatum,exact_normalized,87,true
+Gardenia incida,,,unmatched,0,false
+Commiphora myrrha,IMPPAT3_PLTID000800,Commiphora myrrha,exact_normalized,52,true
+Calophyllum inophyllum,IMPPAT3_PLTID000552,Calophyllum inophyllum,exact_normalized,112,true
+Chlorophytum arundinaceum,IMPPAT3_PLTID000673,Chlorophytum arundinaceum,exact_normalized,17,true
+Cassia auriculata,,,unmatched,0,false
+Dalbergia latifolia,IMPPAT3_PLTID001005,Dalbergia latifolia,exact_normalized,32,true
+Biophytum sensitivum,IMPPAT3_PLTID004113,Biophytum sensitivum,exact_normalized,4,true
+Hardwickia binata,IMPPAT3_PLTID001532,Hardwickia binata,exact_normalized,10,true
+Neptunia oleracea,IMPPAT3_PLTID003390,Neptunia oleracea,exact_normalized,38,true
+Wattakaka volubilis,,,unmatched,0,false
+Sida rhombifolia,IMPPAT3_PLTID002837,Sida rhombifolia,exact_normalized,58,true
+Glinus lotoides,IMPPAT3_PLTID001466,Glinus lotoides,exact_normalized,38,true
+Ficus carica,IMPPAT3_PLTID001358,Ficus carica,exact_normalized,75,true
+Anamirta cocculus,IMPPAT3_PLTID000210,Anamirta cocculus,exact_normalized,51,true
+Phaseolus lunatus,IMPPAT3_PLTID002305,Phaseolus lunatus,exact_normalized,2,true
+Cymbopogon citratus,IMPPAT3_PLTID000963,Cymbopogon citratus,exact_normalized,84,true
+Cymbopogon jwarancusa,IMPPAT3_PLTID000968,Cymbopogon jwarancusa,exact_normalized,79,true
+Cucurbita pepo,IMPPAT3_PLTID000917,Cucurbita pepo,exact_normalized,18,true
+Cissus quadrangularis,IMPPAT3_PLTID000714,Cissus quadrangularis,exact_normalized,129,true
+Cuminum cyminum,IMPPAT3_PLTID000920,Cuminum cyminum,exact_normalized,117,true
+Citrus sinensis,IMPPAT3_PLTID000733,Citrus sinensis,exact_normalized,30,true
+Clerodendrum serratum,,,unmatched,0,false
+Sansevieria roxburghiana,,,unmatched,0,false
+Cyperus amabilis,IMPPAT3_PLTID004131,Cyperus amabilis,exact_normalized,0,false
+Lagerstroemia speciosa,IMPPAT3_PLTID001827,Lagerstroemia speciosa,exact_normalized,36,true
+Sesbania grandiflora,IMPPAT3_PLTID002821,Sesbania grandiflora,exact_normalized,67,true
+Dillenia pentagyna,IMPPAT3_PLTID001091,Dillenia pentagyna,exact_normalized,35,true
+Swertia chirayita,IMPPAT3_PLTID002977,Swertia chirayita,exact_normalized,41,true
+Zingiber officinale,IMPPAT3_PLTID003293,Zingiber officinale,exact_normalized,105,true
+Eulophia spectabilis,IMPPAT3_PLTID001276,Eulophia spectabilis,exact_normalized,13,true
+Uraria rufescens,,,unmatched,0,false
+Melilotus indica,,,unmatched,0,false
+Amaranthus spinosus,IMPPAT3_PLTID000192,Amaranthus spinosus,exact_normalized,104,true
+Grewia optiva,,,unmatched,0,false
+Justicia adhatoda,IMPPAT3_PLTID001783,Justicia adhatoda,exact_normalized,184,true
+Tinospora sinensis,IMPPAT3_PLTID003105,Tinospora sinensis,exact_normalized,129,true
+Acacia leucophloea,IMPPAT3_PLTID000025,Acacia leucophloea,exact_normalized,73,true
+Ceriscoides turgida,IMPPAT3_PLTID000651,Ceriscoides turgida,exact_normalized,60,true
+Origanum vulgare,IMPPAT3_PLTID002203,Origanum vulgare,exact_normalized,120,true
+Bauhinia racemosa,IMPPAT3_PLTID000418,Bauhinia racemosa,exact_normalized,57,true
+Homonoia riparia,IMPPAT3_PLTID001619,Homonoia riparia,exact_normalized,39,true
+Curcuma zedoaria,IMPPAT3_PLTID000934,Curcuma zedoaria,exact_normalized,91,true
+Scirpus tuberosus,,,unmatched,0,false
+Quercus infectoria,IMPPAT3_PLTID002544,Quercus infectoria,exact_normalized,61,true
+Carissa carandas,IMPPAT3_PLTID000593,Carissa carandas,exact_normalized,75,true
+Catharanthus roseus,IMPPAT3_PLTID000625,Catharanthus roseus,exact_normalized,103,true
+Drimia indica,IMPPAT3_PLTID001138,Drimia indica,exact_normalized,33,true
+Salvia aegyptiaca,IMPPAT3_PLTID002701,Salvia aegyptiaca,exact_normalized,5,true
+Barringtonia acutangula,IMPPAT3_PLTID000408,Barringtonia acutangula,exact_normalized,136,true
+Jatropha curcas,IMPPAT3_PLTID001768,Jatropha curcas,exact_normalized,296,true
+Dodonaea viscosa,IMPPAT3_PLTID001126,Dodonaea viscosa,exact_normalized,67,true
+Caesalpinia decapetala,IMPPAT3_PLTID000532,Caesalpinia decapetala,exact_normalized,19,true
+Rheum rhaponticum,IMPPAT3_PLTID002579,Rheum rhaponticum,exact_normalized,1,true
+Citrus reticulata,IMPPAT3_PLTID000732,Citrus reticulata,exact_normalized,70,true
+Datura metel,IMPPAT3_PLTID001024,Datura metel,exact_normalized,243,true
+Sesamum indicum,IMPPAT3_PLTID002819,Sesamum indicum,exact_normalized,136,true
+Coffea arabica,IMPPAT3_PLTID000783,Coffea arabica,exact_normalized,36,true
+Averrhoa carambola,IMPPAT3_PLTID000383,Averrhoa carambola,exact_normalized,49,true
+Allium ascalonicum,IMPPAT3_PLTID000152,Allium ascalonicum,exact_normalized,36,true
+Desmodium gangeticum,IMPPAT3_PLTID001062,Desmodium gangeticum,exact_normalized,139,true
+Evolvulus nummularius,IMPPAT3_PLTID001327,Evolvulus nummularius,exact_normalized,19,true
+Casearia zeylanica,,,unmatched,0,false
+Melia azedarach,IMPPAT3_PLTID002021,Melia azedarach,exact_normalized,376,true
+Dioscorea pentaphylla,IMPPAT3_PLTID001100,Dioscorea pentaphylla,exact_normalized,18,true
+Asparagus racemosus,IMPPAT3_PLTID000359,Asparagus racemosus,exact_normalized,177,true
+Saccharum arundinaceum,,,unmatched,0,false
+Porana paniculata,,,unmatched,0,false
+Artemisia nilagirica,IMPPAT3_PLTID000332,Artemisia nilagirica,exact_normalized,99,true
+Andrographis paniculata,IMPPAT3_PLTID000224,Andrographis paniculata,exact_normalized,159,true
+Smilax glabra,IMPPAT3_PLTID002856,Smilax glabra,exact_normalized,3,true
+Cucumis sativus,IMPPAT3_PLTID000913,Cucumis sativus,exact_normalized,66,true
+Boerhavia diffusa,IMPPAT3_PLTID000474,Boerhavia diffusa,exact_normalized,236,true
+Sida alba,,,unmatched,0,false
+Dorema ammoniacum,IMPPAT3_PLTID001131,Dorema ammoniacum,exact_normalized,21,true
+Lodoicea maldivica,IMPPAT3_PLTID004140,Lodoicea maldivica,exact_normalized,12,true
+Cassine glauca,IMPPAT3_PLTID000615,Cassine glauca,exact_normalized,10,true
+Myrsine africana,IMPPAT3_PLTID002119,Myrsine africana,exact_normalized,23,true
+Rhamnus wightii,IMPPAT3_PLTID002571,Rhamnus wightii,exact_normalized,3,true
+Apium graveolens,IMPPAT3_PLTID000266,Apium graveolens,exact_normalized,96,true
+Clausena pentaphylla,,,unmatched,0,false
+Pentatropis capensis,IMPPAT3_PLTID002276,Pentatropis capensis,exact_normalized,6,true
+Momordica tuberosa,,,unmatched,0,false
+Moringa concanensis,IMPPAT3_PLTID002091,Moringa concanensis,exact_normalized,100,true
+Oxalis acetosella,IMPPAT3_PLTID002215,Oxalis acetosella,exact_normalized,15,true
+Borassus flabellifer,IMPPAT3_PLTID000480,Borassus flabellifer,exact_normalized,164,true
+Trapa natans,IMPPAT3_PLTID003126,Trapa natans,exact_normalized,59,true
+Rhododendron arboreum,IMPPAT3_PLTID002591,Rhododendron arboreum,exact_normalized,11,true
+Capsicum frutescens,,,unmatched,0,false
+Brassica oleracea,IMPPAT3_PLTID000490,Brassica oleracea,exact_normalized,68,true
+Rhus parviflora,IMPPAT3_PLTID002607,Rhus parviflora,exact_normalized,21,true
+Aristolochia indica,IMPPAT3_PLTID000301,Aristolochia indica,exact_normalized,132,true
+Pterocarpus santalinus,IMPPAT3_PLTID002510,Pterocarpus santalinus,exact_normalized,69,true
+Aegle marmelos,IMPPAT3_PLTID000097,Aegle marmelos,exact_normalized,203,true
+Cayratia pedata,,,unmatched,0,false
+Solanum torvum,IMPPAT3_PLTID002883,Solanum torvum,exact_normalized,12,true
+Allium wallichii,IMPPAT3_PLTID000159,Allium wallichii,exact_normalized,7,true
+Piper clusii,,,unmatched,0,false
+Pentapetes phoenicea,,,unmatched,0,false
+Barleria cristata,IMPPAT3_PLTID000404,Barleria cristata,exact_normalized,43,true
+Daucus carota,IMPPAT3_PLTID001027,Daucus carota,exact_normalized,107,true
+Prunus domestica,IMPPAT3_PLTID002486,Prunus domestica,exact_normalized,22,true
+Aconitum deinorrhizum,,,unmatched,0,false
+Prunus dulcis,IMPPAT3_PLTID002487,Prunus dulcis,exact_normalized,43,true
+Psoralea corylifolia,,,unmatched,0,false
+Curcuma angustifolia,IMPPAT3_PLTID000930,Curcuma angustifolia,exact_normalized,46,true
+Coscinium fenestratum,IMPPAT3_PLTID000844,Coscinium fenestratum,exact_normalized,95,true
+Crataeva magna,,,unmatched,0,false
+Jacobinia tinctoria,,,unmatched,0,false
+Amaranthus viridis,IMPPAT3_PLTID000194,Amaranthus viridis,exact_normalized,16,true
+Blepharispermum subsessile,IMPPAT3_PLTID000458,Blepharispermum subsessile,exact_normalized,13,true
+Nicotiana tabacum,IMPPAT3_PLTID002148,Nicotiana tabacum,exact_normalized,125,true
+Rheum webbianum,IMPPAT3_PLTID002580,Rheum webbianum,exact_normalized,5,true
+Allium stracheyi,,,unmatched,0,false
+Dolichandrone falcata,IMPPAT3_PLTID001128,Dolichandrone falcata,exact_normalized,12,true
+Stereospermum chelonoides,IMPPAT3_PLTID002949,Stereospermum chelonoides,exact_normalized,40,true
+Azadirachta indica,IMPPAT3_PLTID000388,Azadirachta indica,exact_normalized,433,true
+Ficus arnottiana,IMPPAT3_PLTID004135,Ficus arnottiana,exact_normalized,9,true
+Rumex vesicarius,IMPPAT3_PLTID002672,Rumex vesicarius,exact_normalized,32,true
+Euphorbia hypericifolia,IMPPAT3_PLTID001297,Euphorbia hypericifolia,exact_normalized,26,true
+Thalictrum foliolosum,IMPPAT3_PLTID003083,Thalictrum foliolosum,exact_normalized,24,true
+Plumbago indica,IMPPAT3_PLTID002406,Plumbago indica,exact_normalized,58,true
+Amaranthus hybridus,IMPPAT3_PLTID000190,Amaranthus hybridus,exact_normalized,16,true
+Pyrus communis,IMPPAT3_PLTID002536,Pyrus communis,exact_normalized,4,true
+Neolamarckia cadamba,IMPPAT3_PLTID002132,Neolamarckia cadamba,exact_normalized,82,true
+Majorana hortensis,,,unmatched,0,false
+Cryptolepis buchananii,,,unmatched,0,false
+Sesbania sesban,IMPPAT3_PLTID002823,Sesbania sesban,exact_normalized,30,true
+Juniperus communis,IMPPAT3_PLTID001777,Juniperus communis,exact_normalized,96,true
+Casearia elliptica,,,unmatched,0,false
+Mentha spicata,IMPPAT3_PLTID002039,Mentha spicata,exact_normalized,93,true
+Ficus talboti,,,unmatched,0,false
+Michelia champaca,,,unmatched,0,false
+Aralia quinquefolia,,,unmatched,0,false
+Berberis asiatica,IMPPAT3_PLTID000428,Berberis asiatica,exact_normalized,35,true
+Terminalia alata,IMPPAT3_PLTID003053,Terminalia alata,exact_normalized,9,true
+Thymus serpyllum,IMPPAT3_PLTID003098,Thymus serpyllum,exact_normalized,23,true
+Panicum psilopodium,,,unmatched,0,false
+Entada scandens,,,unmatched,0,false
+Ficus bengalensis,,,unmatched,0,false
+Hedychium spicatum,IMPPAT3_PLTID001541,Hedychium spicatum,exact_normalized,144,true
+Caesalpinia bonduc,IMPPAT3_PLTID000530,Caesalpinia bonduc,exact_normalized,234,true
+Croton roxburghii,,,unmatched,0,false
+Shorea robusta,IMPPAT3_PLTID002832,Shorea robusta,exact_normalized,131,true
+Haldina cordifolia,IMPPAT3_PLTID001526,Haldina cordifolia,exact_normalized,59,true
+Lawsonia inermis,IMPPAT3_PLTID001848,Lawsonia inermis,exact_normalized,205,true
+Ceratophyllum demersum,IMPPAT3_PLTID000647,Ceratophyllum demersum,exact_normalized,21,true
+Naringi crenulata,IMPPAT3_PLTID002128,Naringi crenulata,exact_normalized,39,true
+Hyoscyamus niger,IMPPAT3_PLTID001650,Hyoscyamus niger,exact_normalized,211,true
+Solanum nigrum,,,unmatched,0,false
+Cucurbita maxima,IMPPAT3_PLTID000915,Cucurbita maxima,exact_normalized,55,true
+Ocimum gratissimum,IMPPAT3_PLTID002169,Ocimum gratissimum,exact_normalized,163,true
+Aganosma dichotoma,IMPPAT3_PLTID000106,Aganosma dichotoma,exact_normalized,20,true
+Cedrus deodara,IMPPAT3_PLTID000628,Cedrus deodara,exact_normalized,146,true
+Scirpus articulatus,,,unmatched,0,false
+Mangifera indica,IMPPAT3_PLTID001995,Mangifera indica,exact_normalized,368,true
+Taxus wallichiana,IMPPAT3_PLTID003037,Taxus wallichiana,exact_normalized,18,true
+Dalbergia sissoo,IMPPAT3_PLTID001010,Dalbergia sissoo,exact_normalized,151,true
+Crinum asiaticum,IMPPAT3_PLTID000861,Crinum asiaticum,exact_normalized,70,true
+Mucuna pruriens,IMPPAT3_PLTID002100,Mucuna pruriens,exact_normalized,292,true
+Aquilaria malaccensis,IMPPAT3_PLTID000268,Aquilaria malaccensis,exact_normalized,29,true
+Jasminum officinale,IMPPAT3_PLTID001765,Jasminum officinale,exact_normalized,69,true
+Lagerstroemia indica,IMPPAT3_PLTID001824,Lagerstroemia indica,exact_normalized,17,true
+Tecomella undulata,IMPPAT3_PLTID003040,Tecomella undulata,exact_normalized,36,true
+Rosa brunonii,,,unmatched,0,false
+Zingiber purpureum,,,unmatched,0,false
+Foeniculum vulgare,IMPPAT3_PLTID001385,Foeniculum vulgare,exact_normalized,189,true
+Bixa orellana,IMPPAT3_PLTID000453,Bixa orellana,exact_normalized,68,true
+Myrica nagi,IMPPAT3_PLTID002113,Myrica nagi,exact_normalized,62,true
+Wrightia tinctoria,IMPPAT3_PLTID003260,Wrightia tinctoria,exact_normalized,51,true
+Fumaria officinalis,IMPPAT3_PLTID001400,Fumaria officinalis,exact_normalized,19,true
+Phoenix acaulis,,,unmatched,0,false
+Pisum sativum,IMPPAT3_PLTID002382,Pisum sativum,exact_normalized,17,true
+Capparis moonii,IMPPAT3_PLTID000578,Capparis moonii,exact_normalized,10,true
+Radermachera xylocarpa,IMPPAT3_PLTID002551,Radermachera xylocarpa,exact_normalized,5,true
+Trichosanthes cucumerina,IMPPAT3_PLTID003138,Trichosanthes cucumerina,exact_normalized,68,true
+Premna serratifolia,IMPPAT3_PLTID002468,Premna serratifolia,exact_normalized,16,true
+Commiphora wightii,IMPPAT3_PLTID000802,Commiphora wightii,exact_normalized,188,true
+Rhinacanthus nasuta,,,unmatched,0,false
+Cymbopogon nardus,IMPPAT3_PLTID000972,Cymbopogon nardus,exact_normalized,54,true
+Valeriana pyrolaefolia,,,unmatched,0,false
+Murdannia nudiflora,,,unmatched,0,false
+Calotropis gigantea,IMPPAT3_PLTID000558,Calotropis gigantea,exact_normalized,308,true
+Aconitum falconeri,,,unmatched,0,false
+Citrus aurantifolia,,,unmatched,0,false
+Dillenia indica,IMPPAT3_PLTID001090,Dillenia indica,exact_normalized,42,true
+Aloe variegata,,,unmatched,0,false
+Terminalia myriocarpa,IMPPAT3_PLTID003060,Terminalia myriocarpa,exact_normalized,4,true
+Elaeocarpus serratus,IMPPAT3_PLTID001177,Elaeocarpus serratus,exact_normalized,65,true
+Salix caprea,IMPPAT3_PLTID002689,Salix caprea,exact_normalized,16,true
+Curcuma aromatica,IMPPAT3_PLTID000931,Curcuma aromatica,exact_normalized,65,true
+Cordia gharaf,,,unmatched,0,false
+Canthium dicoccum,,,unmatched,0,false
+Martynia annua,IMPPAT3_PLTID002008,Martynia annua,exact_normalized,128,true
+Pistacia vera,IMPPAT3_PLTID002380,Pistacia vera,exact_normalized,8,true
+Delphinium semibarbatum,IMPPAT3_PLTID001038,Delphinium semibarbatum,exact_normalized,11,true
+Calamus tenuis,,,unmatched,0,false
+Toddalia asiatica,IMPPAT3_PLTID003108,Toddalia asiatica,exact_normalized,56,true
+Crotalaria verrucosa,IMPPAT3_PLTID000897,Crotalaria verrucosa,exact_normalized,26,true
+Echinochloa frumentacea,IMPPAT3_PLTID001164,Echinochloa frumentacea,exact_normalized,3,true
+Operculina turpethum,IMPPAT3_PLTID002193,Operculina turpethum,exact_normalized,118,true
+Meyna laxiflora,IMPPAT3_PLTID002050,Meyna laxiflora,exact_normalized,26,true
+Typha australis,,,unmatched,0,false
+Ranunculus sceleratus,IMPPAT3_PLTID002553,Ranunculus sceleratus,exact_normalized,12,true
+Terminalia arjuna,IMPPAT3_PLTID003054,Terminalia arjuna,exact_normalized,101,true
+Eragrostis tremula,,,unmatched,0,false
+Cassia occidentalis,,,unmatched,0,false
+Pogostemon cablin,IMPPAT3_PLTID002416,Pogostemon cablin,exact_normalized,11,true
+Morus alba,IMPPAT3_PLTID002094,Morus alba,exact_normalized,91,true
+Syzygium jambos,IMPPAT3_PLTID003000,Syzygium jambos,exact_normalized,22,true
+Acacia catechu,IMPPAT3_PLTID000016,Acacia catechu,exact_normalized,137,true
+Cordia wallichii,,,unmatched,0,false
+Curculigo orchioides,IMPPAT3_PLTID000928,Curculigo orchioides,exact_normalized,174,true
+Euphorbia trigona,,,unmatched,0,false
+Allium sativum,IMPPAT3_PLTID000155,Allium sativum,exact_normalized,160,true
+Ipomoea eriocarpa,,,unmatched,0,false
+Prunus armeniaca,IMPPAT3_PLTID002480,Prunus armeniaca,exact_normalized,4,true
+Marsilea minuta,IMPPAT3_PLTID002006,Marsilea minuta,exact_normalized,77,true
+Solanum tuberosum,IMPPAT3_PLTID002885,Solanum tuberosum,exact_normalized,16,true
+Pygmaeopremna herbacea,,,unmatched,0,false
+Inula royleana,IMPPAT3_PLTID001701,Inula royleana,exact_normalized,20,true
+Wendlandia heynei,,,unmatched,0,false
+Dioscorea esculanta,,,unmatched,0,false
+Betula utilis,IMPPAT3_PLTID000447,Betula utilis,exact_normalized,62,true
+Crepidium acuminatum,IMPPAT3_PLTID000858,Crepidium acuminatum,exact_normalized,30,true
+Soymida febrifuga,IMPPAT3_PLTID002909,Soymida febrifuga,exact_normalized,19,true
+Piper guineense,,,unmatched,0,false
+Erythrina variegata,IMPPAT3_PLTID001243,Erythrina variegata,exact_normalized,143,true
+Polygonum aviculare,IMPPAT3_PLTID002438,Polygonum aviculare,exact_normalized,11,true
+Cassia obtusifolia,,,unmatched,0,false
+Phyllanthus amarus,IMPPAT3_PLTID002317,Phyllanthus amarus,exact_normalized,30,true
+Ficus rumphii,IMPPAT3_PLTID001368,Ficus rumphii,exact_normalized,9,true
+Ipomoea nil,IMPPAT3_PLTID001718,Ipomoea nil,exact_normalized,48,true
+Piper betle,IMPPAT3_PLTID002360,Piper betle,exact_normalized,118,true
+Mollugo cerviana,IMPPAT3_PLTID002073,Mollugo cerviana,exact_normalized,53,true
+Jasminum bignoniaceum,,,unmatched,0,false
+Sapium insigne,,,unmatched,0,false
+Aglaia elaeagoidea,,,unmatched,0,false
+Clitoria ternatea,IMPPAT3_PLTID000768,Clitoria ternatea,exact_normalized,156,true
+Alkanna tinctoria,IMPPAT3_PLTID000146,Alkanna tinctoria,exact_normalized,1,true
+Saussurea costus,IMPPAT3_PLTID002741,Saussurea costus,exact_normalized,83,true
+Rumex acetosella,IMPPAT3_PLTID002663,Rumex acetosella,exact_normalized,7,true
+Cinnamomum tamala,IMPPAT3_PLTID000708,Cinnamomum tamala,exact_normalized,78,true
+Alpinia officinarum,IMPPAT3_PLTID000174,Alpinia officinarum,exact_normalized,15,true
+Garcinia morella,IMPPAT3_PLTID001421,Garcinia morella,exact_normalized,33,true
+Drypetes zeylanica,,,unmatched,0,false
+Delphinium glaciale,,,unmatched,0,false
+Eleusine indica,IMPPAT3_PLTID001183,Eleusine indica,exact_normalized,22,true
+Cucumis melo,IMPPAT3_PLTID000911,Cucumis melo,exact_normalized,119,true
+Typha angustata,,,unmatched,0,false
+Pinus gerardiana,IMPPAT3_PLTID002350,Pinus gerardiana,exact_normalized,43,true
+Embelia tsjeriam-cottam,IMPPAT3_PLTID001194,Embelia tsjeriam-cottam,exact_normalized,59,true
+Nardostachys grandiflora,,,unmatched,0,false
+Euphorbia acaulis,,,unmatched,0,false
+Gossypium herbaceum,IMPPAT3_PLTID001496,Gossypium herbaceum,exact_normalized,135,true
+Solanum melongena,IMPPAT3_PLTID002875,Solanum melongena,exact_normalized,38,true
+Polycarpaea corymbosa,IMPPAT3_PLTID002426,Polycarpaea corymbosa,exact_normalized,12,true
+Xanthium indicum,,,unmatched,0,false
+Jurinea dolomiaea,,,unmatched,0,false
+Dioscorea alata,IMPPAT3_PLTID001094,Dioscorea alata,exact_normalized,32,true
+Pogostemon heyneanus,IMPPAT3_PLTID002417,Pogostemon heyneanus,exact_normalized,3,true
+Amorphophallus paeoniifolius,IMPPAT3_PLTID000206,Amorphophallus paeoniifolius,exact_normalized,107,true
+Angelica archangelica,IMPPAT3_PLTID000236,Angelica archangelica,exact_normalized,47,true
+Ipomoea sepiaria,,,unmatched,0,false
+Symplocos sumuntia,IMPPAT3_PLTID002993,Symplocos sumuntia,exact_normalized,6,true
+Cinnamomum camphora,IMPPAT3_PLTID000702,Cinnamomum camphora,exact_normalized,89,true
+Tephrosia purpurea,IMPPAT3_PLTID003049,Tephrosia purpurea,exact_normalized,75,true
+Quercus leucotrichophora,,,unmatched,0,false
+Ficus heterophylla,,,unmatched,0,false
+Ricinus communis,IMPPAT3_PLTID002620,Ricinus communis,exact_normalized,174,true
+Asclepias curassavica,IMPPAT3_PLTID000353,Asclepias curassavica,exact_normalized,55,true
+Crocus sativus,IMPPAT3_PLTID000866,Crocus sativus,exact_normalized,103,true
+Abelmoschus crinitus,,,unmatched,0,false
+Rungia repens,IMPPAT3_PLTID002673,Rungia repens,exact_normalized,8,true
+Ipomoea aquatica,IMPPAT3_PLTID001704,Ipomoea aquatica,exact_normalized,96,true
+Ocimum basilicum,IMPPAT3_PLTID002166,Ocimum basilicum,exact_normalized,366,true
+Cassia absus,,,unmatched,0,false
+Datura stramonium,IMPPAT3_PLTID001026,Datura stramonium,exact_normalized,81,true
+Myristica argentea,,,unmatched,0,false
+Linum usitatissimum,IMPPAT3_PLTID001896,Linum usitatissimum,exact_normalized,115,true
+Callicarpa macrophylla,IMPPAT3_PLTID000545,Callicarpa macrophylla,exact_normalized,94,true
+Juniperus polycarpos,IMPPAT3_PLTID001779,Juniperus polycarpos,exact_normalized,49,true
+Tephrosia uniflora,,,unmatched,0,false
+Onosma bracteatum,,,unmatched,0,false
+Sorghum vulgare,,,unmatched,0,false
+Bauhinia tomentosa,IMPPAT3_PLTID000421,Bauhinia tomentosa,exact_normalized,59,true
+Oplismenus burmannii,,,unmatched,0,false
+Bauhinia malabarica,IMPPAT3_PLTID000416,Bauhinia malabarica,exact_normalized,8,true
+Murraya koenigii,IMPPAT3_PLTID002105,Murraya koenigii,exact_normalized,244,true
+Ferula thomsoni,,,unmatched,0,false
+Paspalum scrobiculatum,IMPPAT3_PLTID002252,Paspalum scrobiculatum,exact_normalized,29,true
+Corallocarpus epigaeus,IMPPAT3_PLTID000814,Corallocarpus epigaeus,exact_normalized,62,true
+Punica granatum,IMPPAT3_PLTID002527,Punica granatum,exact_normalized,132,true
+Operculina petaloidea,,,unmatched,0,false
+Chlorophytum tuberosum,IMPPAT3_PLTID000674,Chlorophytum tuberosum,exact_normalized,23,true
+Barringtonia racemosa,IMPPAT3_PLTID000410,Barringtonia racemosa,exact_normalized,24,true
+Polyalthia longifolia,IMPPAT3_PLTID002424,Polyalthia longifolia,exact_normalized,25,true
+Bombax insigne,IMPPAT3_PLTID003500,Bombax insigne,exact_normalized,1,true
+Alternanthera sessilis,IMPPAT3_PLTID000183,Alternanthera sessilis,exact_normalized,60,true
+Vigna mungo,IMPPAT3_PLTID003221,Vigna mungo,exact_normalized,33,true
+Ficus racemosa,IMPPAT3_PLTID001365,Ficus racemosa,exact_normalized,296,true
+Uncaria sessilifructus,,,unmatched,0,false
+Valeriana jatamansi,IMPPAT3_PLTID003179,Valeriana jatamansi,exact_normalized,85,true
+Vitex negundo,IMPPAT3_PLTID003237,Vitex negundo,exact_normalized,189,true
+Ocimum tenuiflorum,IMPPAT3_PLTID002171,Ocimum tenuiflorum,exact_normalized,441,true
+Garcinia hanburyi,IMPPAT3_PLTID001417,Garcinia hanburyi,exact_normalized,1,true
+Gardenia gummifera,IMPPAT3_PLTID001427,Gardenia gummifera,exact_normalized,112,true
+Pseudarthria viscida,IMPPAT3_PLTID002493,Pseudarthria viscida,exact_normalized,39,true
+Vanda tessellata,IMPPAT3_PLTID003183,Vanda tessellata,exact_normalized,12,true
+Cynodon dactylon,IMPPAT3_PLTID000981,Cynodon dactylon,exact_normalized,209,true
+Euphorbia dracunculoides,IMPPAT3_PLTID001290,Euphorbia dracunculoides,exact_normalized,34,true
+Acampe papillosa,,,unmatched,0,false
+Baliospermum sinuatum,,,unmatched,0,false
+Cassia fistula,IMPPAT3_PLTID000609,Cassia fistula,exact_normalized,347,true
+Mesua nagassarium,,,unmatched,0,false
+Setaria glauca,,,unmatched,0,false
+Saraca asoca,IMPPAT3_PLTID002729,Saraca asoca,exact_normalized,98,true
+Indigofera tinctoria,IMPPAT3_PLTID001692,Indigofera tinctoria,exact_normalized,199,true
+Cocculus hirsutus,IMPPAT3_PLTID000771,Cocculus hirsutus,exact_normalized,98,true
+Wrightia arborea,IMPPAT3_PLTID003259,Wrightia arborea,exact_normalized,31,true
+Euphorbia royleana,IMPPAT3_PLTID001311,Euphorbia royleana,exact_normalized,27,true
+Ruta graveolens,IMPPAT3_PLTID002678,Ruta graveolens,exact_normalized,70,true
+Cleome viscosa,IMPPAT3_PLTID000753,Cleome viscosa,exact_normalized,77,true
+Argyreia fulgens,,,unmatched,0,false
+Potentilla nepalensis,,,unmatched,0,false
+Gardenia latifolia,IMPPAT3_PLTID001429,Gardenia latifolia,exact_normalized,14,true
+Asparagus filicinus,IMPPAT3_PLTID000356,Asparagus filicinus,exact_normalized,7,true
+Physalis peruviana,IMPPAT3_PLTID002329,Physalis peruviana,exact_normalized,5,true
+Gloriosa superba,IMPPAT3_PLTID001473,Gloriosa superba,exact_normalized,281,true
+Benincasa hispida,IMPPAT3_PLTID000426,Benincasa hispida,exact_normalized,96,true
+Canscora diffusa,IMPPAT3_PLTID000575,Canscora diffusa,exact_normalized,22,true
+Capparis sepiaria,IMPPAT3_PLTID000579,Capparis sepiaria,exact_normalized,58,true
+Lepidium sativum,IMPPAT3_PLTID001861,Lepidium sativum,exact_normalized,88,true
+Piper nigrum,IMPPAT3_PLTID002366,Piper nigrum,exact_normalized,77,true
+Ipomoea batatas,IMPPAT3_PLTID001706,Ipomoea batatas,exact_normalized,31,true
+Zanthoxylum armatum,IMPPAT3_PLTID003279,Zanthoxylum armatum,exact_normalized,136,true
+Ceropegia tuberosa,,,unmatched,0,false
+Marsdenia roylei,IMPPAT3_PLTID003641,Marsdenia roylei,exact_normalized,13,true
+Dichrostachys cinerea,IMPPAT3_PLTID001077,Dichrostachys cinerea,exact_normalized,39,true
+Maerua oblongifolia,IMPPAT3_PLTID003514,Maerua oblongifolia,exact_normalized,11,true
+Phyllanthus acidus,IMPPAT3_PLTID002316,Phyllanthus acidus,exact_normalized,21,true
+Triumfetta rhomboidea,IMPPAT3_PLTID003152,Triumfetta rhomboidea,exact_normalized,31,true
+Syzygium aromaticum,IMPPAT3_PLTID002998,Syzygium aromaticum,exact_normalized,98,true
+Vitex trifolia,IMPPAT3_PLTID003240,Vitex trifolia,exact_normalized,60,true
+Momordica charantia,IMPPAT3_PLTID002078,Momordica charantia,exact_normalized,260,true
+Mentha longifolia,IMPPAT3_PLTID002035,Mentha longifolia,exact_normalized,82,true
+Bauhinia vahlii,IMPPAT3_PLTID000422,Bauhinia vahlii,exact_normalized,29,true
+Leptadenia spartium,,,unmatched,0,false
+Catharanthus pusillus,IMPPAT3_PLTID000624,Catharanthus pusillus,exact_normalized,11,true
+Cleome gynandra,IMPPAT3_PLTID000751,Cleome gynandra,exact_normalized,109,true
+Ampelocissus latifolia,,,unmatched,0,false
+Ficus hispida,IMPPAT3_PLTID001361,Ficus hispida,exact_normalized,178,true
+Leea macrophylla,,,unmatched,0,false
+Aconitum chasmanthum,IMPPAT3_PLTID000056,Aconitum chasmanthum,exact_normalized,28,true
+Indigofera oblongifolia,IMPPAT3_PLTID001690,Indigofera oblongifolia,exact_normalized,35,true
+Corchorus trilocularis,IMPPAT3_PLTID000820,Corchorus trilocularis,exact_normalized,16,true
+Dipterocarpus turbinatus,IMPPAT3_PLTID001123,Dipterocarpus turbinatus,exact_normalized,10,true
+Ammannia baccifera,IMPPAT3_PLTID000198,Ammannia baccifera,exact_normalized,42,true
+Ventilago madraspatana,,,unmatched,0,false
+Vigna unguiculata,IMPPAT3_PLTID003225,Vigna unguiculata,exact_normalized,45,true
+Lathyrus sativus,IMPPAT3_PLTID001841,Lathyrus sativus,exact_normalized,15,true
+Cynoglossum lanceolatum,,,unmatched,0,false
+Nerium oleander,IMPPAT3_PLTID002145,Nerium oleander,exact_normalized,198,true
+Bambusa arundinacea,,,unmatched,0,false
+Cinnamomum verum,IMPPAT3_PLTID000709,Cinnamomum verum,exact_normalized,166,true
+Prunus mahaleb,IMPPAT3_PLTID002488,Prunus mahaleb,exact_normalized,4,true
+Medicago sativa,IMPPAT3_PLTID002018,Medicago sativa,exact_normalized,19,true
+Berberis lycium,IMPPAT3_PLTID000433,Berberis lycium,exact_normalized,42,true
+Eulaliopsis binata,,,unmatched,0,false
+Peucedanum graveolens,,,unmatched,0,false
+Buchanania lanzan,,,unmatched,0,false
+Digitalis purpurea,IMPPAT3_PLTID001088,Digitalis purpurea,exact_normalized,46,true
+Gardenia resinifera,IMPPAT3_PLTID001430,Gardenia resinifera,exact_normalized,39,true
+Smilax ovalifolia,,,unmatched,0,false
+Jateorhiza palmata,IMPPAT3_PLTID001767,Jateorhiza palmata,exact_normalized,21,true
+Imperata cylindrica,IMPPAT3_PLTID001680,Imperata cylindrica,exact_normalized,90,true
+Actiniopteris radiata,IMPPAT3_PLTID000076,Actiniopteris radiata,exact_normalized,13,true
+Coccinia glauca,,,unmatched,0,false
+Jatropha glandulifera,IMPPAT3_PLTID001769,Jatropha glandulifera,exact_normalized,80,true
+Alocasia macrorhiza,,,unmatched,0,false
+Calotropis procera,IMPPAT3_PLTID000559,Calotropis procera,exact_normalized,303,true
+Iris nepalensis,,,unmatched,0,false
+Schrebera swietenioides,IMPPAT3_PLTID002763,Schrebera swietenioides,exact_normalized,54,true
+Carum carvi,IMPPAT3_PLTID000599,Carum carvi,exact_normalized,60,true
+Cyperus scariosus,IMPPAT3_PLTID000993,Cyperus scariosus,exact_normalized,40,true
+Tephrosia purpurea,IMPPAT3_PLTID003049,Tephrosia purpurea,exact_normalized,75,true
+Blumea erientha,,,unmatched,0,false
+Dendrophthoe falcata,IMPPAT3_PLTID001052,Dendrophthoe falcata,exact_normalized,127,true
+Ficus religiosa,IMPPAT3_PLTID001366,Ficus religiosa,exact_normalized,305,true
+Momordica cochinchinensis,IMPPAT3_PLTID002079,Momordica cochinchinensis,exact_normalized,36,true
+Coriandrum sativum,IMPPAT3_PLTID000825,Coriandrum sativum,exact_normalized,176,true
+Hydnocarpus kurzii,IMPPAT3_PLTID001634,Hydnocarpus kurzii,exact_normalized,61,true
+Avicennia officinalis,IMPPAT3_PLTID000386,Avicennia officinalis,exact_normalized,25,true
+Marsilea quadrifolia,IMPPAT3_PLTID002007,Marsilea quadrifolia,exact_normalized,48,true
+Tectona grandis,IMPPAT3_PLTID003041,Tectona grandis,exact_normalized,112,true
+Tamarix ericoides,,,unmatched,0,false
+Heliotropium indicum,IMPPAT3_PLTID001553,Heliotropium indicum,exact_normalized,126,true
+Alstonia scholaris,IMPPAT3_PLTID000179,Alstonia scholaris,exact_normalized,123,true
+Caesalpinia sappan,IMPPAT3_PLTID000535,Caesalpinia sappan,exact_normalized,48,true
+Butea monosperma,IMPPAT3_PLTID000524,Butea monosperma,exact_normalized,309,true
+Impatiens balsamina,IMPPAT3_PLTID001679,Impatiens balsamina,exact_normalized,72,true
+Stephania glabra,IMPPAT3_PLTID002942,Stephania glabra,exact_normalized,8,true
+Valeriana hardwickii,IMPPAT3_PLTID004034,Valeriana hardwickii,exact_normalized,34,true
+Holoptelea integrifolia,IMPPAT3_PLTID001615,Holoptelea integrifolia,exact_normalized,127,true
+Ipomoea pes-caprae,IMPPAT3_PLTID001720,Ipomoea pes-caprae,exact_normalized,70,true
+Arnebia benthamii,,,unmatched,0,false
+Balanites aegyptiaca,IMPPAT3_PLTID000394,Balanites aegyptiaca,exact_normalized,66,true
+Pterocarpus marsupium,IMPPAT3_PLTID002509,Pterocarpus marsupium,exact_normalized,177,true
+Lannea coromandelica,IMPPAT3_PLTID001834,Lannea coromandelica,exact_normalized,141,true
+Cuscuta reflexa,IMPPAT3_PLTID000938,Cuscuta reflexa,exact_normalized,157,true
+Agaricus campestris,,,unmatched,0,false
+Rosa centifolia,IMPPAT3_PLTID002629,Rosa centifolia,exact_normalized,40,true
+Salacia chinensis,IMPPAT3_PLTID002684,Salacia chinensis,exact_normalized,4,true
+Jasminum malabaricum,,,unmatched,0,false
+Carissa spinarum,IMPPAT3_PLTID000594,Carissa spinarum,exact_normalized,46,true
+Elephantopus scaber,IMPPAT3_PLTID001180,Elephantopus scaber,exact_normalized,168,true
+Vigna aconitifolia,IMPPAT3_PLTID003219,Vigna aconitifolia,exact_normalized,2,true
+Solanum trilobatum,IMPPAT3_PLTID002884,Solanum trilobatum,exact_normalized,22,true
+Sesamum prostratum,,,unmatched,0,false
+Cymbopogon jwarancusa,IMPPAT3_PLTID000968,Cymbopogon jwarancusa,exact_normalized,79,true
+Vigna trilobata,IMPPAT3_PLTID003223,Vigna trilobata,exact_normalized,33,true
+Colocasia esculenta,IMPPAT3_PLTID000792,Colocasia esculenta,exact_normalized,45,true
+Sterculia urens,,,unmatched,0,false
+Panicum miliaceum,IMPPAT3_PLTID002236,Panicum miliaceum,exact_normalized,5,true
+Rotula aquatica,IMPPAT3_PLTID002647,Rotula aquatica,exact_normalized,32,true
+Ficus semicordata,,,unmatched,0,false
+Leea aequata,,,unmatched,0,false
+Nelumbo nucifera,IMPPAT3_PLTID002131,Nelumbo nucifera,exact_normalized,321,true
+Allium cepa,IMPPAT3_PLTID000153,Allium cepa,exact_normalized,146,true
+Ehretia laevis,IMPPAT3_PLTID001170,Ehretia laevis,exact_normalized,28,true
+Cardiospermum halicacabum,IMPPAT3_PLTID000590,Cardiospermum halicacabum,exact_normalized,210,true
+Plantago ovata,IMPPAT3_PLTID002392,Plantago ovata,exact_normalized,65,true
+Diospyros peregrina,,,unmatched,0,false
+Flacourtia jangomas,IMPPAT3_PLTID001375,Flacourtia jangomas,exact_normalized,57,true
+Mitragyna rotundifolia,,,unmatched,0,false
+Plectranthus barbatus,IMPPAT3_PLTID002396,Plectranthus barbatus,exact_normalized,1,true
+Capparis roxburghii,,,unmatched,0,false
+Ziziphus mauritiana,,,unmatched,0,false
+Syzygium cumini,IMPPAT3_PLTID002999,Syzygium cumini,exact_normalized,64,true
+Pavonia odorata,IMPPAT3_PLTID002265,Pavonia odorata,exact_normalized,42,true
+Adiantum incisum,IMPPAT3_PLTID000089,Adiantum incisum,exact_normalized,28,true
+Vitex peduncularis,IMPPAT3_PLTID003238,Vitex peduncularis,exact_normalized,10,true
+Alangium begonifolium,,,unmatched,0,false
+Ficus altissima,,,unmatched,0,false
+Brassica rapa,IMPPAT3_PLTID000491,Brassica rapa,exact_normalized,99,true
+Plantago arenaria,,,unmatched,0,false
+Piper crassipes,,,unmatched,0,false
+Nymphoides macrospermum,IMPPAT3_PLTID003660,Nymphoides macrospermum,exact_normalized,9,true
+Careya herbacea,,,unmatched,0,false
+Ficus lacor,IMPPAT3_PLTID001362,Ficus lacor,exact_normalized,20,true
+Garuga pinnata,IMPPAT3_PLTID001431,Garuga pinnata,exact_normalized,67,true
+Ampelocissus araneosa,,,unmatched,0,false
+Dolichos lablab,,,unmatched,0,false
+Momordica dioica,IMPPAT3_PLTID002081,Momordica dioica,exact_normalized,144,true
+Curcuma longa,IMPPAT3_PLTID000933,Curcuma longa,exact_normalized,263,true
+Holarrhena pubescens,IMPPAT3_PLTID001612,Holarrhena pubescens,exact_normalized,314,true
+Morinda pubescens,IMPPAT3_PLTID003648,Morinda pubescens,exact_normalized,45,true
+Hygroryza aristata,IMPPAT3_PLTID001645,Hygroryza aristata,exact_normalized,23,true
+Dryobalanops aromatica,,,unmatched,0,false
+Amomum subulatum,IMPPAT3_PLTID000203,Amomum subulatum,exact_normalized,115,true
+Sarcostemma acidum,IMPPAT3_PLTID002732,Sarcostemma acidum,exact_normalized,11,true
+Dipterocarpus alatus,,,unmatched,0,false
+Glycyrrhiza glabra,IMPPAT3_PLTID001479,Glycyrrhiza glabra,exact_normalized,198,true
+Elaeocarpus sphaericus,,,unmatched,0,false
+Portulaca quadrifida,IMPPAT3_PLTID002456,Portulaca quadrifida,exact_normalized,6,true
+Ceropegia bulbosa,,,unmatched,0,false
+Blumea lacera,IMPPAT3_PLTID000465,Blumea lacera,exact_normalized,68,true
+Cissampelos pareira,IMPPAT3_PLTID000712,Cissampelos pareira,exact_normalized,194,true
+Spondias pinnata,IMPPAT3_PLTID002927,Spondias pinnata,exact_normalized,37,true
+Pistacia lentiscus,IMPPAT3_PLTID002378,Pistacia lentiscus,exact_normalized,15,true
+Basella rubra,,,unmatched,0,false
+Elettaria cardamomum,IMPPAT3_PLTID001181,Elettaria cardamomum,exact_normalized,91,true
+Cichorium endivia,IMPPAT3_PLTID000694,Cichorium endivia,exact_normalized,11,true
+Thespesia lampas,IMPPAT3_PLTID003090,Thespesia lampas,exact_normalized,12,true
+Aerva lanata,IMPPAT3_PLTID000099,Aerva lanata,exact_normalized,64,true
+Paederia foetida,IMPPAT3_PLTID002222,Paederia foetida,exact_normalized,59,true
+Alpinia zerumbet,IMPPAT3_PLTID000175,Alpinia zerumbet,exact_normalized,8,true
+Dalbergia lanceolaria,IMPPAT3_PLTID001004,Dalbergia lanceolaria,exact_normalized,22,true
+Mandragora autumnalis,,,unmatched,0,false
+Amaranthus tricolor,IMPPAT3_PLTID000193,Amaranthus tricolor,exact_normalized,46,true
+Brassica campestris,,,unmatched,0,false
+Trachyspermum roxburghianum,IMPPAT3_PLTID003120,Trachyspermum roxburghianum,exact_normalized,26,true
+Carthamus tinctorius,IMPPAT3_PLTID000598,Carthamus tinctorius,exact_normalized,169,true
+Asparagus sarmentosus,,,unmatched,0,false
+Canthium coromandelicum,IMPPAT3_PLTID000576,Canthium coromandelicum,exact_normalized,31,true
+Abies pindrow,IMPPAT3_PLTID000005,Abies pindrow,exact_normalized,24,true
+Thysanolaena procera,,,unmatched,0,false
+Fumaria vaillantii,IMPPAT3_PLTID001402,Fumaria vaillantii,exact_normalized,27,true
+Euonymus tingens,IMPPAT3_PLTID001283,Euonymus tingens,exact_normalized,9,true
+Nymphaea alba,IMPPAT3_PLTID002153,Nymphaea alba,exact_normalized,116,true
+Zingiber mioga,,,unmatched,0,false
+Dioscorea bulbifera,IMPPAT3_PLTID001095,Dioscorea bulbifera,exact_normalized,74,true
+Cordia dichotoma,IMPPAT3_PLTID000821,Cordia dichotoma,exact_normalized,113,true
+Delphinium denudatum,IMPPAT3_PLTID001036,Delphinium denudatum,exact_normalized,81,true
+Amaranthus caudatus,IMPPAT3_PLTID000189,Amaranthus caudatus,exact_normalized,29,true
+Enhydra fluctuans,,,unmatched,0,false
+Eulophia herbacea,,,unmatched,0,false
+Hemidesmus indicus,IMPPAT3_PLTID001566,Hemidesmus indicus,exact_normalized,274,true
+Scirpus grossus,,,unmatched,0,false
+Rheum nobile,,,unmatched,0,false
+Madhuca indica,,,unmatched,0,false
+Euphorbia nivulia,IMPPAT3_PLTID001305,Euphorbia nivulia,exact_normalized,80,true
+Ailanthus excelsa,IMPPAT3_PLTID000123,Ailanthus excelsa,exact_normalized,99,true
+Peristrophe paniculata,,,unmatched,0,false
+Ougeinia oojeinensis,,,unmatched,0,false
+Ipomoea marginata,,,unmatched,0,false
+Premna barbata,,,unmatched,0,false
+Cassia tora,,,unmatched,0,false
+Litsea cubeba,IMPPAT3_PLTID001907,Litsea cubeba,exact_normalized,76,true
+Viscum album,IMPPAT3_PLTID003231,Viscum album,exact_normalized,15,true
+Cayratia trifolia,IMPPAT3_PLTID000627,Cayratia trifolia,exact_normalized,45,true
+Swertia alata,IMPPAT3_PLTID002973,Swertia alata,exact_normalized,2,true
+Myrica esculenta,IMPPAT3_PLTID002112,Myrica esculenta,exact_normalized,82,true
+Polygonatum verticillatum,IMPPAT3_PLTID002436,Polygonatum verticillatum,exact_normalized,18,true
+Celosia cristata,,,unmatched,0,false
+Amomum aromaticum,IMPPAT3_PLTID000202,Amomum aromaticum,exact_normalized,12,true
+Rheum australe,IMPPAT3_PLTID002574,Rheum australe,exact_normalized,27,true
+Caesalpinia crista,,,unmatched,0,false
+Saccharum spontaneum,IMPPAT3_PLTID004145,Saccharum spontaneum,exact_normalized,59,true
+Plantago major,IMPPAT3_PLTID002391,Plantago major,exact_normalized,44,true
+Malus pumila,IMPPAT3_PLTID001983,Malus pumila,exact_normalized,15,true
+Thysanolaena maxima,,,unmatched,0,false
+Ziziphus nummularia,IMPPAT3_PLTID003299,Ziziphus nummularia,exact_normalized,14,true
+Eclipta prostrata,IMPPAT3_PLTID001167,Eclipta prostrata,exact_normalized,323,true
+Cichorium intybus,IMPPAT3_PLTID000695,Cichorium intybus,exact_normalized,127,true
+Justicia gendarussa,IMPPAT3_PLTID001787,Justicia gendarussa,exact_normalized,105,true
+Sphaeranthus hirtus,,,unmatched,0,false
+Cannabis sativa,IMPPAT3_PLTID000573,Cannabis sativa,exact_normalized,222,true
+Nigella sativa,IMPPAT3_PLTID002150,Nigella sativa,exact_normalized,135,true
+Cassytha filiformis,IMPPAT3_PLTID000616,Cassytha filiformis,exact_normalized,42,true
+Cymbopogon martini,IMPPAT3_PLTID000970,Cymbopogon martini,exact_normalized,79,true
+Citrus medica,IMPPAT3_PLTID000728,Citrus medica,exact_normalized,154,true
+Adansonia digitata,IMPPAT3_PLTID000081,Adansonia digitata,exact_normalized,46,true
+Balsamodendron stocksiana,,,unmatched,0,false
+Eucalyptus globulus,IMPPAT3_PLTID001255,Eucalyptus globulus,exact_normalized,159,true
+Cocos nucifera,IMPPAT3_PLTID000775,Cocos nucifera,exact_normalized,120,true
+Eleusine coracana,IMPPAT3_PLTID001182,Eleusine coracana,exact_normalized,47,true
+Embelia ribes,IMPPAT3_PLTID001193,Embelia ribes,exact_normalized,177,true
+Solanum dulcamara,IMPPAT3_PLTID002866,Solanum dulcamara,exact_normalized,27,true
+Urena lobata,IMPPAT3_PLTID003170,Urena lobata,exact_normalized,25,true
+Acacia sinuata,IMPPAT3_PLTID003459,Acacia sinuata,exact_normalized,51,true
+Gnetum montanum,IMPPAT3_PLTID001485,Gnetum montanum,exact_normalized,5,true
+Crinum latifolium,IMPPAT3_PLTID000862,Crinum latifolium,exact_normalized,29,true
+Symplocos racemosa,IMPPAT3_PLTID002992,Symplocos racemosa,exact_normalized,64,true
+Solanum melongena,IMPPAT3_PLTID002875,Solanum melongena,exact_normalized,38,true
+Bergenia ciliata,IMPPAT3_PLTID000441,Bergenia ciliata,exact_normalized,109,true
+Strychnos nux-vomica,IMPPAT3_PLTID002963,Strychnos nux-vomica,exact_normalized,106,true
+Kalanchoe pinnata,,,unmatched,0,false
+Blepharis sindica,,,unmatched,0,false
+Rivea ornata,,,unmatched,0,false
+Helianthus annuus,IMPPAT3_PLTID001542,Helianthus annuus,exact_normalized,120,true
+Hygrophila schulli,,,unmatched,0,false
+Corchorus olitorius,IMPPAT3_PLTID000819,Corchorus olitorius,exact_normalized,35,true
+Artocarpus heterophyllus,IMPPAT3_PLTID000345,Artocarpus heterophyllus,exact_normalized,86,true
+Zea mays,IMPPAT3_PLTID003288,Zea mays,exact_normalized,18,true
+Sapindus mukorossi,IMPPAT3_PLTID002726,Sapindus mukorossi,exact_normalized,13,true
+Oroxylum indicum,IMPPAT3_PLTID002206,Oroxylum indicum,exact_normalized,307,true
+Withania somnifera,IMPPAT3_PLTID003254,Withania somnifera,exact_normalized,124,true
+Annona squamosa,IMPPAT3_PLTID000249,Annona squamosa,exact_normalized,114,true
+Campsis grandiflora,IMPPAT3_PLTID000564,Campsis grandiflora,exact_normalized,4,true
+Costus speciosus,,,unmatched,0,false
+Ophiorrhiza mungos,IMPPAT3_PLTID002197,Ophiorrhiza mungos,exact_normalized,38,true
+Altingia excelsa,IMPPAT3_PLTID000185,Altingia excelsa,exact_normalized,15,true
+Bombax ceiba,IMPPAT3_PLTID000477,Bombax ceiba,exact_normalized,179,true
+Uraria picta,,,unmatched,0,false
+Streblus asper,IMPPAT3_PLTID002952,Streblus asper,exact_normalized,73,true
+Trigonella foenum-graecum,IMPPAT3_PLTID003147,Trigonella foenum-graecum,exact_normalized,65,true
+Sida retusa,,,unmatched,0,false
+Ferula galbaniflua,IMPPAT3_PLTID001348,Ferula galbaniflua,exact_normalized,13,true
+Chloroxylon swietenia,IMPPAT3_PLTID000675,Chloroxylon swietenia,exact_normalized,38,true
+Hibiscus cannabinus,IMPPAT3_PLTID001592,Hibiscus cannabinus,exact_normalized,26,true
+Euphorbia thomsoniana,IMPPAT3_PLTID004134,Euphorbia thomsoniana,exact_normalized,0,false
+Grewia hirsuta,,,unmatched,0,false
+Baliospermum solanifolium,IMPPAT3_PLTID000398,Baliospermum solanifolium,exact_normalized,78,true
+Luffa acutangula,IMPPAT3_PLTID001931,Luffa acutangula,exact_normalized,145,true
+Strychnos potatorum,IMPPAT3_PLTID002964,Strychnos potatorum,exact_normalized,62,true
+Leucas cephalotes,IMPPAT3_PLTID001870,Leucas cephalotes,exact_normalized,156,true
+Trichosanthes anguina,,,unmatched,0,false
+Hygrophila ringens,,,unmatched,0,false
+Grewia subinaequalis,,,unmatched,0,false
+Smilax zeylanica,IMPPAT3_PLTID002858,Smilax zeylanica,exact_normalized,16,true
+Merremia emarginata,IMPPAT3_PLTID002043,Merremia emarginata,exact_normalized,59,true
+Crinum viviparum,IMPPAT3_PLTID000864,Crinum viviparum,exact_normalized,39,true
+Alpinia galanga,IMPPAT3_PLTID000171,Alpinia galanga,exact_normalized,70,true
+Abutilon indicum,IMPPAT3_PLTID000010,Abutilon indicum,exact_normalized,136,true
+Styrax officinalis,IMPPAT3_PLTID002968,Styrax officinalis,exact_normalized,2,true
+Amorphophallus bulbifer,,,unmatched,0,false
+Zanthoxylum rhetsa,IMPPAT3_PLTID003286,Zanthoxylum rhetsa,exact_normalized,41,true
+Cinchona succirubra,,,unmatched,0,false
+Blumea balsamifera,IMPPAT3_PLTID000461,Blumea balsamifera,exact_normalized,36,true
+Piper sylvaticum,IMPPAT3_PLTID002371,Piper sylvaticum,exact_normalized,3,true
+Grewia tiliaefolia,,,unmatched,0,false
+Cydonia oblonga,IMPPAT3_PLTID000958,Cydonia oblonga,exact_normalized,40,true
+Piper retrofractum,IMPPAT3_PLTID002368,Piper retrofractum,exact_normalized,17,true
+Angelica glauca,IMPPAT3_PLTID000237,Angelica glauca,exact_normalized,68,true
+Woodfordia fruticosa,IMPPAT3_PLTID003257,Woodfordia fruticosa,exact_normalized,66,true
+Citrullus lanatus,IMPPAT3_PLTID000720,Citrullus lanatus,exact_normalized,53,true
+Jasminum grandiflorum,IMPPAT3_PLTID001759,Jasminum grandiflorum,exact_normalized,87,true
+Delonix elata,IMPPAT3_PLTID001031,Delonix elata,exact_normalized,20,true
+Carica papaya,IMPPAT3_PLTID000592,Carica papaya,exact_normalized,206,true
+Cinnamomum wightii,IMPPAT3_PLTID004091,Cinnamomum wightii,exact_normalized,2,true
+Rheum officinale,IMPPAT3_PLTID002577,Rheum officinale,exact_normalized,17,true

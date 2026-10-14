@@ -1,0 +1,25 @@
+Combined IMPPAT + SEPASAL dataset validation
+=============================================
+
+Original plant records: 951
+Final plant records: 951
+SEPASAL records read: 6952
+SEPASAL records attached: 6952
+SEPASAL records unassigned: 0
+Attached new_unique_association records: 6781
+Attached overlap_exact_imppat records: 171
+Plants with SEPASAL records: 157
+Duplicate SEPASAL source IDs: 0
+Authoritative match report statuses: {'unmatched': 10310868, 'exact_name': 550522, 'ambiguous': 280}
+
+Validation checks:
+- All SEPASAL records accounted for: yes
+- Plant coverage preserved: yes
+- Existing IMPPAT objects copied without modification: yes (0 content mismatches)
+- Canonical identity verified by plant_id and normalized botanical_name: yes
+- Source attribution, references, plant-part details and association statuses preserved: yes for attached records
+- RAG resources modified: no
+
+Limitations:
+- Overlap classification remains the corrected SEPASAL processor's exact-normalized-wording result; semantic equivalence is not inferred.
+- No records were removed because of similar wording.

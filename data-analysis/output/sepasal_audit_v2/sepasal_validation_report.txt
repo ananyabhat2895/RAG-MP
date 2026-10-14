@@ -1,0 +1,26 @@
+SEPASAL validation report
+=========================
+Input medicinal rows processed: 10861670
+Output enrichment records: 6952
+Matched rows: 550522
+Unmatched rows: 10310868
+Ambiguous rows: 280
+New unique associations: 6781
+Exact IMPPAT overlaps: 171
+Duplicate SEPASAL associations suppressed: 543570
+Medicinal schemas observed: 1
+Matching keys: SEPASAL TaxKey -> row-level GenEpi/NamSpec (with infraspecific fields) -> canonical botanical_name or documented botanical_synonyms; detailed join = TaxKey + Use12Text + bibliography fields.
+General tables used: sepasal_taxa.csv, sepasal_uses_specific.csv, and sepasal_uses_specific_references.csv.
+General tables not used: sepasal_references.csv, sepasal_uses_major.csv, sepasal_uses_major_references.csv.
+TaxKeys with multiple names in sepasal_taxa.csv: 3602
+Medicinal columns: TaxKey, FamName, GenEpi, NamSpec, NamSpecAuth, NamISEpi, NamISAuth, RankText, VernName, VernLang, BiblTitle, BiblAuth, BiblPublYear, BiblEd, BiblJournTitle, BiblPublisher, BiblCollation, BiblNote, BiblLang, BiblInternalNote, UTLinkTaxKey, Use12Text, USubsetText.
+Detailed reference columns: TaxKey, Use12Key, Use12Text, UTGKey, Use34Cat, UseCatText, Use34Code, Use34Text, BiblKey, BiblType, BiblType_text, BiblAuth, BiblPublYear, BiblTitle, BiblEd, BiblJournTitle, BiblPublisher, BiblCollation, BiblNote, BiblLang, BiblInternalNote.
+Taxa columns: TaxKey, FamKey, FamName, GenKey, GenEpi, NamKey, NamSpec, NamSpecAuth, RankText, NamISEpi, NamISAuth, NamAccLink.
+Checks:
+- Output records are valid JSONL: yes
+- Every output record has CC BY 4.0 attribution: yes
+- Original source files, canonical catalogue and IMPPAT output were read-only: yes
+Limitations:
+- SEPASAL medicinal subset rows are categorical; detailed values are joined only when the taxon, category and bibliography keys agree.
+- No fuzzy, vernacular, family-only, or guessed synonym matches are used.
+- IMPPAT overlap is conservative exact normalized wording, not a clinical or semantic equivalence judgment.
