@@ -1,0 +1,13 @@
+metric,count
+medicinal_input_records,951
+enriched_input_records,951
+matched_records,951
+matched_by_plant_id,951
+matched_by_exact_botanical_name,0
+matched_by_verified_synonym,0
+unmatched_medicinal_records,0
+unmatched_enriched_records,0
+ambiguous_medicinal_records,0
+ambiguous_enriched_records,0
+ambiguous_matches,0
+final_combined_records,951
