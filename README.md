@@ -1,53 +1,142 @@
-RAG-MP
-======
+# Data extraction and final CSV pipeline
 
-DataExtraction — Brief overview
--------------------------------
+This guide covers the workflow in order: install the Python dependencies,
+refresh medicinal-plant data from the website, validate and normalize it, then
+combine it with the enriched dataset to produce the CSV for later chunking.
+Run commands from the repository root in PowerShell.
 
-This project extracts plant identity information, detail pages, and shloka images/text from medicinalplants.in and related sources. Below is a concise description of the datasets produced and how they are created.
+## 1. Set up Python and install dependencies
 
-- **Identity CSV:** DataExtraction/names/identity.csv — Raw table scraped from the Sanskrit authentication site. Contains full rows (e.g., `Ref. Drug Name`, `Botanical correlations`, `Status of correlation`, `Discussions on its identity by experts`, `References`). Produced by `DataExtraction/names/extract.py` (Playwright DOM scraping of an iframe and pagination).
+Use Python 3.10 or later. Create and activate a virtual environment:
 
-- **Names CSV:** DataExtraction/names/names.csv — Extracted `Botanical correlations` column (one plant name per row). Produced by `DataExtraction/names/names.py` which reads `identity.csv` and writes the filtered column.
-
-- **Search results (links):** DataExtraction/links/links.csv — For each plant name: `Status` (Found / Not Found / Error) and `Detail URL` (first matching result). Produced by `DataExtraction/links/links.py` which posts plant names to the site search endpoint and parses the HTML response.
-
-- **Parsed plant details (JSON):** DataExtraction/parser/plant_details.json — Structured output for each plant detail page including headings, botanical synonyms, vernacular names, bibliography, distribution, image URLs, and source URL. Produced by `DataExtraction/parser/parser.py` which requests each `Detail URL` and parses it with BeautifulSoup.
-
-- **Parsed plant details (CSV):** DataExtraction/parser/plant_details.csv — Flattened CSV export of the JSON results for spreadsheet analysis. Also produced by `DataExtraction/parser/parser.py` (conversion/flattening step).
-
-- **Normalized plant dataset:** DataExtraction/normalized/plants.jsonl — Canonical plant records grouped using the source `xplant_id` extracted from authoritative plant detail URLs. Each canonical plant has a deterministic `plant_id`; source URLs, source record IDs, and raw/source values are retained for provenance. Produced by `DataExtraction/normalize_plants.py` and checked by `DataExtraction/normalized/validate_normalized.py`.
-
-- **Semantic plant chunks:** DataExtraction/chunks/ — JSON chunks produced by `DataExtraction/chunk_plants.py`, with `DataExtraction/chunks/index.json` mapping each plant to its chunks. Plant data is split into meaningful semantic sections while preserving semantic boundaries: `identification`, `botanical_synonyms`, `vernacular_names`, `systems_of_medicine`, `bibliography`, `distribution`, and `images`. Every chunk has a deterministic unique `chunk_id` and retains the corresponding `plant_id`, so all chunks for the same plant remain linked. Chunk metadata and provenance are preserved. The chunker does not arbitrarily split text by character count; structured sections are split only at valid semantic boundaries where refinement is needed.
-
-- **Chunk validation:** DataExtraction/validate_chunks.py — Validates chunk IDs, plant IDs, metadata consistency, content, provenance, coverage, and index integrity. The current verified dataset contains 951 canonical plants and 6,290 total chunks, with validation status **PASS**; these counts may change if the dataset is regenerated.
-
-- **Shlokas images:** DataExtraction/shlokas/images/ — Captured page image files saved by `DataExtraction/shlokas/parser.py` using Playwright to listen to network responses while visiting the shloka page.
-
-- **Shlokas OCR text:** DataExtraction/shlokas/text/ — Per-image `.txt` files produced by `DataExtraction/shlokas/ocr_parser.py`. The script runs EasyOCR on each image, filters lines containing Latin letters, and writes text files.
-
-How to regenerate
-------------------
-Run the scripts (from project root) in this order to reproduce the extracted data:
-
-```bash
-python DataExtraction/names/extract.py
-python DataExtraction/names/names.py
-python DataExtraction/links/links.py
-python DataExtraction/parser/parser.py
-python DataExtraction/normalize_plants.py
-python DataExtraction/normalized/validate_normalized.py
-python DataExtraction/chunk_plants.py
-python DataExtraction/validate_chunks.py
-python DataExtraction/shlokas/parser.py
-python DataExtraction/shlokas/ocr_parser.py
+```powershell
+py -3 -m venv .venv
+.\.venv\Scripts\Activate.ps1
+python -m pip install --upgrade pip
 ```
 
-Dependencies
-------------
-- Python packages: `pandas`, `requests`, `beautifulsoup4`, `playwright`, `tqdm`, `easyocr`.
-- Playwright requires browser install: `playwright install` (after `pip install playwright`).
+Install the libraries used by the medicinal-plant web extraction scripts:
 
-Contact / Notes
----------------
-If you want a more detailed table of columns, field mappings, or improvements (rate limiting, retries, headless option, output normalization), say which part to expand.
+```powershell
+python -m pip install pandas requests beautifulsoup4 tqdm playwright
+python -m playwright install chromium
+```
+
+The identity and shloka image extractors use a visible Chromium browser.
+Approve any browser prompts and follow the website's access rules. OCR is
+optional and is not required to generate the plant or combined CSVs. To run
+the optional OCR step, install EasyOCR separately:
+
+```powershell
+python -m pip install easyocr
+```
+
+## 2. Know which existing inputs are used
+
+The normal web refresh uses the saved botanical names list at
+`Data/medicinalPlants/raw/names/names.csv` as its search terms. It refreshes
+the links and plant details from the website; it does not refresh the identity
+table unless you explicitly request that in step 3. The final merge also uses
+the existing enriched dataset at
+`Data/data-analysis/processed/enriched_plants_combined.jsonl`. You do not need
+to check whether generated output files exist before running the pipeline.
+
+## 3. Extract and normalize medicinal-plant data
+
+Run the domain pipeline with its web-extraction option:
+
+```powershell
+python Data\medicinalPlants\run_pipeline.py --extract-web
+```
+
+This command runs the following steps in order:
+
+1. Search the website for each botanical name in the existing names CSV and
+   write search results to `Data/medicinalPlants/raw/links/links.csv`.
+2. Fetch and parse the linked plant detail pages into
+   `Data/medicinalPlants/raw/parser/`.
+3. Normalize the extracted plant records into
+   `Data/medicinalPlants/normalized/plants.jsonl`.
+4. Validate the normalized records.
+5. Rebuild the plant CSV, enriched CSV, and final combined outputs (steps 4
+   through 6 below).
+
+This command always refreshes and overwrites the existing links, parsed
+details, normalized dataset, and generated CSV/combined output files; no
+pre-run file-existence check or extra overwrite flag is needed. A successful
+but smaller scrape also replaces the old records. Empty or wholly failed
+extractions still stop the pipeline so a temporary website failure does not
+replace good data with an empty dataset.
+
+By default, the pipeline uses the existing names list. To also re-scrape the
+identity table and replace the names list before searching for detail pages,
+run:
+
+```powershell
+python Data\medicinalPlants\run_pipeline.py --extract-web --refresh-identity-names
+```
+
+This overwrites `identity.csv` and `names.csv` too. The refreshed identity
+source has fewer entries than the preserved names list, so this option can
+reduce the number of plants searched; use the default command if you want to
+keep the current list of names.
+
+## 4. Use the existing enriched dataset
+
+The final merge uses
+`Data/data-analysis/processed/enriched_plants_combined.jsonl`, which is
+already in the repository. It includes the available IMPPAT and SEPASAL
+enrichment fields. The original raw IMPPAT and SEPASAL source datasets are not
+available in this project, and this workflow does not download or fabricate
+them. Therefore, re-running the web extraction does not regenerate the
+enrichment itself.
+
+If you already have valid raw IMPPAT and SEPASAL inputs, the analysis scripts
+are in `Data/data-analysis/scripts/`; see their `--help` output before running
+them. Once the processed enriched JSONL is available, export and merge it
+with the current normalized medicinal-plant records using:
+
+```powershell
+python Data\data-analysis\run_pipeline.py
+```
+
+This analysis-folder runner does not scrape or rerun enrichment; it rebuilds
+the exports and combined dataset from the two processed JSONL inputs.
+
+## 5. Final CSV for later chunking
+
+The web-extraction command in step 3 already runs validation and regenerates
+these outputs. The final CSV intended as the input to a later chunking step is:
+
+```text
+Data/combined/medicinal_plants_combined.csv
+```
+
+Other generated files are:
+
+- `Data/medicinalPlants/csv/medicinal_plants.csv` — normalized medicinal
+  plants.
+- `Data/data-analysis/csv/enriched_plants.csv` — the existing enriched
+  records.
+- `Data/combined/medicinal_plants_combined.jsonl` — lossless combined records.
+- `Data/combined/merge_report.csv` — input, match, unmatched, ambiguous, and
+  final record counts.
+
+To rebuild the exports and final combined files later without scraping (this
+also overwrites existing generated outputs), run:
+
+```powershell
+python Data\run_data_pipeline.py --force
+```
+
+The merge tries unique plant IDs first, then exact normalized botanical names,
+then verified botanical synonyms. Ambiguous or unmatched records are retained
+instead of being merged speculatively. The combined CSV keeps the original
+medicinal and enriched records in separate JSON-encoded columns so their
+fields are not lost. Nested cells can be large; JSONL is the lossless
+alternative if a spreadsheet application cannot handle a CSV cell.
+
+This pipeline prepares data for chunking but does **not** create chunks or
+embeddings. The preserved shloka assets are images and OCR text, not verified
+Sanskrit shloka records linked to individual plants, so they are not added as
+plant records to the combined CSV.
