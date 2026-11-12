@@ -131,14 +131,7 @@ export function useChat() {
       timestamp: nowIso
     };
 
-    // Prepare previous history for the RAG service
     const existingMessages = currentChat ? currentChat.messages : [];
-    const conversationHistory = existingMessages
-      .filter((m) => !m.isError)
-      .map((m) => ({
-        role: m.sender === 'user' ? 'user' : 'assistant',
-        content: m.text
-      }));
 
     // Optimistically update conversation with user message
     const updatedMessagesWithUser = [...existingMessages, userMessage];
@@ -154,11 +147,7 @@ export function useChat() {
     setIsLoading(true);
 
     try {
-      const response = await sendBotanicalMessage(
-        trimmedText,
-        conversationHistory,
-        activeProject || DEFAULT_PROJECT.id
-      );
+      const response = await sendBotanicalMessage(trimmedText);
 
       const assistantMessage = {
         id: `msg_asst_${Date.now() + 1}`,
@@ -186,7 +175,9 @@ export function useChat() {
         id: `msg_err_${Date.now() + 1}`,
         sender: 'assistant',
         isError: true,
-        text: 'Something went wrong while processing your question. Please try again.',
+        text: err instanceof Error
+          ? err.message
+          : 'Something went wrong while processing your question. Please try again.',
         sources: [],
         timestamp: new Date().toISOString()
       };
