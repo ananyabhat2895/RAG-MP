@@ -10,6 +10,7 @@ external-data/
 DataExtraction/chunks/
 DataExtraction/chunks_enriched/
 DataExtraction/chunks_combined_test/
+/Chunk/chunks/
 
 # Local/debug outputs
 comparison_output/
@@ -19,6 +20,8 @@ comparison_output/
 /vector_db_enriched/
 /vector_db_test_ferula_20261008_1352/
 /vector_db_combined_test/
+/chroma_db-*/
+/Embed/chroma_db/
 
 # Large generated SEPASAL reports
 data-analysis/output/sepasal/sepasal_name_match_report.csv
@@ -28,3 +31,5 @@ data-analysis/output/sepasal_audit_v2/sepasal_name_match_report.csv
 data-analysis/external-claims-pilot/expanded/cache/
 data-analysis/external-claims-pilot/expanded/approved_claims.jsonl
 data-analysis/external-claims-pilot/expanded/candidate_claims.jsonl
+
+.env

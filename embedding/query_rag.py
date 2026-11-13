@@ -1,13 +1,18 @@
 from pathlib import Path
+import os
+
 import chromadb
 import ollama
+from dotenv import load_dotenv
+from openai import OpenAI
 
 BASE_DIR = Path(__file__).resolve().parent.parent
+load_dotenv(BASE_DIR / ".env")
 VECTOR_DB_DIR = BASE_DIR / "vector_db"
 
 COLLECTION_NAME = "medicinal_plants"
 EMBEDDING_MODEL = "qwen3-embedding:0.6b"
-LLM_MODEL = "qwen3:8b"
+LLM_MODEL = "nvidia/nemotron-3-ultra-550b-a55b:free"
 TOP_K = 5
 
 client = chromadb.PersistentClient(path=str(VECTOR_DB_DIR))
@@ -80,6 +85,21 @@ USER QUESTION:
 
 ANSWER:
 """
+
+    api_key = os.getenv("OPENROUTER_API_KEY")
+    if api_key:
+        client = OpenAI(
+            api_key=api_key,
+            base_url="https://openrouter.ai/api/v1",
+        )
+        response = client.chat.completions.create(
+            model=LLM_MODEL,
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.1,
+            max_tokens=512,
+        )
+        content = response.choices[0].message.content
+        return content.strip() if isinstance(content, str) else str(content or "")
 
     response = ollama.chat(
         model=LLM_MODEL,
